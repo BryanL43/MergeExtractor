@@ -1,0 +1,535 @@
+[
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000359:0001.txt",
+        "_score": 12.336863,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 1,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4",
+            "adsh": "0001012870-01-000359",
+            "film_num": [
+                "1523764"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "S-4",
+            "file_description": "FORM S-4",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000987:0001.txt",
+        "_score": 12.320691,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 1,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-26",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4/A",
+            "adsh": "0001012870-01-000987",
+            "film_num": [
+                "1554514"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "S-4/A",
+            "file_description": "PRE-EFFECTIVE AMENDMENT #1 TO FORM S-4",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000359:0009.txt",
+        "_score": 11.928407,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 9,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4",
+            "adsh": "0001012870-01-000359",
+            "film_num": [
+                "1523764"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-99.2",
+            "file_description": "FORM OF PRIME RESPONSE PROXY",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000987:0009.txt",
+        "_score": 11.903196,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 9,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-26",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4/A",
+            "adsh": "0001012870-01-000987",
+            "film_num": [
+                "1554514"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-99.2",
+            "file_description": "FORM OF PRIME RESPONSE PROXY",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000359:0010.txt",
+        "_score": 11.316155,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 10,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4",
+            "adsh": "0001012870-01-000359",
+            "film_num": [
+                "1523764"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-99.3",
+            "file_description": "CONSENT OF THOMAS WEISEL PARTNERS LLC",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000987:0004.txt",
+        "_score": 10.951775,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 4,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-26",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4/A",
+            "adsh": "0001012870-01-000987",
+            "film_num": [
+                "1554514"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-8.2",
+            "file_description": "TAX OPINION OF HALE AND DORR LLP",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000359:0007.txt",
+        "_score": 10.861734,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 7,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4",
+            "adsh": "0001012870-01-000359",
+            "film_num": [
+                "1523764"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-23.3",
+            "file_description": "CONSENT OF INDEPENDENT ACCOUNTANTS (PRIME RESPONSE)",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000359:0011.txt",
+        "_score": 9.675119,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 11,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4",
+            "adsh": "0001012870-01-000359",
+            "film_num": [
+                "1523764"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-99.4",
+            "file_description": "CONSENT OF ROBERTSON STEPHENS, INC",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000987:0007.txt",
+        "_score": 9.67311,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 7,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-26",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4/A",
+            "adsh": "0001012870-01-000987",
+            "film_num": [
+                "1554514"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-23.3",
+            "file_description": "CONSENT OF PRICEWATERHOUSECOOPERS LLP",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000987:0002.txt",
+        "_score": 9.461567,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 2,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-26",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4/A",
+            "adsh": "0001012870-01-000987",
+            "film_num": [
+                "1554514"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-5.1",
+            "file_description": "OPINION OF COOLEY GODWARD LLP",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000359:0008.txt",
+        "_score": 9.431725,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 8,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4",
+            "adsh": "0001012870-01-000359",
+            "film_num": [
+                "1523764"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-99.1",
+            "file_description": "FORM OF CHORDIANT PROXY",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000987:0008.txt",
+        "_score": 9.393603,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 8,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-26",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4/A",
+            "adsh": "0001012870-01-000987",
+            "film_num": [
+                "1554514"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-99.1",
+            "file_description": "FORM OF CHORDIANT PROXY",
+            "inc_states": [],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0001012870-01-000987:0003.txt",
+        "_score": 8.883597,
+        "_source": {
+            "ciks": [
+                "0001042134"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54856"
+            ],
+            "display_names": [
+                "CHORDIANT SOFTWARE INC  (CIK 0001042134)"
+            ],
+            "xsl": null,
+            "sequence": 3,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-26",
+            "biz_states": [
+                "CA"
+            ],
+            "sics": [
+                "7372"
+            ],
+            "form": "S-4/A",
+            "adsh": "0001012870-01-000987",
+            "film_num": [
+                "1554514"
+            ],
+            "biz_locations": [
+                "Cupertino, CA"
+            ],
+            "file_type": "EX-8.1",
+            "file_description": "TAX OPINION OF COOLEY GODWARD LLP",
+            "inc_states": [],
+            "items": []
+        }
+    }
+]
