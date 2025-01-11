@@ -1,0 +1,4 @@
+Sample 1: https://www.sec.gov/Archives/edgar/data/1267602/000110465924082352/tm2419772-1_prem14a.htm
+Sample 2: None, should be faulty data.
+Sample 3: https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+Sample 4: https://www.sec.gov/Archives/edgar/data/1730168/000114036122026160/ny20004409x1_s4.htm
