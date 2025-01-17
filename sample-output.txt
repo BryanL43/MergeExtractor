@@ -1,911 +1,645 @@
+NO CIK FOUND FOR COMPANIES: Mediconsult.com Inc & CyBear Inc
 [
     {
         "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-d4.txt",
-        "_score": 26.954403,
+        "_id": "0000950170-01-000120:0008.txt",
+        "_score": 24.06503,
         "_source": {
             "ciks": [
-                "0000748856",
-                "0000320321"
+                "0001123337"
             ],
             "period_ending": null,
             "file_num": [
-                "005-37792"
+                "333-54926"
             ],
             "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 15,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(D)(4)",
-            "file_description": "CONFIDENTIALITY AGREEMENT, DATED 10/30/00",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-001724:d84513a2ex99-a5.txt",
-        "_score": 24.309923,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 2,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-02-23",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T/A",
-            "adsh": "0000950134-01-001724",
-            "film_num": [
-                "1553435"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(A)(5)",
-            "file_description": "PRESS RELEASE DATED FEBRUARY 23, 2001",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tscto-t.txt",
-        "_score": 24.210466,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 1,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "SC TO-T",
-            "file_description": "SCHEDULE TO",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-a1ix.txt",
-        "_score": 23.998144,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 10,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(A)(1)(IX)",
-            "file_description": "TEXT OF JOINT PRESS RELEASE OF JANUARY 18, 2001",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-a1vii.txt",
-        "_score": 22.864857,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
+                "ANDRX CORP /DE/  (CIK 0001123337)"
             ],
             "xsl": null,
             "sequence": 8,
             "root_forms": [
-                "SC TO-T"
+                "S-4"
             ],
-            "file_date": "2001-01-24",
+            "file_date": "2001-02-02",
             "biz_states": [
-                "TX"
+                "FL"
             ],
             "sics": [
-                "1311",
-                "1311"
+                "2834"
             ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
             "film_num": [
-                "1514031"
+                "1524340"
             ],
             "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
+                "Fort Lauderdale, FL"
             ],
-            "file_type": "EX-99.(A)(1)(VII)",
-            "file_description": "LETTER TO CLIENTS FROM BROKERS, DEALERS, BANKS",
+            "file_type": "EX-99.2",
+            "file_description": "EXHIBIT 99.2",
             "inc_states": [
-                "NV",
-                "TX"
+                "DE"
             ],
             "items": []
         }
     },
     {
         "_index": "edgar_file",
-        "_id": "0000950134-01-001724:d84513a2scto-ta.txt",
-        "_score": 22.225075,
+        "_id": "0000950170-01-000120:0009.txt",
+        "_score": 23.905197,
         "_source": {
             "ciks": [
-                "0000748856",
-                "0000320321"
+                "0001123337"
             ],
             "period_ending": null,
             "file_num": [
-                "005-37792"
+                "333-54926"
             ],
             "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
+                "ANDRX CORP /DE/  (CIK 0001123337)"
+            ],
+            "xsl": null,
+            "sequence": 9,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "FL"
+            ],
+            "sics": [
+                "2834"
+            ],
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
+            "film_num": [
+                "1524340"
+            ],
+            "biz_locations": [
+                "Fort Lauderdale, FL"
+            ],
+            "file_type": "EX-99.3",
+            "file_description": "EXHIBIT 99.3",
+            "inc_states": [
+                "DE"
+            ],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0000950170-01-000120:0001.txt",
+        "_score": 22.631468,
+        "_source": {
+            "ciks": [
+                "0001123337"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54926"
+            ],
+            "display_names": [
+                "ANDRX CORP /DE/  (CIK 0001123337)"
             ],
             "xsl": null,
             "sequence": 1,
             "root_forms": [
-                "SC TO-T"
+                "S-4"
             ],
-            "file_date": "2001-02-23",
+            "file_date": "2001-02-02",
             "biz_states": [
-                "TX"
+                "FL"
             ],
             "sics": [
-                "1311",
-                "1311"
+                "2834"
             ],
-            "form": "SC TO-T/A",
-            "adsh": "0000950134-01-001724",
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
             "film_num": [
-                "1553435"
+                "1524340"
             ],
             "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
+                "Fort Lauderdale, FL"
             ],
-            "file_type": "SC TO-T/A",
-            "file_description": "AMENDMENT NO. 2 TO SCHEDULE TO-T",
+            "file_type": "S-4",
+            "file_description": "PROSPECTUS",
             "inc_states": [
-                "NV",
-                "TX"
+                "DE"
             ],
             "items": []
         }
     },
     {
         "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-a1v.txt",
-        "_score": 21.722046,
+        "_id": "0000950170-01-000170:0001.txt",
+        "_score": 21.466457,
         "_source": {
             "ciks": [
-                "0000748856",
-                "0000320321"
+                "0001123337"
             ],
             "period_ending": null,
             "file_num": [
-                "005-37792"
+                "333-54926"
             ],
             "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
+                "ANDRX CORP /DE/  (CIK 0001123337)"
+            ],
+            "xsl": null,
+            "sequence": 1,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-12",
+            "biz_states": [
+                "FL"
+            ],
+            "sics": [
+                "2834"
+            ],
+            "form": "S-4/A",
+            "adsh": "0000950170-01-000170",
+            "film_num": [
+                "1534695"
+            ],
+            "biz_locations": [
+                "Fort Lauderdale, FL"
+            ],
+            "file_type": "S-4/A",
+            "file_description": null,
+            "inc_states": [
+                "DE"
+            ],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0000950170-01-000120:0006.txt",
+        "_score": 20.10252,
+        "_source": {
+            "ciks": [
+                "0001123337"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54926"
+            ],
+            "display_names": [
+                "ANDRX CORP /DE/  (CIK 0001123337)"
             ],
             "xsl": null,
             "sequence": 6,
             "root_forms": [
-                "SC TO-T"
+                "S-4"
             ],
-            "file_date": "2001-01-24",
+            "file_date": "2001-02-02",
             "biz_states": [
-                "TX"
+                "FL"
             ],
             "sics": [
-                "1311",
-                "1311"
+                "2834"
             ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
             "film_num": [
-                "1514031"
+                "1524340"
             ],
             "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
+                "Fort Lauderdale, FL"
             ],
-            "file_type": "EX-99.(A)(1)(V)",
-            "file_description": "NOTICE OF GUARANTEED DELIVERY FOR PREFERRED STOCK",
+            "file_type": "EX-23.3",
+            "file_description": "EXHIBIT 23.3",
             "inc_states": [
-                "NV",
-                "TX"
+                "DE"
             ],
             "items": []
         }
     },
     {
         "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-d5.txt",
-        "_score": 21.69149,
+        "_id": "0000950170-01-000170:0003.txt",
+        "_score": 19.805483,
         "_source": {
             "ciks": [
-                "0000748856",
-                "0000320321"
+                "0001123337"
             ],
             "period_ending": null,
             "file_num": [
-                "005-37792"
+                "333-54926"
             ],
             "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 16,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(D)(5)",
-            "file_description": "CONFIDENTIALITY AGREEMENT, DATED 12/18/00",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-001790:d84590a3scto-ta.txt",
-        "_score": 21.526878,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 1,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-02-28",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T/A",
-            "adsh": "0000950134-01-001790",
-            "film_num": [
-                "1556193"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "SC TO-T/A",
-            "file_description": "AMENDMENT NO. 3 TO SCHEDULE TO",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-a1iv.txt",
-        "_score": 21.21,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 5,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(A)(1)(IV)",
-            "file_description": "NOTICE OF GUARANTEED DELIVERY FOR COMMON STOCK",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-a1i.txt",
-        "_score": 21.108294,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 2,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(A)(1)(I)",
-            "file_description": "OFFER TO PURCHASE, DATED JANUARY 24, 2001",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-a1vi.txt",
-        "_score": 19.346357,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 7,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(A)(1)(VI)",
-            "file_description": "LETTER TO BROKERS, DEALERS, COMMERCIAL BANKS",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-a1x.txt",
-        "_score": 19.19037,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 11,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(A)(1)(X)",
-            "file_description": "FORM OF SUMMARY ADVERTISEMENT",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-a1ii.txt",
-        "_score": 18.704784,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
+                "ANDRX CORP /DE/  (CIK 0001123337)"
             ],
             "xsl": null,
             "sequence": 3,
             "root_forms": [
-                "SC TO-T"
+                "S-4"
             ],
-            "file_date": "2001-01-24",
+            "file_date": "2001-02-12",
             "biz_states": [
-                "TX"
+                "FL"
             ],
             "sics": [
-                "1311",
-                "1311"
+                "2834"
             ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
+            "form": "S-4/A",
+            "adsh": "0000950170-01-000170",
             "film_num": [
-                "1514031"
+                "1534695"
             ],
             "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
+                "Fort Lauderdale, FL"
             ],
-            "file_type": "EX-99.(A)(1)(II)",
-            "file_description": "LETTER OF TRANSMITTAL FOR COMMON STOCK",
+            "file_type": "EX-23.3",
+            "file_description": "EXHIBIT 23.3",
             "inc_states": [
-                "NV",
-                "TX"
+                "DE"
             ],
             "items": []
         }
     },
     {
         "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-a1iii.txt",
-        "_score": 18.58747,
+        "_id": "0000950170-01-000120:0007.txt",
+        "_score": 19.753212,
         "_source": {
             "ciks": [
-                "0000748856",
-                "0000320321"
+                "0001123337"
             ],
             "period_ending": null,
             "file_num": [
-                "005-37792"
+                "333-54926"
             ],
             "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
+                "ANDRX CORP /DE/  (CIK 0001123337)"
             ],
             "xsl": null,
-            "sequence": 4,
+            "sequence": 7,
             "root_forms": [
-                "SC TO-T"
+                "S-4"
             ],
-            "file_date": "2001-01-24",
+            "file_date": "2001-02-02",
             "biz_states": [
-                "TX"
+                "FL"
             ],
             "sics": [
-                "1311",
-                "1311"
+                "2834"
             ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
             "film_num": [
-                "1514031"
+                "1524340"
             ],
             "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
+                "Fort Lauderdale, FL"
             ],
-            "file_type": "EX-99.(A)(1)(III)",
-            "file_description": "LETTER OF TRANSMITTAL FOR PREFERRED STOCK",
+            "file_type": "EX-23.4",
+            "file_description": "EXHIBIT 23.4",
             "inc_states": [
-                "NV",
-                "TX"
+                "DE"
             ],
             "items": []
         }
     },
     {
         "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-d3.txt",
-        "_score": 13.27867,
+        "_id": "0000950170-01-000120:0003.txt",
+        "_score": 16.051323,
         "_source": {
             "ciks": [
-                "0000748856",
-                "0000320321"
+                "0001123337"
             ],
             "period_ending": null,
             "file_num": [
-                "005-37792"
+                "333-54926"
             ],
             "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
+                "ANDRX CORP /DE/  (CIK 0001123337)"
             ],
             "xsl": null,
-            "sequence": 14,
+            "sequence": 3,
             "root_forms": [
-                "SC TO-T"
+                "S-4"
             ],
-            "file_date": "2001-01-24",
+            "file_date": "2001-02-02",
             "biz_states": [
-                "TX"
+                "FL"
             ],
             "sics": [
-                "1311",
-                "1311"
+                "2834"
             ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
             "film_num": [
-                "1514031"
+                "1524340"
             ],
             "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
+                "Fort Lauderdale, FL"
             ],
-            "file_type": "EX-99.(D)(3)",
-            "file_description": "TENDER AGREEMENT, DATED 1/18/01",
+            "file_type": "EX-8.1",
+            "file_description": "EXHIBIT 8.1",
             "inc_states": [
-                "NV",
-                "TX"
+                "DE"
             ],
             "items": []
         }
     },
     {
         "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-d2.txt",
-        "_score": 12.807327,
+        "_id": "0000950159-01-000024:0001.txt",
+        "_score": 4.7165027,
         "_source": {
             "ciks": [
-                "0000748856",
-                "0000320321"
+                "0001110189"
             ],
             "period_ending": null,
             "file_num": [
-                "005-37792"
+                "333-48862"
             ],
             "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 13,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(D)(2)",
-            "file_description": "TENDER AND VOTING AGREEMENT DATED 1/18/01",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000381:h83324tex99-d1.txt",
-        "_score": 12.031976,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000320321"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC /TX/  (CIK 0000320321)"
-            ],
-            "xsl": null,
-            "sequence": 12,
-            "root_forms": [
-                "SC TO-T"
-            ],
-            "file_date": "2001-01-24",
-            "biz_states": [
-                "TX"
-            ],
-            "sics": [
-                "1311",
-                "1311"
-            ],
-            "form": "SC TO-T",
-            "adsh": "0000950134-01-000381",
-            "film_num": [
-                "1514031"
-            ],
-            "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
-            ],
-            "file_type": "EX-99.(D)(1)",
-            "file_description": "AGREEMENT AND PLAN OF MERGER DATED 1/18/01",
-            "inc_states": [
-                "NV",
-                "TX"
-            ],
-            "items": []
-        }
-    },
-    {
-        "_index": "edgar_file",
-        "_id": "0000950134-01-000671:d83804a1scto-ta.txt",
-        "_score": 22.519089,
-        "_source": {
-            "ciks": [
-                "0000748856",
-                "0000930550"
-            ],
-            "period_ending": null,
-            "file_num": [
-                "005-37792"
-            ],
-            "display_names": [
-                "TEXOIL INC /NV/  (CIK 0000748856)",
-                "OCEAN ENERGY INC  (CIK 0000930550)"
+                "I TRAX COM INC  (CIK 0001110189)"
             ],
             "xsl": null,
             "sequence": 1,
             "root_forms": [
-                "SC TO-T"
+                "S-4"
+            ],
+            "file_date": "2001-01-10",
+            "biz_states": [
+                "PA"
+            ],
+            "sics": [
+                "7389"
+            ],
+            "form": "S-4/A",
+            "adsh": "0000950159-01-000024",
+            "film_num": [
+                "1506637"
+            ],
+            "biz_locations": [
+                "Philadelphia, PA"
+            ],
+            "file_type": "S-4/A",
+            "file_description": null,
+            "inc_states": [
+                "DE"
+            ],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0000950170-01-000120:0009.txt",
+        "_score": 24.091845,
+        "_source": {
+            "ciks": [
+                "0001123337"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54926"
+            ],
+            "display_names": [
+                "ANDRX CORP /DE/  (CIK 0001123337)"
+            ],
+            "xsl": null,
+            "sequence": 9,
+            "root_forms": [
+                "S-4"
             ],
             "file_date": "2001-02-02",
             "biz_states": [
-                "TX"
+                "FL"
             ],
             "sics": [
-                "1311",
-                "1311"
+                "2834"
             ],
-            "form": "SC TO-T/A",
-            "adsh": "0000950134-01-000671",
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
             "film_num": [
-                "1523666"
+                "1524340"
             ],
             "biz_locations": [
-                "Houston, TX",
-                "Houston, TX"
+                "Fort Lauderdale, FL"
             ],
-            "file_type": "SC TO-T/A",
-            "file_description": "AMENDMENT NO. 1 TO SCHEDULE SC TO-T",
+            "file_type": "EX-99.3",
+            "file_description": "EXHIBIT 99.3",
             "inc_states": [
-                "NV",
+                "DE"
+            ],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0000950170-01-000120:0003.txt",
+        "_score": 23.663721,
+        "_source": {
+            "ciks": [
+                "0001123337"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54926"
+            ],
+            "display_names": [
+                "ANDRX CORP /DE/  (CIK 0001123337)"
+            ],
+            "xsl": null,
+            "sequence": 3,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "FL"
+            ],
+            "sics": [
+                "2834"
+            ],
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
+            "film_num": [
+                "1524340"
+            ],
+            "biz_locations": [
+                "Fort Lauderdale, FL"
+            ],
+            "file_type": "EX-8.1",
+            "file_description": "EXHIBIT 8.1",
+            "inc_states": [
+                "DE"
+            ],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0000950170-01-000120:0001.txt",
+        "_score": 23.617298,
+        "_source": {
+            "ciks": [
+                "0001123337"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54926"
+            ],
+            "display_names": [
+                "ANDRX CORP /DE/  (CIK 0001123337)"
+            ],
+            "xsl": null,
+            "sequence": 1,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "FL"
+            ],
+            "sics": [
+                "2834"
+            ],
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
+            "film_num": [
+                "1524340"
+            ],
+            "biz_locations": [
+                "Fort Lauderdale, FL"
+            ],
+            "file_type": "S-4",
+            "file_description": "PROSPECTUS",
+            "inc_states": [
+                "DE"
+            ],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0000950170-01-000170:0001.txt",
+        "_score": 23.246153,
+        "_source": {
+            "ciks": [
+                "0001123337"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54926"
+            ],
+            "display_names": [
+                "ANDRX CORP /DE/  (CIK 0001123337)"
+            ],
+            "xsl": null,
+            "sequence": 1,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-12",
+            "biz_states": [
+                "FL"
+            ],
+            "sics": [
+                "2834"
+            ],
+            "form": "S-4/A",
+            "adsh": "0000950170-01-000170",
+            "film_num": [
+                "1534695"
+            ],
+            "biz_locations": [
+                "Fort Lauderdale, FL"
+            ],
+            "file_type": "S-4/A",
+            "file_description": null,
+            "inc_states": [
+                "DE"
+            ],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0000950170-01-000120:0008.txt",
+        "_score": 21.760643,
+        "_source": {
+            "ciks": [
+                "0001123337"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54926"
+            ],
+            "display_names": [
+                "ANDRX CORP /DE/  (CIK 0001123337)"
+            ],
+            "xsl": null,
+            "sequence": 8,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "FL"
+            ],
+            "sics": [
+                "2834"
+            ],
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
+            "film_num": [
+                "1524340"
+            ],
+            "biz_locations": [
+                "Fort Lauderdale, FL"
+            ],
+            "file_type": "EX-99.2",
+            "file_description": "EXHIBIT 99.2",
+            "inc_states": [
+                "DE"
+            ],
+            "items": []
+        }
+    },
+    {
+        "_index": "edgar_file",
+        "_id": "0000950170-01-000120:0004.txt",
+        "_score": 18.525007,
+        "_source": {
+            "ciks": [
+                "0001123337"
+            ],
+            "period_ending": null,
+            "file_num": [
+                "333-54926"
+            ],
+            "display_names": [
+                "ANDRX CORP /DE/  (CIK 0001123337)"
+            ],
+            "xsl": null,
+            "sequence": 4,
+            "root_forms": [
+                "S-4"
+            ],
+            "file_date": "2001-02-02",
+            "biz_states": [
+                "FL"
+            ],
+            "sics": [
+                "2834"
+            ],
+            "form": "S-4",
+            "adsh": "0000950170-01-000120",
+            "film_num": [
+                "1524340"
+            ],
+            "biz_locations": [
+                "Fort Lauderdale, FL"
+            ],
+            "file_type": "EX-21.1",
+            "file_description": "EXHIBIT 21.1",
+            "inc_states": [
                 "DE"
             ],
             "items": []
