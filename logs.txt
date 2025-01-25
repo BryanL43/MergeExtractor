@@ -1,0 +1,8 @@
+[-] No background section found for index 11: Dallas-Semiconductor Corp & Maxim Integrated Products Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
+[-] No background section found for index 11: Dallas-Semiconductor Corp & Maxim Integrated Products Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
