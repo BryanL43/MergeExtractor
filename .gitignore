@@ -172,3 +172,5 @@ cython_debug/
 
 # Environment Directory
 MergeExtractorEnv/
+
+assistantData.json

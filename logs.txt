@@ -11,3 +11,19 @@
 	Dumping its document links:
 		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
 		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
+[2025-01-29 14:37:28] [-] No background section found for index 11: Dallas-Semiconductor Corp & Maxim Integrated Products Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
+[2025-01-29 14:39:55] [-] No background section found for index 11: Dallas-Semiconductor Corp & Maxim Integrated Products Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
+[2025-01-29 14:40:16] [-] No background section found for index 11: Dallas-Semiconductor Corp & Maxim Integrated Products Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
+[2025-01-29 14:40:51] [-] No background section found for index 11: Dallas-Semiconductor Corp & Maxim Integrated Products Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
+		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
