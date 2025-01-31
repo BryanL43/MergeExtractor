@@ -11,8 +11,8 @@ class Assistant:
         self.temp = temp;
         self.top_p = top_p;
     
-        # Create the assistant with limited parameters
-        if os.path.exists("assistantData.json"):
+        # Create/retrieve the assistant with limited parameters
+        if not os.path.exists("assistantData.json"):
             self.__assistant = self.__client.beta.assistants.create(
                 name="Document Assistant",
                 instructions="""\
@@ -27,19 +27,27 @@ class Assistant:
                 temperature=self.temp,
                 top_p = self.top_p
             );
+        
+            self.__assistant_id = self.__assistant.id;
+        
+            # Write the dictionary to a JSON file
+            data = {
+                "id": self.__assistant_id
+            };
 
-        # Write the dictionary to a JSON file
-        data = {
-            "id": self.__assistant.id
-        };
-
-        with open("assistantData.json", "w") as json_file:
-            json.dump(data, json_file);
+            with open("assistantData.json", "w") as json_file:
+                json.dump(data, json_file);
+        
+            print("Successfully created Assistant");
+        else: # If the assistant is already created
+            with open("assistantData.json", "r") as json_file:
+                data = json.load(json_file);
+                self.__assistant_id = data["id"];
     
-        print("Successfully created Assistant");
+            print("Successfully retrieved Assistant");
 
     # Find the "Background of the Merger" section
-    def findSection(self, file_path: str):
+    def extractSection(self, file_path: str):
         msg_file = self.__client.files.create(
             file=open(file_path, "rb"),
             purpose="assistants"
@@ -62,7 +70,7 @@ class Assistant:
 
         run = self.__client.beta.threads.runs.create_and_poll(
             thread_id=thread.id,
-            assistant_id=self.__assistant.id
+            assistant_id=self.__assistant_id
         )
 
         messages = list(self.__client.beta.threads.messages.list(
@@ -88,5 +96,6 @@ class Assistant:
             raise RuntimeError(f"Assistant failed with status: {run.status}");
 
     def deleteAssistant(self):
-        self.__client.beta.assistants.delete(self.__assistant.id);
+        self.__client.beta.assistants.delete(self.__assistant_id);
+        os.remove("assistantData.json");
         print("Successfully deleted Assistant");
