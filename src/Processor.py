@@ -136,6 +136,7 @@ class Processor:
         """
 
         companyNamesCut = [self.__extractFirstWord(name).lower() for name in companyNames];
+        formatDocName = f"{companyNames[0].replace(' ', '_')}_&_{companyNames[1].replace(' ', '_')}";
         
         # Locate the documents with both company names present.
         foundData = False;
@@ -158,9 +159,8 @@ class Processor:
                         if backgroundSection is None:
                             continue;
 
-                        # Write the data to a file
+                        # Write the data to a file for debugging
                         foundData = True;
-                        formatDocName = f"{companyNames[0].replace(' ', '_')}_&_{companyNames[1].replace(' ', '_')}";
                         with open(f"./DataSet/{formatDocName}.txt", "w", encoding="utf-8") as file:
                             file.write(f"URL: {futures[future]}\n\n");
                             file.write(backgroundSection);
@@ -179,3 +179,8 @@ class Processor:
             Logger.logMessage(f"\tDumping its document links:");
             for url in sourceLinks:
                 Logger.logMessage(f"\t\t{url}");
+
+            return None;
+        else:
+            # Process the section with assistant if it exists
+            return self.assistant.extractSection(f"./DataSet/{formatDocName}.txt");

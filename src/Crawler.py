@@ -4,6 +4,7 @@ import requests
 import sys
 from concurrent.futures import ThreadPoolExecutor
 from fuzzywuzzy import fuzz
+import os
 
 from Logger import Logger
 from Assistant import Assistant
@@ -286,5 +287,6 @@ class Crawler:
 
             # Process the documents from the source links
             companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
-            processor.extractSection(sourceLinks, companyNames, mainIndex);
+            result = processor.extractSection(sourceLinks, companyNames, mainIndex);
             
+            print(result)
