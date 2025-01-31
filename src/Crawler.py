@@ -15,14 +15,18 @@ class Crawler:
             filedDate: list,
             companyAList: list,
             companyBList: list,
+            startPhrases: list,
             threadCount: int,
+            nlp: any,
             assistant: Assistant
         ):
         
         self.filedDate = filedDate;
         self.companyAList = companyAList;
         self.companyBList = companyBList;
+        self.startPhrases = startPhrases;
         self.threadCount = threadCount;
+        self.nlp = nlp;
         self.assistant = assistant;
 
         self.__formTypes = ["PREM14A", "S-4", "SC 14D9", "SC TO-T"];
@@ -254,7 +258,7 @@ class Crawler:
             self.__endIndex = endIndex if endIndex is not None else self.__startIndex + 1;
 
         # Initiate the Processor to clean & analzye the documents
-        processor = Processor(self.assistant, self.threadCount);
+        processor = Processor(self.assistant, self.nlp, self.threadCount, self.startPhrases);
 
         # Main crawler
         for mainIndex in range(self.__startIndex, self.__endIndex):
