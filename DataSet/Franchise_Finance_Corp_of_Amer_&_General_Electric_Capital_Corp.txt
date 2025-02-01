@@ -1,0 +1,2882 @@
+URL: https://www.sec.gov/Archives/edgar/data/908527/000095014701500823/0000950147-01-500823.txt
+
+THE MERGER
+
+BACKGROUND OF THE MERGER
+
+     Beginning in early 1999, FFCA's senior management commenced a strategic
+review of its then current method of operations.
+At that time, FFCA's method of
+operations had been changing with a greater emphasis on loan securitizations and
+fee-based services.
+In addition, new business opportunities were being
+identified which were not related to the passive ownership of real estate.
+The
+Tax Code limits FFCA's ability to pursue many of these future growth
+opportunities because of FFCA's status as a REIT.
+At the same time, FFCA was
+facing competition from existing and new sources.
+In addition, the capital
+markets that FFCA participated in for funding new financings were undergoing
+changes.
+The effects on
+
+FFCA's operations of these changes in the capital markets, competition and REIT
+provisions of the Tax Code are discussed in more detail below.
+
+     
+CAPITAL MARKETS.
+Since FFCA's organization as a REIT in 1994, FFCA has
+relied principally on four external sources of capital to fund new investments:
+loan securitizations, whole loan sales, corporate borrowings and the sale of
+common stock.
+As described below, each of these capital sources presented, and
+continues to present, unique challenges that FFCA believes may limit FFCA's
+operating results and stock market performance in the future.
+
+     
+*    LOAN SECURITIZATIONS.
+Since 1994, FFCA's largest source of capital has
+          been through the securitization of loans.
+In these securitizations,
+          FFCA's loans are transferred to a trust that issues trust certificates
+          or other securities that are then sold to institutional investors.
+          
+FFCA believes that the securitization markets may not be a reliable
+          and competitive source of capital for FFCA in the future since the
+          number of purchasers for securities issued in this type of transaction
+          is becoming more limited and there have been recent loan delinquencies
+          in comparable securitizations that were sponsored by parties other
+          than FFCA.
+In addition, future reliance on loan securitizations to
+          fund substantial investments by FFCA will likely result in a greater
+          percentage of FFCA's assets being comprised of subordinated
+          securitization securities that FFCA retains when it enters into a
+          securitization transaction.
+The cash flows from, and value of, these
+          subordinated securitization securities can be volatile.
+FFCA also
+          believes that further material increases in the amount of subordinated
+          securitization securities it holds may negatively affect FFCA's
+          corporate debt ratings in the future, making it more difficult to
+          raise capital through the issuance of debt.
+
+     
+*    WHOLE LOAN SALES.
+In 2000, FFCA commenced a whole loan sale program as
+          a result of the execution of a loan sale agreement and servicing
+          agreement with Washington Mutual Bank, FA.
+Under this program, a
+          taxable REIT subsidiary of FFCA receives income from the origination
+          and sale of loans, as well as continuing revenue from FFCA's servicing
+          of the loans after they are sold.
+Under the loan sale agreement, which
+          is scheduled to expire on December 31, 2002, Washington Mutual is not
+          obligated to and does not purchase all loans originated by FFCA.
+          
+During 2000, Washington Mutual purchased approximately half of the
+          loans FFCA originated.
+In addition, the purchase of loans under the
+          loan sale agreement is subject to borrower credit concentration
+          limits.
+Washington Mutual has recently informally indicated to FFCA
+          that it intends to reduce these concentration limits.
+This recent
+          indication by Washington Mutual will require FFCA to continue to
+          develop the use of other capital sources to fund new investments.
+          
+Although whole loan sales permit FFCA to conduct business without the
+          need for additional capital, FFCA believes there are risks in
+          substantially relying on whole loan sales as a source of capital in
+          the future since the sale of loans to Washington Mutual or other
+          institutional investors is not under FFCA's complete control.
+In
+          addition, FFCA believes that whole loan sales have increased the
+          volatility of FFCA's funds from operations ("FFO"), making FFCA's
+          future growth more difficult for investors to evaluate.
+As a result,
+          FFCA believes that investors may discount FFCA's ability to originate
+          and sell loans in the future in amounts sufficient to achieve
+          acceptable increases in FFO, which may negatively affect the market
+          price of FFCA's stock.
+In addition, governmentally regulated financial
+          institutions may be subject to regulations which may restrict or limit
+          their ability to purchase franchise loans.
+These restrictions, if
+          increased, could negatively affect FFCA's ability to sell loans in the
+          future.
+
+     
+*    CORPORATE BORROWINGS.
+As of March 31, 2001, FFCA had investment-grade
+          debt ratings of BBB, Baa2 and BBB- from Fitch, Moody's and Standard
+          and Poor's, respectively.
+FFCA believes that favorable credit ratings
+          are essential to make additional borrowings at favorable rates in the
+          future and strongly influence FFCA's costs of shorter-term credit
+          lines.
+FFCA also believes a material
+
+          increase in the amount of subordinated securitization securities it
+          holds from entering into securitization transactions as described
+          above could negatively affect FFCA's corporate credit ratings and
+          result in reduced financial flexibility and greater shareholder risk
+          in the future.
+Incurring debt to fund increasing origination volumes
+          without accessing new equity capital presents difficulties for FFCA
+          because FFCA is required to maintain specified debt-to-equity ratios
+          under various agreements.
+
+     
+*    COMMON STOCK.
+Since January 1997, the market price of FFCA's common
+          stock has declined as a multiple of the estimate of FFCA's projected
+          FFO by security analysts that follow FFCA's stock.
+As a result of
+          FFCA's lower FFO trading multiples, FFCA currently believes that the
+          issuance of its common stock would result in the dilution of its
+          shareholders or would not achieve an acceptable rate of return.
+Since
+          the amount of corporate debt which FFCA may issue is limited by
+          covenants relating to FFCA's debt-to-equity ratio, FFCA's inability to
+          issue common stock at appropriate prices effectively limits its
+          ability to issue debt to fund financing activities, thereby reducing
+          corporate financial flexibility and competitiveness in the future.
+
+     
+COMPETITIVE ENVIRONMENT.
+Over the past several years, FFCA has encountered
+competition in FFCA's principal business of financing chain stores from large,
+diversified financial institutions competing in FFCA's market.
+FFCA believes
+that these diversified financial institutions have competitive advantages over
+FFCA because of their lower cost and greater availability of capital as compared
+to FFCA.
+Higher capital costs limit FFCA's ability to offer financing at rates
+similar to those offered by diversified financial institutions and could
+restrict FFCA's growth.
+
+     
+REIT STATUS.
+In order to maintain FFCA's status as a REIT under the Tax
+Code, a substantial majority of FFCA's income and assets must be derived from
+passive real estate activities.
+Income from whole loan sales, servicing third
+parties' loan portfolios and the sale of products and services to chain store
+operators (such as insurance products and personnel services) are not qualifying
+income under the REIT provisions of the Tax Code.
+As a result, FFCA believes
+that the REIT provisions of the Tax Code could limit its business opportunities
+in the future.
+
+     
+CHRONOLOGY.
+In light of these business issues, FFCA's senior management,
+with the concurrence of its board of directors, retained Merrill Lynch & Co. and
+Bear, Stearns & Co., Inc. during the first quarter of 1999 to act as FFCA's
+financial advisors.
+The financial advisors were retained to review FFCA's
+position in its industry and strategic alternatives, and to identify companies
+which would potentially be interested in a merger, consolidation, reorganization
+or other strategic business transaction with FFCA.
+
+     
+On April 7, 1999, at a special meeting of FFCA's board of directors,
+representatives of Merrill Lynch and Bear Stearns discussed the state of the
+commercial finance industry and the valuation of commercial finance companies,
+and reviewed their process for identifying strategic alternatives for FFCA.
+At
+that meeting, the law firm of Simpson Thacher & Bartlett was retained as special
+counsel to FFCA and representatives of that firm reviewed with the board its
+legal duties in connection with the exploration of strategic alternatives.
+
+Representatives of Simpson Thacher & Bartlett also reviewed the terms of a
+proposed shareholders' rights agreement for FFCA, which was adopted by the board
+of directors at that meeting.
+At that meeting, the board also authorized the
+compensation committee of the board to consider the adoption of
+change-in-control or similar agreements to provide appropriate protection and
+incentives for FFCA's senior management and other key employees of FFCA to
+continue their employment with FFCA in light of FFCA's exploration of strategic
+alternatives.
+The board of directors also authorized the financial advisors to
+solicit indications of interest from third parties for a possible transaction
+with FFCA.
+
+     
+Following the April 7, 1999 meeting, Merrill Lynch and Bear Stearns
+identified potential purchasers and joint venture partners to be contacted.
+
+Initially, approximately 25 companies were identified and contacted.
+These
+companies were selected based upon their market capitalization, cost of and
+access to capital and interest and/or participation in FFCA's targeted industry.
+
+These companies included diversified finance companies, foreign and domestic
+depository institutions and insurance companies.
+Of these 25 companies, 14
+companies signed confidentiality and standstill agreements, following which
+information regarding FFCA was provided to them.
+Following the initial review of
+FFCA's confidential material, only two of these 14 interested companies
+expressed non-binding indications of interest to continue discussions with FFCA
+relating to the purchase of all of the common stock of FFCA.
+FFCA believes,
+based on the various discussions held with the interested companies and with the
+other contacted parties, that the limited number of interested parties was
+primarily a result of FFCA's large size and its unique mix of assets.
+In
+addition, FFCA believes that many of the potential purchasers did not pursue an
+acquisition of FFCA because FFCA's assets were limited to a single asset class
+or loan type which exceeded the loan concentration policies of the potential
+purchasers or exceeded limits placed on those entities by federal and state
+regulators.
+FFCA's direct ownership of real estate creates obstacles for
+financial institutions in acquiring FFCA because those institutions are subject
+to regulation by federal and state banking authorities that prevent the
+institutions from acquiring real estate asset portfolios like FFCA's portfolio.
+
+     
+On April 29, 1999 and May 7, 1999, the compensation committee of the board
+of directors held meetings and received advice from representatives of Hewitt
+Associates, independent compensation consultants to FFCA, and representatives of
+Simpson Thacher & Bartlett regarding proposals for continuity
+(change-in-control) agreements to be entered into with FFCA's executive officers
+and other senior managers.
+No action was taken by the compensation committee at
+these meetings.
+
+     
+At a regularly scheduled meeting held on May 12, 1999, the board of
+directors, upon the recommendation of the compensation committee which met
+earlier on the same date, approved and adopted the proposed change-in-control
+program for FFCA's management in order to provide management with appropriate
+protection and incentives to continue their employment with FFCA.
+At that
+meeting, Morton H. Fleischer, Chairman and Chief Executive Officer of FFCA,
+reviewed with and updated the board of directors as to the status of the
+financial advisors' and management's efforts regarding a strategic transaction,
+including the number of parties contacted and the difficulties the contacted
+parties expressed in pursuing a possible transaction with FFCA.
+
+     
+On May 19 and May 26, 1999, FFCA received separate written non-binding
+indications of interest from GE Capital and another party expressing preliminary
+interest in pursuing a transaction with FFCA.
+In order to complete a transaction
+with FFCA, the other potential acquiror indicated that additional parties would
+be required to participate with it in the transaction.
+The other potential
+acquiror did not continue negotiations with FFCA with respect to the
+acquisition.
+
+     
+During May and June of 1999, GE Capital conducted its initial due diligence
+review of FFCA's operations in Scottsdale, Arizona.
+
+     
+After further due diligence, on July 12, 1999, FFCA received a subsequent
+non-binding indication of interest from GE Capital to purchase all of FFCA's
+outstanding common stock, identifying a number of significant conditions to the
+signing and completion of a transaction, including continued due diligence
+review, negotiation of a mutually satisfactory merger agreement, receipt of a
+private letter ruling from the Internal Revenue Service as to FFCA's retention
+of its REIT status for the year in which the then proposed GE Capital
+acquisition would occur in a form satisfactory to GE Capital, execution of
+employment agreements with various members of FFCA's management and defeasance
+or repayment of FFCA's then outstanding debt.
+At the same time that this
+expression of interest was made, Weil,
+
+Gotshal & Manges LLP, GE Capital's legal counsel, distributed written comments,
+reflecting GE Capital's proposal including the conditions listed above, to the
+form of merger agreement prepared by FFCA's counsel.
+Mr. Fleischer individually
+advised the members of the board of FFCA's receipt of and terms of this
+indication of interest.
+FFCA, with the concurrence of its board, decided to
+further pursue this indication of interest and directed its financial and legal
+advisors to continue negotiations and due diligence activities with GE Capital
+and its advisors.
+
+     
+During July through September 1999, FFCA and its advisors continued the
+diligence and negotiation efforts with GE Capital and its advisors, attempting
+to resolve the various open issues between the parties, including the purchase
+price and the conditions contained in GE Capital's proposal.
+
+     
+On July 30 and August 9, 1999, at meetings of the board of directors, Mr.
+Fleischer advised the board on the current status of the proposed transaction
+with GE Capital, and representatives of the financial advisors reviewed with the
+board the results of their efforts to solicit interest in a strategic
+transaction, including the fact that an initial list of approximately 25
+companies was contacted, 14 companies signed confidentiality and standstill
+agreements and received confidential materials and two companies had submitted
+non-binding indications of interest and conducted further due diligence.
+Except
+for the July 12, 1999 subsequent non-binding indication from GE Capital, no
+other subsequent indications of interest were received.
+The board of directors
+instructed the company and its advisors to continue their efforts.
+
+     
+During August 1999, FFCA's senior management met with representatives of
+Morgan Stanley Dean Witter to discuss strategic alternatives to the proposed
+acquisition by GE Capital.
+Morgan Stanley was contacted because of its knowledge
+of FFCA's securitization transactions, and in particular, the cash flows
+generated by FFCA's assets.
+In addition, Morgan Stanley was at that time
+generally regarded as the leading investment baking firm with respect to
+franchise loan securitizations.
+Morgan Stanley has been the primary investment
+banker for FFCA's recent mortgage loan securitization transactions, and as a
+result, has significant knowledge and experience relating to the cash flows
+generated by FFCA's assets.
+Following these discussions, at the direction of
+FFCA, Morgan Stanley conducted extensive portfolio modeling to review the
+potential for funding a corporate recapitalization and new business through
+significant mortgage securitization transactions.
+The portfolio modeling
+consisted of a review and analysis of the cash flow generated by FFCA's assets
+and estimated future financings.
+These strategic alternatives were not pursued
+by FFCA because of their reliance on a single funding strategy within
+increasingly volatile capital markets.
+
+     
+On September 17, 1999, at a special meeting of the board, representatives
+of Merrill Lynch and Bear Stearns reviewed with the board the current status of
+negotiations with GE Capital.
+In addition, FFCA's counsel reviewed the current
+draft of the merger agreement with respect to the significant issues which
+remained unresolved.
+At that meeting, representatives of Merrill Lynch and Bear
+Stearns also advised the board of directors regarding structural alternatives to
+a sale of FFCA.
+FFCA's senior management previously requested that the advisors
+review these alternatives so that the board could consider all possible
+alternatives to a sale of FFCA.
+These alternatives included:
+
+     *    the creation of a taxable corporation whose stock would be distributed
+          to FFCA shareholders in a spin-off transaction;
+     *    the organization of a taxable corporation as one of FFCA's
+          subsidiaries; and
+     *    the organization of a taxable corporation with a real estate
+          investment trust as a subsidiary.
+
+
+The proposed purpose of forming these corporations was to isolate in a separate
+taxable corporation the activities that would create income that would not
+qualify under the REIT provisions of the Tax Code in order to give FFCA greater
+operational flexibility.
+Although no action was taken at this time with respect
+
+to any alternatives, the board directed FFCA and its advisors to continue
+negotiating with GE Capital and its advisors while also investigating
+alternative operating structures available to FFCA.
+
+     
+Following this meeting, negotiations and due diligence with GE Capital
+continued with respect to the proposed transaction, but the parties were unable
+to resolve numerous issues with respect to GE Capital's acquisition of FFCA.
+In
+addition, FFCA and its advisors continued to pursue operating structures which
+presented alternatives to a sale of FFCA.
+
+     
+On October 29, 1999, at a special meeting of the board, representatives of
+Merrill Lynch, Bear Stearns and FFCA's legal advisors reported to the board on
+the status of negotiations with GE Capital, including the inability of the
+parties to reach agreement on the unresolved issues and various conditions
+contained in GE Capital's proposal.
+Following discussion, the board declined to
+pursue GE Capital's proposal and decided to terminate negotiations with GE
+Capital at that time.
+The board directed its financial advisors to inform GE
+Capital and its advisors of the board's decision.
+The board's decision was based
+in part on the difficulties of the parties in reaching agreement on the terms
+and conditions for a transaction and on the existence of other alternatives the
+board believed were available to potentially enhance FFCA's liquidity and access
+to capital, including the origination and sale of whole loans to third parties,
+specifically under a proposed whole loan sale program with Washington Mutual
+Bank, FA.
+
+     
+On December 10, 1999, the board held a special meeting to approve the terms
+of a whole loan sale program under a proposed loan purchase agreement with
+Washington Mutual.
+Under this agreement, Washington Mutual agreed to purchase
+loans originated by FFCA under stated conditions.
+At this time, the board also
+approved employment agreements with FFCA's five executive officers, as required
+by Washington Mutual, having terms that matched the term of the Washington
+Mutual agreement.
+
+     
+On January 4, 2000, in order to facilitate FFCA's whole loan sale program,
+FFCA organized FFCA Funding Corporation as a non-qualified REIT subsidiary to
+originate and sell mortgage loans (FFCA Funding was subsequently converted into
+a taxable REIT subsidiary in January, 2001).
+For tax years beginning after
+December 31, 2000, generally not more than 20% of a REIT's total assets can be
+represented by securities of one or more taxable REIT subsidiaries.
+Therefore,
+this rule could potentially constrain FFCA's ongoing ability to pursue business
+opportunities within its taxable REIT subsidiary.
+
+     
+On January 28, 2000, at a regularly scheduled meeting, the board of
+directors approved a change of FFCA's state of incorporation from Delaware to
+Maryland, which was subsequently approved by FFCA's shareholders in May 2000.
+
+The change in the state of incorporation was done primarily to save $150,000
+annually on amounts FFCA was paying in Delaware state franchise taxes and to
+obtain the favorable benefits of Maryland law that apply to REITs.
+
+     
+During 2000, FFCA's primary sources of capital used to fund its investment
+activity were through whole loan sales to Washington Mutual and loan
+securitizations.
+
+     
+On October 23, 2000, representatives of Goldman Sachs & Co., GE Capital's
+financial advisor, contacted representatives of Merrill Lynch to determine
+FFCA's interest in renewing discussions with GE Capital regarding a potential
+acquisition of FFCA's common stock by GE Capital.
+In November 2000,
+representatives of GE Capital had a telephone call with Mr. Fleischer to renew
+the negotiations that had been suspended on October 29, 1999.
+Following this
+call, Mr. Fleischer advised the members of FFCA's board that GE Capital wanted
+to resume negotiations and the board agreed that FFCA should resume the
+negotiations.
+
+     
+On December 13, 2000, Mr. Fleischer and Christopher H. Volk, President and
+Chief Operating Officer of FFCA, met with representatives of GE Capital in New
+York and continued discussions for the
+
+renewal of the parties' negotiations.
+Following this meeting, Mr. Fleischer
+instructed Merrill Lynch to renew negotiations with GE Capital's advisors, as
+well as to renew its efforts to solicit indications of interest from other
+companies (including parties previously contacted) to determine if any
+additional parties would be interested in a transaction with FFCA.
+
+     
+On January 23, 2001, FFCA received a non-binding indication of interest
+from GE Capital to purchase all of FFCA's outstanding common stock for a cash
+price of $25 per share.
+The indication was subject to completion by GE Capital
+of its due diligence review of FFCA's operations and other stated conditions,
+including receipt of the previously requested private letter ruling from the
+Internal Revenue Service, environmental due diligence, resolution of management
+employment issues and disposition of any real estate FFCA owned that had
+underground storage tanks used for storing gasoline or other properties which
+have specified environmental conditions present.
+
+     
+On January 26, 2001, the board of directors held a regularly scheduled
+meeting.
+At the meeting, representatives of Merrill Lynch delivered a report to
+the board regarding the market for publicly traded REITs, the franchise lending
+sector of the markets (including competitive factors in the sector), the stock
+market outlook for "net lease" REITs, the recent performance of FFCA's common
+stock and the terms of the new proposal by GE Capital to acquire all of FFCA's
+outstanding common stock for $25 per share.
+Merrill Lynch also advised the board
+of its efforts to solicit indications of interest during December 2000 and
+January 2001.
+Merrill Lynch advised the board that eight financial institutions
+were approached regarding a proposed transaction, but only two institutions,
+other than GE Capital, signed confidentiality and standstill agreements.
+
+Following their initial due diligence review, neither of these two companies
+expressed an interest to continue discussions for a strategic transaction with
+FFCA.
+FFCA was again advised that financial institutions subject to regulation
+by federal and state banking authorities continued to have difficulties pursuing
+a transaction with FFCA because of regulatory and other issues associated with
+FFCA's direct ownership of real estate, size and unique asset mix.
+The board
+authorized management and its advisors to continue to pursue the proposed
+transaction with GE Capital, instructing management and its advisors to
+substantially remove the conditionality of GE Capital's proposed offer and to
+maintain the board's ability to pursue a superior offer if one should arise in
+the future.
+
+     
+On February 9, 2001, FFCA received a revised merger agreement from GE
+Capital's counsel reflecting the terms and conditions under which GE Capital was
+willing to complete a transaction.
+
+     
+On February 13, 2001, FFCA and its advisors met with GE Capital and its
+advisors in New York to discuss the terms of the proposed transaction.
+At that
+meeting, a number of the conditions to the completion of a transaction
+previously required by GE Capital were eliminated (including the condition of a
+receipt of a private letter ruling from the Internal Revenue Service, which GE
+Capital determined to be unnecessary as a result of a change in the structure of
+the transaction), thereby reducing the uncertainty presented in GE Capital's
+proposal.
+Also discussed were proposals to settle other unresolved issues prior
+to signing the merger agreement, including management employment issues and the
+terms under which FFCA would be required to sell properties with underground
+storage tanks prior to completion of the merger.
+
+     
+From February 14, 2001 through March 27, 2001, negotiations continued
+between the parties with respect to the merger agreement, management and
+employment issues, due diligence and the sale of the properties with underground
+storage tanks.
+On March 28, 2001, the parties met with advisors in Scottsdale,
+Arizona to finalize the terms of the merger agreement, including terms for the
+condition related to the sale of the properties with underground storage tanks
+or other properties which have specified environmental conditions present and to
+discuss terms for FFCA's senior officers' future employment with GE Capital.
+
+     
+On March 29, 2001, at a special meeting of the board of directors, the
+proposed transaction was discussed.
+At this meeting, representatives of Merrill
+Lynch and Bear Stearns were present.
+Representatives of Merrill Lynch reviewed
+the terms of the transaction and the fairness of the $25.00 per share offer.
+At
+that meeting, FFCA's legal advisors also reviewed the terms of the transaction,
+including review by FFCA's special Maryland counsel, Ballard Spahr Andrews &
+Ingersoll, LLP, of the board's duties under Maryland law.
+The board was advised
+that the terms for the condition related to the sale of the properties having
+underground storage tanks and certain other properties which have specified
+environmental conditions present were not yet finalized and the board appointed
+a signing committee of the board of directors to approve the related provisions
+of the merger agreement.
+Merrill Lynch orally delivered its fairness opinion to
+the board, which was subsequently confirmed in writing, that as of March 29,
+2001, and subject to the assumptions made, matters considered and limitations on
+the review undertaken, the $25.00 per share in cash proposed to be received by
+the FFCA shareholders under the merger agreement was fair from a financial point
+of view to the shareholders (the full text of the opinion, which sets forth the
+assumptions made, the procedures followed, matters considered and limits on the
+review undertaken, is attached as Appendix B to this proxy statement, and FFCA
+shareholders should carefully read this opinion in its entirety).
+Subject to
+final approval by the signing committee, the board of directors unanimously
+approved the transaction and recommended that the FFCA shareholders approve the
+merger and the transactions contemplated by the merger agreement.
+
+     
+On March 29, 2001, the parties completed negotiation of the terms of the
+merger agreement, including the terms for the condition related to the sale of
+the properties which contain underground storage tanks and three other
+properties which have specified environmental conditions present, which were
+approved at a meeting of the signing committee later that day.
+
+     
+On March 30, 2001, the merger agreement was executed and FFCA and GE
+Capital issued a press release announcing the signing of the merger agreement.
+
+     
+On April 10, 2001, FFCA and GE Capital filed the information and materials
+required under the Hart-Scott-Rodino Act with the Antitrust Division of the
+Department of Justice and the Federal Trade Commission.
+The waiting period under
+the Hart-Scott-Rodino Act was terminated on April 13, 2001.
+
+REASONS FOR THE MERGER; FACTORS CONSIDERED
+
+     In making the determination and recommendations described above, the board
+of directors considered various factors and alternatives, including the
+following:
+
+     *    FFCA's business, current financial condition, results of operations,
+          future prospects, the historic trading range of FFCA's common stock
+          and the board's belief, on the basis of its familiarity with these
+          matters, that the consideration to be received by FFCA's stockholders
+          in the merger fairly reflects FFCA's value;
+     *    
+The fact that the merger consideration of $25.00 per share represents:
+          -    an 11.2% premium above FFCA's one-month average closing price as
+               of March 27, 2001, the date on which Merrill Lynch's fairness
+               presentation to the board was based;
+          -    a 13.3% premium above FFCA's closing price one month prior to
+               March 27, 2001;
+          -    a 9.6% premium above FFCA's closing price on March 27, 2001; and
+          -    a 5.4% premium above FFCA's closing price as of March 29, 2001,
+               the day prior to the public announcement of the merger.
+     
+*    
+The recent evaluation by the board of FFCA's strategic plans and the
+          execution risks related to achieving those plans compared to the risks
+          and benefits of the merger including, in particular, the factors
+          listed below with regard to FFCA's competitive environment and capital
+          raising capabilities:
+
+          -    The competition in FFCA's target market by companies with greater
+               financial resources which have a lower cost of capital in
+               comparison to FFCA's cost of capital;
+          -    FFCA's concern that over the long-term, this limited access to
+               capital at competitive rates will limit or alter FFCA's growth
+               prospects;
+          -    FFCA's limited ability to finance additional investments through
+               the issuance of additional corporate debt without issuing common
+               stock to maintain required debt-to-equity ratios;
+          -    FFCA's current inability to issue common stock at prices which do
+               not dilute FFCA's existing shareholders or achieve an acceptable
+               rate of return, based on the recent trading ranges for FFCA's
+               common stock;
+          -    FFCA's reliance on whole loan sales with the following
+               considerations:
+               *    Washington Mutual is not obligated to, and does not,
+                    purchase all loans originated by FFCA;
+               *    Washington Mutual only purchased approximately half of the
+                    loans FFCA originated during 2000; and
+               *    Washington Mutual's recent informal indication that it
+                    intends to reduce the concentration limits of loans to any
+                    one borrower that it will purchase;
+          -    FFCA's reliance on the securitization markets, which FFCA
+               believes will be volatile in the future, with the following
+               considerations:
+               *    the limited investor base for loans of the type originated
+                    by FFCA; and
+               *    recent loan defaults for sponsors, other than FFCA, of
+                    franchise loan securitizations which have led to concern
+                    about the quality of loans in these securitizations by the
+                    purchasers of the securitization securities;
+     *    
+The fact that FFCA conducted an extensive solicitation process
+          involving over 25 parties, the review of confidential information by
+          15 parties, the receipt of two indications of interest and only one
+          proposal to acquire FFCA;
+     *    The board's belief that, based on FFCA's size and unique asset mix and
+          the results from its solicitation process, it was unlikely that it
+          would receive a third party acquisition proposal (in cash or stock)
+          that was financially superior to the consideration to be received
+          under the merger agreement;
+     *    Possible alternatives to the merger, including continuing to operate
+          as an independent public company, selling or spinning off various
+          assets and possible alternative restructuring actions;
+     *    The fairness opinion of Merrill Lynch dated as of March 29, 2001, to
+          the effect that as of that date, the merger consideration of $25.00
+          per share to be received by the shareholders was fair to the
+          shareholders, from a financial point of view (the full text of the
+          written opinion of Merrill Lynch & Co., which sets forth the
+          assumptions made, matters considered and limitations on the review
+          undertaken in connection with such opinion is attached to this proxy
+          statement as Appendix B; FFCA shareholders should read the opinion in
+          its entirety);
+     *    
+The terms and conditions of the merger agreement, including terms
+          which are designed to enable FFCA's board to be permitted to review
+          and evaluate and, under stated circumstances, accept a superior
+          proposal, if presented, subject to FFCA's obligation to pay GE Capital
+          a $60 million termination fee;
+     *    
+The ability of FFCA to continue to pay its regularly scheduled
+          quarterly dividend to its shareholders until completion of the merger,
+          including a pro-rated dividend for the period ending immediately
+          before the effective time of the merger;
+     *    The fact that FFCA's recent growth in income has been largely
+          generated by loan sale and loan servicing activities, which income
+          does not constitute qualifying income for REITs under the Tax Code;
+          over the long term, these income sources will likely become an
+          increasing percentage of the overall income base of FFCA; and, as
+          such, this has, over the long term, the potential of negatively
+          affecting FFCA's REIT status and exposing it to potentially volatile
+          income
+
+          performance unless those activities are limited or FFCA increases its
+          ownership of real estate assets;
+     *    
+The condition in GE Capital's proposal with respect to the sale of
+          properties which either contain underground storage tanks or may have
+          specified environmental conditions present and the possibility that
+          this condition may not be satisfied;
+     *    
+The board's conclusion that the size of the termination fee, and the
+          circumstances when that fee is payable, were reasonable in light of
+          the benefits of the merger and the auction process conducted by and on
+          behalf of FFCA; and
+     *    The other terms and conditions of the merger.
+
+     
+The board of directors did not assign relative weights to the above factors
+or determine that any factor was of more importance than any other factor.
+
+Rather, the board viewed its position and recommendations as being based on the
+totality of the information presented to and considered by it.
+
+
+RECOMMENDATION OF THE BOARD
+
+     The board of directors of FFCA has determined, by unanimous vote, and
+declared that the merger, the merger agreement and the related amendment to
+FFCA's charter are advisable and in the best interests of FFCA and its
+shareholders.
+Accordingly, FFCA's board of directors has unanimously approved
+the merger, the merger agreement and the related amendment to FFCA's charter and
+recommends that you approve the merger and the related amendment to FFCA's
+charter by voting "FOR" the proposal on the merger.
+
+
+OPINION OF FFCA'S FINANCIAL ADVISOR
+
+     On March 29, 2001, Merrill Lynch rendered its opinion to FFCA's board of
+directors that, as of that date and based upon and subject to the factors and
+assumptions contained in its opinion, the $25.00 per share in cash (the "merger
+consideration") to be received by the holders of shares of common stock of FFCA
+was fair to the shareholders from a financial point of view.
+
+     
+THE FULL TEXT OF THE MERRILL LYNCH OPINION, WHICH DESCRIBES, AMONG OTHER
+THINGS, THE ASSUMPTIONS MADE, MATTERS CONSIDERED AND QUALIFICATIONS AND
+LIMITATIONS ON THE REVIEW UNDERTAKEN BY MERRILL LYNCH, IS ATTACHED AS APPENDIX B
+TO THIS PROXY STATEMENT AND IS INCORPORATED IN THIS PROXY STATEMENT
+BY
+REFERENCE.
+YOU SHOULD READ MERRILL LYNCH'S OPINION CAREFULLY AND IN ITS
+ENTIRETY.
+MERRILL LYNCH'S OPINION IS DIRECTED TO THE FFCA BOARD OF DIRECTORS AND
+ADDRESSES ONLY THE FAIRNESS, FROM A FINANCIAL POINT OF VIEW, OF THE
+CONSIDERATION TO BE PAID BY GE CAPITAL TO THE FFCA SHAREHOLDERS.
+THE OPINION
+DOES NOT ADDRESS ANY OTHER ASPECT OF THE MERGER OR ANY RELATED TRANSACTION, NOR
+DOES IT CONSTITUTE A RECOMMENDATION TO ANY SHAREHOLDER AS TO HOW TO VOTE AT THE
+FFCA SPECIAL MEETING.
+THE SUMMARY OF THE FAIRNESS OPINION IN THIS PROXY
+STATEMENT, WHILE IT CONTAINS ALL MATERIAL PROVISIONS OF THE OPINION, IS
+QUALIFIED IN ITS ENTIRETY BY REFERENCE TO THE FULL TEXT OF THE OPINION.
+
+     
+The opinion of Merrill Lynch was addressed to the board of directors of
+FFCA and evaluated only whether the merger consideration to be received was fair
+from a financial point of view to holders of common stock of FFCA.
+The opinion
+of Merrill Lynch did not address any other aspect of the merger.
+The terms of
+the merger, including the merger consideration, were determined through
+negotiations between GE Capital and FFCA and were not determined by Merrill
+Lynch.
+Specifically, the opinion of Merrill Lynch did not address the merits of
+the underlying decision of FFCA to participate in the merger.
+
+     
+In arriving at its opinion, Merrill Lynch, among other things:
+
+     *    Reviewed certain publicly available business and financial information
+          relating to FFCA that Merrill Lynch deemed to be relevant;
+     *    Reviewed certain information, including financial forecasts, relating
+          to the business, earnings, cash flow, assets and prospects of FFCA;
+     *    Conducted discussions with members of senior management of FFCA
+          concerning the matters described in the two bullet points above;
+     *    Reviewed the market prices and valuation multiples for FFCA's common
+          stock and compared them with those of certain publicly traded
+          companies that Merrill Lynch deemed to be relevant;
+     *    Reviewed the results of operations of FFCA and compared them with
+          those of certain publicly traded companies that Merrill Lynch deemed
+          to be relevant;
+     *    
+Compared the proposed financial terms of the merger with the financial
+          terms of certain other transactions that Merrill Lynch deemed to be
+          relevant;
+     *    Participated in certain discussions and negotiations among
+          representatives of FFCA and GE Capital and their financial and legal
+          advisors;
+     *    Reviewed a draft of the merger agreement dated March 29, 2001; and
+     *    Reviewed such other financial studies and analyses and took into
+          account such other matters as Merrill Lynch deemed necessary,
+          including Merrill Lynch's assessment of general economic, market and
+          monetary conditions.
+
+     
+In preparing its opinion, Merrill Lynch has assumed and relied on the
+accuracy and completeness of all information supplied or otherwise made
+available to it, discussed with or reviewed for or by it, or publicly available,
+and Merrill Lynch has not assumed any responsibility for independently verifying
+such information or undertaken an independent evaluation or appraisal of any
+assets or liabilities of FFCA.
+Merrill Lynch is not an expert in the evaluation
+of allowances for loan and lease losses, and Merrill Lynch has neither made an
+independent evaluation of the adequacy of the allowance for loan and lease
+losses of FFCA, nor reviewed any individual credit files relating to FFCA, and,
+as a result, Merrill Lynch has assumed that the aggregate allowance for loan and
+lease losses for FFCA is adequate to cover such losses.
+In addition, Merrill
+Lynch has not assumed any obligation to conduct any physical inspection of the
+properties or facilities of FFCA.
+With respect to the financial forecast
+information furnished to or discussed with Merrill Lynch by FFCA, Merrill Lynch
+has assumed that they have been reasonably prepared and reflect the best
+currently available estimates and judgment of FFCA's management as to the
+expected future financial performance of FFCA.
+In addition, Merrill Lynch has
+assumed that, in the course of obtaining the necessary regulatory or other
+consents or approvals (contractual or otherwise) for the merger, no
+restrictions, including any divestiture requirements or amendments or
+modifications, will be imposed that will have a material adverse effect on the
+contemplated benefits of the merger.
+Merrill Lynch has assumed that the merger
+agreement would not be materially different from the last draft reviewed by
+Merrill Lynch.
+
+     
+Merrill Lynch's opinion was necessarily based upon market, economic and
+other conditions as they existed and could be evaluated, and on the information
+made available to Merrill Lynch as of the date of its opinion.
+
+     
+In performing its analyses, Merrill Lynch made numerous assumptions with
+respect to industry performance, general business, economic, market and
+financial conditions and other matters, many of which are beyond the control of
+Merrill Lynch and FFCA.
+Any estimates contained in the analyses performed by
+Merrill Lynch are not necessarily indicative of actual values or future results,
+which may be significantly more or less favorable than suggested by these
+analyses.
+Additionally, estimates of the value of businesses or securities do
+not purport to be appraisals or to reflect the prices at which such businesses
+or securities might actually be sold.
+Accordingly, these analyses and estimates
+are inherently subject to substantial uncertainty.
+In addition, the Merrill
+Lynch opinion was among several factors taken into
+
+consideration by the FFCA board in making its determination to approve the
+merger agreement and the merger.
+Consequently, the analyses described below
+should not be viewed as determinative of the decision of the FFCA board or
+management of FFCA with respect to the fairness of the consideration to be paid
+to FFCA shareholders.
+
+     
+The following is a summary of the material financial analyses presented by
+Merrill Lynch to the FFCA board on March 29, 2001 in connection with the
+rendering of its opinion on that date and is not a complete description of the
+analyses underlying the Merrill Lynch opinion or presentation.
+The preparation
+of a fairness opinion is a complex analytic process involving various
+determinations as to the most appropriate and relevant methods of financial
+analysis and the application of those methods to the particular circumstances.
+
+Therefore, a fairness opinion is not readily susceptible to partial analysis or
+summary description.
+In arriving at its opinion, Merrill Lynch did not attribute
+any particular weight to any analysis or factor that it considered, but rather
+made qualitative judgments as to the significance and relevance of each analysis
+and factor.
+The financial analyses summarized below include information
+presented in tabular format.
+Accordingly, Merrill Lynch believes that its
+analyses and the summary of its analyses must be considered as a whole and that
+selecting portions of its analyses and factors or focusing on the information
+presented below in tabular format, without considering all analyses and factors
+or the full narrative description of the financial analyses, including the
+methodologies and assumptions underlying the analyses, could create a misleading
+or incomplete view of the process underlying its analyses and opinion.
+The
+financial analyses presented in the tables alone do not constitute a complete
+description of the financial analyses.
+
+     
+MARKET PREMIUM ANALYSIS.
+Merrill Lynch reviewed the terms of the merger.
+It
+also analyzed the merger consideration as a premium to the trading price of the
+FFCA common stock at different intervals prior to the board meeting on March 29,
+2001.
+This analysis indicated that the merger consideration represented a
+premium of:
+
+     *    9.6% over the market price of FFCA common stock on March 27, 2001,
+          three days immediately before the signing of the merger agreement and
+          the date on which Merrill Lynch's fairness presentation to the board
+          was based;
+     *    13.3% over the market price of the FFCA common stock on February 27,
+          2001, one month prior to the board meeting; and
+     *    11.2% over the average market price of the FFCA common stock during
+          the month immediately prior to the board meeting.
+
+     
+TRANSACTION VALUE AND TRANSACTION PRICING MULTIPLES.
+Merrill Lynch compared
+the transaction and enterprise values of FFCA based upon the market price of
+FFCA on March 27, 2001 of $22.80 and the merger consideration of $25.00.
+The
+transaction value was obtained by multiplying (1) either the market price of
+FFCA common stock or the merger consideration, as the case may be, by (2) the
+total number of outstanding shares of FFCA common stock on March 27, 2001.
+The
+enterprise value was obtained by adding the respective transaction value to
+FFCA's outstanding debt of approximately $724 million.
+This analysis indicated
+that the implied transaction and enterprise value of FFCA based on the merger
+consideration were $1.403 billion and $2.127 billion, respectively, and that the
+transaction and enterprise value of FFCA based on the closing price of FFCA
+common stock on March 27, 2001 were $1.280 billion and $2.004 billion,
+respectively.
+
+     
+Merrill Lynch also analyzed and compared the per share merger consideration
+to be received by FFCA shareholders as a multiple of FFCA's (1) fully-diluted
+funds from operations per share ("FFO per share") for 2000, (2) FFO per share
+for the years 2001 and 2002 as published by First Call and (3) book value per
+share as of December 31, 2000 with the corresponding multiples based on the
+closing price of FFCA common stock on March 27, 2001.
+This analysis indicated
+that:
+
+                                            Closing Price as of       Merger
+    Implied Transaction Multiples              March 27, 2001      Consideration
+    -----------------------------              --------------      -------------
+2000 Actual First Call FFO per share                 8.0x               8.7x
+2001 Estimated First Call FFO per share              7.5x               8.2x
+2002 Estimated First Call FFO per share              7.0x               7.6x
+Book Value as of December 31, 2000                  1.39x              1.53x
+
+First Call is a recognized data service that monitors and publishes compilations
+of earnings and FFO per share estimates by selected research analysts regarding
+companies of interest to institutional investors.
+
+     
+HISTORICAL TRADING ANALYSIS.
+Merrill Lynch reviewed the historical trading
+prices for FFCA common stock.
+This analysis indicated that:
+
+     *    From January 1, 2000 to March 27, 2001, FFCA's trading price decreased
+          5%.
+     
+*    
+Over the three-year period March 27, 1998 to March 27, 2001, FFCA's
+          trading price decreased 18%.
+     
+*    From March 27, 1996 to March 27, 2001, the forward FFO trading
+          multiple for FFCA common stock decreased from 10.4x to 7.3x.
+     
+*    From December 31, 1997 to March 27, 2001, FFCA's trading price
+          decreased 16% while quarterly FFO per share increased 29%.
+     
+*    From January 1, 2000 to March 27, 2001, approximately 99% of FFCA's
+          publicly-traded shares traded below the merger consideration of $25.00
+          per share.
+
+     
+SUMMARY OF VALUATION ANALYSIS.
+Merrill Lynch compared the merger
+consideration to each range of implied valuation shown below, which was derived
+from analyses performed by Merrill Lynch, and noted that the merger
+consideration to be paid to FFCA shareholders of $25.00 per share was higher
+than or in the range of such valuations.
+
+            
+Methodology                                       Low          High
+            -----------                                      ------       
+------
+Comparable Public Companies Analysis                         $14.26       $24.92
+Control Premium Analysis                                     $23.33       $28.09
+Discounted Cash Flow Analysis                                $20.66       $24.99
+Net Asset Valuation                                          $20.00       $22.96
+
+     COMPARABLE COMPANY TRADING ANALYSIS.
+Using publicly available information,
+Merrill Lynch compared selected historical and estimated stock price and
+financial ratios for FFCA with corresponding data and ratios of selected
+publicly traded companies in the net lease REIT industry.
+These companies were
+selected by Merrill Lynch based upon Merrill Lynch's views as to the
+comparability of the financial and operating characteristics of these companies
+to FFCA.
+The companies comparable to FFCA included:
+
+     *    Realty Income Corp.;
+     *    Commercial Net Lease Realty, Inc.;
+     *    Lexington Corporate Properties Trust;
+     *    US Restaurant Properties, Inc.; and
+     *    CapTec Net Lease Realty, Inc.
+
+     In order to determine an implied equity reference range based upon an
+analysis of comparable companies, Merrill Lynch compared the price of FFCA's
+common stock as a multiple of (1) actual 2000
+
+FFO per share, (2) estimated 2001 and 2002 FFO per share based on First Call
+reports and (3) December 31, 2000 book value to the corresponding ratios for
+each of the comparable companies.
+This analysis indicated that:
+
+     *    The 2000 Price/FFO per share ratio for the comparable companies ranged
+          from 6.5x to 10.4x with an adjusted mean and median of 7.7x, whereas
+          FFCA's ratio was 8.0x.
+The mean and median calculations for the
+          comparable company trading analyses were adjusted to exclude Realty
+          Income as an outlier.
+     
+*    The 2001 Price/FFO per share ratio for the comparable companies ranged
+          from 7.1x to 9.9x with an adjusted mean of 7.6x and an adjusted median
+          of 7.7x, whereas FFCA's ratio was 7.5x.
+     
+*    
+The 2002 Price/FFO per share ratio for the comparable companies ranged
+          from 6.7x to 9.5x with an adjusted mean of 7.3x and an adjusted median
+          of 7.6x, whereas FFCA's ratio was 7.0x.
+     
+*    
+The price-to-book value ratio for the comparable companies ranged from
+          0.9x to 1.4x with an adjusted mean of 1.0x and an adjusted median of
+          0.9x, whereas FFCA's ratio was 1.4x.
+
+     
+Based on Merrill Lynch's judgment, Merrill Lynch applied various multiple
+ranges to the corresponding financial data and estimates of future financial
+performance of FFCA to derive an implied equity reference range of $14.26 to
+$24.92 per share for FFCA's common stock.
+
+     
+Because of the inherent differences among the operations of FFCA and the
+selected comparable companies, Merrill Lynch believes that a purely quantitative
+comparable company analysis would not be dispositive in the context of the
+merger.
+Merrill Lynch further believes that an appropriate use of a comparable
+company analysis in this instance involves qualitative judgments concerning
+differences among the financial and operating characteristics of FFCA and the
+selected comparable companies, which judgments are reflected in the Merrill
+Lynch opinion.
+
+     
+CONTROL PREMIUM ANALYSIS.
+Merrill Lynch also reviewed the premium paid over
+the trading price, as of one month prior to the announcement of the transaction,
+for REIT mergers since January 1, 1999 of companies valued at more than $500
+million.
+Excluding the highest and lowest premiums paid, the range of premiums
+was 5.7% to 27.3% and the mean and median were 15.7% and 13.2%, respectively.
+
+Applying these premiums to corresponding financial data of FFCA indicated an
+implied equity reference range of $23.33 to $28.09 per share for FFCA common
+stock.
+
+     COMPARABLE TRANSACTION ANALYSIS.
+Merrill Lynch also reviewed publicly
+available information relating to REIT and commercial finance sector merger and
+acquisition transactions since January 1, 1996.
+Merrill Lynch determined that
+none of the reviewed transactions were deemed sufficiently comparable to the
+merger, and therefore, were not relevant to this analysis.
+
+     
+No transaction utilized as a comparison in any of the analysis described is
+identical to the merger.
+An analysis of publicly traded comparable companies and
+comparable acquisition transactions is not mathematical; rather it involves
+complex considerations and judgments concerning differences in financial and
+operating characteristics of the comparable companies involved and other factors
+that could affect the public trading value of the comparable companies or the
+company to which they are being compared.
+
+     
+DISCOUNTED CASH FLOW ANALYSIS.
+Merrill Lynch also performed a discounted
+cash flow analysis of the projected dividends of FFCA assuming FFCA continued to
+operate as a stand-alone entity.
+Projections for calendar years 2001 through
+2005 were based on management estimates.
+The projections assumed that common
+stock dividends per share would grow at 5.75% annually and that earnings in
+excess of those necessary to maintain FFCA's current modified equity-to-assets
+ratio at 48.85% could be used to repurchase common shares.
+
+     
+The terminal value for FFCA was calculated by applying a forward trading
+multiple of 7.5x to FFCA's projected 2006 FFO per share, which was based on an
+estimated annual asset origination growth rate of between 5% and 15% for the
+period 2002 to 2005.
+The terminal value of FFCA, as well as the projected
+dividends of FFCA for the period from 2001 to 2005, were discounted back to
+January 1, 2000 using discount rates ranging from 16% to 20%, which Merrill
+Lynch viewed as the appropriate range of discount rates for a company with
+FFCA's risk characteristics.
+This analysis resulted in an equity reference range
+for FFCA of $20.66 to $24.99 per share.
+
+     NET ASSET VALUATION ANALYSIS.
+Merrill Lynch also performed a net asset
+valuation for the December 31, 2000 balance sheet.
+FFCA's leases were valued by
+applying a capitalization rate ranging from 9% to 10%.
+The range for
+capitalization rates was based on management estimates.
+The remaining assets and
+liabilities were valued using management's estimate of liquidation value.
+
+Property appraisals were not performed for this analysis.
+The analysis resulted
+in an equity reference range for FFCA of $20.00 to $22.96 per share.
+
+     
+FFCA retained Merrill Lynch based on its experience and expertise.
+Merrill
+Lynch is an internationally recognized investment banking advisory firm.
+As part
+of its investment banking business, Merrill Lynch is regularly engaged in the
+valuation of businesses and securities in connection with mergers and
+acquisitions, negotiated underwritings, competitive biddings, secondary
+distributions of listed and unlisted securities, private placements and
+valuations for estate, corporate and other purposes.
+
+     
+In addition, Merrill Lynch has, in the past, provided financial advisory
+and financing services to FFCA and GE Capital and its affiliates, and may
+continue to do so and has received, and may receive, fees for the rendering of
+such services.
+In addition, in the ordinary course of its business, Merrill
+Lynch may actively trade securities of FFCA and GE Capital and its affiliates
+for its own account and for the accounts of customers and, accordingly, may at
+any time hold a long or short position in such securities.
+
+     
+Under a letter agreement between FFCA and Merrill Lynch, dated as of April
+6, 1999, FFCA agreed to pay Merrill Lynch for financial advisory services
+rendered through the closing of the merger a fee of $300,000 upon execution of
+the merger agreement.
+Merrill Lynch will be entitled to a transaction fee equal
+to 0.30% times the total enterprise value of the transaction, or $6,381,000,
+upon completion of the merger.
+Any fees previously paid to Merrill Lynch will be
+deducted from any fee to which Merrill Lynch becomes entitled upon completion of
+the merger.
+FFCA has also agreed to reimburse Merrill Lynch for the reasonable
+out-of-pocket expenses incurred by it in connection with its engagement
+(including reasonable fees and disbursements of its legal counsel) and to
+indemnify Merrill Lynch and its affiliates from and against certain liabilities
+and expenses, which may include certain liabilities under federal securities
+laws, in connection with its engagement.
+
+
+INTERESTS OF DIRECTORS AND OFFICERS IN THE MERGER
+
+     
+In considering the recommendation of the FFCA board of directors, FFCA
+shareholders should be aware that some of the directors and members of FFCA's
+management team may have interests in the merger that are different from, or in
+addition to, the interests of FFCA shareholders generally, and that may create
+potential conflicts of interest.
+FFCA's board of directors was aware of these
+interests and considered them, among other factors, in approving the merger, the
+merger agreement and the related amendment to FFCA's charter.
+These interests
+are summarized below.
+
+     
+SHARE OWNERSHIP.
+As of the record date, FFCA's directors and executive
+officers and their respective affiliates, who have indicated they intend to vote
+"FOR" approval of the merger, directly owned approximately 2.4% of the
+outstanding shares of FFCA common stock.
+In addition, Colony SB, LLC, which
+under an investor's agreement with FFCA has the right to nominate one member of
+FFCA's
+
+board of directors, has indicated it intends to vote "FOR" approval of the
+merger and owned approximately __
+% of FFCA's outstanding common stock as of the
+record date.
+
+     
+EMPLOYMENT AND SEVERANCE ARRANGEMENTS.
+FFCA and GE Capital have entered
+into letter agreements with FFCA's executive officers, Morton H. Fleischer,
+Christopher H. Volk, John Barravecchia, Dennis L. Ruben and Stephen G. Schmitz,
+relating to their continued employment with FFCA following the merger, which are
+referred to in this proxy statement as the "new employment letters" or, in the
+case of Mr. Fleischer, the "consulting agreement."
+If the merger is completed,
+the new employment letters and the consulting agreement will replace the
+existing employment agreements, which are referred to in this proxy statement as
+the "old employment agreements," that the executive officers have with FFCA and,
+effective immediately prior to the completion of the merger, the old employment
+agreements will be terminated, except for "gross-up" payment obligations which
+will continue after the closing, as described below.
+As a result of the signing
+of the new employment letters and the consulting agreement, FFCA and GE Capital
+have waived the provision in the merger agreement that required the termination
+of the executive officers before completion of the merger, permitting the
+executive officers to continue as officers of FFCA following the merger, except
+for Mr. Fleischer, who will be an independent consultant to FFCA with the title
+of Chairman Emeritus, as described below.
+
+     
+Under the old employment agreements, if an executive officer is terminated
+without cause or for good reason (both as defined in the old employment
+agreements) following or in connection with a change of control of FFCA (which
+would include the acquisition of FFCA by GE Capital), the executive would be
+entitled to receive, among other things, a lump sum payment in cash equal to
+three times the total of (a) the executive's annual base salary on the date of
+the change in control, and (b) the highest annual cash bonus payable to the
+executive with respect to any of the three years completed immediately before
+the date of termination.
+The old employment agreements also provide that, if an
+executive officer is not terminated following or in connection with a change of
+control, and if, at any time and for any reason (or no reason), the executive
+voluntarily terminates his employment during the thirteenth month following the
+change of control, the executive would be entitled to receive a lump sum payment
+of two times his base salary and bonus (rather than the three times payment
+described above), except for Mr. Fleischer, who in this event would be entitled
+to receive a lump sum payment of three times his base salary and bonus.
+The old
+employment agreements further provide that, if these payments (when aggregated
+with any other payments they received) become subject to an excise tax imposed
+under Section 4999 of the Tax Code (or any similar tax), the executive will be
+entitled to receive a "gross-up" payment in respect of these taxes and in
+respect of any taxes on such gross-up payment.
+The old employment agreements
+will be terminated immediately before the completion of the merger and replaced
+by the new employment letters and, in the case of Mr. Fleischer, the consulting
+agreement.
+
+     
+The following discussion is a summary of the material terms of the new
+employment letters for Messrs. Volk, Barravecchia, Ruben and Schmitz.
+Mr.
+Fleischer's new consulting agreement is discussed separately below.
+
+     
+The new employment letters provide that each executive officer will receive
+a base salary and be eligible to receive an incentive bonus and a deferred
+bonus.
+The bonuses are based on FFCA and/or the executive meeting various
+performance targets set by GE Capital.
+The incentive bonus is payable annually
+with a target amount of 100% of the executive's base salary if the performance
+targets are met, but may range from a minimum of 60% of the executive's base
+salary to a maximum of 125% of the executive's base salary, provided the
+executive uses his reasonable best efforts to maximize FFCA's performance and
+results.
+The deferred bonus is payable on the second and fourth anniversaries of
+the merger, each time with a target amount of 200% of the executive's base
+salary if the targets are met.
+The new employment letters further provide that
+the executive officers will receive, at the effective time of the merger, a lump
+sum cash payment consisting of a sign-on bonus and a payment for agreeing to the
+non-
+
+compete provisions of the new employment letters (and, in the case of Mr. Ruben,
+a payment in respect of a covenant not to disparage FFCA).
+In addition, under
+the new employment letters, GE Capital will recommend a grant of options to
+acquire 5,000 shares of General Electric Company common stock to each of the
+executives, subject to the approval of GE's board of directors and subject to
+customary terms and conditions relating to GE stock option grants.
+If the stock
+option grants are not made, the parties have agreed to negotiate for additional
+compensation to replace the stock option grants.
+The cash amounts to be received
+for entering into the new employment letters for each executive officer are
+shown in the table below.
+
+        
+Name and Title                          Non-Compete    Non-disparagement
+     Following the Merger      Sign-on Bonus      Payment           Payment
+     --------------------      -------------      --------          
+-------
+Christopher H. Volk,              $650,000        $700,000               --
+President and Chief Operating
+Officer
+
+John Barravecchia,                $425,000        $600,000               --
+Executive Vice President and
+Chief Financial Officer
+
+Dennis L. Ruben,                  $450,000        $500,000         $150,000
+Executive Vice President and
+General Counsel
+
+Stephen G. Schmitz,               $475,000        $800,000               --
+Executive Vice President -
+Marketing
+
+Under the new employment letters, each executive's base salary will be the same
+as his current base salary.
+These salaries currently are (1) $367,500 for Mr.
+Volk, (2) $262,500 for Mr. Barravecchia, (3) $288,800 for Mr. Ruben, and (4)
+$330,800 for Mr. Schmitz.
+In addition to the payments in the above table, the
+executives will also receive cash payments for their outstanding FFCA options
+and restricted stock, as discussed below.
+
+     
+The employment arrangements under the new employment letters may be
+terminated at any time by either the executive or FFCA, with or without cause.
+
+The new employment letters define cause to generally include (1) the executive's
+breach of the restrictive covenants in the new employment letter or any other
+material breach of the employment letter, any of which results in material harm
+to FFCA, (2) the executive committing fraud, embezzlement, theft or a material
+dishonest act against FFCA, (3) the executive's conviction of a felony or other
+specified crime that results in material harm to FFCA, (4) the executive's
+willful failure to perform his duties, or (5) a violation of GE's "Integrity"
+policy.
+If FFCA terminates the employment of the executive without cause at any
+time during the 18-month period that begins at the effective time of the merger,
+then the executive will be entitled to receive (a) the executive's accrued and
+unpaid base salary through the date of termination, (b) the executive's base
+salary after the date of termination through the balance of the 18 months after
+the effective time of the merger (or any amount then payable under an applicable
+severance plan, if higher), and (c) the pro-rata portion of any incentive bonus
+that the executive would have been entitled to receive, which payment will be
+calculated assuming the applicable performance targets were met.
+
+     
+Mr. Fleischer, FFCA's Chairman of the Board and Chief Executive Officer,
+has entered into a consulting agreement with FFCA, where, after the merger, Mr.
+Fleischer will be an independent consultant to FFCA with the title of Chairman
+Emeritus.
+The consulting agreement is for a one-year term
+
+that will automatically renew for one additional year, unless it is terminated
+prior to the renewal date by Mr. Fleischer or FFCA.
+The consulting fee under the
+agreement is at a rate of $551,300 annually, which is equal to the current
+annual base salary of Mr. Fleischer.
+Under the agreement, Mr. Fleischer will be
+eligible to receive an annual incentive bonus and a deferred bonus.
+Similar to
+the bonuses under the new employment letters described above, the bonuses are
+based on FFCA and/or Mr. Fleischer meeting various performance targets set by GE
+Capital.
+The incentive bonus is payable annually with a target amount of 100% of
+the annual consulting fee if the performance targets are met, but may range from
+a minimum of 60% of the annual consulting fee to a maximum of 125% of the annual
+consulting fee, provided Mr. Fleischer uses his reasonable best efforts to
+maximize FFCA's performance and results.
+The deferred bonus is payable on the
+first anniversary of the merger, and the second anniversary of the merger if the
+consulting agreement is renewed for a one-year term, each time with a target
+amount of 100% of the consulting fee if the targets are met.
+
+     
+In connection with entering into the consulting agreement and in
+consideration of his efforts to assist in the completion of the merger, Mr.
+Fleischer will receive a lump sum cash payment for a transaction bonus in the
+amount of $1,102,000.
+Mr. Fleischer will also receive a lump sum cash payment of
+$1,000,000 for agreeing to the non-compete provisions of the consulting
+agreement described below.
+If Mr. Fleischer's consulting agreement is terminated
+without cause (defined similar to "cause" in the new employment letters), he
+will be entitled to receive the accrued and unpaid consulting fee through the
+end of the consulting term, plus the pro-rated portion of the incentive bonus,
+calculated assuming the incentive performance targets were met.
+In addition to
+these payments, Mr. Fleischer will also receive cash payments for his
+outstanding FFCA options and restricted stock, as discussed below.
+
+     
+Under the terms of the new employment letters and the consulting agreement,
+if specified payments under the agreements become subject to an excise tax
+imposed under Section 4999 of the Tax Code (or any similar tax), the executive
+or Mr. Fleischer will be entitled to receive a "gross-up" payment in respect of
+these taxes and in respect of any taxes on such gross-up payment.
+As
+consideration for the non-compete payments in the new employment letters and the
+consulting agreement described above, under the terms of those agreements, the
+executives and Mr. Fleischer have agreed:
+
+     *    not to be engaged in or own a material financial interest in any
+          business that is competitive with FFCA during the 18-month period
+          following the completion of the merger, or during the consulting term
+          in the case of Mr. Fleischer;
+
+     *    not to attempt to hire any FFCA or specified GE Capital employees
+          during the 24-month period following the completion of the merger, or,
+          if later, the 12-month period following termination of the executive's
+          employment or termination of Mr. Fleischer's consulting term, as the
+          case may be; and
+
+     *    not to use or disclose any confidential and proprietary information
+          applicable to FFCA relating to its business, personnel or policies
+          during and after the executive's employment (or Mr. Fleischer's
+          consulting term) with FFCA, unless that information was known by the
+          executive (or Mr. Fleischer) prior to being employed by FFCA or is
+          generally known to the public or the trade.
+
+     
+FFCA's senior management is currently negotiating the terms of the
+continued employment with FFCA of eight senior vice presidents following the
+merger, which terms will be similar to the terms of the new employment letters
+described above.
+Although FFCA, GE Capital and the eight senior vice presidents
+all desire that these senior vice presidents continue as officers of FFCA
+following the merger, the explicit terms of the merger agreement require these
+officers to be terminated before completion of the merger.
+If these eight senior
+vice presidents are able to agree to continued employment terms with FFCA
+following the merger, GE Capital and FFCA have agreed to waive the provision in
+the merger agreement
+
+that requires these officers to be terminated before completion of the merger.
+
+These eight senior vice presidents currently have continuity agreements
+(severance agreements) with FFCA.
+If any of these eight officers are unable to
+agree to continued employment terms with FFCA following the merger, that officer
+will be terminated before completion of the merger.
+If any of these officers are
+terminated in connection with the merger, the continuity agreements provide that
+the officer would be entitled to receive, among other things, a lump sum payment
+in cash equal to two times the sum of (a) the officer's annual base salary on
+the date of the merger, and (b) the highest annual cash bonus payable to the
+officer with respect to any of the three full years immediately before the date
+of termination.
+In addition, the officer would be entitled to receive the unpaid
+portion of any bonus awarded to the officer prior to the termination and the
+pro-rated portion of the officer's actual bonus from January 1 of the year in
+which the termination occurs to the date of termination.
+The continuity
+agreements also provide the officers with a "gross-up" payment and the
+continuation of employee benefits and perquisites.
+If all eight of these senior
+vice presidents were terminated on the effective date of the merger, FFCA
+estimates that the maximum aggregate cash payment to these officers for base
+salary and annual bonus multipliers under the continuity agreements would be
+approximately $3,900,000, not including potential "gross-up" payments.
+These
+eight senior vice presidents, regardless of whether they enter into employment
+arrangements for continued employment with FFCA following the merger, will also
+receive cash payments for their outstanding FFCA options and restricted stock,
+as discussed below.
+
+     
+CHANGE-OF-CONTROL SEVERANCE PLAN.
+FFCA has a change-of-control severance
+plan that covers its key employees, other than those covered by the new
+employment letters or the continuity agreements described above.
+The key
+employees covered by the severance plan are FFCA's vice-presidents.
+Under this
+severance plan, the key employee will receive a lump sum cash payment equal to
+the sum of (1) the employee's annual base salary on the date of the change of
+control (or if higher, the annual base salary in effect immediately before
+termination) plus the highest bonus payable to the employee with respect to the
+three full years immediately before the date of termination, (2) the unpaid
+portion of any bonus awarded prior to the termination, and (3) the pro-rated
+portion of the employee's actual bonus from January 1 of the year in which the
+termination occurs to the date of termination, if the key employee (a) resigns
+with good reason as it is defined in the severance plan, or (b) is terminated by
+FFCA, other than terminations for death, for cause as it is defined in the
+severance plan or disability, in either of case (a) or (b):
+
+     *    during the two-year period following a change in control of FFCA
+          (which would include the acquisition of FFCA by GE Capital in the
+          merger); or
+
+     *    after the execution of an agreement which, if consummated, would
+          result in a change of control (which would include the merger
+          agreement) but before the completion of the change of control, where
+          the termination is at the request or suggestion of the acquiror or
+          merger partner of FFCA, or otherwise is in connection with the
+          anticipated change of control;
+
+The severance plan also provides for the continuation of welfare benefits and
+perquisites until the earlier of two years following the date of termination or
+the date the employee is covered by a subsequent employer.
+The severance plan
+will remain in place after completion of the merger.
+The severance plan has
+automatic one-year renewals on May 12 of each year, unless written notice of
+termination is given to the plan participants at least 120 days before the
+annual renewal date.
+However, if the merger is completed, the severance plan may
+not be terminated earlier than two years after the effective date of the merger.
+
+     OPTIONS.
+As contemplated by the merger agreement and the agreements
+governing FFCA's stock options, FFCA's compensation committee will take action
+so that all stock options held by FFCA employees, including the officers, will
+vest immediately prior to the effective time of the merger.
+All stock options
+held by FFCA's non-employee directors were exercisable on the date of grant, and
+will
+
+continue to be exercisable until the effective time of the merger.
+If the merger
+is completed, the merger agreement contemplates that the option holders will, in
+exchange for cancellation of their options, receive cash for each stock option
+equal to the excess, if any, of the per share merger consideration over the
+exercise price per share of each option, less applicable withholding taxes.
+No
+consideration will be paid for options with an exercise price of $25.00 per
+share or higher, and such options will be canceled.
+
+     
+The options held by the directors and executive officers will be converted
+into the right to receive cash in the following amounts:
+
+                                                  Cash Payments for Options with
+                          Cash Payments for      Vesting Dates Being Accelerated
+        Name           Currently Vested Options   in Connection with the Merger
+        ----           
+------------------------   
+-----------------------------
+Morton H. Fleischer          $  667,559                     $  413,891
+Willie R. Barnes             $   38,808                             --
+Kelvin L. Davis              $   12,476                             --
+Kathleen H. Lucier           $    7,500                             --
+Dennis E. Mitchem            $   23,441                             --
+Louis P. Neeb                $   38,808                             --
+Kenneth B. Roath             $   38,808                             --
+Casey J. Sylla               $   38,808                             --
+Shelby Yastrow               $   12,476                             --
+Christopher H. Volk          $  849,362                     $  309,831
+John Barravecchia            $  869,349                     $  161,469
+Dennis L. Ruben              $  775,599                     $  137,844
+Stephen G. Schmitz           $  841,300                     $  169,707
+                             ----------                     ----------
+                Total        $4,214,294                     $1,192,742
+                             ==========                     ==========
+
+As of the record date, the FFCA employees not listed in the table above held
+options with exercise prices below $25.00, the per share merger consideration,
+to purchase, in the aggregate, approximately 864,000 shares of FFCA common
+stock.
+If the merger is completed, FFCA expects that the aggregate cash payment
+to these remaining employees in exchange for cancellation of their outstanding
+options will be approximately $2,652,000.
+
+     
+RESTRICTED STOCK.
+If the merger is completed, the merger agreement and the
+agreements governing FFCA's restricted common stock contemplate that the
+compensation committee will take action so that all shares of unvested
+restricted stock held by the officers and employees of FFCA will vest
+immediately before the merger.
+In connection with the merger, these restricted
+stock holders will receive $25.00 per share in exchange for each share of
+restricted stock they hold that vests immediately prior to the merger,
+consistent with the treatment of shares of FFCA common stock under the merger
+agreement.
+
+     
+As of the date of this proxy statement, the executive officers of FFCA held
+restricted stock and will receive payments in cash for those shares in the
+following amounts upon completion of the merger:
+
+                                   Number of Shares of    Restricted Stock
+             Name                 Restricted Stock Held       Payments
+             ----                 
+---------------------      ----------
+     Morton H. Fleischer                   61,138            $1,528,450
+     Christopher H. Volk                   41,504            $1,037,600
+     John Barravecchia                     26,834            $  670,850
+     Dennis L. Ruben                       25,967            $  649,175
+     Stephen G. Schmitz                    29,218            $  730,450
+                                         --------            ----------
+
+                           Total          184,661            $4,616,525
+                                         ========            ==========
+
+As of the record date, the FFCA employees not listed above held, in the
+aggregate, 69,215 shares of restricted stock.
+If the merger is completed, FFCA
+expects that these remaining employees will receive an aggregate cash payment of
+approximately $1,730,000 for their restricted stock.
+
+     
+INDEMNIFICATION OF FFCA OFFICERS AND DIRECTORS.
+The merger agreement
+provides that GE Capital will, or will cause the surviving corporation to,
+indemnify each present and former director of FFCA and other persons entitled to
+indemnification under the charter and bylaws of FFCA and its subsidiaries to the
+fullest extent permitted under applicable law against any costs or expenses,
+judgments, fines, losses, claims, damages or liabilities incurred in connection
+with any claim, action suit, proceeding or investigation, whether civil,
+criminal, administrative or investigative, arising out of or pertaining to
+matters existing or occurring before the effective time of the merger.
+The
+merger agreement further provides that GE Capital will cause the surviving
+corporation to maintain, for a period of at least six years following the
+merger, FFCA's directors' and officers' liability insurance policies covering
+the persons serving as the officers and directors of FFCA and its subsidiaries
+immediately prior to the merger.
+
+
+AMENDMENT TO FFCA'S CHARTER
+
+     Under the merger agreement, FFCA's charter will be amended and restated at
+the effective time of the merger in the form of the new charter attached as
+Appendix C to this proxy statement.
+FFCA's amended and restated charter will,
+among other things, remove the charter's current restriction on the ownership of
+FFCA common stock, which currently prevents any one individual or entity from
+owning more than 9.8% of FFCA's outstanding common stock.
+This restriction is in
+FFCA's charter so that FFCA will continue to satisfy the REIT requirements of
+the Tax Code.
+Because GE Capital will own 100% of FFCA's common stock after the
+merger is completed, FFCA's charter must be amended to delete this restriction
+before completion of the merger.
+Since the merger agreement requires FFCA's new
+charter to be effective at the same time as the merger is completed, Maryland
+law requires that, as part of FFCA shareholder approval of the merger, the
+shareholders approve the related amendment to FFCA's charter.
+
+     
+You do not need to indicate a separate vote to approve the amendment to
+FFCA's charter.
+By voting "FOR" approval of the merger you will also be voting
+in favor of the related amendment to the FFCA charter.
+If the merger agreement
+is terminated before completion of the merger, or the merger is not otherwise
+completed, the related amendment to FFCA's charter will not be made and the
+ownership restriction described above will remain in place.
+
+EFFECTS OF THE MERGER
+
+     
+Following completion of the merger, FFCA will become a wholly-owned
+subsidiary of GE Capital.
+FFCA shareholders will receive cash in exchange for
+their shares of FFCA common stock and will no longer have any interest in the
+future earnings or growth of FFCA.
+After the merger, FFCA will no longer be a
+public company and its shares will no longer be listed or traded on the NYSE.
+
+     
+FFCA's regular quarterly dividends will be paid until the merger is
+completed.
+In addition, a special pro-rated dividend will be paid for the
+partial quarterly period, if any, ending on the day prior to the merger.
+Once
+the merger is completed, FFCA shareholders will no longer receive any dividends
+for any period following the effective time of the merger.
+
+
+FINANCING FOR THE MERGER
+
+     GE Capital intends to fund the merger consideration internally with cash
+generated from GE Capital's operations.
+There are no financing contingencies to
+the completion of the merger.
+
+
+EXPECTED ACCOUNTING TREATMENT OF THE MERGER
+
+     
+The merger will be accounted for using the purchase method of accounting
+for financial reporting purposes under accounting principles generally accepted
+in the United States.
+Under this method of accounting, the aggregate
+consideration paid by GE Capital in connection with the merger will be allocated
+to FFCA's assets and liabilities based on their fair values, with any excess or
+deficit being treated as goodwill.
+The assets and liabilities and results of
+operations of FFCA will be consolidated into the assets and liabilities and
+results of operations of GE Capital from the date of the merger.
+
+
+HART-SCOTT-RODINO FILING
+
+     Under the Hart-Scott-Rodino Act, and the rules promulgated under that act,
+the merger may not be completed until Notification and Report Forms under the
+Act have been filed with the Antitrust Division of the Department of Justice and
+the Federal Trade Commission and either a 30-day waiting period requirement has
+been satisfied or the 30-day waiting period is terminated early.
+On April 10,
+2001, GE Capital and FFCA each filed a Notification and Report Form under the
+Act with the Antitrust Division and the FTC.
+The 30-day waiting period was
+terminated early on April 13, 2001.
+At any time before or after the merger, the
+FTC, the Antitrust Division or others could take action under the antitrust laws
+with respect to the merger, including seeking to enjoin the completion of the
+merger, to rescind the merger or to require either GE Capital or FFCA to divest
+substantial assets.
+Neither FFCA nor GE Capital believes the merger will violate
+the antitrust laws or will be enjoined; however, there can be no assurance that
+a challenge to the merger on antitrust grounds will not be made, or, if a
+challenge is made, that it would not be successful.
+
+
+MATERIAL FEDERAL INCOME TAX CONSIDERATIONS
+
+     Upon completion of the merger, each outstanding share of FFCA common stock
+will be converted into the right to receive $25.00 in cash, without interest,
+subject to reduction for applicable withholding taxes.
+The following discussion
+is a summary of the material federal income tax consequences of the merger to
+the shareholders of FFCA whose shares of common stock are surrendered in
+connection with the merger.
+The discussion below does not purport to deal with
+all aspects of federal income taxation that may affect particular shareholders
+in light of their individual circumstances, and is not intended for shareholders
+subject to special treatment under the federal income tax law, including
+insurance companies, tax exempt organizations, financial institutions,
+broker-dealers, foreign persons, shareholders who hold their stock as part of a
+hedge, integrated transaction, appreciated financial position, straddle or
+conversion transaction, traders who elect to use the mark-to-market method to
+account for their securities, shareholders who do not hold their stock as
+capital assets and shareholders who have acquired their stock upon the exercise
+of employee options or otherwise as compensation.
+In addition, the discussion
+below does not consider the effect of any applicable state, local or foreign tax
+laws.
+The discussion below is based upon current provisions of the Tax Code,
+currently applicable treasury regulations promulgated under the Tax Code, and
+judicial and administrative decisions and rulings.
+Future legislative changes,
+judicial administrative changes or interpretations could alter or modify the
+statements and conditions described in this proxy statement, and these changes
+or interpretations could be retroactive and could affect the tax consequences to
+the shareholders of FFCA.
+
+     
+THIS DISCUSSION DOES NOT ADDRESS ALL ASPECTS OF FEDERAL INCOME TAXATION
+THAT MAY BE IMPORTANT TO A SHAREHOLDER BASED ON SUCH HOLDER'S PARTICULAR
+CIRCUMSTANCES AND DOES NOT ADDRESS ANY ASPECT OF STATE, LOCAL OR FOREIGN TAX
+LAWS.
+BECAUSE INDIVIDUAL CIRCUMSTANCES MAY DIFFER, EACH SHAREHOLDER IS URGED TO
+CONSULT THEIR OWN TAX ADVISOR TO DETERMINE THE APPLICABILITY OF THE RULES
+DISCUSSED BELOW TO THE SHAREHOLDER AND THE PARTICULAR TAX EFFECTS OF THE MERGER,
+INCLUDING THE APPLICATION AND EFFECT OF STATE, LOCAL AND OTHER TAX LAWS.
+FOREIGN
+SHAREHOLDERS SHOULD CONSULT WITH LOCAL ADVISORS AS TO THE TAX CONSEQUENCES OF
+THE MERGER.
+
+     
+The right to receive cash pursuant to the merger will be a taxable
+transaction at the effective time of the merger for federal income tax purposes
+under the Tax Code.
+In general, for federal income tax purposes, a shareholder
+will recognize gain or loss equal to the difference between the cash received by
+the shareholder under the merger agreement and the shareholder's adjusted tax
+basis in the shares of common stock surrendered in connection with the merger
+agreement.
+This gain or loss will be a capital gain or loss.
+The applicable tax
+rate for this gain, if any, for non-corporate shareholders (including
+individuals, estates and trusts) will, as a general matter, depend upon each
+shareholder's holding period for the shares of common stock at the effective
+time of the merger.
+If a non-corporate shareholder's holding period for the
+shares of common stock is more than one year, the shareholder will be subject to
+federal income tax at a maximum rate of 20%.
+If the shareholder's holding period
+for the shares of common stock is one year or less, the gain will be taxed at
+the same rate as ordinary income.
+Capital loss recognized by non-corporate
+shareholders generally is deductible only to the extent of capital gain plus
+ordinary income of up to $3,000.
+Net capital loss in excess of $3,000 may be
+carried forward to subsequent taxable years.
+
+     
+For corporations, capital losses are allowed only to the extent of capital
+gains, and net capital gain is taxed at the same rate as ordinary income.
+
+Corporations generally may carry capital losses back up to three years and
+forward up to five years.
+
+     
+Payment in connection with the merger may be subject to "backup
+withholding" at a 31% rate.
+Backup withholding generally applies if the
+shareholder fails to furnish the shareholder's social security number or other
+taxpayer identification number ("TIN"), or furnishes an incorrect TIN.
+Backup
+withholding is not an additional tax but merely a creditable advance payment
+which may be refunded to the extent it results in an overpayment of tax,
+provided that specific required information is furnished to the Internal Revenue
+Service.
+Various persons generally are exempt from backup withholding, including
+corporations and financial institutions.
+Penalties apply for failure to furnish
+correct information and for failure to include reportable payments in income.
+
+Shareholders should consult with their own tax advisors as to the qualifications
+and procedures for exemption from backup withholding.
+
+                              
+THE MERGER AGREEMENT
+
+     The following is a summary of the material provisions of the merger
+agreement, a copy of which is attached as Appendix A to this proxy statement and
+is incorporated in this document by reference.
+This summary does not contain all
+the information you should consider and is qualified in its entirety by
+reference to the merger agreement.
+We urge all FFCA shareholders to read the
+merger agreement in its entirety for a more complete description of the terms
+and conditions of the merger.
+
+
+THE MERGER STRUCTURE
+
+     THE MERGER.
+The merger agreement provides that Galahad Acquisition Corp.
+("Merger Sub"), an indirect wholly-owned subsidiary of GE Capital, will be
+merged with and into FFCA.
+At the time of the merger, the separate corporate
+existence of Merger Sub will cease and FFCA will continue as the surviving
+corporation and be a wholly-owned subsidiary of GE Capital.
+
+     
+FFCA'S CHARTER AND BYLAWS.
+Under the merger agreement, FFCA's charter will
+be amended and restated at the effective time of the merger in the form attached
+as Appendix C to this proxy statement.
+As described above under "THE MERGER -
+Amendment to FFCA's Charter," the amended and restated charter will, among other
+things, remove the share ownership restrictions currently contained in FFCA's
+charter.
+These restrictions must be removed so that the merger can be completed.
+
+At the effective time of the merger, the surviving corporation will also adopt
+new bylaws.
+
+     OFFICERS AND DIRECTORS.
+None of the FFCA directors will be directors of the
+surviving corporation after the merger.
+Mr. Fleischer, Chairman of the Board and
+Chief Executive Officer of FFCA, will become an independent contractor of FFCA
+with the title of Chairman Emeritus.
+The current executive officers of FFCA will
+continue as executive officers of FFCA following the merger under the terms of
+their new employment letters discussed above under the heading "THE MERGER -
+Interests of Directors and Officers in the Merger."
+Also as discussed above, the
+remaining senior officers of FFCA are in active discussions regarding the terms
+of their continued employment with FFCA following the merger.
+The merger
+agreement provides that each of the remaining senior officers of FFCA will be
+terminated at the effective time of the merger.
+FFCA and GE Capital have agreed
+to waive this provision if the current discussions with these officers result in
+mutually agreeable terms for the continued employment of the senior officers by
+FFCA following completion of the merger.
+
+
+EFFECTIVE TIME
+
+     The merger will become effective when the articles of merger have been
+filed with and accepted by the State Department of Assessments and Taxation of
+the State of Maryland in accordance with the Maryland General Corporation Law,
+or at a subsequent time as GE Capital and FFCA shall agree and specify in the
+articles of merger.
+At that time, Merger Sub will be merged with and into FFCA
+and will cease to exist as a separate entity, and FFCA will become a subsidiary
+of GE Capital.
+FFCA expects the merger to become effective as soon as
+practicable after approval of the merger by the FFCA shareholders and the
+satisfaction or waiver of all other conditions to the merger.
+The merger must be
+completed on or before December 31, 2001, unless that date is extended by the
+parties.
+
+
+CONVERSION OF FFCA COMMON STOCK
+
+     At the effective time of the merger, each issued and outstanding share of
+FFCA common stock will be converted into the right to receive $25.00 in cash,
+without interest, subject to reduction for applicable withholding taxes, if any.
+
+Under Maryland law, since FFCA's shares are listed on the NYSE, FFCA
+shareholders do not have the right to dissent and receive the appraised value of
+their shares in connection with the proposed merger.
+There are no dissenters' or
+appraisal rights provided under the merger agreement or otherwise offered in the
+merger.
+
+
+PROCEDURES FOR EXCHANGE OF STOCK CERTIFICATES
+
+     Prior to the effective time of the merger, Merger Sub will appoint a bank
+or trust company acceptable to FFCA to act as exchange agent.
+At or prior to the
+effective time, GE Capital will deposit with the exchange agent, in trust for
+the benefit of the holders of the common stock of FFCA, all the cash to be paid
+in exchange for the outstanding shares of FFCA common stock.
+Within five days
+after the effective time of the merger, the exchange agent will send to each
+record holder of outstanding stock a letter of transmittal.
+The letter of
+transmittal will specify that delivery will be effected and risk of loss and
+title to the stock certificates will pass only upon delivery of the stock
+certificate to the exchange agent.
+In addition, the exchange agent will also
+mail to each record holder instructions on how to properly surrender their stock
+certificates for payment.
+
+     
+At and following the effective time of the merger, the holders of FFCA
+stock certificates will cease to have any rights with respect to their shares of
+FFCA common stock, except as otherwise provided by law.
+On or after the
+effective time of the merger, any certificates presented to the exchange agent,
+FFCA or GE Capital for any reason will be cancelled and exchanged for the merger
+consideration.
+
+     
+No interest will be paid or accrued on the cash payable upon the surrender
+of your stock certificate.
+In the event of a transfer of ownership of FFCA
+common stock which is not registered in the transfer records of FFCA, a check in
+the proper amount of cash may be issued with respect to such stock to the
+transferee if the certificate is presented to the exchange agent, accompanied by
+all documents required to evidence and effect the transfer and to evidence that
+any applicable stock transfer taxes have been paid.
+
+     
+After the effective time of the merger, there will be no transfers of
+certificates that previously represented shares of common stock on the stock
+books of FFCA.
+
+     
+HOLDERS OF FFCA COMMON STOCK SHOULD NOT SEND IN THEIR FFCA COMMON STOCK
+CERTIFICATES TO THE EXCHANGE AGENT UNTIL THEY RECEIVE A LETTER OF TRANSMITTAL
+FROM THE EXCHANGE AGENT.
+
+
+TREATMENT OF STOCK OPTIONS, RESTRICTED STOCK AND WARRANTS
+
+     
+The merger agreement provides that immediately prior to the effective time
+of the merger, each outstanding option to purchase FFCA common stock under
+FFCA's stock option plan and each share of restricted stock, whether or not then
+vested or exercisable, will be accelerated by FFCA's compensation committee and
+be considered vested or exercisable, as contemplated by the option and
+restricted stock agreements.
+Immediately after the merger, the stock options
+will be cancelled and each share of restricted shares will be converted into the
+right to receive the merger consideration.
+Each holder of a cancelled option
+will receive an amount in cash equal to the number of shares of FFCA common
+stock previously subject to the option multiplied by the excess, if any, of
+$25.00 per share over the exercise price per share of FFCA common stock
+previously subject to such option, less any applicable withholding taxes.
+All
+outstanding shares of FFCA's restricted stock will become free of any
+restrictions and will be converted into the right to receive the merger
+consideration as described above.
+At the effective time of the merger, each
+outstanding warrant of FFCA will become exercisable for the exercise price
+contained in the warrant.
+Since the exercise price of all of FFCA's warrants is
+greater than $25.00, all of the warrants will be cancelled and no consideration
+will be issued to any warrant holder.
+
+
+REPRESENTATIONS AND WARRANTIES
+
+     BY FFCA.
+In the merger agreement, FFCA made customary representations and
+warranties, subject, in most cases, to materiality qualifications and specific
+exceptions which were disclosed to GE Capital and Merger Sub, concerning the
+business and assets of FFCA and its subsidiaries relating to the following:
+
+     *    FFCA and its subsidiaries' organization, qualification, capital
+          structure and similar corporate matters;
+
+     *    the due authorization, execution and delivery of the merger agreement
+          and the authorization of the transactions described in the merger
+          agreement and elsewhere in this proxy statement, except for the
+          required vote of the FFCA shareholders;
+
+     *    consents or approvals necessary to completion of the merger;
+
+     *    the accuracy of FFCA's SEC filings, including the information in this
+          proxy statement (other than information provided by GE Capital);
+
+     *    the absence of material adverse changes, undisclosed liabilities and
+          litigation;
+
+     *    the approval of the merger and merger agreement by FFCA's board of
+          directors;
+
+     *    FFCA's compliance with applicable laws;
+
+     *    FFCA's amendment of the shareholders' rights agreement to ensure that
+          the rights will expire immediately prior to the effective time and
+          that neither GE Capital, the Merger Sub nor any of their affiliates or
+          associates will be deemed to be acquiring persons, nor has a flip-in
+          event, distribution date or stock acquisition date occurred under the
+          shareholders' rights agreement;
+
+     *    FFCA's REIT status for all taxable years commencing with the taxable
+          year beginning June 1, 1994 through the date of the merger;
+
+     *    customary representations and warranties regarding employees of FFCA
+          and its subsidiaries, employee benefit matters and environmental
+          matters;
+
+     *    the absence of undisclosed broker's fees; and
+
+     *    related-party transactions.
+
+     
+BY GE CAPITAL AND MERGER SUB.
+The merger agreement also contains customary
+representations and warranties of GE Capital and Merger Sub concerning various
+aspects of their businesses, relating to the following:
+
+     *    GE Capital and Merger Sub's organization and qualification;
+
+     *    the due authorization, execution and delivery of the merger agreement
+          and the authorization of the transactions described in the merger
+          agreement;
+
+     *    the absence of violation of GE Capital and Merger Sub's organizational
+          documents;
+
+     *    the approval of the merger and merger agreement by the respective
+          boards of directors of GE Capital and Merger Sub;
+
+     *    the consent of Merger Sub's shareholder to the merger, and that such
+          consent will not be withdrawn;
+
+     *    the accuracy of the information provided by GE Capital or Merger Sub
+          for inclusion in this proxy statement;
+
+     *    the businesses of GE Capital competitive with FFCA's business;
+
+     *    the absence of undisclosed broker fees;
+
+     *    the funds to pay all consideration due under the merger agreement; and
+
+     *    GE Capital and Merger Sub's not owning FFCA common stock.
+
+
+CONDUCT OF FFCA'S BUSINESS BEFORE THE MERGER
+
+     FFCA has agreed that, prior to the merger, FFCA and its subsidiaries will
+(except as contemplated or permitted by the merger agreement, including as
+otherwise disclosed to GE Capital, as required by law or rules and regulations
+of a governmental entity or the NYSE, or to the extent GE Capital consents in
+writing, which consent may not be unreasonably withheld):
+
+     *    conduct their respective businesses in the usual, regular and ordinary
+          course in all material respects, in substantially the same manner as
+          conducted until now;
+
+     *    use reasonable efforts to preserve intact their present lines of
+          business, maintain their rights and franchises and preserve their
+          relationships with customers, suppliers and others having ongoing
+          business with FFCA;
+
+     *    not enter any new material line of business;
+
+     *    take all action necessary to preserve the status of FFCA as a REIT
+          within the meaning of the Tax Code (except that any effect on FFCA's
+          status as a REIT caused by a failure to pay a dividend in excess of
+          the amounts permitted by the merger agreement will not be considered a
+          default of this provision);
+
+     *    not pay dividends on or make distributions with respect to FFCA common
+          stock, other than regular quarterly dividends in an amount not to
+          exceed $0.56 per share of common stock for each dividend (including a
+          pro-rated dividend for the portion of the quarterly dividend period
+          ending the day prior to the effective time of the merger);
+
+     *    not split, combine or reclassify any capital stock, nor issue,
+          authorize or propose the issuance of any other securities in respect
+          of shares of capital stock, other than under specified previously
+          existing contractual agreements or any transaction by a wholly owned
+          subsidiary of FFCA which remains a wholly owned subsidiary of FFCA
+          after that transaction;
+
+     *    not repurchase, redeem or otherwise acquire any shares of their
+          respective capital stock or any securities convertible into or
+          exercisable for any shares of their respective capital stock, other
+          than under previously existing contractual agreements or in the
+          ordinary course of business consistent with past practice;
+
+     *    not amend their respective organizational and governing documents,
+          other than amendment to the charter of FFCA described in this proxy
+          statement;
+
+     *    not acquire, merge with and into, consolidate with or enter into any
+          other business combination with any other entity, except for internal
+          reorganizations and consolidations involving existing subsidiaries of
+          FFCA or the creation of new subsidiaries of FFCA organized to conduct
+          or continue activities permitted by the merger agreement;
+
+     *    not sell, lease, encumber or otherwise dispose of any asset, other
+          than in the ordinary course of business, internal reorganizations or
+          consolidations involving existing subsidiaries of FFCA, sales of
+          loans, or pursuant to the merger agreement;
+
+     *    not acquire or operate any real property on which an underground
+          storage tank used for, or intended for the use of, storing gasoline is
+          located;
+
+     *    not make any loans, advances, capital contributions, or investments,
+          other than in the ordinary course of business or by FFCA or its
+          subsidiaries to FFCA or its subsidiaries;
+
+     *    not create, incur, or assume indebtedness, other than under FFCA's
+          existing lines of credit or in the ordinary course of business;
+
+     *    not materially change FFCA's method of accounting, except as required
+          by generally accepted accounting principals, or make or revoke any
+          material tax elections;
+
+     *    not enter into or adopt any employment, change in control, severance
+          or other similar plan or agreement with respect to any employee of
+          FFCA or its subsidiaries, nor increase the compensation of directors,
+          officers or employees of FFCA or its subsidiaries except in the
+          ordinary course of business consistent with past practice;
+
+     *    not enter into, adopt, amend or terminate any employee benefit
+          arrangement, except in the ordinary course of business consistent with
+          past practice or pursuant to the merger agreement;
+
+     *    not pay any bonuses or incentive awards in excess of a certain dollar
+          amount, other than pursuant to the merger agreement;
+
+     *    not adopt a plan of complete or partial liquidation, dissolution,
+          restructuring, recapitalization, or other reorganization, other than
+          the transaction contemplated under the merger agreement;
+
+     *    not enter into, renew or modify specified material contracts;
+
+     *    not settle or compromise specified types of suits, actions or claims
+          pending or threatened against FFCA or its subsidiaries with respect to
+          environmental liabilities that are not covered by environmental
+          insurance or would exceed a specified amount; and
+
+     *    not enter into an agreement to take any of the actions described above
+          in this section.
+
+
+ADDITIONAL AGREEMENTS
+
+     PROXY STATEMENT.
+FFCA has agreed to prepare and file this proxy statement
+with the Securities and Exchange Commission in connection with the solicitation
+of proxies for the special meeting.
+
+     SHAREHOLDERS' MEETING.
+Under the merger agreement, FFCA has agreed to
+convene a special meeting of the FFCA shareholders to consider and vote upon the
+approval of the merger and the related amendment to FFCA's charter.
+In
+connection with this meeting, FFCA will take all lawful action to solicit the
+approval of the proposal.
+
+     DISPOSITION OF PROPERTIES CONTAINING UNDERGROUND STORAGE TANKS AND
+SPECIFIED ENVIRONMENTAL CONDITIONS.
+GE Capital has required that, as a condition
+to the merger, FFCA must sell any real estate owned by FFCA which has, or has
+had, either an underground storage tank for the storage of gasoline or which may
+have specified environmental conditions present.
+As of the date of this proxy
+statement, FFCA owns 178 properties with underground storage tanks and GE
+Capital has identified three additional properties owned by FFCA which may have
+specified environmental conditions present.
+These
+
+properties are generally convenience stores that sell gasoline, or properties
+where gasoline was sold in the past.
+These properties must be sold prior to the
+completion of the merger.
+The aggregate of the net sales prices for these
+properties must be at least as high as the price determined by the valuation
+formula separately agreed to by the parties.
+The actual sales prices of these
+properties will not change the $25.00 per share merger consideration that FFCA
+shareholders will receive if the merger is completed.
+
+     REASONABLE BEST EFFORTS TO BE TAKEN.
+GE Capital and FFCA have agreed to use
+their reasonable best efforts to take all actions and do all things necessary,
+proper or advisable under the merger agreement and applicable laws to complete
+the merger as soon as possible after March 30, 2001, the date of the merger
+agreement.
+Accordingly, GE Capital and FFCA have agreed to, as soon as
+practicable, obtain all permits, consents, approvals and authorizations
+necessary or advisable in order to complete the merger.
+The parties have also
+agreed to make the appropriate filings under the Hart-Scott-Rodino Act and take
+any necessary action under that act, except neither GE Capital or FFCA is
+required to sell, hold separate or otherwise dispose of or conduct their
+respective businesses in a manner that would reasonably be expected to have a
+material adverse effect on FFCA's business or on GE Capital's "business asset
+funding" business.
+On April 10, 2001, FFCA and GE Capital filed the information
+and materials required under the Hart-Scott-Rodino Act and the waiting period
+was terminated early on April 13, 2001.
+
+     
+NO SOLICITATION OF TRANSACTIONS.
+The merger agreement provides that FFCA
+will not itself, and will not permit any of its subsidiaries or any of their
+representatives, directly or indirectly to, initiate, solicit or knowingly
+encourage the submission of any proposal for a business combination transaction
+(except as contemplated in the merger agreement), including:
+
+     *    any merger, consolidation, share exchange, business combination, or
+          other similar transaction;
+
+     *    any sale, lease, exchange or other disposition (other than a pledge or
+          mortgage) of 20% or more of the assets of FFCA; and
+
+     *    the acquisition by a person or entity of beneficial ownership of 20%
+          or more of the shares of FFCA, whether by tender offer, exchange offer
+          or otherwise.
+
+
+The above business combination transactions are referred to in the merger
+agreement and this proxy statement as an "acquisition proposal.
+"
+
+     In addition, FFCA and its subsidiaries may not participate in discussions
+with or furnish any information to any person who is attempting to make, or
+otherwise negotiate or accept, a proposal for a business combination
+transaction.
+However, FFCA's board may, in response to a bona fide unsolicited
+written proposal for a business combination transaction:
+
+     *    furnish information to, request information from and engage in
+          negotiations with the persons making the proposal if FFCA's board
+          determines in good faith that the proposal could reasonably be
+          expected to constitute or result in a superior proposal (as defined in
+          the merger agreement);
+
+     *    recommend such proposal or withdraw or modify in any adverse manner
+          its approval or recommendation of the merger if FFCA's board
+          determines in good faith that the proposal is a superior proposal; and
+
+     *    in either case, prior to taking the above action, FFCA must provide
+          notice to GE Capital as required under the merger agreement and
+          receive from the person offering the bona fide unsolicited written
+          proposal for a business combination transaction a confidentiality and
+          standstill agreement on terms no less favorable to FFCA than its
+          confidentiality agreement with GE Capital.
+
+
+The merger agreement defines a "superior proposal" as a bona fide written
+acquisition proposal made by a third party which FFCA's board determines in good
+faith (1) would, if completed, result in a transaction that represents greater
+value to the FFCA shareholders, from a financial point of view, than the merger
+consideration, and (2) is reasonably capable of being completed.
+
+     
+As permitted by the merger agreement and in connection with their duties
+under Maryland law, FFCA's board of directors may evaluate and accept a superior
+proposal, whether received before or after FFCA shareholder approval of the
+merger is obtained.
+FFCA has agreed to keep GE Capital informed of the status of
+any negotiations relating to another proposal.
+
+     
+INDEMNIFICATION OF FFCA OFFICERS AND DIRECTORS.
+The merger agreement
+provides that GE Capital will, or will cause the surviving corporation to,
+indemnify each present and former director of FFCA and other persons entitled to
+indemnification under the charter and bylaws of FFCA and its subsidiaries to the
+fullest extent permitted under applicable law against any costs or expenses,
+judgments, fines, losses, claims, damages or liabilities incurred in connection
+with any claim, action suit, proceeding or investigation, whether civil,
+criminal, administrative or investigative, arising out of or pertaining to
+matters existing or occurring before the effective time of the merger.
+The
+merger agreement further provides that GE Capital will cause the surviving
+corporation to maintain, for a period of at least six years following the
+merger, FFCA's directors' and officers' liability insurance policies covering
+the persons serving as the officers and directors of FFCA and its subsidiaries
+immediately prior to the merger.
+
+     
+SALE OF SECURITIZATION INTERESTS.
+FFCA has agreed to sell to an affiliate
+of GE Capital, immediately before the merger, FFCA's securitization assets, not
+including servicing rights held by FFCA.
+This sale will not delay completion of
+the merger and will not affect the $25.00 per share merger consideration to be
+received by FFCA shareholders in the merger.
+
+     
+ACCESS TO INFORMATION.
+FFCA has agreed to give GE Capital reasonable
+access, prior to completion of the merger, to FFCA's business, properties and
+personnel as GE Capital may reasonably request.
+
+
+CONDITIONS TO THE MERGER
+
+     The parties' respective obligations to complete the merger are subject to
+satisfaction or waiver of the following conditions:
+
+     *    the merger, including the related amendment of FFCA's charter, is
+          approved by the shareholders of FFCA;
+
+     *    no governmental authority has enacted, promulgated, enforced or
+          entered any order or statute, rule or regulation which is in effect
+          and which has the effect of making the merger illegal or otherwise
+          prohibiting completion of the merger; and
+
+     *    any waiting period under the Hart-Scott-Rodino Act has terminated or
+          expired, which waiting period was terminated on April 13, 2001.
+
+     
+In addition, the obligations of GE Capital and Merger Sub to complete the
+merger are subject to satisfaction or waiver of the following conditions:
+
+     *    FFCA will have performed in all material respects each of its
+          obligations under the merger agreement required to be performed by
+          FFCA at or before the effective time, and each of the representations
+          and warranties of FFCA in the merger agreement will be true and
+          correct in all material aspects (provided
+
+          that this condition will be deemed to be satisfied if all failures of
+          the representations and warranties taken together would not reasonably
+          be expected to have a material adverse effect on FFCA and its
+          subsidiaries taken as a whole);
+
+     *    since March 30, 2001, no change or event has occurred that would
+          reasonably be expected to have a material adverse effect on FFCA and
+          its subsidiaries taken as a whole;
+
+     *    GE Capital has received an opinion from Kutak Rock LLP or other
+          counsel to FFCA reasonably acceptable to GE Capital as to the status
+          of FFCA as a REIT for federal income tax purposes and the tax status
+          of specified subsidiaries, and substantially in the form attached as
+          an exhibit to the merger agreement or as otherwise agreed to by the
+          parties;
+
+     *    no governmental suit is pending or threatened which would either have
+          the effect of making the merger illegal, place any material
+          limitations on GE Capital's or Merger Sub's ownership or operation of
+          all or a material portion of FFCA's business, or otherwise compel GE
+          Capital or its affiliates to dispose of or hold separate (1) a
+          material portion of the business or assets of GE Capital's business
+          unit that specializes in providing financing for franchise operations,
+          or (2) any portion of the business or assets of FFCA, if it would
+          reasonably be expected to have a material adverse effect on FFCA's
+          business;
+
+     *    since March 30, 2001, no adverse changes in tax laws has occurred and
+          is continuing that would reasonably be expected to result in a
+          material risk that FFCA would not qualify as a REIT at or before the
+          effective time;
+
+     *    since March 30, 2001 through the effective time, there must not be a
+          25% decline in the NYSE composite index or a general suspension of
+          trading on the NYSE, in each case, that is continuing as of the
+          effective time; and
+
+     *    FFCA has disposed of all real estate FFCA owns which contain
+          underground storage tanks and the three additional properties which
+          have specified environmental conditions present, as required by the
+          merger agreement.
+
+     
+The obligation of FFCA to complete the merger is subject to the
+satisfaction or waiver of the following condition:
+
+     *    GE Capital and Merger Sub will have performed in all material respects
+          each of their respective obligations under the merger agreement that
+          are required to be performed at or before the effective time of the
+          merger, and each of the representations and warranties of GE Capital
+          and Merger Sub in the merger agreement will be true and correct in all
+          material aspects.
+
+
+TERMINATION OF THE MERGER AGREEMENT
+
+     The merger agreement may be terminated at any time prior to the completion
+of the merger, whether before or after approval by FFCA's shareholders has been
+obtained:
+
+     *    by mutual written consent of FFCA and GE Capital;
+
+     *    by either GE Capital or FFCA if the merger is not approved by FFCA's
+          shareholders at the special meeting or any adjournment or postponement
+          of the meeting;
+
+     *    by either GE Capital or FFCA if the merger is not completed on or
+          before December 31, 2001;
+
+     *    by either GE Capital or FFCA if any final, nonappealable order of any
+          governmental entity or court is in effect that prevents completion of
+          the merger;
+
+     *    by FFCA if any of the conditions to FFCA's duty to complete the merger
+          become impossible to fulfill and are not waived in accordance with the
+          terms of the merger agreement;
+
+     *    by FFCA, after giving two days' advance notice to GE Capital, if FFCA
+          accepts a proposal for a business combination which FFCA deems to be a
+          superior proposal (as defined in the merger agreement) to the merger
+          after giving effect to any modification GE Capital makes to its offer
+          during the two day period, provided that the conditions and
+          requirements of the merger agreement have been satisfied;
+
+     *    by GE Capital if any of the conditions to GE Capital's duty to
+          complete the merger become impossible to fulfill and are not waived in
+          accordance with the terms of the merger agreement; or
+
+     *    by GE Capital if the board of directors of FFCA withdraws or modifies
+          in any adverse manner its approval or recommendation of the merger
+          agreement or approves or recommends a superior proposal.
+
+
+TERMINATION FEE
+
+     FFCA must pay GE Capital a $60 million termination fee if the merger
+agreement is terminated:
+
+     *    by GE Capital, as a result of FFCA's board of directors withdrawing or
+          modifying in any adverse manner its approval or recommendation of the
+          merger agreement or approving or recommending to FFCA's shareholders a
+          superior proposal;
+
+     *    by FFCA, as a result of FFCA's board determining to approve or
+          recommend a superior proposal to the merger; or
+
+     *    by either FFCA or GE Capital as a result of (1) the FFCA shareholders
+          not approving the merger at the special meeting, (2) at the time of
+          such meeting, an acquisition proposal, in which the consideration
+          offered to FFCA shareholders has a value in excess of $25.00 per
+          share, has been publicly announced and has not been publicly rejected
+          by the board, and (3) within 12 months after termination of the merger
+          agreement, FFCA either (a) completes the transaction with respect to
+          such acquisition proposal, or (b) enters into a definitive agreement
+          to complete such transaction (or any other transaction which likewise
+          offers FFCA shareholders per share value in excess of $25.00) and any
+          such transaction is completed at any time after entering into that
+          agreement.
+
+
+AMENDMENTS, EXTENSIONS AND WAIVERS
+
+     
+The merger agreement may be amended by action taken by the respective
+boards of directors of FFCA, GE Capital and Merger Sub at any time before or
+after approval of the merger by the shareholders of FFCA or Merger Sub; but
+after any such approval by the shareholders of FFCA or Merger Sub, no amendment
+may be made that would require additional FFCA or Merger Sub shareholder
+approval without obtaining such additional shareholder approval.
+
+     
+At any time prior to the merger, any party may (a) extend the time for the
+performance of any of the obligations or other acts of any other party, (b)
+waive any inaccuracies in the representations and warranties contained in the
+merger agreement or in any document delivered under the merger agreement, or (c)
+waive compliance with any agreement or condition contained in the merger
+agreement.
+
+                           
+INFORMATION CONCERNING FFCA
+
+     FFCA, based in Scottsdale, Arizona, is a single-tenant retail property
+finance company dedicated to providing real estate financing to multi-unit
+operators of chain restaurants, convenience stores and automotive services and
+parts outlets.
+FFCA's financing alternatives include mortgages and long-term
+real estate leases, construction and acquisition financing, equipment loans and
+other custom financing solutions.
+Diversified by industry, geographic location,
+client and chain, FFCA had a combined investment and servicing portfolio of more
+than 6,200 properties throughout the U.S. as well as in Canada as of December
+31, 2000.
+Its clients operate some of the best-known chains in the country,
+including Applebee's, Arby's, Burger King, Checker Auto Parts, Chevron, Circle
+K, Citgo, Cracker Barrel, Hardee's, Jack in the Box, Long John Silver's, Midas
+Muffler Shops, Pizza Hut, 7-Eleven, Taco Bell, Texaco, Valvoline Instant Oil
+Change and Wendy's.
+
+MARKET FOR FFCA COMMON STOCK
+
+     FFCA's common stock is currently traded on the New York Stock Exchange
+under the symbol "FFA".
+FFCA began trading on the NYSE on June 29, 1994.
+The
+following tables sets forth the high and low sales prices per share as quoted by
+the NYSE and the dividends declared per share for the following quarters of the
+fiscal years indicated:
+
+                                     Sales Prices
+                                ----------------------          Dividends
+       Fiscal 2001               High            Low             Declared
+       -----------              -------        
+-------           --------
+     First Quarter**            $24.970        $22.000            $  .56
+
+                                     Sales Prices
+                                ----------------------          
+Dividends
+       Fiscal 2000               High            Low             Declared
+       -----------              -------        -------           
+--------
+     Fourth Quarter             $23.875        $20.063            $  .56
+     Third Quarter               25.250         22.188               .53
+     Second Quarter              25.250         21.688               .53
+     First Quarter               24.938         22.250               .53
+                                                                  ------
+                                                                  $ 2.15
+                                                                  ======
+
+                                     Sales Prices
+                                ----------------------          
+Dividends
+       Fiscal 1999               High            Low             Declared
+       -----------              -------        -------           
+--------
+     Fourth Quarter             $24.500        $20.813            $  .53
+     Third Quarter               24.188         21.188               .49
+     Second Quarter              25.250         20.750               .49
+     First Quarter               25.563         20.125               .49
+                                                                  ------
+                                                                  $ 2.00
+                                                                  ======
+- ----------
+**   Includes closing prices after the public announcement of the merger on
+     March 30, 2001.
+
+     
+Future distributions will be dependent upon cash flow from operations,
+financial position and cash requirements of FFCA.
+In addition, as permitted by
+the merger agreement, FFCA intends to continue to pay its regularly scheduled
+quarterly dividends until the completion of the merger, including a special
+pro-rated dividend for the partial quarterly period, if any, ending the day
+before completion of the merger.
+
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND FFCA MANAGEMENT
+
+     The following table contains information as of April 3, 2001, regarding
+beneficial ownership of shares by (1) each director of FFCA, (2) the CEO and
+each of the named executive officers (the four most highly compensated officers
+after the CEO), (3) all directors and executive officers of FFCA as a group, and
+(4) all persons known to FFCA to be the beneficial owner of 5% or more of the
+outstanding shares of FFCA.
+Unless otherwise noted in the footnotes following
+the table, the persons as to whom information is given have sole voting and
+investment power over the shares beneficially owned.
+
+                                           
+Aggregate                           Total Number
+                                        Number of Shares        Shares          of Shares
+                                          Beneficially        Acquirable       Beneficially     Percent
+Name                                        Owned(1)       
+Within 60 Days(2)   Owned(2)(3)     of Class
+- ----                                        --------       -----------------   -----------     --------
+
+Morton H. Fleischer                        1,078,355(4)        428,373         1,506,728(4)       2.7%
+Willie R. Barnes                               2,148            19,631            21,779           *
+Kelvin L. Davis                                  300            11,335            11,635           *
+Kathleen H. Lucier                             2,468             6,000             8,468           *
+Dennis E. Mitchem                              6,889            16,704            23,593           *
+Louis P. Neeb                                 19,221            19,631            38,852           *
+Kenneth B. Roath                               8,656            19,631            28,287           *
+Casey J. Sylla                                12,602(5)         19,631            32,233(5)        *
+Shelby Yastrow                                14,669            11,335            26,004           *
+Christopher H. Volk                           78,071           336,408           414,479           *
+John Barravecchia                             55,959           261,066           317,025           *
+Dennis L. Ruben                               45,843           211,066           256,909           *
+Stephen G. Schmitz                            35,006           263,200           298,206           *
+Colony SB, LLC                             3,795,913         1,476,908         5,272,821(6)       9.2%(6)
+  1999 Avenue of the Stars, Suite 1200
+  Los Angeles, California 90067
+Directors and executive officers as a      1,368,650         1,706,427         3,075,077          5.3%
+group (14 persons)
+
+- ----------
+*    Less than one percent
+(1)  Share amount and percentage figures are rounded to the nearest whole
+     number.
+
+(2)  All shares not outstanding but which may be acquired by such shareholder
+     within 60 days by the exercise of any stock option or any other right, are
+     deemed to be outstanding for the purposes of calculating beneficial
+     ownership and computing the percentage of the class beneficially owned by
+     such shareholder, but not by any other shareholder.
+The foregoing share
+     amounts include shares which may be acquired pursuant to stock options and
+     warrants exercisable within 60 days of April 3, 2001, but do not include
+     options that are not currently exercisable that will be accelerated in
+     connection with the merger.
+
+(3)  Does not include shares awarded to employees as the matching portion of
+     FFCA's 401(k) plan.
+
+(4)  Includes an aggregate of 10,000 shares held by Donna H. Fleischer, the wife
+     of Mr. Fleischer.
+
+(5)  Includes an aggregate of 1,200 shares held by Dolores Sylla, the wife of
+     Mr. Sylla.
+(6)  These shares consist of 3,795,913 shares currently owned by Colony SB, LLC
+     ("Colony"), and 1,476,908 shares which Colony has the right to acquire
+     pursuant to an immediately exercisable warrant agreement dated March 13,
+     1998.
+Based upon a Schedule 13D, dated March 23, 1998, and information
+     provided to FFCA by Colony, these shares are also deemed to be beneficially
+     owned by Colony GP III, Inc., Colony Capital III, L.P., Colony Investors
+     III, L.P. and Thomas J. Barrack, Jr.
+
+     
+The address of these beneficial owners is 1999 Avenue of the Stars, Suite
+     1200, Los Angeles, California 90067.
+As the sole shareholder of Colony GP
+     III, Inc., Mr. Barrack is deemed to have the power to vote and dispose of,
+     or to direct the vote or disposition of, Colony's Shares.
+As described
+     above under the heading "THE MERGER AGREEMENT - Treatment of Stock Options,
+     Restricted Stock and Warrants," Colony's warrants have an exercise price
+     that is greater than $25.00 per share and will be cancelled as a result of
+     the merger.
+Excluding shares acquirable upon the exercise of Colony's
+     warrant, Colony beneficially owned approximately 6.76% of FFCA's shares.
+
+                
+INFORMATION CONCERNING GE CAPITAL AND MERGER SUB
+
+     Merger Sub (Galahad Acquisition Corp.) was organized solely for the
+purposes of merging with FFCA under the merger agreement.
+All of the outstanding
+capital stock of Merger Sub is owned indirectly by GE Capital.
+GE Capital is a
+wholly-owned subsidiary of General Electric Capital Services, Inc. GE Capital
+Services is a wholly-owned subsidiary of General Electric Company ("GE").
+GE
+Capital, together with its subsidiaries, engages in financing services that
+include lending, equipment management services and annuities.
+
+     
+The business of GE Capital Services consists of the ownership of two
+principal subsidiaries which, together with their affiliates, constitute GE's
+principal financial services businesses.
+GE engages in providing a wide variety
+of industrial, commercial and consumer products and services.
+
+     
+GE Capital Commercial Equipment Financing is one of GE Capital's business
+units and serves a broad financing market from small businesses to Fortune 100
+companies worldwide.
+Their portfolio includes more than 90 different equipment
+types, including trucks and trailers, corporate aircraft, manufacturing
+facilities and construction, medical and office equipment.
+GE Capital, with
+assets of more than $370 billion, is a global, diversified financial services
+company grouped into six key operating segments comprised of 24 business units.
+
+GE Capital, based in Stamford, Connecticut, provides a variety of consumer
+services, such as credit cards and life and automobile insurance; mid-market
+financing; specialized financing; specialty insurance; equipment management, and
+specialized services, to businesses and individuals in 47 countries around the
+world.
+GE is a diversified services, technology and manufacturing company with
+operations worldwide.
+
+     
+GE Capital and Galahad Acquisition Corp. do not beneficially own any shares
+of FFCA common stock.
+
+                  
+SHAREHOLDER PROPOSALS FOR 2002 ANNUAL MEETING
+
+     Due to the special meeting and anticipated merger, FFCA does not currently
+expect to hold a 2002 annual meeting of shareholders, as FFCA will no longer be
+a public company and will be a wholly owned subsidiary of GE Capital if the
+merger is completed.
+If the merger is not completed and the 2002 annual meeting
+is held, shareholder proposals for inclusion in proxy materials for the 2002
+annual meeting must be received at FFCA's offices on or before December 1, 2001,
+in order to be considered for inclusion in FFCA's proxy statement and form of
+proxy relating to that meeting.
+
+     
+If a shareholder intends to submit a proposal at FFCA's 2002 Annual Meeting
+of Shareholders, if held, which proposal is not intended to be included in
+FFCA's proxy statement and form of proxy relating to such meeting, the
+shareholder's notice of the proposal must be received by FFCA between December
+1, 2001 and December 31, 2001.
+If a shareholder fails to submit the proposal by
+such date, FFCA will not be required to provide any information about the nature
+of the proposal in its proxy statement, and the proposal will not be considered
+at the 2002 Annual Meeting of Shareholders.
+
+     
+Shareholder proposals must also meet the other requirements of the rules of
+the Securities and Exchange Commission relating to shareholder proposals.
+
+     
+Proposals should be sent to Dennis L. Ruben, Executive Vice President,
+General Counsel and Secretary of FFCA, at 17207 North Perimeter Drive,
+Scottsdale, Arizona 85255-5402.
+
+                       
+WHERE YOU CAN FIND MORE INFORMATION
+
+     FFCA and GE Capital are subject to the informational requirements of the
+Securities Exchange Act of 1934, and in compliance with that act file periodic
+reports and other information with the SEC.
+These reports and other information
+FFCA and GE Capital file with the SEC can be inspected and copied at the public
+reference facilities maintained by the SEC in Washington D.C. at 450 Fifth
+Street, N.W., Washington, D.C. 20549 and at several of its regional offices
+which are located in the New York Regional Office, Seven World Trade Center,
+Suite 1300, New York, NY 10048, and the Chicago Regional Office, CitiCorp
+Center, 500 West Madison Street, Suite 1400, Chicago, IL 60661.
+The SEC's
+telephone number is (800) SEC-0330.
+In addition, the SEC maintains a World Wide
+Web site that contains reports, proxy statements and other information regarding
+registrants like FFCA and GE Capital that file electronically with the SEC at
+the following Internet address: http://www.sec.gov.
+
+     
+We have not authorized anyone to give any information or make any
+representations other than those contained in this proxy statement in connection
+with the solicitation of proxies made by this proxy statement, and, if given or
+made, you must not rely upon such information as having been authorized by FFCA
+or any other person.
+
+     
+This proxy statement is dated __________, 2001.
+You should not assume that
+the information contained in this proxy statement is accurate as of any date
+other than _________, 2001, and the mailing of this proxy statement to you does
+not create any implication to the contrary.
+
+                           
+FORWARD-LOOKING STATEMENTS
+
+     This proxy statement contains forward-looking statements within the meaning
+of Section 27A of the Securities Act of 1933 and Section 21E of the Exchange
+Act, including in particular the statements about FFCA's plans, strategies and
+prospects.
+Although FFCA believes that its plans, intentions and expectations
+reflected in or suggested by the forward-looking statements are reasonable, FFCA
+can give no assurance that these plans, intentions or expectations will be
+achieved.
+FFCA has included important factors that could cause actual results to
+differ materially from the forward-looking statements in its Annual Report on
+Form 10-K for the year ended December 31, 2000 under the headings "Business -
+Factors Affecting Future Operating Results" and "- Regulation."
+FFCA qualifies
+the forward looking statements contained in this proxy statement by the
+cautionary statement included in FFCA's Form 10-K.
+
+================================================================================
+
+                                   APPENDIX A
+
+                          AGREEMENT AND PLAN OF MERGER
+
+                                      Among
+
+                      GENERAL ELECTRIC CAPITAL CORPORATION,
+                            GALAHAD ACQUISITION CORP.
+
+                                       and
+
+                    FRANCHISE FINANCE CORPORATION OF AMERICA.
+
+                              
+Dated March 30, 2001
+
+================================================================================
+
+                         SECTION INDEX OF DEFINED TERMS
+
+DEFINED TERM                                                        SECTION
+- ------------                                                        -------
+
+1995 Stock Option Plan .......................................   ss.
+3.1(b)(iii)
+2001 Bonus Amount ............................................        
+ss.
+5.6(d)
+Acquisition Proposal .........................................           
+ss.
+5.5
+Agreement ....................................................          
+Preamble
+Articles of Merger ...........................................           
+ss.
+1.3
+BAF Business .................................................        ss.
+5.4(b)
+Benefit Plans ................................................       ss. 8.11(a)
+
+Board Approval ...............................................        ss.
+3.1(h)
+
+Board of Directors ...........................................       
+ss.
+8.11(b)
+
+Business Day .................................................       ss. 8.11(c)
+Cancelled Shares .............................................    
+ss.
+1.8(a)(ii)
+
+CERCLA .......................................................    
+ss.
+3.1(q)(iv)
+
+Certificate ..................................................        ss.
+1.8(b)
+Claims .......................................................        ss.
+3.1(m)
+Closing ......................................................           ss.
+1.2
+Closing Date .................................................           
+ss.
+1.2
+COBRA ........................................................   ss.
+3.1(p)(vii)
+
+Code .........................................................           
+ss.
+2.8
+Company ......................................................          
+Preamble
+Company Common Stock .........................................          
+Recitals
+Company Disclosure Schedule ..................................           
+ss.
+3.1
+Company Employees ............................................     
+ss.
+3.1(p)(i)
+Company Permits ..............................................        ss.
+3.1(n)
+Company Plans ................................................     ss.
+3.1(p)(i)
+Company SEC Reports ..........................................        
+ss.
+3.1(d)
+Company Stockholders Meeting .................................        
+ss.
+5.1(b)
+
+Company Voting Debt ..........................................    
+ss.
+3.1(b)(ii)
+Confidentiality Agreement ....................................        ss.
+5.3(b)
+Costs ........................................................        ss.
+5.8(a)
+Covered Persons ..............................................        
+ss.
+5.8(a)
+Data Tape ....................................................        ss.
+3.1(x)
+
+Disposition ..................................................          Recitals
+DOJ ..........................................................        ss.
+5.4(c)
+Effective Time ...............................................           
+ss.
+1.3
+Environmental Claims .........................................    ss.
+3.1(q)(iv)
+Environmental Law ............................................    
+ss.

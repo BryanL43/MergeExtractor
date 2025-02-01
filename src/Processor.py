@@ -35,12 +35,11 @@ class Processor:
         # Create a request that mimics browser activity
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-            "Accept-Language": "en-US,en;q=0.9",
-            "Referer": re.sub(r"\.txt$", "-index.html", url)
+            "Accept-Language": "en-US,en;q=0.9"
         }
 
         response = requests.get(url, headers=headers);
-        if (response.status_code == 200):
+        if (response.text):
             return response.text;
         else:
             print(f"FATAL: Failed to load document via url. Err_Code: {response.status_code}");

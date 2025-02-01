@@ -5,6 +5,8 @@ import sys
 from concurrent.futures import ThreadPoolExecutor
 from fuzzywuzzy import fuzz
 import os
+import csv
+from tqdm import tqdm
 
 from Logger import Logger
 from Assistant import Assistant
@@ -258,7 +260,8 @@ class Crawler:
         processor = Processor(self.assistant, self.nlp, self.threadCount, self.startPhrases);
 
         # Main crawler
-        for mainIndex in range(self.__startIndex, self.__endIndex):
+        # for mainIndex in range(self.__startIndex, self.__endIndex):
+        for mainIndex in tqdm(range(self.__startIndex, self.__endIndex), desc="Processing", unit="item"):
             print("Processing index: ", mainIndex, "; Companies: ", self.companyAList[mainIndex], " & ", self.companyBList[mainIndex]);
 
             # Construct the constraint of a given date & prep for url-parsing
@@ -284,5 +287,18 @@ class Crawler:
             # Process the documents from the source links
             companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
             result = processor.locateSection(sourceLinks, companyNames, mainIndex);
+            if (result == None):
+                continue;
             
-            return result;
+            # Get the initiator and reason
+            match = re.search(r"\[(.*?)\]", result);
+            initiator = match.group(1) if match else "Unknown";
+
+            with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
+                writer = csv.writer(file);
+
+                # Write header if the file is empty
+                if file.tell() == 0:
+                    writer.writerow(["DATE", "TMANAMES", "AMANAMES", "INITIATOR"]);
+                    
+                writer.writerow([self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], initiator]);
