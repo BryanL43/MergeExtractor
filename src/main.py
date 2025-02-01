@@ -14,6 +14,7 @@ load_dotenv();
 api_key = os.getenv("OPENAI_API_KEY");
 csvFile = "./truncatedData.csv";
 maxNumOfThreads = os.cpu_count();
+deleteAssistant = False;
 
 # Load spaCy model
 if torch.cuda.is_available():
@@ -37,18 +38,20 @@ startPhrases = [
 
 def main():
     prompt = (
-        "Extract the 'Background of the Merger'"
-        "(which could be phrased differently, such as 'Background of the Transaction', 'Background of the Acquisition', or 'Background of the Offer', and so on),"
-        "which is the chronological timeline of events leading to the two companies' merger."
-        "With that extracted section, could you tell me who initiated the merger/deal first."
+        "Locate the 'Background of the Merger' "
+        "(which could be phrased differently, such as 'Background of the Transaction', 'Background of the Acquisition', or 'Background of the Offer', and so on), "
+        "which is the chronological timeline of events leading to the two companies' merger. "
+        "With that section, determine who initiated the merger/deal first. "
+        "Provide only the initiator's company name in the exact format with brackets so I can seperate them later: [company name] "
     );
 
     assistant = Assistant(api_key, prompt, "gpt-4o-mini");
-    # print(myAssistant.extractSection("./DataSet/Xircom_Inc_&_Intel_Corp.txt").split("---")[1]);
-    # myAssistant.deleteAssistant();
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, assistant);
-    crawler.runCrawler(index=11);
+    print(crawler.runCrawler(index=11));
+
+    if deleteAssistant:
+        assistant.deleteAssistant();
 
 
 if __name__ == "__main__":

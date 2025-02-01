@@ -35,7 +35,8 @@ class Processor:
         # Create a request that mimics browser activity
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
-            "Accept-Language": "en-US,en;q=0.9"
+            "Accept-Language": "en-US,en;q=0.9",
+            "Referer": re.sub(r"\.txt$", "-index.html", url)
         }
 
         response = requests.get(url, headers=headers);
@@ -103,7 +104,7 @@ class Processor:
 
         return cleanedText.strip();
 
-    def __locateSection(self, text, startCandidates):
+    def __findSection(self, text, startCandidates):
         doc = self.nlp(text);
         sentences = [sent.text for sent in doc.sents];
 
@@ -123,11 +124,12 @@ class Processor:
         if (startIndex == -1 or match is None):
             return None;
         
-        section = sentences[startIndex:];
+        # Once we locate the section, we won't need the entirety of it, so take half from the background point.
+        section = sentences[startIndex:startIndex + len(sentences) // 2];
 
         return "\n".join(section);
 
-    def extractSection(self, sourceLinks: list, companyNames: list, mainIndex: int):
+    def locateSection(self, sourceLinks: list, companyNames: list, mainIndex: int):
         """
             - Here, we will verify that both company names are present in the document.
                 - Reduces the amount of documents needed to be processed with NLP.
@@ -155,7 +157,7 @@ class Processor:
                         cleanedText = self.__removeTableOfContents(cleanedText);
                         truncatedText = cleanedText[50000:1000000];  # Shrink to manageable size for spaCy
 
-                        backgroundSection = self.__locateSection(truncatedText, self.startPhrases);
+                        backgroundSection = self.__findSection(truncatedText, self.startPhrases);
                         if backgroundSection is None:
                             continue;
 
@@ -182,5 +184,6 @@ class Processor:
 
             return None;
         else:
-            # Process the section with assistant if it exists
+            # Process the section with assistant if it exists.
+            # Requires file upload so I pass Assistant object to use here.
             return self.assistant.extractSection(f"./DataSet/{formatDocName}.txt");

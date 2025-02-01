@@ -87,7 +87,7 @@ class Crawler:
 
         # Create a request that mimics browser activity
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
             "Referer": "https://www.sec.gov/"
         }
 
@@ -147,7 +147,7 @@ class Crawler:
         
         # Create a request that mimics browser activity
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
             "Referer": "https://www.sec.gov/"
         }
 
@@ -198,7 +198,7 @@ class Crawler:
         
         # Create a request that mimics browser activity
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
             "Referer": "https://www.sec.gov/"
         }
 
@@ -231,11 +231,7 @@ class Crawler:
                 validatedCik = None;
                 ciks = document["_source"]["ciks"];
                 if ciks:
-                    lastCIK = ciks[-1];
-                    validatedCik = lastCIK;
-
-                # Remove leading zeros from the CIK
-                validatedCik.lstrip('0');
+                    validatedCik = ciks[-1].lstrip('0');
             
                 # Acquire normal adsh & adsh without the "-" character
                 adsh = document["_source"]["adsh"];
@@ -287,6 +283,6 @@ class Crawler:
 
             # Process the documents from the source links
             companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
-            result = processor.extractSection(sourceLinks, companyNames, mainIndex);
+            result = processor.locateSection(sourceLinks, companyNames, mainIndex);
             
-            print(result)
+            return result;

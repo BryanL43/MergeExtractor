@@ -1,16 +1,6 @@
-[2025-01-30 19:52:03] [-] No background section found for index 11: Dallas-Semiconductor Corp & Maxim Integrated Products Inc;
-	Dumping its document links:
-		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
-		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
-[2025-01-30 20:00:09] [-] No background section found for index 11: Dallas-Semiconductor Corp & Maxim Integrated Products Inc;
-	Dumping its document links:
-		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
-		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
-[2025-01-30 20:06:56] [-] No background section found for index 11: Dallas-Semiconductor Corp & Maxim Integrated Products Inc;
-	Dumping its document links:
-		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt
-		https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500103/0001095811-01-500103.txt
-[2025-01-30 20:12:55] [-] Error processing https://www.sec.gov/Archives/edgar/data/0000743316/000109581101500299/0001095811-01-500299.txt: [Errno 2] No such file or directory: '../DataSet/Dallas-Semiconductor_Corp_&_Maxim_Integrated_Products_Inc.txt'
-[2025-01-30 20:17:45] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
-[2025-01-30 21:24:59] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
-[2025-01-30 21:43:02] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
+[2025-02-01 02:34:18] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
+[2025-02-01 02:52:27] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
+[2025-02-01 02:54:50] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
+[2025-02-01 02:59:19] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
+[2025-02-01 03:00:58] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
+[2025-02-01 03:04:12] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc

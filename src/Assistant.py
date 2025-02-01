@@ -16,10 +16,9 @@ class Assistant:
             self.__assistant = self.__client.beta.assistants.create(
                 name="Document Assistant",
                 instructions="""\
-                    You are an expert at identifying and extracting a section from a given text file.
-                    You are to locate the desired section and return its entire contents.
-                    Please give me the section exactly as it is without summarizing, paraphrasing, or changing anything.
-                    Ensure that you have acquired everything within the section by verifying any additional amendments.
+                    You specialize in locating and extracting relevant information from a specific section of a given text file.
+                    Your task is to identify the relevant section, analyze its content, and then respond to the given prompt based on your analysis.
+                    Make sure you have gathered all content from the section by checking for any possible amendments or additions.
                     If you cannot find the section, simply return 'None'.
                     """,
                 model=self.model,
