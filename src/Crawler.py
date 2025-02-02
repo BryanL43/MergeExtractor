@@ -264,7 +264,13 @@ class Crawler:
             # Stores all asynchronous results from Assistant and load them at the end.
             # This preserves the operation of multi-threading.
             futures = [];
-            for mainIndex in tqdm(range(self.__startIndex, self.__endIndex), desc="Processing", unit="item"):
+            for mainIndex in tqdm(
+                range(self.__startIndex, self.__endIndex),
+                desc="\033[35mProcessing\033[0m",
+                unit="items",
+                ncols=80,
+                bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed -> {elapsed}]\n"
+            ):
                 print("Processing index: ", mainIndex, "; Companies: ", self.companyAList[mainIndex], " & ", self.companyBList[mainIndex]);
 
                 # Construct the constraint of a given date & prep for url-parsing

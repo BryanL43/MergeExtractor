@@ -124,8 +124,8 @@ class Processor:
         if (startIndex == -1 or match is None):
             return None;
         
-        # Once we locate the section, we won't need the entirety of it, so take half from the background point.
-        section = sentences[startIndex:startIndex + len(sentences) // 2];
+        # Once we locate the section, we won't need the entirety of it, so take a third from the background point.
+        section = sentences[startIndex:startIndex + len(sentences) // 3];
 
         return "\n".join(section);
 
@@ -139,7 +139,7 @@ class Processor:
 
         # Acquire company's name first word & format document name
         companyNamesCut = [self.__extractFirstWord(name).lower() for name in companyNames];
-        formatDocName = f"{companyNames[0].replace(' ', '_')}_&_{companyNames[1].replace(' ', '_')}";
+        formatDocName = f"{mainIndex}_{companyNames[0].replace(' ', '_')}_&_{companyNames[1].replace(' ', '_')}";
         
         # Multi-thread variables
         foundData = False;
