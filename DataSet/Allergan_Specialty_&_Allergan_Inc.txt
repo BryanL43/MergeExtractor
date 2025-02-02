@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/200406/000095012301501039/0000950123-01-501039.txt
+URL: https://www.sec.gov/Archives/edgar/data/200406/000095012301502411/0000950123-01-502411.txt
 
 THE MERGER
 
@@ -49,13 +49,13 @@ confidentiality and standstill agreement, which the two companies signed on
 February 27, 2001.
 
      
-Thereafter, the ALZA senior management retained JPMorgan, a division of
-Chase Securities Inc., and Merrill Lynch, Pierce, Fenner & Smith Incorporated to
-provide financial advisory services to ALZA regarding the proposed business
-combination with Johnson & Johnson.
-The ALZA senior management also engaged
-Heller Ehrman White & McAuliffe LLP, as counsel, to represent ALZA in the
-proposed business combination.
+Thereafter, the ALZA senior management retained J.P. Morgan Securities
+Inc., formerly known as Chase Securities Inc., and Merrill Lynch, Pierce, Fenner
+& Smith Incorporated to provide financial advisory services to ALZA regarding
+the proposed business combination with Johnson & Johnson.
+The ALZA senior
+management also engaged Heller Ehrman White & McAuliffe LLP, as counsel, to
+represent ALZA in the proposed business combination.
 
      
 On March 1, 2001, members of the ALZA senior management and Johnson &
@@ -84,7 +84,7 @@ At a meeting of the ALZA board of directors held on March 15, 2001, the
 ALZA senior management made presentations regarding the proposed business
 combination and the status of the negotiations and discussions about the merger
 agreement.
-ALZAs' financial, legal and accounting advisors also participated in
+ALZA's financial, legal and accounting advisors also participated in
 the meeting.
 After discussion, the ALZA board of directors directed the ALZA
 
@@ -278,9 +278,11 @@ The ALZA board of
 directors unanimously recommends that the stockholders of ALZA vote "FOR" the
 adoption of the merger agreement.
 
-OPINIONS OF JPMORGAN AND MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED
 
-     OPINION OF JPMORGAN
+OPINIONS OF J.P. MORGAN SECURITIES INC. AND MERRILL LYNCH, PIERCE, FENNER &
+SMITH INCORPORATED
+
+     OPINION OF J.P. MORGAN SECURITIES INC.
 
      JPMorgan acted as ALZA's financial advisor in connection with the merger.
 
@@ -292,6 +294,15 @@ written opinion to the ALZA board of directors to the effect that, as of such
 date and based upon and subject to certain matters stated therein, the exchange
 ratio in the merger was fair, from a financial point of view, to the holders of
 ALZA common stock.
+
+     
+The JPMorgan opinion, the summary of the JPMorgan opinion and the
+procedures and analyses described below are based on the exchange ratio of 0.49
+in effect on the date of the JPMorgan opinion, and neither the JPMorgan opinion
+nor such summary or such procedures or analyses have been restated to give
+effect to the adjustment of the exchange ratio from 0.49 to 0.98 that will be
+made upon the effectiveness of Johnson & Johnson's two-for-one stock split which
+is expected to be effected on or about June 12, 2001.
 
      
 THE FULL TEXT OF THE JPMORGAN FAIRNESS OPINION, WHICH SETS FORTH THE
@@ -644,9 +655,10 @@ closing prices per share of ALZA common stock by those of Johnson & Johnson
 common stock and the average of those historical trading ratios for the 30-day,
 90-day, 180-day, 1-year, 2-year and 3-year periods ending March 23, 2001.
 The
-analysis resulted in the following average historical trading ratios for the
-periods indicated (rounded to the nearest hundredth), compared to the proposed
-exchange ratio of 0.49:
+analysis resulted in the following average historical trading ratios for
+
+the periods indicated (rounded to the nearest hundredth), compared to the
+proposed exchange ratio of 0.49:
 
 PERIOD                                                        MEAN
 - ------                                                        
@@ -731,25 +743,26 @@ and 2003 by -4.2%,
 The summary set forth above does not purport to be a complete description
 of the analyses or data presented by JPMorgan.
 The preparation of a fairness
-opinion is a complex process and is not necessarily susceptible to partial
-analysis or summary description.
-JPMorgan believes that the summary set forth
-above and its analyses must be considered as a whole and that selecting portions
-thereof, without considering all of its analyses, could create an incomplete
-view of the processes underlying its analyses and opinion.
-JPMorgan based its
-analyses on assumptions that it deemed reasonable, including assumptions
-concerning general business and economic conditions and industry-specific
-factors.
-The other principal assumptions upon which JPMorgan based its analyses
-are set forth above under the description of each such analysis.
-JPMorgan's
-analyses are not necessarily indicative of actual values or actual future
-results that might be achieved, which values may be higher or lower than those
-indicated.
-Moreover, JPMorgan's analyses are not and do not purport to be
-appraisals or otherwise reflective of the prices at which businesses actually
-could be bought or sold.
+opinion is a complex process and is not necessarily
+
+susceptible to partial analysis or summary description.
+JPMorgan believes that
+the summary set forth above and its analyses must be considered as a whole and
+that selecting portions thereof, without considering all of its analyses, could
+create an incomplete view of the processes underlying its analyses and opinion.
+
+JPMorgan based its analyses on assumptions that it deemed reasonable, including
+assumptions concerning general business and economic conditions and
+industry-specific factors.
+The other principal assumptions upon which JPMorgan
+based its analyses are set forth above under the description of each such
+analysis.
+JPMorgan's analyses are not necessarily indicative of actual values or
+actual future results that might be achieved, which values may be higher or
+lower than those indicated.
+Moreover, JPMorgan's analyses are not and do not
+purport to be appraisals or otherwise reflective of the prices at which
+businesses actually could be bought or sold.
 
      
 None of the public companies used in the public companies analysis
@@ -811,6 +824,17 @@ directors a written opinion to the effect that, as of such date, and based upon
 and subject to the factors and assumptions set forth in the opinion, the
 exchange ratio was fair from a financial point of view to the holders of ALZA
 common stock other than Johnson & Johnson and its affiliates.
+
+     
+The Merrill Lynch opinion, the summary of the Merrill Lynch opinion and the
+procedures and analyses described below are based on the exchange ratio of 0.49
+in effect on the date of the Merrill Lynch opinion, and neither the Merrill
+Lynch opinion nor such summary or such procedures or analyses have been restated
+to give effect to the adjustment of the exchange ratio from 0.49 to 0.98 that
+will be
+
+made upon the effectiveness of Johnson & Johnson's two-for-one stock split which
+is expected to be effected on or about June 12, 2001.
 
      
 THE FULL TEXT OF THE MERRILL LYNCH FAIRNESS OPINION, WHICH SETS FORTH THE
@@ -887,18 +911,19 @@ Merrill Lynch did not assume any obligation to conduct any physical inspection
 of the properties or facilities of ALZA or Johnson & Johnson.
 With respect to
 the financial forecast information furnished to or discussed with Merrill Lynch
-by ALZA and the financial forecast guidance provided to Merrill by Johnson &
-Johnson, Merrill Lynch assumed that they had been reasonably prepared and
-reflected the best available estimates and judgment of the ALZA or the Johnson &
-Johnson management as to the expected future financial performance of ALZA or
-Johnson & Johnson, as the case may be.
-Merrill Lynch further assumed that the
-merger will be accounted for as a pooling of interests under generally accepted
-accounting principles and that it will qualify as a tax-free reorganization for
-U.S. Federal income tax purposes.
-Merrill Lynch also assumed that the final form
-of the merger agreement would be substantially similar to the draft dated March
-26, 2001 reviewed by it.
+by ALZA and the financial forecast guidance
+
+provided to Merrill by Johnson & Johnson, Merrill Lynch assumed that they had
+been reasonably prepared and reflected the best available estimates and judgment
+of the ALZA or the Johnson & Johnson management as to the expected future
+financial performance of ALZA or Johnson & Johnson, as the case may be.
+Merrill
+Lynch further assumed that the merger will be accounted for as a pooling of
+interests under generally accepted accounting principles and that it will
+qualify as a tax-free reorganization for U.S. Federal income tax purposes.
+
+Merrill Lynch also assumed that the final form of the merger agreement would be
+substantially similar to the draft dated March 26, 2001 reviewed by it.
 
      
 The Merrill Lynch fairness opinion is necessarily based on market, economic
@@ -915,15 +940,14 @@ as to the prices at which ALZA common stock or Johnson & Johnson common stock
 will trade following the announcement or completion of the merger.
 In connection
 with the preparation of its opinion, Merrill Lynch was not authorized by ALZA or
-the ALZA board of directors to solicit, nor did Merrill Lynch
-
-solicit, third-party indications of interest for the acquisition of all or any
-part of ALZA.
-Although Merrill Lynch evaluated the exchange ratio from a
-financial point of view, Merrill Lynch was not requested to, and did not,
-address the merits of the underlying decision of ALZA to engage in the merger
-and did not recommend to any stockholder how such stockholder should vote on the
-proposed merger or any related matter.
+the ALZA board of directors to solicit, nor did Merrill Lynch solicit,
+third-party indications of interest for the acquisition of all or any part of
+ALZA.
+Although Merrill Lynch evaluated the exchange ratio from a financial point
+of view, Merrill Lynch was not requested to, and did not, address the merits of
+the underlying decision of ALZA to engage in the merger and did not recommend to
+any stockholder how such stockholder should vote on the proposed merger or any
+related matter.
 
      
 In preparing its opinion to the ALZA board of directors, Merrill Lynch
@@ -1142,9 +1166,10 @@ Net income..................................................  4.4%      5.0%    
 
      Merrill Lynch noted that if former stockholders of ALZA were to own like
 percentages of the equity of the combined company as the ALZA contribution
-percentages for the relevant measures for the twelve month periods ending
-December 31, 2000, 2001 and 2002, the implied exchange ratios would be as set
-forth below:
+percentages for the relevant measures for the twelve
+
+month periods ending December 31, 2000, 2001 and 2002, the implied exchange
+ratios would be as set forth below:
 
                                                             YEAR ENDED DECEMBER 31,
                                                            --------------------------
@@ -1217,9 +1242,10 @@ earnings per share ranged from 28.3x to 63.8x and 22.6x to 47.2x, respectively.
 
 The ranges for the multiples of the consideration paid for the common equity and
 the value of the indebtedness, less cash and cash equivalents, assumed in each
-of the transactions to such acquired companies' projected one-year forward and
-two-year forward sales and earnings before interest, taxes, depreciation and
-amortization would be as set forth below:
+of the transactions to such acquired companies' projected one-year
+
+forward and two-year forward sales and earnings before interest, taxes,
+depreciation and amortization would be as set forth below:
 
 MEASURE                                               ONE-YEAR FORWARD    TWO-YEAR FORWARD
 - -------                                               ----------------    ----------------
@@ -1237,17 +1263,15 @@ share.
      
 Because the reasons for, and circumstances surrounding, each of the
 comparable transactions analyzed were so diverse and due to the inherent
-differences between the operations and financial conditions of
+differences between the operations and financial conditions of ALZA and the
+selected companies, Merrill Lynch believes that a purely quantitative comparable
+transaction analysis would not be dispositive in the context of the merger.
 
-ALZA and the selected companies, Merrill Lynch believes that a purely
-quantitative comparable transaction analysis would not be dispositive in the
-context of the merger.
-Merrill Lynch further believes that an appropriate use of
-a comparable transaction analysis in this instance involves qualitative
-judgments concerning the differences between the characteristics of these
-transactions and the merger that would affect the value of the acquired
-companies and businesses and ALZA, which judgments are reflected in the Merrill
-Lynch opinion.
+Merrill Lynch further believes that an appropriate use of a comparable
+transaction analysis in this instance involves qualitative judgments concerning
+the differences between the characteristics of these transactions and the merger
+that would affect the value of the acquired companies and businesses and ALZA,
+which judgments are reflected in the Merrill Lynch opinion.
 
      
 Pro Forma Merger Analysis.  
@@ -1302,9 +1326,10 @@ connection with the merger:
        agreement with an acquiror that subsequently results in a business
        combination, a fee in an amount equal to $12 million, payable in cash
        upon the closing of such business combination; provided, however, that
-       any fee previously paid to Merrill Lynch pursuant to the previous bullet
-       point will be deducted from any fee to which Merrill Lynch is entitled
-       pursuant to this bullet point.
+       any fee previously paid to Merrill Lynch pursuant to
+
+       the previous bullet point will be deducted from any fee to which Merrill
+       Lynch is entitled pursuant to this bullet point.
 
      
 ALZA has also agreed to pay Merrill Lynch the lesser of the aggregate fees
@@ -1362,17 +1387,17 @@ events, of which the merger is one.
        merger such as the proposed merger with Johnson & Johnson, subject to
        adjustment to reflect the exchange ratio.
 Based upon options outstanding
-       as of March 26, 2001, options held by ALZA's executive officers and
-       directors relating to 5,508,726 shares of ALZA common stock will be
+       as of May 9, 2001, options held by ALZA's executive officers and
+       directors relating to 2,733,000 shares of ALZA common stock will be
        subject to accelerated vesting at the effective time of the merger.
        
 Please see the table below for further details relating to the options
        held by ALZA's directors that are subject to accelerated vesting.
 
      - Restrictions on 390,796 shares of restricted stock held by executive
-       officers of ALZA as of March 26, 2001, including 96,166 held by Dr.
-       Mario, will lapse at the effective time of the merger and the shares will
-       be converted into the right to receive unrestricted shares of Johnson &
+       officers of ALZA as of May 9, 2001, including 96,166 held by Dr. Mario,
+       will lapse at the effective time of the merger and the shares will be
+       converted into the right to receive unrestricted shares of Johnson &
        Johnson common stock, subject to adjustment to reflect the exchange
        ratio.
 
@@ -1384,10 +1409,10 @@ Please see the table below for further details relating to the options
        within two years of the closing of the merger.
 The aggregate unvested
        amount in the accounts of ALZA's directors and executive officers as of
-       March 31, 2001 was $87,977.
+       May 9, 2001 was $95,141.
 
      
-The following table sets forth, as of March 26, 2001, the number of shares
+The following table sets forth, as of May 9, 2001, the number of shares
 subject to unvested options held by ALZA's directors and the average exercise
 prices of those options:
 
@@ -1396,10 +1421,11 @@ NAME                          DIRECTORS/AVERAGE EXERCISE PRICE PER SHARE($)
 - ----                       
 ----------------------------------------------------
 
-Dr. Ernest Mario.........                    600,000 / 21.73
+Dr. Ernest Mario.........                    525,000 / 24.74
 Dr. William R. Brody.....                     20,000 / 23.04
+
 Dr. Robert J. Glaser.....                     16,000 / 23.06
-Dr. I. Craig Henderson...                    149,900 / 20.40
+Dr. I. Craig Henderson...                    110,000 / 21.26
 Jerry T. Jackson.........                     12,000 / 41.81
 Dean O. Morton...........                     16,000 / 23.06
 Denise M. O'Leary........                     20,000 / 23.04
@@ -1575,30 +1601,49 @@ merger as a wholly owned Delaware subsidiary of Johnson & Johnson.
 MERGER CONSIDERATION
 
      At the effective time of the merger, each outstanding share of ALZA common
-stock will be converted into the right to receive 0.49 shares of Johnson &
-Johnson common stock, except that treasury stock and stock held by Johnson &
-Johnson and Express Merger Sub Inc. will be canceled.
-ALZA stockholders will
-receive cash for any fractional shares which they would otherwise receive in the
-merger.
-The amount of cash for fractional shares each ALZA stockholder will
-receive will be calculated by multiplying the fractional share interest to which
-that stockholder is entitled by the closing price of Johnson & Johnson common
-stock on the closing date of the merger as reported on the New York Stock
-Exchange Composite Transactions Tape.
-The exchange ratio of 0.49 was determined
-through arm's-length negotiations between Johnson & Johnson and ALZA.
+stock will be converted into the right to receive 0.98 shares of Johnson &
+Johnson common stock (after giving effect to an adjustment to the exchange ratio
+of 0.49 provided in the merger agreement to reflect Johnson & Johnson's
+two-for-one stock split, which is expected to be effected on or about June 12,
+2001), except that treasury stock and stock held by Johnson & Johnson and
+Express Merger Sub Inc. will be canceled.
+ALZA stockholders will receive cash
+for any fractional shares which they would otherwise receive in the merger.
+The
+amount of cash for fractional shares each ALZA stockholder will receive will be
+calculated by multiplying the fractional share interest to which that
+stockholder is entitled by the closing price of Johnson & Johnson common stock
+on the closing date of the merger as reported on the New York Stock Exchange
+Composite Transactions Tape.
+The exchange ratio was determined through
+arm's-length negotiations between Johnson & Johnson and ALZA.
+
+     
+The merger agreement provides that, if between the date of the merger
+agreement and the effective time of the merger, the outstanding shares of
+Johnson & Johnson common stock are changed into a different number of shares or
+a different class, by reason of the occurrence or record date of any stock
+dividend, subdivision, reclassification, recapitalization, split, combination,
+exchange of shares or similar transaction, the exchange ratio will be
+appropriately adjusted to reflect such stock dividend, subdivision,
+reclassification, recapitalization, split, combination, exchange of shares or
+similar transaction.
+As a result, the exchange ratio will be adjusted from 0.49
+to 0.98 to reflect Johnson & Johnson's two-for-one stock split which is expected
+to be effected on or about June 12, 2001.
 
 
 OWNERSHIP OF JOHNSON & JOHNSON FOLLOWING THE MERGER
 
      Based on the number of outstanding shares of ALZA common stock on the
-record date, we anticipate that ALZA stockholders will receive approximately --
-shares of Johnson & Johnson common stock in the merger.
-Based on that number and
-on the number of outstanding shares of Johnson & Johnson common stock on --,
-2001, ALZA stockholders will own approximately --% of the outstanding shares of
-Johnson & Johnson common stock following the merger.
+record date, we anticipate that ALZA stockholders will receive approximately
+234,340,252 shares of Johnson & Johnson common stock in the merger.
+Based on
+that number and on the number of outstanding shares of Johnson & Johnson common
+stock on May 9, 2001, as adjusted to reflect Johnson & Johnson's two-for-one
+stock split which is expected to be effected on or about June 12, 2001, ALZA
+stockholders will own approximately 8.4% of the outstanding shares of Johnson &
+Johnson common stock following the merger.
 
 
 CONVERSION OF SHARES; PROCEDURES FOR EXCHANGE OF CERTIFICATES; FRACTIONAL SHARES
@@ -1623,6 +1668,7 @@ After the effective time of the merger, each certificate that previously
 represented shares of ALZA common stock will no longer be outstanding, will be
 automatically canceled and retired, will cease to exist and will represent only
 the right to receive the Johnson & Johnson common stock into which such shares
+
 are converted in the merger and the right to receive cash for any fractional
 shares of Johnson & Johnson common stock as described below.
 
@@ -1642,10 +1688,9 @@ in each case without interest.
      
 In the event of a transfer of ownership of ALZA common stock that is not
 registered in the transfer records of ALZA, a certificate representing the
-proper number of shares of Johnson & Johnson common
-
-stock may be issued to a person other than the person in whose name the
-certificate so surrendered is registered if:
+proper number of shares of Johnson & Johnson common stock may be issued to a
+person other than the person in whose name the certificate so surrendered is
+registered if:
 
      - such certificate is properly endorsed or otherwise is in proper form for
        transfer and
@@ -1724,20 +1769,18 @@ in light of their individual circumstances or to stockholders who are subject to
 special rules, such as holders who are subject to alternative minimum tax
 provisions of the Internal Revenue Code, financial institutions, tax-exempt
 organizations, insurance companies, mutual funds, dealers in securities or
-foreign currencies,
-
-foreign holders, persons who hold such shares as a hedge against currency risk,
-or as part of a constructive sale or conversion transaction, holders whose
-shares are qualified small business stock for purposes of Sections 1202 and 1045
-of the Internal Revenue Code or holders who acquired their shares upon the
-exercise of employee stock options or otherwise as compensation.
-Tax
-consequences under state, local and foreign laws are not addressed, nor are the
-tax consequences of transactions effectuated prior or subsequent to, or
-concurrently with, the merger (whether or not any such transactions are
-undertaken in connection with the merger), including without limitation any
-transaction in which shares of ALZA common stock are acquired or shares of
-Johnson & Johnson common stock are disposed of.
+foreign currencies, foreign holders, persons who hold such shares as a hedge
+against currency risk, or as part of a constructive sale or conversion
+transaction, holders whose shares are qualified small business stock for
+purposes of Sections 1202 and 1045 of the Internal Revenue Code or holders who
+acquired their shares upon the exercise of employee stock options or otherwise
+as compensation.
+Tax consequences under state, local and foreign laws are not
+addressed, nor are the tax consequences of transactions effectuated prior or
+subsequent to, or concurrently with, the merger (whether or not any such
+transactions are undertaken in connection with the merger), including without
+limitation any transaction in which shares of ALZA common stock are acquired or
+shares of Johnson & Johnson common stock are disposed of.
 
      
 The following discussion is not binding on the Internal Revenue Service.
@@ -1821,35 +1864,32 @@ may not be completed unless certain waiting period requirements have been
 satisfied.
 On April 13, 2001, Johnson & Johnson and ALZA each filed a
 Notification and Report Form with the Antitrust Division of the Department of
-Justice and the Federal Trade Commission and requested an early termination of
-the required waiting period.
-If early termination is not granted and a request
-for additional information by the relevant antitrust authorities is not made,
-the waiting period will expire at midnight on May 14, 2001.
-At any time before
-or after the effective time of the merger, the Antitrust Division, the Federal
-Trade Commission or others could take action under the antitrust laws, including
-seeking to prevent the merger, to rescind the merger or to conditionally approve
-the merger upon the divestiture of substantial assets of Johnson & Johnson or
-ALZA.
-There can be no assurance that a challenge to the merger on antitrust
-grounds will not be made or, if such a challenge is made, that it would not be
-successful.
+Justice and the Federal Trade Commission.
+The Federal Trade Commission granted
+early termination of the waiting period under HSR Act on May 9, 2001.
+At any
+time before or after the effective time of the merger, the Antitrust Division,
+the Federal Trade Commission or others could take action under the antitrust
+laws, including seeking to prevent the merger, to rescind the merger or to
+conditionally approve the merger upon the divestiture of substantial assets of
+Johnson & Johnson or ALZA.
+There can be no assurance that a challenge to the
+merger on antitrust grounds will not be made or, if such a challenge is made,
+that it would not be successful.
 
      EUROPE.  
-In addition, both Johnson & Johnson and ALZA conduct business in
-member states of the European Union.
-Council Regulation 4064/89 requires
-notification to and approval by the European Commission of mergers or
-acquisitions involving parties with aggregate worldwide sales and individual
-European Union sales exceeding specified thresholds.
-Such approval by the
-European Commission is a condition to the completion of the merger.
-Johnson &
-Johnson and ALZA each filed a merger notification with the European Commission
-on --, 2001.
+Johnson & Johnson and ALZA have been advised by the European
+Commission Merger Task Force that the merger is not notifiable to the European
+Commission because it lacks the requisite European Community dimension.
+However,
+filings have been made in Germany and Belgium seeking approval of the merger and
+the merger is currently under review in these jurisdictions.
+Johnson & Johnson
+and ALZA believe that neither the German nor Belgian regulatory approval
+processes will materially delay or impede the completion of the merger.
 
-     GENERAL.  
+     
+GENERAL.  
 It is possible that any of the governmental entities with which
 filings are made may seek, as conditions for granting approval of the merger,
 various regulatory concessions.
@@ -1874,9 +1914,11 @@ APPRAISAL RIGHTS
 
      Under Delaware law, holders of ALZA common stock are not entitled to
 appraisal rights in connection with the merger because, on the record date, ALZA
-common stock was listed on the New York Stock Exchange and will be converted
-into shares of Johnson & Johnson common stock, which at the effective time of
-the merger will be listed on the New York Stock Exchange.
+common stock was listed on the New
+
+York Stock Exchange and will be converted into shares of Johnson & Johnson
+common stock, which at the effective time of the merger will be listed on the
+New York Stock Exchange.
 
 
 ALZA EMPLOYEE BENEFITS MATTERS
@@ -2027,10 +2069,12 @@ Each option to acquire shares of ALZA
 common stock under such plans will be converted into an option to acquire
 Johnson & Johnson common stock on the same terms and conditions, except that (1)
 the number of shares of Johnson & Johnson common stock subject to the option
-will equal the number of shares of ALZA common stock subject to the option
-multiplied by the exchange ratio and rounded down to the nearest whole share and
-(2) the exercise price per share of Johnson & Johnson common stock will equal
-the aggregate exercise price for the shares of ALZA common stock subject to the
+will
+
+equal the number of shares of ALZA common stock subject to the option multiplied
+by the exchange ratio and rounded down to the nearest whole share and (2) the
+exercise price per share of Johnson & Johnson common stock will equal the
+aggregate exercise price for the shares of ALZA common stock subject to the
 option divided by the total number of shares of Johnson & Johnson common stock
 to be subject to such option and rounded up to the nearest whole cent; provided,
 that the stock purchase rights granted under the stock purchase plans will have
@@ -2042,32 +2086,31 @@ RESALE OF JOHNSON & JOHNSON COMMON STOCK
 
      Johnson & Johnson common stock issued in the merger will not be subject to
 any restrictions on transfer arising under the Securities Act of 1933, except
-for shares issued to any ALZA stockholder who
-
-may be deemed to be an "affiliate" of ALZA or Johnson & Johnson for purposes of
-Rule 145 under the Securities Act or for purposes of qualifying the merger for
-pooling of interests accounting treatment.
-It is expected that each affiliate
-will agree not to transfer any Johnson & Johnson common stock received in the
-merger except in compliance with the resale provisions of Rule 144 or 145 under
-the Securities Act or as otherwise permitted under the Securities Act.
-In
-addition, it is expected that each such affiliate will agree not to make any
-such disposition within 30 days prior to completion of the merger, and until
-after such time as financial results covering at least 30 days of combined
-operations of Johnson & Johnson and ALZA after the merger have been published.
-
-The merger agreement requires ALZA to use commercially reasonable efforts to
-cause its affiliates to enter into such agreements, and Johnson & Johnson has
-agreed to use commercially reasonable efforts to cause its affiliates to comply
-with the transfer restrictions referred to in the preceding sentence.
-In
-addition, it is a condition to the completion of the merger that certain
-specified persons enter into such agreements.
-This proxy statement/prospectus
-does not cover resales of Johnson & Johnson common stock received by any person
-upon completion of the merger, and no person is authorized to make any use of
-this proxy statement/prospectus in connection with any such resale.
+for shares issued to any ALZA stockholder who may be deemed to be an "affiliate"
+of ALZA or Johnson & Johnson for purposes of Rule 145 under the Securities Act
+or for purposes of qualifying the merger for pooling of interests accounting
+treatment.
+It is expected that each affiliate will agree not to transfer any
+Johnson & Johnson common stock received in the merger except in compliance with
+the resale provisions of Rule 144 or 145 under the Securities Act or as
+otherwise permitted under the Securities Act.
+In addition, it is expected that
+each such affiliate will agree not to make any such disposition within 30 days
+prior to completion of the merger, and until after such time as financial
+results covering at least 30 days of combined operations of Johnson & Johnson
+and ALZA after the merger have been published.
+The merger agreement requires
+ALZA to use commercially reasonable efforts to cause its affiliates to enter
+into such agreements, and Johnson & Johnson has agreed to use commercially
+reasonable efforts to cause its affiliates to comply with the transfer
+restrictions referred to in the preceding sentence.
+In addition, it is a
+condition to the completion of the merger that certain specified persons enter
+into such agreements.
+This proxy statement/prospectus does not cover resales of
+Johnson & Johnson common stock received by any person upon completion of the
+merger, and no person is authorized to make any use of this proxy
+statement/prospectus in connection with any such resale.
 
                               
 THE MERGER AGREEMENT
@@ -2109,11 +2152,15 @@ customary closing conditions, the following:
 
      
 - the waiting period applicable to the merger under the Hart-Scott-Rodino
-       Antitrust Improvements Act has expired or has been terminated
+       Antitrust Improvements Act has expired or has been terminated (such
+       waiting period has been terminated)
 
      - the European Commission has issued, or has been deemed to have issued, a
        decision under Council Regulation No. 4064/89 of the European Community
-       declaring the merger compatible with the Common Market
+       declaring the merger compatible with the Common Market (Johnson & Johnson
+       and ALZA have been advised by the European Commission Merger Task Force
+       that the merger is not notifiable to the European Commission because it
+       lacks the requisite European Community dimension)
 
      - no temporary restraining order, injunction or other court order or
        statute, law, rule, legal restraint or prohibition is in effect that
@@ -2142,13 +2189,12 @@ subject to satisfaction or waiver of the following additional conditions:
 
      - the representations and warranties of ALZA relating to (1) the
        capitalization of ALZA and (2) various state takeover statutes and
-       provisions of the ALZA certificate of incorporation and the ALZA by-laws
-       are true and correct in all material respects as of the date of the
-       merger agreement
+       provisions of the ALZA certificate of incorporation and the
 
-       and as of the closing date of the merger as though made on the closing
-       date, or if such representations and warranties expressly relate to an
-       earlier date, then as of such date
+       ALZA by-laws are true and correct in all material respects as of the date
+       of the merger agreement and as of the closing date of the merger as
+       though made on the closing date, or if such representations and
+       warranties expressly relate to an earlier date, then as of such date
 
      - the representations and warranties of ALZA relating to (1) the granting
        of various employee benefits or the entering into various employee
@@ -2220,13 +2266,14 @@ following additional conditions:
        merger agreement and as of the closing date of the merger as though made
        on the closing date, or if such representations and warranties expressly
        relate to an earlier date, then as of such date, except to the extent
-       that the facts or matters as to which such representations and warranties
-       are not so true and correct as of such dates, without
+       that the facts or matters as to
 
-       giving effect to any qualifications or limitations as to materiality or
-       material adverse effect set forth in such representations and warranties,
-       individually or in the aggregate, have not had and could not reasonably
-       be expected to have a material adverse effect on Johnson & Johnson
+       which such representations and warranties are not so true and correct as
+       of such dates, without giving effect to any qualifications or limitations
+       as to materiality or material adverse effect set forth in such
+       representations and warranties, individually or in the aggregate, have
+       not had and could not reasonably be expected to have a material adverse
+       effect on Johnson & Johnson
 
      - Johnson & Johnson and Express Merger Sub have performed in all material
        respects all obligations required to be performed by them under the
@@ -3040,9 +3087,9 @@ Consequently, certain aspects of the stock option agreement may discourage
 persons who might now or prior to the effective time of the merger be interested
 in acquiring all or a significant interest in ALZA from considering or proposing
 such an acquisition, even if such persons were prepared to offer higher
-consideration per share for ALZA common stock than that implicit in the 0.49
-exchange ratio or a higher price per share for ALZA common stock than the market
-price.
+consideration per share for ALZA common stock than that implicit in the exchange
+ratio under the merger agreement with Johnson & Johnson or a higher price per
+share for ALZA common stock than the market price.
 
                      
 COMPARATIVE STOCK PRICES AND DIVIDENDS
@@ -3055,8 +3102,11 @@ following table sets forth, for the periods indicated, dividends declared and
 the high and low sales prices per share of Johnson & Johnson common stock and of
 ALZA common stock as reported by the Dow Jones & Company, Inc.
 The prices of
-ALZA common stock have been adjusted to reflect a two-for-one stock split
+ALZA common stock have been adjusted to reflect its two-for-one stock split
 effected in November 2000.
+The prices of Johnson & Johnson common stock have not
+been adjusted to reflect its two-for-one stock split which is expected to be
+effected in June 2001.
 For current price information, ALZA stockholders are
 urged to consult publicly available sources.
 
@@ -3098,19 +3148,23 @@ CALENDAR PERIOD                     HIGH       LOW      DECLARED      HIGH      
 
   First Quarter..................   104.69     80.50       0.32       44.75     26.20         --
   Second Quarter (through
-     --, 2001)...................       --        --         --          --        --         --
+     May 11, 2001)...............    
+98.48     85.19       0.36       47.50     39.79         --
 
      The following table sets forth the high, low and last reported sales prices
 per share of Johnson & Johnson common stock and of ALZA common stock as reported
 by the Dow Jones & Company, Inc. and the market value of a share of ALZA common
 stock on an equivalent per share basis, in each case on March 26, 2001, the last
 full trading day prior to the public announcement of the proposed merger, and on
-- --, 2001, the last practicable trading day before the date of this proxy
+May 11, 2001, the last practicable trading day before the date of this proxy
 statement/prospectus.
-The equivalent price per share data for ALZA common stock
-has been determined by multiplying the last reported sale price of a share of
-Johnson & Johnson common stock on each of these dates by the exchange ratio of
-0.49.
+In order to give effect to Johnson & Johnson's two-for-one
+stock split which is expected to be effected on or about June 12, 2001, the
+equivalent price per share data for ALZA common stock has been determined by
+multiplying the last reported sale price of a share of Johnson & Johnson common
+stock on each of these dates by 0.5 and then multiplying such product by the
+exchange ratio of 0.98 (which will be the exchange ratio after Johnson &
+Johnson's two-for-one stock split has been effected).
 
                                     
 JOHNSON & JOHNSON                    ALZA               EQUIVALENT PRICE
@@ -3119,27 +3173,36 @@ JOHNSON & JOHNSON                    ALZA               EQUIVALENT PRICE
                                  HIGH      LOW      CLOSE      HIGH      LOW      CLOSE       COMMON STOCK
                                 ------    ------    ------    ------    ------    ------    ----------------
 
-March 26, 2001................  $87.50    $85.02    $85.38    $38.85    $36.85    $38.75         $41.84
-- --, 2001......................      --        --        --        --        --        --             --
+March 26, 2001................  
+$87.50    $85.02    $85.38    $38.85    $36.85    $38.75         $41.84
+May 11, 2001..................   97.82     96.98     97.26     47.26     46.80     47.00          47.66
 
                  DESCRIPTION OF JOHNSON & JOHNSON CAPITAL STOCK
 
-     
-The following summary of the capital stock of Johnson & Johnson is subject
+     The following summary of the capital stock of Johnson & Johnson is subject
 in all respects to applicable New Jersey law, the Johnson & Johnson restated
 certificate of incorporation, as amended, and the Johnson & Johnson by-laws.
 See
 "Comparison of Rights of Common Stockholders of Johnson & Johnson and ALZA" on
-page 56 and "Where You Can Find More Information" on page 68.
+page 58 and "Where You Can Find More Information" on page 70.
 
      
 The total authorized shares of capital stock of Johnson & Johnson consist
 of (1) 2,160,000,000 shares of common stock, par value $1.00 per share, and (2)
 2,000,000 shares of preferred stock, without par value.
-At the close of business
-on --, 2001, approximately -- shares of Johnson & Johnson common stock were
-issued and outstanding and no shares of Johnson & Johnson preferred stock were
-issued and outstanding.
+Johnson & Johnson filed
+an amendment to the Johnson & Johnson certificate of incorporation with the
+Secretary of State of the State of New Jersey on May 10, 2001, which will be
+effective at the close of business on May 22, 2001, increasing the number of
+authorized shares of Johnson & Johnson common stock to 4,320,000,000.
+At the
+close of business on May 9, 2001, approximately 1,397,705,606 shares of Johnson
+& Johnson common stock were issued and outstanding and no shares of Johnson &
+Johnson preferred stock were issued and outstanding.
+The number of shares of
+Johnson & Johnson common stock issued and outstanding on May 9, 2001 has not
+been adjusted to reflect Johnson & Johnson's two-for-one stock split which is
+expected to be effected on or about June 12, 2001.
 
      
 The Johnson & Johnson board of directors is authorized to provide for the
@@ -3201,9 +3264,9 @@ ALZA
 1,000,000,000 shares of common stock, par value $0.005 per share, and (2)
 100,000 shares of preferred stock, par value $0.01 per share.
 On the close of
-business on --, 2001, approximately -- shares of ALZA common stock were issued
-and outstanding and no shares of ALZA preferred stock were issued and
-outstanding.
+business on May 9, 2001, approximately 239,122,707 shares of ALZA common stock
+were issued and outstanding and no shares of ALZA preferred stock were issued
+and outstanding.
 
      
 The ALZA certificate of incorporation provides that shares of ALZA
@@ -4238,7 +4301,8 @@ offices of the New York Stock Exchange at 20 Broad Street, New York, New York
 
      
 Johnson & Johnson filed a registration statement on Form S-4 on April 23,
-2001 to register with the Securities and Exchange Commission the Johnson &
+2001, which was amended on May 14, 2001 to update the information contained
+therein, to register with the Securities and Exchange Commission the Johnson &
 Johnson common stock to be issued to ALZA stockholders in the merger.
 This proxy
 statement/prospectus is a part of that registration statement and constitutes a
@@ -4272,6 +4336,8 @@ in or delivered with this proxy statement/prospectus.
 JOHNSON & JOHNSON FILINGS                       PERIOD
 (FILE NO. 001-03215)
 Annual Report on Form 10-K..................    Fiscal Year ended December 31, 2000
+Quarterly Report on Form 10-Q...............    
+Quarter ended April 1, 2001
 
 ALZA FILINGS                                    PERIOD
 (FILE NO. 001-6247)
@@ -4279,7 +4345,9 @@ ALZA FILINGS                                    PERIOD
 Annual Report on Form 10-K..................    Fiscal Year ended December 31, 2000, as
                                                 amended by Amendment No. 1 thereto filed on
                                                 Form 10-K/A on April 17, 2001
-Current Report on Form 8-K..................    Filed March 28, 2001
+Quarterly Report on Form 10-Q...............    Quarter ended March 31, 2001
+Current Report on Form 8-K..................    
+Filed March 28, 2001
 
 The description of ALZA's capital stock set
 forth in ALZA's registration statement on
@@ -4291,13 +4359,12 @@ description.................................    Filed May 14, 1992
      Johnson & Johnson and ALZA also incorporate by reference additional
 documents that may be filed with the Securities and Exchange Commission under
 Section 13(a), 13(c), 14 or 15(d) of the Exchange Act between the date of this
-proxy statement/prospectus and, in the case of Johnson & Johnson, the date
-
-of the completion of the merger, and, in the case of ALZA, the date of the
-special meeting of ALZA's stockholders.
-These include periodic reports, such as
-Annual Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports
-on Form 8-K, as well as proxy statements.
+proxy statement/prospectus and, in the case of Johnson & Johnson, the date of
+the completion of the merger, and, in the case of ALZA, the date of the special
+meeting of ALZA's stockholders.
+These include periodic reports, such as Annual
+Reports on Form 10-K, Quarterly Reports on Form 10-Q and Current Reports on Form
+8-K, as well as proxy statements.
 
      
 Johnson & Johnson has supplied all information contained or incorporated by
@@ -4339,8 +4406,8 @@ reference in this proxy statement/prospectus.
 We have not authorized anyone to
 provide you with information that is different from what is contained in this
 proxy statement/prospectus.
-This proxy statement/prospectus is dated --, 2001.
-
+This proxy statement/prospectus is dated May 14,
+2001.
 You should not assume that the information contained in this proxy
 statement/prospectus is accurate as of any date other than that date.
 Neither
@@ -5813,3 +5880,91 @@ Each of the Company and its
 
           (p) Intellectual Property.  
 (i)
+Each of the Company and its
+     Subsidiaries owns, or is validly licensed or otherwise has the right to use
+     all patents, patent applications, trademarks, trademark rights, trade
+     names, trade name rights, domain names, service marks, service mark rights,
+     copyrights, technical know-how and other proprietary intellectual property
+     rights and computer programs (collectively, "Intellectual Property Rights")
+     which are material to the conduct of the business of the Company and its
+     Subsidiaries, taken as a whole, in each case free and clear of all Liens.
+     
+Section 3.01(p)(i) of the Company Disclosure Schedule sets forth, as of the
+     date hereof, all agreements under which the Company or any Subsidiary of
+     the Company is obligated to make payments to third parties for use of any
+     Intellectual Property Rights with respect to the commercialization of any
+     products that are, as of the date hereof, being sold, manufactured by or
+     under development by the Company or any of its Subsidiaries and for which
+     such payments are in excess of $500,000 per year for any single product.
+     
+The aggregate amount of all such payments that the Company and its
+     Subsidiaries are obligated to make under agreements of the type described
+     in the immediately preceding sentence that are not required to be disclosed
+     pursuant to such sentence does not exceed $3,000,000 per year.
+
+          
+(ii)
+No claims are pending or, to the Knowledge of the Company,
+     threatened that the Company or any of its Subsidiaries is infringing
+     (including with respect to the manufacture, use or sale by the Company or
+     any of its Subsidiaries of their respective commercial products) the rights
+     of any person with regard to any Intellectual Property Right which,
+     individually or in the aggregate, have had or could reasonably be expected
+     to have a Material Adverse Effect.
+As of the date of this Agreement, to the
+     Knowledge of the Company, no person or persons are infringing the rights of
+     the Company or any of its Subsidiaries with respect to any Intellectual
+     Property Right in a manner which, individually or in the aggregate, has had
+     or could reasonably be expected to have a Material Adverse Effect.
+
+          
+(iii) No claims are pending or, to the Knowledge of the Company,
+     threatened with regard to the ownership by the Company or any of its
+     Subsidiaries of any of their respective Intellectual Property Rights which,
+     individually or in the aggregate, have had or could reasonably be expected
+     to have a Material Adverse Effect.
+
+          
+(iv) Under cover of a letter dated March 16, 2001, the Company has
+     provided to Parent lists identifying all patents, trademarks and
+     applications therefor that are owned by the Company or any of its
+     Subsidiaries, which lists are complete and accurate, as of the respective
+     dates indicated in such lists, except to the extent that any omissions
+     therefrom or inaccuracies therein, individually or in the aggregate, could
+     not reasonably be expected to be material to the business of the Company.
+     
+All patents, trademarks and applications therefor owned by the Company or
+     any of its Subsidiaries have been duly registered, filed with or issued by
+     each appropriate Governmental Entity in the jurisdiction indicated on such
+     lists, all necessary affidavits of continuing use have been filed and all
+     necessary maintenance fees have been timely paid to continue all such
+     rights in effect, except for failures to register, file or pay that
+     individually or in the aggregate have not had and could not reasonably be
+     expected to have a Material Adverse Effect.
+None of the material patents
+     listed on such lists has been declared invalid or unenforceable, in whole
+     or in part, by any Governmental Entity.
+Each inventor named on the patents
+     and patent applications identified as being owned by the Company or any of
+     its Subsidiaries on such lists has executed an agreement assigning his, her
+     or its entire right, title and
+
+                                       1-15
+
+     interest in and to such patent or patent application, and the inventions
+     embodied and claimed therein, to the Company or a Subsidiary of the
+     Company, except to the extent that any failures to assign, individually or
+     in the aggregate, have not been and could not reasonably be expected to be
+     material to the business of the Company.
+
+          (v) Except as disclosed in Section 3.01(p)(v) of the Company
+     Disclosure Schedule, the Company has not granted material licenses or
+     options for licenses to Intellectual Property Rights of the Company other
+     than licenses or options that are limited to the use of such Intellectual
+     Property Rights in conjunction with a specified compound, protein or
+     biological material.
+
+          (vi) The Company uses, and has used, commercially reasonable efforts
+     to maintain the confidentiality of its trade secrets.
+
+          

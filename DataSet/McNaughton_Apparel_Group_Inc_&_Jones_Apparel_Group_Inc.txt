@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/874016/000091205701513750/0000912057-01-513750.txt
+URL: https://www.sec.gov/Archives/edgar/data/874016/000091205701516734/0000912057-01-516734.txt
 
 BACKGROUND OF THE MERGER
 
@@ -942,10 +942,10 @@ receive a fee from McNaughton for its services that is based on a formula which
 takes into account the total value of the merger consideration and the amount of
 debt of McNaughton outstanding on the date of closing of the transaction.
 If the
-merger was completed on May [ - ], 2001, this fee would have been approximately
-$[ - ].
-In addition, McNaughton has agreed to reimburse Merrill Lynch for its
-reasonable out-of-pocket expenses incurred in connection with rendering
+merger was completed on May 16, 2001, this fee would have been approximately
+$5.8 million.
+In addition, McNaughton has agreed to reimburse Merrill Lynch for
+its reasonable out-of-pocket expenses incurred in connection with rendering
 financial advisory services, including fees and disbursements of its legal
 counsel.
 McNaughton has agreed to indemnify Merrill Lynch and its directors,
@@ -1205,11 +1205,11 @@ The exchange ratio will be:
       $29.78.
 
     
-If the closing price of Jones common stock on May [ - ], 2001, which was
-$[ - ], was the five-day average price referred to above, after completion of
-the merger you would be entitled to receive $10.50 in cash and 0.2820 shares of
+If the closing price of Jones common stock on May 16, 2001, which was
+$46.50, was the five-day average price referred to above, after completion of
+the merger you would be entitled to receive $10.50 in cash and 0.2710 shares of
 Jones common stock which together would have a total consideration value of
-$[ - ].
+$23.10.
 You will be entitled to receive cash for any fractional share of Jones
 common stock that you would otherwise be entitled to receive pursuant to the
 merger.
@@ -1520,15 +1520,15 @@ REGULATORY MATTERS
     Under the Hart-Scott-Rodino Act of 1976 and related rules, certain
 transactions, including the merger, may not be completed unless certain waiting
 period requirements have been satisfied.
-On May [ - ], 2001, Jones and
-McNaughton each filed a Notification and Report Form with the Antitrust Division
-and the Federal Trade Commission and requested an early termination of the
-required waiting period.
-If early termination is not granted and a request for
-additional information by the relevant antitrust authorities is not made, the
-waiting period will expire at midnight on June [ - ], 2001.
-At any time before
-or after the completion of the merger, the Antitrust Division, the Federal Trade
+On May 14, 2001, Jones and McNaughton
+each filed a Notification and Report Form with the Antitrust Division and the
+Federal Trade Commission and requested an early termination of the required
+waiting period.
+If early termination is not granted and a request for additional
+information by the relevant antitrust authorities is not made, the waiting
+period will expire at 11:59 p.m. on June 13, 2001.
+At any time before or after
+the completion of the merger, the Antitrust Division, the Federal Trade
 Commission or others could take action under the antitrust laws with respect to
 the merger, including seeking to enjoin the completion of the merger, to rescind
 the merger or to conditionally approve the merger upon the divestiture of
@@ -1545,12 +1545,11 @@ There can be no assurance that:
     - Jones or McNaughton will be able to satisfy or comply with such
       conditions, or
 
-    - compliance or non compliance will not have adverse consequences for Jones
-      after completion of the merger.
+    - compliance or non compliance will not delay completion of the merger or
+      have adverse consequences for Jones after completion of the merger.
 
     
-See "The Merger Agreement--Conditions to the Completion of the Merger" on
-page 43.
+See "The Merger Agreement--Conditions to the Completion of the Merger".
 
 
 EMPLOYEE BENEFITS MATTERS
@@ -1723,11 +1722,25 @@ requires McNaughton to use all commercially reasonable efforts to cause its
 affiliates to enter into these agreements, and the execution of these agreements
 is a condition to the obligation of Jones to complete the merger.
 This proxy
-statement/prospectus does not cover resales of
+statement/prospectus does not cover resales of Jones common stock received by
+any person upon completion of the merger, and no person is authorized to make
+any use of this proxy statement/prospectus in connection with any resale.
 
-Jones common stock received by any person upon completion of the merger, and no
-person is authorized to make any use of this proxy statement/prospectus in
-connection with any resale.
+
+TENDER OFFER FOR MCNAUGHTON SENIOR NOTES
+
+    McNaughton intends to make an offer to purchase (and a related consent
+solicitation with respect to) all of its 12 1/2% Senior Notes due 2005, Series
+B.
+The consent solicitation is intended to eliminate
+
+most of the restrictive covenants contained in the indenture governing the
+12 1/2% Senior Notes due 2005, Series B. McNaughton and Jones anticipate that
+the tender offer and consent solicitation will be consummated upon or
+immediately after the completion of the merger, but consummation of the tender
+offer and
+consent solicitation is not a condition to the completion of the
+merger.
 
 
 APPRAISAL RIGHTS
@@ -1805,14 +1818,13 @@ A vote against the adoption of
 the merger agreement will not in and of itself constitute a written demand for
 appraisal satisfying the requirements of Section 262.
 The demand must reasonably
-inform McNaughton of the
+inform McNaughton of the identity of the holder as well as the intention of the
+holder to demand an appraisal of the "fair value" of the shares held by such
+holder.
+A stockholder's failure to make the written demand prior to the
 
-identity of the holder as well as the intention of the holder to demand an
-appraisal of the "fair value" of the shares held by such holder.
-A stockholder's
-failure to make the written demand prior to the taking of the vote on the
-adoption of the merger agreement at the special meeting of McNaughton
-stockholders will constitute a waiver of appraisal rights.
+taking of the vote on the adoption of the merger agreement at the special
+meeting of McNaughton stockholders will constitute a waiver of appraisal rights.
 
     
 Only a holder of record of shares of McNaughton common stock is entitled to
@@ -1886,14 +1898,14 @@ for appraisal, whichever is later.
 If a petition for an appraisal is timely filed by a holder of shares of
 McNaughton common stock and a copy of the petition is served upon the surviving
 corporation, the surviving corporation will then be obligated within 20 days to
-file with the Delaware Register in Chancery a duly verified list
+file with the Delaware Register in Chancery a duly verified list containing the
+names and addresses of all stockholders who have demanded an appraisal of their
+shares and with whom agreements as to the value of their shares have not been
+reached.
+After notice to such stockholders as required by the court, the
+Delaware Court of Chancery is empowered to conduct a
 
-containing the names and addresses of all stockholders who have demanded an
-appraisal of their shares and with whom agreements as to the value of their
-shares have not been reached.
-After notice to such stockholders as required by
-the court, the Delaware Court of Chancery is empowered to conduct a hearing on
-such petition to determine those stockholders who have complied with
+hearing on such petition to determine those stockholders who have complied with
 Section 262 and who have become entitled to appraisal rights under Section 262.
 
 The Delaware Court of Chancery may require the holders of shares of McNaughton
@@ -2257,7 +2269,7 @@ McNaughton stockholders:
       superior proposal as described above under "--No Solicitation".
 
     TERMINATION FEE.  
-McNaughton must to pay Jones a termination fee of
+McNaughton must pay Jones a termination fee of
 $10 million if:
 
     - Jones or McNaughton, as applicable, terminates the merger agreement under
@@ -2624,29 +2636,25 @@ CALENDAR PERIOD
 
     First Quarter...................   41.0900    31.1250    16.8125    10.8125
 
-    Second Quarter (through May [-],  
-[-]        [-]        [-]        [-]
-      2001).........................
+    Second Quarter (through            46.6500    34.0500    22.2500    15.0000
+      May 16, 2001).................
 
-    The following table sets forth the high and low sale prices per share of
+    
+The following table sets forth the high and low sale prices per share of
 Jones common stock and McNaughton common stock as reported on the New York Stock
 Exchange Composite Transaction Tape and The Nasdaq Stock Market, respectively,
 on April 12, 2001, the last full trading day before the execution of the merger
-agreement, and on May [ - ], 2001, the latest trading day before the date of
-this proxy statement/prospectus:
+agreement, and on May 16, 2001, the last practicable trading day before the date
+of this proxy statement/prospectus:
 
                                                 JONES                          MCNAUGHTON
                                             COMMON STOCK                      COMMON STOCK
-                                      -------------------------         
--------------------------
+                                      -------------------------         -------------------------
                                         HIGH             LOW              HIGH             LOW
-                                      --------         
---------         --------         
---------
+                                      --------         --------         --------         --------
 
 April 12, 2001......................   $36.51           $34.48           $17.88           $17.15
-
-May [-], 2001.......................   $  [-]           $  [-]           $  [-]           $  [-]
+May 16, 2001........................    46.65            44.50            22.25            22.00
 
                        DESCRIPTION OF JONES CAPITAL STOCK
 
@@ -2672,8 +2680,8 @@ TOTAL SHARES
     - 1,000,000 shares of preferred stock, $.01 par value per share.
 
     
-On May [ - ], 2001, there were [ - ] shares of Jones common stock issued and
-outstanding, and no shares of Jones preferred stock issued and outstanding.
+On May 16, 2001, there were 120,945,292 shares of Jones common stock issued
+and outstanding, and no shares of Jones preferred stock issued and outstanding.
 
 
 COMMON STOCK
@@ -2771,7 +2779,7 @@ consist of:
     - 1,000,000 shares of preferred stock, $.01 par value per share.
 
     
-At the close of business on May [ - ], 2001, there were [ - ] shares of
+At the close of business on May 15, 2001, there were 9,999,030 shares of
 McNaughton common stock issued and outstanding and no shares of McNaughton
 preferred stock issued and outstanding.
 
@@ -3716,7 +3724,7 @@ General Counsel of Jones.
 With respect to certain matters concerning
 Pennsylvania law, Mr. Dansky will rely on Schnader Harrison Segal & Lewis LLP,
 Philadelphia, Pennsylvania.
-As of May [-], 2001, Mr. Dansky owned no shares of
+As of May 16, 2001, Mr. Dansky owned no shares of
 Jones common stock but had options to purchase 205,585 shares of Jones common
 stock.
 Certain United States federal income tax consequences of the merger will
@@ -3730,7 +3738,7 @@ Certain United States federal income tax consequences of the merger will be
 passed upon for McNaughton by Torys, New York, New York.
 Torys regularly acts as
 counsel for McNaughton and its subsidiaries.
-As of May [-], 2001, Bradley P.
+As of May 16, 2001, Bradley P.
 Cost, Esq., a member of Torys, was a director of McNaughton and owned 5,000
 shares of McNaughton common stock and had options to purchase 50,000 shares of
 McNaughton common stock.
@@ -3826,7 +3834,8 @@ the offices of The Nasdaq Stock Market at 1735 K Street, N.W., Washington, D.C.
 20016.
 
     
-Jones filed a registration statement on Form S-4 on May 8, 2001, with the
+Jones filed a registration statement on Form S-4 on May 8, 2001, which was
+amended on May 18, 2001 to update the information contained therein, with the
 Securities and Exchange Commission to register the Jones common stock to be
 issued to McNaughton stockholders pursuant to the merger.
 This proxy
@@ -3868,11 +3877,13 @@ JONES FILINGS                                            PERIOD
 
 Annual Report on Form 10-K.............  
 Fiscal Year ended December 31, 2000
+Quarterly Report on Form 10-Q..........  
+Fiscal Quarter ended April 7, 2001
 Current Report on Form 8-K.............  Filed on April 16, 2001
 
 MCNAUGHTON FILINGS                                       PERIOD
-- ------------------                       
----------------------------------------
+-
+------------------                       ---------------------------------------
 (FILE NO. 0-23440)
 
 Annual Report on Form 10-K.............  
@@ -3931,7 +3942,7 @@ McNaughton has not
 authorized anyone to provide McNaughton stockholders with information that is
 different from what is contained in this proxy statement/prospectus.
 This proxy
-statement/prospectus is dated May [-], 2001.
+statement/prospectus is dated May 18, 2001.
 McNaughton stockholders should not
 assume that the information contained in this proxy statement/prospectus is
 accurate as of any date other than that date.
@@ -4684,62 +4695,3 @@ A-9
 
     SECTION 3.01.  
 REPRESENTATIONS AND WARRANTIES OF THE COMPANY.  
-Except as set
-forth on the disclosure schedule (with specific reference to the Section or
-Subsection of this Agreement to which the information stated in such disclosure
-relates, with such disclosure to be applicable to other Sections or Subsections
-of this Agreement to the extent a matter is disclosed in such a way as to make
-its relevance to the information called for by such other Section or Subsections
-readily apparent) delivered by the Company to Parent prior to the execution of
-this Agreement (the "Company Disclosure Schedule"), the Company represents and
-warrants to Parent and Sub as follows:
-
-        (a)  ORGANIZATION, STANDING AND POWER.  
-Each of the Company and its
-    subsidiaries (as defined in Section 8.03) (i) is duly organized, validly
-    existing and in good standing under the laws of the jurisdiction of its
-    organization, (ii) has all requisite corporate, company or partnership power
-    and authority to carry on its business as now being conducted and (iii) is
-    duly qualified or licensed to do business (in the case of Miss Erika, Inc.
-    in the State of New Jersey, under the name ME Acquisition Corp.) and is in
-    good standing in each jurisdiction in which the nature of its business or
-    the ownership, leasing or operation of its properties makes such
-    qualification or licensing necessary, other than (except in the case of
-    clause (i) above with respect to the Company) where the failure to be so
-    organized, existing, qualified or licensed or in good standing individually
-    or in the aggregate could not reasonably be expected to have a material
-    adverse effect (as defined in Section 8.03) on the Company.
-The Company has
-    made available to Parent true and complete copies of its Certificate of
-    Incorporation and By-laws and the certificate of incorporation and by-laws
-    (or similar organizational documents) of each of its subsidiaries, in each
-    case as amended to the date of this Agreement.
-The Company has made
-    available to Parent and its representatives true and complete copies of the
-    minutes (or, in the case of minutes that have not yet been finalized, drafts
-    thereof) of all meetings of the stockholders, the Board of Directors and
-    each committee of the Board of Directors of the Company and each of its
-    subsidiaries held since January 1, 1998.
-
-        (b)  SUBSIDIARIES.  
-Section 3.01(b) of the Company Disclosure Schedule
-    lists each subsidiary of the Company.
-All the outstanding shares of capital
-    stock or other equity or voting interests of each such subsidiary are owned
-    by the Company, by another wholly owned subsidiary of the Company or by the
-    Company and another wholly owned subsidiary of the Company, free and clear
-    of all pledges, claims, liens, charges, encumbrances and security interests
-    of any kind or nature whatsoever (collectively, "Liens"), except Liens in
-    favor of the lenders arising under the Second Amended and Restated Financing
-    Agreement dated as of November 29, 2000 (the "Financing Agreement") among
-    the Company, certain of its subsidiaries, The CIT Group/Commercial
-    Services Inc., as administrative agent, and certain other agents and lenders
-    party thereto, and are duly authorized, validly issued, fully paid and
-    nonassessable.
-Except for the capital stock of, or other equity or voting
-    interests in, its subsidiaries, the Company does not own, directly or
-    indirectly, any capital stock of, or other equity or voting interests in,
-    any person.
-
-        
-(c)  CAPITAL STRUCTURE.  

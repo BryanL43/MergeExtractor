@@ -34,7 +34,7 @@ startPhrases = [
     "Background of the offer",
     "Background of the acquisition",
     "Background of the Offer and the Merger"
-]
+];
 
 def main():
     prompt = (
@@ -48,7 +48,7 @@ def main():
     assistant = Assistant(api_key, prompt, "gpt-4o-mini");
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, assistant);
-    crawler.runCrawler(startIndex=0, endIndex=50);
+    crawler.runCrawler(startIndex=0, endIndex=5);
 
     if deleteAssistant:
         assistant.deleteAssistant();

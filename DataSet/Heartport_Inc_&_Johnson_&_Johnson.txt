@@ -1,389 +1,5 @@
-URL: https://www.sec.gov/Archives/edgar/data/200406/000095012301002280/0000950123-01-002280.txt
+URL: https://www.sec.gov/Archives/edgar/data/200406/000095012301001665/0000950123-01-001665.txt
 
- 
-ended December 31, 2000 has been derived from Heartport's
-audited historical financial statements incorporated by reference in this proxy
-statement/prospectus.
-The financial statements for those periods were audited by
-Ernst & Young LLP, independent auditors.
-This information should be read in
-conjunction with management's discussion and analysis of results of operations
-and financial condition of Heartport and the consolidated financial statements
-and notes thereto of Heartport incorporated by reference into this proxy
-statement/prospectus.
-
-                                                      
-YEAR ENDED DECEMBER 31,
-                                      --------------------------------------------------------
-                                        1996       1997        1998        1999        2000
-                                      --------   ---------   
----------   ---------   
----------
-                                               (IN THOUSANDS, EXCEPT PER SHARE DATA)
-
-CONSOLIDATED STATEMENT OF OPERATIONS
-  DATA:
-Net sales...........................  $    624   $  23,421   $  18,611   $  18,090   $  20,220
-Cost of sales.......................       561      15,395      16,846      10,634       7,989
-                                      --------   ---------   
----------   ---------   
----------
-Gross profit........................        
-63       8,026       1,765       7,456      12,231
-Operating expenses:
-  Research and development..........    21,059      18,005      10,985       7,039       4,519
-  Selling, general and
-     administrative.................    11,223      43,005      33,151      18,520      11,655
-  Patent acquisition................     5,216          --          --          --          --
-  Restructuring charges.............        --          --      12,158       2,363       1,275
-                                      --------   ---------   ---------   ---------   ---------
-Loss from operations................   (37,435)    (52,984)    (54,529)    (20,466)     (5,218)
-Interest income (expense) and other,
-  net...............................     
-3,381       1,653      (1,692)       (933)     (2,825)
-                                      --------   ---------   ---------   ---------   ---------
-Loss before extraordinary item......   (34,054)    (51,331)    (56,221)    (21,399)     (8,043)
-Extraordinary item -- gain on
-  extinguishment of debt............        --          --      15,563          --       1,750
-                                      --------   ---------   
----------   ---------   
----------
-Net loss............................  $(34,054)  $ (51,331)  $ (40,658)  $ (21,399)  $  (6,293)
-                                      ========   =========   =========   =========   =========
-Basic and diluted net loss per
-  share.............................  
-$  (2.11)  $   (2.29)  $   (1.73)  $   (0.88)  $   (0.25)
-                                      ========   =========   =========   =========   =========
-Extraordinary income per share......                         $    0.66
-                                                             =========
-CONSOLIDATED BALANCE SHEET DATA (AT
-  PERIOD END):
-Current assets......................  $ 94,226   $ 124,848   $  74,761   $  48,683   $  21,055
-Working capital.....................    
-87,561     113,923      46,170      24,906      17,445
-Total assets........................   101,852     142,810      87,537      60,813      34,425
-Long-term obligations, less current
-  portion...........................     
-4,717      89,868      56,098      55,433      51,283
-Accumulated deficit.................   (50,599)   (101,930)   (142,588)   (163,987)   (170,280)
-Total stockholders' equity (net
-  capital deficiency)...............    90,470      42,017       2,848     (18,397)    (20,468)
-
-                      RISK FACTORS RELATING TO THE MERGER
-
-     
-In addition to the other information included and incorporated by reference
-in this proxy statement/ prospectus, Heartport stockholders should consider
-carefully the matters described below in determining whether to adopt the merger
-agreement.
-
-     
-THE EXCHANGE RATIO USED TO DETERMINE HOW MANY SHARES OF JOHNSON & JOHNSON
-COMMON STOCK HEARTPORT STOCKHOLDERS WILL BE ENTITLED TO RECEIVE UPON COMPLETION
-OF THE MERGER WILL NOT BE CALCULATED UNTIL AFTER THE SPECIAL MEETING, AND COULD
-BE HIGHER OR LOWER THAN THE ESTIMATED EXCHANGE RATIO INCLUDED IN THIS PROXY
-STATEMENT/PROSPECTUS.  
-Under the merger agreement, each share of Heartport
-common stock will be converted into the right to receive a fraction of a share
-of Johnson & Johnson common stock based on an exchange ratio that will be
-calculated shortly before the completion of the merger.
-We have included in this
-proxy statement/prospectus an estimated exchange ratio based on the closing
-price of Johnson & Johnson common stock on March 12, 2001, the last practicable
-trading day before the date of this proxy statement/prospectus.
-The actual
-exchange ratio could be higher or lower than this estimated exchange ratio,
-which would result in Heartport stockholders receiving a greater or lesser
-number of shares of Johnson & Johnson common stock upon completion of the merger
-than they would receive based upon the estimated exchange ratio.
-
-     
-THE MARKET VALUE OF SHARES OF JOHNSON & JOHNSON COMMON STOCK RECEIVED BY
-HEARTPORT STOCKHOLDERS IN THE MERGER MAY BE MORE OR LESS THAN THE VALUE
-ATTRIBUTED TO SHARES OF HEARTPORT COMMON STOCK IN CALCULATING THE EXCHANGE
-RATIO.  
-The exchange ratio will be calculated by dividing $2.72 by the average
-per share closing price of Johnson & Johnson common stock during a period of 20
-trading days ending on the second trading day immediately preceding the date on
-which the merger is completed.
-The market value of Johnson & Johnson common
-stock on the date on which the merger is completed may be different than the
-average Johnson & Johnson share price used in determining the exchange ratio.
-As
-a result, the market value of the shares of Johnson & Johnson common stock that
-Heartport stockholders will receive in the merger may be more or less than the
-value attributed to shares of Heartport common stock in calculating the exchange
-ratio.
-
-     
-IF THE AMOUNT OF CASH THAT IS REQUIRED TO BE PAID BY HEARTPORT OR JOHNSON &
-JOHNSON IN ORDER TO SATISFY THOSE HEARTPORT STOCKHOLDERS WHO HAVE EXERCISED
-APPRAISAL/DISSENTERS' RIGHTS EXCEEDS CERTAIN THRESHOLD LEVELS, THE MERGER WILL
-NOT QUALIFY AS A REORGANIZATION WITHIN THE MEANING OF SECTION 368(A) OF THE
-INTERNAL REVENUE CODE.  
-Because there is no limit on the number of stockholders
-who may exercise appraisal/dissenters' rights, there can be no assurance that
-the merger will qualify as a reorganization.
-If the merger does not qualify as a
-reorganization, each holder of Heartport common stock will recognize gain or
-loss equal to the difference between the fair market value of the Johnson &
-Johnson common stock received in the merger and his or her tax basis in the
-Heartport common stock surrendered in exchange therefor.
-See "The
-Merger -- Material United States Federal Income Tax Consequences of the Merger"
-on page 27.
-
-     
-THE PRICE OF JOHNSON & JOHNSON COMMON STOCK MAY BE AFFECTED BY FACTORS
-DIFFERENT FROM THOSE AFFECTING THE PRICE OF HEARTPORT COMMON STOCK.  
-Upon
-completion of the merger, holders of Heartport common stock will become holders
-of Johnson & Johnson common stock.
-Johnson & Johnson's business differs from
-that of Heartport and Johnson & Johnson's results of operations, as well as the
-price of Johnson & Johnson common stock, may be affected by factors different
-from those affecting Heartport's results of operations and the price of
-Heartport common stock.
-For a discussion of Johnson & Johnson's and Heartport's
-businesses and certain factors to consider in connection with such businesses,
-see Johnson & Johnson's Annual Report on Form 10-K for the fiscal year ended
-January 2, 2000, which is incorporated by reference in this proxy
-statement/prospectus, and Heartport's Annual Report on Form 10-K for the year
-ended December 31, 2000, which is incorporated by reference in, and accompanies,
-this proxy statement/prospectus.
-
-                              
-THE SPECIAL MEETING
-
-     We are furnishing this proxy statement/prospectus to stockholders of
-Heartport as of the record date as part of the solicitation of proxies by the
-Heartport board of directors for use at the special meeting.
-
-
-DATE, TIME AND PLACE
-
-     We will hold the special meeting at the offices of Gunderson Dettmer Stough
-Villeneuve Franklin & Hachigian, LLP, 155 Constitution Drive, Menlo Park,
-California, at 10:00 a.m., local time, on April 16, 2001.
-
-
-PURPOSE OF THE SPECIAL MEETING
-
-     At the special meeting, we will ask holders of Heartport common stock to
-adopt the merger agreement.
-The Heartport board of directors has determined that
-the merger and the other transactions contemplated by the merger agreement are
-advisable to, and in the best interests of, Heartport and its stockholders, has
-unanimously adopted and approved the merger agreement and the merger and
-unanimously recommends that Heartport stockholders vote "FOR" adoption of the
-merger agreement.
-
-
-RECORD DATE; SHARES ENTITLED TO VOTE; QUORUM
-
-     Only holders of record of Heartport common stock at the close of business
-on March 9, 2001, the record date, are entitled to notice of and to vote at the
-special meeting.
-On the record date, 26,379,754 shares of Heartport common stock
-were issued and outstanding and held by approximately 277 holders of record.
-A
-quorum is present at the special meeting if a majority of all of the shares of
-Heartport common stock issued and outstanding on the record date and entitled to
-vote at the special meeting are represented at the special meeting in person or
-by a properly executed proxy.
-In the event that a quorum is not present at the
-special meeting, it is expected that the meeting will be adjourned or postponed
-to solicit additional proxies.
-Holders of record of Heartport common stock on
-the record date are entitled to one vote per share on each matter submitted to a
-vote at the special meeting.
-
-
-VOTES REQUIRED
-
-     The adoption of the merger agreement requires the affirmative vote of
-stockholders holding a majority of the shares of Heartport common stock
-outstanding on the record date.
-Because the required vote of Heartport
-stockholders is based upon the number of outstanding shares of Heartport common
-stock, rather than upon the number of shares actually voted, the failure by the
-holder of any outstanding shares to submit a proxy or to vote in person at the
-special meeting, including abstentions and broker non-votes, will have the same
-effect as a vote against adoption of the merger agreement.
-
-
-VOTING BY HEARTPORT DIRECTORS, EXECUTIVE OFFICERS AND AFFILIATES
-
-     At the close of business on the record date, directors and executive
-officers of Heartport and their affiliates beneficially owned and were entitled
-to vote 7,884,668 shares of Heartport common stock, which represented
-approximately 29.9% of the shares of Heartport common stock outstanding on that
-date.
-All directors and executive officers of Heartport and their affiliates
-have agreed to vote in favor of the adoption of the merger agreement.
-See "The
-Stockholder Agreement" on page 45.
-
-
-VOTING OF PROXIES
-
-     All shares represented by properly executed proxies received in time for
-the special meeting will be voted at the special meeting in the manner specified
-by the holders.
-Properly executed proxies that do not contain voting
-instructions will be voted "FOR" adoption of the merger agreement.
-
-     
-Shares of Heartport common stock represented at the special meeting but not
-voting, including shares of Heartport common stock for which proxies have been
-received but for which holders of shares have
-
-abstained, will be treated as present at the special meeting for purposes of
-determining the presence or absence of a quorum for the transaction of all
-business.
-
-     
-Brokers who hold shares of Heartport common stock in "street name" for
-customers who are the beneficial owners of such shares may not give a proxy to
-vote those customers' shares in the absence of specific instructions from those
-customers.
-These non-voted shares are referred to as broker non-votes and count
-as votes against adoption of the merger agreement.
-
-     
-The persons named as proxies by a stockholder may propose and vote for one
-or more adjournments of the special meeting, including adjournments to permit
-further solicitations of proxies.
-No proxy voted against the proposal to adopt
-the merger agreement will be voted in favor of any such adjournment or
-postponement.
-
-     
-Heartport does not expect that any matter other than the proposal to adopt
-the merger agreement will be brought before the special meeting.
-If, however,
-the Heartport board of directors properly presents other matters, the persons
-named as proxies will vote in accordance with their judgment.
-
-
-REVOCABILITY OF PROXIES
-
-     The grant of a proxy on the enclosed form of proxy does not preclude a
-stockholder from voting in person at the special meeting.
-A stockholder may
-revoke a proxy at any time prior to its exercise by submitting to Heartport a
-properly executed revocation of proxy, by submitting to Heartport a properly
-executed proxy bearing a later date or by appearing at the special meeting and
-voting in person.
-If a stockholder chooses either of the first two methods, the
-notice of revocation or new proxy, as the case may be, must be submitted to
-Heartport at 700 Bay Road, Redwood City, California 94063, Attention:
-Stockholder Relations.
-Attendance at the special meeting will not in and of
-itself constitute revocation of a proxy.
-
-
-SOLICITATION OF PROXIES
-
-     Heartport will bear the cost of the solicitation of proxies from its
-stockholders.
-In addition to solicitation by mail, the directors, officers and
-employees of Heartport may solicit proxies from stockholders by telephone or
-other electronic means or in person.
-Heartport will cause brokerage houses and
-other custodians, nominees and fiduciaries to forward solicitation materials to
-the beneficial owners of stock held of record by such persons.
-Heartport will
-reimburse such custodians, nominees and fiduciaries for their reasonable
-out-of-pocket expenses in doing so.
-
-     
-Georgeson Shareholder Communications, Inc. will assist in the solicitation
-of proxies by Heartport.
-Heartport will pay Georgeson a fee of $10,000, plus
-reimbursement of certain out-of-pocket expenses, and will indemnify Georgeson
-against any losses arising out of its proxy solicitation services on behalf of
-Heartport.
-
-     
-STOCKHOLDERS SHOULD NOT SEND STOCK CERTIFICATES WITH THEIR PROXIES.  
-A
-transmittal form with instructions for the surrender of Heartport common stock
-certificates will be mailed to Heartport stockholders shortly after completion
-of the merger.
-
-                                 
-THE COMPANIES
-
-HEARTPORT
-
-     Heartport is a cardiovascular device company that develops, manufactures
-and markets proprietary products designed to make cardiac surgery less invasive
-for patients.
-Heartport's technologies allow surgeons to perform a wide range of
-less invasive open-chest and minimally invasive heart operations, including
-stopped heart and beating heart procedures.
-
-     
-Heartport was incorporated in the State of Delaware on August 12, 1994.
-The
-address of its principal executive offices is 700 Bay Road, Redwood City,
-California, and the telephone number at that address is (650) 306-7900.
-For a
-more detailed description of Heartport's business and financial condition,
-please review Heartport's Annual Report on Form 10-K for the year ended December
-31, 2000, which is incorporated by reference in, and accompanies, this proxy
-statement/prospectus.
-
-
-JOHNSON & JOHNSON
-
-     Johnson & Johnson, with approximately 98,500 employees, is the world's most
-comprehensive and broadly-based manufacturer of health care products, as well as
-a provider of related services, for the consumer, pharmaceutical and
-professional markets.
-Johnson & Johnson has more than 190 operating companies in
-51 countries around the world, selling products in more than 175 countries.
-
-     
-Johnson & Johnson's worldwide business is divided into three segments:
-consumer, pharmaceutical and professional.
-The consumer segment's principal
-products are personal care and hygienic products, including oral and baby care
-products, first aid products, nonprescription drugs, sanitary protection
-products and adult skin and hair care products.
-These products are marketed
-principally to the general public and distributed both to wholesalers and
-directly to independent and chain retail outlets.
-
-     
-The pharmaceutical segment's principal worldwide franchises are in the
-anti-infective, anti-fungal, anti-anemia, central nervous system, contraceptive,
-dermatology, gastrointestinal and pain management fields.
-These products are
-distributed both directly and through wholesalers for use by health care
-professionals and the general public.
-
-     
-The professional segment includes suture and mechanical wound closure
-products, minimally invasive surgical instruments, diagnostic products,
-cardiology products, disposable contact lenses, surgical instruments,
-orthopaedic joint replacements and products for wound management and infection
-prevention and other medical equipment and devices.
-These products are used
-principally in the professional fields by physicians, nurses, therapists,
-hospitals, diagnostic laboratories and clinics.
-Distribution to these markets is
-done both directly and through surgical supply and other dealers.
-
-     
-Johnson & Johnson was organized in the State of New Jersey in 1887.
-The
-address of its principal executive offices is One Johnson & Johnson Plaza, New
-Brunswick, New Jersey, and the telephone number at that address is (732)
-524-0400.
-
-                                   
 THE MERGER
 
 BACKGROUND TO THE MERGER
@@ -655,9 +271,9 @@ an exhaustive list, but includes all material factors considered:
        substantially greater liquidity than could be achieved by holding shares
        of Heartport common stock, which are currently listed on The Nasdaq
        SmallCap Market and have an average daily trading volume of approximately
-       195,000 shares, as opposed to holding shares of Johnson & Johnson common
+       193,000 shares, as opposed to holding shares of Johnson & Johnson common
        stock, which are listed on the New York Stock Exchange and have an
-       average daily trading volume of approximately 3.3 million shares
+       average daily trading volume of approximately 3.4 million shares
 
      - Johnson & Johnson's inability to terminate the merger agreement in the
        event there were materially adverse changes to Heartport's business based
@@ -997,7 +613,7 @@ adjustments associated with potential synergies from the merger.
      
 Nominal discount rates ranging from 12.0% to 14.0% were applied to
 Heartport's projected unlevered free cash flows for the years 2001 through 2005
-and terminal value in 2005 based on a perpetual growth rate of 4.0% for the
+and terminal value in 2005 based on a perpetual growth rate of 4% for the
 unlevered free cash flow of Heartport.
 Based on these assumptions, the
 stand-alone present aggregate value of Heartport ranged from $73 million to $91
@@ -1016,7 +632,7 @@ of the merger.
 Under this scenario, nominal discount rates ranging from 12.0% to
 14.0% were applied to Heartport's projected unlevered free cash flows for the
 years 2001 through 2005 and terminal value in 2005 based on a perpetual growth
-rate of 4.0% for the unlevered free cash flow of Heartport.
+rate of 4% for the unlevered free cash flow of Heartport.
 Based on these
 assumptions, the potential present aggregate value of Heartport controlled by a
 major surgical products company ranged from $114 million to $144 million,
@@ -1314,12 +930,12 @@ merger as reported on the New York Stock Exchange Composite Transactions Tape.
 OWNERSHIP OF JOHNSON & JOHNSON FOLLOWING THE MERGER
 
      Based on the number of outstanding shares of Heartport common stock on the
-record date and the closing price of Johnson & Johnson common stock on March 12,
-2001, we anticipate that Heartport stockholders will receive approximately
-754,461 shares of Johnson & Johnson common stock in the merger.
+record date and the closing price of Johnson & Johnson common stock on March
+[--], 2001, we anticipate that Heartport stockholders will receive approximately
+[--] shares of Johnson & Johnson common stock in the merger.
 Based on that
 number and on the number of outstanding shares of Johnson & Johnson common stock
-on March 12, 2001, Heartport stockholders will own approximately 0.05% of the
+on March [--], 2001, Heartport stockholders will own approximately [--]% of the
 outstanding shares of Johnson & Johnson common stock following the merger.
 
 
@@ -2640,12 +2256,13 @@ it will not, without Johnson & Johnson's prior written consent:
        payment or other obligations of no greater than $75,000 and, in the
        aggregate,
 
-have future payment or other obligations of no greater than $150,000, all of
-which have a term of no greater than one year or are terminable by Heartport by
-notice of not more than 60 days without payment of any penalty and other than
-      pursuant to any such contracts, agreements, arrangements or understandings
-      in place as of the date of the merger agreement in accordance with their
-      terms as of the date of the merger agreement
+       have future payment or other obligations of no greater than $150,000, all
+       of which have a term of no greater than one year or are terminable by
+       Heartport by notice of not more than 60 days without payment of any
+       penalty and other than pursuant to any such contracts, agreements,
+       arrangements or understandings in place as of the date of the merger
+       agreement in accordance with their terms as of the date of the merger
+       agreement
 
      - adopt, enter into, terminate or amend in any material respect any
        collective bargaining agreement or benefit plan or any other agreement,
@@ -2839,7 +2456,7 @@ VOTING ARRANGEMENTS AND RELATED PROVISIONS
 
      In connection with the execution of the merger agreement, directors and
 executive officers of Heartport and their affiliates, who together held
-approximately 29.9% of the outstanding shares of Heartport common stock on the
+approximately [30.2]% of the outstanding shares of Heartport common stock on the
 record date, each agreed to vote all shares of Heartport common stock held by
 such person in favor of the adoption of the merger agreement, the approval of
 the merger and the approval of the other transactions contemplated by the merger
@@ -2964,50 +2581,51 @@ stock as reported in by the Dow Jones & Company, Inc.
 For current price
 information, stockholders are urged to consult publicly available sources.
 
-                                              
-JOHNSON & JOHNSON                                        HEARTPORT
-                                                COMMON STOCK                                         COMMON STOCK
-                                ---------------------------------------------          -----------------------------------------
-                                                                    DIVIDENDS                                          DIVIDENDS
-CALENDAR PERIOD                   HIGH               LOW            DECLARED            HIGH             LOW           DECLARED
-- ---------------                 ---------          
--------          ---------          
--------          -----          ---------
+                                                      
+JOHNSON & JOHNSON                                 HEARTPORT
+                                                         COMMON STOCK                                  COMMON STOCK
+                                             ------------------------------------          ------------------------------------
+                                                                        DIVIDENDS                                     DIVIDENDS
+CALENDAR PERIOD                              HIGH          LOW          DECLARED           HIGH          LOW          DECLARED
+- ---------------                              ----          ---          ---------          
+----          ---          ---------
 
-  First Quarter...............  $  62 3/4          $48 5/8            $0.19            $33 3/4          $21 1/4           --
-  Second Quarter..............     66 7/8           51 1/8             0.22             27 1/4          17 1/4            --
-  Third Quarter...............     65 7/8           55 1/8             0.22             25 1/4             16             --
-  Fourth Quarter..............    67 5/16           52 5/8             0.22                 30          18 1/4            --
+  First Quarter............................  $ 62 3/4      $48 5/8        $0.19            $33 3/4       $21 1/4         --
+  Second Quarter...........................    66 7/8       51 1/8         0.22             27 1/4        17 1/4         --
+  Third Quarter............................    65 7/8       55 1/8         0.22             25 1/4        16             --
+  Fourth Quarter...........................    67 5/16      52 5/8         0.22             30            18 1/4         --
 
-  First Quarter...............     76 1/2           63 3/8             0.22             23 3/4          10 3/4            --
-  Second Quarter..............     77 7/8               67             0.25             14 1/8              5             --
-  Third Quarter...............     80 3/4           68 1/4             0.25            6 11/16          2 15/16           --
-  Fourth Quarter..............     89 3/4           72 5/8             0.25             8 3/16          2 3/8             --
+  First Quarter............................    76 1/2       63 3/8         0.22             23 3/4        10 3/4         --
+  Second Quarter...........................    77 7/8       67             0.25             14 1/8         5             --
+  Third Quarter............................    80 3/4       68 1/4         0.25              6 11/16       2 15/16       --
+  Fourth Quarter...........................    89 3/4       72 5/8         0.25              8 3/16        2 3/8         --
 
-  First Quarter...............         
-94               77             0.25              8 7/8          4 7/16            --
-  Second Quarter..............        103          87 13/16            0.28              6 1/2          2 1/4             --
-  Third Quarter...............    105 7/8               90             0.28            4 13/16          1 7/8             --
-  Fourth Quarter..............    106 7/8           90 1/8             0.28            7 13/16          2 7/16            --
+  First Quarter............................    94           77             0.25              8 7/8         4 7/16        --
+  Second Quarter...........................   103           87 13/16       0.28              6 1/2         2 1/4         --
+  Third Quarter............................   105 7/8       90             0.28              4 13/16       1 7/8         --
+  Fourth Quarter...........................   106 7/8       90 1/8         0.28              7 13/16       2 7/16        --
 
-  First Quarter...............   96 15/16           66 1/8             0.28             8 5/16              4             --
-  Second Quarter..............    101 7/8               70             0.32                  5          2 3/4             --
-  Third Quarter...............   101 7/16           90 1/4             0.32              3 7/8          2 1/16            --
-  Fourth Quarter..............  105 15/16          89 3/16             0.32              3 1/2          1 1/2             --
+  First Quarter............................    96 15/16     66 1/8         0.28              8 5/16        4             --
+  Second Quarter...........................   101 7/8       70             0.32              5             2 3/4         --
+  Third Quarter............................   101 7/16      90 1/4         0.32              3 7/8         2 1/16        --
+  Fourth Quarter...........................   105 15/16     89 3/16        0.32              3 1/2         1 1/2         --
 
-  First Quarter (through March
-     12, 2001)................   104.6875           90.375             0.32              2.875           1.50             --
+  First Quarter (through March [--],
+     2001).................................  
+[--]          
+[--]            [--]            [--]          
+[--]            --
 
      The following table sets forth the high, low and last reported sales prices
 per share of Johnson & Johnson common stock and of Heartport common stock as
 reported by the Dow Jones & Company, Inc. and the market value of a share of
 Heartport common stock on an equivalent per share basis, in each case on January
 25, 2001, the last full trading day prior to the public announcement of the
-proposed merger, and on March 12, 2001, the last practicable trading day before
-the date of this proxy statement/ prospectus.
-The equivalent price per share
-data for Heartport common stock has been determined by multiplying the last
-reported sale price of a share of Johnson & Johnson common stock on each of
+proposed merger, and on March [--], 2001, the last practicable trading day
+before the date of this proxy statement/ prospectus.
+The equivalent price per
+share data for Heartport common stock has been determined by multiplying the
+last reported sale price of a share of Johnson & Johnson common stock on each of
 these dates by an exchange ratio determined using the average per share closing
 price of Johnson & Johnson common stock over a period of 20 trading days ending
 with the second trading day immediately preceding the calculation date.
@@ -3020,7 +2638,13 @@ JOHNSON & JOHNSON                HEARTPORT           EQUIVALENT PRICE PER
                              --------   ------   ------   ------   ------   -------   --------------------
 
 January 25, 2001...........  $92.3125   $90.50   $91.75   $2.625   $1.875   $2.0625          $2.56
-March 12, 2001.............     97.00    94.55    94.95    2.625   2.5938    2.5938           2.68
+March
+[--], 2001...........    
+[--]      
+[--]     
+[--]     
+[--]     
+[--]     [--]         [--]
 
                  DESCRIPTION OF JOHNSON & JOHNSON CAPITAL STOCK
 
@@ -3036,9 +2660,9 @@ The total authorized shares of capital stock of Johnson & Johnson consist
 of (1) 2,160,000,000 shares of common stock, $1.00 par value per share, and (2)
 2,000,000 shares of preferred stock, without par value.
 At the close of business
-on March 12, 2001, approximately 1,397,861,000 shares of Johnson & Johnson
-common stock were issued and outstanding and no shares of Johnson & Johnson
-preferred stock were issued and outstanding.
+on March [--], 2001, approximately [--] shares of Johnson & Johnson common stock
+were issued and outstanding and no shares of Johnson & Johnson preferred stock
+were issued and outstanding.
 
      
 The Johnson & Johnson board of directors is authorized to provide for the
@@ -3103,9 +2727,9 @@ HEARTPORT
 100,000,000 shares of common stock, $0.001 par value per share, and (2)
 20,000,000 shares of preferred stock, $0.001 par value per share.
 On the close
-of business on March 12, 2001, 26,379,754 shares of Heartport common stock were
-issued and outstanding and no shares of Heartport preferred stock were issued
-and outstanding.
+of business on March [--], 2001, approximately [--] shares of Heartport common
+stock were issued and outstanding and no shares of Heartport preferred stock
+were issued and outstanding.
 
      
 Heartport has the authority to issue preferred stock from time to time in
@@ -4012,12 +3636,12 @@ Johnson & Johnson and its subsidiaries.
 EXPERTS
 
      The consolidated financial statements of Johnson & Johnson and subsidiaries
-as of December 31, 2000 and January 2, 2000, and for each of the three fiscal
-years in the period ended December 31, 2000, which are incorporated in this
-proxy statement/prospectus by reference to the Johnson & Johnson Current Report
-on Form 8-K dated March 14, 2001, have been so incorporated in reliance on the
-reports by PricewaterhouseCoopers LLP, independent accountants, given on the
-authority of said firm as experts in auditing and accounting.
+as of January 2, 2000 and January 3, 1999, and for each of the three years in
+the period ended January 2, 2000, incorporated in this proxy
+statement/prospectus by reference to the Johnson & Johnson Annual Report on Form
+10-K for the fiscal year ended January 2, 2000, have been so incorporated in
+reliance on the reports by PricewaterhouseCoopers LLP, independent accountants,
+given on the authority of said firm as experts in auditing and accounting.
 
      
 The consolidated financial statements of Heartport, Inc. appearing in
@@ -4092,12 +3716,11 @@ K Street, N.W., Washington, D.C. 20016.
 
      
 Johnson & Johnson filed a registration statement on Form S-4 on February
-22, 2001, which was amended on March 14, 2001 to update the information
-contained therein, to register with the Securities and Exchange Commission the
-Johnson & Johnson common stock to be issued to Heartport stockholders in the
-merger.
-This proxy statement/prospectus is a part of that registration statement
-and constitutes a prospectus of Johnson & Johnson in addition to being a proxy
+22, 2001 to register with the Securities and Exchange Commission the Johnson &
+Johnson common stock to be issued to Heartport stockholders in the merger.
+This
+proxy statement/prospectus is a part of that registration statement and
+constitutes a prospectus of Johnson & Johnson in addition to being a proxy
 statement of Heartport.
 As allowed by Securities and Exchange Commission rules,
 this proxy statement/prospectus does not contain all the information you can
@@ -4107,15 +3730,14 @@ registration statement.
      
 The Securities and Exchange Commission allows Johnson & Johnson and
 Heartport to "incorporate by reference" information into this proxy
-statement/prospectus, which means that the companies can
-
-disclose important information to you by referring you to other documents filed
-separately with the Securities and Exchange Commission.
-The information
-incorporated by reference is considered part of this proxy statement/prospectus,
-except for any information superseded by information contained directly in this
-proxy statement/prospectus or in later filed documents incorporated by reference
-in this proxy statement/prospectus.
+statement/prospectus, which means that the companies can disclose important
+information to you by referring you to other documents filed separately with the
+Securities and Exchange Commission.
+The information incorporated by reference is
+considered part of this proxy statement/prospectus, except for any information
+superseded by information contained directly in this proxy statement/prospectus
+or in later filed documents incorporated by reference in this proxy
+statement/prospectus.
 
      
 This proxy statement/prospectus incorporates by reference the documents set
@@ -4126,9 +3748,10 @@ the year ended December 31, 2000, which is one of the documents incorporated by
 reference in this proxy statement/prospectus, is being delivered with this proxy
 statement/prospectus.
 These documents contain important business and financial
-information about Johnson & Johnson and Heartport that is not included in, or,
-in the case of Johnson & Johnson, delivered with, this proxy
-statement/prospectus.
+information about
+
+Johnson & Johnson and Heartport that is not included in, or, in the case of
+Johnson & Johnson, delivered with, this proxy statement/prospectus.
 
 
 JOHNSON & JOHNSON FILINGS                      PERIOD
@@ -4136,23 +3759,15 @@ JOHNSON & JOHNSON FILINGS                      PERIOD
 Annual Report on Form 10-K...................  
 Fiscal Year ended January 2, 2000, as amended
                                                by Amendment thereto filed on Form 10-K/A on
-                                               June 27, 2000 (other than the audit financial
-                                               statements of Johnson & Johnson for the
-                                               fiscal year ended January 2, 2000 contained
-                                               therein)
+                                               June 27, 2000
 Quarterly Reports on Form 10-Q...............  
 Quarters ended April 2, 2000, July 2, 2000
                                                and October 1, 2000
-Current Report on Form 8-K...................  Filed on March 14, 2001 (contains audited
-                                               financial statements of Johnson & Johnson for
-                                               the fiscal year ended December 31, 2000)
-
 HEARTPORT FILINGS                              PERIOD
 (FILE NO. 000-28266)
 Annual Report on Form 10-K...................  
-Year ended December 31, 2000, as amended by
-                                               Amendment No. 1 thereto filed on Form 10-K/A
-                                               on March 13, 2001
+Year ended December 31, 2000
+Quarterly Report on 10-Q.....................  Quarter ended September 30, 2000
 
      Johnson & Johnson and Heartport also incorporate by reference additional
 documents that may be filed with the Securities and Exchange Commission under
@@ -4186,12 +3801,11 @@ Commission's website as described above.
 Documents incorporated by reference are
 available from the companies without charge, excluding all exhibits, except that
 if the companies have specifically incorporated by reference an exhibit in this
-proxy statement/prospectus, the exhibit will also be
+proxy statement/prospectus, the exhibit will also be provided without charge.
 
-provided without charge.
-Stockholders may obtain documents incorporated by
-reference in this proxy statement/prospectus by requesting them in writing or by
-telephone from the appropriate company at the following addresses:
+Stockholders may obtain documents incorporated by reference in this proxy
+statement/prospectus by requesting them in writing or by telephone from the
+appropriate company at the following addresses:
 
               Johnson & Johnson                               Heartport, Inc.
          One Johnson & Johnson Plaza                           700 Bay Road
@@ -4204,12 +3818,13 @@ reference in this proxy statement/prospectus.
 We have not authorized anyone to
 provide you with information that is different from what is contained in this
 proxy statement/prospectus.
-This proxy statement/prospectus is dated March 14,
+This proxy statement/prospectus is dated March
+[--],
 2001.
 You should not assume that the information contained in this proxy
-statement/prospectus is accurate as of any date other than that date.
+statement/ prospectus is accurate as of any date other than that date.
 Neither
-the mailing of this proxy statement/prospectus to stockholders nor the issuance
+the mailing of this proxy statement/ prospectus to stockholders nor the issuance
 of Johnson & Johnson common stock in the merger creates any implication to the
 contrary.
 
@@ -4312,72 +3927,76 @@ ANNEX 1
 I
                                                   THE MERGER
 SECTION 1.01.  
-The Merger................................................................................   1-1
+The Merger................................................................................   A-1
 SECTION 1.02.  
-Closing...................................................................................   1-1
+Closing...................................................................................   A-1
 SECTION 1.03.  
-Effective Time............................................................................   1-1
+Effective Time............................................................................   A-1
 SECTION 1.04.  
-Effects of the Merger.....................................................................   1-2
+Effects of the Merger.....................................................................   
+A-2
 SECTION 1.05.  
-Certificate of Incorporation and By-laws..................................................   1-2
+Certificate of Incorporation and By-laws..................................................   A-2
 SECTION 1.06.  
-Directors.................................................................................   1-2
+Directors.................................................................................   A-2
 SECTION 1.07.  
-Officers..................................................................................   1-2
+Officers..................................................................................   A-2
                                                   ARTICLE II
                          EFFECT OF THE MERGER ON THE CAPITAL STOCK OF THE CONSTITUENT
                                     CORPORATIONS; EXCHANGE OF CERTIFICATES
 SECTION 2.01.  
-Effect on Capital Stock...................................................................   1-2
+Effect on Capital Stock...................................................................   A-2
 SECTION 2.02.  
-Exchange of Certificates..................................................................   1-3
+Exchange of Certificates..................................................................   A-3
                                                   ARTICLE III
                                         REPRESENTATIONS AND WARRANTIES
 SECTION 3.01.  
-Representations and Warranties of the Company.............................................   1-5
+Representations and Warranties of the Company.............................................   
+A-5
 SECTION 3.02.  
-Representations and Warranties of Parent and Sub..........................................  1-17
+Representations and Warranties of Parent and Sub..........................................  A-17
                                                   ARTICLE IV
                                    COVENANTS RELATING TO CONDUCT OF BUSINESS
 SECTION 4.01.  
-Conduct of Business.......................................................................  1-19
+Conduct of Business.......................................................................  A-19
 SECTION 4.02.  
-No Solicitation...........................................................................  1-22
+No Solicitation...........................................................................  A-22
                                                    ARTICLE V
                                              ADDITIONAL AGREEMENTS
 SECTION 5.01.  
-Preparation of the Form S-4 and the Proxy Statement; Stockholders' Meeting................  1-24
+Preparation of the Form S-4 and the Proxy Statement; Stockholders' Meeting................  A-24
 SECTION 5.02.  
-Access to Information; Confidentiality....................................................  1-25
+Access to Information; Confidentiality....................................................  A-25
 SECTION 5.03.  
-Commercially Reasonable Efforts...........................................................  1-25
+Commercially Reasonable Efforts...........................................................  A-25
 SECTION 5.04.  
-Stock Options.............................................................................  1-26
+Stock Options.............................................................................  A-26
 SECTION 5.05.  
-Indemnification, Exculpation and Insurance................................................  1-26
+Indemnification, Exculpation and Insurance................................................  
+A-26
 SECTION 5.06.  
-Fees and Expenses.........................................................................  1-27
+Fees and Expenses.........................................................................  A-27
 SECTION 5.07.  
-Public Announcements......................................................................  1-27
+Public Announcements......................................................................  A-27
 SECTION 5.08.  
-Affiliates................................................................................  1-27
+Affiliates................................................................................  A-27
 SECTION 5.09.  
-Stock Exchange Listing....................................................................  1-27
+Stock Exchange Listing....................................................................  A-27
 SECTION 5.10.  
-Tax Treatment.............................................................................  1-28
+Tax Treatment.............................................................................  A-28
 SECTION 5.11.  
-Stockholder Litigation....................................................................  1-28
+Stockholder Litigation....................................................................  A-28
 SECTION 5.12.  
-Rights Agreement..........................................................................  1-28
+Rights Agreement..........................................................................  A-28
 SECTION 5.13.  
-Convertible Notes.........................................................................  1-28
+Convertible Notes.........................................................................  A-28
 SECTION 5.14.  
-Employee Matters..........................................................................  1-28
+Employee Matters..........................................................................  A-28
 SECTION 5.15.  
-Stockholder Agreement Legend..............................................................  1-29
+Stockholder Agreement Legend..............................................................  
+A-29
 
-                                       1-i
+                                       A-i
 
                                                                                                            PAGE
                                                                                                            ----
@@ -4385,53 +4004,53 @@ Stockholder Agreement Legend....................................................
                                                   ARTICLE VI
                                              CONDITIONS PRECEDENT
 SECTION 6.01.  
-Conditions to Each Party's Obligation to Effect the Merger................................  1-29
+Conditions to Each Party's Obligation to Effect the Merger................................  A-29
 SECTION 6.02.  
-Conditions to Obligations of Parent and Sub...............................................  1-29
+Conditions to Obligations of Parent and Sub...............................................  A-29
 SECTION 6.03.  
-Conditions to Obligation of the Company...................................................  1-30
+Conditions to Obligation of the Company...................................................  A-30
 SECTION 6.04.  
-Frustration of Closing Conditions.........................................................  1-30
+Frustration of Closing Conditions.........................................................  A-30
 
                                                   ARTICLE VII
                                        TERMINATION, AMENDMENT AND WAIVER
 SECTION 7.01.  
-Termination...............................................................................  1-31
+Termination...............................................................................  A-31
 SECTION 7.02.  
-Effect of Termination.....................................................................  1-31
+Effect of Termination.....................................................................  A-31
 SECTION 7.03.  
-Amendment.................................................................................  1-31
+Amendment.................................................................................  A-31
 SECTION 7.04.  
-Extension; Waiver.........................................................................  1-32
+Extension; Waiver.........................................................................  A-32
 
                                                  ARTICLE VIII
                                               GENERAL PROVISIONS
 SECTION 8.01.  
-Nonsurvival of Representations and Warranties.............................................  1-32
+Nonsurvival of Representations and Warranties.............................................  A-32
 SECTION 8.02.  
-Notices...................................................................................  1-32
+Notices...................................................................................  A-32
 SECTION 8.03.  
-Definitions...............................................................................  1-33
+Definitions...............................................................................  A-33
 SECTION 8.04.  
-Interpretation............................................................................  1-34
+Interpretation............................................................................  A-34
 SECTION 8.05.  
-Counterparts..............................................................................  1-34
+Counterparts..............................................................................  A-34
 SECTION 8.06.  
-Entire Agreement; No Third-Party Beneficiaries............................................  1-34
+Entire Agreement; No Third-Party Beneficiaries............................................  A-34
 SECTION 8.07.  
-Governing Law.............................................................................  1-34
+Governing Law.............................................................................  A-34
 SECTION 8.08.  
-Assignment................................................................................  1-34
+Assignment................................................................................  A-34
 SECTION 8.09.  
-Specific Enforcement......................................................................  1-34
+Specific Enforcement......................................................................  A-34
 SECTION 8.10.  
-Severability..............................................................................  1-35
+Severability..............................................................................  A-35
 
-Annex I   Index of Defined Terms.........................................................................  1-37
-Exhibit A  Form of Certificate of Incorporation of the Surviving Corporation.............................  1-39
-Exhibit B  Form of Affiliate Letter......................................................................  1-40
+Annex I   Index of Defined Terms.........................................................................  A-37
+Exhibit A  Form of Certificate of Incorporation of the Surviving Corporation.............................  A-39
+Exhibit B  Form of Affiliate Letter......................................................................  A-40
 
-                                       1-ii
+                                      A-ii
 
                               AMENDED AND RESTATED AGREEMENT AND PLAN OF MERGER
                          (this "Agreement") dated as of January 26, 2001, among
@@ -4514,7 +4133,7 @@ Agreement, as soon as practicable on the Closing Date, the parties shall file a
 certificate of merger (the "Certificate of Merger") executed in accordance with
 the relevant provisions of the DGCL and, as soon as practicable on or after
 
-                                       1-1
+                                       A-1
 
 the Closing Date, shall make all other filings or recordings required under the
 DGCL.
@@ -4613,7 +4232,7 @@ As of the Effective Time, all
      represented any such shares of Company Common Stock (each, a "Certificate")
      shall cease to have any rights with respect thereto, except the right to
 
-                                       1-2
+                                       A-2
 
      receive the Merger Consideration, any dividends or other distributions to
      which such holder is entitled pursuant to Section 2.02(c) and any cash in
@@ -4701,7 +4320,7 @@ Upon surrender
 of a Certificate for cancellation to the Exchange Agent, together with such
 letter of
 
-                                       1-3
+                                       A-3
 
 transmittal, duly executed, and such other documents as may reasonably be
 required by the Exchange Agent, the holder of such Certificate shall be entitled
@@ -4781,7 +4400,7 @@ exchange of Certificates, no dividend or distribution of Parent shall relate to
 such fractional share interests and such fractional share interests will not
 entitle the owner thereof to vote or to any rights of a stockholder of Parent.
 
-                                       1-4
+                                       A-4
 
      (ii)
 In lieu of such fractional share interests, Parent shall pay to each
@@ -4866,8 +4485,7 @@ such disclosure schedule relates; provided, however, that to the extent it is
 readily apparent on the face of such exception that such exception also relates
 to another subsection of this Section 3.01, each such other subsection shall
 also be qualified by such exception) delivered by the
-
-                                       1-5
+                                       A-5
 
 Company to Parent prior to the execution of this Agreement (the "Company
 Disclosure Schedule") or (ii) described in any Company SEC Document filed and
@@ -4952,7 +4570,7 @@ Except as set forth above in this Section 3.01(c), there are no issued or
      outstanding bonds, debentures, notes or other indebtedness of the Company
      having the right to vote (or convertible into, or exchangeable for,
 
-                                       1-6
+                                       A-6
 
      securities having the right to vote) on any matters on which stockholders
      of the Company may vote.
@@ -5034,7 +4652,7 @@ No consent, approval, order or authorization of,
      regulatory or other governmental agency, commission or authority or any
      non-governmental self-regulatory agency, commission or authority (each, a
 
-                                       1-7
+                                       A-7
 
      "Governmental Entity") is required by or with respect to the Company in
      connection with the execution and delivery of this Agreement by the Company
@@ -5116,7 +4734,7 @@ None of the information supplied or to be
      to make the statements therein, in the light of the circumstances under
      which they are made, not misleading or (ii) the Proxy
 
-                                       1-8
+                                       A-8
 
      Statement will, at the date it is first mailed to the Company's
      stockholders and at the time of the Stockholders' Meeting, contain any
@@ -5200,7 +4818,7 @@ The Company is not in
      understanding, instrument, permit or license, whether oral or written, to
      which the Company is a party or by which it or any of its properties or
 
-                                       1-9
+                                       A-9
 
      other assets is bound, except for violations or defaults that individually
      or in the aggregate have not had and could not reasonably be expected to
@@ -5286,7 +4904,7 @@ The
      codes, ordinances, orders, decrees, judgments, injunctions, notices or
      Permits relating to the environment,
 
-                                       1-10
+                                      A-10
 
      preservation or reclamation of natural resources, the presence, management,
      Release or threat of Release of, or exposure to, Hazardous Materials, or to
@@ -5373,7 +4991,7 @@ The Benefit Plans have been
      Pension Plans are qualified and exempt from United States Federal income
      taxes under Sections 401(a) and 501(a), respectively, of the Code; no such
 
-                                       1-11
+                                      A-11
 
      determination letter has been revoked (or, to the Knowledge of the Company,
      has revocation been threatened) nor has any event occurred since the date
@@ -5460,7 +5078,7 @@ Section 3.01(l)(vii) of the Company Disclosure Schedule
      discloses whether each Benefit Plan that is an employee welfare benefit
      plan is (A) unfunded, (B) funded through a "welfare benefit
 
-                                       1-12
+                                      A-12
 
      fund", as such term is defined in Section 419(e) of the Code, or other
      funding mechanism or (C) insured.
@@ -5551,8 +5169,7 @@ The Company has timely filed all tax returns and reports
      granted and have not expired, except to the extent that such failures to
      file, to pay or to have extensions granted that remain in effect
      individually or in the
-
-                                       1-13
+                                      A-13
 
      aggregate have not had and could not reasonably be expected to have a
      Material Adverse Effect, and the most recent financial statements contained
@@ -5643,8 +5260,7 @@ The Company enjoys peaceful and undisturbed possession under all such
      which are material to the conduct of the business of the Company free and
      clear of all Liens.
 
-                                       
-1-14
+                                      A-14
 
           (ii)
 No claims are pending or, to the Knowledge of the Company,
@@ -5734,7 +5350,8 @@ Each inventor of the patents and patent applications listed in
      person to any person except pursuant to licenses or contracts requiring
      such other persons to keep such trade secrets confidential.
 
-                                       1-15
+                                      
+A-15
 
           (q) Voting Requirements.  
 The affirmative vote of a majority of the
@@ -5820,7 +5437,7 @@ The Company has taken all actions necessary to
      Rights Agreement and (z) a Distribution Date or a Shares Acquisition Date
      (as such terms are defined in
 
-                                       1-16
+                                      A-16
 
      the Rights Agreement) does not occur, in either case of (y) and (z), solely
      by reason of the execution of this Agreement or the Stockholder Agreement
@@ -5906,7 +5523,7 @@ Each of Parent and
      licenses, permits, authorizations and approvals necessary to enable it to
      use its corporate name and to
 
-                                       1-17
+                                      A-17
 
      own, lease or otherwise hold and operate its properties and other assets
      and to carry on its business as now being conducted, except where the
@@ -5991,7 +5608,7 @@ No consent, approval, order or authorization of, action by or in respect
      Agreement, (3) the filing and recordation of the Certificate of Merger with
      the
 
-                                       1-18
+                                      A-18
 
      Secretary of State of the State of Delaware, (4) filings with the NYSE and
      (5) such other consents, approvals, orders, authorizations, registrations,
@@ -6077,7 +5694,7 @@ available the services of its current officers and employees and preserve its
 relationships with customers, suppliers, licensors, licensees, distributors and
 others having business dealings
 
-                                       1-19
+                                      A-19
 
 with it with the intention that its goodwill and ongoing business shall be
 unimpaired at the Effective Time.
@@ -6157,7 +5774,7 @@ consent:
      ordinary course of business consistent with past practice, (x) cancel any
      indebtedness, (y) waive or assign any claims or rights of
 
-                                       1-20
+                                      A-20
 
      substantial value or (z) waive any benefits of, or agree to modify in any
      respect any confidentiality, standstill or similar agreements to which the
@@ -6232,9 +5849,8 @@ consent:
 
           (xvi) authorize any of, or commit or agree to take any of, the actions
      described in Section 4.01(a)(i) through (xv).
-
-                                       
-1-21
+                                      
+A-21
 
      (b) Other Actions.  
 The Company, Parent and Sub shall not take any action
@@ -6320,7 +5936,7 @@ to compliance with Section 4.02(c) and after giving Parent written notice of
 such determination, (x) furnish information with respect to the Company to the
 person
 
-                                       1-22
+                                      A-22
 
 making such Takeover Proposal (and its Representatives) pursuant to a customary
 confidentiality agreement and (y) participate in discussions or negotiations
@@ -6400,8 +6016,7 @@ in response to a Notice of Adverse Recommendation or otherwise.
 In addition to the obligations of the Company set forth in paragraphs
 (a) and (b) of this Section 4.02, the Company shall promptly advise Parent
 orally and in writing of any Takeover Proposal or
-
-                                       1-23
+                                      A-23
 
 any inquiry with respect to or that could reasonably be expected to lead to any
 Takeover Proposal, the material terms and conditions of any such Takeover
@@ -6485,7 +6100,7 @@ Agreement, the Merger and the other transactions contemplated hereby.
 Without
 limiting the generality of the foregoing, the Company's obligations pursuant
 
-                                       1-24
+                                      A-24
 
 to the first sentence of this Section 5.01(b) shall not be affected by (i) the
 commencement, public proposal, public disclosure or communication to the Company
@@ -6565,8 +6180,7 @@ Agreement shall be deemed to require Parent to agree to, or proffer to, divest
 or hold separate any assets or any portion of any business of Parent or its
 subsidiaries or the Company.
 
-                                       
-1-25
+                                      A-25
 
      SECTION 5.04.  
 Stock Options.  
@@ -6652,8 +6266,7 @@ Parent shall not be obligated to pay
 aggregate premiums in excess of 200% of the amount paid by the Company in its
 last full fiscal year (which premiums are hereby represented and warranted by
 the Company to be $115,139), it
-
-                                       1-26
+                                      A-26
 
 being understood and agreed that Parent shall nevertheless be obligated to
 provide such coverage as may be obtained for such 200% amount.
@@ -6739,8 +6352,8 @@ reasonable efforts to cause the shares of Parent Common Stock to be issued in
 the Merger to be approved for listing on the NYSE, subject to official notice of
 issuance, prior to the Closing Date.
 
-                                       
-1-27
+                                      
+A-27
 
      SECTION 5.10.  
 Tax Treatment.  
@@ -6822,10 +6435,11 @@ plan (in the case of each of clauses (i), (ii) and (iii), solely to the extent
 that Parent makes such plan or program available to employees of the Surviving
 Corporation), but not for purposes of any other employee benefit plan of Parent.
 
-                                       
-1-28
+                                      
+A-28
 
-     (c) The Company shall not take any action on or prior to the Effective Time
+     (c)
+The Company shall not take any action on or prior to the Effective Time
 in relation to any contract or understanding with any European-based employees
 that could result in any liability for redundancy or unfair dismissal as of the
 Effective Time.
@@ -6918,8 +6532,7 @@ The representations and
      to materiality shall be true and correct, and the representations and
      warranties of the Company contained in this Agreement that are not so
      qualified
-
-                                       1-29
+                                      A-29
 
      shall be true and correct in all material respects, in each case as of the
      Closing Date as though made on the Closing Date, except to the extent such
@@ -6993,7 +6606,7 @@ caused by such party's failure to use commercially reasonable efforts to
 consummate the Merger and the other transactions contemplated by this Agreement,
 as required by and subject to Section 5.03.
 
-                                       1-30
+                                      A-30
 
                                   ARTICLE VII
 
@@ -7074,8 +6687,7 @@ This Agreement
 may not be amended except by an instrument in writing signed on behalf of each
 of the parties hereto.
 
-                                       
-1-31
+                                      A-31
 
      SECTION 7.04.  
 Extension; Waiver.  
@@ -7145,7 +6757,7 @@ courier (providing proof of delivery) to the parties at the following addresses
 
         Attention: Robert I. Townsend, III, Esq.
 
-                                       1-32
+                                      A-32
 
      if to the Company, to:
 
@@ -7221,8 +6833,7 @@ For purposes of this Agreement:
      interests, 50% or more of the equity interests of which) is owned directly
      or indirectly by such first person.
 
-                                       
-1-33
+                                      A-33
 
      SECTION 8.04.  
 Interpretation.  
@@ -7321,8 +6932,7 @@ will not bring any action relating to this Agreement or the transactions
 contemplated by this Agreement in any court other than a Federal court located
 in the State of Delaware or a state court located in the State of Delaware.
 
-                                       
-1-34
+                                      A-34
 
      SECTION 8.10.  
 Severability.  
@@ -7337,13 +6947,15 @@ effect the original intent of the parties as closely as possible to the fullest
 extent permitted by applicable law in an acceptable manner to the end that the
 transactions contemplated hereby are fulfilled to the extent possible.
 
-                                       1-35
+                                      
+A-35
 
      IN WITNESS WHEREOF, Parent, Sub and the Company have caused this Agreement
 to be signed by their respective officers thereunto duly authorized, all as of
 the date first written above.
 
-                                          JOHNSON & JOHNSON,
+                                          
+JOHNSON & JOHNSON,
 
                                           by: /s/
 ROBERT DARRETTA
@@ -7370,7 +6982,7 @@ CASEY M. TANSEY
                                               Title:  President and Chief
                                               Executive Officer
 
-                                       1-36
+                                      A-36
 
                                                                          ANNEX I
                                                          TO THE MERGER AGREEMENT
@@ -7487,7 +7099,7 @@ Section 3.01(d)
 Material Adverse Change.....................................  
 Section 8.03(c)
 
-                                       1-37
+                                      A-37
 
 TERM
 - ----
@@ -7592,15 +7204,14 @@ Section 5.06(b)
 Trustee.....................................................  
 Section 5.13(a)
 
-                                       1-38
+                                      A-38
 
                                                                        EXHIBIT A
                                                          TO THE MERGER AGREEMENT
 
        FORM OF CERTIFICATE OF INCORPORATION OF THE SURVIVING CORPORATION
 
-     First:  
-The name of the corporation (hereinafter called the "Corporation")
+     First:  The name of the corporation (hereinafter called the "Corporation")
 is Heartport, Inc.
 
      Second:  The address, including street, number, city, and county, of the
@@ -7664,8 +7275,8 @@ Unless and except to the extent that the By-laws of the
 Corporation shall so require, the election of directors of the Corporation need
 not be by written ballot.
 
-                                       
-1-39
+                                      
+A-39
 
                                                                        EXHIBIT B
                                                          TO THE MERGER AGREEMENT
@@ -7746,8 +7357,8 @@ Parent hereby represents to the undersigned that it has filed all reports
 required to be filed with the SEC under Section 13 of the Exchange Act during
 the preceding twelve months.
 
-                                       
-1-40
+                                      
+A-40
 
      The undersigned acknowledges and agrees that the legends set forth below
 will be placed on certificates representing Parent Common Stock received by the
@@ -7800,7 +7411,7 @@ Very truly yours,
 
 Dated:
 
-                                       1-41
+                                      A-41
 
                                                                          ANNEX I
                                                                     TO EXHIBIT B
@@ -7838,7 +7449,7 @@ Very truly yours,
 
            [Space to be provided for description of the Securities.]
 
-                                       1-42
+                                      A-42
 
                                                                          ANNEX 2
 
@@ -7918,7 +7529,7 @@ contemplated hereby, other than (i) compliance with and filings under the HSR
 Act, if applicable to the Stockholder's receipt in the Merger of Parent Common
 Stock, (ii) such reports under Sections 13(d) and 16 of the Exchange Act as may
 be required in
-                                       2-1
+                                       B-1
 
 connection with this Agreement and the transactions contemplated hereby and
 (iii) where the failure to obtain such Consent or action, or to make such
@@ -8009,7 +7620,7 @@ thereof or in any other circumstances upon which the Stockholder's vote, consent
 or other approval is sought, the Stockholder shall vote (or cause to be voted)
 the Subject Shares against (i) any merger agreement or merger (other
 
-                                       2-2
+                                       B-2
 
 than the Merger Agreement and the Merger), consolidation, combination, sale of
 substantial assets, reorganization, recapitalization, dissolution, liquidation
@@ -8096,7 +7707,7 @@ The Stockholder hereby waives, and agrees not to exercise or assert,
 any appraisal or similar rights under Section 262 of the DGCL or other
 applicable law in connection with the Merger.
                                        
-2-3
+B-3
 
      (i) (i)
 In the event that the Merger Agreement shall have been terminated
@@ -8179,7 +7790,7 @@ Grant of Irrevocable Proxy; Appointment of Attorney-in-Fact.
 (a) Each Stockholder hereby irrevocably grants to, and appoints, Parent and
 Michael Ullmann, Secretary of Parent, and Steven Rosenberg, Assistant Secretary
 of Parent, in their respective capacities as
-                                       2-4
+                                       B-4
 
 officers of Parent, and any individual who shall hereafter succeed to any such
 office of Parent, and each of them individually, and any individual designated
@@ -8268,7 +7879,7 @@ Stockholder signs solely in his, her or its capacity as the record holder and
 beneficial owner of, or the trustee of a trust whose beneficiaries are the
 beneficial owners of, such Stockholder's Subject Shares and nothing herein shall
 limit or affect any actions taken by any
-                                       2-5
+                                       B-5
 
 Stockholder in his capacity as an officer or director of Company to the extent
 specifically permitted by the Merger Agreement.
@@ -8367,7 +7978,7 @@ injunctions to prevent breaches of this Agreement and to enforce specifically
 the terms and provisions of this Agreement in any Federal court located in the
 State
 
-                                       2-6
+                                       B-6
 
 of Delaware in any state court in the State of Delaware, this being in addition
 to any other remedy to which they are entitled at law or in equity.
@@ -8409,7 +8020,8 @@ original intent of the parties as closely as possible to the fullest extent
 permitted by applicable law in an acceptable manner to the end that the
 transactions contemplated hereby are fulfilled to the extent possible.
 
-                                       2-7
+                                       
+B-7
 
      IN WITNESS WHEREOF, Parent has caused this Agreement to be signed by its
 officer thereunto duly authorized and each Stockholder has signed this
@@ -8482,7 +8094,7 @@ CHRISTOPHER HUBBARD
                                           --------------------------------------
                                           Christopher Hubbard
 
-                                       2-8
+                                       B-8
 
                                                                       SCHEDULE A
 
@@ -8527,7 +8139,7 @@ Lawrence Siegel                        Heartport, Inc                           
 Christopher Hubbard                    6337 Greene Road                                1,224
                                        Woodridge, IL 60517
 
-                                       2-9
+                                       B-9
 
                                                                          ANNEX 3
 
@@ -8601,9 +8213,10 @@ For purposes of the opinion set forth herein, we have:
      (x)  performed such other analyses and considered such other factors as we
           have deemed appropriate.
 
-                                       3-1
+                                       C-1
 
-     We have assumed and relied upon without independent verification the
+     
+We have assumed and relied upon without independent verification the
 accuracy and completeness of the information reviewed by us for the purposes of
 this opinion.
 Morgan Stanley did not receive financial forecasts or internal
@@ -8674,7 +8287,7 @@ KEITH B. SEDWICK
                                               Keith B. Sedwick
                                               Principal
 
-                                       3-2
+                                       C-2
 
                                                                          ANNEX 4
 
@@ -8728,7 +8341,7 @@ sec.264 of this title:
      under this section shall be available for the shares of any class or series
      of stock of a constituent corporation if the holders thereof are required
      by the terms of an agreement of merger or consolidation pursuant to
-     sec.sec.251, 252, 254, 257, 258, 263 and 264 of this title to accept for
+     sections 251, 252, 254, 257, 258, 263 and 264 of this title to accept for
      such stock anything except:
 
              a. Shares of stock of the corporation surviving or resulting from
@@ -8753,7 +8366,7 @@ Any combination of the shares of stock, depository receipts and
         described in the foregoing subparagraphs a., b. and c. of this
         paragraph.
 
-                                       4-1
+                                       D-1
 
           (3) In the event all of the stock of a subsidiary Delaware corporation
      party to a merger effected under sec.253 of this title is not owned by the
@@ -8843,7 +8456,7 @@ An affidavit of the secretary or assistant secretary or of
      the transfer agent of the corporation that is required to give either
      notice that such notice has been given shall, in the absence of fraud, be
      prima facie evidence of the facts stated
-                                       4-2
+                                       D-2
 
      therein.
 For purposes of determining the stockholders entitled to receive
@@ -8937,7 +8550,7 @@ to the final determination of the stockholder entitled to an appraisal.
 Any
 stockholder whose name appears on the list filed by the surviving or resulting
 corporation pursuant to subsection (f) of this section and who has
-                                       4-3
+                                       D-3
 
 submitted such stockholder's certificates of stock to the Register in Chancery,
 if such is required, may participate fully in all proceedings until it is
@@ -8997,7 +8610,7 @@ assented to the merger or consolidation shall have the status of authorized and
 unissued shares of the surviving or resulting corporation.
 
                                        
-4-4
+D-4
 
                                                                          ANNEX 5
 
@@ -9080,7 +8693,7 @@ of Section 1300, unless they lose their status as dissenting shares under
 Section 1309.
 
                                        
-5-1
+E-1
 
      (b) Any shareholder who has a right to require the corporation to purchase
 the shareholder's shares for cash under Section 1300, subject to compliance with
@@ -9164,7 +8777,7 @@ the status of the shares as dissenting shares is in issue, the court shall first
 determine that issue.
 If the fair market value of the
 
-                                       5-2
+                                       E-2
 
 dissenting shares is in issue, the court shall determine, or shall appoint one
 or more impartial appraisers to determine, the fair market value of the shares.
@@ -9195,3 +8808,785 @@ require the corporation to purchase, with interest thereon at the legal rate
 from the date on which judgment was entered.
 
      
+(d)
+Any such judgment shall be payable forthwith with respect to
+uncertificated securities and, with respect to certificated securities, only
+upon the endorsement and delivery to the corporation of the certificates for the
+shares described in the judgment.
+Any party may appeal from the judgment.
+
+     
+(e) The costs of the action, including reasonable compensation to the
+appraisers to be fixed by the court, shall be assessed or apportioned as the
+court considers equitable, but, if the appraisal exceeds the price offered by
+the corporation, the corporation shall pay the costs (including in the
+discretion of the court attorneys' fees, fees of expert witnesses and interest
+at the legal rate on judgments from the date of compliance with Sections 1300,
+1301 and 1302 if the value awarded by the court for the shares is more than 125
+percent of the price offered by the corporation under subdivision (a) of Section
+1301).
+
+     1306.
+To the extent that the provisions of Chapter 5 prevent the payment to
+any holders of dissenting shares of their fair market value, they shall become
+creditors of the corporation for the amount thereof together with interest at
+the legal rate on judgments until the date of payment, but subordinate to all
+other creditors in any liquidation proceeding, such debt to be payable when
+permissible under the provisions of Chapter 5.
+
+     1307.
+Cash dividends declared and paid by the corporation upon the
+dissenting shares after the date of approval of the reorganization by the
+outstanding shares (Section 152) and prior to payment for the shares by the
+corporation shall be credited against the total amount to be paid by the
+corporation therefor.
+
+     1308.
+Except as expressly limited in this chapter, holders of dissenting
+shares continue to have all the rights and privileges incident to their shares,
+until the fair market value of their shares is agreed upon or determined.
+A
+dissenting shareholder may not withdraw a demand for payment unless the
+corporation consents thereto.
+
+     1309.
+Dissenting shares lose their status as dissenting shares and the
+holders thereof cease to be dissenting shareholders and cease to be entitled to
+require the corporation to purchase their shares upon the happening of any of
+the following:
+
+     (a)
+The corporation abandons the reorganization.
+Upon abandonment of the
+reorganization, the corporation shall pay on demand to any dissenting
+shareholder who has initiated proceedings in good faith under this chapter all
+necessary expenses incurred in such proceedings and reasonable attorneys' fees.
+
+     
+(b) The shares are transferred prior to their submission for endorsement in
+accordance with Section 1302 or are surrendered for conversion into shares of
+another class in accordance with the articles.
+
+     
+(c) The dissenting shareholder and the corporation do not agree upon the
+status of the shares as dissenting shares or upon the purchase price of the
+shares, and neither files a complaint or intervenes in a pending action as
+provided in Section 1304, within six months after the date on which notice of
+the
+                                       E-3
+
+approval by the outstanding shares or notice pursuant to subdivision (i) of
+Section 1110 was mailed to the shareholder.
+
+     
+(d)
+The dissenting shareholder, with the consent of the corporation,
+withdraws the shareholder's demand for purchase of the dissenting shares.
+
+     1310.
+If litigation is instituted to test the sufficiency or regularity of
+the votes of the shareholders in authorizing a reorganization, any proceedings
+under Sections 1304 and 1305 shall be suspended until final determination of
+such litigation.
+
+     
+1311.
+This chapter, except Section 1312, does not apply to classes of
+shares whose terms and provisions specifically set forth the amount to be paid
+in respect to such shares in the event of a reorganization or merger.
+
+     
+1312.
+(a) No shareholder of a corporation who has a right under this
+chapter to demand payment of cash for the shares held by the shareholder shall
+have any right at law or in equity to attack the validity of the reorganization
+or short-form merger, or to have the reorganization or short-form merger set
+aside or rescinded, except in an action to test whether the number of shares
+required to authorize or approve the reorganization have been legally voted in
+favor thereof; but any holder of shares of a class whose terms and provisions
+specifically set forth the amount to be paid in respect to them in the event of
+a reorganization or short-form merger is entitled to payment in accordance with
+those terms and provisions or, if the principal terms of the reorganization are
+approved pursuant to subdivision (b) of Section 1202, is entitled to payment in
+accordance with the terms and provisions of the approved reorganization.
+
+     (b) If one of the parties to a reorganization or short-form merger is
+directly or indirectly controlled by, or under common control with, another
+party to the reorganization or short-form merger, subdivision (a) shall not
+apply to any shareholder of such party who has not demanded payment of cash for
+such shareholders shares pursuant to this chapter; but if the shareholder
+institutes any action to attack the validity of the reorganization or short-form
+merger or to have the reorganization or short-form merger set aside or
+rescinded, the shareholder shall not thereafter have any right to demand payment
+of cash for the shareholder's shares pursuant to this chapter.
+The court in any
+action attacking the validity of the reorganization or short-form merger or to
+have the reorganization or short-form merger set aside or rescinded shall not
+restrain or enjoin the consummation of the transaction except upon 10 days'
+prior notice to the corporation and upon a determination by the court that
+clearly no other remedy will adequately protect the complaining shareholder or
+the class of shareholders of which such shareholder is a member.
+
+     
+(c)
+If one of the parties to a reorganization or short-form merger is
+directly or indirectly controlled by, or under common control with, another
+party to the reorganization or short-form merger, in any action to attack the
+validity of the reorganization or short-form merger or to have the
+reorganization or short-form merger set aside or rescinded, (1) a party to a
+reorganization or short-form merger which controls another party to the
+reorganization or short-form merger shall have the burden of proving that the
+transaction is just and reasonable as to the shareholders of the controlled
+party, and (2) a person who controls two or more parties to a reorganization
+shall have the burden of proving that the transaction is just and reasonable as
+to the shareholders of any party so controlled.
+
+                                       
+E-4
+
+                                    PART II
+
+                   INFORMATION NOT REQUIRED IN THE PROSPECTUS
+
+ITEM 20.
+INDEMNIFICATION OF DIRECTORS AND OFFICERS
+
+     The New Jersey Business Corporation Act (the "NJBCA") provides that a New
+Jersey corporation has the power to indemnify a director or officer against his
+or her expenses and liabilities in connection with any proceeding involving the
+director or officer by reason of his or her being or having been such a director
+or officer, other than a proceeding by or in the right of the corporation, if
+such director or officer acted in good faith and in a manner he or she
+reasonably believed to be in or not opposed to the best interests of the
+corporation; and with respect to any criminal proceeding, such director or
+officer had no reasonable cause to believe his or her conduct was unlawful.
+
+     
+The indemnification and advancement of expenses shall not exclude any other
+rights, including the right to be indemnified against liabilities and expenses
+incurred in proceedings by or in the right of the corporation, to which a
+director or officer may be entitled under a certificate of incorporation,
+by-law, agreement, vote of shareholders, or otherwise; provided, that no
+indemnification shall be made to or on behalf of a director or officer if a
+judgment or other final adjudication adverse to the director or officer
+establishes that his or her acts or omissions (a) were in breach of his or her
+duty of loyalty to the corporation or its shareholders, (b) were not in good
+faith or involved a knowing violation of law or (c) resulted in receipt by the
+director or officer of an improper personal benefit.
+
+     
+The registrant's restated certificate of incorporation provides that, to
+the full extent that the laws of the State of New Jersey permit the limitation
+or elimination of the liability of directors or officers, no director or officer
+of the registrant shall be personally liable to the registrant or its
+stockholders for damages for breach of any duty owed to the registrant or its
+stockholders.
+
+     
+The by-laws of the registrant provide that to the full extent permitted by
+the laws of the State of New Jersey, the registrant shall indemnify any person
+(an "Indemnitee") who was or is involved in any manner (including, without
+limitation, as a party or witness) in any threatened, pending or completed
+investigation, claim, action, suit or proceeding, whether civil, criminal,
+administrative, arbitrative, legislative or investigative (including, without
+limitation, any action, suit or proceeding by or in the right of the registrant
+to procure a judgment in its favor)
+(a "Proceeding"), or who is threatened with
+being so involved, by reason of the fact that he or she is or was a director or
+officer of the registrant or, while serving as a director or officer of the
+registrant, is or was at the request of the registrant also serving as a
+director, officer, employee or agent of another corporation, partnership, joint
+venture, trust or other enterprise (including, without limitation, any employee
+benefit plan), against all expenses (including attorneys' fees), judgments,
+fines, penalties, excise taxes and amounts paid in settlement actually and
+reasonably incurred by the Indemnitee in connection with such Proceeding,
+provided that, there shall be no indemnification under such by-laws with respect
+to any settlement or other nonadjudicated disposition of any threatened or
+pending Proceeding unless the registrant has given its prior consent to such
+settlement or disposition.
+The right of indemnification created by the by-laws
+shall be a contract right enforceable by an Indemnitee against the registrant,
+and it shall not be exclusive of any other rights to which an Indemnitee may
+otherwise be entitled.
+The indemnification provisions of the by-laws shall inure
+to the benefit of the heirs and legal representatives of an Indemnitee and shall
+be applicable to Proceedings commenced or continuing after the adoption of the
+by-laws, whether arising from acts or omissions occurring before or after such
+adoption.
+No amendment, alteration, change, addition or repeal of or to the
+by-laws shall deprive any Indemnitee of any rights under the by-laws with
+respect to any act or omission of such Indemnitee occurring prior to such
+amendment, alteration, change, addition or repeal.
+
+     
+The registrant enters into indemnification agreements with its directors
+and officers and enters into insurance agreements on its own behalf.
+The
+indemnification agreements provide that the registrant agrees to hold harmless
+and indemnify its directors and officers to the fullest extent authorized or
+permitted by the NJBCA, or any other applicable law, or by any amendment thereof
+or other statutory provisions authorizing or permitting such indemnification
+that is adopted after the date hereof.
+Without limiting the
+                                      II-1
+
+generality of the foregoing, the registrant agrees to hold harmless and
+indemnify its directors and officers to the fullest extent permitted by
+applicable law against any and all expenses, judgments, fines, and amounts paid
+in settlement actually and reasonably incurred by its directors and officers in
+connection with the defense of any present or future threatened, pending, or
+completed claim, action, suit, or proceeding by reason of the fact that they
+were, are, shall be, or shall have been a director or officer of the registrant,
+or are or were serving, shall serve, or shall have served, at the request of the
+registrant, as a director or officer of another corporation, partnership, joint
+venture, trust, employee benefit plan, or other enterprise.
+
+
+ITEM 21.
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+     (a) See Exhibit Index.
+
+     (b) Not applicable.
+
+     (c) Opinion of Morgan Stanley & Co. Incorporated (included as Annex 3 to
+the proxy statement/prospectus which is a part of this Registration Statement).
+
+
+ITEM 22.
+UNDERTAKINGS
+
+     (a) The undersigned registrant hereby undertakes:
+
+     (1) To file, during any period in which offers or sales are being made, a
+post-effective amendment to this Registration Statement:
+
+        (i) To include any prospectus required by Section 10(a)(3) of the
+Securities Act of 1933.
+
+        
+(ii) To reflect in the prospectus any facts or events arising after the
+effective date of the Registration Statement (or the most recent post-effective
+amendment thereof) which, individually or in the aggregate, represent a
+fundamental change in the information set forth in the Registration Statement.
+
+Notwithstanding the foregoing, any increase or decrease in volume of securities
+offered (if the total dollar value of securities offered would not exceed that
+which was registered) and any deviation from the low or high end of the
+estimated maximum offering range may be reflected in the form of prospectus
+filed with the Commission pursuant to Rule 424(b) if, in the aggregate, the
+changes in volume and price represent no more than a 20% change in the maximum
+aggregate offering price set forth in the "Calculation of Registration Fee"
+table in the effective Registration Statement.
+
+        
+(iii) To include any material information with respect to the plan of
+distribution not previously disclosed in the Registration Statement or any
+material change to such information in the Registration Statement.
+
+     
+(2) That, for the purpose of determining any liability under the Securities
+Act of 1933, each such post-effective amendment shall be deemed to be a new
+registration statement relating to the securities offered therein, and the
+offering of such securities at that time shall be deemed to be the initial bona
+fide offering thereof.
+
+     (3) To remove from registration by means of a post-effective amendment any
+of the securities being registered which remain unsold at the termination of the
+offering.
+
+     
+(b) The undersigned registrant hereby undertakes that, for purposes of
+determining any liability under the Securities Act of 1933, each filing of the
+registrant's annual report pursuant to Section 13(a) or Section 15(d) of the
+Securities Exchange Act of 1934 (and, where applicable, each filing of an
+employee benefit plan's annual report pursuant to Section 15(d) of the
+Securities Exchange Act of 1934) that is incorporated by reference in the
+Registration Statement shall be deemed to be a new registration statement
+relating to the securities offered therein, and the offering of such securities
+at that time shall be deemed to be the initial bona fide offering thereof.
+
+     (c)(1)
+The undersigned registrant hereby undertakes as follows: that prior
+to any public reoffering of the securities registered hereunder through use of a
+prospectus which is a part of this Registration Statement, by any person or
+party who is deemed to be an underwriter within the meaning of
+                                      II-2
+
+Rule 145(c), the issuer undertakes that such reoffering prospectus will contain
+the information called for by the applicable registration form with respect to
+reofferings by persons who may be deemed underwriters, in addition to the
+information called for by the other items of the applicable form.
+
+     
+(2) The registrant undertakes that every prospectus (i) that is filed
+pursuant to paragraph (c)(1) immediately preceding, or (ii) that purports to
+meet the requirements of Section 10(a)(3) of the Securities Act of 1933 and is
+used in connection with an offering of securities subject to Rule 415, will be
+filed as a part of an amendment to the Registration Statement and will not be
+used until such amendment is effective, and that, for purposes of determining
+any liability under the Securities Act of 1933, each such post-effective
+amendment shall be deemed to be a new registration statement relating to the
+securities offered therein, and the offering of such securities at that time
+shall be deemed to be the initial bona fide offering thereof.
+
+     
+(d) Insofar as indemnification for liabilities arising under the Securities
+Act of 1933 may be permitted to directors, officers and controlling persons of
+the registrant pursuant to the foregoing provisions, or otherwise, the
+registrant has been advised that in the opinion of the Securities and Exchange
+Commission such indemnification is against public policy as expressed in the
+Securities Act of 1933 and is, therefore, unenforceable.
+In the event that a
+claim for indemnification against such liabilities (other than the payment by
+the registrant of expenses incurred or paid by a director, officer or
+controlling person of the registrant in the successful defense of any action,
+suit or proceeding) is asserted by such director, officer or controlling person
+in connection with the securities being registered, the registrant will, unless
+in the opinion of its counsel the matter has been settled by controlling
+precedent, submit to a court of appropriate jurisdiction the question whether
+such indemnification by it is against public policy as expressed in the
+Securities Act of 1933 and will be governed by the final adjudication of such
+issue.
+
+     
+(e) The undersigned registrant hereby undertakes to respond to requests for
+information that is incorporated by reference into the prospectus pursuant to
+items 4, 10(b), 11 or 13 of this Form, within one business day of receipt of
+such request, and to send the incorporated documents by first class mail or
+other equally prompt means.
+This includes information contained in documents
+filed subsequent to the effective date of the Registration Statement through the
+date of responding to the request.
+
+     
+(f) The undersigned registrant hereby undertakes to supply by means of a
+post-effective amendment all information concerning a transaction, and the
+company being acquired involved therein, that was not the subject of and
+included in the Registration Statement when it became effective.
+
+                                      
+II-3
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Act, the registrant has duly
+caused this Registration Statement to be signed on its behalf by the
+undersigned, thereunto duly authorized, in New Brunswick, New Jersey on the 22nd
+day of February, 2001.
+
+                                          
+JOHNSON & JOHNSON,
+
+                                          
+By: /s/
+R.S. LARSEN
+                                          --------------------------------------
+                                          Name: R.S. Larsen
+                                          Title:   Chairman and Chief Executive
+                                          Officer
+
+                                      II-4
+
+                               POWER OF ATTORNEY
+
+     Each person whose signature appears below hereby constitutes and appoints
+J. S. Orban and S. M. Rosenberg, and each of them, as his or her true and lawful
+attorney-in-fact and agent, with full power of substitution and resubstitution,
+for him or her and in his or her name, place and stead, in any and all
+capacities, to sign any and all amendments (including pre-effective and
+post-effective amendments) to this Registration Statement and all documents
+relating thereto, and to file the same, with all exhibits thereto, and other
+documents in connection therewith, with the Securities and Exchange Commission
+granting unto said attorneys-in-fact and agents, and each of them, full power
+and authority to do and perform each and every act and thing necessary or
+advisable to be done in and about the premises, as fully to all intents and
+purposes as he or she might or could do in person, hereby ratifying and
+confirming all that said attorneys-in-fact and agents, or any of them, or their
+substitute or substitutes, may lawfully do or cause to be done by virtue hereof.
+
+     
+Pursuant to the requirements of the Securities Act of 1933, as amended,
+this Registration Statement has been signed by the following persons in the
+capacities and on the dates indicated.
+
+               
+SIGNATURE                                  TITLE                           DATE
+               ---------                                  
+-----                           
+----
+
+/s/
+R. S. LARSEN                         Chairman, Board of Directors; Chief        February 22, 2001
+- --------------------------               Executive Officer and Chairman,
+(R. S. Larsen)                           Executive Committee (Principal
+                                         Executive Officer)
+
+
+/s/
+R. J. DARRETTA                       Member, Executive Committee; Vice          February 22, 2001
+- --------------------------               President, Finance (Principal Financial
+(R. J. Darretta)                         Officer)
+
+/s/
+C. E. LOCKETT                        Controller (Principal Accounting           February 22, 2001
+- --------------------------               Officer)
+(C. E. Lockett)
+
+/s/
+G. N. BURROW                         Director                                   February 22, 2001
+- --------------------------
+(G. N. Burrow)
+
+/s/
+J. G. COONEY                         Director                                   February 22, 2001
+- --------------------------
+(J. G. Cooney)
+
+                                         Director
+- --------------------------
+(J. G. Cullen)
+
+/s/
+M. J. FOLKMAN                        Director                                   February 22, 2001
+- --------------------------
+(M. J. Folkman)
+
+
+/s/ A. D. JORDAN                         Director                                   February 22, 2001
+- --------------------------
+(A. D. Jordan)
+
+/s/
+A. G. LANGBO                         Director                                   February 22, 2001
+- --------------------------
+(A. G. Langbo)
+
+                                         Director
+- --------------------------
+(J. T. Lenehan)
+
+                                      II-5
+
+               SIGNATURE                                  TITLE                           DATE
+               ---------                                  
+-----                           ----
+
+/s/
+J. S. MAYO                           Director                                   February 22, 2001
+- --------------------------
+(J. S. Mayo)
+
+
+/s/
+L. F. MULLIN                         Director                                   February 22, 2001
+- --------------------------
+(L. F. Mullin)
+
+
+/s/ H. B. SCHACHT                        Director                                   February 22, 2001
+- --------------------------
+(H. B. Schacht)
+
+/s/
+M. F. SINGER                         Director                                   February 22, 2001
+- --------------------------
+(M. F. Singer)
+
+
+/s/
+J. W. SNOW                           Director                                   February 22, 2001
+- --------------------------
+(J. W. Snow)
+
+                                         Director
+- --------------------------
+(W. C. Weldon)
+
+
+/s/
+R. N. WILSON                         Director                                   February 22, 2001
+- --------------------------
+(R. N. Wilson)
+
+                                      II-6
+
+                                 EXHIBIT INDEX
+
+EXHIBITS
+
+   2.1     Amended and Restated Agreement and Plan of Merger dated as
+           of January 26, 2001, among Johnson & Johnson, HP Merger Sub,
+           Inc. and Heartport, Inc. (included as Annex 1 to the proxy
+           statement/prospectus which is a part of this Registration
+           Statement).
+   
+4.1*    Provisions of the Restated Certificate of Incorporation of
+           Johnson & Johnson dated May 21, 1996, that define the rights
+           of security holders of Johnson & Johnson (incorporated by
+           reference to Exhibit 3(a)(iii) to Johnson & Johnson's Annual
+           Report on Form 10-K for the year ended December 29, 1996).
+   
+4.2*    Provisions of the By-laws of Johnson & Johnson, as amended
+           effective April 23, 1999, that define the rights of security
+           holders of Johnson & Johnson (incorporated by reference to
+           Exhibit 3 to Johnson & Johnson's Quarterly Report on Form
+           10-Q for the quarterly period ended July 4, 1999).
+   
+5.1     Opinion of Joseph S. Orban, Esq., Associate General Counsel
+           of Johnson & Johnson, regarding the legality of the
+           securities being issued.
+   8.1     Opinion of Cravath, Swaine & Moore regarding certain tax
+           matters.
+   
+8.2     Opinion of Gunderson Dettmer Stough Villeneuve Franklin &
+           Hachigian, LLP regarding certain tax matters.
+   9.1     Stockholder Agreement dated as of January 26, 2001, between
+           Johnson & Johnson and certain stockholders of Heartport,
+           Inc. (included as Annex 2 to the proxy statement/prospectus
+           which is a part of this Registration Statement).
+  
+23.1     Consent of PricewaterhouseCoopers LLP.
+  23.2     Consent of Ernst & Young LLP, Independent Auditors.
+  23.3     Consent of Joseph S. Orban, Esq., Associate General Counsel
+           of Johnson & Johnson (included in Exhibit 5.1).
+  
+23.4     Consent of Cravath, Swaine & Moore (included in Exhibit
+           8.1).
+  
+23.5     Consent of Gunderson Dettmer Stough Villeneuve Franklin &
+           Hachigian, LLP (included in Exhibit 8.2).
+  
+23.6     Consent of Morgan Stanley & Co. Incorporated.
+  24.1     Power of Attorney (included on the signature page of this
+           Registration Statement).
+  
+99.1     Form of Proxy Card of Heartport, Inc.
+  99.2     Opinion of Morgan Stanley & Co. Incorporated (included as
+           Annex 3 to the proxy statement/prospectus which is a part of
+           this Registration Statement).
+  
+99.3     Annual Report on Form 10-K of Heartport, Inc. for the year
+           ended December 31, 2000.
+
+- ---------------
+* Incorporated by reference.
+
+
+EX-5.1
+
+y44775ex5-1.txt
+
+OPINION OF JOSEPH S. ORBAN, ESQ.
+
+                                                                     
+Exhibit 5.1
+
+                       [Letterhead of Johnson & Johnson]
+
+                                                          February 21, 2001
+
+Johnson & Johnson
+One Johnson & Johnson Plaza
+New Brunswick, NJ 08933
+
+Dear Ladies and Gentlemen:
+
+     I am Associate General Counsel of Johnson & Johnson, a New Jersey
+corporation (the "Company"), and I am familiar with the Registration Statement
+on Form S-4 (the "Registration Statement") being filed by the Company with the
+Securities and Exchange Commission under the Securities Act of 1933, as amended,
+relating to the proposed issuance of shares of the Company's Common Stock, par
+value $1.00 per share ("Common Stock"), in connection with the merger of HP
+Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of the
+Company ("Merger Sub"), with and into Heartport, Inc., a Delaware corporation
+("Heartport"), pursuant to the terms of the Amended and Restated Agreement and
+Plan of Merger dated as of January 26, 2001 (the "Merger Agreement") among the
+Company, Merger Sub and Heartport.
+
+     
+I have reviewed the Company's Restated Certificate of Incorporation and
+by-laws and such other corporate records of the Company and documents and
+certificates of public officials and others as I have deemed necessary as basis
+for the opinion hereinafter expressed.
+
+     
+Based on the foregoing and having regard for such legal considerations as I
+deem relevant, I am of the opinion that the shares of Common Stock covered by
+the Registration Statement when delivered in exchange for shares of Heartport
+common stock pursuant to the Merger Agreement will be duly authorized, validly
+issued, fully paid and nonassessable.
+
+     
+I hereby consent to the use of my name under the caption "Legal Matters" in
+the Proxy Statement/ Prospectus constituting a part of the Registration
+Statement and to the use of this opinion as an Exhibit to the Registration
+Statement.
+
+                                          
+Very truly yours,
+
+                                          /s/
+JOSEPH S. ORBAN
+                                          --------------------------------------
+                                          Name: Joseph S. Orban
+                                          Title: Associate General Counsel
+
+EX-8.1
+
+y44775ex8-1.txt
+
+OPINION OF CRAVATH, SWAINE & MOORE
+
+                                                                     Exhibit 8.1
+
+                    [Letterhead of Cravath, Swaine & Moore]
+
+                                                               February 22, 2001
+
+               Amended and Restated Agreement and Plan of Merger,
+                         Dated as of January 26, 2001,
+                Among Johnson & Johnson, HP Merger Sub, Inc. and
+                                Heartport, Inc.
+
+Ladies and Gentlemen:
+
+     We have acted as counsel for Johnson & Johnson, a New Jersey corporation
+("Johnson & Johnson"), in connection with the proposed merger (the "Merger") of
+HP Merger Sub, Inc., a Delaware corporation and a wholly owned subsidiary of
+Johnson & Johnson ("Sub"), with and into Heartport, Inc., a Delaware corporation
+("Heartport"), pursuant to an Amended and Restated Agreement and Plan of Merger,
+dated as of January 26, 2001, among Johnson & Johnson, Sub and Heartport (the
+"Merger Agreement").
+
+     
+In providing our opinion, we have examined the Merger Agreement, the
+registration statement on Form S-4 (which contains a proxy statement/prospectus)
+(the "Registration Statement"), filed with the Securities and Exchange
+Commission (the "SEC") on February 22, 2001, and such other documents and
+corporate records as we have deemed necessary or appropriate for purposes of our
+opinion.
+In addition, we have assumed that (i) the Merger will be consummated in
+accordance with the provisions of the Merger Agreement and the Registration
+Statement, (ii) the statements concerning the Merger set forth in the Merger
+Agreement and the Registration Statement are true, complete and correct, (iii)
+the representations made by Johnson & Johnson and Heartport, in their respective
+letters delivered to us for purposes of this opinion (the "Representation
+Letters") are true, complete and correct and will remain true, complete and
+correct at all times up to and including the Effective Time (as defined in the
+Merger Agreement) and (iv) any representations made in the Representation
+Letters "to the knowledge of" or similarly qualified are correct without such
+qualification.
+If any of the above described assumptions are untrue for any
+reason or if the Merger is consummated in a manner that is different from the
+manner in which it is described in the Merger Agreement or the Registration
+Statement, our opinion as expressed below may be adversely affected and may not
+be relied upon.
+
+     
+Based upon the foregoing, we are of opinion that the discussion contained
+in the Registration Statement under the caption "The Merger -- Material United
+States Federal Income Tax Consequences of the Merger," subject to the
+limitations, qualifications and assumptions described therein, sets forth the
+material United States Federal income tax considerations applicable to the
+Company's stockholders in the Merger.
+Because this opinion is being delivered
+prior to the Effective Time, it must be considered prospective and dependent on
+future events.
+
+     
+Our opinion is based on current provisions of the Internal Revenue Code of
+1986, as amended, Treasury Regulations promulgated thereunder, published
+pronouncements of the Internal Revenue Service and case law, any of which may be
+changed at any time with retroactive effect.
+Any change in applicable laws or
+the facts and circumstances surrounding the Merger, or any inaccuracy in the
+statements, facts, assumptions or representations upon which we have relied, may
+affect the continuing validity of our opinion as set forth herein.
+We assume no
+responsibility to inform you of any such change or inaccuracy that may occur or
+come to our attention.
+Finally, our opinion is limited to the tax matters
+specifically covered hereby, and we have not been asked to address, nor have we
+addressed, any other tax consequences of the Merger.
+
+     
+This opinion is being furnished to you solely for its use in connection
+with the Registration Statement.
+We consent to the filing of this opinion as
+Exhibit 8.1 to the Registration Statement and to the reference to our firm name
+therein.
+In giving this consent, we do not admit that we are within the category
+of
+
+persons whose consent is required under Section 7 of the Securities Act of 1933,
+as amended, or the rules or regulations of the SEC promulgated thereunder.
+
+                                          
+Very truly yours,
+
+                                          /s/  
+Cravath, Swaine & Moore
+
+Johnson & Johnson
+  One Johnson & Johnson Plaza
+     New Brunswick, NJ 08933
+       Attention: Office of General Counsel
+
+EX-8.2
+
+y44775ex8-2.txt
+
+OPINION OF GUNDERSON DETTMER STOUGH
+
+                                                                     Exhibit 8.2
+
+ [LETTERHEAD OF GUNDERSON DETTMER STOUGH VILLENEUVE FRANKLIN & HACHIGIAN, LLP]
+
+                                                               February 22, 2001
+
+Heartport, Inc.
+700 Bay Road
+Redwood City, CA 94063
+
+Ladies and Gentlemen:
+
+     We have acted as counsel to Heartport, Inc., a Delaware corporation (the
+"Company"), in connection with the preparation and execution of the Amended and
+Restated Agreement and Plan of Merger dated as of January 26, 2001 (the "Merger
+Agreement"), by and among Johnson & Johnson, a New Jersey corporation
+("Parent"), HP Merger Sub, Inc., a Delaware corporation and wholly-owned
+subsidiary of Parent ("Merger Sub"), and the Company.
+The Merger and certain
+proposed transactions incident thereto are described in the Registration
+Statement on Form S-4 (the "Registration Statement"), which includes the
+Prospectus/Proxy Statement of Parent and the Company ("Proxy Statement"), which
+is being filed with the U.S. Securities and Exchange Commission under the
+Securities Act of 1933 on February 22, 2001.
+Except as otherwise provided,
+capitalized terms referred to herein have the meanings set forth in the Merger
+Agreement.
+All section references, unless otherwise indicated, are to the
+Internal Revenue Code of 1986, as amended (the "Code").
+
+     
+You have requested our opinion regarding certain federal income tax
+consequences of the Merger.
+In connection with rendering this opinion, we have
+assumed and relied upon (without any independent investigation):
+
+          1.
+The truth and accuracy of the statements, covenants,
+     representations and warranties contained in the Merger Agreement, in the
+     representations received by us from Company, Parent and Merger Sub dated as
+     of February 21, 2001 (the "Tax Representation Letters") and in the
+     Registration Statement;
+
+          2. Consummation of the Merger in accordance with the Merger Agreement,
+     without any waiver, breach or amendment of any material provisions of the
+     Merger Agreement, the effectiveness of the Merger under applicable state
+     law, and the performance of all covenants contained in the Merger Agreement
+     and the Tax Representation Letters without waiver or breach of any material
+     provisions thereof;
+
+          3.

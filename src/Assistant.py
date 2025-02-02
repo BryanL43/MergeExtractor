@@ -83,16 +83,17 @@ class Assistant:
         self.__client.files.delete(msg_file.id);
         self.__client.beta.threads.delete(thread_id=thread.id);
 
+        if run.status == "completed":
+            return result;
+        else:
+            raise RuntimeError(f"Assistant failed with status: {run.status}");
+
+    def clearVectorStores(self):
         # Since we are using thread directly, the vector is created automatically.
         # API doesn't specify how to acquire a specific one, so I'm just flushing it out.
         vector_stores = self.__client.beta.vector_stores.list();
         for vector in vector_stores.data:
             self.__client.beta.vector_stores.delete(vector_store_id=str(vector.id));
-
-        if run.status == "completed":
-            return result;
-        else:
-            raise RuntimeError(f"Assistant failed with status: {run.status}");
 
     def deleteAssistant(self):
         self.__client.beta.assistants.delete(self.__assistant_id);

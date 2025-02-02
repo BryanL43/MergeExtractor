@@ -1,5 +1,5 @@
 import re
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed, Future
 from threading import Event
 import sys
 import requests
@@ -16,12 +16,13 @@ from Logger import Logger
         - Extracting the background section
 """
 class Processor:
-    def __init__(self, assistant: Assistant, nlp: any, threadCount: int, startPhrases: list):
+    def __init__(self, assistant: Assistant, nlp: any, threadCount: int, startPhrases: list, executor: ThreadPoolExecutor):
         self.assistant = assistant;
         self.nlp = nlp;
         self.threadCount = threadCount;
         self.startPhrases = startPhrases;
 
+        self.executor = executor;
         self.__terminationEvent = Event(); # Stops the multithreading
     
         print("Successfully initialized Processor");
@@ -128,7 +129,7 @@ class Processor:
 
         return "\n".join(section);
 
-    def locateSection(self, sourceLinks: list, companyNames: list, mainIndex: int):
+    def locateSection(self, sourceLinks: list, companyNames: list, mainIndex: int) -> Future:
         """
             - Here, we will verify that both company names are present in the document.
                 - Reduces the amount of documents needed to be processed with NLP.
@@ -136,44 +137,47 @@ class Processor:
             chronological timeline.
         """
 
+        # Acquire company's name first word & format document name
         companyNamesCut = [self.__extractFirstWord(name).lower() for name in companyNames];
         formatDocName = f"{companyNames[0].replace(' ', '_')}_&_{companyNames[1].replace(' ', '_')}";
         
-        # Locate the documents with both company names present.
+        # Multi-thread variables
         foundData = False;
         self.__terminationEvent.clear();
-        with ThreadPoolExecutor(max_workers=self.threadCount) as executor:
-            futures = {executor.submit(self.__checkCompaniesInDocument, url, companyNamesCut): url for url in sourceLinks};
+        # Locate the documents with both company names present and save its url for async processing
+        futures = {self.executor.submit(self.__checkCompaniesInDocument, url, companyNamesCut): url for url in sourceLinks};
 
-            for future in as_completed(futures):
-                if (self.__terminationEvent.is_set()):  # If background section is found already
+        # Concurrent process the documents with both company names present.
+        # Cleans the text, removes table of contents, and locates the "Background of the Merger" section
+        for future in as_completed(futures):
+            if self.__terminationEvent.is_set():  # If background section is found already
+                break;
+
+            try:
+                cleanedText, bothFound = future.result();
+                if bothFound:
+                    # Additional preprocess cleaning
+                    cleanedText = self.__removeTableOfContents(cleanedText);
+                    truncatedText = cleanedText[50000:1000000];  # Shrink to manageable size for spaCy
+
+                    backgroundSection = self.__findSection(truncatedText, self.startPhrases);
+                    if backgroundSection is None:
+                        continue
+
+                    # Write the data to a file for debugging
+                    foundData = True;
+                    with open(f"./DataSet/{formatDocName}.txt", "w", encoding="utf-8") as file:
+                        file.write(f"URL: {futures[future]}\n\n");
+                        file.write(backgroundSection);
+
+                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {companyNames[0]} & {companyNames[1]}");
+
+                    # Signal termination and exit
+                    self.__terminationEvent.set();
                     break;
-
-                try:
-                    cleanedText, bothFound = future.result();
-                    if bothFound:
-                        # Additional preprocess cleaning
-                        cleanedText = self.__removeTableOfContents(cleanedText);
-                        truncatedText = cleanedText[50000:1000000];  # Shrink to manageable size for spaCy
-
-                        backgroundSection = self.__findSection(truncatedText, self.startPhrases);
-                        if backgroundSection is None:
-                            continue;
-
-                        # Write the data to a file for debugging
-                        foundData = True;
-                        with open(f"./DataSet/{formatDocName}.txt", "w", encoding="utf-8") as file:
-                            file.write(f"URL: {futures[future]}\n\n");
-                            file.write(backgroundSection);
-                        
-                        Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {companyNames[0]} & {companyNames[1]}");
-
-                        # Signal termination and exit
-                        self.__terminationEvent.set();
-                        break;
-                except Exception as e:
-                    url = futures[future];
-                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {url}: {e}");
+            except Exception as e:
+                url = futures[future];
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {url}: {e}");
 
         if not foundData:
             Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]};");
@@ -183,6 +187,7 @@ class Processor:
 
             return None;
         else:
-            # Process the section with assistant if it exists.
+            # Process the section with asynchronously with assistant if it exists.
             # Requires file upload so I pass Assistant object to use here.
-            return self.assistant.extractSection(f"./DataSet/{formatDocName}.txt");
+            future = self.executor.submit(self.assistant.extractSection, f"./DataSet/{formatDocName}.txt");
+            return future;

@@ -2,7 +2,7 @@ from datetime import datetime
 import re
 import requests
 import sys
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
 from fuzzywuzzy import fuzz
 import os
 import csv
@@ -256,49 +256,66 @@ class Crawler:
             self.__startIndex = startIndex if startIndex is not None else 0;
             self.__endIndex = endIndex if endIndex is not None else self.__startIndex + 1;
 
-        # Initiate the Processor to clean & analzye the documents
-        processor = Processor(self.assistant, self.nlp, self.threadCount, self.startPhrases);
-
-        # Main crawler
-        # for mainIndex in range(self.__startIndex, self.__endIndex):
-        for mainIndex in tqdm(range(self.__startIndex, self.__endIndex), desc="Processing", unit="item"):
-            print("Processing index: ", mainIndex, "; Companies: ", self.companyAList[mainIndex], " & ", self.companyBList[mainIndex]);
-
-            # Construct the constraint of a given date & prep for url-parsing
-            constraintDates = self.__getDateConstraints(self.filedDate[mainIndex]);
-            lbDate, ubDate = constraintDates;
-            restructLB = f"{lbDate.year}-{lbDate.month:02}-{lbDate.day:02}";
-            restructUB = f"{ubDate.year}-{ubDate.month:02}-{ubDate.day:02}";
-            restructForms = "%2C".join(self.__formTypes).replace(" ", "%20");
-
-            # Find the documents with CIK filtering
-            results = self.__getCIKDocumentJson(self.companyAList[mainIndex], self.companyBList[mainIndex], restructLB, restructUB, restructForms);
-            if (results == None): # Acquire all documents within our guess
-                results = self.__getDocumentJson(self.companyAList[mainIndex], self.companyBList[mainIndex], restructLB, restructUB, restructForms);
-
-            # No documents found for our 2 companies
-            if (results == None):
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No documents found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
-                continue;
-
-            # Extract the source document links
-            sourceLinks = self.__getSourceLinks(results);
-
-            # Process the documents from the source links
-            companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
-            result = processor.locateSection(sourceLinks, companyNames, mainIndex);
-            if (result == None):
-                continue;
+        # Create the thread pool for efficiently allocate threads via executor
+        with ThreadPoolExecutor(max_workers=self.threadCount) as executor:
+            # Initiate the Processor to clean & analzye the documents
+            processor = Processor(self.assistant, self.nlp, self.threadCount, self.startPhrases, executor);
             
-            # Get the initiator and reason
-            match = re.search(r"\[(.*?)\]", result);
-            initiator = match.group(1) if match else "Unknown";
+            # Stores all asynchronous results from Assistant and load them at the end.
+            # This preserves the operation of multi-threading.
+            futures = [];
+            for mainIndex in tqdm(range(self.__startIndex, self.__endIndex), desc="Processing", unit="item"):
+                print("Processing index: ", mainIndex, "; Companies: ", self.companyAList[mainIndex], " & ", self.companyBList[mainIndex]);
 
-            with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
-                writer = csv.writer(file);
+                # Construct the constraint of a given date & prep for url-parsing
+                constraintDates = self.__getDateConstraints(self.filedDate[mainIndex]);
+                lbDate, ubDate = constraintDates;
+                restructLB = f"{lbDate.year}-{lbDate.month:02}-{lbDate.day:02}";
+                restructUB = f"{ubDate.year}-{ubDate.month:02}-{ubDate.day:02}";
+                restructForms = "%2C".join(self.__formTypes).replace(" ", "%20");
 
-                # Write header if the file is empty
-                if file.tell() == 0:
-                    writer.writerow(["DATE", "TMANAMES", "AMANAMES", "INITIATOR"]);
+                # Find the documents with CIK filtering
+                results = self.__getCIKDocumentJson(self.companyAList[mainIndex], self.companyBList[mainIndex], restructLB, restructUB, restructForms);
+                if (results == None): # Acquire all documents within our guess
+                    results = self.__getDocumentJson(self.companyAList[mainIndex], self.companyBList[mainIndex], restructLB, restructUB, restructForms);
+
+                # No documents found for our 2 companies
+                if (results == None):
+                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No documents found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                    continue;
+                
+                # Extract the source document links
+                sourceLinks = self.__getSourceLinks(results);
+
+                # Process the documents from the source links and save to be
+                # processed after mainIndex loop finishes
+                companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
+                future = processor.locateSection(sourceLinks, companyNames, mainIndex);
+                if future:
+                    futures.append((mainIndex, future));
+
+            # Wait for all OpenAI messages to complete before processing
+            wait([future for _, future in futures], return_when=ALL_COMPLETED);
+
+            # Now process the results to extract the initiator from the Assistant output response
+            for mainIndex, future in futures:
+                try:
+                    result = future.result();
+                    if result is None:
+                        continue;
                     
-                writer.writerow([self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], initiator]);
+                    # Extract the initiator from the specified format: [company name]
+                    match = re.search(r"\[(.*?)\]", result);
+                    initiator = match.group(1) if match else "Unknown";
+                    
+                    # Write to the output csv
+                    with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
+                        writer = csv.writer(file);
+                        if file.tell() == 0:
+                            writer.writerow(["DATE", "TMANAMES", "AMANAMES", "INITIATOR"]);
+                        writer.writerow([self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], initiator]);
+                except Exception as e:
+                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing future for index {mainIndex}: {e}");
+
+            # Clean up the vector store at the end as we can't clear while in parallel processing
+            self.assistant.clearVectorStores();
