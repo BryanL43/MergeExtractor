@@ -1,0 +1,2086 @@
+URL: https://www.sec.gov/Archives/edgar/data/910638/000095014801500497/0000950148-01-500497.txt
+
+See
+       Section 11 -- "Background of the Offer; Past Contacts, Transactions or
+       Negotiations with DTM" for more detailed information.
+
+           - Neither we, nor, to the best of our knowledge, any of the persons
+             listed on Schedule I to this document, has had, within the past two
+             years, any other business relationships or transactions with DTM or
+             any of its executive officers, directors or affiliates that would
+             require reporting under the rules and regulations of the SEC
+             applicable to this document;
+
+           - Within the past two years, there have been no other contacts,
+             negotiations or transactions between us or, to the best of our
+             knowledge, any of the persons listed on Schedule I to this
+             document, and DTM or its affiliates, concerning a merger,
+             consolidation or acquisition, tender offer or other acquisition of
+             securities, election of directors or a sale or other transfer of a
+             material amount of assets; and
+
+     - As a result of the tender and voting agreements, we have beneficial
+       ownership over all of the shares of DTM common stock beneficially owned
+       by each of DTM Acquisition Company, L.P. and Mr. John S. Murchison, III.
+       
+See Section 13 -- "The Merger Agreement and the Tender and Voting
+       Agreements" for more detailed information.
+Neither we nor, to the best of
+       our knowledge, any of the persons listed on Schedule I to this document,
+       beneficially owns or has any right to acquire any other shares or has
+       effected any other transactions in the shares of DTM common stock during
+       the past 60 days.
+
+     
+Available Information.
+We are subject to the informational requirements of
+the Exchange Act and file periodic reports, proxy statements and other
+information with the SEC relating to our business, financial condition and other
+matters.
+These reports, proxy statements and other information are available for
+inspection at the SEC, and copies can be obtained from the SEC in the same
+manner as is set forth with respect to DTM in Section 8 -- "Information
+Concerning DTM."
+
+10.
+SOURCE AND AMOUNT OF FUNDS.
+
+     
+The offer is conditioned upon the receipt of all financing necessary to
+fund our financial obligations arising from the offer, the merger and all the
+transactions contemplated by the merger agreement.
+We estimate that the total
+amount of funds required to consummate the offer and the merger, to pay for the
+cancellation of employee stock options and to pay our related fees and expenses
+will be approximately $48,000,000.
+We will obtain the necessary funds through
+available cash on hand and through the two credit facilities described below.
+
+     
+It is anticipated that the indebtedness incurred under the credit
+facilities will be repaid from funds generated from our general business
+operations and from other sources that may include proceeds from a private or
+public sale of debt or equity securities.
+No final decision has been made
+concerning the methods which we may employ to repay the indebtedness.
+We
+currently have no other financing arrangements or alternative financing plans in
+place in the event the credit facilities described below fall through.
+In such a
+situation, we will seek alternative sources of financing.
+
+     
+Credit Facilities.  
+Pursuant to a letter agreement dated April 24, 2001,
+U.S. Bank N.A. has committed to make us loans consisting of a $26,500,000
+revolving line of credit and a $15,000,000 commercial term loan, upon the terms
+and conditions described in the letter agreement.
+The purpose of the credit
+facilities is to assist us in our acquisition of DTM and thereafter to finance
+our working capital and general corporate needs.
+
+     
+The interest rate applicable to both credit facilities will be at our
+option either: (1) the prime rate plus a margin ranging from 0.25% to 1.0%, or
+(2) the 90 day reserve adjusted LIBOR, or London Inter-Bank Offer Rate, plus a
+margin ranging from 2.0% to 2.75%.
+The margin for each rate will vary depending
+upon our interest-bearing-debt-to-our earnings before interest, taxes,
+depreciation and amortization.
+The terms prime rate, LIBOR and
+interest-bearing-debt will have the meanings customary for financings of this
+type.
+
+     
+The revolving credit facility will mature three years after the closing
+date of the offer.
+The term loan will mature 66 months from the closing date of
+the offer.
+For the revolving line of credit, interest will be payable monthly
+and the principal will be due in full at maturity.
+For the term loan, only the
+interest is
+
+due during the first six months; thereafter, the balance of the loan will be
+amortized over five years requiring quarterly principal payments equal to the
+lesser of the outstanding principal balance or $750,000, plus interest.
+The term
+loan is also subject to a debt recapture provision that requires 40% of our
+"excess cash flow" to be applied toward principal reduction on an annual basis.
+
+     
+The letter agreement provides that U.S. Bank will receive a first priority
+security interest in our and DTM's accounts receivable, inventory, equipment and
+general intangibles (including certain intellectual property assets).
+We will
+also pledge the stock of DTM as collateral for the credit facilities.
+In
+addition, we will provide U.S. Bank with customary and appropriate
+representations and warranties and covenants (which will require us to meet
+various financial ratios on a periodic basis).
+
+     
+Funding of the above mentioned credit facilities will be subject to the
+satisfaction of customary closing conditions, including but not limited to, the
+closing of the offer, the bank's perfection of title in certain of our assets,
+the receipt of third party permits and consents and such other matters as
+customary or appropriate for a financing of this type.
+
+     
+This summary of the letter agreement does not purport to be complete and is
+qualified in its entirety by reference to the letter agreement, which is
+attached and which is incorporated herein by reference.
+
+
+11.
+BACKGROUND OF THE OFFER; PAST CONTACTS, TRANSACTIONS OR NEGOTIATIONS WITH
+DTM.
+
+     
+In November 1999, Mr. G. Walter Loewenbaum II, our Chairman, and Mr.
+Anthony Mariotti, a director of DTM, had a lunch meeting and discussed on a
+preliminary basis, the possibility of 3D Systems and DTM entering into a
+transaction.
+Following this meeting, Mr. Brian Service, our Chief Executive
+Officer and President, had preliminary telephonic conversations with Mr.
+Mariotti to further discuss the possibility of entering into a transaction.
+To
+facilitate these discussions, on January 25, 2000, the parties entered into a
+confidentiality agreement.
+On February 9, 2000, Mr. Service, Mr. Loewenbaum, Mr.
+Charles Hull, our Chief Technology Officer and Mr. A. Sidney Alpert, our then
+general counsel, held a preliminary meeting in Austin, Texas with John S.
+Murchison, III, DTM's Chief Executive Officer and President, Geoffrey W.
+Kreiger, DTM's Chief Financial Officer, Kevin McAlea, DTM's Vice President of
+Marketing and Business Development and Mr. Mariotti, to discuss their mutual
+interest in a potential business combination.
+
+     
+On February 16, 2000, we held a regular board meeting at our principal
+corporate offices in Valencia, California.
+During this meeting, Mr. Service, as
+part of his regular strategic overview, provided the Board with information
+concerning these preliminary discussions.
+No formal action relating to any
+business combination was taken by the Board at this time.
+
+     
+Throughout February and March 2000, informal discussions continued between
+our representatives and those of DTM.
+During this period, we met with A.G.
+Edwards & Sons, Inc. and discussed a possible combination with DTM.
+In addition,
+3D Systems and DTM exchanged certain limited valuation analyses following which
+we orally communicated a preliminary proposal to Mr. Mariotti to acquire all of
+the outstanding securities of DTM.
+Mr. Mariotti informed us that DTM did not
+accept our proposal.
+On May 2, 2000, we held a regular board meeting at which
+Mr. Service updated the board of directors with respect to discussions with DTM
+and informed the board of directors that in light of the differences in
+valuation analyses and due to other business developments, discussions with DTM
+had ceased.
+
+     
+On May 10, 2000, we engaged A.G. Edwards & Sons, Inc. to provide certain
+financial advisory services in the event that we determined to pursue a business
+combination.
+Thereafter, from time to time, A.G. Edwards advised us with respect
+to possible acquisition candidates, including DTM.
+
+     
+On February 22, 2001, Mr. Loewenbaum met with Mr. Mariotti in Austin, Texas
+to again discuss potential strategic opportunities of a business combination of
+the companies in light of certain changes in the business climate and DTM's
+recent strong earnings performance and litigation proceedings between DTM and
+EOS GmbH.
+At that time, EOS was threatening to cause us to become a party to
+this litigation because EOS's lawsuit against DTM alleges that DTM has infringed
+and continues to infringe certain U.S. patents licensed to EOS by us.
+On
+February 23, 2001, Messrs. Loewenbaum, Service and
+
+Mariotti met in Austin, Texas and continued discussions regarding a possible
+combination.
+During these meetings, the parties discussed the current operations
+of DTM, the structure of a proposed transaction and the potential synergies of a
+combination.
+
+     
+On February 28, 2001, we held a regular board meeting during which Mr.
+Service summarized the discussions conducted with DTM and the structure of a
+proposed acquisition.
+The Board authorized management to present a non-binding
+offer letter to DTM to acquire all of the outstanding shares of common stock of
+DTM for $5.25 per share by means of a cash tender offer followed by a merger of
+DTM and a newly-formed subsidiary.
+That same day, we submitted to DTM a
+non-binding offer letter to acquire all of the outstanding shares of common
+stock of DTM for $5.25 per share, subject to, among other conditions,
+satisfactory conclusion of due diligence, a 30-day exclusivity period and an
+agreement from certain key shareholders to tender their shares and support the
+proposed transaction.
+
+     
+On March 12, 2001, Hoak Breedlove Wesneski & Co., DTM's financial advisor,
+contacted A.G. Edwards and indicated that the special committee had reviewed our
+non-binding offer letter dated February 28, 2001 and also had received and was
+considering a proposal from another potential acquiror.
+Hoak Breedlove indicated
+the special committee would not grant us a period of exclusivity based on our
+proposed offer letter.
+
+     
+On March 13, 2001, we submitted a letter to the special committee
+indicating that we were unwilling to commit the substantial time and resources
+necessary to launch our due diligence investigation in the presence of the
+competing offer.
+We reiterated our earlier proposal as set forth in the February
+28, 2001 offer letter including the period of exclusivity.
+
+     
+On March 13 and 14, 2001, discussions continued between the parties
+regarding the valuation of DTM, the exclusivity period and the proposed
+transaction.
+On March 14, 2001, Hoak Breedlove contacted A.G. Edwards and
+indicated that the special committee had received our March 13, 2001 letter but
+believed the proposed price was not sufficient to grant us a period of
+exclusivity in which to conduct our due diligence.
+In a separate conversation on
+March 14, 2001, Hoak Breedlove indicated to A.G. Edwards that the special
+committee believed that the price per share should be increased and that the
+exclusivity period should be reduced from 30 days to not more than two weeks.
+
+Separately, on March 14, 2001, Mr. Mariotti contacted Mr. Service directly and
+discussed the special committee's response to our proposal, specifically that
+the offer price should be increased and that the special committee would agree
+to a maximum two-week period of exclusivity.
+Mr. Service inquired as to whether
+a price range of $5.50-6.00 would be sufficient and Mr. Mariotti expressed his
+belief that such a price range would be adequate to justify granting us a
+two-week exclusivity period, but that any decision would be made by the special
+committee.
+
+     
+On March 15, 2001, we submitted another non-binding offer letter to acquire
+DTM for a price in the range of $5.50-$6.00 per share, subject to, among other
+things, satisfactory completion of due diligence and a two-week period of
+exclusivity.
+Later that day, Hoak Breedlove contacted A.G. Edwards and indicated
+that the special committee had agreed to grant us a two-week period of
+exclusivity based on our March 15, 2001 non-binding offer letter.
+
+     
+During the next several days, our representatives negotiated the terms of
+the exclusivity agreement and a confidentiality agreement with DTM, and on March
+17, 2001, the parties executed and delivered the exclusivity agreement and the
+confidentiality agreement.
+
+     
+Beginning on March 16, 2001, representatives of A.G. Edwards held
+discussions with certain potential lending sources relating to the financing
+necessary to fund the contemplated transactions.
+
+     
+On March 18 and 19, 2001, our principals together with representatives of
+A.G. Edwards and Akin, Gump, Strauss, Hauer and Feld, L.L.P., our outside
+counsel, commenced preliminary business and legal due diligence.
+Additional due
+diligence was conducted in meetings with DTM management on March 20-22, 2001 in
+Austin, Texas by certain of our officers, together with representatives of A.G.
+Edwards, Akin Gump Strauss Hauer and Feld, L.L.P., and Deloitte and Touche, our
+independent
+
+public accountants, concerning the business, financial, accounting, legal
+intellectual property rights and other affairs of DTM.
+The parties continued
+these due diligence activities during the following week.
+
+     
+On March 26 and 27, 2001, certain members of our management together with
+representatives of A.G. Edwards made presentations to potential lenders.
+
+Beginning the week of March 26, we received several written proposals from
+potential lending sources.
+
+     
+On March 27, 2001, our board of directors held a telephonic meeting to
+discuss the proposed business combination, which included a presentation from
+our management regarding the status of due diligence and negotiations.
+During
+that meeting, A.G. Edwards presented its financial analysis with regard to the
+proposed transaction.
+On that same day, we submitted to the special committee a
+non-binding offer letter to acquire DTM for $5.75 per share.
+On March 28, 2001,
+our outside counsel provided to the parties a preliminary draft of the merger
+agreement.
+
+     
+On March 28, 2001, Hoak Breedlove contacted A.G. Edwards on behalf of the
+special committee to propose a purchase price of $6.00 per share.
+Hoak Breedlove
+also discussed certain of the other terms in the draft merger agreement.
+
+     
+Between March 28, 2001 and April 2, 2001 there were various meetings and
+telephonic conferences between our principals and representatives of A.G.
+Edwards and our outside counsel, on the one hand, and principles of DTM, Hoak
+Breedlove and DTM's outside counsel, on the other, to negotiate provisions of
+the merger agreement and the tender and voting agreements, and additional due
+diligence was conducted by our outside counsel.
+On April 1, 2001, Messrs.
+Loewenbaum and Mariotti together with their respective representatives met to
+negotiate certain remaining terms in the merger agreement including, among other
+things, the purchase price and receipt by us of financing adequate to fund the
+transactions contemplated by the merger agreement.
+Following these discussions,
+the parties agreed to recommend to their respective boards of directors a
+purchase price of $5.80 per share.
+
+     
+In the morning of April 2, 2001, our board of directors held a special
+meeting by telephonic conference to discuss the merger agreement and the
+proposed transaction.
+The board of directors received and participated in a
+presentation by A.G. Edwards with respect to the financial terms of the proposed
+transaction.
+At the conclusion of its presentation, a representative of A.G.
+Edwards delivered the oral opinion of A.G. Edwards to the board of directors
+that, as of such date, an offer price of $5.80 per share of DTM common stock was
+fair from a financial point of view to our stockholders.
+A.G. Edwards
+subsequently confirmed its oral opinion by letter dated April 2, 2001.
+Our
+outside counsel summarized the material terms of the merger agreement and
+discussed the results of the due diligence investigation.
+Mr. Service presented
+to the Board details regarding DTM and recent discussions with the principals of
+DTM.
+At the conclusion of the meeting, the board of directors approved and
+authorized the execution of the merger agreement, the tender and voting
+agreements and the commencement of the offer consistent with the terms of the
+merger agreement.
+
+     
+Later on April 2, 2001, DTM informed us that its board of directors had
+approved the execution of the merger agreement, the tender and voting agreements
+and the completion of the transactions contemplated by those agreements and
+declared the advisability of the merger agreement and resolved to recommend
+acceptance of the offer and adoption of the merger agreement by the holders of
+shares of DTM common stock.
+
+     
+On April 2, 2001, the respective parties to the merger agreement and the
+tender and voting agreements executed and delivered those agreements and on
+April 3, 2001, we and DTM issued a joint press release announcing the signing of
+the merger agreement.
+
+     
+Commencing April 2, 2001 and continuing through April 23, 2001, the
+potential lending sources conducted their due diligence investigation.
+On April
+24, 2001, we received a commitment letter from U.S. Bank and during the next two
+days together with our outside counsel and financial advisor negotiated certain
+of its terms.
+On April 26, 2001, we held a special telephonic board meeting
+during which Mr. Service presented the material terms of the commitment letter.
+
+At the conclusion of the meeting, the
+
+board of directors approved and authorized the execution of the commitment
+letter.
+On April 27, 2001, we issued a press release announcing the execution of
+the commitment letter.
+
+     
+Pursuant to the merger agreement, the parties agreed to commence the tender
+offer on April 30, 2001.
+
+
+12.
+PURPOSE OF THE OFFER AND THE MERGER; PLANS FOR DTM.
+
+     
+The purpose of the offer is for us to acquire the entire equity interest in
+DTM.
+The purpose of the merger is for us to acquire all of the equity interest
+in DTM not acquired pursuant to the offer.
+Upon consummation of the merger, DTM
+will become our wholly owned subsidiary.
+The acquisition of the entire equity
+interest in DTM has been structured as a cash tender offer followed by a cash
+merger in order to provide a prompt transfer of ownership of the equity interest
+in DTM from you to us and to provide you with cash for all of your shares.
+
+     
+Under Texas law, the approval of DTM's board of directors and, under
+certain circumstances, the affirmative vote of the holders of a majority of the
+outstanding shares present at a duly constituted meeting are required to approve
+and adopt the merger agreement and the transactions contemplated by the
+agreement.
+Alternatively, Texas law and the articles of incorporation of DTM
+permit the approval and adoption of the merger agreement and the related
+transactions by written consent of the holders of at least 67% of the
+outstanding shares of DTM common stock.
+DTM has agreed to take all action
+necessary to convene a meeting of its shareholders as promptly as practicable
+after the consummation of the offer for the purpose of obtaining shareholder
+approval of the merger (if required by applicable law to consummate the merger)
+or in place of that meeting, we have agreed to cause the merger agreement to be
+adopted by written consent of the shareholders of DTM.
+The shareholders' meeting
+will be held as soon as practicable (subject to any statutory or other
+restrictions) following the purchase of the shares of DTM common stock pursuant
+to the offer.
+If a meeting of DTM shareholders is required, a proxy statement
+containing detailed information concerning the merger will be furnished to
+shareholders of DTM in connection with that meeting.
+
+     
+If we own at least 90% of the outstanding shares of DTM common stock, we
+will not need to hold the shareholders' meeting described in the previous
+paragraph.
+Texas law provides for a "short-form" merger under which the merger
+will become effective as soon as practicable after the expiration date without a
+meeting of the DTM shareholders and without the written consent of the DTM
+shareholders.
+
+     
+At a meeting duly called and held on April 2, 2001, the DTM board of
+directors:
+
+     - after evaluating the merger, determined that each of the merger agreement
+       and the tender and voting agreements is advisable and fair to, and in the
+       best interests of DTM's shareholders;
+
+     - approved the execution, delivery and performance of the merger agreement
+       and each of the tender and voting agreements and completion of the
+       transactions contemplated by those agreements, including the offer and
+       the merger; and
+
+     - declared the advisability of the merger agreement and resolved to
+       recommend the acceptance of the offer and the adoption of the merger
+       agreement by DTM's shareholders.
+
+     
+The only remaining corporate action of DTM that may be required is the
+approval and adoption of the merger agreement and the transactions contemplated
+by the agreement by the holders of a majority of the shares of DTM common stock
+(or by 67% if approved by written consent of the shareholders in lieu of a
+meeting).
+If the minimum condition is satisfied, we will have sufficient voting
+power to cause the approval and adoption of the merger agreement and the
+transactions contemplated thereby without the affirmative vote of any other
+shareholder of DTM.
+We have agreed to vote all shares of DTM common stock owned
+by us in favor of the merger.
+If we acquire at least 90% of the shares of DTM
+common stock in the offer we will complete a short-form merger without the vote
+or written consent of the DTM shareholders.
+
+     
+Rule 13e-3.
+The SEC has adopted Rule 13e-3 under the Exchange Act, which is
+applicable to certain "going private" transactions and which may, under certain
+circumstances, be applicable to the merger.
+We believe, however, that Rule 13e-3
+will not be applicable to the merger if the merger is consummated within one
+year after the termination of the offer at the same per share price as paid in
+the offer.
+If applicable, Rule 13e-3 requires, among other things, that certain
+financial information concerning DTM and certain information relating to the
+fairness of the merger and the consideration offered to minority shareholders in
+the merger be filed with the SEC and disclosed to shareholders prior to
+consummation of the merger.
+
+     Plans for DTM.
+If we purchase DTM common stock pursuant to the offer, the
+merger agreement provides that we will be entitled to designate representatives
+to serve on DTM's board of directors in proportion to our ownership of DTM
+common stock following that purchase; provided, however, that until the
+effective time of the merger, there must be at least two directors who are
+directors of DTM on April 2, 2001 and not officers of DTM or our affiliates.
+
+Promptly upon the consummation of the offer, we currently intend to seek maximum
+representation on DTM's board of directors as permitted by the merger agreement.
+
+We expect that our representation on DTM's board of directors would permit us to
+exert substantial influence over DTM's conduct of its business and operations.
+
+As a result of the merger, our directors and officers immediately prior to the
+effective time of the merger will become the directors and officers,
+respectively, of DTM, as the surviving corporation.
+See Section 13 -- "The
+Merger Agreement, the Tender and Voting Agreements, the Confidentiality
+Agreement and the Exclusivity Agreement" for more detailed information.
+
+     
+Following the consummation of the offer, we intend to cause the DTM common
+stock to cease to be authorized or to be quoted in an automated quotation system
+operated by a national securities association and to terminate the registration
+of the DTM common stock pursuant to Section 12(g)(4) of the Exchange Act.
+We
+expect that initially following the merger, the business and operations of DTM
+will be continued substantially as they are currently being conducted.
+We will
+continue to evaluate the business and operations of DTM during the pendency of
+the offer and, after the consummation of the offer and the merger, we will take
+those actions as we deem appropriate under the circumstances then existing.
+We
+intend to seek additional information about DTM during this period.
+Thereafter,
+we intend to review this information as part of a comprehensive review of DTM's
+business, assets, operations, capitalization, dividend policy, management and
+personnel, with a view to optimizing development of DTM's potential in
+conjunction with our current and future business.
+
+     
+Except as described above or elsewhere in this document, we have no present
+plans or proposals that would relate to or result in the following:
+
+     - an extraordinary corporate transaction, such as a merger, reorganization
+       or liquidation, involving DTM or any of its subsidiaries (other than
+       possible intercompany transactions among DTM, its subsidiaries and us);
+
+     - a purchase, sale or transfer of a material amount of assets of DTM or any
+       of its subsidiaries;
+
+     - any change in the present board of directors or management of DTM;
+
+     - any material change in the present dividend rate or policy, or
+       indebtedness or capitalization of DTM;
+
+     - any other material change in DTM's business or corporate structure;
+
+     - any action similar to any of those enumerated above.
+
+13.
+THE MERGER AGREEMENT, THE TENDER AND VOTING AGREEMENTS, THE CONFIDENTIALITY
+    AGREEMENT AND THE EXCLUSIVITY AGREEMENT.
+
+     
+The following is a summary of the material provisions of the merger
+agreement, the tender and voting agreements, the confidentiality agreement and
+the exclusivity agreement, copies of which are attached as exhibits to the
+Tender Offer Statement on Schedule TO we filed with the SEC in connection with
+the
+
+offer.
+These summaries do not purport to be complete and are qualified in their
+entirety by reference to the merger agreement the tender and voting agreements,
+the confidentiality agreement and the exclusivity agreement, each of which we
+incorporate by reference.
+You should read these agreements carefully in their
+entirety.
+
+
+THE MERGER AGREEMENT
+
+     The Offer
+
+     Structure, Timing and Conditions.
+Pursuant to the merger agreement, within
+five business days of our receipt of commitments from financial institutions or
+other equity or debt sources sufficient in amount to allow us to consummate the
+transactions contemplated by the merger agreement, we will commence the offer to
+acquire all the outstanding shares of DTM common stock from the shareholders at
+$5.80 per share, net to the shareholder in cash, without interest, less any
+required withholding taxes.
+The offer will expire at 12:00 midnight, New York
+City time on the 20th business day following the commencement of the offer,
+unless otherwise extended.
+We will accept for payment and pay for all shares of
+DTM common stock validly tendered and not withdrawn pursuant to the offer as
+promptly as practicable after the expiration date of the offer.
+Our obligation
+to accept for payment, purchase and pay for any shares of DTM common stock
+validly tendered and not withdrawn pursuant to the offer is subject to certain
+conditions described in Section 14 -- "Conditions to Our Obligations.
+"
+
+     Changes to the Offer Terms.
+We may, in our sole discretion, modify the
+terms and conditions of the offer and waive any condition described under
+Section 14 -- "Conditions to Our Obligations," except that, without the prior
+written consent of DTM, we may not:
+
+     - decrease the offer price;
+
+     - change the form of consideration to be paid pursuant to the offer;
+
+     - reduce the maximum number of shares to be purchased in the offer;
+
+     - impose conditions to the offer in addition to those set forth in Section
+       14 -- "Conditions to Our Obligations;"
+
+     - extend the offer, except as provided below;
+
+     - amend any other term of the offer in any manner materially adverse to
+       holders of shares of DTM common stock; or
+
+     - amend or waive the minimum condition.
+
+     
+Extension of the Offer.
+We may from time to time, in our sole discretion,
+extend the initial expiration date of the offer if, on the initial expiration
+date, not all the conditions of the offer are satisfied or waived.
+We may,
+without the consent of DTM, extend any expiration date of the offer for any
+period required by any rule, regulation, interpretation or position of the SEC
+or for any period required by applicable law.
+In addition, we have agreed to
+extend the offer from time to time until June 29, 2001, if on the initial
+expiration date of the offer, or any extension thereof, the conditions of the
+offer have not been waived or satisfied.
+However, we are not required to extend
+the offer under this provision unless, in our reasonable judgment:
+
+     - each condition that is not then satisfied or waived is reasonably capable
+       of being satisfied;
+
+     - DTM is in material compliance with all of its covenants in the merger
+       agreement; and
+
+     - the failure of a condition to be satisfied did not result from a breach
+       by DTM of any of its covenants and agreements contained in the merger
+       agreement.
+
+     
+In addition, we may, without the consent of DTM, provide a "subsequent
+offering period" by extending the offer from three to 20 business days following
+the expiration date of the offer.
+
+     
+Board Representation.
+The merger agreement provides that effective upon our
+purchase pursuant to the offer of that number of shares of DTM common stock
+which represents at least 67% of the total number of outstanding common shares
+on a fully diluted basis, and from time to time thereafter, we will be entitled
+to designate up to that number of DTM directors, rounded up to the next whole
+number, as will make the percentage of the DTM directors designated by us equal
+to the percentage of outstanding shares of DTM common stock held by us.
+DTM has
+agreed to take all action necessary to cause our designees to be elected to or
+appointed by DTM's board of directors.
+The merger agreement also provides that
+upon our written request, DTM will use its best efforts to cause our designees
+to be elected or appointed to each committee of DTM's board of directors and to
+the board of directors of each of its subsidiaries (in the same percentage of
+representation as on DTM's board of directors).
+
+     
+Prior to the effective time of the merger, DTM will have on its board of
+directors at least two directors who were directors of DTM on April 2, 2001 (the
+date of the merger agreement) and who are not officers of DTM or our affiliates.
+
+We refer to these two directors as the "independent directors."
+If the number of
+independent directors is reduced below two, the remaining independent director
+will be entitled to designate a person to fill the vacancy and if no independent
+director remains, the other directors will designate two persons to fill the
+vacancies who shall not be officers of DTM or our affiliates and those designees
+will be deemed to be independent directors for purposes of the merger agreement.
+
+     
+SEC Filings and Dissemination of Documents to Shareholders.
+As soon as
+practicable on the date of commencement of the offer, we will file the Tender
+Offer Statement on Schedule TO with the SEC.
+The Schedule TO will contain or
+incorporate by reference this document and other related offering documents with
+respect to the offer.
+We also have agreed to cause this document and related
+offering documents to be disseminated to you to the extent required by
+applicable federal securities laws.
+DTM will file with the SEC and mail to you,
+concurrently with the commencement of the offer or as promptly thereafter as
+practicable, a Solicitation/Recommendation Statement on Schedule 14D-9
+containing the recommendation of DTM's board of directors in favor of the offer
+and the merger and the opinion of DTM's financial advisor that the consideration
+to be received for the shares of DTM common stock pursuant to the offer and the
+merger is fair to you from a financial point of view.
+
+     
+The Merger
+
+     Structure, Timing.
+Pursuant to the merger agreement, as soon as practicable
+after satisfaction of all conditions to the merger, Tiger Deals will merge with
+and into DTM.
+DTM will be the surviving corporation after the merger.
+The merger
+will become effective at the time the certificate of merger is filed with the
+Secretary of State of Delaware and a certificate of merger is issued by the
+Secretary of State of Texas, or at a later time as specified in the respective
+certificates of merger.
+The merger is expected to occur as soon as practicable
+after all conditions of the merger have been satisfied or waived.
+
+     
+At the effective time of the merger, the articles of incorporation and
+bylaws of the surviving corporation will be amended and restated to be identical
+to our certificate of incorporation and bylaws as in effect immediately prior to
+the effective time of the merger, except that the name of the surviving
+corporation will be "DTM Corporation."
+Further, at the effective time of the
+merger, our directors and officers will become the initial directors and
+officers of the surviving corporation until those directors' or officers'
+successors are duly elected or appointed.
+
+     Consideration.
+Pursuant to the merger agreement and by virtue of the
+merger, at the effective time of the merger:
+
+     - each share of DTM common stock issued and outstanding immediately prior
+       to the effective time of the merger (other than shares of DTM common
+       stock held by DTM in treasury, or shares held by us, which shall be
+       cancelled, and shares held by shareholders who have properly exercised
+       appraisal rights under Texas law), will be converted automatically into
+       the right to receive $5.80 in cash, or any higher price that may be paid
+       per share for the DTM common stock pursuant to the offer (less any
+       required withholding taxes), upon surrender of the DTM common stock
+       certificate;
+
+     - each share of DTM common stock held in the treasury of DTM or by us, if
+       any, immediately prior to the effective time of the merger, will be
+       cancelled without any conversion and no payment or distribution will be
+       made with respect to those shares; and
+
+     - each outstanding share of Tiger Deal common stock will be converted into
+       one share of common stock of the surviving corporation.
+
+     
+If, between April 2, 2001 and the effective time of the merger, the number
+of outstanding shares of DTM capital stock changes by reason of any stock
+dividend, subdivision, reclassification, recapitalization, split-up,
+combination, exchange of shares or the like other than pursuant to the merger,
+the $5.80 cash consideration to be paid to each DTM shareholder will be
+correspondingly adjusted.
+
+     
+Treatment of Options.
+At the effective time of the merger, each outstanding
+and unexercised option to purchase DTM common stock pursuant to the 1996, 1998
+and 1999 DTM stock option plans, whether vested or unvested, will accelerate and
+convert into an obligation of DTM to pay to the holders of those options a cash
+amount for each option that is equal to (i) the excess, if any, of the $5.80 per
+share consideration or any higher price that may be paid per share in the offer,
+over the exercise price per share of the subject option multiplied by (ii) the
+number of shares underlying the option.
+In addition, except as may be otherwise
+agreed upon by the parties, as of the effective time of the merger:
+
+     - all of DTM's stock option plans will terminate;
+
+     - the provisions in any other plan, program or arrangement providing for
+       the issuance of capital stock of DTM or any of its subsidiaries will be
+       deleted; and
+
+     - no holder of DTM options or any participant in DTM's stock option plans
+       will have any rights to acquire any equity interest in the surviving
+       corporation.
+
+     
+Treatment of Warrants.
+All warrants and other convertible securities to
+purchase shares of DTM common stock, if any, will be cancelled as of the closing
+of the merger.
+
+     
+Exchange of Stock Certificates.
+At the effective time of the merger, the
+surviving corporation will deposit with a paying agent the cash necessary to
+consummate the merger.
+Promptly after the effective time of the merger, the
+paying agent will mail to each person who was a record holder of DTM common
+stock at the effective time of the merger, a letter of transmittal and
+instructions for use in effecting the surrender of the holder's stock
+certificates.
+Upon surrender to the paying agent of the holder's stock
+certificate, the holder will be entitled to receive the $5.80 per share cash
+consideration, without interest, less any required withholding taxes and the
+certificates so surrendered will be promptly cancelled.
+
+     
+No Further Ownership Rights in DTM.  
+At and after the effective time of the
+merger your rights as a shareholder of DTM will terminate, except for the right
+to surrender your certificates in exchange for the $5.80 per share cash
+consideration (or any higher consideration paid in the offer) or to perfect your
+right to receive payment for your shares under Texas law and the merger
+agreement.
+There shall be no further transfers on the stock transfer books of
+DTM of the shares that were outstanding immediately prior to the effective time
+of the merger.
+If, after the effective time of the merger, certificates that
+formerly represented shares of DTM common stock are presented to the surviving
+corporation, these certificates will be cancelled and exchanged for cash less
+required withholding taxes in the manner described above, subject to applicable
+law with respect to dissenting shareholders.
+
+     
+Representations and Warranties.
+In the merger agreement, DTM and/or its
+subsidiaries have made various customary representations and warranties to us,
+subject to certain exceptions, with respect to among other things:
+
+     - due organization, existence and good standing;
+
+     - proper execution, delivery and performance of the merger agreement;
+
+     - governmental and third-party approvals and authorizations of the merger
+       agreement;
+
+     - absence of any liability for broker's fees;
+
+     - capital structure;
+
+     - absence of any equity commitments in connection with the transactions
+       contemplated by the merger agreement;
+
+     - accuracy of organizational documents;
+
+     - accuracy of documents and financial statements filed with the SEC;
+
+     - absence of undisclosed liabilities and certain changes;
+
+     - compliance with all applicable laws and orders;
+
+     - payment and filing of taxes;
+
+     - good and marketable title to tangible personal property owned or used;
+
+     - valid ownership or leasehold interests in all material parcels of real
+       property free and clear of encumbrances;
+
+     - complete disclosure of and adequate protection of its intellectual
+       property;
+
+     - content and value of the inventory;
+
+     - compliance with contracts where a breach would have a material adverse
+       effect;
+
+     - enforceability of receivables;
+
+     - maintenance of certain insurance policies;
+
+     - absence of material litigation;
+
+     - absence of material product liability or liability from product
+       warranties and guarantees for products manufactured, sold, leased or
+       delivered;
+
+     - absence of plans by any executive, key employee, or group of employees to
+       terminate employment;
+
+     - employee benefit plans and representations that the plans are maintained;
+
+     - compliance with various environmental, health and safety requirements;
+
+     - accuracy of information supplied to any governmental entity in connection
+       with the transactions contemplated by the merger agreement;
+
+     - absence of knowledge of any fact or circumstance that is likely to
+       materially impede or delay receipt of any consents of a governmental
+       entity;
+
+     - the vote necessary to approve and adopt the merger;
+
+     - receipt of an opinion from Hoak Breedlove Wesneski & Co. indicating that
+       the $5.80 per share consideration is fair from a financial point of view
+       to the DTM shareholders;
+
+     - approval by DTM's board of directors of the transactions contemplated by
+       the merger agreement; and
+
+     - the truth of all statements of material fact contained in the
+       representations and warranties.
+
+     
+In the merger agreement, we have made various customary representations and
+warranties to DTM, subject to certain exceptions, with respect to among other
+things:
+
+     - due organization, existence and good standing;
+
+     - proper execution, delivery and performance of the merger agreement and
+       the tender and voting agreements;
+
+     - governmental and third-party approvals and authorizations of the merger
+       agreement;
+
+     - capital structure;
+
+     - material litigation;
+
+     - our ownership of no more than 100 shares of DTM common stock;
+
+     - the limited nature of the activities of Tiger Deals;
+
+     - absence of any liability for broker's fees;
+
+     - good faith belief that we will have the means to purchase the DTM common
+       stock and consummate the transactions contemplated by the merger
+       agreement;
+
+     - information supplied to any governmental entity in connection with the
+       transactions contemplated by the merger agreement; and
+
+     - absence of knowledge of any fact or circumstance that is likely to
+       materially impede or delay the receipt of any consents of a governmental
+       entity.
+
+     
+Covenants
+
+     Conduct Prior to Closing.
+The parties to the merger agreement each agreed
+that, during the period from April 2, 2001 (the date of the merger agreement) to
+the earlier of the closing date of the merger or termination date of the merger
+agreement, the following, among other things, will occur:
+
+     - the parties will give any required notices to third parties and use their
+       best efforts in obtaining the consent of any third party or governmental
+       authority;
+
+     - DTM and its subsidiaries will conduct their operations in the ordinary
+       course of business and consistent with past practices;
+
+     - DTM will provide reasonable access during normal business hours to all of
+       its properties, books, contracts and records to our representatives;
+
+     - we will use reasonable best efforts to obtain the necessary financing
+       commitments;
+
+     - the parties will use reasonable best efforts to satisfy the closing
+       conditions set forth in the merger agreement;
+
+     - if, prior to the closing of the merger, either party becomes aware of a
+       matter that, if existing on the date of the merger agreement, would have
+       been required to have been disclosed, such party will promptly provide
+       written notice of the undisclosed matter to the other party; and
+
+     - the parties will use reasonable best efforts to agree upon the text of
+       any press release before issuing any press release or making any public
+       statements with respect to the merger.
+
+     
+No Solicitation.
+The merger agreement provides that DTM will not, nor will
+DTM permit its officers, directors, employees and representatives, directly or
+indirectly, to initiate, solicit, have discussions with, enter into an agreement
+with or provide any information, to any party, concerning the following events:
+
+     - the acquisition of DTM by merger, acquisition consolidation or similar
+       transaction involving any equity security of DTM; and
+
+     - the acquisition of DTM by the acquisition of all or substantially all of
+       DTM's assets (other than an acquisition by us).
+
+     
+We refer to any offer or proposal (other than by us) for either of the
+foregoing actions as an "acquisition proposal."
+
+     
+However, nothing contained in the merger agreement prevents DTM or DTM's
+board of directors from:
+
+     - complying with Rule 14d-9 or Rule 14e-2 under the Exchange Act with
+       regard to any tender offer, provided that, among other things, DTM's
+       board of directors will not recommend that DTM shareholders tender their
+       shares in connection with that tender offer unless DTM's board of
+       directors in good faith, after consultation with legal counsel,
+       determines that it is reasonably likely that its failure to do so would
+       constitute a breach of its fiduciary duties to its shareholders; and
+
+     - furnishing information to, or entering into discussions or negotiations
+       with, any person or entity in response to an acquisition proposal,
+       unless, among other things, DTM's board of directors in good faith, after
+       consulting with legal counsel, determines that it is reasonably likely
+       that its failure to do so would constitute a breach of its fiduciary
+       duties to its shareholders.
+
+     
+Pursuant to the merger agreement, DTM's board of directors may withdraw its
+recommendation of the merger agreement or approve or recommend any acquisition
+proposal, if after consulting with legal counsel, DTM's board of directors
+determines in good faith that it is reasonably likely that its failure to do so
+would constitute a breach of its fiduciary duties to its shareholders.
+DTM's
+board of directors may only enter into an agreement with respect to an
+acquisition proposal that is a superior proposal.
+A superior proposal is an
+unsolicited acquisition proposal by a third party who the DTM board of directors
+determines in good faith has a good faith intent to proceed with negotiations
+and has the financial and other capabilities to complete the acquisition
+proposal (i) on terms that a majority of the members of DTM's board of directors
+determines, acting upon the written opinion of financial advisors, to represent
+superior value for the DTM shareholders as compared to the transactions
+contemplated by the merger agreement and (ii) is reasonably capable of being
+completed.
+
+     
+DTM must promptly advise us of any acquisition proposal or any inquiry with
+respect to or that could lead to an acquisition proposal.
+In addition, DTM must
+provide prompt notice to us of the identity of the person making the acquisition
+proposal and the material terms of the acquisition proposal.
+Further, DTM must
+keep us fully informed of the status of the acquisition proposal and provide
+copies of all correspondence sent by the third party to DTM in connection with
+the acquisition proposal.
+
+     
+Shareholders' Meetings and Proxy Statement.
+DTM has agreed to take all
+action necessary to convene a meeting of its shareholders as promptly as
+practicable after the consummation of the offer for the purpose of obtaining
+shareholder approval of the merger (if required by applicable law to consummate
+the merger) or in lieu of that meeting, we have agreed to cause the merger
+agreement to be adopted by written consent of the shareholders of DTM.
+The
+shareholders' meeting (if required by applicable law to consummate the merger)
+shall be held as soon as practicable (subject to any statutory or other
+restrictions) following the purchase of DTM common stock pursuant to the offer.
+
+In the event a meeting of DTM shareholders is required, DTM and 3D Systems will
+prepare and file a proxy statement with the SEC.
+
+     
+Directors' and Officers' Indemnification and Insurance.
+The merger
+agreement provides that DTM will indemnify each person who is now, or has been
+at any time prior to the execution date of the merger agreement, an officer or
+director of DTM or any of its subsidiaries, for any claim, liability, loss,
+damage, amount paid in settlement, cost or expense, including reasonable
+attorney fees and expenses, occurring at or prior to the effective time of the
+merger, arising (i) out of the merger agreement and the transactions
+contemplated by the merger agreement and (ii) out of the fact that the person is
+or was an officer or director of DTM or any of its subsidiaries.
+From and after
+the effective time of the merger, the surviving corporation will fulfill and
+honor the indemnification obligations of DTM under any indemnification
+agreements between DTM and its directors and officers as well as any
+indemnification provisions under DTM's organizational documents.
+In addition,
+the surviving company will maintain in effect, if available, for not less than
+six years after the effective time of the merger the current directors' and
+officers' liability insurance maintained by DTM with respect to matters existing
+or occurring at or prior to the effective time of the merger.
+Neither we nor DTM
+will be required to pay annual premiums for this insurance in excess of 200% of
+the annual premium currently paid by DTM.
+In addition, we at our election, may
+cause
+
+coverage to be provided under any policy maintained for our benefit, so long as
+the terms are not materially less advantageous to the intended beneficiaries
+than the existing insurance coverage.
+
+     
+Financing.
+We will use our reasonable best efforts to obtain, on terms
+reasonably satisfactory to us, commitments in customary form from financial
+institutions or other equity or debt sources sufficient to allow us to
+consummate the transactions contemplated by the merger agreement.
+
+     
+Employee Benefits.
+As of the effective time of the merger, we have agreed
+that all DTM employees retained after the merger will become entitled to all
+benefits generally available to our employees under our employee benefit plans.
+
+Further, the merger agreement requires the surviving corporation to honor
+certain severance plans and severance agreements adopted and entered into by DTM
+prior to the effective time of the merger.
+
+     Closing Conditions.
+The obligation of each party to effect the merger is
+subject to the satisfaction of each of the following conditions, unless waived
+in writing by the parties:
+
+     - no governmental entity will have initiated proceedings to restrain or
+       prohibit the merger or force rescission of the merger agreement;
+
+     - any applicable waiting period under the Hart Scott Rodino Antitrust
+       Improvements Act of 1976 must have been terminated with respect to the
+       merger and the transactions contemplated by the agreement;
+
+     - DTM shareholder approval of the merger (if required) must have been
+       obtained;
+
+     - all governmental consents, orders and approvals required to complete the
+       merger and the transactions contemplated by the merger agreement must
+       have been obtained;
+
+     - no law or order will have been promulgated by any governmental entity
+       (and be in effect) which declares the merger agreement invalid or
+       unenforceable in any material respect or prohibits consummation of the
+       merger or transactions contemplated by the merger agreement; and
+
+     - we will have purchased all shares of DTM common stock tendered and not
+       withdrawn.
+
+     
+Termination; Termination Fees and Expenses.
+Subject to certain limitations,
+the merger agreement and the transactions contemplated by it may, at any time
+prior to the effective time of the merger, be terminated, whether before or
+after shareholder approval of the merger:
+
+     - by mutual written consent of the parties to the merger agreement;
+
+     - by DTM or us, if (i) we do not receive the necessary financing commitment
+       to consummate the transactions contemplated by the merger agreement on or
+       prior to May 3, 2001 or (ii) we do not accept for payment the shares of
+       DTM common stock tendered pursuant to the offer within 65 days following
+       the commencement of the offer;
+
+     - by DTM or us, if any governmental entity issues a non-appealable final
+       order, decree or ruling or has taken any other action having the effect
+       of permanently restraining, enjoining or otherwise prohibiting the
+       acceptance for payment of, or payment for, shares of DTM common stock
+       pursuant to the offer or the merger;
+
+     - by us, if DTM's board of directors (i) withdraws, modifies or changes
+       (including by amendment of the Solicitation/Recommendation Statement) its
+       recommendation of the offer, the merger agreement or the merger in a
+       manner adverse to us; (ii) recommends to DTM shareholders any other
+       acquisition proposal; or (iii) fails to reaffirm publicly and
+       unconditionally its recommendation to you that you tender your shares of
+       DTM common stock in the offer within five days of our written request to
+       do so;
+
+     - by us, if the minimum condition is not satisfied by the expiration date
+       of the offer and a third party has made an acquisition proposal or a
+       group or person (other than us or parties to the tender and voting
+       agreements) becomes the beneficial owner of more than 50% of DTM's common
+       stock;
+
+     - by us, if DTM breaches any of its representations and warranties or fails
+       to perform its covenants or other agreements contained in the merger
+       agreement which give rise to the failure of the conditions in the merger
+       agreement relating to the withdrawal of DTM's board of directors'
+       recommendation of the offer, the entering into an agreement with respect
+       to an acquisition proposal, the acquisition by a third party of a 50% or
+       greater interest in DTM, and that breach or failure is incapable of being
+       cured within five business days following receipt of notice of that
+       breach or failure;
+
+     - by DTM, if there has been a material breach by us of any representation,
+       warranty, covenant or agreement set forth in the merger agreement which
+       (if susceptible of cure) has not been cured in all material respects
+       within five business days following receipt of notice of the breach; and
+
+     - by DTM, if prior to the acceptance of and payment for the shares of DTM
+       common stock pursuant to the offer, (i) DTM enters into an agreement with
+       respect to a superior proposal or DTM's board of directors recommends any
+       superior proposal and (ii) DTM pays the termination fee required by the
+       merger agreement.
+
+     
+The merger agreement provides for payment of a termination fee and
+reimbursement for actual out of pocket expenses (including, but not limited to,
+fees of legal counsel, accountants and financial and other advisors), in the
+following situations:
+
+     - if DTM terminates the merger agreement and enters into an agreement with
+       respect to a superior proposal or we terminate the merger agreement
+       because DTM's board of directors withdraws its recommendation of the
+       offer, DTM will pay us a termination fee equal to $1,025,000 plus all
+       actual out of pocket expenses but not to exceed $2,000,000 in the
+       aggregate;
+
+     - if we are not entitled to the termination fee described above, and we
+       terminate the merger agreement because DTM shareholders fail to approve
+       the merger or DTM breaches any of its representations or warranties or
+       fails to perform its covenants under the merger agreement and the breach
+       or failure gives rise to the failure of certain conditions to the offer,
+       DTM must pay us all actual out of pocket expenses up to $500,000; and
+
+     - if DTM terminates the merger agreement because we breach a representation
+       or warranty and we fail to cure that breach in the prescribed time, we
+       must pay DTM all actual out of pocket expenses up to $500,000.
+
+
+TENDER AND VOTING AGREEMENTS
+
+     General.
+We required as a condition of our entering into the merger
+agreement, that DTM Acquisition Company, L.P. and John S. Murchison, III enter
+into tender and voting agreements.
+DTM Acquisition Company and Mr. Murchison
+beneficially own an aggregate of 3,513,357 outstanding shares of DTM common
+stock (representing approximately 44.9% of the outstanding shares of DTM common
+stock on April 26, 2001, on a fully diluted basis).
+
+     
+Agreement to Tender.
+Pursuant to the tender and voting agreements, DTM
+Acquisition Company and Mr. Murchison have agreed to do the following:
+
+     - validly tender, pursuant to and in accordance with the terms of the
+       offer, as soon as practicable after commencement of the offer but in no
+       event later than ten business days after the date of commencement of the
+       offer, all DTM common stock legally or beneficially owned by them on the
+       date of the tender and voting agreements, together with any DTM common
+       stock acquired after that date; and
+
+     - not withdraw the DTM common stock so tendered, except following the
+       termination of the offer pursuant to its terms.
+
+     
+Agreement to Vote.
+During the time the tender and voting agreements are in
+effect, DTM Acquisition Company and Mr. Murchison have agreed that at any
+meeting of the shareholders of DTM or in any other circumstance in which the
+vote, consent or approval of DTM shareholders is sought, DTM
+
+Acquisition Company and Mr. Murchison will vote their shares of DTM common stock
+in the following manner:
+
+     - in favor of approval of the merger agreement and any actions required in
+       furtherance of the transactions contemplated by the merger agreement,
+       including voting their shares in favor of the election to DTM's board of
+       directors and the board of directors of each wholly-owned entity of DTM
+       of each person designated by us for nomination;
+
+     - against any action or agreement that would result in a breach of any
+       covenant, representation or warranty or any other obligation or agreement
+       of DTM under the merger agreement; and
+
+     - against certain other actions outlined in the tender and voting
+       agreements, except with our written consent.
+
+     
+DTM Acquisition Company and Mr. Murchison also have agreed not to enter
+into any agreement or understanding with any person or entity which is
+inconsistent with or violates any provisions of the tender and voting
+agreements.
+
+     
+Shareholder Capacity.
+We acknowledge that DTM Acquisition Company and Mr.
+Murchison have executed the tender and voting agreements solely in its or his
+capacity as a DTM shareholder.
+The tender and voting agreements in no way limit
+or otherwise restrict Mr. Murchison with respect to any act or omission in his
+capacity as an officer of DTM or a member of the board of directors of DTM.
+
+     
+Grant of Irrevocable Proxy.
+DTM Acquisition Company and Mr. Murchison have
+irrevocably granted to, and appointed us as their proxy and attorney-in-fact
+(with full power of substitution), to vote their DTM common stock to approve and
+vote in favor of the offer, the merger agreement and the transactions
+contemplated by the merger agreement, against an acquisition proposal and as
+otherwise contemplated by the tender and voting agreements.
+
+     
+Waiver of Appraisal Rights.
+DTM Acquisition Company and Mr. Murchison have
+waived any rights of appraisal, any rights to dissent and any similar rights
+relating to the merger and the transactions contemplated by the merger
+agreement.
+
+     
+Representations and Warranties.
+The tender and voting agreements contain
+customary representations and warranties by DTM Acquisition Company and Mr.
+Murchison to us, including among others:
+
+     - ownership and title to the DTM common stock, and the absence of liens or
+       encumbrances on the DTM common stock;
+
+     - authority to enter into and perform obligations under the tender and
+       voting agreements;
+
+     - noncontravention and enforceability;
+
+     - the absence of conflicts; and
+
+     - the absence of finder's fees.
+
+     
+Termination.
+The tender and voting agreements terminate upon the earlier to
+occur of (i) the termination of the merger agreement or (ii) the date we accept
+for payment the shares of DTM common stock of DTM Acquisition Company and Mr.
+Murchison.
+
+     CONFIDENTIALITY AGREEMENT
+
+     On March 17, 2001, we executed a confidentiality agreement with DTM.
+The
+confidentiality agreement, which supersedes a prior mutual nondisclosure
+agreement between DTM and us dated January 25, 2000, contains customary
+provisions pursuant to which, among other things, each party agreed on behalf of
+itself and its representatives, subject to certain exceptions, to maintain the
+confidentiality to keep confidential all of the other party's nonpublic,
+confidential or proprietary information furnished to it, and to use the
+confidential information solely in connection with evaluating a business
+combination between the parties.
+In addition, both parties agreed not to
+disclose to any third parties the fact that
+
+negotiations were taking place.
+The confidentiality agreement also provides that
+for a period of two years after the termination of discussions between the
+parties, neither party shall, without the prior written consent of the other
+party, directly or indirectly solicit for hire any person currently employed by
+the other party, except under the conditions provided in the confidentiality
+agreement.
+
+     
+In addition, the confidentiality agreement contains a standstill provision
+pursuant to which, among other things, for a period of 15 months from the date
+of the confidentiality agreement, neither party nor its respective
+representatives will, in any manner:
+
+     - acquire, offer to acquire, or agree to acquire (directly or indirectly,
+       by purchase or otherwise) any voting securities of the other party or any
+       subsidiaries of the other party, or of any successor to or person in
+       control of the other party, or the material assets of the other party or
+       any subsidiary or division of the other party or of any such successor or
+       controlling person;
+
+     - make or participate, directly or indirectly, in any solicitation of
+       proxies to vote, or seek to advise or influence any person or entity with
+       respect to, the voting of any voting securities of the other party, or
+
+     - make any public announcement with respect to, or submit a proposal or
+       offer in connection with either of the foregoing.
+
+     
+These provisions will terminate in the event that:
+
+     - any third party not affiliated with either us or DTM initiates or
+       announces its intentions to initiate a tender offer or exchange offer
+       for, or otherwise proposes or agrees to acquire, our or DTM's common
+       stock or other equity interests;
+
+     - it is publicly disclosed that voting securities representing more than or
+       equal to 15% of either our or DTM's total voting power then outstanding
+       have been acquired or are proposed to be acquired by any person or group
+       not affiliated with the other party in a single transaction or a series
+       of related transactions; or
+
+     - either we or DTM enter into any agreement to merge with, or sell or
+       dispose of 50% or more of our or their, respectively, assets or earning
+       power to, any person not affiliated with that party.
+
+     
+EXCLUSIVITY AGREEMENT
+
+     Concurrently with the execution of the confidentiality agreement on March
+17, 2001, we entered into an exclusivity letter agreement with DTM pursuant to
+which DTM agreed, from such date until April 2, 2001 and subject to specified
+conditions:
+
+     - that neither DTM nor its representatives would initiate, solicit,
+       negotiate, encourage or provide confidential information to facilitate
+       any inquiries or the making of any proposal or offer that may reasonably
+       lead to an alternative transaction;
+
+     - immediately to terminate discussions and negotiations in which DTM or its
+       representatives may have been involved with respect to an alternative
+       transaction proposal; and
+
+     - to notify us promptly if DTM received any inquiries or proposals,
+       requests for information or if negotiations or discussions are sought to
+       be initiated or continued with DTM.
+
+     
+However, the agreement did not prohibit DTM from furnishing confidential
+information to, and participating in negotiations with, a person making an
+unsolicited proposal for an alternative transaction if DTM's board of directors
+reasonably determined in good faith after consultation with its legal counsel
+that the failure to furnish this information would constitute a breach of its
+fiduciary duties.
+Prior to furnishing this information to, or entering
+discussions or negotiations with, any person concerning an alternative
+transaction proposal, DTM would have been required to receive from that person
+an executed confidentiality agreement on terms not less favorable to us than the
+confidentiality agreement between us and DTM and provide written notice to us
+that DTM is furnishing this information or entering discussions
+
+with that person.
+DTM would have been required to provide us with a summary of
+the terms of the alternative transaction proposal including the identity of the
+person making the proposal.
+
+     
+If, prior to May 30, 2001, DTM's board of directors, in the exercise of its
+fiduciary duties, recommends an alternative transaction, then DTM would have
+been reimburse us for all actual, reasonable out of pocket costs and expenses,
+not to exceed $125,000, incurred by us in connection with the possible
+transaction between DTM and us.
+Under the agreement, DTM also agreed to provide
+us such information as is reasonable and mutually agreed to by the parties in
+connection with our due diligence review of DTM.
+
+     
+All obligations under the exclusivity agreement terminated when DTM and we
+signed the merger agreement.
+
+
+14.
+CERTAIN CONDITIONS TO OUR OBLIGATIONS.
+
+     
+We are not be required to accept for payment or, subject to any applicable
+rules and regulations of the SEC, including Rule 14e-1(c) under the Exchange
+Act, pay for, and we may postpone the acceptance for payment of and payment for
+any shares of tendered DTM common stock, and may terminate or amend the offer if
+as of the expiration of the offer:
+
+     - at least 67% of the shares of DTM common stock on a fully diluted basis
+       has not been validly tendered, or if validly tendered, not withdrawn;
+
+     - any approvals and consents required by the merger agreement are not
+       obtained; or
+
+     - at any time on or after April 2, 2001 and prior to the acceptance for
+       payment for the DTM common stock, any of the following events occur or
+       are determined to have occurred by us:
+
+       - any action, law or order is enacted or entered into, issued or
+         instituted or promulgated, or threatened by any governmental entity:
+
+           (1) challenging or seeking to prohibit, make illegal or materially
+               delay or increase the cost of making of the offer, accepting for
+               payment of, or payment for, any DTM common stock by us or any of
+               our affiliates, consummating any other transaction contemplated
+               by the merger agreement, or seeking to obtain material damages in
+               connection with the offer, the merger or any transaction
+               contemplated by the merger agreement;
+
+            (2) seeking to prohibit or limit materially the ownership or
+                operation by us or DTM and any of its subsidiaries of all or any
+                material portion of the business or assets of DTM and its
+                subsidiaries, or to compel DTM or its subsidiaries or us to
+                dispose of or hold separate all or any portion of the business
+                or assets of DTM, 3D Systems or any of their respective
+                subsidiaries, as a result of the offer, the merger or any of the
+                transactions contemplated by the merger agreement;
+
+            (3) seeking to impose limitations on our ability to exercise
+                effectively full rights of ownership of any DTM common stock;
+
+            (4) seeking to require divestiture by 3D Systems or any of its
+                affiliates of any shares of DTM common stock; or
+
+            (5) which otherwise has a material adverse effect on DTM;
+
+       - any law or order or any action by any governmental entity that is
+         reasonably likely to result in any of the consequences referred to
+         above;
+
+       - there occurs:
+
+            (1) any general suspension of trading in, or limitation on prices
+                for, securities on any national securities exchange or in the
+                Nasdaq SmallCap Market System;
+
+            (2) a declaration of a banking moratorium or any suspension of
+                payments in respect of banks in the United States;
+
+            (3) a commencement of a war, armed hostilities or other
+                international or national calamity directly or indirectly
+                involving the United States;
+
+            (4) any limitation by any United States or foreign governmental
+                authority on the extension of credit by banks or other financial
+                institutions;
+
+            (5) a change in general financial, bank or capital market conditions
+                which materially adversely affects the ability of financial
+                institutions in the United States to extend credit or syndicate
+                loans; or
+
+            (6) in the case of any of the conditions described in clauses (1)
+                through (5) existing at the time of commencement of the offer, a
+                material acceleration or worsening of that condition;
+
+       - a material adverse change (as defined in the merger agreement) in the
+         consolidated financial condition, business, or results of operation of
+         DTM and its subsidiaries, taken as a whole;
+
+       - the public disclosure that the beneficial ownership (determined under
+         Rule 13d-3(e) of the Exchange Act) of 50% or more of the outstanding
+         DTM common stock has been acquired by any person or entity other than
+         us, except for any person or entity having that beneficial ownership as
+         of April 2, 2001 (the date of the merger agreement);
+
+       - DTM's board of directors:
+
+               (1) withdraws, modifies or changes its recommendation of the
+                   offer, the merger agreement or the merger in a manner adverse
+                   to 3D Systems;
+
+               (2) recommends to DTM shareholders any acquisition proposal; or
+
+               (3) fails to reaffirm publicly and unconditionally its
+                   recommendation to DTM shareholders that they tender their
+                   shares of DTM common stock in the offer, which public
+                   reaffirmation must be made within five days after 3D Systems'
+                   written request of such reaffirmation.
+
+       - entering into a definitive agreement or written agreement in principle
+         by DTM with a third party with respect to an acquisition proposal (as
+         such term is defined in the merger agreement); or
+
+       - DTM's board of directors or any committee of DTM's board of directors
+         resolves to do any of the preceding three actions;
+
+       - any of the representations and warranties of DTM set forth in the
+         merger agreement with respect to capitalization and subsidiaries are
+         not true and correct;
+
+       - any of the other representations and warranties of DTM set forth in the
+         merger agreement are not true and correct except where the failure to
+         be so true and correct would not reasonably be expected to have a
+         material adverse effect on DTM;
+
+       - DTM fails to perform or comply in any material respect with any
+         material obligation, agreement or covenant to be performed or complied
+         with by it under the merger agreement and that breach is not cured
+         within five business days following receipt by DTM of written notice of
+         that breach;
+
+       - the merger agreement is terminated in accordance with its terms or we
+         and DTM reach an agreement to terminate the offer or merger agreement;
+         or
+
+       - 3D Systems does not obtain all financing necessary to fund all
+         financial obligations arising in connection with the consummation of
+         the offer, the merger and other transactions contemplated by the merger
+         agreement.
+
+     
+The above conditions are for our benefit and may be asserted by us
+regardless of the circumstances giving rise to any of the conditions and, other
+than the conditions relating to the minimum condition and the receipt of all
+necessary permits and consents, which require the written consent of DTM to be
+waived, may be waived by us, in whole or in part, at any time.
+The failure by us
+to exercise any of the foregoing rights will not be deemed a waiver of any right
+and each right will be deemed an ongoing right which may be asserted at anytime.
+
+15.
+LEGAL MATTERS.
+
+     
+General.
+Except as set forth in this Section 15, we are not aware of any
+approval or other action by any governmental or administrative agency which
+would be required for the acquisition or ownership of DTM common stock as
+contemplated by the merger agreement.
+Should any approval or other action be
+required, it will be sought, but we have no current intention to delay the
+purchase of DTM common stock tendered pursuant to the offer pending the outcome
+of any such matter, subject, however, to our right to decline to purchase DTM
+common stock if any of the conditions specified in Section 14  -- "Conditions to
+Our Obligations" have occurred.
+We cannot assure you that any approval or other
+action, if needed, would be obtained or would be obtained without substantial
+conditions, or that adverse consequences might not result to DTM's business or
+that parts of DTM's business might not have to be disposed of if any of these
+approvals were not obtained or other action taken.
+
+     
+Appraisal Rights.
+Appraisal rights are not available in connection with the
+offer.
+Shares of DTM common stock issued and outstanding immediately prior to
+the effective time of the merger and which are (1) held by holders of DTM common
+stock who have not voted in favor of the merger or consented to the merger in
+writing and (2) who have demanded properly in writing payment of the fair market
+value of their DTM common stock in accordance with Texas law, will be cancelled
+and terminated and will represent solely the right to receive payment from the
+surviving corporation of the fair market value of the DTM common stock held by
+them in accordance with the provisions of Texas law.
+Those rights to dissent, if
+the statutory procedures are complied with, could lead to a judicial
+determination of the fair value of the DTM common stock immediately before the
+effective time of the merger (excluding any appreciation or depreciation in
+anticipation of the merger unless exclusion would be inequitable), required to
+be paid in cash to those dissenting shareholders for their DTM common stock.
+In
+addition, the dissenting shareholders would be entitled to receive payment of
+interest, beginning 91 days after the date of consummation of the merger to the
+date of such judgment, on the amount determined to be the fair value of their
+DTM common stock.
+
+     
+However, if you have failed to exercise or effectively have withdrawn or
+lost your rights for an appraisal of your shares under Texas law you will then
+have your shares deemed to be cancelled and terminated, as of the effective time
+of the merger, and the shares will represent solely the right to receive the
+offer price as provided in the merger agreement, upon surrender of your
+certificate or certificates in the manner provided in the merger agreement.
+
+     
+DTM will provide us the following concerning any demand for appraisal:
+
+     - any written objection to the merger and notice of exercise filed with DTM
+       prior to the taking of any vote or written consent of the shareholders;
+
+     - prompt notice of any demands for appraisal received by DTM, withdrawals
+       of such demands, and any other instruments served pursuant to Texas law
+       and received by DTM; and
+
+     - the opportunity to direct all negotiations and proceedings with respect
+       to demands for payment of fair market value under Texas law.
+
+     
+DTM will not, except with our prior written consent, make any payment with
+respect to any demands, or offer to settle, or settle, any demands.
+
+     
+Texas State Takeover Laws.
+Article 13 of Texas law contains an
+"anti-takeover" provision which we will refer to as the Texas Business
+Combination Law.
+The Texas Business Combination Law generally
+
+prohibits an issuing public corporation from, directly or indirectly, entering
+into or engaging in a "business combination" (i.e. any merger, share exchange or
+conversion of an issuing public corporation or a subsidiary) with an "affiliated
+shareholder" during the three-year period immediately following the affiliated
+shareholder's share acquisition date unless the board of directors of the
+issuing public corporation approved of the affiliated shareholder's share
+acquisition in advance.
+One becomes an "affiliated shareholder" of a corporation
+by beneficially owning, directly or indirectly, 20% or more of the outstanding
+voting shares of the issuing public corporation.
+Pursuant to Article 13.02.A.(3)
+of the TBCA, a person or entity (and its affiliates and associates) will be
+considered a "beneficial owner" of shares owned by another person or entity if
+there is any written or other agreement, arrangement or understanding for the
+purpose of acquiring, holding, voting or disposing of the shares.
+However, on
+April 2, 2001, DTM's board of directors approved of us becoming affiliated
+shareholders and approved the offer and the merger and the other transactions
+contemplated by those agreements, and, by doing so, made the Business
+Combination Law inapplicable to the offer, the merger and the transactions
+contemplated by those agreements.
+
+     
+Other State Takeover Laws.
+A number of other states have adopted laws and
+regulations applicable to attempts to acquire securities of corporations which
+are incorporated, or have substantial assets, shareholders, principal executive
+offices or principal places of business, or whose business operations otherwise
+have substantial economic effects, in such states.
+In 1982, in Edgar v. MITE
+Corp., the U.S. Supreme Court invalidated on constitutional grounds the Illinois
+Business Takeover Statute, which made takeovers of corporations meeting certain
+requirements more difficult.
+However, in 1987, in CTS Corp. v. Dynamics Corp. of
+America, the U.S. Supreme Court held that the State of Indiana may
+constitutionally disqualify a potential acquiror from voting on the affairs of a
+target corporation without the prior approval of the remaining shareholders.
+The
+state law before the U.S. Supreme Court was by its terms applicable only to
+corporations that had a substantial number of shareholders in the state and were
+incorporated there.
+Subsequently, a number of federal courts have ruled that
+various state takeover statutes were unconstitutional insofar as they apply to
+corporations incorporated outside the state of enactment.
+
+     
+DTM conducts business in a number of states throughout the United States,
+some of which have enacted takeover laws.
+We do not know whether any of these
+laws will, by their terms, apply to the offer or the merger, and we have not
+attempted to comply with any of those laws.
+Should any person seek to apply any
+state takeover law, we will take such action as then appears desirable, which
+may include challenging the validity or applicability of any such statute in
+appropriate court proceedings.
+In the event it is asserted that one or more
+state takeover laws is applicable to the offer or the merger, and an appropriate
+court does not determine that those laws are inapplicable or invalid as applied
+to the offer, we might be required to file certain information with, or receive
+approvals from, the relevant state authorities.
+In addition, if enjoined, we
+might be unable to accept for payment any DTM common stock tendered pursuant to
+the offer, or be delayed in continuing or consummating the offer and the merger.
+
+In such case, we may not be obligated to accept for payment any DTM common stock
+tendered.
+See Section 14 -- "Conditions to Our Obligations" for more detailed
+information.
+
+     
+Antitrust.
+Under the Hart-Scott-Rodino Antitrust Improvements Act of 1976,
+as amended, or "HSR," and the related rules promulgated by the Federal Trade
+Commission, or the "FTC," some acquisition transactions may not be consummated
+unless information has been furnished to the Antitrust Division of the
+Department of Justice and the FTC and waiting period requirements have been
+satisfied.
+The purchase of DTM common stock pursuant to the offer and the
+subsequent merger are not subject to these requirements.
+
+  
+Foreign Filings.
+We and DTM each conduct operations in a number of foreign
+jurisdictions where regulatory filings or approvals may be required or desirable
+in connection with the offer.
+We and DTM are currently in the process of
+analyzing whether filings or approvals are in fact required or desirable in
+certain of these jurisdictions and, where necessary, the parties intend to make
+those filings.
+It is possible that one or more of those filings may not be made,
+or one or more of those approvals, which are not as a matter of law or practice
+required to be obtained prior to consummation of the merger, may not be obtained
+prior to consummation of the merger.
+
+     
+Class Action Lawsuit.
+On April 6, 2001 a purported class action lawsuit was
+filed in the 200th Judicial District Court of Travis County, Austin, Texas,
+naming as defendants DTM, some of DTM's directors and 3D Systems.
+The complaint
+asserts that the $5.80 cash consideration to be paid in the merger is inadequate
+and does not represent the value of the assets and the future prospects of DTM.
+
+The complaint also alleges that the individual defendants breached their
+fiduciary obligations to the public shareholders of DTM in approving the merger
+agreement.
+
+     
+The complaint seeks, among other things, preliminary and permanent
+injunctive relief prohibiting DTM from consummating the merger, and if the
+merger is consummated, an order rescinding the merger and awarding damages to
+the purported class.
+The complaint also seeks unspecified damages, attorney fees
+and other relief.
+We have not been served with the complaint.
+None of the
+defendants has filed an answer to the complaint.
+
+
+16.
+FEES AND EXPENSES.
+
+     
+Neither we, nor any of our officers, directors, shareholders, agents or
+other representatives, will pay any fees or commissions to any broker, dealer or
+other person (other than the Information Agent) for soliciting tenders of DTM
+common stock pursuant to the offer.
+We will reimburse brokers, dealers,
+commercial banks and trust companies and other nominees, upon request, for
+customary mailing and handling expenses incurred by them in forwarding materials
+to their customers.
+
+     
+We have retained A.G. Edwards & Sons, Inc., as dealer manager, Georgeson
+Shareholder Communications Inc., as information agent, and U.S. Stock Transfer
+Corporation, as depositary, in connection with the offer.
+A.G. Edwards has
+provided certain financial advisory services to us in connection with the
+proposed acquisition of DTM.
+We have agreed to pay A.G. Edwards a fee of (a)
+$150,000, which became payable upon the delivery of the fairness opinion by A.G.
+Edwards to us and (b) approximately $720,000, which will become payable once the
+acquisition is completed, against which the fee paid pursuant to (a) above will
+be credited.
+In addition, we have agreed to reimburse A.G. Edwards for all of
+its reasonable out-of-pocket expenses, including attorney and other professional
+fees, travel, document procurement and computer services, and to indemnify A.G.
+Edwards and certain related persons against certain liabilities and expenses,
+including certain liabilities under the federal securities laws.
+The dealer
+manager and information agent may contact holders of shares of DTM common stock
+by personal interview, mail, telephone, and other methods of electronic
+communication and may request brokers, dealers, commercial banks, trust
+companies and other nominees to forward the offer materials to beneficial
+holders.
+The information agent and the depositary will receive reasonable and
+customary compensation for their services and, together with the dealer manager,
+reimbursement for their reasonable out-of-pocket expenses.
+The dealer manager,
+the information agent and the depositary will also be indemnified by us against
+specified liabilities in connection with the offer.
+
+
+17.
+MISCELLANEOUS.
+
+     
+We are not aware of any jurisdiction where the making of the offer is
+prohibited by any administrative or judicial action pursuant to any valid state
+statute.
+If we become aware of any valid state statute prohibiting the making of
+the offer or the acceptance of the DTM common stock, we will make a good faith
+effort to comply with that state statute.
+If, after a good faith effort, we
+cannot comply with the state statute, the offer will not be made to, nor will
+tenders be accepted from or on behalf of, the holders of the DTM common stock in
+that state.
+
+     
+NO PERSON HAS BEEN AUTHORIZED TO GIVE ANY INFORMATION OR MAKE ANY
+REPRESENTATION ON OUR BEHALF OTHER THAN AS CONTAINED IN THIS DOCUMENT OR IN THE
+LETTER OF TRANSMITTAL
+AND, IF ANY INFORMATION OR REPRESENTATION IS GIVEN OR
+MADE, IT SHOULD NOT BE RELIED UPON AS HAVING BEEN AUTHORIZED.
+
+     
+We have filed with the SEC (1) a Schedule TO, together with all exhibits,
+pursuant to Section 14(d)(1) of the Exchange Act and Rule 14d-3, furnishing
+certain information with respect to the
+
+offer and (2) a Schedule 13D, pursuant to Section 13(d)(1) of the Exchange Act.
+
+In addition, DTM has filed with the SEC a Solicitation/Recommendation Statement,
+together with exhibits, pursuant to Rule 14d-9 of the Exchange Act, setting
+forth the recommendations of DTM's board of directors with respect to the offer
+and the reasons for such recommendations and furnishing certain additional
+related information.
+The schedule TO, Schedule 13D and
+Solicitation/Recommendation Statement, and any amendments thereto, including
+exhibits, may be examined and copies may be obtained from the SEC in the same
+manner as set forth in Section 8 -- "Information Concerning DTM" (except that
+they will not be available at the regional offices of the SEC).
+
+                                          
+TIGER DEALS, INC.
+
+April 30, 2001
+
+                                                                      SCHEDULE
+I
+
+                      DIRECTORS AND EXECUTIVE OFFICERS OF
+                  3D SYSTEMS CORPORATION AND TIGER DEALS, INC.
+
+     1.
+Directors and Executive Officers of 3D Systems Corporation.
+The
+following table sets forth the name, business address and present principal
+occupation or employment and material occupations, positions, offices or
+employments for the past five years of each director and executive officer of 3D
+Systems Corporation.
+Unless otherwise indicated, each person is a citizen of the
+United States, and each occupation set forth opposite an individual's name
+refers to employment with 3D Systems Corporation.
+Neither 3D Systems Corporation
+nor any of the individuals listed below has been convicted in a criminal
+proceeding in the past five years.
+In addition, neither 3D Systems Corporation
+nor any of the individuals listed below was a party to any judicial or
+administrative proceeding during the past five years that resulted in a
+judgment, decree or final order enjoining that person from future violations of,
+or prohibiting activities subject to federal or state securities laws, or a
+finding of any violation of federal and state securities laws.
+
+                                                                      
+INDIVIDUAL PRINCIPAL OCCUPATION OR
+    NAME AND BUSINESS ADDRESS                   OFFICE                     EMPLOYMENT (PRESENT/PAST)
+    
+-------------------------                   ------                
+----------------------------------
+
+Brian K. Service..................  
+President & Chief Executive      Mr. Service has been President and
+  c/o 3D Systems Corporation        Officer, Director                Chief Executive Officer since
+  26081 Avenue Hall Valencia, CA                                     September 1999 and, since October
+  91355                                                              1999, has also served as President
+                                                                     and Chief Executive Officer of 3D
+                                                                     California.
+Mr. Service is a
+                                                                     Principal of Regent Pacific
+                                                                     Management Corporation, or "Regent
+                                                                     Pacific," an international turnaround
+                                                                     management firm, and he provides
+                                                                     services to 3D Systems Corporation
+                                                                     pursuant to an agreement between 3D
+                                                                     Systems Corporation and Regent
+                                                                     Pacific.
+Prior to Regent Pacific, Mr.
+                                                                     Service served as Chief Executive
+                                                                     Officer of Salmond Smith Biolab, Ltd.
+                                                                     Prior to that, he was Chief Executive
+                                                                     Officer of Milk Products, Inc.
+Mr.
+                                                                     Service also has been a director of
+                                                                     Visual Data Corp. since July 1997 and
+                                                                     a director of EDNet since August
+                                                                     1998.
+
+Charles W. Hull...................  Executive Vice President &       Mr. Hull has served as Chief
+  c/o 3D Systems Corporation 26081  Chief Technology Officer,        Technology Officer since April 1997
+  Avenue Hall Valencia, CA 91355    Director                         and, as of May 3, 2000, as Executive
+                                                                     Vice President and member of the
+                                                                     Office of the Chief Executive
+                                                                     Officer.
+Mr. Hull also has served as
+                                                                     Vice Chairman of the board of
+                                                                     directors, President and Chief
+                                                                     Operating Officer.
+From March 1986
+                                                                     until April 1997, Mr. Hull also
+                                                                     served as President of 3D California.
+                                                                     
+From February to June 1999 Mr. Hull
+                                                                     acted as a consultant to 3D Systems
+                                                                     Corporation.
+
+                                       
+I-1
+
+                                                                      INDIVIDUAL PRINCIPAL OCCUPATION OR
+    NAME AND BUSINESS ADDRESS                   OFFICE                     EMPLOYMENT (PRESENT/PAST)
+    
+-------------------------                   ------                
+----------------------------------
+
+  E. James Selzer.................  Chief Financial Officer & Vice   Mr. Selzer served as Vice President,
+    c/o 3D Systems Corporation      President, Finance               Finance from April 2000, when he
+    26081 Avenue Hall                                                joined 3D Systems Corporation, to
+    Valencia, CA 91355                                               November 2000, at which time he was
+                                                                     promoted to Chief Financial Officer
+                                                                     and Vice President, Finance, and
+                                                                     continues to serve in those
+                                                                     positions.
+From January 1999 to March
+                                                                     2000, Mr. Selzer was a partner in the
+                                                                     financial consulting firm of
+                                                                     Whitewolf Partners, LLP where he
+                                                                     served as a consultant to several
+                                                                     companies, including 3D Systems
+                                                                     Corporation.
+From January 1998 to
+                                                                     January 1999, he served as Chief
+                                                                     Financial Officer of Pico Products,
+                                                                     Inc.
+Prior to that, from May 1994 to
+                                                                     January 1998, Mr. Selzer was a senior
+                                                                     associate with Jay Alix & Associates,
+                                                                     a turnaround management firm.
+
+Martin E. McGough.................  
+Sr. Vice President of            Mr. McGough has served as Senior Vice
+  c/o 3D Systems Corporation        Development & Operations         President of Development and
+  26081 Avenue Hall                                                  Operations since May 2000.
+Mr.
+  Valencia, CA 91355                                                 McGough served as Vice President and
+                                                                     Worldwide Operations Manager from
+                                                                     September 1997 to May 2000, after
+                                                                     joining 3D Systems Corporation in
+                                                                     January of 1997 and was responsible
+                                                                     for manufacturing and operations, as
+                                                                     well as worldwide field service.
+Mr.
+                                                                     McGough was formerly with Maxtor
+                                                                     Corporation where he held the
+                                                                     position of Senior Director of
+                                                                     Strategic Commodities.
+Prior to
+                                                                     Maxtor, he held management positions
+                                                                     in Operations, Marketing, Program
+                                                                     Management and other manufacturing
+                                                                     and materials positions.
+
+Grant R. Flaharty.................  
+Sr. Vice President of Worldwide  Mr. Flaharty has served as Senior
+  c/o 3D Systems Corporation        Sales & Marketing                Vice President of Worldwide Sales &
+  26081 Avenue Hall                                                  Marketing since May 2000 and is
+  Valencia, CA 91355                                                 responsible for European operations.
+                                                                     
+Effective January 2001, Mr.
+                                                                     Flaharty's duties include worldwide
+                                                                     field service also.
+Mr. Flaharty
+                                                                     served as VP, General Manager, 3D
+                                                                     Systems Europe, from September 1999
+                                                                     to May 2000 after joining 3D Systems
+                                                                     as Worldwide Controller in April of
+                                                                     1998.
+He was formerly with Qualcomm,
+                                                                     Inc., a developer of wireless
+                                                                     communications products, as Director
+                                                                     of Manufacturing Finance.
+Prior to
+                                                                     Qualcomm, he was with Motorola, Inc.
+                                                                     as Operations Controller.
+
+                                       
+I-2
+
+                                                                      INDIVIDUAL PRINCIPAL OCCUPATION OR
+    NAME AND BUSINESS ADDRESS                   OFFICE                     EMPLOYMENT (PRESENT/PAST)
+    
+-------------------------                   ------                
+----------------------------------
+
+Karen M. Shotting.................  Vice President, General Counsel  Ms. Shotting has been General Counsel
+  c/o 3D Systems Corporation        & Corporate Secretary            since May 2000, and in April 2001 was
+  26081 Avenue Hall                                                  named Vice President and Corporate
+  Valencia, CA 91355                                                 Secretary.
+Ms. Shotting was Director,
+                                                                     Worldwide Tax from July 1998 to May
+                                                                     2000.
+She also served as Associate
+                                                                     General Counsel from May 1999 to May
+                                                                     2000.
+She was formerly with FHP
+                                                                     International Corporation, from
+                                                                     October 1986 to April 1997, where she
+                                                                     was in charge of the tax department,
+                                                                     first as Director and finally as Vice
+                                                                     President.
+
+Gary J. Sbona.....................  
+Director                         Mr. Sbona is Chairman and Chief
+  c/o 3D Systems Corporation                                         Executive Officer of Regent Pacific,
+  26081 Avenue Hall                                                  which he founded in 1974.
+Mr. Sbona
+  Valencia, CA 91355                                                 currently serves as Chairman and
+                                                                     Chief Executive Officer of the
+                                                                     following companies: Verity, Inc., a
+                                                                     software company, specializing in
+                                                                     knowledge retrieval technology;
+                                                                     Auspex Systems, Inc., a provider of
+                                                                     network attached storage solutions;
+                                                                     and Accelerated Networks, Inc., a
+                                                                     provider of broadband access
+                                                                     solutions for communications service
+                                                                     providers.
+Mr. Sbona is also a
+                                                                     frequent speaker on the subject of
+                                                                     management of turnarounds and has
+                                                                     been a faculty member of the Banking
+                                                                     Law Institute and the Bank Lending
+                                                                     Institute since 1992.
+He is also a
+                                                                     member of the Institute of Directors.
+
+Miriam V. Gold....................  
+Director                         Ms. Gold has served as the Vice
+  c/o 3D Systems Corporation                                         President of Legal & Regulatory
+  26081 Avenue Hall                                                  Affairs and as Assistant General
+  Valencia, CA 91355                                                 Counsel of Ciba Specialty Chemicals,
+                                                                     Inc. since December 1996.
+Ms. Gold
+                                                                     was associated with Ciba-Geigy
+                                                                     Corporation, Ardsley, New York, from
+                                                                     1977 to December 1996 in various
+                                                                     capacities, including: Vice
+                                                                     President, Regulatory Affairs from
+                                                                     May 1995 to December 1996 and
+                                                                     Assistant General Counsel from 1992
+                                                                     to December 1996.
+
+Kevin S. Moore....................  
+Director                         Since 1991, Mr. Moore has been with
+  c/o 3D Systems Corporation                                         The Clark Estates, Inc., a private
+  26081 Avenue Hall                                                  investment firm, where he currently
+  Valencia, CA 91355                                                 is President and a director.

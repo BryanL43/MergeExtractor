@@ -1,0 +1,3453 @@
+URL: https://www.sec.gov/Archives/edgar/data/768262/000095014901500378/0000950149-01-500378.txt
+
+BACKGROUND OF THE OFFER
+
+     
+In the fourth quarter of 2000, the Corporate Development Group at Sybase,
+under the direction of Marty Beard, Sybase's Vice President, Corporate
+Development, researched companies offering enterprise application integration
+products and identified NEON as a potential candidate for a strategic
+relationship.
+
+     
+In December 2000, NEON engaged Credit Suisse First Boston Corporation
+("CSFB") to provide financial advisory services in connection with a possible
+business combination involving NEON.
+In December 2000 and January 2001, CSFB and
+officers of NEON contacted approximately seven parties to determine their
+interest in engaging in a business combination with NEON.
+
+     
+On December 27, 2000, Mr. Beard placed a telephone call to George F. (Rick)
+
+Adam, Jr., NEON's Chairman and Chief Executive Officer, inviting Mr. Adam to
+participate in an initial discussion regarding a possible strategic
+relationship.
+
+     
+On January 1, 2001, Mr. Beard and Mr. Adam had an initial discussion by
+telephone.
+During that conversation, Mr. Beard introduced the possibility of a
+business combination transaction, and Mr. Adam expressed an interest in
+exploring such a transaction.
+
+     
+On January 3, 2001, Mr. Adam met, at Sybase's offices in Emeryville,
+California, with Mr. Beard, John S. Chen, Sybase's President and Chief Executive
+Officer, Raj Nathan, Sybase's General Manager, Internet Applications Division,
+and Billy Ho, Sybase's Vice President of Research and Development to discuss a
+possible business combination.
+At the meeting, Mr. Adam and Mr. Chen presented
+each other with strategic overviews of their respective companies and confirmed
+their mutual interest in pursuing further discussions regarding a possible
+business combination.
+
+     
+On January 12, 2001, Mr. Chen conveyed to Mr. Adam Sybase's proposed terms
+for a possible business combination involving Sybase and NEON.
+
+     
+On January 15, 2001, NEON's board of directors authorized NEON to continue
+discussions with Sybase regarding a possible business combination.
+
+     
+On January 16, 2001, at the direction of Mr. Adam, CSFB contacted Mr. Chen
+to express NEON's desire to continue discussions regarding a potential business
+combination.
+At this time, Mr. Chen expressed Sybase's desire to continue
+discussions as well.
+
+     
+On January 17, 2001 NEON and Sybase entered into a mutual nondisclosure
+agreement pursuant to which they agreed to exchange confidential information
+regarding their respective businesses.
+
+     
+On January 19, 2001, Mr. Adam, Dr. Patrick Fortune, NEON's President and
+Chief Operating Officer, Stephen Webb, NEON's Chief Financial Officer, and Peter
+Hoversten, NEON's Chief Technology Officer, met with Pieter Van der Vorst,
+Sybase's Chief Financial Officer, Mr. Beard and Mark Wilson, Sybase's Senior
+Director, Corporate Development, in San Francisco, California to review
+strategic, financial, product and operational information about NEON, and to
+continue discussions regarding the merits of a business combination.
+That night,
+Mr. Adam and Mr. Chen continued discussions of a possible business combination.
+
+     
+On January 22, 2001, Merrill Lynch & Co. ("Merrill Lynch") was engaged to
+act as Sybase's financial advisor in connection with a possible transaction with
+NEON.
+
+     
+On January 24, 2001, Merrill Lynch began its due diligence review of NEON,
+which continued through the signing of the reorganization agreement.
+
+Representatives of Merrill Lynch met with
+
+representatives of NEON management at NEON's offices in Englewood, Colorado to
+review background historical information on NEON's strategy, products and
+financial and operational performance.
+
+     
+On January 26, 2001, Sybase transmitted a proposed term sheet and certain
+ancillary documents to NEON.
+
+     
+On January 27, 2001, Mr. Adam notified Mr. Beard that NEON was interested
+in continuing discussions with Sybase regarding a possible business combination.
+
+     
+On January 30 and 31, 2001, several discussions took place among
+representatives of Sybase, Merrill Lynch, CSFB and NEON with respect to the
+proposed financial terms of the business combination transaction.
+
+     
+On February 1, 2001, NEON retained Cooley Godward LLP to act as its outside
+legal counsel in connection with the possible business combination transaction.
+
+Later that evening, management of the two companies agreed to continue
+discussions regarding a business combination transaction and directed their
+outside legal counsel to commence negotiation of a definitive reorganization
+agreement.
+
+     
+On February 5, 2001, representatives from Sybase, Wilson Sonsini Goodrich &
+Rosati, Professional Corporation, outside legal counsel to Sybase, and Ernst &
+Young LLP, independent accountants to Sybase, began their due diligence review
+of NEON which continued through the signing of the reorganization agreement.
+
+     
+Between February 5 and February 7, 2001, Mr. Adam, Dr. Fortune, Mr. Webb,
+Mr. Hoversten, Fred Horn, NEON's Executive Vice President of Operations, Leonard
+Goldstein, NEON's Senior Vice President, Senior Counsel and Secretary, Leslie
+Lundberg, NEON's Vice President of Human Resources, Brian Duff, NEON's
+Controller, and other members of NEON management met with Mr. Van der Vorst, Mr.
+Beard, Mr. Nathan, Dan Carl, Sybase's General Counsel, Pamela George, Sybase's
+Vice President of Marketing, Nita White-Ivy, Sybase's Vice President of Human
+Resources, and other members of Sybase management, at the offices of Cooley
+Godward in San Francisco, California.
+During these meetings, the parties
+discussed the business, financial condition and organization of the two
+companies.
+Simultaneously, Scott Powell, NEON's Group President of Engineering,
+and Mr. Ho met in Denver, Colorado, to discuss both companies' product
+architecture and specifications.
+
+     
+On February 6, 2001, the NEON board of directors held a special telephonic
+meeting to discuss the potential business combination.
+Members of NEON's
+management and representatives of CSFB explained the background and status of
+the negotiations.
+At this meeting, representatives of Cooley Godward reviewed
+the responsibilities of the board of directors in considering the proposed
+business combination transaction.
+The NEON board of directors discussed the
+strategic rationale for a proposed business combination and authorized
+management to continue negotiations with Sybase.
+Later that evening, Wilson
+Sonsini Goodrich & Rosati delivered drafts of the reorganization agreement and
+related agreements to Cooley Godward.
+
+     
+From February 9, 2001 through February 20, 2001, negotiations on the terms
+of the reorganization agreement and related agreements continued among Sybase,
+NEON and their respective legal counsel and financial advisors.
+These
+negotiations covered all aspects of the transaction, including, among other
+things, the representations and warranties made by the parties, the restrictions
+on the conduct of their businesses, the conditions to completion of the offer
+and the merger, the provisions regarding termination, the details of the "no
+shop" clause, the amount, triggers and payment of the termination fee and the
+consequences of termination, and the delivery and terms of the stockholder
+agreements.
+During this period, executive officers of NEON who were asked to
+enter into employment and non-competition agreements and agreements amending
+certain change of control severance agreements negotiated the terms of these
+agreements with Sybase.
+
+     
+On February 14, 2001, the NEON board of directors held a special telephonic
+meeting during which the NEON board of directors discussed the proposed business
+combination with Sybase.
+Mr. Adam reviewed the background of NEON's discussions
+with Sybase as well as the current status of negotiations
+
+and reviewed the terms of the proposed business combination transaction.
+
+Representatives of CSFB reviewed the financial terms of the transaction as
+proposed at that time.
+In addition, representatives of Cooley Godward outlined
+the board's fiduciary duties and other applicable legal principles in the
+context of business combination transactions and reviewed the reorganization
+agreement and stockholder agreements and related matters.
+The NEON board of
+directors discussed the strategic, business and financial merits and the timing
+of a possible transaction with Sybase and the terms of Sybase's proposal, and
+directed management to continue negotiations with Sybase.
+
+     
+From February 12, 2001 to February 14, 2001, Mr. Chen, Mr. Van der Vorst,
+Mr. Beard and representatives of Merrill Lynch had several conversations with
+the individual members of the Sybase board of directors regarding the proposed
+business combination with NEON, including the strategic rationale for the
+transaction and the proposed financial and other transaction terms.
+
+     
+On February 15, 2001, the Sybase board of directors met and reviewed the
+proposed transaction terms and the results of Sybase's due diligence
+investigation.
+Representatives of Merrill Lynch and Wilson Sonsini Goodrich &
+Rosati also participated.
+The Sybase board of directors received a presentation
+from its financial advisor, Merrill Lynch, concerning the transaction.
+
+Representatives of Wilson Sonsini Goodrich & Rosati reviewed the proposed
+principal terms of the reorganization agreement and outlined the legal
+principles applicable to the Sybase board of directors' consideration and
+approval of the proposed transaction.
+The Sybase board of directors, by
+unanimous vote of the directors present and voting at the meeting, authorized
+Sybase to enter into a reorganization agreement with NEON in substantially the
+form proposed at the meeting consistent with the Sybase board of directors'
+guidance on certain open issues, including the completion of the audit of NEON's
+financial statements for the year ended December 31, 2000.
+
+     
+On February 19, 2001, a representative of Merrill Lynch telephoned a
+representative of CSFB to discuss open issues in the negotiations, including
+valuation and the potential exchange ratio.
+In addition, on February 19, 2001,
+Mr. Chen telephoned Mr. Adam to discuss open issues in the negotiations,
+including valuation and the potential exchange ratio.
+
+     
+On February 19, 2001, the NEON board of directors held a special telephonic
+meeting to review the status of negotiations and discussions with Sybase since
+the board's February 14, 2001 meeting and reviewed revised drafts of the
+reorganization agreement and related agreements.
+Representatives of CSFB and
+Cooley Godward also participated.
+Representatives of Cooley Godward reviewed
+with the NEON board of directors the main legal principles applicable to the
+proposed business combination transaction (including the board's fiduciary
+duties and authority in considering the transaction).
+Representatives of Cooley
+Godward also reviewed in detail the principal terms of the proposed
+reorganization agreement and related agreements and summarized the remaining
+open issues and responded to questions by the NEON board of directors.
+The NEON
+board of directors reviewed and discussed the principal terms of the proposed
+transaction, including the exchange ratio, closing conditions, termination
+rights, the termination fee, the stockholder agreements and NEON's ability to
+consider alternative proposals.
+Also at this meeting, CSFB reviewed with NEON's
+board of directors the financial terms of the transaction proposed at that time
+and indicated that, subject to agreement on the final exchange ratio consistent
+with the financial terms as proposed at that time, it was prepared to render an
+opinion to the NEON board of directors that, as of such date and based upon and
+subject to various considerations, the exchange ratio in the transaction was
+fair, from a financial point of view, to the holders of NEON common stock.
+After
+further deliberation, the NEON board of directors, by the unanimous vote of all
+directors present and voting at the meeting:
+
+     - determined that the reorganization agreement and the transactions
+       contemplated thereby, including the offer and the merger, are consistent
+       with and in furtherance of the long-term business strategy of NEON and
+       are advisable and are fair to and in the best interest of NEON and its
+       stockholders,
+
+     - approved and adopted the reorganization agreement and the transactions
+       contemplated thereby, including the offer and the merger and the
+       stockholder agreements and the transactions contemplated thereby,
+       together with such changes as were discussed at the meeting,
+
+     - resolved to recommend acceptance of the offer and approval and adoption
+       of the reorganization agreement by NEON's stockholders, and
+
+     - authorized Mr. Adam to execute, on behalf of NEON, the reorganization
+       agreement and such other documents that certain of NEON's officers find
+       necessary or advisable in their sole discretion, together with any
+       changes, deletions, additions and alterations that such officers approve
+       consistent with the resolutions of the NEON board of directors.
+
+     
+After the close of trading on the Nasdaq National Market on February 20,
+2001, Sybase and NEON agreed on the final exchange ratio of 0.3878 and entered
+into the reorganization agreement.
+Following agreement on the final exchange
+ratio, CSFB rendered to the NEON board of directors its written opinion that, as
+of February 20, 2001, and based upon and subject to various considerations set
+forth in its opinion, the exchange ratio in the transaction was fair, from a
+financial point of view, to the holders of NEON common stock, other than Sybase
+and its affiliates.
+CSFB was not aware of any ownership of shares of NEON common
+stock by Sybase or its affiliates.
+A copy of CSFB's opinion is included in
+NEON's Solicitation/Recommendation Statement on Schedule 14D-9, which is being
+mailed to NEON stockholders together with this prospectus.
+Stockholders should
+read CSFB's opinion carefully in its entirety.
+
+     
+Also on February 20, 2001, the directors and certain officers and
+stockholders of NEON entered into stockholder agreements with Sybase, pursuant
+to which they agreed to tender their NEON shares in the offer and vote their
+NEON shares in favor of the approval and adoption of the reorganization
+agreement.
+In addition, the directors and certain officers and stockholders of
+NEON entered into affiliate agreements with Sybase, acknowledging the
+restrictions imposed by the federal securities laws, in some instances, on their
+ability to sell Sybase shares following the completion of the offer or the
+merger, as applicable.
+In addition, certain officers of NEON also signed
+amendments to the change of control severance agreements to which such officers
+are party to, among other things, waive certain severance and other rights that
+may be triggered as a direct or indirect result of the transactions contemplated
+by the reorganization agreement.
+Messrs. Adam, Fortune, Horn and Hoversten each
+entered into employment and non-competition agreements with Sybase, effective
+upon consummation of the merger, under which they agreed not to engage in
+certain activities or make certain investments, and not to solicit Sybase
+employees, during the period of their employment by the surviving corporation
+and for eighteen months following their termination of employment with the
+surviving corporation.
+See the section entitled "Interests of NEON Officers and
+Directors in the Transaction" beginning on page 53 of this prospectus,
+specifically "-- Certain Executive Agreements" beginning on page 54 of this
+prospectus, for a further description of some of these agreements.
+
+     
+After the parties signed the reorganization agreement, Sybase issued a
+press release announcing the transaction.
+
+     
+On March 15, 2001 Neel Acquisition Corp. commenced the offer.
+
+REASONS FOR THE OFFER AND MERGER
+
+Improve our e-Business/Enterprise Application Integration Products
+
+     - We believe the combination of Sybase and NEON furthers our strategy of
+       improving and expanding our product offerings in the
+       e-business/enterprise application integration marketplace.
+This
+       marketplace is demanding the integration of new e-business applications
+       with existing and older legacy applications on the web to facilitate
+       seamless e-business.
+Enterprise application integration is one of the
+       fastest growing areas of the information technology industry and Sybase's
+       acquisition of NEON would provides us with processes, integration
+       technology, portal servers and other elements critical for our growth in
+       this area.
+
+
+Strengthen our Market Position
+
+     - We believe the combination of Sybase and NEON will strengthen our
+       position in the emerging e-business marketplace.
+Acquisition of NEON's
+       technology would broaden Sybase's e-business platform, enabling it to
+       respond to customer demand by providing products complimentary to
+       Sybase's application server, replication server and messaging middleware.
+       
+We believe an enhanced e-business platform would meet the needs of
+       customers interested in maximizing and integrating all business
+       interactions, from the consumer to suppliers and the back-office.
+
+     
+- We believe the combination of Sybase and NEON will enable us to
+       strengthen our market presence by broadening the total number of products
+       available to customers and allowing customers to develop e-business
+       solutions faster.
+
+     - NEON's strength in the manufacturing, distribution, retail and utilities
+       vertical markets should provide an opportunity for us to expand our
+       presence into those vertical markets.
+
+
+Increase Our Selling Opportunities
+
+     - We believe enterprises will increasingly demand e-business implementation
+       and integration services from one vendor.
+The combined products of Sybase
+       and NEON will allow us to meet this demand and offer our customers
+       additional products and capabilities, as well as reach new customers who
+       are seeking a broad e
+-business/enterprise application integration
+       solution.
+
+     - NEON has over 3,000 worldwide customers, mostly in the Fortune Global
+       2000, which we believe will provide opportunities for cross-selling of
+       other Sybase products.
+
+
+Improve Organizational Capabilities
+
+     - NEON had approximately 1,000 employees as of February 23, 2001.
+Many of
+       these employees, including 260 engineers, 280 consultants, and 85 sales
+       representatives, we believe will strengthen Sybase's development,
+       professional services and sales capabilities.
+
+     
+-
+We believe that the combined company's capabilities will allow us to
+       deliver new e-business solutions to the market faster, in months instead
+       of years.
+
+
+RECOMMENDATION OF THE NEON BOARD; FACTORS CONSIDERED
+
+     In approving the offer, the merger, the reorganization agreement and the
+transactions contemplated by the reorganization agreement and recommending that
+all holders of NEON shares accept the offer and tender their NEON shares
+pursuant to the offer, the NEON board of directors considered a number of
+factors, including:
+
+     - the complementary strategies and direction of NEON, a leading supplier of
+       e-business integration software and services, and Sybase, a leading
+       global provider of software solutions that help businesses manage and
+       deliver information across distributed mixed computing environments,
+       including the Internet;
+
+     - the combination of Sybase's e-business platform products and NEON's suite
+       of e-business integration products, creating a complete e-business
+       infrastructure solution for companies building on-line businesses;
+
+     - the opportunity for NEON to access Sybase's installed base of 40,000
+       customers for cross-selling opportunities, and to leverage Sybase's
+       distribution channels to drive sales of NEON's e-business integration
+       products;
+
+     - Sybase offers a more significant international presence for the
+       distribution of NEON products;
+
+     - the exchange ratio for the offer and the merger representing a premium of
+       65.2% over the closing price of the NEON common stock on the Nasdaq
+       National Market on February 16, 2001, the last
+
+       trading day prior to the NEON board's approval of the reorganization
+       agreement, as well as 80.2% and 82.5% premiums over the average of the
+       closing prices for the ten and 30 trading days, respectively, ending on
+       February 16, 2001;
+
+     - the presentations of CSFB regarding the financial terms of the proposed
+       transaction and the opinion of CSFB that, as of February 20, 2001 and
+       based upon and subject to the various considerations set forth in the
+       CSFB opinion, the exchange ratio in the transaction was fair, from a
+       financial point of view, to the holders of NEON common stock, other than
+       Sybase and its affiliates.
+A copy of the opinion is included in NEON's
+       Solicitation/Recommendation Statement on Schedule 14D-9, which is being
+       mailed to NEON stockholders together with this prospectus.
+NEON
+       stockholders should read the opinion carefully in its entirety;
+
+     - the financial and other terms of the offer, the merger and the
+       reorganization agreement, including the benefits of the transaction being
+       structured as a first-step exchange offer and second-step merger, which
+       may provide NEON's stockholders with an opportunity to receive shares of
+       Sybase common stock on an accelerated basis;
+
+     - the opportunity for the holders of the NEON shares to participate in a
+       significantly larger and more diversified company and, as stockholders of
+       the combined company, to have greater liquidity in their shares and to
+       benefit from any future growth of the combined company;
+
+     - the strengths and weaknesses of Sybase's and NEON's businesses and the
+       key attributes and opportunities of the combined company in terms of,
+       among other things, products, sales, customers, management, and financial
+       and competitive position;
+
+     - the nature of the e-business software industry and the belief of NEON's
+       board of directors that greater size and resources are increasingly
+       required for companies to successfully compete in this industry;
+
+     - the increasing competition that NEON faces from both existing and
+       potential competitors, many of which have greater assets and resources
+       than NEON, which has occurred as a result of, among other reasons, the
+       consolidation taking place in the software industry in general;
+
+     - historical information concerning Sybase's and NEON's respective
+       businesses, financial performance and condition, operations, technology,
+       management and competitive position, including public reports concerning
+       results of operations filed with the SEC;
+
+     - the consideration to be received by NEON stockholders in the offer and
+       the merger and an analysis of the market value of the Sybase common stock
+       to be issued in exchange for the NEON common stock in light of comparable
+       transactions;
+
+     - current financial market conditions and historical market prices,
+       volatility and trading information with respect to Sybase common stock
+       and the NEON common stock;
+
+     - the belief that the terms of the reorganization agreement, including the
+       parties' representations, warranties and covenants, and the conditions to
+       the parties' respective obligations, are reasonable;
+
+     - the impact of the offer and the merger on NEON's customers and employees;
+       and
+
+     - reports from management, legal advisors and financial advisors as to the
+       results of their due diligence investigation of Sybase.
+
+     
+NEON's board of directors also considered the terms of the reorganization
+agreement regarding NEON's rights to consider and negotiate other acquisition
+proposals, as well as the possible effects of the provisions regarding
+termination fees.
+In addition, NEON's board of directors noted that the offer
+and merger are expected to be a tax-free transaction.
+NEON's board of directors
+also considered various alternatives to the offer and the merger, including
+remaining as an independent company.
+NEON's board of directors believed that
+these factors, including the NEON board's review of the terms of the
+reorganization agreement, supported the board's recommendation of the offer and
+the merger when viewed
+
+together with the risks and potential benefits of the offer and the merger.
+
+NEON's board of directors also identified and considered a variety of
+potentially negative factors in its deliberations concerning the offer and the
+merger, including, but not limited to:
+
+     - the risk that the potential benefits sought in the offer and the merger
+       might not be fully realized;
+
+     - certain risks applicable to Sybase's business (see the section of this
+       prospectus under the heading "Risk Factors -- Risks Related to Our
+       Business" on page 12);
+
+     - the possibility that the offer and the merger might not be completed and
+       the effect of public announcement of the offer and the merger on NEON's
+       sales and operating results, and its ability to attract and retain key
+       technical, marketing and management personnel;
+
+     - the risk that the terms of the transaction could be dilutive to Sybase's
+       earnings and that such potential dilution could negatively impact the
+       trading price of Sybase common stock.
+
+     - the substantial charges to be incurred in connection with the offer and
+       the merger, including costs of integrating the businesses and transaction
+       expenses arising from the offer and the merger;
+
+     - the risk that despite the efforts of the combined company, key technical,
+       marketing and management personnel might not remain employed by the
+       combined company; and
+
+     - the difficulty of managing separate operations at different geographic
+       locations.
+
+     
+NEON's board of directors believed that these risks were outweighed by the
+potential benefits of the offer and the merger.
+
+     
+The NEON board of directors did not assign relative weights to the
+foregoing factors or determine that any factor was of particular importance.
+
+Rather, the NEON board of directors viewed its position and recommendations as
+being based on the totality of the information presented to and considered by
+the NEON board of directors.
+In addition, individual members of the NEON board
+of directors may have given different weights to different factors.
+
+     
+The foregoing discussion of the information and factors considered by the
+NEON board of directors is not intended to be exhaustive but is believed to
+include the material factors considered by the NEON board of directors.
+In view
+of the wide variety of factors, both positive and negative, considered by the
+NEON board of directors, the NEON board of directors did not find it practical
+to, and did not, quantify or otherwise assign relative weights to the specific
+factors considered.
+
+
+OPINION OF NEON FINANCIAL ADVISOR
+
+     On February 20, 2001, CSFB delivered its opinion to NEON's board of
+directors that, as of that date, based upon and subject to the various
+considerations set forth in the CSFB opinion, the exchange ratio in the
+transaction was fair, from a financial point of view, to holders of NEON common
+stock, other than Sybase and its affiliates.
+CSFB was not aware of any ownership
+of shares of NEON common stock by Sybase or its affiliates.
+
+     
+WE INCORPORATE BY REFERENCE THE FULL TEXT OF THE CSFB OPINION DATED
+FEBRUARY 20, 2001.
+THE FULL TEXT OF THE WRITTEN OPINION OF CSFB, WHICH SETS
+FORTH THE ASSUMPTIONS MADE, MATTERS CONSIDERED AND LIMITATIONS ON THE REVIEW
+UNDERTAKEN IN CONNECTION WITH THE OPINION IS ATTACHED AS SCHEDULE II TO NEON'S
+SOLICITATION/RECOMMENDATION STATEMENT ON SCHEDULE 14D-9, WHICH IS BEING MAILED
+TO NEON STOCKHOLDERS TOGETHER WITH THIS PROSPECTUS.
+WE URGE NEON STOCKHOLDERS TO
+READ THE OPINION IN ITS ENTIRETY AND THE DISCUSSION IN NEON'S
+SOLICITATION/RECOMMENDATION STATEMENT REGARDING THE OPINION.
+
+
+MATERIAL FEDERAL INCOME TAX CONSEQUENCES
+
+     The following discussion summarizes the material United States federal
+income tax consequences of the offer and the merger to holders of NEON shares
+who exchange their NEON shares for Sybase shares in the offer and/or the merger.
+
+This discussion and the tax opinions described below are based on the
+
+Internal Revenue Code of 1986, as amended (which we refer to as the "Code"),
+applicable Treasury regulations, administrative interpretations and court
+decisions in effect as of the date of this prospectus, all of which may change,
+possibly with retroactive effect.
+Any such change could alter the tax
+consequences described in this summary and the tax opinions.
+
+     
+This discussion of material federal income tax consequences of the offer
+and the merger is intended to provide only a general summary, and is not a
+complete analysis or description of all potential federal income tax
+consequences of the offer and/or the merger.
+It does not address all aspects of
+federal income taxation that may be important to a holder of NEON shares in
+light of that holder's particular circumstances or to a holder subject to
+special rules, such as:
+
+     - a foreign entity or an individual stockholder who is not a citizen or
+       resident of the United States;
+
+     - a financial institution or insurance company;
+
+     - a tax-exempt organization;
+
+     - a dealer or broker in securities;
+
+     - a stockholder who is subject to the alternative minimum tax provisions of
+       the Code;
+
+     - a stockholder whose shares are qualified small business stock for
+       purposes of Section 1202 of the Code;
+
+     - a stockholder who holds NEON shares as part of a hedge, appreciated
+       financial position, straddle, constructive sale or conversion
+       transaction;
+
+     - a stockholder who acquired NEON shares pursuant to the exercise of
+       incentive stock options or who holds NEON shares that are subject to a
+       substantial risk of forfeiture; or
+
+     - a stockholder who does not hold NEON shares as capital assets.
+
+     
+In addition, this discussion does not address any state, local or foreign
+income tax or non-income tax consequences of the offer and/or the merger or of
+any transactions other than the offer and the merger.
+We urge holders of NEON
+shares to consult their own tax advisors to determine the particular federal
+income tax or other tax consequences to them of participation in the offer
+and/or the merger.
+
+     
+Although there is limited authority, the offer and the merger will be
+treated for federal income tax purposes as a reorganization within the meaning
+of Section 368(a) of the Code if, among other things, all of the following
+factual assumptions (which we refer to as the supporting conditions) are met:
+
+     - the offer and the merger are completed under the current terms of the
+       reorganization agreement;
+
+     - the minimum tender condition for the offer is satisfied; and
+
+     - the merger is completed promptly after the offer.
+
+     
+The consummation of the offer is conditioned upon the receipt by Sybase and
+NEON of tax opinions to the foregoing effect from Wilson Sonsini Goodrich &
+Rosati, Professional Corporation and Cooley Godward LLP, respectively.
+These
+opinions will rely upon, and the consequences summarized below under "-- Federal
+Income Tax Consequences If the Offer and Merger Qualify As a Reorganization" are
+based upon, representations and covenants made by Sybase and NEON, and those
+contained in certificates of officers of Sybase and NEON to be delivered to tax
+counsel prior to the consummation of the offer, and upon certain assumptions,
+including the absence of changes in facts or in law between the date of the
+consummation of the offer and the effective time of the merger.
+If any of those
+representations, covenants or assumptions is inaccurate, the tax consequences of
+the offer and the merger could differ materially from those summarized below
+under "-- Federal Income Tax Consequences If the Offer and Merger Qualify As a
+Reorganization."
+In addition, the ability to satisfy the supporting conditions,
+and therefore the federal income tax consequences of the offer and the merger,
+depend in part on facts that will not be available before the completion of the
+merger.
+There can be no assurance that the merger will be completed, or that the
+supporting conditions will be satisfied.
+If the supporting conditions are not
+satisfied, the opinions of
+
+Cooley Godward and Wilson Sonsini Goodrich & Rosati described above may not be
+relied upon.
+Furthermore, Cooley Godward's and Wilson Sonsini Goodrich &
+Rosati's opinions will neither bind the IRS nor preclude the IRS or the courts
+from adopting a contrary position.
+NEON stockholders should be aware that
+neither the IRS nor any court has ruled on the tax treatment of a combination of
+transactions identical to the offer and the merger and no ruling has been or
+will be requested from the IRS in connection with the offer and the merger.
+
+Accordingly, it is possible that the offer and/or the merger may not qualify as
+a reorganization, and the tax consequences of the offer and the merger could
+differ materially from those summarized below under "-- Federal Income Tax
+Consequences If the Offer and Merger Qualify As a Reorganization."
+See
+"-- Federal Income Tax Consequences If the Offer and Merger Do Not Qualify As a
+Reorganization.
+"
+
+     Federal Income Tax Consequences If the Offer and Merger Qualify As a
+Reorganization.
+Assuming that the offer and the merger qualify as a tax-free
+reorganization, for federal income tax purposes:
+
+     - A holder of NEON shares will not recognize any gain or loss on its
+       exchange in the offer or the merger of its NEON shares for Sybase shares.
+
+     - If a holder of NEON shares receives cash instead of a fraction of a
+       Sybase share, the holder will be required to recognize capital gain or
+       loss, measured by the difference between the amount of cash received
+       instead of that fraction of a share and the portion of the tax basis of
+       that holder's NEON shares allocable to that fraction of a share.
+This
+       gain or loss will be long-term capital gain or loss if the holder has
+       held the NEON shares exchanged for that fraction of a Sybase share for
+       more than one year at the time such NEON shares are accepted in the offer
+       or at the effective time of the merger, as the case may be.
+The
+       deductibility of capital losses is subject to limitations for both
+       individuals and corporations.
+
+     
+- A holder of NEON shares will have a tax basis in the Sybase shares
+       received in the offer or the merger equal to (1) the tax basis in the
+       NEON shares surrendered by that holder in the offer or merger, reduced by
+       (2) any tax basis in such NEON shares that is allocable to a fraction of
+       a Sybase share for which cash is received.
+
+     - The holding period for Sybase shares received in exchange for NEON shares
+       in the offer or the merger will include the holding period for NEON
+       shares surrendered in the offer or the merger.
+
+     - Under specified circumstances, holders of NEON shares may be entitled to
+       appraisal rights in connection with the merger.
+See "-- Purpose of the
+       Offer; The Merger; Appraisal Rights" below.
+If appraisal rights are
+       available and a holder of NEON shares receives cash pursuant to the
+       exercise of appraisal rights, such holder will recognize gain or loss,
+       measured by the difference between the amount realized and such holder's
+       tax basis in such NEON shares.
+Holders of NEON shares who exercise
+       appraisal rights are urged to consult their own tax advisors.
+
+     - NEON will not recognize gain or loss as a result of the offer and the
+       merger.
+
+     
+Federal Income Tax Consequences If the Offer and Merger Do Not Qualify as a
+Reorganization.
+The tax consequences described above are based on factual
+assumptions, representations and covenants, including the satisfaction of the
+supporting conditions.
+If any of those factual assumptions, representations or
+covenants are not satisfied or observed, or in the event of a contrary ruling by
+the IRS or a court, the federal income tax consequences of the offer and the
+merger to holders of NEON shares could differ materially from those summarized
+above under "-- Federal Income Tax Consequences If the Offer and Merger Qualify
+As a Reorganization."
+In that event, exchanges by NEON stockholders pursuant to
+the offer and/or the merger could be taxable transactions for federal income tax
+purposes depending on the particular facts surrounding the offer and/or the
+merger, some of which may not be known before the completion of the merger or
+later points in time.
+
+     
+If the offer and/or the merger is taxable, each NEON stockholder
+participating in the offer and/or the merger, as applicable, will recognize
+capital gain or loss, measured by the difference between the fair market value
+of the Sybase shares (together with any cash instead of a fraction of a Sybase
+common
+
+share) received by such stockholder and such stockholder's tax basis in the NEON
+shares surrendered.
+This gain or loss will be long-term capital gain or loss if
+such stockholder had held such NEON shares for more than one year at the time
+such NEON shares are accepted in the offer or at the effective time of the
+merger, as applicable.
+
+     
+Federal Income Tax Consequences If the Merger Is Not Consummated.
+In
+addition to the limitations, assumptions and qualifications described above, no
+opinion has been given concerning any tax consequences of the offer if the
+merger is not consummated, or if the merger is not consummated promptly after
+the offer.
+Except as described under this heading, if the merger is not
+consummated, exchanges pursuant to the offer generally will be taxable
+transactions for federal income tax purposes with the consequences described
+above under "-- Federal Income Tax Consequences If the Offer and Merger Do Not
+Qualify As a Reorganization."
+
+     
+Even if the merger is not consummated, the offer will still be treated for
+federal income tax purposes as a reorganization within the meaning of Section
+368(a) of the Code so long as the following factual assumptions are met:
+
+     - in general, Neel Acquisition Corp. must acquire at least 80% of the NEON
+       shares in the offer;
+
+     - any acquisition of additional NEON shares from other stockholders that
+       Sybase or Neel Acquisition Corp. may decide to effect must not be for
+       consideration other than Sybase voting stock; and
+
+     - the representations and covenants made by Sybase and NEON to Cooley
+       Godward and Wilson Sonsini Goodrich & Rosati must remain effective.
+
+     
+Whether these factual assumptions will be satisfied will not be known at
+the time of the offer and there can be no assurances that such factual
+assumptions will be satisfied.
+
+     
+We urge each holder of NEON shares to consult his or her own tax advisor to
+determine the particular United States federal, state or local or foreign income
+or other tax consequences of participation in the offer and/or the merger.
+
+     
+Federal Backup Withholding.
+To prevent backup federal income tax
+withholding with respect to cash, if any, received pursuant to the offer and/or
+the merger, you must either provide the exchange agent with your correct
+taxpayer identification number and certify whether you are subject to backup
+withholding of federal income tax by completing the substitute Form W-9 included
+in the letter of transmittal or establish a basis for exemption from backup
+withholding.
+Some stockholders (including, among others, all corporations and
+some foreign individuals) are not subject to these backup withholding and
+reporting requirements.
+In order for a foreign individual to qualify as an
+exempt recipient, the stockholder must submit a Form W-8BEN, W-8ECI, W-8EXP or
+W-8IMY, as appropriate, signed under penalties of perjury, attesting to that
+individual's exempt status.
+NEON stockholders that fail to provide their
+taxpayer identification numbers and the appropriate certifications or that fail
+to establish an exemption as described above will be subject to backup
+withholding of 31% on cash amounts received in the offer and/or the merger and
+may be subject to a $50 penalty imposed by the IRS.
+If withholding is made and
+results in an overpayment of taxes, a refund may be obtained.
+Cash amounts paid
+pursuant to the tender offer and/or the merger will be reported to the extent
+required by the Code to NEON stockholders and the IRS.
+
+     
+Each NEON stockholder that receives our common shares in the offer and/or
+the merger is required to file a statement with his, her or its federal income
+tax return setting forth the stockholder's basis in the NEON shares surrendered
+and the fair market value of our common shares and the proceeds from the cash in
+lieu of fractional shares received in the offer and the merger and is required
+to retain permanent records of these facts relating to the offer and the merger.
+
+
+PURPOSE OF THE OFFER; THE MERGER; APPRAISAL RIGHTS
+
+     Purpose.
+We are making the offer in order to acquire control of at least a
+majority of the common stock of NEON on a fully diluted basis.
+The offer is the
+first step in our acquisition of NEON and is
+
+intended to facilitate the acquisition of all of the outstanding shares of NEON
+common stock.
+We intend, as soon as practicable after completion of the offer,
+to have Neel Acquisition Corp. merge with and into NEON.
+The purpose of the
+merger is to acquire all NEON shares not tendered and exchanged pursuant to the
+offer.
+In the merger, each then outstanding NEON share (except for NEON shares
+held in NEON's treasury and NEON shares owned by Sybase or Neel Acquisition
+Corp. and, if applicable, NEON stockholders exercising appraisal rights) would
+be converted into the right to receive the same number of Sybase shares as is
+paid in the offer subject to appraisal rights that may be exercised under the
+Delaware General Corporation Law ("DGCL").
+
+     
+Approval of the Merger.
+Under Section 251 of the DGCL, the approval of the
+board of directors of a company and the affirmative vote of the holders of a
+majority of its outstanding shares are required to approve and adopt a merger
+and a reorganization agreement.
+The NEON board of directors has previously
+approved the merger.
+Accordingly, if we complete the offer, we would have a
+sufficient number of NEON shares to approve the merger without the affirmative
+vote of any other holder of NEON shares.
+Therefore, unless the merger is
+consummated in accordance with the short-form merger provisions under the DGCL
+described below (in which case no action by the stockholders of NEON, other than
+by Sybase acting in its capacity as the majority shareholder, will be required
+to consummate the merger), the only remaining corporate action of NEON will be
+the approval and adoption of the reorganization agreement by the affirmative
+vote of a majority of the outstanding NEON shares.
+
+     
+Possible Short-Form Merger.
+Section 253 of the DGCL would permit the merger
+to occur without a vote of NEON's stockholders (a "short-form merger") if Sybase
+were to acquire at least 90% of the outstanding NEON shares in the offer or
+otherwise (including as a result of purchases by Sybase during any subsequent
+offering period).
+If, however, we do not acquire at least 90% of the then
+outstanding NEON shares pursuant to the offer or otherwise, and a vote of NEON's
+stockholders is required under the DGCL, a longer period of time will be
+required to effect the merger.
+
+     
+Appraisal Rights.
+NEON stockholders do not have appraisal rights in
+connection with the offer.
+
+     
+If we complete the offer but less than 90% of the outstanding NEON shares
+are validly tendered and not properly withdrawn in the offer, we will effect a
+long-form merger (as described above) as permitted under Section 251 of the
+DGCL.
+NEON stockholders who have not exchanged their NEON shares in the offer
+will not have appraisal rights in connection with a long-form merger.
+
+     
+However, if at least 90% of the outstanding NEON shares are validly
+tendered and not properly withdrawn in the offer, we will effect a short-form
+merger (as described above) as permitted under Section 253 of the DGCL, NEON
+stockholders at the time of a short-form merger will have the right under
+Section 262 of the DGCL to dissent and demand appraisal of their NEON shares.
+
+Under Section 262, dissenting stockholders who comply with the applicable
+statutory procedures will be entitled to receive a judicial determination of the
+fair value of their NEON shares (exclusive of any element of value arising from
+the accomplishment or expectation of the merger) and to receive payment of this
+fair value in cash, together with a fair rate of interest, if any.
+In Cede & Co.
+and Cinerama, Inc. v. Technicolor, Inc., the Supreme Court of the State of
+Delaware construed Section 262 of the DGCL and held that the "accomplishment or
+expectation" exclusion from the calculation of fair value set forth in the
+preceding sentence is narrow and is designed to eliminate use of pro forma data
+and projections of a speculative variety relating to the completion of a merger.
+
+The court held that it is appropriate to include in the calculation of fair
+value any known elements of value.
+We cannot assure you as to the methodology a
+court would use to determine fair value or how a court would select which of the
+elements of value are to be included in such a determination.
+
+CONDITIONS OF THE OFFER
+
+     The offer is subject to a number of conditions, which are described below:
+
+Minimum Tender Condition
+
+     There must be validly tendered and not properly withdrawn prior to the
+expiration of the offer a number of NEON shares which will constitute at least a
+majority of the total number of outstanding NEON shares on a fully diluted basis
+(as though all currently exercisable options or other securities convertible
+into or exercisable or exchangeable for NEON shares had been so converted,
+exercised or exchanged) as of the date that we accept the NEON shares pursuant
+to our offer.
+Based on information supplied by NEON, the number of NEON shares
+needed to satisfy the minimum tender condition would have been approximately
+19,898,416 as of February 15, 2001.
+
+
+Regulatory Clearance Condition
+
+     This condition has been satisfied as the waiting period under the HSR Act
+has been terminated.
+
+
+Registration Statement Effectiveness Condition
+
+     The registration statement on Form S-4 of which this prospectus is a part
+must have become effective under the Securities Act and not be the subject of
+any stop order or proceedings seeking a stop order.
+
+
+Nasdaq Listing Condition
+
+     The shares of Sybase common stock issuable to NEON stockholders in the
+offer and the merger must have been approved for listing on the Nasdaq National
+Market, subject to official notice of issuance, or be exempt from such
+requirement under the applicable laws, regulations and rules of the Nasdaq Stock
+Market, Inc.
+
+Tax Opinion Conditions
+
+     Sybase and NEON must have received opinions from their respective counsel,
+reasonably satisfactory to both, on the basis of customary facts,
+representations and assumptions, that the offer and the merger will be a
+tax-free reorganization for federal income tax purposes; provided that if NEON's
+counsel does not render the opinion, this condition shall still be considered
+satisfied if counsel to Sybase renders the opinion to NEON.
+
+
+Other Conditions of the Offer
+
+     The offer is also subject to the conditions that, at the time of acceptance
+for exchange of NEON shares pursuant to the offer:
+
+          (1) There shall not have been any action taken, law enacted, judgment
+     entered or similar barrier imposed, by any governmental entity, other than
+     the application of the waiting period provisions of the HSR Act to the
+     offer or the merger, and there shall not be pending any action, suit or
+     proceeding by any governmental entity against Sybase, NEON, Neel
+     Acquisition Corp. or any of their respective subsidiaries, that, in the
+     reasonable judgment of Sybase, is likely, directly or indirectly, to:
+
+             (i) prohibit, or make illegal, the acceptance for payment of or
+        payment for NEON common stock or the consummation of the offer or the
+        merger,
+
+             (ii) render Neel Acquisition Corp. unable to accept for payment or
+        pay for some or all of the shares of NEON common stock,
+
+             (iii) impose material limitations on the ability of Sybase
+        effectively to exercise full rights of ownership of the NEON shares,
+        including the right to vote the NEON common stock purchased by it on all
+        matters properly presented to NEON's stockholders,
+
+             (iv) prohibit or impose any material limitations on Sybase's direct
+        or indirect ownership or operation (or that of any of its affiliates) of
+        all or a material portion of its or NEON's businesses or assets,
+
+             (v) compel Sybase or its affiliates to dispose of or hold separate
+        any portion of the business or assets of NEON or Sybase and their
+        respective subsidiaries which would be material in the context of NEON
+        and its subsidiaries taken as a whole,
+
+             (vi) oblige NEON, Sybase or any of their respective subsidiaries to
+        pay material damages in connection with the transactions contemplated by
+        the reorganization agreement or
+
+             (vii) otherwise constitute a material adverse effect on NEON or, as
+        a result of the transactions contemplated by the reorganization
+        agreement, Sybase;
+
+          (2) NEON shall not have materially breached any of its covenants,
+     obligations or agreements under the reorganization agreement; the
+     representations and warranties of NEON contained in the reorganization
+     agreement shall have been true and correct in all material respects as of
+     the date of the reorganization agreement and shall be true and correct in
+     all respects on and as of the date of the expiration of the offer with the
+     same force and effect as if made on that date, except for certain breaches
+     which individually or in the aggregate do not constitute a material adverse
+     effect;
+
+          (3) all change of control severance agreements entered into between
+     selected NEON officers and NEON and Amendment No. 1 to the Preferred Shares
+     Right Agreement, dated August 5, 1998 shall be in full force and effect;
+     and
+
+          (4) the reorganization agreement shall not have been terminated in
+     accordance with its terms.
+
+
+REGULATORY CLEARANCES
+
+     We and NEON have agreed pursuant to the reorganization agreement to use all
+reasonable efforts to take whatever actions are required to obtain necessary
+regulatory approvals with respect to the offer and the merger.
+Other than
+clearance under the antitrust laws applicable to the offer and the merger which
+are described below, the SEC declaring the effectiveness of the registration
+statement of which this prospectus is a part and the filing of a certificate of
+merger under the DGCL with respect to the merger, we do not believe that any
+additional material governmental filings are required with respect to the offer
+and the merger.
+
+     
+Under the Hart-Scott-Rodino Antitrust Improvements Act of 1976 (the "HSR
+Act") and the related rules, the merger may not be completed until we and NEON
+notify and furnish information to the FTC and the Antitrust Division of the
+United States Department of Justice and specified waiting period requirements
+have been satisfied.
+The notifications required under the HSR Act to the Federal
+Trade Commission and the Antitrust Division of the Department of Justice have
+been filed and we received notice of early termination on March 9, 2001.
+
+     
+We and NEON also conduct operations in Germany where other regulatory
+filings or approvals are required in connection with the completion of the offer
+or the merger.
+We and NEON have made all necessary filings required by the
+German regulatory authorities.
+With respect to such filings, we cannot be
+certain that the German approvals or consents will be granted and, if these
+approvals or consents are received, we cannot be certain as to the date of those
+approvals or consents.
+In addition, we cannot be certain that we will be able to
+cause NEON or its subsidiaries to satisfy or comply with those laws or that
+compliance or noncompliance will not have adverse consequences for NEON or any
+subsidiary of NEON after purchase of the shares of NEON common stock pursuant to
+the offer or the merger.
+
+
+POSSIBLE EFFECTS OF OUR OFFER
+
+     Reduced Liquidity; Possibly no Longer Included for Quotation.
+The tender of
+NEON shares pursuant to the offer will reduce the number of holders of NEON
+shares and the number of NEON shares that might otherwise trade publicly and
+could adversely affect the liquidity and market value of the remaining
+
+NEON shares held by the public.
+NEON shares are included for quotation and
+principally traded on the Nasdaq National Market.
+Depending on the number of
+NEON shares acquired pursuant to the offer, following consummation of the offer,
+NEON shares may no longer meet the requirements of the Nasdaq National Market
+for continued quotation.
+The NASD's requirements for continued inclusion in the
+Nasdaq National Market, among other things, require that an issuer have either:
+
+     - at least 750,000 publicly held shares, held by at least 400 stockholders
+       of round lots, with a market value of at least $5 million and net
+       tangible assets of at least $4 million and at least two registered and
+       active market makers for the shares; or
+
+     - at least 1,100,000 publicly held shares, held by at least 400
+       stockholders of round lots, with a market value of at least $15 million
+       and at least four registered and active market markers, and either:
+
+       - a market capitalization of at least $50 million; or
+
+       - total assets and total revenue of at least $50 million each for the
+         most recently completed fiscal year or two of the last three most
+         recently completed fiscal years.
+
+     
+The shares might nevertheless continue to be included in the Nasdaq
+National Market with quotations published in the Nasdaq "additional list" or in
+one of the "local lists," but if the number of holders of the shares were to
+fall below 300, the number of publicly held shares were to fall below 500,000 or
+there were not at least two registered and active market makers for the shares,
+the NASD's rules provide that the shares would no longer be "qualified" for
+Nasdaq reporting and Nasdaq would cease to provide any quotations.
+Shares held
+directly or indirectly by directors, officers or beneficial owners of more than
+10% of the shares are not considered as being publicly held for this purpose.
+
+If, following the closing of offer, the shares of NEON no longer meet the
+requirements of the NASD for continued inclusion in the Nasdaq National Market
+or in any other tier of Nasdaq and the shares were no longer included in the
+Nasdaq National Market or in any other tier of Nasdaq, the market for NEON
+shares could be adversely affected.
+
+     
+If the NEON shares no longer meet the requirements of the NASD for
+continued inclusion in any tier of the Nasdaq, it is possible that the shares
+would continue to trade in the over-the-counter market and that price quotations
+would be reported by other sources.
+The extent of the public market for the NEON
+shares and the availability of quotations for NEON shares would, however, depend
+upon the number of holders of shares remaining at that time, the interest in
+maintaining a market in NEON shares on the part of securities firms, the
+possible termination of registration of the shares under the Exchange Act, as
+described below, and other factors.
+We cannot predict whether the reduction in
+the number of NEON shares that might otherwise trade publicly would have an
+adverse or beneficial effect on the market price for, or marketability of, the
+NEON shares.
+
+     
+According to NEON, there were, as of March 8, 2001, approximately
+36,848,779 shares of NEON common stock outstanding.
+
+     
+Status as "Margin Securities."
+The NEON shares are presently "margin
+securities" under the regulations of the Federal Reserve Board, which has the
+effect, among other things, of allowing brokers to extend credit on the
+collateral of NEON shares.
+Depending on the factors similar to those described
+above with respect to market quotations, following consummation of the offer,
+the NEON shares may no longer constitute "margin securities" for the purposes of
+the Federal Reserve Board's margin regulations, in which event the NEON shares
+would not be eligible as collateral for margin loans made by brokers.
+
+     
+Registration Under the Exchange Act.
+NEON shares are currently registered
+under the Exchange Act.
+NEON can terminate that registration upon application to
+the SEC if the outstanding shares are not listed on a national securities
+exchange, quoted on an automated inter-dealer quotation system or if there are
+fewer than 300 holders of record of NEON shares.
+Termination of registration of
+the NEON shares under the Exchange Act would reduce the information that NEON
+must furnish to its stockholders and to the SEC and would make certain
+provisions of the Exchange Act, such as the short-swing profit recovery
+
+provisions of Section 16(b) and the requirement of furnishing a proxy statement
+in connection with stockholders meetings pursuant to Section 14(a) and the
+related requirement of furnishing an annual report to stockholders, no longer
+applicable with respect to NEON shares.
+In addition, if NEON shares are no
+longer registered under the Exchange Act, the requirements of Rule 13e-3 under
+the Exchange Act with respect to "going-private" transactions would no longer be
+applicable to NEON.
+Furthermore, the ability of "affiliates" of NEON and persons
+holding "restricted securities" of NEON to dispose of these securities pursuant
+to Rule 144 under the Securities Act may be impaired or eliminated.
+If
+registration of the shares under the Exchange Act were terminated, they would no
+longer be eligible for Nasdaq reporting or for continued inclusion on the
+Federal Reserve Board's list of "margin securities.
+"
+
+RELATIONSHIPS WITH NEON
+
+     Except as set forth herein, neither we nor, to the best of our knowledge,
+any of our directors, executive officers or other affiliates has any contract,
+arrangement, understanding or relationship with any other person with respect to
+any securities of NEON, including, but not limited to, any contract,
+arrangement, understanding or relationship concerning the transfer or the voting
+of any such securities, joint ventures, loan or option arrangements, puts or
+calls, guaranties of loans, guaranties against loss or the giving or withholding
+of proxies.
+Except as described herein, there have been no contacts,
+negotiations or transactions since January 1, 1997, between us or, to the best
+of our knowledge, any of our directors, executive officers or other affiliates
+on the one hand, and NEON or its affiliates, on the other hand, concerning a
+merger, consolidation or acquisition, a tender offer or other acquisition of
+securities, an election of directors, or a sale or other transfer of a material
+amount of assets.
+Neither we nor, to the best of our knowledge, any of our
+directors, executive officers or other affiliates has since January 1, 1997 had
+any transaction with NEON or any of its officers, directors or affiliates that
+would require disclosure under the rules and regulations of the SEC applicable
+to the offer.
+
+     
+Neither we nor, to the best of our knowledge, any of our directors,
+executive officers or other affiliates beneficially owns or has any right to
+acquire, directly or indirectly, any NEON shares and neither we nor, to the best
+of our knowledge, any of our directors, executive officers or other affiliates
+has effected any transaction in the NEON shares during the past 60 days.
+
+ACCOUNTING TREATMENT
+
+     The merger of Sybase and NEON will be accounted for as a "purchase," as
+that term is used under generally accepted accounting principles, commonly
+referred to as "GAAP", for accounting and financial reporting purposes.
+NEON
+will be treated as the acquired corporation for these purposes.
+NEON's assets,
+liabilities and other items will be adjusted to their estimated fair value on
+the closing date of the merger and combined with the historical book values of
+the assets and liabilities of Sybase.
+Applicable income tax effects of these
+adjustments will be included as a component of the combined company's deferred
+tax asset or liability.
+The difference between the estimated fair value of the
+assets, liabilities and other items (adjusted as discussed above) and the
+purchase price will be recorded as an intangible asset and amortized against the
+combined company's earnings over six years following completion of the merger.
+
+For further information concerning the amount of goodwill or other intangibles
+to be recorded in connection with the merger and the amortization of that
+goodwill, see "Notes to Unaudited Pro Forma Combined Condensed Financial
+Statements" on page 30.
+
+     
+Sybase has prepared the unaudited pro forma financial information contained
+in this prospectus using the purchase accounting method to account for the offer
+and the merger.
+See "Unaudited Pro Forma Combined Condensed Financial
+Statements" on page 26.
+
+FEES AND EXPENSES
+
+     We have retained Merrill Lynch to provide certain financial advisory
+services to us in connection with the offer and the merger.
+Merrill Lynch will
+receive customary compensation for these services.
+We have agreed to indemnify
+Merrill Lynch and related persons against certain liabilities and expenses in
+
+connection with its services as financial advisor, including certain liabilities
+and expenses under the federal securities laws.
+From time to time, Merrill Lynch
+and its affiliates may actively trade the debt and equity securities of NEON for
+their own account or for the accounts of customers and, accordingly, may hold a
+long or short position in these securities.
+
+     
+We have retained Corporate Investor Communications, Inc. to act as
+Information Agent in connection with the offer.
+The Information Agent may
+contact holders of NEON shares by mail, telephone, telex, telegraph, e-mail and
+personal interview and may request brokers, dealers and other nominee
+stockholders to forward material relating to the offer to beneficial owners of
+NEON shares.
+We will pay the Information Agent reasonable and customary
+compensation for these services in addition to reimbursing the Information Agent
+for its reasonable out-of-pocket expenses.
+We have agreed to indemnify the
+Information Agent against certain liabilities and expenses in connection with
+the offer, including certain liabilities under the U.S. federal securities laws.
+
+     
+In addition, we have retained American Stock Transfer & Trust Company as
+the Exchange Agent.
+We will pay the Exchange Agent reasonable and customary
+compensation for its services in connection with the offer, will reimburse the
+Exchange Agent for its reasonable out-of-pocket expenses and will indemnify the
+Exchange Agent against certain liabilities and expenses, including certain
+liabilities under the U.S. federal securities laws.
+
+     
+Except as set forth above, we will not pay any fees or commissions to any
+broker, dealer or other person for soliciting tenders of NEON shares pursuant to
+the offer.
+We will reimburse brokers, dealers, commercial banks and trust
+companies and other nominees, upon request, for customary clerical and mailing
+expenses incurred by them in forwarding offering materials to their customers.
+
+          
+COMPARATIVE PER SHARE MARKET PRICE AND DIVIDEND INFORMATION
+
+     Sybase common stock and NEON common stock are listed on the Nasdaq National
+Market.
+Sybase's ticker symbol is "SYBS" and NEON's ticker symbol is "NEON."
+The
+following table shows, for the periods indicated, the highest and lowest last
+sale prices for shares of Sybase common stock and shares of NEON common stock on
+the Nasdaq National Market for the quarters indicated.
+Neither Sybase nor NEON
+have paid any cash dividends during the periods presented.
+
+                                                          
+SYBASE
+                                                       COMMON STOCK         NEON COMMON STOCK
+                                                    ------------------      ------------------
+                                                       MARKET PRICE            MARKET PRICE
+                                                    ------------------      ------------------
+                                                     HIGH        LOW         HIGH        LOW
+                                                    ------      ------      ------      
+------
+
+  First Quarter...................................  $11.00      $ 5.53      $74.75      $41.50
+  Second Quarter..................................   
+11.00        6.48       73.38       34.94
+  Third Quarter...................................   
+13.19       10.00       44.06       13.00
+  Fourth Quarter..................................   
+18.50       10.63       59.00       20.50
+
+  First Quarter...................................  $29.75      $16.50      $91.63      $39.00
+  Second Quarter..................................   
+24.94       18.25       42.50       19.81
+  Third Quarter...................................   28.50       21.13       45.38       21.00
+  Fourth Quarter..................................   24.31       17.56       21.44        4.47
+
+  First Quarter...................................  $25.88      $15.00      $ 7.50      $ 2.59
+
+     According to NEON, there were, as of March 8, 2001, approximately
+36,848,779 shares of NEON common stock outstanding, held by 750 holders of
+record.
+
+     
+There were, as of February 15, 2001, approximately 87,881,136 shares of
+Sybase common stock outstanding held by 1,505 holders of record.
+
+     
+On February 20, 2001, the last full trading day prior to the public
+announcement of the offer and the merger, the last sale price per share of
+Sybase common stock on the Nasdaq National Market was $24.50 and the last sale
+price per share of NEON common stock was $6.94.
+On April 3, 2001, the most
+recent practicable date prior to the filing of this document, the last sale
+price per share of Sybase common stock was $12.94 and the last sale price per
+share of NEON common stock was $4.84.
+We urge you to obtain current market
+quotations for Sybase and NEON shares of common stock before making any decision
+on the offer and the merger.
+
+     
+Neither Sybase nor NEON has ever declared or paid any cash dividends on
+their common stock nor other securities and neither anticipates paying cash
+dividends in the foreseeable future.
+
+          
+INTERESTS OF NEON OFFICERS AND DIRECTORS IN THE TRANSACTION
+
+     
+The information contained in the Information Statement attached as Schedule
+I to the Schedule 14D-9 of NEON dated March 15, 2001 is incorporated herein by
+reference.
+
+     
+Except as described in this prospectus or incorporated herein by reference
+as a result of the previous sentence, as of the date of this prospectus, there
+exists no material agreement, arrangement or understanding or any actual or
+potential conflict of interest between NEON or its affiliates and (1) NEON's
+executive officers, directors or affiliates or (2) Sybase or Neel Acquisition
+Corp. or their respective executive officers, directors or affiliates.
+
+
+TREATMENT OF STOCK OPTIONS
+
+     
+The reorganization agreement provides that each outstanding option to
+purchase shares of NEON common stock under the NEON stock option plans will be
+assumed upon consummation of the merger by Sybase and shall thereafter be
+exercisable for that number of shares of Sybase common stock equal to the number
+of shares of NEON common stock for which it is exercisable multiplied by the
+exchange ratio rounded down to the nearest whole number of shares of Sybase
+common stock.
+In addition, the per share exercise price of each assumed option
+shall be determined by dividing the original exercise price by the exchange
+ratio rounded up to the nearest whole cent.
+
+     
+According to the terms of the NEON 1995 Stock Option Plan, 1998
+Nonstatutory Stock Option Plan and 1997 Director Option Plan, 12 months of
+unvested options held by employees, directors and officers of NEON shall
+accelerate in the event that the employee, director or officer is terminated
+without cause or as a result of constructive termination at any time within 12
+months following consummation of the offer.
+
+     
+In addition, George F. (Rick) Adam, Jr., Frederick T. Horn, Peter
+Hoversten, Leonard Goldstein and Stephen E. Webb and Dr. Patrick J. Fortune hold
+unvested options that will become exercisable in full upon consummation of the
+Offer.
+(See "-- Certain Executive Agreements" below.)
+
+     
+The following table sets forth, with respect to each of the executive
+officers and non-employee directors of NEON:
+
+     - the number of shares of NEON common stock subject to options held by such
+       persons that will be exercisable immediately upon the consummation of the
+       merger (including options that are currently exercisable as well as
+       options which will become exercisable in connection with the transactions
+       contemplated by the reorganization agreement);
+
+     - the range of exercise prices of the options held by such persons;
+
+     - the weighted average exercise price of the options held by such persons;
+       and
+
+     - the cash value (i.e., the total stock value less the exercise price) of
+       all options held by such persons which are in-the-money (i.e. represent a
+       positive spread between the respective exercise prices of the options and
+       the per share of NEON common stock value of the consideration to be
+       received in the offer and the merger), based upon an assumed per share of
+       NEON common stock amount of
+
+       consideration to be received by NEON stockholders in the offer and the
+       merger of $6.54 in Sybase common stock, based on the last sales price of
+       Sybase common stock on March 14, 2001 of $16.88.
+
+                                                                                              
+AGGREGATE
+                                    OPTIONS WHICH        RANGE OF        WEIGHTED AVERAGE      VALUE OF
+                                       WILL BE        EXERCISE PRICES     EXERCISE PRICE     IN-THE-MONEY
+                  NAME              EXERCISABLE(1)       
+PER SHARE          PER SHARE          OPTIONS
+                  ----              --------------    ---------------    ----------------    ------------
+
+      George F. Adam, Jr. ........     302,905(2)      $5.25 - 54.45          $10.60         $316,357.02
+      Melvyn Bergstein............      25,886(3)     13.00 - 20.62            14.08                  --
+      Patrick J. Fortune..........     754,683(2)      4.78 - 49.50            24.20          410,144.52
+      Mark L. Gordon..............      30,332(3)      6.00 - 38.88            17.07               5,400
+      Joseph Kasputys.............      43,664(3)     19.25 - 38.88            22.36                  --
+      Steven Lazarus..............      56,998(3)      6.28 - 38.88            12.07            9,487.33
+      Robert I. Theis.............     129,270         3.62 -  7.00             5.52          156,264.60
+      Leonard Goldstein...........     107,023(2)      4.78 -  7.00             5.88           89,365.92
+      Frederick T. Horn...........     423,665(2)      3.62 - 49.50            11.91          425,765.33
+      Peter Hoversten.............     201,828(2)      4.50 -  7.00             5.60          219,163.44
+      Franz Koepper...............       3,125            7.00                  7.00                  --
+      Stephen E. Webb.............     235,448(2)      4.50 - 49.50            10.07          222,180.21
+
+- ---------------
+(1) Assumes a closing date of April 16, 2001.
+
+
+(2) Includes options which will become exercisable upon consummation of the
+    offer.
+
+
+(3) Includes options which will become exercisable if these individuals are
+    deemed to no longer serve as directors of NEON following the consummation of
+    the offer.
+
+
+CERTAIN EXECUTIVE AGREEMENTS
+
+     In connection with the negotiation of the reorganization agreement, Sybase
+required that the change of control severance agreements between NEON and each
+of Messrs. Adam, Horn, Hoversten, Goldstein and Webb and Dr. Fortune be amended
+with new terms to be effective upon the consummation of the offer.
+Each of the
+amended change of control severance agreements provides that all NEON options
+granted to such person prior to the date of the amended agreements will vest and
+all restrictions on restricted stock held by such person will lapse upon
+consummation of the offer.
+The amended agreements of Mr. Goldstein and Mr. Webb
+provide for a cash payment of $750,000 to be paid to each of them upon
+consummation of the offer.
+The amended agreements of Mr. Horn, Mr. Hoversten and
+Dr. Fortune provide cash payments of $1,092,000, $390,000 and $1,560,000,
+respectively, based upon their continued employment with Sybase following the
+consummation of the offer.
+The cash payments to Mr. Horn, Mr. Hoversten and Dr.
+Fortune are payable as follows: 5/13 on the 12-month anniversary of the
+consummation of the offer, 3/13 on the 18-month anniversary of the consummation
+of the offer, and the remaining 5/13 on the 24-month anniversary of the
+consummation of the offer.
+If any of Mr. Horn, Mr. Hoversten or Dr. Fortune is
+terminated by Sybase without cause prior to the 24-month anniversary of the
+consummation of the offer, he will receive his respective cash payment (less any
+amounts previously paid) in a lump sum payment.
+The amended agreement of Mr.
+Adam does not provide for a cash payment.
+
+     
+This summary of the terms of the amended change of control severance
+agreements is qualified in its entirety by reference to the complete text of the
+amended change of control severance agreements, which have been filed as
+exhibits (e)(6) through (e)(11) of NEON's Solicitation/Recommendation Statement
+on Schedule 14D-9 and are incorporated herein by reference.
+Information
+regarding the prior change of control severance agreements with certain
+executive officers is included in Schedule I of NEON's
+Solicitation/Recommendation Statement on Schedule 14D-9 .
+
+     
+Also, Dr. Franz Koepper is a party to a Change of Control Severance
+Agreement with NEON, dated January 30, 2001, which provides that if Dr. Koepper
+is terminated other than "for cause" (as defined
+
+therein) within 18 months following the consummation of the offer, Dr. Koepper
+will receive a lump sum cash payment equal to 100% of his annual compensation,
+accelerated vesting of all NEON options held and, for a period of one year
+following the date of termination, continued employee benefits.
+This summary of
+the terms of Dr. Koepper's Change of Control Severance Agreement is qualified in
+its entirety by reference to the complete text of the Change of Control
+Severance Agreement, which has been filed as exhibit (e)(12) of NEON's
+Solicitation/Recommendation Statement on Schedule 14D-9 and is incorporated
+herein by reference.
+Information regarding Dr. Koepper's employment agreement
+with NEON is included in Schedule I of NEON's Solicitation/Recommendation
+Statement on Schedule 14D-9.
+
+     
+In connection with the negotiation of the reorganization agreement, Sybase
+required that Messrs. Adam, Horn and Hoversten and Dr. Fortune enter into
+employment and non-competition agreements in order to help retain these officers
+following the merger.
+These agreements, which become effective only upon the
+effective date of the merger, provide for initial base salaries of $400,000 for
+Mr. Adam, $400,000 for Dr. Fortune, $300,000 for Mr. Horn and $250,000 for Mr.
+Hoversten.
+The agreements provide for annual target bonuses of up to $200,000 in
+the cases of Mr. Adam and Dr. Fortune, up to $120,000 in the case of Mr. Horn,
+and up to $100,000 in the case of Mr. Hoversten.
+The agreements provide that
+upon the effective date of the merger, Messrs. Adam, Horn and Hoversten and Dr.
+Fortune will be granted stock options to purchase 155,000, 125,000, 125,000 and
+125,000 shares of Sybase common stock, respectively, 1/8 of which will vest on
+the six-month anniversary of the merger (based upon continued employment) and
+1/48 of which will vest monthly thereafter through the 48th month following the
+effective date of the Merger (based upon continued employment).
+The agreements
+for Messrs. Adam, Horn and Hoversten and Dr. Fortune provide that in the event
+they are terminated "without cause," they will receive (provided the officer
+executes a release in favor of Sybase) a severance payment as follows: an amount
+equal to 18 months of salary and bonus in the case of Mr. Adam, an amount equal
+to the senior vice president severance package then applicable to such employees
+in the case of Dr. Fortune and an amount equal to the vice president severance
+package then applicable to such employees in the cases of Mr. Horn and Mr.
+Hoversten.
+Each of the agreements also provides for certain restrictive
+covenants on behalf of the officers in favor of Sybase, including provisions
+regarding noncompetition, nonsolicitation and nondisclosure of confidential
+information.
+
+     
+This summary of the terms of the employment and non-competition agreements
+is qualified in its entirety by reference to the complete text of the employment
+agreements (and the amendments thereto), which have been filed as exhibits
+(e)(13) through (e)(20) of NEON's Solicitation/Recommendation Statement on
+Schedule 14D-9 and are incorporated herein by reference.
+Information regarding
+employment agreements between NEON and certain of its executive officers is
+included in Schedule I of NEON's Solicitation/Recommendation Statement on
+Schedule 14D-9.
+
+
+INDEMNIFICATION
+
+     From and after the effective time of the merger, Sybase will fulfill and
+honor in all respects the obligations of NEON pursuant to the provisions of each
+indemnification agreement between NEON and its directors or officers in effect
+prior to the effective time of the merger and the indemnification provisions of
+the NEON certificate of incorporation in effect as of the date of the
+reorganization agreement (or indemnification provisions at least as favorable as
+the provisions of the NEON certificate of incorporation).
+Furthermore, Sybase
+has agreed to maintain for six years after the effective time of the Merger,
+subject to certain cost limitations, a policy of directors' and officers'
+liability insurance covering the directors and officers of NEON.
+
+          
+THE REORGANIZATION AGREEMENT AND THE STOCKHOLDER AGREEMENTS
+
+     
+The following descriptions of the reorganization agreement and the
+stockholder agreements describe the material terms of such agreements but does
+not purport to describe all the terms of such agreements.
+The complete text of
+the reorganization agreement, and the form of the stockholder agreement are
+
+attached as Annex A and Annex B, respectively, to this prospectus.
+All
+stockholders are urged to read the reorganization agreement and the form of the
+stockholder agreement in their entirety because they are the legal documents
+that govern the offer and the merger.
+
+
+THE OFFER
+
+     Terms of the Offer.
+The reorganization agreement provides for the
+commencement by Neel Acquisition Corp., a wholly-owned subsidiary of Sybase, of
+this offer to exchange all outstanding shares of NEON common stock for shares of
+Sybase common stock.
+The reorganization agreement provides for the consideration
+that we will pay in the offer, including the exchange ratio of 0.3878 of a share
+of Sybase common stock for each share of NEON common stock.
+The reorganization
+agreement provides that the initial expiration date of the offer is the
+twentieth business day following commencement of the offer and that the offer is
+subject to a number of conditions, including the minimum tender condition.
+For a
+description of those matters, refer to the discussion under "The Offer" on page
+32 of this prospectus.
+
+     
+The reorganization agreement prohibits Neel Acquisition Corp., without the
+consent of NEON, from amending or waiving the minimum tender condition or
+amending the offer to change the form or amount of consideration to be paid,
+decreasing the number of shares of NEON common stock sought in the offer,
+imposing additional conditions to the offer, extending the expiration date of
+the offer except as described below or making any other change which is adverse
+to the holders of the shares of NEON common stock.
+
+     
+Mandatory Extensions of the Offer.
+If any of the conditions to the offer is
+not satisfied or waived on any scheduled expiration date of the offer, Neel
+Acquisition Corp. will extend the offer for successive extension periods of not
+more than 10 business days until all conditions to the offer are satisfied or
+waived; provided that Neel Acquisition Corp. is not required to extend the offer
+beyond June 30, 2001.
+
+     
+Optional Extensions of the Offer.
+Neel Acquisition Corp. will have the
+right to extend the offer (i) after acceptance of shares in the initial offering
+period, as it may be extended, for a further period of time by means of a
+subsequent offering period not to exceed 20 business days for the purpose of
+having Sybase and Neel Acquisition Corp. collectively own at least 90% of the
+outstanding shares of NEON common stock and (ii) for any period required by any
+rule, regulation, interpretation or position of the SEC or its staff applicable
+to the offer.
+
+     
+Prompt Payment for NEON Shares after the Closing of the Offer.
+Subject to
+the conditions of the offer, Neel Acquisition Corp. will accept for payment and
+pay for, promptly after the expiration of the offer, all shares of NEON common
+stock validly tendered and not properly withdrawn pursuant to the offer.
+
+
+THE MERGER
+
+     The Merger.
+The reorganization agreement provides that Neel Acquisition
+Corp. will be merged with and into NEON no later than the second business day
+following the satisfaction or waiver of the conditions set forth in the
+reorganization agreement unless the parties agree to another date.
+Under the
+terms of the reorganization agreement, at the effective time of the merger, each
+share of NEON common stock will be converted into the right to receive from Neel
+Acquisition Corp. 0.3878 of a share of Sybase common stock for each share of
+NEON common stock, the same per share consideration paid to holders of NEON
+common stock who exchanged their NEON shares in the offer.
+Notwithstanding the
+foregoing, the merger consideration will not be payable in respect of NEON
+shares held by NEON, Sybase or Neel Acquisition Corp.
+
+     Effective Time of the Merger.
+The merger will become effective upon the
+filing of a certificate of merger with the Secretary of State of Delaware or
+such later time as is agreed by NEON and Sybase and specified in the certificate
+of merger.
+The filing of the certificate of merger will take place as soon as
+practicable on or after the closing date of the merger.
+
+
+NEON BOARD OF DIRECTORS
+
+     Upon the acceptance for exchange of shares of NEON common stock pursuant to
+the offer, Sybase will be entitled to designate a number of directors of NEON
+(rounded up to the next whole number) that equals the product of (i) the total
+number of directors on NEON's board of directors (giving effect to the election
+of additional directors) and (ii) the percentage that the number of shares
+beneficially owned by Sybase and Neel Acquisition Corp. bears to the total
+number of shares of NEON common stock outstanding.
+Until the merger has become
+effective, NEON's board of directors shall include at least two members who were
+directors of NEON prior to the consummation of the offer.
+The reorganization
+agreement provides that, prior to the effective time of the merger, the
+affirmative vote of a majority of the continuing NEON directors will be required
+for NEON to:
+
+     - amend or terminate the reorganization agreement;
+
+     - waive any rights, benefits or remedies under the reorganization
+       agreement;
+
+     - extend the time for performance of Sybase's or Neel Acquisition Corp.'s
+       obligations under the reorganization agreement; or
+
+     - approve any other action by NEON which is reasonably likely to adversely
+       affect the interests of NEON's stockholders with respect to the
+       transactions contemplated by the reorganization agreement.
+
+
+TREATMENT OF NEON STOCK OPTIONS AND RESTRICTED STOCK
+
+     At the effective time of the merger, each outstanding NEON option,
+regardless of the extent vested, shall become an option to acquire, on the same
+terms and conditions as were applicable under the NEON stock option, the same
+number of shares of Sybase common stock as the holder of the NEON option would
+have been entitled to receive pursuant to the reorganization agreement had the
+holder exercised the NEON option in full immediately prior to the effective time
+of the merger multiplied by the exchange ratio, rounded down to the nearest
+whole number.
+The price per share shall equal the per share exercise price at
+which the NEON option was exercisable immediately prior to the effective time,
+divided by the exchange ratio, rounded up to the nearest whole cent.
+
+     
+Sybase has agreed to take all action necessary to implement the above,
+including the reservation for issuance and listing of a sufficient number of
+shares of Sybase common stock for delivery upon exercise of these assumed
+options.
+Sybase has agreed to file a registration statement on Form S-8 with
+respect to the shares of Sybase common stock subject to the above options as
+soon as is reasonably practicable (and in any event within 10 business days)
+after the effective time of the merger.
+
+     
+Shares of Sybase common stock that are issued upon conversion of shares of
+NEON common stock that immediately prior to the effective time of the merger are
+unvested or are subject to a repurchase option, risk of forfeiture or other
+condition under any applicable restricted stock purchase agreement or other
+agreement will continue to be unvested or subject to the same options, risks or
+other conditions after the effective time of the merger unless the relevant
+agreement provides that the option, risk or condition will be altered or will
+terminate on consummation of the merger.
+
+
+COVENANTS AND REPRESENTATIONS AND WARRANTIES
+
+     Reasonable Efforts.
+The reorganization agreement provides that each of
+Sybase and NEON will use its reasonable efforts to take all actions necessary to
+close the offer and the merger.
+
+     
+Conduct of Business Pending the Appointment of Directors.
+The
+reorganization agreement obligates NEON, until the first acceptance for exchange
+of shares of NEON common stock pursuant to the offer, to conduct its operations
+in the ordinary course of business.
+The reorganization agreement expressly
+restricts the ability of NEON to engage in certain material transactions, such
+as purchases and sales of assets or the sale or redemption of outstanding
+securities of NEON, without the prior written consent of Sybase.
+
+     
+No Solicitation of Alternative Transactions.
+The reorganization agreement
+provides that, except in the circumstances described below, NEON will not,
+directly or indirectly:
+
+     - solicit, initiate or knowingly take any action to assist, facilitate,
+       induce or encourage the making, submission or announcement of, any
+       Acquisition Proposal (as defined below);
+
+     - engage or participate in any discussions or negotiations regarding, or
+       knowingly furnish any information relating to NEON or any of NEON's
+       subsidiaries or afford access to the business, properties, assets, books
+       or records of NEON or any of NEON's subsidiaries to any person that has
+       made, or knowingly take any other action to assist or facilitate any
+       inquiries or the making of any proposal that constitutes or may
+       reasonably be expected to lead to an Acquisition Proposal;
+
+     - approve, endorse or recommend any Acquisition Proposal; or
+
+     - enter into any letter of intent or similar document or any contract,
+       agreement or commitment contemplating or otherwise relating to any
+       Acquisition Proposal.
+
+     
+However, the reorganization agreement does provide that in response to an
+unsolicited Acquisition Proposal that did not result from a breach by NEON of
+its obligations not to solicit alternative transactions and following delivery
+to Sybase of notice of the Acquisition Proposal, NEON's board of directors may,
+subject to certain conditions:
+
+     - engage or participate in discussions or negotiations with or furnish to
+       any third party that makes a bona fide Acquisition Proposal nonpublic
+       information relating to NEON or any of NEON's subsidiaries under a
+       confidentiality agreement no less favorable than the confidentiality
+       agreement between NEON and Sybase and/or
+
+     - following receipt of such an Acquisition Proposal, withhold, withdraw,
+       modify or change in a manner adverse to Sybase or fail to make its
+       recommendation to its stockholders of the offer and the merger,
+
+if, in each case, the NEON board of directors concludes in good faith (after
+consultation with a financial advisor of nationally recognized reputation) that
+the Acquisition Proposal constitutes a Superior Proposal (as defined below) and
+determines in good faith (after consultation with its outside legal counsel)
+that it is necessary to take such action(s) in order to satisfy its fiduciary
+duties to NEON's stockholders under Delaware law.
+
+     
+"Acquisition Proposal" means any offer or proposal by a third party
+relating to:
+
+     - any acquisition or purchase from NEON by any person or group of more than
+       15% of the outstanding voting securities of NEON or any of its
+       subsidiaries or any tender offer or exchange offer that if consummated
+       would result in any person or group beneficially owning 15% or more of
+       the outstanding voting securities of NEON or any of its subsidiaries or
+       any merger, consolidation, business combination or similar transaction
+       involving NEON pursuant to which the stockholders of NEON immediately
+       preceding that transaction would hold less than 85% of the equity
+       interests in the surviving or resulting entity of that transaction;
+
+     - any sale, lease (other than in the ordinary course of business),
+       exchange, transfer, license (other than in the ordinary course of
+       business), acquisition, or disposition of more than 15% of the
+       consolidated assets of NEON; or
+
+     - any liquidation or dissolution of NEON.
+
+     
+"Superior Proposal" means a bona fide written Acquisition Proposal not
+received in violation of the solicitation prohibitions of the reorganization
+agreement for at least a majority of the outstanding shares of NEON common stock
+on terms that the NEON board of directors determines in good faith by a majority
+vote, after consultation with a financial advisor of nationally recognized
+reputation and taking into account all the terms and conditions of the
+Acquisition Proposal, are more favorable to the NEON stockholders than the offer
+and the merger; provided that no proposal shall be deemed a "Superior Proposal"
+if any
+
+financing required to consummate the transaction contemplated in that offer is
+not committed and is not likely in the good faith judgment of the NEON board of
+directors to be obtained by that party on a timely basis.
+
+     
+Antitrust Laws.
+Each of Sybase and NEON will take those lawful actions that
+are necessary to make the filings required under any applicable antitrust laws
+in connection with the reorganization agreement and the transactions
+contemplated by the reorganization agreement.
+
+     
+Employee Benefits.
+To the extent permitted by applicable law, we have
+agreed to give credit under all employee benefit plans, programs, policies and
+arrangements maintained by us or the surviving corporation (other than
+sabbatical benefits) to each employee of NEON or its subsidiaries for all
+service with NEON or its subsidiaries.
+In addition, we have agreed to provide
+employees of NEON and its subsidiaries who are retained by us with the benefits
+substantially comparable in the aggregate to those benefits provided to our
+similarly situated employees; provided that such benefits are available on
+reasonable terms, we are permitted to make any changes required by law and there
+shall be no duplication of benefits.
+
+     Representations and Warranties.
+The reorganization agreement contains a
+number of customary representations and warranties relating to each of the
+parties and their ability to consummate the offer and the merger.
+All
+representations and warranties of each party expire upon the filing of the
+certificate of merger with the Secretary of State of the State of Delaware.
+
+
+CONDITIONS OF THE OFFER
+
+     For a description of the conditions of the offer, see "The
+Offer -- Conditions of the Offer" on page 48.
+
+CONDITIONS OF THE MERGER
+
+     The obligations of Sybase, Neel Acquisition Corp. and NEON to consummate
+the merger are subject to the satisfaction of the following conditions, any of
+which may be waived in writing by both Sybase and NEON:
+
+     - if required by Delaware law, the reorganization agreement shall have been
+       approved and adopted by the requisite vote of the NEON stockholders under
+       Delaware law and NEON's certificate of incorporation and bylaws;
+
+     - Neel Acquisition Corp. shall have accepted for exchange and exchanged all
+       shares of NEON common stock tendered pursuant to the offer;
+
+     - no provision of any applicable law or regulation and no judgment,
+       injunction, order or decree shall prohibit the consummation of the
+       merger;
+
+     - the shares of Sybase common stock to be issued in the merger shall have
+       been approved for listing on the Nasdaq, subject to official notice of
+       issuance or shall be exempt from such requirement under then applicable
+       laws, regulations and rules of the Nasdaq Stock Market, Inc.; and
+
+     - the registration statement on Form S-4 relating to the merger, including
+       any post-effective amendment thereto, shall have become effective under
+       the Securities Act and not be the subject of any stop order or
+       proceedings seeking a stop order.
+
+
+TERMINATION OF THE REORGANIZATION AGREEMENT
+
+     Termination by Mutual Agreement.
+The reorganization agreement may be
+terminated at any time prior to the effective time of the merger by mutual
+written consent of the Sybase and NEON boards of directors.
+
+     
+Termination by either Sybase or NEON.
+The reorganization agreement may be
+terminated by either Sybase or NEON:
+
+          (1) at a time prior to the effective time of the merger if:
+
+             (i) the offer expires or terminates in accordance with the terms of
+        the reorganization agreement without Sybase or Neel Acquisition Corp.
+        having accepted for exchange any shares of NEON common stock, except
+        that Sybase will not be permitted to terminate the reorganization
+        agreement for this reason if the offer expires or terminates as a result
+        of Sybase's breach of the reorganization agreement;
+
+             (ii) the offer has not been consummated on or before June 30, 2001,
+        unless the failure to consummate the offer is principally caused by or
+        results from the action or failure to act of the party seeking
+        termination and such action or failure to act constitutes a breach of
+        the reorganization agreement; or
+
+             (iii) there shall be any applicable law or regulation that makes
+        consummation of the merger illegal or otherwise prohibited or any
+        judgment, injunction, or order which is final and nonappealable
+        prohibiting the consummation of the merger; or
+
+          (2) at any time prior to the first acceptance for exchange of shares
+     of NEON common stock pursuant to the offer, if any representation or
+     warranty of the non-terminating party contained in the reorganization
+     agreement was when made or becomes untrue or inaccurate such that, overall,
+     the untruths or inaccuracies would reasonably be expected to have a
+     material adverse effect on the non-terminating party, or the
+     non-terminating party materially breaches any covenant or agreement
+     contained in the reorganization agreement, if that untruth, inaccuracy or
+     breach has not been or is incapable of being cured by the non-terminating
+     party within 30 days following receipt by the non-terminating party of
+     written notice from the terminating party of the, untruth, inaccuracy or
+     breach.
+
+     
+Termination by Sybase.
+Sybase can terminate the reorganization agreement at
+any time prior to the first acceptance of shares of NEON common stock in the
+offer by Sybase if:
+
+          (1) the NEON board of directors, or any of its committees, approves or
+     recommends to the NEON stockholders any Acquisition Proposal other than the
+     offer and the merger;
+
+          (2) the NEON board of directors, or any of its committees, withholds,
+     withdraws, modifies or changes in any way adverse to Sybase, or fails to
+     make, its recommendation to the NEON stockholders that they accept the
+     offer and approve and adopt the reorganization agreement;
+
+          (3) NEON fails to include in various documents relating to the offer
+     the recommendation of the NEON board of directors to the NEON stockholders
+     that they accept the offer and approve and adopt the reorganization
+     agreement;
+
+          (4) the NEON board of directors fails to reaffirm its recommendations
+     within ten business days after Sybase requests in writing that the
+     recommendations be reaffirmed at any time following the announcement and
+     during the pendency of an Acquisition Proposal;
+
+          (5) NEON enters into any letter of intent or similar document or any
+     agreement, contract or commitment (other than a confidentiality agreement
+     as permitted by the reorganization agreement) accepting any Acquisition
+     Proposal;
+
+          (6) a tender or exchange offer relating to 15% or more of the shares
+     of NEON common stock is commenced by a third party, and NEON does not send
+     to its stockholders pursuant to certain rules under the Exchange Act,
+     within 10 business days of the day that the offer is first published, sent
+     or given, a statement that NEON recommends rejection of that tender or
+     exchange offer; or
+
+          (7) NEON breaches any of the terms regarding nonsolicitation contained
+     in the reorganization agreement in any material respect.
+
+     
+Termination by NEON.
+NEON may terminate the reorganization agreement at any
+time prior to the first acceptance for exchange of shares of NEON common stock
+pursuant to the offer, to enter into a letter of intent or similar document or
+any agreement, contract or commitment with respect to an Acquisition Proposal,
+provided that:
+
+          (1) NEON is not in breach of its obligations under the conditions
+     listed below and under the nonsolicitation provisions of the reorganization
+     agreement and continues to comply with all such obligations in all
+     respects;
+
+          (2) the NEON board of directors has authorized, subject to complying
+     with the terms of the reorganization agreement, NEON to enter into a
+     definitive written agreement for a transaction that constitutes a Superior
+     Proposal;
+
+          (3) NEON notifies Sybase in writing that it has received a Superior
+     Proposal and intends to enter into a definitive agreement with respect to
+     that Superior Proposal, attaching the most current version of that
+     agreement to the notice;
+
+          (4) Sybase does not make, within five business days after receipt of
+     NEON's written notice of its intention to enter into a definitive agreement
+     for a Superior Proposal, any offer that the NEON board of directors in good
+     faith determines, after consultation with a financial advisor of nationally
+     recognized standing and its outside legal counsel, is at least as favorable
+     to NEON's stockholders as such Superior Proposal;
+
+          (5) during that period NEON has fully cooperated with Sybase,
+     including but not limited to, informing Sybase of the terms and conditions
+     of such Superior Proposal, and the identity of the person making such
+     Superior Proposal, with the intent of enabling both parties to agree to a
+     modification of the terms and conditions of the reorganization agreement so
+     that the transactions contemplated by the reorganization agreement may be
+     effected;
+
+          (6) prior to NEON's termination under these circumstances, NEON pays
+     to Sybase the termination fee as described below under "-- Termination
+     Fee"; and
+
+          (7) immediately following such termination NEON enters into a
+     definitive agreement to effect the Superior Proposal.
+
+
+TERMINATION FEE
+
+     If the reorganization agreement is either terminated:
+
+     - by Sybase prior to the first acceptance for exchange of shares of NEON
+       common stock as described under "-- Termination of the Reorganization
+       Agreement -- Termination by Sybase"; or
+
+     - by NEON as described under "-- Termination of the Reorganization
+       Agreement -- Termination by NEON,"
+
+then NEON shall be required to pay to Sybase a termination fee in an amount
+equal to $15 million in immediately available funds.
+
+     
+If Sybase or NEON terminates the reorganization agreement as described in
+paragraphs (1)(i) and (1)(ii) under "-- Termination of the Reorganization
+Agreement -- Termination by either Sybase or NEON" prior to the first acceptance
+of shares of NEON common stock in the offer and no event described under
+"-- Termination of the Reorganization Agreement -- Termination by Sybase" has
+occurred, and (i) after the date of the reorganization agreement and prior to
+the date of termination of the reorganization agreement any Acquisition Proposal
+has been publicly announced or has become publicly known and not withdrawn at
+least 5 business days prior to the termination by NEON and (ii) within 9 months
+following termination of the reorganization agreement either a Company
+Acquisition occurs or NEON enters into an agreement or binding letter of intent
+providing for a Company Acquisition (and such Company Acquisition is later
+consummated), then NEON shall pay to Sybase, no later than one business day
+after Sybase demands payment, $15 million in immediately available funds.
+
+     
+For purposes of the preceding paragraph, "Company Acquisition" means any of
+the following transactions (other than the offer and the merger):
+
+     - a merger, consolidation, business combination, recapitalization,
+       liquidation, dissolution or similar transaction involving NEON pursuant
+       to which the NEON stockholders immediately preceding that transaction
+       hold less than 50% of the aggregate equity interests in the surviving or
+       resulting entity of the transaction or a parent entity following the
+       transaction;
+
+     - a sale or other disposition by NEON of a business or assets representing
+       50% or more of the consolidated net revenues, net income or assets of
+       NEON immediately prior to such sale; or
+
+     - the acquisition by any person or group (including by way of a tender
+       offer or an exchange offer or issuance by NEON), directly or indirectly,
+       of beneficial ownership or a right to acquire beneficial ownership of
+       shares representing in excess of 50% of the voting power of the then
+       outstanding shares of capital stock of NEON.
+
+
+AMENDMENTS
+
+     The reorganization agreement may be amended by action taken by Sybase, Neel
+Acquisition Corp. and NEON at any time prior to the closing of the merger.
+The
+reorganization agreement provides that if Sybase designates directors of NEON
+prior to the effective time of the merger, any amendment of the reorganization
+agreement, any termination of the reorganization agreement by NEON, any
+extension by NEON of the time for the performance of any of the obligations or
+other acts of Sybase or Neel Acquisition Corp. under the reorganization
+agreement, waiver by NEON of any rights of NEON under the reorganization
+agreement or any approval of any other action by NEON which is reasonably likely
+to adversely affect the interests of the NEON stockholders with respect to the
+transactions provided for under the reorganization agreement, will require the
+concurrence of a majority of the NEON directors then in office who were not
+designated by Sybase.
+
+
+THE STOCKHOLDER AGREEMENTS
+
+     Parties.
+As an inducement for Sybase and Neel Acquisition Corp. to enter
+into the reorganization agreement, immediately prior to the signing of the
+reorganization agreement, certain of NEON's directors and officers and
+affiliated stockholders entered into stockholder agreements with Sybase.
+
+     
+The obligations of those stockholders under the stockholder agreements
+cover, in the aggregate, 4,408,112 NEON shares, which represented approximately
+12% of the outstanding NEON shares as of February 15, 2001 (approximately 14%
+after giving effect to all options which will become exercisable within 60 days
+of February 15, 2001).
+
+     
+Agreement to Tender.
+Each stockholder who signed a stockholder agreement
+agreed to tender in the offer and not withdraw that portion of his or her shares
+of NEON covered by such stockholder agreement as well as any additional NEON
+shares acquired by such stockholders after the date of the stockholder
+agreement.
+
+     
+Proxy.
+Each stockholder who signed a stockholder agreement granted Sybase
+or any nominee of Sybase a proxy to vote or grant a consent with respect to that
+portion of that stockholder's NEON shares covered by the stockholder agreement:
+
+     - in favor of the adoption and approval of the reorganization agreement and
+       the merger and the other transactions contemplated by the reorganization
+       agreement;
+
+     - against the approval of any Acquisition Proposal;
+
+     - against any merger, consolidation, business combination or sale of assets
+       of NEON with any party other than Sybase;
+
+     - against the reorganization, recapitalization, liquidation or winding up
+       of NEON or any other extraordinary transaction involving NEON;
+
+     - against the corporate action that would prevent or delay consummation of
+       the offer, the merger or any other transaction contemplated by the
+       reorganization agreement; or
+
+     - against any other matters relating to the foregoing.
+
+     Termination.
+All obligations under the stockholder agreements terminate
+upon the earlier of (i) the effective time of the merger or (ii) the termination
+of the reorganization agreement in accordance with its terms.
+
+                
+COMPARISON OF SYBASE AND NEON STOCKHOLDER RIGHTS
+
+     Set forth on the following pages is a summary comparison of material
+differences between the rights of a Sybase stockholder under the current Sybase
+certificate of incorporation and bylaws (left column) and the rights of a NEON
+stockholder under the current NEON certificate of incorporation and bylaws
+(right column).
+Copies of these documents will be sent to holders of shares of
+NEON common stock upon request.
+A summary by its nature is not complete.
+We
+encourage you to refer to the relevant portions of the Sybase certificate of
+incorporation and bylaws incorporated in this document by reference, the NEON
+certificate of incorporation and bylaws, and the relevant provisions of Delaware
+law.
+
+- --------------------------------------------------------------------------------------------------------------------------
+                                                         GENERAL
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - The rights of Sybase stockholders are governed by Sybase's  - The rights of NEON stockholders are governed by NEON's
+  certificate of incorporation and bylaws, in addition to       certificate of incorporation and bylaws, in addition to
+  Delaware law.                                                 
+Delaware law.
+
+- - Upon completion of the merger, the Sybase certificate of    - Upon completion of the merger, NEON stockholders will
+  incorporation and bylaws will be the same in all respects     become Sybase stockholders.
+  
+as the present documents.
+- --------------------------------------------------------------------------------------------------------------------------
+                                                    AUTHORIZED CAPITAL
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - The authorized capital stock of Sybase consists of:         - The authorized capital stock of NEON consists of:
+  - 200,000,000 shares of Sybase common stock, with a par     - 200,000,000 shares of NEON common stock, with a par value
+  value of $0.001 per share; there were 87,881,136 shares of    of $0.0001 per share; there were 36,848,779 shares of
+  common stock outstanding as of February 15, 2001.             
+common stock outstanding as of March 8, 2001.
+  - 8,000,000 shares of preferred stock, with a par value of  - 2,000,000 shares of preferred stock, with a par value of
+  $0.001 per share, none issued or outstanding as of            $0.0001 per share, none issued or outstanding as of March
+  February 15, 2001.                                            8, 2001.
+- --------------------------------------------------------------------------------------------------------------------------
+                                             AMENDMENT OF GOVERNING DOCUMENTS
+- --------------------------------------------------------------------------------------------------------------------------
+CHARTER
+- --------------------------------------------------------------------------------------------------------------------------
+
+                           SYBASE                                                         NEON
+
+- - Except for the matters specified in the following section,  - Except for the matters specified in the following section,
+  an authorization of the Sybase board, followed by the vote    an authorization of the NEON board, followed by the vote
+  of a majority of the outstanding shares of Sybase common      of a majority of the outstanding shares of NEON common
+  stock is required for an amendment to the Sybase              stock is required for an amendment to the NEON certificate
+  certificate of incorporation.                                 of incorporation.
+
+                           
+SYBASE                                                         NEON
+
+- - An amendment to the Sybase certificate of incorporation     - An amendment to the NEON certificate of incorporation
+  providing for the following requires the affirmative vote     which substantially alters the certificate of
+  of the holders of a majority or more of the outstanding       incorporation in a manner adversely and substantially
+  shares of Series A Participating Preferred Stock, voting      affecting the preferred stock requires the approval of the
+  separately as a class:                                        majority of outstanding shares of NEON preferred stock.
+  - amending the certificate of incorporation in a manner
+    materially and adversely affecting the powers and
+    preferences of the Series A Participating Preferred
+    Stock.
+
+
+- - The affirmative vote of the holders of at least  2/3 of
+  the combined voting power of all of the then-outstanding
+  shares of Sybase entitled to vote is required to alter,
+  amend or repeal stockholder voting rights in the election
+  of directors and the provision of the bylaws relating to
+  stockholder action by written consent without a meeting
+  unless such amendment is approved by a majority of
+  directors not affiliated with any person or entity holding
+  26% or more of the voting power of Sybase's outstanding
+  capital stock.
+
+BYLAWS
+- --------------------------------------------------------------------------------------------------------------------------
+
+                           SYBASE                                                         NEON
+
+  - The Sybase bylaws may be adopted, amended or repealed     - The NEON bylaws may be adopted, amended or repealed by:
+     by:
+     - the board of directors; or                             - the board of directors; or
+     - the stockholders entitled to vote.                     - the stockholders entitled to vote.
+  -
+The affirmative vote of at least  2/3 of the combined
+    voting power of all the then-outstanding shares of
+    Sybase entitled to vote is required to alter, amend or
+    repeal stockholder voting rights and the provision of
+    the bylaws relating to the stockholder action by written
+    consent without a meeting unless such amendment is
+    approved by a majority of the directors not affiliated
+    or associated with any person or entity holding 26% or
+    more of the voting power of Sybase's outstanding capital
+    stock.
+
+
+- --------------------------------------------------------------------------------------------------------------------------
+DIRECTORS
+- --------------------------------------------------------------------------------------------------------------------------
+NUMBER
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - Sybase's bylaws provide that the board of directors shall   - The NEON bylaws provide that the board of directors shall
+  consist of 7 directors.                                       
+consist of 9 members.
+This number may be changed by an
+                                                                amendment to the certificate of incorporation or by an
+                                                                amendment to the bylaws adopted by the board of directors
+                                                                or by the stockholders.
+- - The current number of directors is 7.                       -
+The current number of directors is 7.
+
+CLASSIFICATION
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - The board of directors is divided into three classes, each  - The board of directors is divided into three classes with
+  as nearly equal in number as possible, with one class         overlapping three-year terms.
+There are two Class I
+  being elected annually to a three-year term.
+There are two    directors, whose terms will expire at the annual meeting
+  Class I directors, whose terms will expire at the annual      to be held in 2003; three Class II directors, whose term
+  meeting to be held in 2002; three Class II directors,         will expire at the annual meeting to be held in 2002; and
+  whose terms will expire at the annual meeting to be held      two Class III directors, whose terms will expire at the
+  in 2003; and four Class III directors, whose terms will       annual meeting to be held in 2001.
+  
+expire at the annual meeting to be held in 2001.
+
+
+NOMINATIONS
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - A stockholder must make any nomination for a director in    - A stockholder must make any nomination for a director in
+  writing to the secretary of Sybase at least 90 days prior     writing to the secretary of NEON not less than 90 days in
+  to the annual or special meeting; however, in the event       advance of the annual meeting or special meeting;
+  that less than 100 days notice or prior public disclosure     provided, however, that in the case of a meeting called by
+  of the date of the meeting is given or made to                or on behalf of the board of directors of NEON where prior
+  stockholders, notice by the stockholder to be timely must     notice, or public disclosure, of the meeting has not been
+  be so received not later than the close of business on the    given or made at least 100 days prior to such meeting,
+  tenth day following the day on which such notice of the       notice by the stockholder to be timely must be so received
+  date of the meeting was mailed or such public disclosure      not later than the close of business on the tenth day
+  was made.                                                     
+following the day on which such notice of the date of the
+                                                                meeting was mailed or such public disclosure was made.
+
+REMOVAL
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - Sybase directors may be removed with or without cause, by   - Any director or the entire board or directors may be
+  the holders of a majority of shares then entitled to vote     removed, with or without cause, by the holders of a
+  at an election of directors.
+However, so long as              majority of the shares then entitled to vote at an
+  stockholders are entitled to cumulative voting, if less       election of directors.
+  
+than the entire board is to be removed, no director may be
+  removed without cause if the votes cast against his or her
+  removal would be sufficient to elect him or her if then
+  cumulatively voted at an election of the entire board of
+  directors.
+
+- --------------------------------------------------------------------------------------------------------------------------
+STOCKHOLDERS
+- --------------------------------------------------------------------------------------------------------------------------
+ANNUAL MEETINGS OF STOCKHOLDERS
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - The annual meeting of stockholders must be held on a date   - The annual meeting of stockholders shall be held on a date
+  and at a place within or without Delaware as may be           and at a place fixed by the NEON board of directors.
+In
+  designated by resolution of the board of directors.           
+the absence of such designation, the annual meeting of
+                                                                stockholders shall be held on the third Friday in June in
+                                                                each year at 3:00 p.m.
+However, if such day falls on a
+                                                                legal holiday, then the meeting shall be held at the same
+                                                                time and place on the next succeeding full business day.
+
+SPECIAL MEETINGS OF STOCKHOLDERS
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - Special meetings of the stockholders, for any purposes,     - A special meeting of stockholders may be called at any
+  may be called at any time by the board of directors, by       time by the board of directors, the chairman of the board
+  the chairman of the board, by the president or by the         or the chief executive officer, or by one or more
+  chief executive officer, or by one or more stockholders       stockholders holding shares in the aggregate entitled to
+  holding shares in the aggregate entitled to cast not less     cast not less than 20% of the votes of all shares of stock
+  than 10% of the votes at that meeting.                        
+owned by stockholders entitled to vote at that meeting.
+
+
+STOCKHOLDER PROPOSALS
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - A Sybase stockholder wishing to bring business before the   - A NEON stockholder wishing to bring business before the
+  annual or special stockholders' meeting must provide          annual stockholders' meeting must provide written notice
+  written notice to the corporation's secretary.
+The notice     not less than 90 days in advance of the annual meeting;
+  must be received not less than 90 days prior to the           provided, however, that in the case of a meeting called by
+  meeting.                                                      
+or on behalf of the board of directors of NEON where prior
+                                                                notice, or public disclosure, of the meeting has not been
+                                                                given or made at least 100 days prior to such meeting,
+                                                                notice by the stockholder to be timely must be so received
+                                                                not later than the close of business on the tenth day
+                                                                following the day on which such notice of the date of the
+                                                                meeting was mailed or such public disclosure was made.
+
+STOCKHOLDER RIGHTS PLANS
+- --------------------------------------------------------------------------------------------------------------------------
+SYBASE                                                        NEON
+- - Sybase entered into a Preferred Shares Rights Agreement     - NEON entered into a Preferred Shares Rights Agreement
+  dated as of March 24, 1992 between Sybase and The First       dated as of August 5, 1998 between NEON and Bank Boston,
+  National Bank of Boston as rights agent (commonly referred    N.A. as rights agent (commonly referred to as a "poison
+  to as a "poison pill").                                       pill").
+NEON has amended this agreement so that it will
+                                                                not apply to the offer and merger.
+
+- - Rights will separate from Sybase's common stock and become  - Rights will separate from NEON's common stock and become
+  exercisable following the tenth day (or such later date as    exercisable following (a) the fifteenth day (or such later
+  may be determined by a majority of the directors not          date as may be determined by a majority of the board of
+  affiliated with the acquiring person or group) after a        directors) after a person or group acquires beneficial
+  person or group (a) acquires beneficial ownership of 15%      ownership of 15% or more of NEON's common stock or (b) the
+  or more of Sybase's common stock or (b) announces a tender    fifteenth day (or such later date as may be determined by
+  or exchange offer, the consummation of which would result     a majority of the board of directors) after a person or
+  in ownership by a person or group of 15% or more of           group announces a tender or exchange offer, the
+  Sybase's common stock.                                        
+consummation of which would result in ownership by a
+- - There is an exception, under certain terms, for an            person or group of 15% or more of NEON's common stock.
+  
+acquisition by Lotus Development Corporation.                 
+However, with respect to George F. (Rick) Adam, Jr., the
+                                                                applicable percentage shall be 25% in lieu of 15% and with
+                                                                respect to other stockholders of record on the record
+                                                                date, the applicable percentage shall be 20% in lieu of
+                                                                15%.
+
+- - After the distribution date, each Right will entitle the    - After the distribution date, each Right will entitle the
+  holder, other than the acquiring person or group, to          holder, other than the acquiring person or group, to
+  purchase shares of Sybase common stock at a 50% discount      purchase shares of NEON common stock at a 50% discount to
+  to its market price as of the purchase date.                  
+its market price as of the purchase date.
+
+
+STATE ANTI-TAKEOVER LAWS
+
+     Under Delaware law, a Delaware corporation generally may not engage in a
+"business combination" with an "interested stockholder" for a period of three
+years following the date that the stockholder became an interested stockholder.
+
+"Business combination" includes a merger, consolidation, asset sale or other
+transaction resulting in a financial benefit to the interested stockholder.
+
+"Interested stockholder" is a person who, together with affiliates and
+associates, owns, or within three years, did own 15% or more of the
+corporation's voting stock.
+This prohibition does not apply if
+
+     - the corporation has elected not to be governed by these restrictions;
+
+     - prior to the time that the stockholder became an interested stockholder,
+       the board of directors of the corporation approved either the business
+       combination or the transaction resulting in the stockholder's becoming an
+       interested stockholder;
+
+     - upon consummation of the transaction resulting in the stockholder's
+       becoming an interested stockholder, the stockholder owns at least 85% of
+       the outstanding voting stock of the corporation, excluding voting stock
+       owned by directors who are also officers and certain employee stock
+       plans; or
+
+     - at or subsequent to the time that the stockholder became an interested
+       stockholder, the business combination is approved by the board and
+       authorized at an annual or special meeting of stockholders, and not by
+       written consent, by the affirmative vote of at least two-thirds of the
+       outstanding voting stock that the interested stockholder does not own.
+
+     
+Neither Sybase nor NEON has elected not to be governed by these
+restrictions.
+The NEON board of directors has taken the necessary action to make
+the above restrictions on business combinations inapplicable to the offer and
+the merger.
+
+                         
+BENEFICIAL SHARE OWNERSHIP BY
+                     PRINCIPAL STOCKHOLDERS AND MANAGEMENT
+
+     The following table sets forth certain information concerning the
+beneficial ownership of shares of NEON common stock as of February 15, 2001 for
+the following: (1) each person or entity who is known by NEON to own
+beneficially more than 5% of the outstanding Shares; (2) each of NEON's
+directors; (3) each of the executive officers of NEON named in the Summary
+Compensation Table set forth in NEON's Solicitation/Recommendation on Schedule
+14D-9; and (4) all directors and executive officers of NEON as a group.
+
+                                                                 
+SHARES        PERCENTAGE
+                                                              BENEFICIALLY    BENEFICIALLY
+    5% STOCKHOLDERS, DIRECTORS AND EXECUTIVE OFFICERS(1)        OWNED(2)        OWNED(2)
+    
+----------------------------------------------------      ------------    ------------
+
+George F. (Rick) Adam, Jr.(3)...............................   3,940,823          10.7%
+Patrick J. Fortune(4).......................................     247,374             *
+Melvyn E. Bergstein(5)......................................      
+11,110             *
+Mark L. Gordon(6)...........................................      
+27,499             *
+Joseph E. Kasputys(7).......................................      
+44,554             *
+Steven Lazarus(8)...........................................      95,364             *
+Robert I. Theis(9)..........................................     192,185             *
+Stephen E. Webb(10).........................................     
+145,923             *
+Frederick T. Horn(11).......................................     215,478             *
+Franz Koepper(12)...........................................      
+71,667             *
+All directors and executive officers as a group (12
+  persons)(13)..............................................   5,197,834          13.8
+
+- ---------------
+  *  Less than 1%.
+
+ 
+(1) This information was obtained from filings made with the SEC pursuant to
+     Sections 13(d) or 13(g) of the Exchange Act.
+Unless otherwise indicated,
+     the address of each of the individuals or entities named above is: c/o New
+     Era of Networks, Inc., 6550 Greenwood Plaza Boulevard, Englewood, Colorado
+     80111.
+
+ 
+(2) The number and percentage of shares of NEON common stock beneficially owned
+     is determined in accordance with Rule 13d-3 of the Exchange Act, and the
+     information is not necessarily indicative of beneficial ownership for any
+     other purpose.
+Under such rule, beneficial ownership includes any shares of
+     NEON common stock as to which the individual or entity has voting power or
+     investment power and also any shares of NEON common stock which the
+     individual or entity has the right to acquire within 60 days of February
+     15, 2001 through the exercise of any stock option or other right.
+Unless
+     otherwise indicated in the footnotes, each person has sole voting and
+     investment power (or shares such powers with his or her spouse) with
+     respect to the shares shown as beneficially owned.
+
+ 
+(3) Includes an aggregate of 383,272 shares of NEON common stock held by
+     certain entities over which Mr. Adam has voting and investment control.
+     
+Also includes 122,278 shares of NEON common stock issuable upon exercise of
+     stock options that are exercisable within 60 days of February 15, 2001.
+
+ 
+(4) Includes 195,931 shares of NEON common stock issuable upon exercise of
+     stock options that are exercisable within 60 days of February 15, 2001.
+
+ 
+(5) Consists solely of shares of NEON common stock issuable upon exercise of
+     stock options that are exercisable within 60 days of February 15, 2001.
+
+ 
+(6) Includes 3,000 shares of NEON common stock held by the Mark L. Gordon Trust
+     and 500 shares of NEON common stock held by Mr. Gordon's wife.
+Also
+     includes 19,999 shares of NEON common stock issuable upon exercise of stock
+     options that are exercisable within 60 days of February 15, 2001.
+
+ 
+(7) Includes 25,554 shares of NEON common stock issuable upon exercise of stock
+     options that are exercisable within 60 days of February 15, 2001.
+
+ 
+(8) Includes 5,496 shares of NEON common stock held by ARCH Venture Fund II,
+     L.P., a limited partnership of which Mr. Lazarus is a general partner.
+Also
+     includes 2,000 shares of NEON common stock held by Mr. Lazarus's wife,
+     16,481 shares of NEON common stock held by the Arlene Lazarus Trust and
+     4,100 shares of NEON common stock held by the Lazarus Investment Limited
+     Partnership.
+Also includes 46,665 shares of NEON common stock issuable upon
+     exercise of stock options that are exercisable within 60 days of February
+     15, 2001.
+
+ 
+(9) Includes 129,269 shares of NEON common stock issuable upon exercise of
+     stock options exercisable within 60 days of February 15, 2001.
+
+
+(10) Includes 100,655 shares of NEON common stock issuable upon exercise of
+     stock options exercisable within 60 days of February 15, 2001.
+
+
+(11) Includes 200 shares of NEON common stock held by Mr. Horn as custodian for
+     his daughter and 136,997 shares of NEON common stock issuable upon exercise
+     of stock options exercisable within 60 days of February 15, 2001.
+
+
+(12) Includes 3,125 shares of NEON common stock issuable upon exercise of stock
+     options exercisable within 60 days of February 15, 2001.
+
+
+(13) Includes an aggregate of 900,015 shares of NEON common stock issuable upon
+     exercise of stock options exercisable within 60 days of February 15, 2001.
+
+                                 
+LEGAL MATTERS
+
+     Wilson Sonsini Goodrich & Rosati, Professional Corporation, counsel to
+Sybase, will pass on the validity of the shares of Sybase common stock to be
+issued to NEON stockholders in the offer and merger.
+
+                                    
+EXPERTS
+
+     Ernst & Young LLP, independent auditors, have audited our consolidated
+financial statements and schedule included in our Annual Report on Form 10-K for
+the year ended December 31, 2000, as set forth in their report, which is
+incorporated by reference in this prospectus and elsewhere in the registration
+statement.
+Our financial statements are incorporated by reference in reliance on
+Ernst & Young LLP's report, given on their authority as experts in accounting
+and auditing.
+
+     
+The consolidated financial statements of New Era of Networks, Inc. included
+in its Annual Report on Form 10-K for the year ended December 31, 2000,
+incorporated by reference in this prospectus and elsewhere in the registration
+statement have been audited by Arthur Andersen LLP, independent public
+accountants, as indicated in their report with respect thereto, and are
+incorporated by reference herein in reliance upon the authority of said firm as
+experts in giving said report.
+
+                                                                      
+SCHEDULE I
+
+                      INFORMATION CONCERNING DIRECTORS AND
+                       EXECUTIVE OFFICERS OF SYBASE, INC.
+
+     Directors and Executive Officers.
+The following table sets forth the name,
+age and present principal occupation or employment, and material occupations,
+positions, offices or employments for the past five years, of each director and
+executive officer of Sybase.
+Except as indicated below, the business address of
+each such person is Sybase, Inc., 6475 Christie Avenue, Emeryville, California
+94608.
+
+                                                    
+PRESENT PRINCIPAL OCCUPATION OR EMPLOYMENT
+      NAME AND BUSINESS ADDRESS        AGE               AND FIVE-YEAR EMPLOYMENT HISTORY
+      -------------------------        ---   --------------------------------------------------------
+
+John S. Chen.........................  44    
+Mr. Chen has been Chairman, President and Chief
+                                             Executive officer of Sybase, Inc. since November 1998.
+                                             
+From February through November 1996, he served as
+                                             co-Chief Executive Officer.
+Mr. Chen joined Sybase in
+                                             August 1997 as Chief Operating Officer and served in
+                                             that capacity until February 1998.
+From March 1995 to
+                                             July 1997, Mr. Chen was President of the Open Enterprise
+                                             Computing Division, Siemens Nixdort, a computer and
+                                             electronics company, and Chief Executive Officer and
+                                             Chairman of Siemens Pyramid, a subsidiary of Siemens
+                                             Nixdorf.
+He has also served as a Board member of Beyond.
+                                             com since March 1999.
+
+Alan B. Salisbury....................  62    Dr. Salisbury has served as a director since July 1993.
+                                             
+He is also a member of the Audit Committee.
+From April
+                                             1993 through August 1998, he served as President and
+                                             General Manager of Learning Tree International USA,
+                                             Inc., a provider of advanced technology and technical
+                                             management training.
+Since August 1998, he has served as
+                                             Chairman of Learning Tree International USA, Inc.
+                                             Between June 1991 and April 1993, Dr. Salisbury served
+                                             as Executive Vice President and Chief Operating Officer
+                                             of Microelectronics and Computer Technology Corp., an
+                                             information technology research and development
+                                             consortium.
+From November 1984 through September 1987,
+                                             Dr. Salisbury served as the Commanding General of the
+                                             U.S. Army Information Systems Engineering Command.
+Dr.
+                                             Salisbury is also a director of TelePad Corp., Template
+                                             Software, Inc. and Learning Tree International.
+
+Linda K. Yates.......................  37    Ms. Yates is a founder of Strategos, an international
+                                             strategy consulting firm, where she served as Chief
+                                             Executive Officer from January 1995 through August 1999.
+                                             
+Ms. Yates currently serves in various advisory and board
+                                             roles with approximately 10 Silicon Valley start-ups.
+                                             
+Prior to founding Strategos in 1995, Ms. Yates spent six
+                                             years with the Mac Group/Gemini Consulting where she
+                                             served as Vice President and head of the West Coast from
+                                             1992 to 1994.
+
+                                       I-1
+
+                                                    PRESENT PRINCIPAL OCCUPATION OR EMPLOYMENT
+      NAME AND BUSINESS ADDRESS        AGE               AND FIVE-YEAR EMPLOYMENT HISTORY
+      
+-------------------------        ---   --------------------------------------------------------
+
+Richard C. Alberding.................  
+69    Mr. Alberding has served as a director since September
+                                             1993.
+He is also a member of the Compensation Committee.
+                                             
+Mr. Alberding served as an Executive Vice President of
+                                             Hewlett-Packard Company, an electronics and computer
+                                             manufacturer, before retiring from the company in 1991.
+                                             
+He had served in various management positions with HP
+                                             beginning in 1958.
+Mr. Alberding is also a director of
+                                             Digital Microwave Corp, Paging Network Inc., JLK Direct
+                                             Distribution, Inc., Kennametal, Inc., Walker Interactive
+                                             Systems, and PCTEL Inc.
+L. William Krause....................  57    Mr. Krause has served as a director since February 1995.
+                                             
+He is also a member of the Compensation Committee.
+Mr.
+                                             Krause has been President of LWK Ventures, a private
+                                             investment company, since November 1998.
+Prior to that,
+                                             beginning in October 1991, he served as President, Chief
+                                             Executive Officer and director of Storm Technology,
+                                             Inc., a provider of computer peripherals and software
+                                             for digital imaging which filed for protection under the
+                                             Federal Bankruptcy Laws in November 1998.
+He is also a
+                                             director of Pinnacle Systems, Inc. and Ramp Networks,
+                                             Inc.
+Robert P. Wayman.....................  54    Mr. Wayman has served as a director since July 1995.
+He
+                                             is also a member of the Audit Committee.
+Mr. Wayman has
+                                             been Chief Financial Officer of Hewlett-Packard Company,
+                                             a computer and electronics company, since 1984, and its
+                                             Executive Vice President, Finance and Administration
+                                             since 1992.
+He is also a director of HP and CNF Inc.,
+                                             and is the current Chairman, Private Sector Council and
+                                             member of the Kellogg Advisory Board to Northwestern
+                                             University School of Business.
+
+Cecilia Claudio......................  45    Ms. Claudio has served as a director since November
+                                             1999.
+Ms. Claudio has been Senior Vice President and
+                                             Chief Information Officer of Farmers Group, Inc., a
+                                             large automobile and home insurance company, since 1998.
+                                             
+From 1994 to 1997, she was a faculty member of Harvard
+                                             School of Public Health.
+Ms. Claudio has also held
+                                             various senior management positions at Anthem Blue
+                                             Cross/Blue Shield, Harvard Pilgrim Health Care, Xerox
+                                             Corporation, The Gap Inc. and Olivetti (Worldwide).
+
+Eric L. Miles........................  53    Mr. Miles has served as Senior Vice President and
+                                             General Manager of the Business Intelligence Division
+                                             since December 1998.
+Between December 1997, when he
+                                             joined Sybase, and December 1998, he was Senior Vice
+                                             President, Product Operations.
+From November 1995 until
+                                             he joined Sybase, Mr. Miles served as Vice President,
+                                             Product Development at Informix Corporation.
+
+Raj Nathan...........................  46    Dr. Nathan has served as Senior Vice President and
+                                             General Manager of the Internet Applications Division
+                                             since December 1998.
+Joining Sybase in November 1997, he
+                                             served as Senior Vice President, Corporate Program
+                                             Office until December 1998.
+From May through November
+                                             1997, he served as President and Chief Executive Officer
+                                             of Siemens Pyramid, and held a number of executive
+                                             positions with Siemens Pyramid prior to that.
+
+                                       
+I-2
+
+                                                    PRESENT PRINCIPAL OCCUPATION OR EMPLOYMENT
+      NAME AND BUSINESS ADDRESS        AGE               AND FIVE-YEAR EMPLOYMENT HISTORY
+      
+-------------------------        ---   --------------------------------------------------------
+
+Terry Stepien........................  
+41    Mr. Stepien has served as President of iAnywhere
+                                             Solutions, a wholly-owned subsidiary of Sybase since
+                                             March 1999.
+From September 1996 to March 1999, he was
+                                             Vice President and General Manager, Mobile and Embedded
+                                             Computing Division.
+From September 1996 to September
+                                             1998, he served as Vice President, Marketing for
+                                             Database Products.
+Mr. Stepien was Vice President,
+                                             Marketing for Workplace Database Products from February
+                                             1995 to September 1996.
+
+Pieter van der Vorst.................  
+45    Mr. Van der Vorst has served as Vice President and Chief
+                                             Financial Officer since January 1999.
+Between November
+                                             1997 and January 1999, he served as Corporate
+                                             Controller, and prior to that, he served as Vice
+                                             President, Tax and Corporate Accounting beginning in
+                                             April 1997.
+Mr. Van der Vorst has held various other
+                                             positions since joining Sybase in 1991.
+
+Pamela J. George.....................  54    Ms. George has served as Vice President of Corporate
+                                             Marketing since April 1999.
+Prior to that she was Vice
+                                             President of Corporate Communications at Maxager
+                                             Technology, beginning in December 1997.
+From October
+                                             1991 through October 1995, Ms. George was Director of
+                                             Corporate Communications for Cisco Systems.
+
+Daniel R. Carl.......................  47    Mr. Carl has served as Vice President, General Counsel
+                                             and Secretary since April 1999.
+Immediately prior to
+                                             that, he served as Director of European Legal Affairs,
+                                             beginning in January 1997.
+Mr. Carl has been a Vice
+                                             President of Sybase since May 1996, and served as
+                                             Associate General Counsel from 1992 to April 1999.
+
+Martin J. Healy......................  37    Mr. Healy has served as Vice President and Corporate
+                                             Controller since January 1999.
+Between January 1997 and
+                                             January 1999, he served as Vice President,
+                                             Intercontinental Operations.
+Mr. Healy was Director of
+                                             Finance, Asia (excluding Japan) from January 1994 to
+                                             December 1997, and prior to that held various positions
+                                             within the Company's finance organization.
+Before
+                                             joining Sybase in 1989, Mr. Healy was Financial
+                                             Reporting Manager at WordStar International.
+
+Nita C. White-Ivy....................  53    Ms. White-Ivy has served as Vice President of Human
+                                             Resources since March 1998.
+Prior to that, she was a
+                                             human resources consultant to Sybase beginning in
+                                             January 1998.
+Before joining Sybase, she was with
+                                             Siemens Pyramid, serving as Vice President of Worldwide
+                                             Human Resources from February 1994 to October 1997.
+
+Marty Beard..........................  
+38    Mr. Beard has served as Vice President of Corporate
+                                             Development since August 2000.
+Prior to joining Sybase,
+                                             Mr. Beard served as Vice President of Oracle Online
+                                             during December 1998 to July 2000, and Senior Director
+                                             of Mid Markets Business Solutions for Oracle Corporation
+                                             from June 1997 to 1999.
+From 1993 through 1997, Mr.
+                                             Beard was Staff Director of Corporate Strategy and
+                                             Development for Pacific Telesis Group.
+
+                                       
+I-3
+
+                                                                         ANNEX A
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                      AGREEMENT AND PLAN OF REORGANIZATION
+
+                                  BY AND AMONG
+
+                                  SYBASE, INC.
+
+                             NEEL ACQUISITION CORP.
+
+                                      AND
+
+                           NEW ERA OF NETWORKS,
+INC.
+
+                         DATED AS OF FEBRUARY 20, 2001
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                               
+
+                                                              PAGE
+                                                              ----
+
+ARTICLE I THE OFFER AND THE MERGER..........................   A-1
+  Section 1.01 The Offer....................................   A-1
+  Section 1.02 Company Action...............................   A-3
+  Section 1.03 Directors....................................   A-3
+  Section 1.04 The Merger...................................   A-4
+  Section 1.05 Effective Time; Closing......................   A-4
+  Section 1.06 Effect of the Merger.........................   A-4
+  Section 1.07 Certificate of Incorporation; Bylaws.........   A-4
+  Section 1.08 Directors and Officers.......................   A-5
+  Section 1.09 Effect on Capital Stock......................   A-5
+  Section 1.10 Surrender of Certificates....................   A-6
+  Section 1.11 No Further Ownership Rights in Company Common
+     Stock..................................................   A-7
+  Section 1.12 Lost, Stolen or Destroyed Certificates.......   A-7
+  Section 1.13 Tax and Accounting Consequences..............   A-8
+  Section 1.14 Taking of Necessary Action; Further Action...   A-8
+  Section 1.15 Dissenting Shares............................   A-8
+ARTICLE II REPRESENTATIONS AND WARRANTIES OF COMPANY........   A-8
+  Section 2.01 Organization and Qualification;
+     Subsidiaries...........................................   A-8
+  Section 2.02 Certificate of Incorporation and Bylaws......   A-9
+  Section 2.03 Capitalization...............................   A-9
+  Section 2.04 Authority Relative to this Agreement.........  A-11
+  Section 2.05 No Conflict; Required Filings and Consents...  A-11
+  Section 2.06 Legal Compliance; Permits....................  A-12
+  Section 2.07 SEC Filings; Financial Statements............  A-12
+  Section 2.08 No Undisclosed Liabilities...................  A-12
+  Section 2.09 Absence of Certain Changes or Events.........  A-13
+  Section 2.10 Absence of Litigation........................  A-13
+  Section 2.11 Employee Matters and Benefit Plans...........  A-13
+  Section 2.12 Restrictions on Business Activities..........  A-17
+  Section 2.13 Title to Property............................  A-17
+  Section 2.14 Taxes........................................  A-17
+  Section 2.15 Intellectual Property........................  A-19
+  Section 2.16 Reorganization...............................  A-22
+  Section 2.17 Brokers......................................  A-22
+  Section 2.18 Agreements, Contracts and Commitments........  A-22
+  Section 2.19 Insurance....................................  A-23
+  Section 2.20 Opinion of Financial Advisor.................  A-23
+  Section 2.21 Board Approval...............................  A-23
+  Section 2.22 Vote Required................................  A-24
+  Section 2.23 Environmental Matters........................  A-24
+  Section 2.24 Interested Party Transactions................  A-24
+  Section 2.25 State Takeover Statutes......................  A-25
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF PARENT AND
+            MERGER SUB......................................  A-25
+  Section 3.01 Organization and Qualification;
+     Subsidiaries...........................................  A-25
+  Section 3.02 Certificate of Incorporation and Bylaws......  A-26
+
+                                        i
+
+                                                              PAGE
+                                                              ----
+
+  Section 3.03 Capitalization...............................  A-26
+  Section 3.04 Authority Relative to this Agreement.........  
+A-26
+  Section 3.05 No Conflict; Required Filings and Consents...  A-26
+  Section 3.06 SEC Filings; Financial Statements............  A-27
+  Section 3.07 No Undisclosed Liabilities...................  A-27
+  Section 3.08 Absence of Certain Changes or Events.........  A-27
+  Section 3.09 Absence of Litigation........................  A-28
+  Section 3.10 Operations and Assets of Merger Sub..........  A-28
+  Section 3.11 Taxes........................................  A-28
+  Section 3.12 Reorganization...............................  A-28
+  Section 3.13 Brokers......................................  A-28
+ARTICLE IV INTERIM CONDUCT..................................  A-28
+  Section 4.01 Conduct of Business by Company...............  A-28
+  Section 4.02 Conduct of Business by Parent................  A-31
+ARTICLE V ADDITIONAL AGREEMENTS.............................  A-32
+  Section 5.01 Stockholder Approval; Preparation of
+               Registration Statement and Proxy Statement/
+               Prospectus...................................  A-32
+  Section 5.02 Regulatory Filings...........................  A-33
+  Section 5.03 No Solicitation..............................  A-34
+  Section 5.04 Obligations of Merger Sub....................  A-35
+  Section 5.05 Voting of Shares.............................  A-36
+  Section 5.06 Registration Statement.......................  A-36
+  Section 5.07 Confidentiality; Access to Information.......  A-36
+  
+Section 5.08 Public Disclosure............................  A-36
+  Section 5.09 Reasonable Efforts; Notification.............  A-36
+  Section 5.10 Disclosure Documents.........................  A-37
+  Section 5.11 Stock Options; ESPP..........................  A-38
+  
+Section 5.12 Form S-8.....................................  A-39
+  Section 5.13 Nasdaq Listing...............................  A-39
+  Section 5.14 Indemnification..............................  A-39
+  Section 5.15 Company Affiliate Agreements.................  A-39
+  Section 5.16 Termination of Certain Company Plans.........  A-39
+  Section 5.17 Tax Matters..................................  A-40
+  Section 5.18 No Rights Plan Amendment.....................  A-40
+  Section 5.19 Employee Benefits............................  A-40
+  Section 5.20 Action by Board of Directors.................  A-41
+ARTICLE VI CONDITIONS TO THE MERGER.........................  A-41
+  Section 6.01 Conditions to Obligations of Each Party to
+     Effect the Merger......................................  A-41
+ARTICLE VII TERMINATION, AMENDMENT AND WAIVER...............  A-41
+  Section 7.01 Termination..................................  A-41
+  Section 7.02 Notice of Termination; Effect of
+     Termination............................................  A-43
+  Section 7.03 Fees and Expenses............................  A-43
+  Section 7.04 Amendment....................................  A-44
+  Section 7.05 Extension; Waiver............................  A-44
+ARTICLE VIII GENERAL PROVISIONS.............................  A-45
+  Section 8.01
+Non-Survival of Representations and
+     Warranties.............................................  A-45
+  Section 8.02 Notices......................................  A-45
+  Section 8.03 Interpretation...............................  A-46
+
+                                        ii
+
+                                                              PAGE
+                                                              ----
+
+  Section 8.04 Counterparts.................................  A-46
+  Section 8.05 Entire Agreement; Third Party
+     Beneficiaries..........................................  A-46
+  Section 8.06 Severability.................................  A-47
+  Section 8.07 Other Remedies; Specific Performance.........  A-47
+  Section 8.08 Governing Law................................  A-47
+  Section 8.09 Rules of Construction........................  A-47
+  Section 8.10 Assignment...................................  A-47
+  Section 8.11 Waiver of Jury Trial.........................  A-47
+
+ANNEX I CONDITIONS TO THE OFFER
+
+                               INDEX OF EXHIBITS
+
+Exhibit A      Form of Company Stockholder Agreement
+Exhibit B      Form of Company Affiliate Agreement
+Exhibit C      Form of Employment and Non-Competition Agreement
+
+                                       iii
+
+                      AGREEMENT AND PLAN OF REORGANIZATION
+
+     This AGREEMENT AND PLAN OF REORGANIZATION (this "Agreement") is made and
+entered into as of February 20, 2001, among Sybase, Inc., a Delaware corporation
+("Parent"), Neel Acquisition Corp., a Delaware corporation and a wholly-owned
+subsidiary of Parent ("Merger Sub"), and New Era of Networks, Inc., a Delaware
+corporation ("Company").
+
+                                    
+RECITALS
+
+     
+The respective Boards of Directors of Parent, Merger Sub and Company have
+approved this Agreement, and declared advisable that Merger Sub make an exchange
+offer (the "Offer") to exchange shares of common stock, par value $0.001 per
+share, of Parent ("Parent Common Stock") for all of the issued and outstanding
+shares of common stock, par value $0.0001 per share ("Company Common Stock"), of
+Company (the "Shares") and the merger of Merger Sub with and into Company (the
+"Merger") upon the terms and subject to the conditions of this Agreement and in
+accordance with the General Corporation Law of the State of Delaware ("Delaware
+Law").
+
+     
+A. It is intended that, for United States federal income tax purposes, the
+Offer and the Merger (together, the "Transaction") shall be treated as an
+integrated transaction and shall qualify as a "reorganization" within the
+meaning of Section 368(a) of the Internal Revenue Code of 1986, as amended (the
+"Code").
+For accounting purposes, the Merger is intended to be accounted for as
+a "purchase" under United States generally accepted accounting principles
+("GAAP").
+
+     
+B. Concurrently with the execution of this Agreement and as a condition and
+inducement to Parent's willingness to enter into this Agreement: (1) the
+directors, executive officers and certain stockholders of Company are entering
+into Stockholder Agreements in substantially the form attached hereto as Exhibit
+A (the "Company Stockholder Agreements"), (2) the Company Affiliates (as defined
+in Section 5.15) are entering into Company Affiliate Agreements in substantially
+the form attached hereto as Exhibit B (the "Company Affiliate Agreements"), and
+(3) George Adam, Patrick Fortune, Fredrick Horn and Peter Hoversten are entering
+into Employment and Non-Competition Agreements in substantially the form
+attached hereto as Exhibit C.
+
+     C. Concurrently with the execution of this Agreement, and as a condition
+and inducement to Parent's willingness to enter into this Agreement, (i) certain
+officers of Company have entered into amendments to the Change of Control
+Severance Agreements to which such officers are party to, among other things,
+waive certain severance and other rights that may be triggered as a direct or
+indirect result of the transactions contemplated hereby (each, a "Severance
+Agreement Amendment"), and (ii) Company and American Stock Transfer & Trust
+Company have amended (the "Rights Plan Amendment") the Preferred Shares Right
+Agreement, dated August 5, 1998 (the "Company Rights Plan"), to render the
+Rights thereunder inapplicable to the Offer, the Merger and the other
+transactions contemplated by this Agreement and the Company Stockholder
+Agreements.
+
+     
+NOW, THEREFORE, in consideration of the covenants, promises and
+representations set forth herein, and for other good and valuable consideration,
+the receipt and sufficiency of which are hereby acknowledged, the parties agree
+as follows:
+
+                                   ARTICLE I
+
+                            THE OFFER
+AND THE MERGER
+
+     SECTION 1.01  The Offer.
+(a) Provided that (i) this Agreement shall not
+have been terminated in accordance with Section 7.01 and (ii) none of the events
+set forth in Annex I hereto that would entitle Parent and Merger Sub to fail to
+consummate the Offer shall have occurred and be continuing, Merger Sub shall, as
+promptly as practicable after the date hereof, commence the Offer.
+Each Share
+accepted by Merger Sub pursuant to the Offer shall be exchanged for the right to
+receive from Merger Sub that number of fully paid and nonassessable shares of
+Parent Common Stock equal to the Exchange Ratio.
+For
+
+                                       A-1
+
+purposes of this Agreement, the "Exchange Ratio" shall mean 0.3878.
+The initial
+expiration date of the Offer shall be the twentieth business day following
+commencement of the Offer.
+The Offer shall be subject to the condition that
+there shall be validly tendered in accordance with the terms of the Offer prior
+to the expiration date of the Offer and not withdrawn a number of Shares which,
+together with the Shares then owned by Parent and Merger Sub (if any) represents
+at least a majority of the total number of outstanding Shares, assuming the
+exercise of all currently exercisable options, rights and convertible securities
+(if any) and the issuance of all Shares that Company is obligated to issue
+thereunder (such total number of outstanding Shares being hereinafter referred
+to as the "Fully Diluted Shares") (the "Minimum Condition") and to the other
+conditions set forth in Annex I hereto.
+Parent and Merger Sub expressly reserve
+the right to waive the conditions to the Offer and to make any change in the
+terms or conditions of the Offer; provided that, without the prior written
+consent of Company, no change may be made which decreases the number of Shares
+sought in the Offer, changes the form or amount of consideration to be paid,
+imposes conditions to the Offer in addition to those set forth in Annex I,
+changes or waives the Minimum Condition or any of the other conditions set forth
+in Annex I, extends the Offer (except as set forth in the following two
+sentences), or makes any other change to any of the terms and conditions to the
+Offer which is adverse to the holders of Shares.
+Subject to the terms of the
+Offer and this Agreement and the satisfaction (or waiver to the extent permitted
+by this Agreement) of the conditions to the Offer, Merger Sub shall accept for
+payment all Shares validly tendered and not withdrawn pursuant to the Offer as
+soon as practicable after the applicable expiration date of the Offer and shall
+pay for all such Shares promptly after acceptance; provided that (x) Merger Sub
+shall extend the Offer for successive extension periods not in excess of 10
+business days per extension if, at the scheduled expiration date of the Offer or
+any extension thereof, any of the conditions to the Offer shall not have been
+satisfied, until such time as such conditions are satisfied or waived, and (y)
+Merger Sub may extend the Offer if and to the extent required by the applicable
+rules and regulations of the Securities and Exchange Commission ("SEC").
+In
+addition, Merger Sub may extend the Offer after the acceptance of Shares
+thereunder for a further period of time by means of a subsequent offering period
+under Rule 14d-11 promulgated under the Securities Exchange Act of 1934, as
+amended (the "Exchange Act"), of not more than 20 business days to meet the
+objective (which is not a condition to the Offer) that there be validly
+tendered, in accordance with the terms of the Offer, prior to the expiration
+date of the Offer (as so extended) and not withdrawn a number of Shares which,
+together with Shares then owned by Parent and Merger Sub, represents at least
+90% of the Fully Diluted Shares.
+No fraction of a share of Parent Common Stock
+will be issued in connection with the exchange of Parent Common Stock for Shares
+upon consummation of the Offer, but in lieu thereof each tendering stockholder
+who would otherwise be entitled to receive a fraction of a share of Parent
+Common Stock (after aggregating all fractional shares of Parent Common Stock
+that otherwise would be received by such holder) in the Offer shall receive from
+Parent an amount of cash (rounded to the nearest whole cent), without interest,
+equal to the product obtained by multiplying such fraction by the closing price
+of one (1) share of Parent Common Stock on the first date Merger Sub accepts
+Shares for exchange in the Offer, as reported on the Nasdaq National Market
+("NASDAQ").
+
+     (b) As soon as practicable after the date of this Agreement, Parent shall
+prepare and file with the SEC a registration statement on Form S-4 to register
+the offer and sale of Parent Common Stock pursuant to the Offer (the
+"Registration Statement").
+The Registration Statement will include a preliminary
+prospectus containing the information required under Rule 14d-4(b) promulgated
+under the Exchange Act (the "Preliminary Prospectus").
+As soon as practicable on
+the date of commencement of the Offer, Parent and Merger Sub shall (i) file with
+the SEC a Tender Offer Statement on Schedule TO with respect to the Offer which
+will contain or incorporate by reference all or part of the Preliminary
+Prospectus and form of the related letter of transmittal (together with any
+supplements or amendments thereto, collectively the "Offer Documents") and (ii)
+cause the Offer Documents to be disseminated to holders of Shares.
+Parent,
+Merger Sub and Company each agree promptly to correct any information provided
+by it for use in the Registration Statement or the Offer Documents if and to the
+extent that it shall have become false or misleading in any material respect.
+
+Parent and Merger Sub agree to take all steps necessary to cause the Offer
+Documents as so corrected to be filed with the SEC and to be disseminated to
+holders of Shares, in
+
+                                       A-2
+
+each case as and to the extent required by applicable federal securities laws.
+
+Company and its counsel shall be given a reasonable opportunity to review and
+comment on the Schedule TO, the Registration Statement and the Offer Documents
+prior to their being filed with the SEC.
+Parent agrees to provide Company and
+its counsel with any comments Parent, Merger Sub or their counsel may receive in
+writing from the SEC or its staff with respect to the Offer Documents as soon as
+practicable after receipt of such written comments.
+
+     
+SECTION 1.02  Company Action.
+(a) Company hereby consents to the Offer and
+represents that its Board of Directors, at a meeting duly called and held on or
+prior to the date hereof, has by the unanimous vote of all directors present and
+voting (i) determined that this Agreement and the transactions contemplated
+hereby, including the Offer and the Merger, are consistent with and in
+furtherance of the long-term business strategy of Company and are advisable and
+are fair to and in the best interest of Company and its stockholders, (ii)
+approved and adopted this Agreement and the transactions contemplated hereby,
+including the Offer and the Merger and the Company Stockholder Agreements and
+the transactions contemplated thereby, which approval constitutes approval under
+Section 203 of Delaware Law such that the Offer, the Merger, this Agreement and
+the other transactions contemplated hereby and the Company Stockholder Agreement
+and the transactions contemplated thereby, are not and shall not be subject to
+any restriction pursuant to Section 203 of Delaware Law, and (iii) resolved to
+recommend acceptance of the Offer and approval and adoption of this Agreement by
+Company's stockholders (the recommendations referred to in this clause (iii) are
+collectively referred to in this Agreement as the "Recommendations").
+Company
+has been advised that all of its directors and executive officers and each
+stockholder party to the Company Stockholder Agreements currently intend to
+tender their Shares pursuant to the Offer.
+
+     
+(b) As soon as practicable on the day that the Offer is commenced, Company
+will file with the SEC and disseminate to holders of Shares a
+Solicitation/Recommendation Statement on Schedule 14D-9 (the "Schedule 14D-9")
+which shall include the opinion of Credit Suisse First Boston Corporation
+referred to in Section 2.20 and, subject to Section 5.03(b), shall include the
+Recommendations; provided, however, that prior to the Appointment Time the Board
+of Directors of Company may withhold, withdraw, modify or change in a manner
+adverse to Parent, or fail to make, its Recommendations in accordance with the
+terms of Section 5.03(b).
+Company, Parent and Merger Sub each agree promptly to
+correct any information provided by it for use in the Schedule 14D-9 if and to
+the extent that it shall have become false or misleading in any material
+respect.
+Company agrees to take all steps necessary to cause the Schedule 14D-9
+as so corrected to be filed with the SEC and to be disseminated to holders of
+Shares, in each case as and to the extent required by applicable federal
+securities laws.
+Parent and its counsel shall be given a reasonable opportunity
+to review and comment on the Schedule 14D-9 prior to its being filed with the
+SEC.
+Company agrees to provide Parent and its counsel with any comments Company
+or its counsel receives in writing from the SEC or its staff with respect to the
+Schedule 14D-9 as soon as practicable after receipt of such written comments.
+
+     (c) Company will promptly furnish Parent and Merger Sub with a list of its
+stockholders, mailing labels and any available listing or computer file
+containing the names and addresses of all record holders of Shares and lists of
+securities positions of Shares held in stock depositories, in each case as of
+the most recent practicable date, and will provide to Parent and Merger Sub such
+additional information (including, without limitation, updated lists of
+stockholders, mailing labels and lists of securities positions) and such other
+assistance as Parent or Merger Sub may reasonably request in connection with the
+Offer.
+
+     
+SECTION 1.03  Directors.
+(a) Effective upon the acceptance for payment by
+Merger Sub of Shares pursuant to the Offer (the "Appointment Time"), Parent
+shall be entitled to designate the number of directors, rounded up to the next
+whole number, on Company's Board of Directors that equals the product of (i) the
+total number of directors on Company's Board of Directors (giving effect to the
+election of any additional directors pursuant to this Section 1.03) and (ii) the
+percentage that the number of Shares owned by Parent or Merger Sub (including
+Shares accepted for payment) bears to the total number of Shares outstanding,
+and Company shall take all action reasonably necessary to cause Parent's
+designees to be elected or appointed to Company's Board of Directors, including,
+without limitation, increasing the
+
+                                       A-3
+
+number of directors, or seeking and accepting resignations of incumbent
+directors, or both; provided that, prior to the Effective Time, Company's Board
+of Directors shall always have at least two members who were directors of
+Company prior to consummation of the Offer (each, a "Continuing Director").
+If
+the number of Continuing Directors is reduced to less than two for any reason
+prior to the Effective Time, the remaining and departing Continuing Directors
+shall be entitled to designate a person to fill the vacancy.
+Notwithstanding
+anything in this Agreement to the contrary, if Parent's designees are elected to
+Company's Board of Directors prior to the Effective Time, the affirmative vote
+of a majority of the Continuing Directors shall be required for Company to (a)
+amend or terminate this Agreement or agree or consent to any amendment or
+termination of this Agreement, (b) waive any of Company's rights, benefits or
+remedies hereunder, (c) extend the time for performance of Parent's and Merger
+Sub's respective obligations hereunder, or (d) approve any other action by
+Company which is reasonably likely to adversely affect the interests of the
+stockholders of Company (other than Parent, Merger Sub and their affiliates
+(other than Company and its subsidiaries)), with respect to the transactions
+contemplated by this Agreement.
+
+     (b) Company's obligations to appoint designees to its Board of Directors
+shall be subject to Section 14(f) of the Exchange Act and Rule 14f-l promulgated
+thereunder.
+Company shall promptly take all actions required pursuant to Section
+1.03 and Rule 14f-l in order to fulfill its obligations under this Section 1.03
+and shall include in the Schedule 14D-9 such information with respect to Company
+and its officers and directors as is required under Section 14(f) and Rule
+14f-l. Parent will supply to Company in writing and be solely responsible for
+any information with respect to itself and its nominees, officers, directors and
+affiliates required by Section 14(f) and Rule 14f-1.
+
+     
+SECTION 1.04  The Merger.
+At the Effective Time (as defined in Section
+1.05) and subject to and upon the terms and conditions of this Agreement and the
+applicable provisions of Delaware Law, Merger Sub shall be merged with and into
+Company (the "Merger"), the separate corporate existence of Merger Sub shall
+cease and Company shall continue as the surviving corporation.
+Company as the
+surviving corporation after the Merger is hereinafter sometimes referred to as
+the "Surviving Corporation."
+
+     SECTION 1.05  Effective Time; Closing.
+Subject to the provisions of this
+Agreement, Company and Merger Sub shall cause the Merger to be consummated by
+filing a certificate of merger with the Secretary of State of the State of
+Delaware in accordance with the relevant provisions of Delaware Law (the
+"Certificate of Merger")
+(the time of such filing (or such later time as may be
+agreed in writing by Company and Parent and specified in the Certificate of
+Merger) being the "Effective Time") as soon as practicable on or after the
+Closing Date (as herein defined).
+Unless the context otherwise requires, the
+term "Agreement" as used herein refers collectively to this Agreement and Plan
+of Reorganization and the Certificate of Merger.
+The closing of the Merger (the
+"Closing") shall take place at the offices of Wilson Sonsini Goodrich & Rosati,
+Professional Corporation, One Market, Spear Street Tower, Suite 3300, San
+Francisco, California, at a time and date to be specified by the parties, which
+shall be no later than the second business day after the satisfaction or waiver
+of the conditions set forth in Article VI, or at such other time, date and
+location as the parties hereto agree in writing (the "Closing Date").
+
+     
+SECTION 1.06  Effect of the Merger.
+At the Effective Time, the effect of
+the Merger shall be as provided in this Agreement and the applicable provisions
+of Delaware Law.
+Without limiting the generality of the foregoing, and subject
+thereto, at the Effective Time all the property, rights, privileges, powers and
+franchises of Company and Merger Sub shall vest in the Surviving Corporation,
+and all debts, liabilities and duties of Company and Merger Sub shall become the
+debts, liabilities and duties of the Surviving Corporation.
+
+     
+SECTION 1.07  Certificate of Incorporation; Bylaws.
+
+     (a) Certificate of Incorporation.
+At the Effective Time, subject to the
+provisions of Section 5.14 hereof, the Certificate of Incorporation of Company
+shall be amended and restated in its entirety to be the same in substance as the
+Certificate of Incorporation of Merger Sub, as in effect immediately prior to
+the Effective Time (except that the name of Company shall remain "New Era of
+Networks, Inc."), and such Certificate of Incorporation of Company, as so
+amended and restated, shall be the Certificate of
+
+                                       A-4
+
+Incorporation of the Surviving Corporation until thereafter amended in
+accordance with Delaware Law and such Certificate of Incorporation.
+
+     (b) Bylaws.
+At the Effective Time, subject to the provisions of Section
+5.14 hereof, the Bylaws of Merger Sub as in effect immediately prior to the
+Effective Time shall be adopted as the Bylaws of the Surviving Corporation until
+thereafter amended in accordance with Delaware Law, the Certificate of
+Incorporation of the Surviving Corporation and such Bylaws.
+
+     
+SECTION 1.08  Directors and Officers.
+The initial directors of the
+Surviving Corporation shall be the directors of Merger Sub immediately prior to
+the Effective Time until their successors shall have been duly elected and
+qualified.
+The initial officers of the Surviving Corporation shall be the
+officers of Merger Sub immediately prior to the Effective Time until their
+successors shall have been duly elected and qualified.
+
+     
+SECTION 1.09  Effect on Capital Stock.
+Subject to the terms and conditions
+of this Agreement, at the Effective Time, by virtue of the Merger and without
+any action on the part of Parent, Merger Sub, Company or the holders of any of
+the following securities, the following shall occur:
+
+          (a) Conversion of Company Common Stock.
+Each share of Company Common
+     Stock issued and outstanding immediately prior to the Effective Time (other
+     than any share of Company Common Stock to be canceled and extinguished
+     pursuant to Section 1.09(b)) will be automatically converted (subject to
+     Sections 1.09(e) and (f)) into the right to receive a fraction of a share
+     of Parent Common Stock equal to the Exchange Ratio (together with the cash
+     in lieu of Fractional Shares of Parent Common Stock as specified below, the
+     "Merger Consideration") upon surrender of the certificate representing such
+     share of Company Common Stock in the manner set forth in Section 1.10
+     hereof (or in the case of a lost, stolen or destroyed certificate, upon
+     delivery of an affidavit (and bond, if required) in the manner set forth in
+     Section 1.12 hereof).
+Except to the extent otherwise provided for in any
+     plan or agreement listed on Section 2.03 or 2.18 of the Company Schedule
+     applicable to such shares, any shares of Company Common Stock outstanding
+     immediately prior to the Effective Time are unvested or are subject to a
+     repurchase option, risk of forfeiture or other condition under any
+     applicable restricted stock purchase agreement or other agreement with
+     Company, then the shares of Parent Common Stock issued in exchange for such
+     shares of Company Common Stock will also be unvested and subject to the
+     same repurchase option, risk of forfeiture or other condition, and the
+     certificates representing such shares of Parent Common Stock may
+     accordingly be marked with appropriate legends.
+Company shall take all
+     action that may be necessary to ensure that, from and after the Effective
+     Time, Parent is entitled to exercise any such repurchase option or other
+     right set forth in any such restricted stock purchase agreement or other
+     agreement.
+
+          (b) Cancellation of Company-Owned and Parent-Owned Stock.
+Each share
+     of Company Common Stock held by Parent, Company or any direct or indirect
+     wholly-owned subsidiary of Parent or Company, immediately prior to the
+     Effective Time shall be canceled and extinguished without any conversion
+     thereof.
+
+          
+(c) Stock Options; Employee Stock Purchase Plans.
+(i)
+At the Effective
+     Time, all options to purchase Company Common Stock then outstanding under
+     Company's 1995 Stock Option Plan, 1997 Director Option Plan, 1998
+     Nonstatutory Stock Option Plan, Century Analysis, Inc. 1996
