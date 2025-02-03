@@ -1,5 +1,447 @@
 URL: https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
 
+If purchase of or payment for Shares is
+delayed for any reason, or if we are unable to purchase or pay for Shares for
+any reason, then, without prejudice to our rights under the Offer, tendered
+Shares may be retained by the Depositary on our behalf and may not be withdrawn
+except to the extent that tendering stockholders are entitled to withdrawal
+rights as set forth in this Section 4 -- "Withdrawal Rights," subject to Rule
+14e-1(c) under the Exchange Act, which provides that no person who makes a
+tender offer shall fail to pay the consideration offered or return the
+securities deposited by or on behalf of security holders promptly after the
+termination or withdrawal of the Offer.
+
+     
+To withdraw Shares tendered pursuant to the Offer, a written, telegraphic,
+telex or facsimile transmission notice of withdrawal must be timely received by
+the Depositary at the address set forth on the back cover of this Offer to
+Purchase and must specify the name of the person who tendered the Shares to be
+withdrawn, the number of Shares to be withdrawn and the name of the registered
+holder(s), if different from the name of the person who tendered such Shares.
+If
+certificates for Shares to be withdrawn have been delivered or otherwise
+identified to the Depositary, then, prior to the release of such certificates,
+the serial numbers shown on such certificates must be submitted to the
+Depositary and, unless such Shares have been tendered by an Eligible
+Institution, the signatures on the notice of withdrawal must be guaranteed by an
+Eligible Institution.
+If Shares have been tendered pursuant to the procedures
+for book-entry transfer set forth in Section 3 -- "Procedure for Tendering
+Shares," any notice of withdrawal must
+
+also specify the name and number of the account at the Book-Entry Transfer
+Facility to be credited with the withdrawn Shares and must otherwise comply with
+such Book-Entry Transfer Facility's procedures.
+We will determine, in our sole
+discretion, all questions as to the form and validity (including time of
+receipt) of notices of withdrawal, and our determination will be final and
+binding on all parties.
+None of the Offeror, Parent, the Depositary, the
+Information Agent or any other person will be under any duty to give
+notification of any defects or irregularities in any notice of withdrawal or
+incur any liability for failure to give any such notification.
+
+     
+Any Shares properly withdrawn will be deemed not validly tendered for
+purposes of the Offer, but may be retendered at any subsequent time prior to the
+Expiration Date by following any of the procedures described in Section
+3 -- "Procedure for Tendering Shares".
+
+     
+If we provide a Subsequent Offering Period following the Offer, no
+withdrawal rights will apply to Shares tendered during such Subsequent Offering
+Period or to Shares tendered in the Offer and accepted for payment.
+
+     
+5.
+CERTAIN UNITED STATES FEDERAL INCOME TAX CONSIDERATIONS.  
+The following
+is a summary of certain United States federal income tax considerations of the
+Offer and the Merger to holders whose Shares are purchased pursuant to the Offer
+or whose Shares are converted to cash in the Merger (including pursuant to the
+exercise of appraisal rights).
+The discussion is for general information only
+and does not purport to consider all aspects of United States federal income
+taxation that may be relevant to holders of Shares.
+The discussion is based on
+current provisions of the Internal Revenue Code of 1986, as amended (the
+"Code"), existing, proposed and temporary regulations promulgated thereunder and
+administrative and judicial interpretations thereof, all of which are subject to
+change.
+The discussion applies only to holders of Shares in whose hands Shares
+are capital assets within the meaning of Section 1221 of the Code, and may not
+apply to Shares received pursuant to the exercise of employee stock options or
+otherwise as compensation, or to certain types of holders of Shares (such as
+insurance companies, tax-exempt organizations and broker-dealers) who may be
+subject to special rules under the United States federal income tax laws.
+This
+discussion does not discuss the United States federal income tax consequences to
+a holder of Shares who, for United States federal income tax purposes, is a non-
+resident alien individual, a foreign corporation, a foreign partnership or a
+foreign estate or trust, nor does it consider the effect of any foreign, state
+or local tax laws.
+
+     
+Because individual circumstances may differ, each holder of Shares should
+consult such holder's own tax advisor to determine the applicability of the
+rules discussed below to such holder and the particular tax effects to such
+holder of the Offer and the Merger, including the application and effect of
+state, local and other income tax laws.
+
+     
+The receipt of cash for Shares pursuant to the Offer or the Merger will be
+a taxable transaction for United States federal income tax purposes.
+In general,
+for United States federal income tax purposes, a holder of Shares will recognize
+gain or loss equal to the difference between (i) the holder's adjusted tax basis
+in the Shares sold pursuant to the Offer or converted to cash in the Merger and
+(ii) the amount of cash received therefor.
+Gain or loss must be determined
+separately for each block of Shares (i.e., Shares acquired at the same cost in a
+single transaction) sold pursuant to the Offer or converted to cash in the
+Merger.
+Assuming that Shares are held as a capital asset, such gain or loss will
+be a capital gain or loss.
+Any such capital gain will be a long-term capital
+gain taxable to a non-corporate holder at a maximum rate of 20% if the holder's
+Shares have been held for more than one year on the date of sale (in the case of
+the Offer) or the Effective Time of the Merger (in the case of the Merger); and
+a short-term capital gain taxable to a non-corporate holder at a maximum rate of
+up to 39.6% if the Shares have been held for one year or less on the date of
+sale (or the Effective Time of the Merger).
+
+     
+Payments in connection with the Offer or the Merger may be subject to
+"backup withholding" at a rate of 31%, unless a holder of Shares (i) is a
+corporation or comes within certain exempt categories and, when required,
+demonstrates this fact or (ii) provides a correct TIN to the payor, certifies as
+to no loss of exemption from backup withholding and otherwise complies with
+applicable requirements of the backup withholding rules.
+A holder who does not
+provide a correct TIN may be subject to penalties imposed by
+
+the Internal Revenue Service.
+Any amount paid as backup withholding does not
+constitute an additional tax and will be creditable against the holder's United
+States federal income tax liability.
+Each holder of Shares should consult with
+his or her own tax advisor as to his or her qualification for exemption from
+backup withholding and the procedure for obtaining such exemption.
+Holders
+tendering their Shares in the Offer may prevent backup withholding by completing
+the Substitute Form W-9 included in the Letter of Transmittal.
+See Section
+3 -- "Procedure for Tendering Shares."
+Similarly, holders who convert their
+Shares into cash in the Merger may prevent backup withholding by completing a
+Substitute Form W-9 and submitting it to the paying agent for the Merger.
+
+     
+6. PRICE RANGE OF COMMON SHARES; DIVIDENDS ON COMMON SHARES.  
+The Common
+Shares are traded principally on the Nasdaq Small Cap Market.
+They are also
+traded on the Boston Stock Exchange.
+The following table sets forth for the
+periods indicated the high and low closing sales price per Common Share on the
+Nasdaq Small Cap Market as reported by published financial sources.
+Historical
+amounts have been adjusted for a 1 for 6 reverse stock split, effective June 25,
+1999.
+No dividends have been declared or paid on the Common Shares during the
+quarters indicated.
+
+                                                                
+HIGH       LOW
+                                                              --------   
+--------
+
+  First Quarter.............................................  $ 6.5628   $  3.375
+  Second Quarter............................................    
+5.0628       2.75
+  Third Quarter.............................................     4.875       3.00
+  Fourth Quarter............................................    5.8125      3.875
+
+  First Quarter.............................................  $   7.00   $   4.25
+  Second Quarter............................................      7.00     5.3125
+  Third Quarter.............................................    8.9688     6.1875
+  Fourth Quarter............................................    7.5625     6.3125
+
+  First Quarter (1).........................................  $ 8.1562   $  7.125
+
+- ---------------
+
+(1) Through January 23, 2001.
+
+     
+On January 17, 2001, the last full trading day prior to the announcement of
+the Offer, the last reported closing sales price per Common Share as reported on
+the Nasdaq Small Cap Market was $7.56.
+On January 23, 2001, the last full
+trading day prior to the date of this Offer to Purchase, the last reported
+closing sales price per Common Share as reported on the Nasdaq Small Cap Market
+was $8.156.
+
+     
+7.
+CERTAIN EFFECTS OF THE TRANSACTION.
+Market for Common Shares.  
+Our
+purchase of the Common Shares pursuant to the Offer will reduce the number of
+Common Shares that might otherwise trade publicly and will reduce the number of
+holders of Common Shares.
+This could adversely affect the liquidity and market
+value of the remaining Common Shares held by stockholders other than us.
+
+Depending upon the aggregate market value and per share price of any Common
+Shares not purchased pursuant to the Offer, the Common Shares may no longer meet
+the standards for continued inclusion on the Nasdaq Small Cap Market, which
+requires that an issuer have at least 500,000 publicly held shares with a market
+value of $1 million held by at least 300 stockholders holding round lots and
+have net tangible assets of at least $2 million.
+If these standards are not met,
+the Common Shares might nevertheless continue to be included on the Nasdaq Stock
+Market with quotations published on the Nasdaq's "additional list" or in one of
+the "local lists."
+However, if the number of holders of Common Shares falls
+below 300, or if the number of publicly held Common Shares falls below 500,000,
+or if there are not at least two market makers for such Common Shares, NASD
+rules provide that the Common Shares would no longer be "qualified" for Nasdaq
+Stock Market reporting, and Nasdaq Stock Market would cease to provide any
+quotations.
+Common Shares held directly or indirectly by an officer or director
+of the Company, or by any beneficial owner of more than 10% of the Common
+Shares, ordinarily will not
+
+be considered as being publicly held for this purpose.
+If, as a result of the
+purchase of Common Shares pursuant to the Offer or otherwise, the Common Shares
+no longer meet the requirements for continued inclusion in any other tier of the
+Nasdaq Stock Market, and the Common Shares are no longer included in any tier of
+Nasdaq Stock Market, the market for such Common Shares could be adversely
+affected.
+
+     
+Depending upon the aggregate market value and per share price of any Common
+Shares not purchased pursuant to the Offer, the Common Shares also may no longer
+meet the standards for continued inclusion on the Boston Stock Exchange, which
+requires that an issuer have at least 150,000 publicly held shares with a market
+value of $500,000 held by at least 250 beneficial holders and have total assets
+of at least $1 million.
+The Boston Stock Exchange reserves the right to deny the
+listing of any company, and to suspend trading or delist a company based on the
+failure to meet any of these requirements.
+
+     
+In the event the Common Shares no longer meet the requirements for
+inclusion in any tier of the Nasdaq Stock Market or the Boston Stock Exchange,
+quotations might still be available from other sources.
+The extent of the public
+market for such Common Shares and availability of such quotations would,
+however, depend upon the number of holders of such Common Shares remaining at
+such time, the interest in maintaining a market in the Common Shares on the part
+of securities firms, the possible termination of registration of the Common
+Shares under the Exchange Act, as described below, and other factors.
+
+     
+The Company intends to delist the Common Shares from the Nasdaq Small Cap
+Market and the Boston Stock Exchange as soon as practicable following the
+consummation of the Offer and in any event following the consummation of the
+Merger.
+
+     
+Exchange Act Registration.  
+The Common Shares are currently registered
+under the Exchange Act.
+Such registration may be terminated upon application by
+the Company to the Commission if the Common Shares are not listed on a "national
+securities exchange" and there are fewer than 300 record holders of Common
+Shares.
+It is our intention to seek to cause an application for such termination
+to be made as soon after consummation of the Offer as the requirements for
+termination of registration of the Common Shares are met.
+If such registration
+were terminated, the Company would no longer legally be required to disclose
+publicly in proxy materials distributed to stockholders the information which it
+now must provide under the Exchange Act or to make public disclosure of
+financial and other information in annual, quarterly and other reports required
+to be filed with the Commission under the Exchange Act, the requirements of Rule
+13e-3 under the Exchange Act with respect to going private transactions would no
+longer apply to the Company, and the officers, directors and 10% stockholders of
+the Company would no longer be subject to the "short-swing" insider trading
+reporting and profit recovery provisions of the Exchange Act.
+Furthermore, if
+such registration were terminated, persons holding "restricted securities" of
+the Company may be deprived of their ability to dispose of such securities under
+Rule 144 promulgated under the Securities Act of 1933, as amended (the
+"Securities Act").
+
+     Margin Regulations.  
+The Common Shares are presently "margin securities"
+under the regulations of the Board of Governors of the Federal Reserve System
+(the "Federal Reserve Board"), which status has the effect, among other things,
+of allowing brokers to extend credit on the collateral of the Common Shares.
+
+Depending upon factors similar to those described above regarding listing and
+market quotations, it is possible that, following the Offer, the Common Shares
+would no longer constitute "margin securities" for the purposes of the margin
+regulations of the Federal Reserve Board and therefore could no longer be used
+as collateral for loans made by brokers.
+In addition, if registration of the
+Common Shares under the Exchange Act were terminated, the Common Shares would no
+longer constitute "margin securities.
+"
+
+     8.
+CERTAIN INFORMATION CONCERNING THE COMPANY.  
+Except as otherwise set
+forth herein, the information concerning the Company contained in this Offer to
+Purchase, including financial information, has been furnished by the Company or
+has been taken from or based upon publicly available documents and records on
+file with the Commission and other public sources.
+Although we have no knowledge
+that would indicate that statements contained herein based upon such information
+or documents are untrue, we do not, nor does Parent or the Information Agent,
+assume any responsibility for the accuracy or completeness of the information
+concerning the Company, furnished by the Company, or contained in such
+
+documents and records or for any failure by the Company to disclose events which
+may have occurred or may affect the significance or accuracy of any such
+information but which are unknown to us.
+
+     
+The Company is a Nevada corporation with its principal executive offices
+located at 110 Cypress Station Drive, Suite 220, Houston, Texas.
+The Company is
+an independent oil and gas company engaged in the acquisition of oil and gas
+reserves through a program which includes purchases of reserves, reengineering,
+development and exploration activities currently focused in Texas and Louisiana.
+
+     
+The Company is subject to the informational requirements of the Exchange
+Act and, in accordance therewith, files periodic reports, proxy statements and
+other information with the Commission relating to its business, financial
+condition and other matters.
+The Company is required to disclose in such proxy
+statements certain information, as of particular dates, concerning the Company's
+directors and officers, their remuneration, stock options granted to them, the
+principal holders of the Company's securities and any material interests of such
+persons in transactions with the Company.
+Such reports, proxy statements and
+other information may be inspected at the public reference facilities maintained
+by the Commission at Room 1024, 450 Fifth Street, N.W., Washington, D.C. 20549,
+and at the regional offices of the Commission located at Seven World Trade
+Center, 13th Floor, New York, New York 10048 and Citicorp Center, 500 West
+Madison Street (Suite 400), Chicago, Illinois 60661.
+Copies of such material may
+also be obtained by mail, at prescribed rates, from the Commission's principal
+office at 450 Fifth Street, N.W., Washington, D.C. 20549.
+The Commission also
+maintains a World Wide Web site on the internet at http://www.sec.gov that
+contains reports and other information regarding registrants that file
+electronically with the Commission.
+Such material should also be available for
+inspection at the offices of Nasdaq, 1735 K Street, N.W., Washington D.C. 20006.
+
+Nothing contained in any website is incorporated by reference herein.
+
+     
+9.
+CERTAIN INFORMATION CONCERNING PARENT AND THE OFFEROR.  
+We are a Nevada
+corporation that was formed as an acquisition vehicle in connection with the
+Offer, the Merger and the other transactions contemplated by the Merger
+Agreement and we will be merged with and into the Company pursuant to the
+Merger.
+We are a wholly-owned subsidiary of Parent.
+
+     
+Parent is an independent energy company engaged in the exploration,
+development, production and acquisition of crude oil and natural gas.
+North
+American operations are focused in the shelf and deepwater areas of the Gulf of
+Mexico, the Permian Basin, Mid-continent and Rocky Mountain regions.
+
+Internationally, Ocean Energy holds a leading position among U.S. independents
+in West Africa with oil and gas activities in Cote d'Ivoire, Equatorial Guinea
+and Angola.
+The company also conducts operations in the republics of Egypt,
+Tatarstan, Pakistan and Indonesia.
+
+     
+The name, citizenship, business address, present principal occupation or
+employment and five-year employment history of each of our directors and
+executive officers as well as those of Parent are set forth in Schedule I
+hereto.
+
+     
+Except as provided in the Merger Agreement, the Tender and Voting
+Agreement, the Tender Agreement and as otherwise described in this Offer to
+Purchase, neither Parent nor us, nor, to the best of our knowledge and the best
+knowledge of Parent, any of the persons listed on Schedule I hereto, has any
+contract, arrangement, understanding or relationship with any other person with
+respect to any securities of the Company, including, but not limited to, any
+contract, arrangement, understanding or relationship concerning the transfer or
+the voting of any securities of the Company, joint ventures, loan or option
+arrangements, puts or calls, guarantees of loans, guarantees against loss or the
+giving or withholding of proxies.
+Except as set forth in this Offer to Purchase,
+none of Parent or us, or, to the best of our knowledge and the best knowledge of
+Parent, none of the persons listed on Schedule I hereto, has had, within the
+past two years, any business relationships or transactions with the Company or
+any of its executive officers, directors or affiliates that would require
+reporting under the rules of the Commission applicable to this Offer to
+Purchase.
+Except as set forth in this Offer to Purchase, within the past two
+years, there have been no contacts, negotiations or transactions between Parent
+or us or any of Parent's respective subsidiaries, or, to the best of our
+knowledge and the best knowledge of Parent, any of the persons listed on
+Schedule I hereto, and the Company or its affiliates, concerning a merger,
+consolidation
+
+or acquisition, tender offer or other acquisition of securities, election of
+directors or a sale or other transfer of a material amount of assets.
+Except as
+set forth in this Offer to Purchase, neither we nor Parent, nor, to the best of
+our knowledge and the best knowledge of Parent, any of the persons listed on
+Schedule I hereto, beneficially owns any Shares or has effected any transactions
+in the Shares during the past sixty days.
+
+     
+10.
+SOURCE AND AMOUNT OF FUNDS.  
+The Offer is not conditioned on any
+financing arrangements.
+We estimate that the total amount of funds required to
+consummate the Offer and the Merger, make the Company Option Payments and
+Company Warrant Payments and pay related fees and expenses will be approximately
+$121 million.
+We will obtain the required funds from Parent in the form of
+capital contributions or loans from Parent.
+
+     
+Parent will provide such funds from borrowings under its $500 Revolving
+Credit Agreement (the "Credit Facility"), dated as of March 30, 1999, among
+Parent, Chase Bank of Texas, National Association, The Chase Manhattan Bank,
+Bank of America National Trust and Savings Association, Bank One Texas, N. A.,
+Societe Generale, Southwest Agency, the Bank of Montreal, and the other Banks
+signatory thereto.
+The Credit Facility bears interest, at Parent's option, at a
+competitive bid or LIBOR or prime rates plus applicable margins ranging from
+zero to 1.7% or at a competitive bid.
+Parent expects to use funds generated from
+its operations to repay its borrowings under the Credit Facility.
+
+     
+The foregoing summary of the Credit Facility is qualified in its entirety
+by reference to the Credit Facility, which is incorporated herein by reference,
+and a copy of which has been filed as an exhibit to the Schedule TO filed by
+Parent and us with the Commission in connection with the Offer.
+The Credit
+Facility may be examined and copies may be obtained at the places described in
+Section 8.
+
+     11.
 BACKGROUND OF THE OFFER; PAST CONTACTS, TRANSACTIONS OR NEGOTIATIONS
 WITH THE COMPANY.
 
@@ -3540,1135 +3982,3 @@ considered irrevocable and coupled with an interest.
 Such appointment will be
 effective when, and only to the extent that, Offeror accepts such Preferred
 Shares for payment.
-Upon such acceptance for payment, all prior powers of
-attorney, proxies and consents given by the undersigned with respect to such
-Preferred Shares (and any Distribution) will be revoked without further action,
-and no subsequent powers of attorney and proxies may be given nor any subsequent
-written consents executed (and, if given or executed, will not be deemed
-effective).
-The designees of Offeror will, with respect to the Preferred Shares
-(and any Distribution) for which such appointment is effective, be empowered to
-exercise all voting and other rights of the undersigned as they in their sole
-discretion may deem proper at any annual or special meeting of Company
-stockholders or any adjournment or postponement thereof, by written consent in
-lieu of any such meeting or otherwise.
-Offeror reserves the right to require
-that, in order for the Preferred Shares to be deemed validly tendered,
-immediately upon Offeror's acceptance of such Preferred Shares, Offeror must be
-able to exercise full voting rights with respect to such Preferred Shares (and
-any Distribution), including, without limitation, voting at any meeting of
-stockholders.
-
-     
-The undersigned hereby represents and warrants that: (i) the undersigned
-has full power and authority to tender, sell, assign and transfer the Preferred
-Shares tendered hereby (and any Distribution) and (ii) when the same are
-accepted for payment by the Offeror, the Offeror will acquire good, marketable
-and unencumbered title thereto, free and clear of all liens, restrictions,
-charges, claims and encumbrances, and the same will not be subject to any
-adverse claim and will not have been transferred to the Offeror in violation of
-any contractual or other restriction on the transfer hereof.
-The undersigned,
-upon request, shall execute and deliver all additional documents deemed by the
-Depositary or the Offeror to be necessary or desirable to complete the sale,
-assignment and transfer of the Preferred Shares tendered hereby (and any
-Distribution).
-In addition, the undersigned shall remit and transfer promptly to
-the Depositary for the account of the Offeror any and all Distributions in
-respect of the Preferred Shares tendered hereby, accompanied by appropriate
-documentation of transfer, and, pending such remittance and transfer or
-appropriate assurance thereof, the Offeror shall be entitled, subject to
-applicable law, to all rights and privileges as owner of each such Distribution
-and may withhold the entire Preferred Share Offer Price or deduct from the
-Preferred Share Offer Price the amount or value of such Distribution as
-determined by the Offeror in its sole discretion.
-
-     
-No authority conferred herein or agreed to be conferred herein shall be
-affected by, and all such authority shall survive, the death or incapacity of
-the undersigned.
-All obligations of the undersigned hereunder shall be binding
-upon the heirs, executors, administrators, trustees in bankruptcy, personal and
-legal representatives, successors and assigns of the undersigned.
-Tenders of
-Preferred Shares made pursuant to the Offer are irrevocable, except that
-Preferred Shares tendered pursuant to the Offer may be withdrawn at any time
-prior the Expiration Date, and, unless theretofore accepted for payment by the
-Offeror pursuant to the Offer, may also be withdrawn at any time after March 24,
-2001.
-See Section 4 -- "Withdrawal Rights" of the Offer to Purchase.
-
-     
-The undersigned understands that tenders of Preferred Shares pursuant to
-any of the procedures described in Section 3 of the Offer to Purchase and in the
-instructions hereto will constitute a binding agreement between the undersigned
-and the Offeror upon the terms and subject to the conditions set forth in the
-Offer, including the undersigned's representation that the undersigned owns the
-Preferred Shares being tendered.
-The undersigned recognizes that under certain
-circumstances set forth in the Offer to Purchase, the Offeror may not be
-required to accept for payment any of the Preferred Shares tendered hereby.
-See
-Section 14 -- "Certain Conditions to Our Obligations" of the Offer to Purchase.
-
-     
-Unless otherwise indicated herein in the box entitled "Special Payment
-Instructions," please issue the check for the Preferred Share Offer Price for
-all Preferred Shares purchased and return any certificates for Preferred Shares
-not tendered or not purchased, in the name(s) of the registered holder(s)
-appearing above under "Description of Preferred Shares Tendered."
-Similarly,
-unless otherwise indicated in the box entitled "Special Delivery Instructions,"
-please mail the check for the Preferred Share Offer Price for all Preferred
-Shares purchased and return any certificates for any Preferred Shares not
-tendered or not purchased (and accompanying documents, as appropriate) to the
-address(es) of the registered holder(s) appearing above under "Description of
-Preferred Shares Tendered."
-If the boxes entitled "Special Delivery
-Instructions" and "Special Payment Instructions" are both completed, please
-issue the check for the Preferred Share Offer Price for all Preferred Shares
-purchased and return any certificates for Preferred Shares not tendered or not
-purchased in the name(s) of, and deliver said check and/or certificate(s) to,
-the person(s) so indicated.
-The undersigned recognizes that the Offeror has no
-obligation, pursuant to the "Special Payment Instructions," to transfer any
-Preferred Shares from the name(s) of the registered holder(s) thereof if the
-Offeror does not accept for payment any of the Preferred Shares tendered hereby.
-
-- ----------------------------------------------------------------
-                  SPECIAL PAYMENT INSTRUCTIONS
-                (SEE INSTRUCTIONS 1, 5, 6 AND 7)
-
-    To be completed ONLY if the check for the Preferred
-    Share Offer Price of Preferred Shares purchased (less
-    the amount of any federal income and backup withholding
-    tax required to be withheld) or certificates for
-    Preferred Shares not tendered or not purchased are to be
-    issued in the name of someone other than the
-    undersigned.
-
-             
-Issue [ ] Check [ ] Certificate(s) to:
-
-    Name
-         ----------------------------------------------------
-                         (Please Print)
-    
-Address
-            -------------------------------------------------
-
-    ---------------------------------------------------------
-                       (Include Zip Code)
-
-    --------------------------------------------------------
-    (Recipient's Tax Identification or Social Security No.)
-                   (See Substitute W-9 below)
-- ----------------------------------------------------------------
-
-- ----------------------------------------------------------------
-                 SPECIAL DELIVERY INSTRUCTIONS
-                (SEE INSTRUCTIONS 1, 5, 6 AND 7)
-
-    To be completed ONLY if the check for the Preferred
-    Share Offer Price of Preferred Shares purchased (less
-    the amount of any federal income and backup withholding
-    tax required to be withheld) or certificates for
-    Preferred Shares not tendered or not purchased are to be
-    sent to someone other than the undersigned, or to the
-    undersigned at an address other than that shown under
-    "Description of Preferred Shares Tendered".
-             
-Issue [ ] Check [ ] Certificate(s) to:
-     Name
-          ------------------------------------------------------
-                         (Please Print)
-
-    
-Address
-           ------------------------------------------------------
-
-    -------------------------------------------------------------
-                       (Include Zip Code)
-
-    -------------------------------------------------------------
-    (Recipient's Tax Identification or Social Security No.)
-                   (See Substitute W-9 below)
-- ----------------------------------------------------------------
-
-                                   IMPORTANT
-                            STOCKHOLDERS: SIGN HERE
-                   (Also Complete Substitute Form W-9 Below)
-
-- --------------------------------------------------------------------------------
-
-- --------------------------------------------------------------------------------
-
-- --------------------------------------------------------------------------------
-                        (Signature(s) of Stockholder(s))
-                       (See guarantee requirement below)
-
-Dated:
-      ------------------------------------
-
-(Must be signed by registered holder(s) exactly as name(s) appear(s) on stock
-certificates or on a security position listing or by person(s) authorized to
-become registered holder(s) by certificate(s) and documents transmitted
-herewith.
-If signature is by a trustee, executor, administrator, guardian,
-attorney-in-fact, officer of a corporation or other person acting in a fiduciary
-or representative capacity, please provide the following information.
-See
-Instruction 5.)
-
-Name(s)
-       -------------------------------------------------------------------------
-
-- --------------------------------------------------------------------------------
-
-- --------------------------------------------------------------------------------
-                                 (Please Print)
-
-Capacity (Full Title)
-                     
------------------------------------------------------------
-
-Address
-       -------------------------------------------------------------------------
-
-- --------------------------------------------------------------------------------
-                               (Include Zip Code)
-
-Area Code and Telephone Number
-                              -------------------------------------------------
-
-Tax Identification or Social Security Number
-                                             ----------------------------------
-
-                        (See Substitute Form W-9 below)
-
-                           GUARANTEE OF SIGNATURE(S)
-                   (If Required -- See Instructions 1 and 5)
-
-                    
-FOR USE BY FINANCIAL INSTITUTIONS ONLY.
-     
-FINANCIAL INSTITUTIONS:
-PLACE MEDALLION GUARANTEE IN THE SPACE BELOW.
-
-
-Authorized Signature(s)
-                        --------------------------------------------------------
-
-Name
-    ----------------------------------------------------------------------------
-                                 (Please Print)
-
-
-Title
-     ---------------------------------------------------------------------------
-
-Name of Firm
-             -------------------------------------------------------------------
-
-Address
-       -------------------------------------------------------------------------
-
-- --------------------------------------------------------------------------------
-                               (Include Zip Code)
-
-Area Code and Telephone Number
-                               ------------------------------------------------
-
-Dated:
-      ------------------------------
-
-                  PAYER'S NAME: EQUISERVE TRUST COMPANY, N.A.
-
-- --------------------------------------------------------------------------------------------------------------------------------
-   SUBSTITUTE                          PART 1 -- PLEASE PROVIDE YOUR TIN IN THE BOX AT RIGHT  Social Security Number
-   FORM W-9                            AND CERTIFY BY SIGNING AND DATING BELOW.               
-Employer Identification Number
-   DEPARTMENT OF THE TREASURY                                                                 (if awaiting TIN write
-   INTERNAL REVENUE SERVICE                                                                   "Applied For")
-   PAYER'S REQUEST FOR TAXPAYER
-   IDENTIFICATION NUMBER ("TIN")
-                                    --------------------------------------------------------------------------------------------
-                                       PART 2 -- Certification -- Under penalties of perjury, I certify that: (1) The number
-                                       shown on this form is my correct Taxpayer Identification Number (or I am waiting for a
-                                       number to be issued to me), and (2) I am not subject to backup withholding because: (a) I
-                                       am exempt from backup withholding, or (b) I have not been notified by the Internal
-                                       Revenue Service (IRS) that I am subject to backup withholding as a result of a failure to
-                                       report all interest or dividends, or (c) the IRS has notified me that I am no longer
-                                       subject to backup withholding.
-[ ].
-                                    --------------------------------------------------------------------------------------------
-
-                                       CERTIFICATION INSTRUCTIONS -- You must cross out item     PART 3 --
-                                       (2) above if you have been notified by the IRS that       AWAITING TIN [ ]
-                                       you are currently subject to backup withholding
-                                       because of underreporting interest or dividends on
-                                       your tax return.
-However, if after being notified by
-                                       the IRS that you were subject to backup withholding
-                                       you received another notification from the IRS that
-                                       you are no longer subject to backup, do not cross out
-                                       item (2).
-                                       
-Signature                                          Date
-                                                 ---------------------------------             ------------------
-- --------------------------------------------------------------------------------------------------------------------------------
-
-NOTE: FAILURE TO COMPLETE AND RETURN THIS FORM MAY RESULT IN BACKUP WITHHOLDING
-      OF 31% OF ANY PAYMENTS MADE TO YOU PURSUANT TO THE OFFER.
-PLEASE REVIEW
-      THE ENCLOSED GUIDELINES FOR CERTIFICATION OF TAXPAYER IDENTIFICATION
-      NUMBER ON SUBSTITUTE FORM W-9 FOR ADDITIONAL DETAILS.
-
-              
-YOU MUST COMPLETE THE FOLLOWING CERTIFICATE IF YOU CHECKED
-                     THE BOX IN PART 3 OF THE SUBSTITUTE FORM W-9.
-
-                CERTIFICATE OF AWAITING TAXPAYER IDENTIFICATION NUMBER
-
-     I certify under penalties of perjury that a taxpayer identification number
-has not been issued to me, and either (1) I have mailed or delivered an
-application to receive a taxpayer identification number to the appropriate
-Internal Revenue Service Center or Social Security Administration Office or (2)
-I intend to mail or deliver an application in the near future.
-I understand that
-if I do not provide a taxpayer identification number, 31% of all reportable
-payments made to me will be withheld, but that such amounts will be refunded to
-me if I then provide a taxpayer identification number within 60 days.
-
-
-Signature                                         Dated
-          -----------------------------------           ----------------------
-
-Name (Please print)
-                    ---------------------------------------------
-
-                                  INSTRUCTIONS
-
-             FORMING PART OF THE TERMS AND CONDITIONS OF THE OFFER
-
-     1. Signature Guarantee.  
-No signature guarantee on this Letter of
-Transmittal is required if (i) this Letter of Transmittal is signed by the
-registered holder(s) or (ii) such Preferred Shares are tendered for the account
-of a financial institution (including most commercial banks, savings and loan
-associations and brokerage houses) that is a member in good standing of the
-Securities Transfer Agents Medallion Program, the New York Stock Exchange
-Medallion Signature Guarantee Program or the Stock Exchange Medallion Program
-(each, an "Eligible Institution").
-In all other cases, all signatures on this
-Letter of Transmittal must be guaranteed by an Eligible Institution.
-
-     
-2.
-Delivery of Letter of Transmittal and Certificates.  
-This Letter of
-Transmittal is to be completed by stockholders pursuant to the procedures set
-forth in Section 3 -- "Procedure for Tendering Shares" of the Offer to Purchase.
-
-Certificates for all physically tendered Preferred Shares, this Letter of
-Transmittal (or manually signed facsimile hereof) properly completed and duly
-executed with all required signature guarantees and any other documents required
-by this Letter of Transmittal, must be received by the Depositary at the address
-set forth herein on or prior to the Expiration Date (as defined in Section 1 --
-"Terms of the Offer; Expiration Date; Extension of Tender Period; Termination;
-Amendment" of the Offer to Purchase), or the tendering stockholder must comply
-with the guaranteed delivery procedures set forth below.
-If certificates are
-forwarded to the Depositary in multiple deliveries, this Letter of Transmittal
-(or manually signed facsimile hereof) properly completed and duly executed with
-all required signature guarantees must accompany each such delivery.
-
-     Stockholders whose certificates for Preferred Shares are not immediately
-available or who cannot deliver their certificates and all other required
-documents to the Depositary on or prior to the Expiration Date, may tender their
-Preferred Shares pursuant to the guaranteed delivery procedures set forth in
-Section 3 -- "Procedure for Tendering Shares" of the Offer to Purchase.
-Pursuant
-to such procedures, (i) such tender must be made by or through an Eligible
-Institution, (ii) a properly completed and duly executed Notice of Guaranteed
-Delivery, substantially in the form provided by the Offeror, must be received by
-the Depositary, either by hand delivery, mail or facsimile transmission, on or
-prior to the Expiration Date and (iii) the certificates for all physically
-tendered shares, in proper form for transfer together with this Letter of
-Transmittal (or manually signed facsimile thereof) properly completed and duly
-executed with all required signature guarantees and any other documents required
-by this Letter of Transmittal, must be received by the Depositary within three
-trading days after the date of the execution of the Notice of Guaranteed
-Delivery.
-A trading day is any day on which the Nasdaq Small Cap Market is open
-for business.
-
-     
-The method of delivery of this Letter of Transmittal, the certificates for
-Preferred Shares and all other required documents is at the option and risk of
-the tendering stockholder.
-If delivery is by mail, registered mail with return
-receipt requested, properly insured, is recommended.
-In all cases, sufficient
-time should be allowed for such documents to reach the Depositary.
-Except as
-otherwise provided in this Instruction 2, delivery will be deemed made only when
-actually received by the Depositary.
-
-     
-No alternative, conditional or contingent tenders will be accepted and no
-fractional Preferred Shares will be purchased.
-All tendering stockholders, by
-execution of this Letter of Transmittal (or a facsimile hereof), waive any right
-to receive any notice of the acceptance of their Preferred Shares for payment.
-
-     
-3. Inadequate Space.  
-If the space provided herein under "Description of
-Preferred Shares Tendered" is inadequate, the certificate numbers, the number of
-Preferred Shares evidenced by such certificates and the number of Preferred
-Shares tendered should be listed on a separate signed schedule and attached
-hereto.
-
-     
-4. Partial Tenders.  
-If fewer than all the Preferred Shares evidenced by
-any certificate delivered to the Depositary herewith are to be tendered, fill in
-the number of Preferred Shares that are to be tendered in the box entitled
-"Number of Preferred Shares Tendered."
-In such case, as soon as practicable
-after the Expiration Date, new certificate(s) evidencing the remainder of the
-Preferred Shares that were evidenced by the certificates delivered to the
-Depositary herewith will be sent to the person(s) signing this Letter of
-Transmittal, unless otherwise provided in the box entitled "Special Delivery
-Instructions."
-All Preferred
-
-Shares represented by certificates delivered to the Depositary will be deemed to
-have been tendered unless otherwise indicated.
-
-     
-5.
-Signatures on Letter of Transmittal, Stock Powers and Endorsements.  
-If
-this Letter of Transmittal is signed by the registered holder(s) of the
-Preferred Shares tendered hereby, the signature(s) must correspond with the
-name(s) as written on the certificates without alteration, enlargement or any
-other change whatsoever.
-
-     
-If any Preferred Shares tendered hereby are held of record by two or more
-holders, all such holders must sign this Letter of Transmittal.
-
-     
-If any of the Preferred Shares tendered hereby are registered in names of
-different holders on several certificates, it will be necessary to complete,
-sign and submit as many separate Letters of Transmittal as there are different
-registrations of certificates.
-
-     
-If this Letter of Transmittal is signed by the registered holder(s) of the
-Preferred Shares tendered hereby, no endorsements of certificates or separate
-stock powers are required unless payment is to be made, or certificates for
-Preferred Shares not tendered or not purchased are to be issued in the name of,
-a person other than the registered holder(s), in which case the certificate(s)
-tendered hereby must be endorsed or accompanied by appropriate stock powers, in
-either case signed exactly as the name(s) of the registered holder(s) appear(s)
-on such certificate(s), and the signatures on such certificates or stock powers
-must be guaranteed by an Eligible Institution.
-
-     
-If this Letter of Transmittal is signed by a person other than the
-registered owner(s) of the Preferred Shares tendered hereby, the certificates
-tendered hereby must be endorsed or accompanied by appropriate stock powers, in
-either case signed as the name(s) of the registered holder(s) appear(s) on such
-certificates.
-Signatures on such certificates and stock powers must be
-guaranteed by an Eligible Institution.
-
-     
-If this Letter of Transmittal or any certificate or stock power is signed
-by a trustee, executor, administrator, guardian, attorney-in-fact, agent,
-officer of a corporation or other person acting in a fiduciary or representative
-capacity, such person should so indicate when signing, and proper evidence
-satisfactory to the Offeror of such person's authority to so act must be
-submitted.
-
-     
-6.
-Special Payment and Delivery Instructions.  
-If a check for the Preferred
-Share Offer Price of any Preferred Shares tendered hereby is to be issued, or
-certificate(s) not tendered or not purchased are to be issued, in the name of a
-person other than the person signing this Letter of Transmittal, or if the check
-or any certificate for Preferred Shares not tendered or not purchased are to be
-mailed to someone other than the person(s) signing this Letter of Transmittal,
-or to the person(s) signing this Letter of Transmittal but at an address other
-than that shown above, the appropriate boxes on this Letter of Transmittal must
-be completed.
-
-     
-7. Stock Transfer Taxes.  
-Except as set forth in this Instruction 7, the
-Offeror will pay or cause to be paid any stock transfer taxes with respect to
-the transfer and sale of the purchased Preferred Shares to it, or to its order,
-pursuant to the Offer.
-If, however, payment of the Preferred Share Offer Price
-of any Preferred Shares purchased is to be made to, or certificate(s) for
-Preferred Shares not tendered or not purchased are to be issued in the name of,
-a person other than the registered holder(s), or if tendered certificates are
-registered in the name of any person(s) other than the person(s) signing this
-Letter of Transmittal, the amount of any stock transfer taxes (whether imposed
-on the registered holder(s), such other person or otherwise) payable on account
-of the transfer to such other person will be deducted from the Preferred Share
-Offer Price of such Preferred Shares purchased, unless evidence satisfactory to
-the Offeror of the payment of such taxes or exemption therefrom is submitted.
-
-Except as otherwise provided in this Instruction 7, it will not be necessary for
-transfer tax stamps to be affixed to the certificates listed in this Letter of
-Transmittal.
-
-     
-8.
-Waiver of Conditions.  
-Subject to the terms of the Merger Agreement (as
-defined in the Offer to Purchase), the conditions of the Offer may be waived by
-the Offeror, in whole or in part, at any time and from time to time in the
-Offeror's sole discretion.
-
-     
-9.
-Substitute Form W-9.  
-Each tendering stockholder is required to provide
-the Depositary with a correct taxpayer identification number ("TIN"), generally
-the stockholder's social security or federal
-
-employer identification number, and with certain other information, on the
-Substitute Form W-9, which is provided under "Important Tax Information" below,
-and to certify, under penalties of perjury, that such number is correct and that
-the stockholder is not subject to backup withholding of federal income tax.
-If a
-tendering stockholder has been notified by the Internal Revenue Service that
-such stockholder is subject to backup withholding, such stockholder must cross
-out item (2) of the Certification box (Part 2) of the Substitute Form W-9,
-unless such stockholder has since been notified by the Internal Revenue Service
-that such stockholder is no longer subject to backup withholding.
-Failure to
-provide the information on the Substitute Form W-9 may subject the tendering
-stockholder to 31% federal income tax withholding on the payment of the
-Preferred Share Offer Price of all Preferred Shares purchased from such
-stockholder.
-The box in Part 3 of the Substitute Form W-9 may be checked if the
-tendering stockholder has not been issued a TIN and has applied for a TIN or
-intends to apply for a TIN in the near future.
-If the box in Part 3 is checked
-and the Depositary is not provided with the TIN within 60 days, the Depositary
-will withhold 31% on all payments of the Preferred Share Offer Price to such
-stockholder until a TIN is provided to the Depositary.
-
-     10.
-Lost, Mutilated, Destroyed or Stolen Certificates.  
-If any
-certificate(s) representing shares has been lost, mutilated, destroyed or
-stolen, the stockholder should complete this Letter of Transmittal and check the
-appropriate box above and promptly notify the Transfer Agent.
-The stockholder
-will then be instructed as to the steps that must be taken in order to replace
-the certificate(s).
-This Letter of Transmittal and related documents cannot be
-processed until the procedures for replacing lost, mutilated, destroyed or
-stolen certificates have been followed.
-To expedite replacement, call the
-Transfer Agent at (800) 635-9270.
-The stockholder may also be required to give
-the Company a bond as indemnity against any claim that may be made against it
-with respect to the certificate(s) alleged to have been lost, mutilated,
-destroyed or stolen.
-There can be no assurance that such lost, mutilated,
-destroyed or stolen certificate(s) will be replaced prior to the Expiration
-Date.
-
-     11.
-Requests for Assistance or Additional Copies.  
-Questions or requests
-for assistance may be directed to the Information Agent at the address and
-telephone number set forth below.
-Additional copies of the Offer to Purchase,
-this Letter of Transmittal, the Notice of Guaranteed Delivery and the Guidelines
-for Certification of Taxpayer Identification Number on Substitute Form W-9 may
-be obtained from the Information Agent at the address and telephone number set
-forth below.
-Holders of Preferred Shares may also contact their brokers,
-dealers, commercial banks or trust companies or other nominees for assistance
-concerning the Offer.
-
-     
-IMPORTANT: THIS LETTER OF TRANSMITTAL (OR MANUALLY SIGNED FACSIMILE HEREOF)
-
-PROPERLY COMPLETED AND DULY EXECUTED (WITH ALL REQUIRED GUARANTEES AND
-CERTIFICATES AND ALL OTHER REQUIRED DOCUMENTS)
-OR THE NOTICE OF GUARANTEED
-DELIVERY PROPERLY COMPLETED AND DULY EXECUTED MUST BE RECEIVED BY THE DEPOSITARY
-ON OR PRIOR TO THE EXPIRATION DATE.
-
-                           
-IMPORTANT TAX INFORMATION
-
-     Under federal income tax law, a stockholder whose tendered Preferred Shares
-are accepted for payment is required to provide the Depositary (as payer) with
-such stockholder's current TIN on Substitute Form W-9.
-If such stockholder is an
-individual, the TIN is such stockholder's social security number.
-If the
-Depositary is not provided with the correct TIN, the stockholder or other payee
-may be subject to a $50 penalty imposed by the Internal Revenue Service.
-In
-addition, payments that are made to such stockholder or other payee with respect
-to Preferred Shares purchased pursuant to the Offer may be subject to backup
-withholding of 31%.
-
-     
-The box in part 3 of the Substitute Form W-9 may be checked if the
-tendering stockholder (or other payee) is required to submit a Substitute Form
-W-9 and has not been issued a TIN and has applied for a TIN or intends to apply
-for a TIN in the near future.
-If the box in Part 3 is checked, the tendering
-stockholder must also complete the attached Certificate of Awaiting Taxpayer
-Identification Number in order to avoid backup withholding.
-If the box in Part 3
-is so checked and the Depositary is not provided with a TIN by the time of
-payment, the Depositary will withhold 31% on all such payments of the Preferred
-Share Offer Price until a TIN is provided to the Depositary.
-A tendering
-stockholder who checks the box in Part 3 in lieu of furnishing his or her TIN
-should furnish the Depositary with his or her TIN as soon as it is received.
-
-     
-Certain stockholders (including, among others, all corporation, and certain
-foreign individuals) are not subject to these backup withholding and reporting
-requirements.
-In order for a foreign individual or a foreign entity to qualify
-as an exempt recipient, that stockholder must submit to the Depositary a
-properly completed Internal Revenue Service Form W-8 (a "Form W-8"), signed
-under penalties of perjury, attesting to that individual's exempt status.
-A Form
-W-8 can be obtained from the Depositary.
-See the enclosed "Guidelines for
-Certification of Taxpayer Identification Number on Substitute Form W-9" for
-additional instructions.
-
-     
-If backup withholding applies, the Depositary is required to withhold 31%
-of any payment made to the stockholder or other payee.
-Backup withholding is not
-an additional tax.
-Rather, the federal income tax liability of persons subject
-to backup withholding will be reduced by the amount of tax withheld.
-If
-withholding results in an overpayment of taxes, a refund may be obtained from
-the Internal Revenue Service.
-
-
-PURPOSE OF SUBSTITUTE FORM W-9
-
-     To prevent backup withholding on payments made to a stockholder or other
-payee with respect to shares purchased pursuant to the Offer, the stockholder is
-required to notify the Depositary of the stockholder's current TIN (or the TIN
-of any other payee) by completing the form, certifying that the TIN provided on
-Substitute Form W-9 is correct (or that such stockholder is awaiting a TIN), and
-that (1) the stockholder has not been notified by the Internal Revenue Service
-that the stockholder is subject to backup withholding as a result of failure to
-report all interest or dividends or (2) the Internal Revenue Service has
-notified the stockholder that the stockholder is no longer subject to backup
-withholding.
-
-
-WHAT NUMBER TO GIVE THE DEPOSITARY
-
-     The stockholder is required to give the Depositary the TIN (i.e., social
-security number or employer identification number) of the record owner of the
-shares tendered hereby.
-If the shares are registered in more than one name or
-are not registered in the name of the actual owner, consult the enclosed
-"Guidelines for Certification of Taxpayer Identification Number on Substitute
-Form W-9" for additional guidance on which number to report.
-
-                    
-The Information Agent for the Offer is:
-
-                  [GEORGESON SHAREHOLDER COMMUNICATIONS, INC.]
-
-                          17 STATE STREET, 10TH FLOOR
-                               NEW YORK, NY 10004
-                 BANKS AND BROKERS CALL COLLECT (212) 440-9800
-                    ALL OTHERS CALL TOLL-FREE (800) 223-2064
-
-EX-99.(A)(1)(IV)
-
-h83324tex99-a1iv.txt
-
-NOTICE OF GUARANTEED DELIVERY FOR COMMON STOCK
-
-                         NOTICE OF GUARANTEED DELIVERY
-                        TO TENDER SHARES OF COMMON STOCK
-                                       of
-                                  TEXOIL,
-INC.
-                       Pursuant to the Offer to Purchase
-                             Dated January 24, 2001
-                                       by
-                             OEI ACQUISITION CORP.,
-                          a wholly-owned subsidiary of
-                               OCEAN ENERGY, INC.
-                             ---------------------
-
-     
-This form, or one substantially equivalent hereto, must be used to accept
-the Offer (as defined below) if certificates for shares of common stock, par
-value $.01 per share (the "Common Shares"), of Texoil, Inc., a Nevada
-corporation (the "Company"), are not immediately available or if the procedure
-for book-entry transfer cannot be completed on a timely basis or time will not
-permit all required documents to reach the Depositary (as described herein) on
-or prior to the Expiration Date (as defined in the Offer to Purchase).
-This form
-may be delivered by hand, facsimile transmission or mail to the Depositary.
-See
-Section 3 -- "Procedure for Tendering Shares" of the Offer to Purchase, dated
-January 24, 2001 (the "Offer to Purchase").
-
-                        
-The Depositary for the Offer is:
-
-                         EQUISERVE TRUST COMPANY, N.A.
-
-                   By Mail:                                       By Hand:
-        EquiServe Trust Company, N.A.                       Boston EquiServe LP
-              Corporate Actions                c/o Securities Transfer & Reporting Services,
-                P.O. Box 43014                                      Inc.
-          Providence, RI 02940-3014                     100 William Street, Galleria
-                                                             New York, NY 10038
-
-          By Facsimile Transmission:                       By Overnight Courier:
-                (781) 575-2233                         EquiServe Trust Company, N.A.
-        Investor Relations Telephone:                        Corporate Actions
-                (781) 575-3120                               150 Royall Street
-                                                              Canton, MA 02021
-
-     DELIVERY OF THIS NOTICE OF GUARANTEED DELIVERY TO AN ADDRESS, OR
-TRANSMISSION OF INSTRUMENTS VIA A FACSIMILE NUMBER, OTHER THAN AS SET FORTH
-ABOVE, DOES NOT CONSTITUTE A VALID DELIVERY.
-
-     
-THIS NOTICE OF GUARANTEED DELIVERY IS NOT TO BE USED TO GUARANTEE
-SIGNATURES.
-IF A SIGNATURE ON A LETTER OF TRANSMITTAL IS REQUIRED TO BE
-GUARANTEED BY AN "ELIGIBLE INSTITUTION" UNDER THE INSTRUCTIONS THERETO, SUCH
-SIGNATURE GUARANTEE MUST APPEAR IN THE APPLICABLE SPACE PROVIDED IN THE
-SIGNATURE BOX ON THE LETTER OF TRANSMITTAL.
-
-              
-THE GUARANTEE ON THE REVERSE SIDE MUST BE COMPLETED.
-
-LADIES AND GENTLEMEN:
-
-     The undersigned hereby tenders to OEI Acquisition Corp., a Nevada
-corporation, upon the terms and subject to the conditions set forth in the Offer
-to Purchase and in the related Letter of Transmittal (which, together with all
-amendments or supplements thereto, constitute the "Offer"), receipt of which is
-hereby acknowledged, the number of Common Shares of the Company indicated below,
-pursuant to the guaranteed delivery procedure set forth in Section
-3 -- "Procedure for Tendering Shares" of the Offer to Purchase.
-
-
-Number of Common Shares:
-                        
-----------------------------------
-
-Certificate No(s).
-(if available):
-
-- ----------------------------------------------------------
-
-- ----------------------------------------------------------
-
-If Common Shares will be tendered by book-entry transfer:
-
-
-Account No:
-            ----------------------------------------------
-
-Dated:
-       ------------------------------------- , 2001
-
-Name of Record Holder(s):
-                          --------------------------------
-
-- ----------------------------------------------------------
-
-- ----------------------------------------------------------
-
-Address:
-         
---------------------------------------------------
-
-- -----------------------------------------------------------
-                                       (Zip Code)
-
-Area Code and Telephone
-No:
-                            -------------------------------
-
-SIGNATURE(S):
-
-- ------------------------------------------------------
-
-- ------------------------------------------------------
-
-                                   GUARANTEE
-                    (NOT TO BE USED FOR SIGNATURE GUARANTEE)
-
-     
-The undersigned, a bank, broker, dealer, credit union, savings association
-or other entity which is a member in good standing of a recognized Medallion
-Program approved by the Securities Transfer Association Inc., including the
-Securities Transfer Agents Medallion Program, the New York Stock Exchange
-Medallion Signature Guarantee Program or the Stock Exchange Medallion Program or
-any other "eligible guarantor institution" as defined in Rule 17Ad-15 under the
-Securities Exchange Act of 1934, as amended, guarantees the delivery to the
-Depositary of either the Common Shares tendered hereby, in proper form for
-transfer, or a Book-Entry Confirmation (as defined in the Offer to Purchase),
-together with a properly completed and duly executed Letter of Transmittal (or
-manually signed facsimile(s) thereof) with any required signature guarantees, or
-an Agent's Message (as defined in the Offer to Purchase) in the case of a
-book-entry delivery of Common Shares, and any other required documents all
-within three Nasdaq Small Cap Market trading days of the date hereof.
-
-
-Name of Firm:
-              ------------------------------------------------------------------
-
-AUTHORIZED SIGNATURE:
-                     ---------------------------------------------------------
-
-Name:
-     ---------------------------------------------------------------------------
-                             (Please Print or Type)
-
-
-Title:
-      --------------------------------------------------------------------------
-
-Address:
-        ------------------------------------------------------------------------
-
-Dated:
-      ------------------------------- , 2001
-
-     NOTE:  DO NOT SEND SHARE CERTIFICATES WITH THIS NOTICE OF GUARANTEED
-DELIVERY.
-SHARE CERTIFICATES SHOULD BE SENT WITH YOUR LETTER OF TRANSMITTAL.
-
-
-EX-99.(A)(1)(V)
-
-h83324tex99-a1v.txt
-
-NOTICE OF GUARANTEED DELIVERY FOR PREFERRED STOCK
-
-                         NOTICE OF GUARANTEED DELIVERY
-            TO TENDER SHARES OF SERIES A CONVERTIBLE PREFERRED STOCK
-                                       of
-                                  TEXOIL, INC.
-                       Pursuant to the Offer to Purchase
-                             Dated January 24, 2001
-                                       by
-
-                             OEI ACQUISITION CORP.,
-                          a wholly-owned subsidiary of
-                               OCEAN ENERGY, INC.
-                             
----------------------
-
-     This form, or one substantially equivalent hereto, must be used to accept
-the Offer (as defined below) if certificates for shares of Series A Convertible
-Preferred Stock, par value $.01 per share (the "Preferred Shares"), of Texoil,
-Inc., a Nevada corporation (the "Company"), are not immediately available or
-time will not permit all required documents to reach the Depositary (as
-described herein) on or prior to the Expiration Date (as defined in the Offer to
-Purchase).
-This form may be delivered by hand, facsimile transmission or mail to
-the Depositary.
-See Section 3 -- "Procedure for Tendering Shares" of the Offer
-to Purchase, dated January 24, 2001 (the "Offer to Purchase").
-
-                        
-The Depositary for the Offer is:
-
-                         EQUISERVE TRUST COMPANY, N.A.
-
-                   By Mail:                                       By Hand:
-        EquiServe Trust Company, N.A.                       Boston EquiServe LP
-              Corporate Actions                c/o Securities Transfer & Reporting Services,
-                P.O. Box 43014                                      Inc.
-          Providence, RI 02940-3014                     100 William Street, Galleria
-                                                             New York, NY 10038
-
-          By Facsimile Transmission:                       By Overnight Courier:
-                (781) 575-2233                         EquiServe Trust Company, N.A.
-        Investor Relations Telephone:                        Corporate Actions
-                (781) 575-3120                               150 Royall Street
-                                                              Canton, MA 02021
-
-     DELIVERY OF THIS NOTICE OF GUARANTEED DELIVERY TO AN ADDRESS, OR
-TRANSMISSION OF INSTRUMENTS VIA A FACSIMILE NUMBER, OTHER THAN AS SET FORTH
-ABOVE, DOES NOT CONSTITUTE A VALID DELIVERY.
-
-     
-THIS NOTICE OF GUARANTEED DELIVERY IS NOT TO BE USED TO GUARANTEE
-SIGNATURES.
-IF A SIGNATURE ON A LETTER OF TRANSMITTAL IS REQUIRED TO BE
-GUARANTEED BY AN "ELIGIBLE INSTITUTION" UNDER THE INSTRUCTIONS THERETO, SUCH
-SIGNATURE GUARANTEE MUST APPEAR IN THE APPLICABLE SPACE PROVIDED IN THE
-SIGNATURE BOX ON THE LETTER OF TRANSMITTAL.
-
-              
-THE GUARANTEE ON THE REVERSE SIDE MUST BE COMPLETED.
-
-
-Ladies and Gentlemen:
-
-     The undersigned hereby tenders to OEI Acquisition Corp., a Nevada
-corporation, upon the terms and subject to the conditions set forth in the Offer
-to Purchase and in the related Letter of Transmittal (which, together with all
-amendments or supplements thereto, constitute the "Offer"), receipt of which is
-hereby acknowledged, the number of Preferred Shares of the Company indicated
-below, pursuant to the guaranteed delivery procedure set forth in Section
-3 -- "Procedure for Tendering Shares" of the Offer to Purchase.
-
-
-Number of Preferred Shares:
-                           ---------------------------------
-
-Certificate No(s).
-(if available):
-
-- ------------------------------------------------------------
-
-- ------------------------------------------------------------
-
-Dated:
-        ------------------------------------- , 2001
-Name of Record Holder(s):
-                          ----------------------------------
-
-- ------------------------------------------------------------
-
-- ------------------------------------------------------------
-
-Address:
-         
----------------------------------------------------
-
-- ------------------------------------------------------------
-                                        (Zip Code)
-
-Area Code and Telephone
-No:
-                           ---------------------------------
-
-SIGNATURE(S):
-
-- ------------------------------------------------------------
-
-- ------------------------------------------------------------
-
-                                   GUARANTEE
-                    (NOT TO BE USED FOR SIGNATURE GUARANTEE)
-
-     
-The undersigned, a bank, broker, dealer, credit union, savings association
-or other entity which is a member in good standing of a recognized Medallion
-Program approved by the Securities Transfer Association Inc., including the
-Securities Transfer Agents Medallion Program, the New York Stock Exchange
-Medallion Signature Guarantee Program or the Stock Exchange Medallion Program or
-any other "eligible guarantor institution" as defined in Rule 17Ad-15 under the
-Securities Exchange Act of 1934, as amended, guarantees the delivery to the
-Depositary of the Preferred Shares tendered hereby, in proper form for transfer,
-together with a properly completed and duly executed Letter of Transmittal (or
-manually signed facsimile(s) thereof) with any required signature guarantees,
-and any other required documents all within three Nasdaq Small Cap Market
-trading days of the date hereof.
-
-
-Name of Firm:
-              ------------------------------------------------------------------
-
-AUTHORIZED SIGNATURE:
-                     ---------------------------------------------------------
-
-Name:
-     ---------------------------------------------------------------------------
-                             (Please Print or Type)
-
-
-Title:
-      --------------------------------------------------------------------------
-
-Address:
-        ------------------------------------------------------------------------
-
-Area Code & Telephone No.:
-                          ------------------------------------------------------
-
-Dated:
-      ------------------------------------- , 2001
-
-NOTE: DO NOT SEND SHARE CERTIFICATES WITH THIS NOTICE OF GUARANTEED DELIVERY.
-      
-SHARE CERTIFICATES SHOULD BE SENT WITH YOUR LETTER OF TRANSMITTAL.
-
-
-EX-99.(A)(1)(VI)
-
-h83324tex99-a1vi.txt
-
-LETTER TO BROKERS, DEALERS, COMMERCIAL BANKS
-
-                [GEORGESON SHAREHOLDER COMMUNICATIONS
-INC. LOGO]
-
-                           Offer to Purchase for Cash
-                     All Outstanding Shares of Common Stock
-                                      and
-         All Outstanding Shares of Series A Convertible Preferred Stock
-                                       of
-                                  TEXOIL, INC.
-                                       at
-                      $8.25 NET PER SHARE OF COMMON STOCK
-                                      and
-          $18.04 NET PER SHARE OF SERIES A CONVERTIBLE PREFERRED STOCK
-                                       by
-                             OEI ACQUISITION CORP.,
-                          a wholly-owned subsidiary of
-                               OCEAN ENERGY, INC.
-
-  THE OFFER AND WITHDRAWAL RIGHTS WILL EXPIRE AT 12:00 MIDNIGHT, NEW YORK CITY
-           TIME, ON FEBRUARY 22, 2001, UNLESS THE OFFER IS EXTENDED.
-
-                                                                
-January 24, 2001
-
-To Brokers, Dealers, Commercial Banks,
-  Trust Companies and Other Nominees:
-
-     We have been appointed by OEI Acquisition Corp., a Nevada corporation (the
-"Offeror"), and Ocean Energy, Inc. a Texas corporation and parent of the Offeror
-("Parent"), to act as Information Agent in connection with the Offeror's offer
-to purchase (i) all the outstanding shares of common stock, par value $.01 per
-share (the "Common Shares"), of Texoil, Inc. (the "Company") at a purchase price
-of $8.25 per share, net to the seller, in cash, without interest (such price
-referred to herein as the "Common Share Offer Price"), and (ii) all the
-outstanding shares of Series A Convertible Preferred Stock, par value $.01 per
-share (the "Preferred Shares," and, together with the Common Shares, the
-"Shares"), of the Company at a purchase price of $18.04 per share, net to the
-seller, in cash, without interest (such price referred to herein as the
-"Preferred Share Offer Price") upon the terms and subject to the conditions set
-forth in the Offer to Purchase, dated January 24, 2001 (the "Offer to
-Purchase"), and in the related Letter of Transmittal (which, as each may be
-amended and supplemented from time to time, together constitute the "Offer")
-enclosed herewith.
-
-     
-THE OFFER IS BEING MADE PURSUANT TO AN AGREEMENT AND PLAN OF MERGER, DATED
-AS OF JANUARY 18, 2001 (THE "MERGER AGREEMENT"), BY AND AMONG PARENT, THE
-OFFEROR AND THE COMPANY.
-THE BOARD OF DIRECTORS OF THE COMPANY HAS (I)
-DETERMINED THAT EACH OF THE OFFER AND THE MERGER OF THE OFFEROR WITH AND INTO
-THE COMPANY ARE FAIR TO, AND IN THE BEST INTERESTS OF, THE HOLDERS OF SHARES,
-(II) APPROVED THE MERGER AGREEMENT AND THE TRANSACTIONS CONTEMPLATED THEREBY,
-INCLUDING THE OFFER AND THE MERGER, (III) DECLARED THE ADVISABILITY OF THE
-MERGER AGREEMENT, AND (IV) RECOMMENDED THAT THE COMPANY'S STOCKHOLDERS ACCEPT
-THE OFFER,
-
-TENDER THEIR SHARES PURSUANT TO THE OFFER AND (IF REQUIRED BY APPLICABLE LAW)
-ADOPT THE MERGER AGREEMENT.
-
-     
-THE OFFER IS CONDITIONED UPON, AMONG OTHER THINGS, (I)
-THERE BEING VALIDLY
-TENDERED AND NOT WITHDRAWN PRIOR TO THE EXPIRATION OF THE OFFER (A) AT LEAST
-THAT NUMBER OF COMMON SHARES OF THE COMPANY WHICH WOULD CONSTITUTE A MAJORITY OF
-THE OUTSTANDING COMMON SHARES ON A FULLY DILUTED BASIS (EXCLUDING FOR THIS
-PURPOSE COMMON SHARES ISSUABLE UPON CONVERSION OF OUTSTANDING PREFERRED SHARES)
-AND (B)
-AT LEAST THAT NUMBER OF PREFERRED SHARES OF THE COMPANY WHICH WOULD
-CONSTITUTE A MAJORITY OF THE PREFERRED SHARES ON A FULLY DILUTED BASIS, ON THE
-DATE OF PURCHASE, AND (II) THE SATISFACTION OF CERTAIN OTHER TERMS AND
-CONDITIONS DESCRIBED IN THE OFFER TO PURCHASE.
-
-     
-Pursuant to the Merger Agreement, following the consummation of the Offer
-and the satisfaction or waiver of certain conditions, the Offeror will be merged
-with and into the Company (the "Merger"), with the Company continuing as the
-surviving corporation (the "Surviving Corporation").
-Following consummation of
-the Merger, the Surviving Corporation will be a wholly-owned subsidiary of
-Parent.
-At the effective time of the Merger (the "Effective Time"), Shares
-outstanding immediately prior to the Effective Time (other than Shares held by
-the Offeror and Shares held by holders who perfect their appraisal rights in
-accordance with the Nevada Revised Statutes) will, by virtue of the Merger, be
-cancelled and terminated and shall represent solely the right to receive the
-Common Share Offer Price or the Preferred Share Offer Price as set forth in the
-Merger Agreement and described in the Offer to Purchase.
-
-     
-Please furnish copies of the enclosed materials to those of your clients
-for whose accounts you hold Common Shares registered in your name or in the name
-of your nominee.
-
-     
-For your information and for forwarding to your clients for whom you hold
-Common Shares registered in your name or in the name of your nominee, or who
-hold Common Shares registered in their own names, we are enclosing the following
-documents:
-
-          1.
-The Offer to Purchase dated January 24, 2001.
-
-          2.
-The Letter of Transmittal to be used by holders of Common Shares in
-     accepting the Offer and tendering Common Shares.
-Facsimile copies of the
-     Letter of Transmittal (with manual signatures) may be used to tender Common
-     Shares.
-
-          
-3.
-A letter to the stockholders of the Company from Frank A.
-     Lodzinski, Chairman of the Board, President and Chief Executive Officer of
-     the Company, and the Company's Solicitation/Recommendation Statement on
-     Schedule 14D-9 filed with the Securities and Exchange Commission.
-
-          4.
-The Notice of Guaranteed Delivery to be used to accept the Offer if
-     the certificates evidencing such Common Shares (the "Certificates") are not
-     immediately available or time will not permit all required documents to
-     reach the Depositary (as defined in the Offer to Purchase) prior to the
-     Expiration Date (as defined in the Offer to Purchase) or the procedure for
-     book-entry transfer cannot be completed by the Expiration Date.
-
-          
-5.
-A printed form of letter which may be sent to your clients for
-     whose accounts you hold Common Shares registered in your name or in the
-     name of your nominee, with space provided for obtaining such clients'
-     instructions with regard to the Offer.
-
-          
-6.
-Guidelines of the Internal Revenue Service for Certification of
-     Taxpayer Identification Number on Substitute Form W-9 providing information
-     relating to backup federal income tax withheld.
-
-          

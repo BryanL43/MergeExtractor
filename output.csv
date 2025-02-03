@@ -1,8 +1,8 @@
 DATE,TMANAMES,AMANAMES,INITIATOR
-1/8/2001,Prime Response Inc,Chordiant Software Inc,Chordiant
-1/10/2001,Mediconsult.com Inc,CyBear Inc(Andryx Corp),Mediconsult
-1/15/2001,Xircom Inc,Intel Corp,Intel
-1/17/2001,WebTrends Corp,NetIQ Corp,NetIQ
+1/8/2001,Prime Response Inc,Chordiant Software Inc,Chordiant,yes
+1/10/2001,Mediconsult.com Inc,CyBear Inc(Andryx Corp),Mediconsult,yes
+1/15/2001,Xircom Inc,Intel Corp,Intel,yes
+1/17/2001,WebTrends Corp,NetIQ Corp,NetIQ,no
 1/18/2001,Texoil Inc,Ocean Energy Inc,"Ocean Energy, Inc."
 1/22/2001,Guest Supply Inc,Sysco Corp,SYSCO
 1/23/2001,Centennial Technologies Inc,Solectron Corp,Solectron

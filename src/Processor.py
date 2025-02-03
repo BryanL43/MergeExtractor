@@ -124,8 +124,9 @@ class Processor:
         if (startIndex == -1 or match is None):
             return None;
         
-        # Once we locate the section, we won't need the entirety of it, so take a third from the background point.
-        section = sentences[startIndex:startIndex + len(sentences) // 3];
+        # Once we locate the section, we won't need the entirety of it,
+        # so take a fraction of it starting from the background point.
+        section = sentences[100:startIndex + len(sentences) // 4];
 
         return "\n".join(section);
 

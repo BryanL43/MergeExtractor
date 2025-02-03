@@ -225,6 +225,7 @@ class Crawler:
     def __getSourceLinks(self, documentJson):
         # Formulate all source document file links
         sourceLinks = [];
+        seenLinks = set(); # Prevent duplicates
 
         # Iterate through each json object and construct the source document file links
         for document in documentJson:
@@ -238,10 +239,15 @@ class Crawler:
                 # Acquire normal adsh & adsh without the "-" character
                 adsh = document["_source"]["adsh"];
                 truncatedADSH = document["_source"]["adsh"].replace("-", "");
+
+                # Add non-duplicate urls
+                url = f"https://www.sec.gov/Archives/edgar/data/{validatedCik}/{truncatedADSH}/{adsh}.txt"
+                if url not in seenLinks:
+                    seenLinks.add(url)
+                    sourceLinks.append(url)
                 
-                sourceLinks.append(f"https://www.sec.gov/Archives/edgar/data/{validatedCik}/{truncatedADSH}/{adsh}.txt");
             except KeyError as e:
-                print(f"Missing key in document: {e}, result: {document}");
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Missing key in document: {e}, result: {document}");
                 continue; # Skip the document if there is a missing key; logged for further investigation
 
         return sourceLinks;
@@ -269,7 +275,7 @@ class Crawler:
                 desc="\033[35mProcessing\033[0m",
                 unit="items",
                 ncols=80,
-                bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed -> {elapsed}]\n"
+                bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
             ):
                 print("Processing index: ", mainIndex, "; Companies: ", self.companyAList[mainIndex], " & ", self.companyBList[mainIndex]);
 
@@ -299,29 +305,39 @@ class Crawler:
                 future = processor.locateSection(sourceLinks, companyNames, mainIndex);
                 if future:
                     futures.append((mainIndex, future));
+            
+            print("Waiting for all asynchronous threads to finish...");
 
             # Wait for all OpenAI messages to complete before processing
             wait([future for _, future in futures], return_when=ALL_COMPLETED);
 
             # Now process the results to extract the initiator from the Assistant output response
-            for mainIndex, future in futures:
-                try:
-                    result = future.result();
-                    if result is None:
-                        continue;
-                    
-                    # Extract the initiator from the specified format: [company name]
-                    match = re.search(r"\[(.*?)\]", result);
-                    initiator = match.group(1) if match else "Unknown";
-                    
-                    # Write to the output csv
-                    with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
-                        writer = csv.writer(file);
-                        if file.tell() == 0:
-                            writer.writerow(["DATE", "TMANAMES", "AMANAMES", "INITIATOR"]);
+            with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
+                writer = csv.writer(file);
+                if file.tell() == 0:
+                    writer.writerow(["DATE", "TMANAMES", "AMANAMES", "INITIATOR"]);
+
+                for mainIndex, future in tqdm(
+                    futures,
+                    total=len(futures),
+                    desc="\033[33mWriting to CSV\033[0m",
+                    unit="items",
+                    ncols=80,
+                    bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
+                ):
+                    try:
+                        result = future.result();
+                        if result is None:
+                            continue;
+                        
+                        # Extract the initiator from the specified format: [company name]
+                        match = re.search(r"\[(.*?)\]", result);
+                        initiator = match.group(1) if match else "Unknown";
+                        
+                        # Write to the output CSV
                         writer.writerow([self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], initiator]);
-                except Exception as e:
-                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing future for index {mainIndex}: {e}");
+                    except Exception as e:
+                        Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing future for index {mainIndex}: {e}");
 
             # Clean up the vector store at the end as we can't clear while in parallel processing
             self.assistant.clearVectorStores();
