@@ -22,3 +22,946 @@
 [2025-02-03 02:31:46] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
 [2025-02-03 02:31:57] [-] Error processing future for index 6: list index out of range
 [2025-02-03 02:32:50] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-03 16:42:41] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-03 16:43:09] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-03 16:48:10] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-03 16:57:32] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-03 16:57:35] [-] Error processing future for index 6: Error code: 404 - {'error': {'message': "No assistant found with id 'asst_rERHlnPioURNmHLpBttIc5b5'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+[2025-02-05 12:59:58] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 13:00:06] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 13:00:07] [-] No background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp);
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1110189/000095015901000024/0000950159-01-000024.txt
+[2025-02-05 13:00:18] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-02-05 13:00:30] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-02-05 13:00:39] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-02-05 13:00:52] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-05 13:00:54] [-] No background section found for index 7: Guest Supply Inc & Sysco Corp;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/96021/000095012901000484/0000950129-01-000484.txt
+		https://www.sec.gov/Archives/edgar/data/96021/000095012901001213/0000950129-01-001213.txt
+		https://www.sec.gov/Archives/edgar/data/96021/000095012901000486/0000950129-01-000486.txt
+		https://www.sec.gov/Archives/edgar/data/96021/000091406201500117/0000914062-01-500117.txt
+		https://www.sec.gov/Archives/edgar/data/96021/000091406201500125/0000914062-01-500125.txt
+		https://www.sec.gov/Archives/edgar/data/96021/000091406201000004/0000914062-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/96021/000091406201000009/0000914062-01-000009.txt
+[2025-02-05 13:00:55] [-] No documents found for: Pontotoc Production Inc & Ascent Energy Inc
+[2025-02-05 13:01:18] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
+[2025-02-05 13:03:43] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 13:03:50] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 13:04:05] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-02-05 13:04:12] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-02-05 13:04:22] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-02-05 13:04:32] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-02-05 13:04:42] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-05 13:04:54] [+] Successfully created document for: Guest Supply Inc & Sysco Corp
+[2025-02-05 13:04:54] [-] No documents found for: Pontotoc Production Inc & Ascent Energy Inc
+[2025-02-05 13:05:06] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
+[2025-02-05 13:07:17] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 13:07:22] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 13:07:37] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-02-05 13:07:45] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-02-05 13:07:54] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-02-05 13:08:03] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-02-05 13:08:14] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-05 13:08:22] [+] Successfully created document for: Guest Supply Inc & Sysco Corp
+[2025-02-05 13:08:22] [-] No documents found for: Pontotoc Production Inc & Ascent Energy Inc
+[2025-02-05 13:08:34] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
+[2025-02-05 13:09:37] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 13:09:42] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 13:09:57] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-02-05 13:10:04] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-02-05 13:10:14] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-02-05 13:10:22] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-02-05 13:10:34] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-05 13:10:45] [+] Successfully created document for: Guest Supply Inc & Sysco Corp
+[2025-02-05 13:10:46] [-] No documents found for: Pontotoc Production Inc & Ascent Energy Inc
+[2025-02-05 13:10:58] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
+[2025-02-05 13:15:34] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 13:15:39] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 13:15:53] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-02-05 13:15:54] [-] No background section found for index 3: Xircom Inc & Intel Corp;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/50863/000089161801500116/0000891618-01-500116.txt
+		https://www.sec.gov/Archives/edgar/data/50863/000109581101000469/0001095811-01-000469.txt
+		https://www.sec.gov/Archives/edgar/data/50863/000089161801500158/0000891618-01-500158.txt
+		https://www.sec.gov/Archives/edgar/data/50863/000089161801500099/0000891618-01-500099.txt
+		https://www.sec.gov/Archives/edgar/data/50863/000089161801500154/0000891618-01-500154.txt
+		https://www.sec.gov/Archives/edgar/data/50863/000089161801500166/0000891618-01-500166.txt
+		https://www.sec.gov/Archives/edgar/data/50863/000109581101000847/0001095811-01-000847.txt
+[2025-02-05 13:16:04] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-02-05 13:16:12] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-02-05 13:16:23] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-05 13:16:31] [+] Successfully created document for: Guest Supply Inc & Sysco Corp
+[2025-02-05 13:16:31] [-] No documents found for: Pontotoc Production Inc & Ascent Energy Inc
+[2025-02-05 13:16:44] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
+[2025-02-05 13:16:46] [-] Error processing future for index 0: Error code: 404 - {'error': {'message': "No assistant found with id 'asst_rERHlnPioURNmHLpBttIc5b5'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+[2025-02-05 13:16:46] [-] Error processing future for index 2: Error code: 404 - {'error': {'message': "No assistant found with id 'asst_rERHlnPioURNmHLpBttIc5b5'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+[2025-02-05 13:16:46] [-] Error processing future for index 4: Error code: 404 - {'error': {'message': "No assistant found with id 'asst_rERHlnPioURNmHLpBttIc5b5'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+[2025-02-05 13:16:46] [-] Error processing future for index 5: Error code: 404 - {'error': {'message': "No assistant found with id 'asst_rERHlnPioURNmHLpBttIc5b5'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+[2025-02-05 13:16:46] [-] Error processing future for index 6: Error code: 404 - {'error': {'message': "No assistant found with id 'asst_rERHlnPioURNmHLpBttIc5b5'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+[2025-02-05 13:16:46] [-] Error processing future for index 7: Error code: 404 - {'error': {'message': "No assistant found with id 'asst_rERHlnPioURNmHLpBttIc5b5'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+[2025-02-05 13:16:46] [-] Error processing future for index 9: Error code: 404 - {'error': {'message': "No assistant found with id 'asst_rERHlnPioURNmHLpBttIc5b5'.", 'type': 'invalid_request_error', 'param': None, 'code': None}}
+[2025-02-05 13:19:06] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 13:19:13] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 13:19:32] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-02-05 13:19:41] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-02-05 13:19:53] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-02-05 13:20:04] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-02-05 13:20:05] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 13:20:16] [+] Successfully created document for: Guest Supply Inc & Sysco Corp
+[2025-02-05 13:20:17] [-] No documents found for: Pontotoc Production Inc & Ascent Energy Inc
+[2025-02-05 13:20:34] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
+[2025-02-05 13:45:13] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 13:46:59] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 13:49:54] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 13:53:12] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 13:54:56] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 13:56:20] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 13:57:15] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 13:57:34] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 14:00:52] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 14:03:44] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 14:05:30] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 14:06:19] [-] No background section found for index 6: Texoil Inc & Ocean Energy Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001724/0000950134-01-001724.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401001790/0000950134-01-001790.txt
+		https://www.sec.gov/Archives/edgar/data/930550/000095013401000671/0000950134-01-000671.txt
+[2025-02-05 14:35:37] [-] No background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp);
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1110189/000095015901000024/0000950159-01-000024.txt
+[2025-02-05 14:36:31] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 14:38:30] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 15:17:01] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 15:19:36] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 15:21:33] [-] No background section found for index 1: Fritz Cos Inc & United Parcel Service Inc;
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
+		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
+		https://www.sec.gov/Archives/edgar/data/92081/000095014401001450/0000950144-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1117534/000095017001000089/0000950170-01-000089.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000092701601000094/0000927016-01-000094.txt
+		https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+		https://www.sec.gov/Archives/edgar/data/1028734/000103570401000046/0001035704-01-000046.txt
+		https://www.sec.gov/Archives/edgar/data/1126117/000110801701000013/0001108017-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000040/0000947871-01-000040.txt
+		https://www.sec.gov/Archives/edgar/data/1023421/000094787101000055/0000947871-01-000055.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000208/0000950136-01-000208.txt
+		https://www.sec.gov/Archives/edgar/data/1036045/000091205701004613/0000912057-01-004613.txt
+		https://www.sec.gov/Archives/edgar/data/1135071/000091205701007188/0000912057-01-007188.txt
+		https://www.sec.gov/Archives/edgar/data/1129604/000095012901000719/0000950129-01-000719.txt
+		https://www.sec.gov/Archives/edgar/data/805676/000095015201000473/0000950152-01-000473.txt
+		https://www.sec.gov/Archives/edgar/data/1106038/000095013601000142/0000950136-01-000142.txt
+		https://www.sec.gov/Archives/edgar/data/880259/000091205701000649/0000912057-01-000649.txt
+		https://www.sec.gov/Archives/edgar/data/703799/000103570401000131/0001035704-01-000131.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701003036/0000912057-01-003036.txt
+		https://www.sec.gov/Archives/edgar/data/1036538/000091205701002388/0000912057-01-002388.txt
+		https://www.sec.gov/Archives/edgar/data/1100917/000103221001000108/0001032210-01-000108.txt
+		https://www.sec.gov/Archives/edgar/data/1043533/000091205701001114/0000912057-01-001114.txt
+		https://www.sec.gov/Archives/edgar/data/1135361/000095013101001450/0000950131-01-001450.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701003006/0000912057-01-003006.txt
+		https://www.sec.gov/Archives/edgar/data/318300/000031830001000003/0000318300-01-000003.txt
+		https://www.sec.gov/Archives/edgar/data/1116132/000091205701502925/0000912057-01-502925.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006315/0000912057-01-006315.txt
+		https://www.sec.gov/Archives/edgar/data/1089044/000091205701006190/0000912057-01-006190.txt
+		https://www.sec.gov/Archives/edgar/data/230463/000095012901000196/0000950129-01-000196.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701000713/0000912057-01-000713.txt
+		https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+		https://www.sec.gov/Archives/edgar/data/1043432/000091205701006479/0000912057-01-006479.txt
+		https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000464/0000898430-01-000464.txt
+		https://www.sec.gov/Archives/edgar/data/731766/000104596901000020/0001045969-01-000020.txt
+		https://www.sec.gov/Archives/edgar/data/1001865/000089843001000501/0000898430-01-000501.txt
+		https://www.sec.gov/Archives/edgar/data/100493/000095013001000216/0000950130-01-000216.txt
+		https://www.sec.gov/Archives/edgar/data/919745/000095012301002011/0000950123-01-002011.txt
+		https://www.sec.gov/Archives/edgar/data/1135606/000092838501000785/0000928385-01-000785.txt
+		https://www.sec.gov/Archives/edgar/data/1120102/000095013601000080/0000950136-01-000080.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000021/0000914039-01-000021.txt
+		https://www.sec.gov/Archives/edgar/data/837276/000083727601500010/0000837276-01-500010.txt
+		https://www.sec.gov/Archives/edgar/data/858877/000089161801000014/0000891618-01-000014.txt
+		https://www.sec.gov/Archives/edgar/data/908475/000090847501000004/0000908475-01-000004.txt
+		https://www.sec.gov/Archives/edgar/data/1130950/000095010901000636/0000950109-01-000636.txt
+		https://www.sec.gov/Archives/edgar/data/1091893/000092701601000093/0000927016-01-000093.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001597/0000950123-01-001597.txt
+		https://www.sec.gov/Archives/edgar/data/1127712/000095012301001921/0000950123-01-001921.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000204/0000950136-01-000204.txt
+		https://www.sec.gov/Archives/edgar/data/1106037/000095013601000141/0000950136-01-000141.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701002879/0000912057-01-002879.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701001427/0000912057-01-001427.txt
+		https://www.sec.gov/Archives/edgar/data/1126899/000091205701003548/0000912057-01-003548.txt
+		https://www.sec.gov/Archives/edgar/data/96638/000089322001000042/0000893220-01-000042.txt
+		https://www.sec.gov/Archives/edgar/data/770403/000091205701005908/0000912057-01-005908.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000011/0000936392-01-000011.txt
+		https://www.sec.gov/Archives/edgar/data/276209/000091403901000013/0000914039-01-000013.txt
+		https://www.sec.gov/Archives/edgar/data/1010919/000093639201000017/0000936392-01-000017.txt
+		https://www.sec.gov/Archives/edgar/data/1042488/000095013401001350/0000950134-01-001350.txt
+		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
+		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
+[2025-02-05 15:40:27] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc

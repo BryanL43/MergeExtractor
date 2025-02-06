@@ -8,6 +8,7 @@ from fuzzywuzzy import fuzz
 
 from Assistant import Assistant
 from Logger import Logger
+from Document import Document
 
 """
     - This object handles processing the document by:
@@ -27,12 +28,12 @@ class Processor:
     
         print("Successfully initialized Processor");
 
-    def __extractFirstWord(self, companyName):
+    def __extractFirstWord(self, companyName) -> str:
         clean_name = re.sub(r"\(.*?\)", "", companyName);  # Remove parentheses content
         first_word = re.split(r"[\s\-_]", clean_name.strip())[0];
         return first_word;
 
-    def __loadFileFromURL(self, url):
+    def __loadFileFromURL(self, url) -> str:
         # Create a request that mimics browser activity
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
@@ -46,7 +47,7 @@ class Processor:
             print(f"FATAL: Failed to load document via url. Err_Code: {response.status_code}");
             sys.exit(response.status_code);
 
-    def __preProcessText(self, content):
+    def __preProcessText(self, content) -> str:
         soup = BeautifulSoup(content, "html.parser");
         text = soup.get_text(separator="\n");
 
@@ -59,13 +60,10 @@ class Processor:
 
         return text.strip();
 
-    def __checkCompaniesInDocument(self, url, companyNames):
-        if (self.__terminationEvent.is_set()):
-            return None, False;  # Exit early if thread termination is triggered
-        
+    def __checkCompaniesInDocument(self, url, companyNames) -> tuple[str, bool]:
+        # Open the url and acquire the document content.
+        # Error = Fatal, force exit from load function.
         rawText = self.__loadFileFromURL(url);
-        if (not rawText):  # If we cannot load the document
-            return "", False;
 
         cleanedText = self.__preProcessText(rawText);
         lowerText = cleanedText.lower();
@@ -75,6 +73,24 @@ class Processor:
         
         # Return the cleanedText if both company names are found, else False
         return cleanedText, len(foundCompanies) == len(companyNames);
+
+    def getDocuments(self, sourceLinks: list, companyNames: list) -> list[Document]:
+        # Acquire company name's first word
+        companyNamesCut = [self.__extractFirstWord(name).lower() for name in companyNames];
+
+        # Create multiple threads to open & verify document
+        futures = {self.executor.submit(self.__checkCompaniesInDocument, url, companyNamesCut): url for url in sourceLinks};
+        
+        # Wait for thread to finish processing and create new Document object
+        documents = [];
+        for future in as_completed(futures):
+            url = futures[future];
+            cleanedText, bothFound = future.result();
+            if bothFound:
+                documents.append(Document(url, cleanedText));
+    
+        return documents;
+
 
     def __removeTableOfContents(self, text):
         # Regular expression patterns for table of contents
@@ -113,7 +129,7 @@ class Processor:
         # Locate the start of the desired background section
         for i, sentence in enumerate(sentences):
             match = next(
-                (sc for sc in startCandidates if sc.lower() in sentence.lower() or fuzz.partial_ratio(sentence.lower(), sc.lower()) > 95),
+                (sc for sc in startCandidates if sc.lower() in sentence.lower() or fuzz.partial_ratio(sentence.lower(), sc.lower()) > 90),
                 None
             );
             if match:
@@ -130,13 +146,16 @@ class Processor:
 
         return "\n".join(section);
 
-    def locateSection(self, sourceLinks: list, companyNames: list, mainIndex: int) -> Future:
+    def locateSection(self, sourceLinks: list, companyNames: list, mainIndex: int):
         """
             - Here, we will verify that both company names are present in the document.
                 - Reduces the amount of documents needed to be processed with NLP.
             - Next, if both company names are present, we will try and locate the "Background of the Merger"
             chronological timeline.
+            - Returns the filtered links if no "Background of the Merger" section is found.
+                - Will be use for fall-back method (NLP)
         """
+        filteredLinks = [];
 
         # Acquire company's name first word & format document name
         companyNamesCut = [self.__extractFirstWord(name).lower() for name in companyNames];
@@ -156,20 +175,25 @@ class Processor:
 
             try:
                 cleanedText, bothFound = future.result();
+                url = futures[future];
+
                 if bothFound:
+                    filteredLinks.append(url);
+
                     # Additional preprocess cleaning
                     cleanedText = self.__removeTableOfContents(cleanedText);
                     truncatedText = cleanedText[50000:1000000];  # Shrink to manageable size for spaCy
 
                     backgroundSection = self.__findSection(truncatedText, self.startPhrases);
                     if backgroundSection is None:
-                        continue
+                        continue;
 
                     # Write the data to a file for debugging
                     foundData = True;
                     with open(f"./DataSet/{formatDocName}.txt", "w", encoding="utf-8") as file:
                         file.write(f"URL: {futures[future]}\n\n");
-                        file.write(backgroundSection);
+                        file.write(cleanedText);
+                        # file.write(backgroundSection);
 
                     Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {companyNames[0]} & {companyNames[1]}");
 
@@ -181,14 +205,15 @@ class Processor:
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {url}: {e}");
 
         if not foundData:
-            Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]};");
-            Logger.logMessage(f"\tDumping its document links:");
-            for url in sourceLinks:
-                Logger.logMessage(f"\t\t{url}");
+            Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}. Retrying via fallback...");
+            # Logger.logMessage(f"\tDumping its document links:");
+            # for url in sourceLinks:
+            #     Logger.logMessage(f"\t\t{url}");
 
-            return None;
+            return filteredLinks;
         else:
             # Process the section with asynchronously with assistant if it exists.
             # Requires file upload so I pass Assistant object to use here.
             future = self.executor.submit(self.assistant.extractSection, f"./DataSet/{formatDocName}.txt");
             return future;
+            print("Debug mode");

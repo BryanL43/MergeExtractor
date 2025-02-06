@@ -11,6 +11,7 @@ from tqdm import tqdm
 from Logger import Logger
 from Assistant import Assistant
 from Processor import Processor
+from Document import Document
 
 class Crawler:
     def __init__(
@@ -299,12 +300,16 @@ class Crawler:
                 # Extract the source document links
                 sourceLinks = self.__getSourceLinks(results);
 
+                # Filter the documents and keep the ones with the existence of both company names
+                companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
+                processor.getDocuments(sourceLinks, companyNames);
+
                 # Process the documents from the source links and save to be
                 # processed after mainIndex loop finishes
-                companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
-                future = processor.locateSection(sourceLinks, companyNames, mainIndex);
-                if future:
-                    futures.append((mainIndex, future));
+                # processResult = processor.locateSection(sourceLinks, companyNames, mainIndex);
+                # print(type(processResult))
+                # if future:
+                #     futures.append((mainIndex, future));
             
             print("Waiting for all asynchronous threads to finish...");
 
