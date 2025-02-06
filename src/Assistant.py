@@ -13,37 +13,47 @@ class Assistant:
     
         # Create/retrieve the assistant with limited parameters
         if not os.path.exists("assistantData.json"):
-            self.__assistant = self.__client.beta.assistants.create(
-                name="Document Assistant",
-                instructions = (
-                    "You specialize in locating and extracting relevant information from a specific section of a given text file. "
-                    "Your task is to identify the relevant section, analyze its content, and then respond to the given prompt based on your analysis. "
-                    "Make sure you have gathered all content from the section by checking for any possible amendments or additions. "
-                    "If you cannot find the section, simply return 'None'."
-                ),
-                model=self.model,
-                tools=[{"type": "file_search"}],
-                temperature=self.temp,
-                top_p = self.top_p
-            );
-        
-            self.__assistant_id = self.__assistant.id;
-        
-            # Write the dictionary to a JSON file
-            data = {
-                "id": self.__assistant_id
-            };
-
-            with open("assistantData.json", "w") as json_file:
-                json.dump(data, json_file);
-        
-            print("Successfully created Assistant");
+            self.__createAssistant();
         else: # If the assistant is already created
             with open("assistantData.json", "r") as json_file:
                 data = json.load(json_file);
                 self.__assistant_id = data["id"];
     
             print("Successfully retrieved Assistant");
+    
+        # Validate assistant existence
+        try:
+            self.__client.beta.assistants.retrieve(self.__assistant_id);
+        except Exception as e:
+            print("Assistant does not exist. Creating a new one...");
+            self.__createAssistant();
+    
+    def __createAssistant(self):
+        self.__assistant = self.__client.beta.assistants.create(
+            name="Document Assistant",
+            instructions = (
+                "You specialize in locating and extracting relevant information from a specific section of a given text file. "
+                "Your task is to identify the relevant section, analyze its content, and then respond to the given prompt based on your analysis. "
+                "Make sure you have gathered all content from the section by checking for any possible amendments or additions. "
+                "If you cannot find the section, simply return 'None'."
+            ),
+            model=self.model,
+            tools=[{"type": "file_search"}],
+            temperature=self.temp,
+            top_p = self.top_p
+        );
+    
+        self.__assistant_id = self.__assistant.id;
+    
+        # Write the dictionary to a JSON file
+        data = {
+            "id": self.__assistant_id
+        };
+
+        with open("assistantData.json", "w") as json_file:
+            json.dump(data, json_file);
+    
+        print("Successfully created Assistant");
 
     # Find the "Background of the Merger" section
     def extractSection(self, file_path: str):
