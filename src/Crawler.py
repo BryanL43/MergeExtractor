@@ -294,7 +294,7 @@ class Crawler:
 
                 # No documents found for our 2 companies
                 if (results == None):
-                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No documents found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
                     continue;
                 
                 # Extract the source document links
@@ -302,7 +302,14 @@ class Crawler:
 
                 # Filter the documents and keep the ones with the existence of both company names
                 companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
-                processor.getDocuments(sourceLinks, companyNames);
+                documents = processor.getDocuments(sourceLinks, companyNames);
+                if not documents:
+                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No relevant document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                    continue;
+
+                future = processor.locateSection(documents, companyNames, mainIndex);
+                if future:
+                    futures.append((mainIndex, future));
 
                 # Process the documents from the source links and save to be
                 # processed after mainIndex loop finishes
@@ -311,7 +318,7 @@ class Crawler:
                 # if future:
                 #     futures.append((mainIndex, future));
             
-            print("Waiting for all asynchronous threads to finish...");
+            print("Waiting for all asynchronous threads to finish...\n");
 
             # Wait for all OpenAI messages to complete before processing
             wait([future for _, future in futures], return_when=ALL_COMPLETED);
@@ -320,7 +327,7 @@ class Crawler:
             with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
                 writer = csv.writer(file);
                 if file.tell() == 0:
-                    writer.writerow(["DATE", "TMANAMES", "AMANAMES", "INITIATOR"]);
+                    writer.writerow(["INDEX", "DATE", "TMANAMES", "AMANAMES", "INITIATOR"]);
 
                 for mainIndex, future in tqdm(
                     futures,
@@ -340,9 +347,10 @@ class Crawler:
                         initiator = match.group(1) if match else "Unknown";
                         
                         # Write to the output CSV
-                        writer.writerow([self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], initiator]);
+                        writer.writerow([f"index_{mainIndex}", self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], initiator]);
                     except Exception as e:
                         Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing future for index {mainIndex}: {e}");
+                        self.assistant.clearVectorStores();
 
             # Clean up the vector store at the end as we can't clear while in parallel processing
             self.assistant.clearVectorStores();

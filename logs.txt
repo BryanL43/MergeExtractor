@@ -761,7 +761,7 @@
 	Dumping its document links:
 		https://www.sec.gov/Archives/edgar/data/1127712/000095012301000688/0000950123-01-000688.txt
 		https://www.sec.gov/Archives/edgar/data/844828/000084482801000009/0000844828-01-000009.txt
-		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txt
+		https://www.sec.gov/Archives/edgar/data/1121783/000095012301001346/0000950123-01-001346.txtf
 		https://www.sec.gov/Archives/edgar/data/1095858/000089924301000076/0000899243-01-000076.txt
 		https://www.sec.gov/Archives/edgar/data/1130950/000092701601001020/0000927016-01-001020.txt
 		https://www.sec.gov/Archives/edgar/data/92081/000095014401001915/0000950144-01-001915.txt
@@ -965,3 +965,19 @@
 		https://www.sec.gov/Archives/edgar/data/768158/000091205701003720/0000912057-01-003720.txt
 		https://www.sec.gov/Archives/edgar/data/25885/000092838501000010/0000928385-01-000010.txt
 [2025-02-05 15:40:27] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 20:00:46] [-] No relevant document found for: Fritz Cos Inc & United Parcel Service Inc
+[2025-02-05 20:08:50] [-] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-02-05 20:10:41] [-] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-02-05 20:12:40] [-] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-02-05 20:41:06] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 20:41:59] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 20:45:56] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 20:48:23] [-] No relevant document found for: Fritz Cos Inc & United Parcel Service Inc
+[2025-02-05 20:53:03] [-] No relevant document found for: Fritz Cos Inc & United Parcel Service Inc
+[2025-02-05 20:53:57] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-02-05 21:07:19] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-05 21:11:13] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-05 21:11:17] [-] Error processing future for index 6: Error code: 500 - {'error': {'message': 'Failed to create file operation.', 'type': 'server_error', 'param': None, 'code': None}}
+[2025-02-05 21:14:25] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-02-05 21:14:29] [-] Error processing future for index 6: Error code: 500 - {'error': {'message': 'Failed to create file operation.', 'type': 'server_error', 'param': None, 'code': None}}
+[2025-02-05 21:17:47] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc

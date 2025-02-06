@@ -1,5 +1,5 @@
 """
-    - This object persistantly store a document's infomation:
+    - This object persistantly store a document's infomation extracted from the source url:
         - Source URL
         - Content
 """

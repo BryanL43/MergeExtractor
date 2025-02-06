@@ -17,6 +17,7 @@ deleteAssistant = False;
 
 # Load spaCy model
 if torch.cuda.is_available():
+    print("spaCy is using GPU");
     spacy.prefer_gpu();
 
 nlp = spacy.load("en_core_web_sm");
@@ -61,6 +62,7 @@ def main():
         "Locate the 'Background of the Merger' section (which may be titled differently, such as "
         "'Background of the Transaction', 'Background of the Acquisition', or 'Background of the Offer'). "
         "This section provides a chronological timeline of events leading to the merger. "
+        "If you cannot find the section, strictly return None within brackets like this: [None]. "
         "Identify the first entity that **actively initiated or facilitated** discussions leading to the merger or acquisition. "
         "The initiator must be a company or financial institution, **not an individual person**. "
         "If the initial mention is an abbreviation or placeholder (e.g., 'Parent'), read the beginning of the document "
@@ -79,7 +81,7 @@ def main():
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, assistant);
     # crawler.runCrawler(startIndex=0, endIndex=10);
-    crawler.runCrawler(index=1);
+    crawler.runCrawler(index=6);
 
     if deleteAssistant:
         assistant.deleteAssistant();
