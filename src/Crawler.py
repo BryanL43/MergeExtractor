@@ -7,6 +7,7 @@ from fuzzywuzzy import fuzz
 import os
 import csv
 from tqdm import tqdm
+import time
 
 from Logger import Logger
 from Assistant import Assistant
@@ -308,16 +309,13 @@ class Crawler:
                     continue;
 
                 future = processor.locateSection(documents, companyNames, mainIndex);
+                if future is None:
+                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Confirmed no background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}.");
+                    continue;
+                
                 if future:
                     futures.append((mainIndex, future));
 
-                # Process the documents from the source links and save to be
-                # processed after mainIndex loop finishes
-                # processResult = processor.locateSection(sourceLinks, companyNames, mainIndex);
-                # print(type(processResult))
-                # if future:
-                #     futures.append((mainIndex, future));
-            
             print("Waiting for all asynchronous threads to finish...\n");
 
             # Wait for all OpenAI messages to complete before processing
@@ -344,6 +342,16 @@ class Crawler:
                         
                         # Extract the initiator from the specified format: [company name]
                         match = re.search(r"\[(.*?)\]", result);
+                        if match:
+                            initiator = match.group(1)
+                        else:
+                            initiator = "Unknown";
+
+                        # Check if the initiator is '[None]', indicating no background section
+                        if initiator == "None":
+                            Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No background section found for index {mainIndex}: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                            continue;
+
                         initiator = match.group(1) if match else "Unknown";
                         
                         # Write to the output CSV

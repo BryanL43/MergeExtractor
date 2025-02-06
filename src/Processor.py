@@ -1,14 +1,20 @@
 import re
-from concurrent.futures import ThreadPoolExecutor, as_completed, Future
+from concurrent.futures import ThreadPoolExecutor, as_completed, Future, wait, ALL_COMPLETED
 from threading import Event, Lock
 import sys
 import requests
 from bs4 import BeautifulSoup
 from fuzzywuzzy import fuzz
+import os
+import shutil
+import random
+import time
 
 from Assistant import Assistant
 from Logger import Logger
 from Document import Document
+
+TEMP_DIRECTORY = "temp";
 
 """
     - This object handles processing the document by:
@@ -108,14 +114,17 @@ class Processor:
 
         # Create multiple threads to open & verify document
         futures = {self.executor.submit(self.__checkCompaniesInDocument, url, companyNamesCut): url for url in sourceLinks};
-        
+
         # Wait for thread to finish processing and create new Document object
         documents = [];
         for future in as_completed(futures):
             url = futures[future];
-            cleanedText, bothFound = future.result();
-            if bothFound:
-                documents.append(Document(url, cleanedText));
+            try:
+                cleanedText, bothFound = future.result();
+                if bothFound:
+                    documents.append(Document(url, cleanedText));
+            except Exception as e:
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error retrieving document for URL {url}: {e}");
     
         return documents;
 
@@ -140,7 +149,36 @@ class Processor:
         
         return False;
 
-    def locateSection(self, documents: list[Document], companyNames: list, mainIndex: int):
+    def __processFallbackFutures(self, futures: list[Future]) -> (tuple[Future, Document] | tuple[None, None]):
+        # Wait for all futures to complete
+        wait(futures, return_when=ALL_COMPLETED);
+    
+        initiatorFoundEvent = Event(); # Localized as we need to wait for all futures to complete
+    
+        for future in as_completed(futures):
+            if initiatorFoundEvent.is_set():
+                break;
+
+            try:
+                result, doc = future.result();
+                if result is None:
+                    continue;
+
+                match = re.search(r"\[(.*?)\]", result);
+                if match:
+                    initiator = match.group(1);
+                else:
+                    initiator = "Unknown";
+
+                if initiator != "None":
+                    initiatorFoundEvent.set();  # Signal that an initiator has been found
+                    return future, doc;
+            except Exception as e:
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing fallback future: {e}");
+    
+        return None, None;
+
+    def locateSection(self, documents: list[Document], companyNames: list, mainIndex: int) -> Future:
         """
             - Here, we will verify that both company names are present in the document.
                 - Reduces the amount of documents needed to be processed with NLP.
@@ -185,19 +223,40 @@ class Processor:
                 url = futures[future];
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {url}: {e}");
 
-        future = self.executor.submit(self.assistant.extractSection, f"./DataSet/{formatDocName}.txt");
-        return future;
-    
         if not foundData:
             Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}. Retrying via fallback...");
+
+            # Create temp directory for creating temp file acceptable by openai
+            os.makedirs(TEMP_DIRECTORY, exist_ok=True);
+            fallbackFutures = [];
+
+            # Create a list of async processes to force correct using openai
+            for doc in documents:
+                filePath = os.path.join(TEMP_DIRECTORY, f"temp_{random.randint(1000, 99999)}.txt");
+                with open(filePath, "w", encoding="utf-8") as file:
+                    file.write(doc.getContent());
+                    file.flush();
+                
+                # Wait for the file to be created; prevent race condition
+                while not os.path.exists(filePath):
+                    time.sleep(0.1);
+                
+                fallbackFutures.append(self.executor.submit(self.assistant.extractSection, filePath, doc));
             
+            fallbackResult, originalDoc = self.__processFallbackFutures(fallbackFutures);
+            if fallbackResult is not None:
+                # Write the data to a file
+                with open(f"./DataSet/{formatDocName}.txt", "w", encoding="utf-8") as file:
+                    file.write(f"URL: {originalDoc.getUrl()}\n\n");
+                    file.write(originalDoc.getContent());
+                
+                if os.path.exists(TEMP_DIRECTORY):
+                    shutil.rmtree(TEMP_DIRECTORY);
+                return fallbackResult;
             
-            # Logger.logMessage(f"\tDumping its document links:");
-            # for url in sourceLinks:
-            #     Logger.logMessage(f"\t\t{url}");
-        else:
-            # Process the section with asynchronously with assistant if it exists.
-            # Requires file upload so I pass Assistant object to use here.
-            future = self.executor.submit(self.assistant.extractSection, f"./DataSet/{formatDocName}.txt");
-            return future;
-            print("Debug mode");
+            if os.path.exists(TEMP_DIRECTORY):
+                shutil.rmtree(TEMP_DIRECTORY);
+            return None;
+
+        # Default compilation if fuzzy match located the presence of the section
+        return self.executor.submit(self.assistant.extractSection, f"./DataSet/{formatDocName}.txt");
