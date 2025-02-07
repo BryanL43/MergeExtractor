@@ -115,6 +115,9 @@ class Processor:
         # Create multiple threads to open & verify document
         futures = {self.executor.submit(self.__checkCompaniesInDocument, url, companyNamesCut): url for url in sourceLinks};
 
+        # Race conditions causing no results for ones that should have results
+        wait([future for future in futures], return_when=ALL_COMPLETED);
+
         # Wait for thread to finish processing and create new Document object
         documents = [];
         for future in as_completed(futures):
@@ -149,6 +152,11 @@ class Processor:
         
         return False;
 
+    # Helper function for fallback method
+    def __extractSectionWithDoc(self, file_path: str, doc: Document):
+        result = self.assistant.extractSection(file_path);
+        return result, doc;
+
     def __processFallbackFutures(self, futures: list[Future]) -> (tuple[Future, Document] | tuple[None, None]):
         # Wait for all futures to complete
         wait(futures, return_when=ALL_COMPLETED);
@@ -161,6 +169,7 @@ class Processor:
 
             try:
                 result, doc = future.result();
+                print(result, doc);
                 if result is None:
                     continue;
 
@@ -241,7 +250,7 @@ class Processor:
                 while not os.path.exists(filePath):
                     time.sleep(0.1);
                 
-                fallbackFutures.append(self.executor.submit(self.assistant.extractSection, filePath, doc));
+                fallbackFutures.append(self.executor.submit(self.__extractSectionWithDoc, filePath, doc));
             
             fallbackResult, originalDoc = self.__processFallbackFutures(fallbackFutures);
             if fallbackResult is not None:
