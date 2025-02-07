@@ -124,6 +124,7 @@ class Processor:
             url = futures[future];
             try:
                 cleanedText, bothFound = future.result();
+                print(bothFound)
                 if bothFound:
                     documents.append(Document(url, cleanedText));
             except Exception as e:
@@ -261,6 +262,7 @@ class Processor:
                 
                 if os.path.exists(TEMP_DIRECTORY):
                     shutil.rmtree(TEMP_DIRECTORY);
+
                 return fallbackResult;
             
             if os.path.exists(TEMP_DIRECTORY):

@@ -336,7 +336,7 @@ class Crawler:
                     bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
                 ):
                     try:
-                        result = future.result();
+                        result = future.result()[0] if (type(future.result()) is tuple) else future.result();
                         if result is None:
                             continue;
                         
