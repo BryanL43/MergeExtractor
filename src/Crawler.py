@@ -269,9 +269,7 @@ class Crawler:
             # Initiate the Processor to clean & analzye the documents
             processor = Processor(self.assistant, self.nlp, self.threadCount, self.startPhrases, executor);
             
-            # Stores all asynchronous results from Assistant and load them at the end.
-            # This preserves the operation of multi-threading.
-            futures = [];
+            acquiredDocuments = []; # Stores all successfully located documents to write at the end
             for mainIndex in tqdm(
                 range(self.__startIndex, self.__endIndex),
                 desc="\033[35mProcessing\033[0m",
@@ -306,58 +304,42 @@ class Crawler:
                 documents = processor.getDocuments(sourceLinks, companyNames);
                 if not documents:
                     Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No relevant document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                    Logger.logMessage(f"\tDumping its document links:");
+                    for doc in documents:
+                        Logger.logMessage(f"\t\t{doc.getUrl()}");
                     continue;
 
-                future = processor.locateSection(documents, companyNames, mainIndex);
-                if future is None:
+                # Acquire the specific document with the "Background of the Merger" section
+                docURL = processor.locateDocument(documents, companyNames, mainIndex);
+                if docURL is not None:
                     Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Confirmed no background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}.");
+                    Logger.logMessage(f"\tDumping its document links:");
+                    for doc in documents:
+                        Logger.logMessage(f"\t\t{doc.getUrl()}");
                     continue;
                 
-                if future:
-                    futures.append((mainIndex, future));
+                # Save the document for writing at the end
+                acquiredDocuments.append((mainIndex, docURL));
 
-            print("Waiting for all asynchronous threads to finish...\n");
-
-            # Wait for all OpenAI messages to complete before processing
-            wait([future for _, future in futures], return_when=ALL_COMPLETED);
-
-            # Now process the results to extract the initiator from the Assistant output response
+            # Now perform the expensive output writing
             with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
                 writer = csv.writer(file);
                 if file.tell() == 0:
-                    writer.writerow(["INDEX", "DATE", "TMANAMES", "AMANAMES", "INITIATOR"]);
+                    writer.writerow(["INDEX", "DATE", "TMANAMES", "AMANAMES", "URL"]);
 
-                for mainIndex, future in tqdm(
-                    futures,
-                    total=len(futures),
+                for mainIndex, url in tqdm(
+                    acquiredDocuments,
+                    total=len(acquiredDocuments),
                     desc="\033[33mWriting to CSV\033[0m",
                     unit="items",
                     ncols=80,
                     bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
                 ):
-                    try:
-                        result = future.result();
-                        if result is None:
-                            continue;
-                        
-                        # Extract the initiator from the specified format: [company name]
-                        match = re.search(r"\[(.*?)\]", result);
-                        if match:
-                            initiator = match.group(1)
-                        else:
-                            initiator = "Unknown";
-
-                        # Check if the initiator is '[None]', indicating no background section
-                        if initiator == "None":
-                            Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No background section found for index {mainIndex}: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
-                            continue;
-
-                        initiator = match.group(1) if match else "Unknown";
-                        
+                    try:   
                         # Write to the output CSV
-                        writer.writerow([f"index_{mainIndex}", self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], initiator]);
+                        writer.writerow([f"index_{mainIndex}", self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], url]);
                     except Exception as e:
-                        Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing future for index {mainIndex}: {e}");
+                        Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error writing to output for index {mainIndex}: {e}");
                         self.assistant.clearVectorStores();
 
             # Clean up the vector store at the end as we can't clear while in parallel processing

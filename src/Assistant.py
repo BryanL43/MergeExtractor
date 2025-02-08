@@ -56,7 +56,7 @@ class Assistant:
         print("Successfully created Assistant");
 
     # Find the "Background of the Merger" section
-    def extractSection(self, file_path: str):
+    def analyzeDocument(self, file_path: str):
         msg_file = self.__client.files.create(
             file=open(file_path, "rb"),
             purpose="assistants"
