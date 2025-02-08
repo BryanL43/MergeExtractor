@@ -304,13 +304,18 @@ class Crawler:
                 documents = processor.getDocuments(sourceLinks, companyNames);
                 if not documents:
                     Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No relevant document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                    Logger.logMessage(f"\tDumping its document links:");
+                    for doc in documents:
+                        Logger.logMessage(f"\t\t{doc.getUrl()}");
                     continue;
 
                 # Acquire the specific document with the "Background of the Merger" section
                 docURL = processor.locateDocument(documents, companyNames, mainIndex);
-                if docURL is None:
+                if docURL is not None:
                     Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Confirmed no background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}.");
-                    # Dump doc url here
+                    Logger.logMessage(f"\tDumping its document links:");
+                    for doc in documents:
+                        Logger.logMessage(f"\t\t{doc.getUrl()}");
                     continue;
                 
                 # Save the document for writing at the end

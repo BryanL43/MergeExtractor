@@ -212,7 +212,9 @@ class Processor:
                                 foundData = True;
 
                                 # Write the data to a file
-                                with open(f"./DataSet/{formatDocName}.txt", "w", encoding="utf-8") as file:
+                                batchStart = (mainIndex // 100) * 100;
+                                batchEnd = batchStart + 99;
+                                with open(f"./DataSet/{batchStart}-{batchEnd}/{formatDocName}.txt", "w", encoding="utf-8") as file:
                                     file.write(f"URL: {doc.getUrl()}\n\n");
                                     file.write(doc.getContent());
 
@@ -248,7 +250,9 @@ class Processor:
             fallbackResult = self.__processFallbackFutures(fallbackFutures);
             if fallbackResult is not None:
                 # Write the data to a file
-                with open(f"./DataSet/{formatDocName}.txt", "w", encoding="utf-8") as file:
+                batchStart = (mainIndex // 100) * 100;
+                batchEnd = batchStart + 99;
+                with open(f"./DataSet/{batchStart}-{batchEnd}/{formatDocName}.txt", "w", encoding="utf-8") as file:
                     file.write(f"URL: {fallbackResult.getUrl()}\n\n");
                     file.write(fallbackResult.getContent());
                 
@@ -261,6 +265,4 @@ class Processor:
                 shutil.rmtree(TEMP_DIRECTORY);
             return None;
 
-        # Default compilation if fuzzy match located the presence of the section
-        print("I HAVE FAULTY FIRED");
-        return None;
+        return None; # Extreme backup
