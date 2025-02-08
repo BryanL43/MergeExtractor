@@ -261,8 +261,11 @@ class Crawler:
             self.__endIndex = index + 1;
         else:
             # Ensure startIndex and endIndex are set properly
-            self.__startIndex = startIndex if startIndex is not None else 0;
-            self.__endIndex = endIndex if endIndex is not None else self.__startIndex + 1;
+            if startIndex is None or endIndex is None:
+                raise ValueError("startIndex and endIndex must be provided if index is not provided.");
+
+            self.__startIndex = startIndex;
+            self.__endIndex = endIndex + 1;
 
         # Create the thread pool for efficiently allocate threads via executor
         with ThreadPoolExecutor(max_workers=self.threadCount) as executor:
