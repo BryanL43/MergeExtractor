@@ -259,6 +259,7 @@ class Processor:
                 if os.path.exists(TEMP_DIRECTORY):
                     shutil.rmtree(TEMP_DIRECTORY);
 
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {companyNames[0]} & {companyNames[1]}");
                 return fallbackResult.getUrl();
             
             if os.path.exists(TEMP_DIRECTORY):
