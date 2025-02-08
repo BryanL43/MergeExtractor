@@ -124,7 +124,6 @@ class Processor:
             url = futures[future];
             try:
                 cleanedText, bothFound = future.result();
-                print(bothFound)
                 if bothFound:
                     documents.append(Document(url, cleanedText));
             except Exception as e:
@@ -154,48 +153,39 @@ class Processor:
         return False;
 
     # Helper function for fallback method
-    def __extractSectionWithDoc(self, file_path: str, doc: Document):
-        result = self.assistant.extractSection(file_path);
+    def __analyzeDocumentWithObj(self, file_path: str, doc: Document):
+        result = self.assistant.analyzeDocument(file_path);
         return result, doc;
 
-    def __processFallbackFutures(self, futures: list[Future]) -> (tuple[Future, Document] | tuple[None, None]):
+    def __processFallbackFutures(self, futures: list[Future]) -> (Document | None):
         # Wait for all futures to complete
         wait(futures, return_when=ALL_COMPLETED);
     
-        initiatorFoundEvent = Event(); # Localized as we need to wait for all futures to complete
-    
+        sectionFoundEvent = Event(); # Localized as we need to wait for all futures to complete
+
         for future in as_completed(futures):
-            if initiatorFoundEvent.is_set():
+            if sectionFoundEvent.is_set():
                 break;
 
             try:
                 result, doc = future.result();
-                print(result, doc);
                 if result is None:
                     continue;
 
                 match = re.search(r"\[(.*?)\]", result);
-                if match:
-                    initiator = match.group(1);
-                else:
-                    initiator = "Unknown";
+                foundSection = match.group(1) if match else "unknown";
 
-                if initiator != "None":
-                    initiatorFoundEvent.set();  # Signal that an initiator has been found
-                    return future, doc;
+                if foundSection == "Found":
+                    sectionFoundEvent.set();  # Signal that a section has been found
+                    return doc; # Returns the correct document with the detected section
             except Exception as e:
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing fallback future: {e}");
     
-        return None, None;
+        return None;
 
-    def locateSection(self, documents: list[Document], companyNames: list, mainIndex: int) -> Future:
+    def locateDocument(self, documents: list[Document], companyNames: list, mainIndex: int) -> (str | None):
         """
-            - Here, we will verify that both company names are present in the document.
-                - Reduces the amount of documents needed to be processed with NLP.
-            - Next, if both company names are present, we will try and locate the "Background of the Merger"
-            chronological timeline.
-            - Returns the filtered links if no "Background of the Merger" section is found.
-                - Will be use for fall-back method (NLP)
+            - Acquires the document with the "Background of the Merger" section and return its url.
         """
 
         formatDocName = f"{mainIndex}_{companyNames[0].replace(' ', '_')}_&_{companyNames[1].replace(' ', '_')}";
@@ -227,14 +217,16 @@ class Processor:
                                     file.write(doc.getContent());
 
                                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {companyNames[0]} & {companyNames[1]}");
+                                return doc.getUrl();
 
                     break;
             except Exception as e:
                 url = futures[future];
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {url}: {e}");
 
+        # Fallback method if fuzzy fails. We will use openai to determine if the background section is within any of the documents
         if not foundData:
-            Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}. Retrying via fallback...");
+            Logger.logMessage(f"[{Logger.get_current_timestamp()}] [*] No background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}. Retrying via fallback...");
 
             # Create temp directory for creating temp file acceptable by openai
             os.makedirs(TEMP_DIRECTORY, exist_ok=True);
@@ -251,23 +243,24 @@ class Processor:
                 while not os.path.exists(filePath):
                     time.sleep(0.1);
                 
-                fallbackFutures.append(self.executor.submit(self.__extractSectionWithDoc, filePath, doc));
+                fallbackFutures.append(self.executor.submit(self.__analyzeDocumentWithObj, filePath, doc));
             
-            fallbackResult, originalDoc = self.__processFallbackFutures(fallbackFutures);
+            fallbackResult = self.__processFallbackFutures(fallbackFutures);
             if fallbackResult is not None:
                 # Write the data to a file
                 with open(f"./DataSet/{formatDocName}.txt", "w", encoding="utf-8") as file:
-                    file.write(f"URL: {originalDoc.getUrl()}\n\n");
-                    file.write(originalDoc.getContent());
+                    file.write(f"URL: {fallbackResult.getUrl()}\n\n");
+                    file.write(fallbackResult.getContent());
                 
                 if os.path.exists(TEMP_DIRECTORY):
                     shutil.rmtree(TEMP_DIRECTORY);
 
-                return fallbackResult;
+                return fallbackResult.getUrl();
             
             if os.path.exists(TEMP_DIRECTORY):
                 shutil.rmtree(TEMP_DIRECTORY);
             return None;
 
         # Default compilation if fuzzy match located the presence of the section
-        return self.executor.submit(self.assistant.extractSection, f"./DataSet/{formatDocName}.txt");
+        print("I HAVE FAULTY FIRED");
+        return None;
