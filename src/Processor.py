@@ -23,10 +23,9 @@ TEMP_DIRECTORY = "temp";
         - Extracting the background section
 """
 class Processor:
-    def __init__(self, assistant: Assistant, nlp: any, threadCount: int, startPhrases: list, executor: ThreadPoolExecutor):
+    def __init__(self, assistant: Assistant, nlp: any, startPhrases: list, executor: ThreadPoolExecutor):
         self.assistant = assistant;
         self.nlp = nlp;
-        self.threadCount = threadCount;
         self.startPhrases = startPhrases;
 
         self.executor = executor;
@@ -134,7 +133,7 @@ class Processor:
     def __findSection(self, doc: Document, startCandidates: list[str]) -> bool:
         # Clean and truncate text for spaCy
         cleanedText = self.__removeTableOfContents(doc.getContent());
-        doc.setContent(cleanedText[1000:1000000]); # Preserve some content for assistant parsing
+        doc.setContent(cleanedText[1000:1000000]); # Preserve some content for assistant back-up parsing
         cleanedText = cleanedText[50000:1000000];  # Shrink to manageable size for spaCy
 
         # Break the text into sentences
@@ -157,18 +156,14 @@ class Processor:
         result = self.assistant.analyzeDocument(file_path);
         return result, doc;
 
-    def __processFallbackFutures(self, futures: list[Future]) -> (Document | None):
-        # Wait for all futures to complete
-        wait(futures, return_when=ALL_COMPLETED);
-    
-        sectionFoundEvent = Event(); # Localized as we need to wait for all futures to complete
+    def __processFallbackFutures(self, futures: list[tuple[str, Document]]) -> (Document | None):
+        sectionFoundEvent = Event(); # Localized event to ttrack section discovery
 
-        for future in as_completed(futures):
+        for result, doc in futures:
             if sectionFoundEvent.is_set():
                 break;
-
+        
             try:
-                result, doc = future.result();
                 if result is None:
                     continue;
 
@@ -180,7 +175,7 @@ class Processor:
                     return doc; # Returns the correct document with the detected section
             except Exception as e:
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing fallback future: {e}");
-    
+
         return None;
 
     def locateDocument(self, documents: list[Document], companyNames: list, mainIndex: int) -> (str | None):
@@ -219,6 +214,11 @@ class Processor:
                                     file.write(doc.getContent());
 
                                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {companyNames[0]} & {companyNames[1]}");
+                                
+                                # Cancel remaining futures
+                                for f in futures:
+                                    f.cancel();
+                                
                                 return doc.getUrl();
 
                     break;
@@ -232,7 +232,7 @@ class Processor:
 
             # Create temp directory for creating temp file acceptable by openai
             os.makedirs(TEMP_DIRECTORY, exist_ok=True);
-            fallbackFutures = [];
+            fileDocComposite = [];
 
             # Create a list of async processes to force correct using openai
             for doc in documents:
@@ -245,8 +245,11 @@ class Processor:
                 while not os.path.exists(filePath):
                     time.sleep(0.1);
                 
-                fallbackFutures.append(self.executor.submit(self.__analyzeDocumentWithObj, filePath, doc));
+                fileDocComposite.append((filePath, doc));
             
+            # Parallelly process all documents to locate "Background of the Merger" section via openai
+            fallbackFutures = list(self.executor.map(lambda args: self.__analyzeDocumentWithObj(*args), fileDocComposite));
+
             fallbackResult = self.__processFallbackFutures(fallbackFutures);
             if fallbackResult is not None:
                 # Write the data to a file

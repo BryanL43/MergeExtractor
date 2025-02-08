@@ -34,6 +34,9 @@ class Crawler:
         self.nlp = nlp;
         self.assistant = assistant;
 
+        # Automatically handle threads; allows me to recycle threads & prevent leaks
+        self.executor = ThreadPoolExecutor(max_workers=self.threadCount);
+
         self.__formTypes = ["PREM14A", "S-4", "SC 14D9", "SC TO-T"];
 
         print("Successfully initialized Crawler");
@@ -165,8 +168,7 @@ class Crawler:
             result = response.json();
             mergedHits = result["hits"]["hits"] if result and "hits" in result and "hits" in result["hits"] else [];
         else: # Case: Multiple URLs; use threads for concurrent fetching
-            with ThreadPoolExecutor(max_workers=self.threadCount) as executor:
-                results = list(executor.map(lambda url: requests.get(url, headers=headers), urls));
+            results = list(self.executor.map(lambda url: requests.get(url, headers=headers), urls));
             
             # Merge the results into a single list
             mergedHits = [];
@@ -207,8 +209,7 @@ class Crawler:
         }
 
         # Fetch the json data for each company using threads for concurrent fetching
-        with ThreadPoolExecutor() as executor:
-            results = list(executor.map(lambda url: requests.get(url, headers=headers), urls));
+        results = list(self.executor.map(lambda url: requests.get(url, headers=headers), urls));
         
         # Merge the results into a single list
         mergedHits = [];
@@ -267,80 +268,80 @@ class Crawler:
             self.__startIndex = startIndex;
             self.__endIndex = endIndex + 1;
 
-        # Create the thread pool for efficiently allocate threads via executor
-        with ThreadPoolExecutor(max_workers=self.threadCount) as executor:
-            # Initiate the Processor to clean & analzye the documents
-            processor = Processor(self.assistant, self.nlp, self.threadCount, self.startPhrases, executor);
+        # Initiate the Processor to clean & analzye the documents
+        processor = Processor(self.assistant, self.nlp, self.startPhrases, self.executor);
             
-            acquiredDocuments = []; # Stores all successfully located documents to write at the end
-            for mainIndex in tqdm(
-                range(self.__startIndex, self.__endIndex),
-                desc="\033[35mProcessing\033[0m",
+        acquiredDocuments = []; # Stores all successfully located documents to write at the end
+        for mainIndex in tqdm(
+            range(self.__startIndex, self.__endIndex),
+            desc="\033[35mProcessing\033[0m",
+            unit="items",
+            ncols=80,
+            bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
+        ):
+            print("Processing index: ", mainIndex, "; Companies: ", self.companyAList[mainIndex], " & ", self.companyBList[mainIndex]);
+
+            # Construct the constraint of a given date & prep for url-parsing
+            constraintDates = self.__getDateConstraints(self.filedDate[mainIndex]);
+            lbDate, ubDate = constraintDates;
+            restructLB = f"{lbDate.year}-{lbDate.month:02}-{lbDate.day:02}";
+            restructUB = f"{ubDate.year}-{ubDate.month:02}-{ubDate.day:02}";
+            restructForms = "%2C".join(self.__formTypes).replace(" ", "%20");
+
+            # Find the documents with CIK filtering
+            results = self.__getCIKDocumentJson(self.companyAList[mainIndex], self.companyBList[mainIndex], restructLB, restructUB, restructForms);
+            if (results == None): # Acquire all documents within our guess
+                results = self.__getDocumentJson(self.companyAList[mainIndex], self.companyBList[mainIndex], restructLB, restructUB, restructForms);
+
+            # No documents found for our 2 companies
+            if (results == None):
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                continue;
+            
+            # Extract the source document links
+            sourceLinks = self.__getSourceLinks(results);
+
+            # Filter the documents and keep the ones with the existence of both company names
+            companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
+            documents = processor.getDocuments(sourceLinks, companyNames);
+            if not documents:
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No relevant document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                continue;
+
+            # Acquire the specific document with the "Background of the Merger" section
+            docURL = processor.locateDocument(documents, companyNames, mainIndex);
+            if docURL is None:
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Confirmed no background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}.");
+                Logger.logMessage(f"\tDumping its document links:");
+                for doc in documents:
+                    Logger.logMessage(f"\t\t{doc.getUrl()}");
+                continue;
+            
+            # Save the document for writing at the end
+            acquiredDocuments.append((mainIndex, docURL));
+
+            time.sleep(2); # Let any asynchronous work finish and reset computation power
+
+        # Now perform the expensive output writing
+        with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
+            writer = csv.writer(file);
+            if file.tell() == 0:
+                writer.writerow(["INDEX", "DATE", "TMANAMES", "AMANAMES", "URL"]);
+
+            for mainIndex, url in tqdm(
+                acquiredDocuments,
+                total=len(acquiredDocuments),
+                desc="\033[33mWriting to CSV\033[0m",
                 unit="items",
                 ncols=80,
                 bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
             ):
-                print("Processing index: ", mainIndex, "; Companies: ", self.companyAList[mainIndex], " & ", self.companyBList[mainIndex]);
+                try:   
+                    # Write to the output CSV
+                    writer.writerow([f"index_{mainIndex}", self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], url]);
+                except Exception as e:
+                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error writing to output for index {mainIndex}: {e}");
+                    self.assistant.clearVectorStores();
 
-                # Construct the constraint of a given date & prep for url-parsing
-                constraintDates = self.__getDateConstraints(self.filedDate[mainIndex]);
-                lbDate, ubDate = constraintDates;
-                restructLB = f"{lbDate.year}-{lbDate.month:02}-{lbDate.day:02}";
-                restructUB = f"{ubDate.year}-{ubDate.month:02}-{ubDate.day:02}";
-                restructForms = "%2C".join(self.__formTypes).replace(" ", "%20");
-
-                # Find the documents with CIK filtering
-                results = self.__getCIKDocumentJson(self.companyAList[mainIndex], self.companyBList[mainIndex], restructLB, restructUB, restructForms);
-                if (results == None): # Acquire all documents within our guess
-                    results = self.__getDocumentJson(self.companyAList[mainIndex], self.companyBList[mainIndex], restructLB, restructUB, restructForms);
-
-                # No documents found for our 2 companies
-                if (results == None):
-                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
-                    continue;
-                
-                # Extract the source document links
-                sourceLinks = self.__getSourceLinks(results);
-
-                # Filter the documents and keep the ones with the existence of both company names
-                companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
-                documents = processor.getDocuments(sourceLinks, companyNames);
-                if not documents:
-                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No relevant document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
-                    continue;
-
-                # Acquire the specific document with the "Background of the Merger" section
-                docURL = processor.locateDocument(documents, companyNames, mainIndex);
-                if docURL is None:
-                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Confirmed no background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}.");
-                    Logger.logMessage(f"\tDumping its document links:");
-                    for doc in documents:
-                        Logger.logMessage(f"\t\t{doc.getUrl()}");
-                    continue;
-                
-                # Save the document for writing at the end
-                acquiredDocuments.append((mainIndex, docURL));
-
-            # Now perform the expensive output writing
-            with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
-                writer = csv.writer(file);
-                if file.tell() == 0:
-                    writer.writerow(["INDEX", "DATE", "TMANAMES", "AMANAMES", "URL"]);
-
-                for mainIndex, url in tqdm(
-                    acquiredDocuments,
-                    total=len(acquiredDocuments),
-                    desc="\033[33mWriting to CSV\033[0m",
-                    unit="items",
-                    ncols=80,
-                    bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
-                ):
-                    try:   
-                        # Write to the output CSV
-                        writer.writerow([f"index_{mainIndex}", self.filedDate[mainIndex], self.companyAList[mainIndex], self.companyBList[mainIndex], url]);
-                    except Exception as e:
-                        Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error writing to output for index {mainIndex}: {e}");
-                        self.assistant.clearVectorStores();
-
-            # Clean up the vector store at the end as we can't clear while in parallel processing
-            self.assistant.clearVectorStores();
+        # Clean up the vector store at the end as we can't clear while in parallel processing
+        self.assistant.clearVectorStores();

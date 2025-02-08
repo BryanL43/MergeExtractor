@@ -48,7 +48,7 @@ def main():
     assistant = Assistant(api_key, prompt, "gpt-4o-mini");
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, assistant);
-    crawler.runCrawler(startIndex=0, endIndex=5); # True to literal index: i.e., 0 to 99 is 0 to 99
+    crawler.runCrawler(startIndex=0, endIndex=20); # True to literal index: i.e., 0 to 99 is 0 to 99
     # crawler.runCrawler(index=6);
 
     if deleteAssistant:
