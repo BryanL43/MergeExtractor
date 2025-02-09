@@ -33,10 +33,17 @@ class Processor:
     
         print("Successfully initialized Processor");
 
-    def __extractFirstWord(self, companyName) -> str:
+    def __extractAllButLastWord(self, companyName) -> str:
         clean_name = re.sub(r"\(.*?\)", "", companyName);  # Remove parentheses content
-        first_word = re.split(r"[\s\-_]", clean_name.strip())[0];
-        return first_word;
+        words = re.split(r"[\s\-_]+", clean_name.strip());  # Split by space, hyphen, or underscore
+
+        if len(words) > 1:
+            if words[-2] == "&":
+                words = words[:-2]; # Remove both "&" and the last word
+            else:
+                words = words[:-1];  # Remove only the last word
+
+        return " ".join(words);
 
     def __loadFileFromURL(self, url) -> str:
         # Create a request that mimics browser activity
@@ -71,7 +78,7 @@ class Processor:
         rawText = self.__loadFileFromURL(url);
 
         cleanedText = self.__preProcessText(rawText);
-        lowerText = cleanedText.lower();
+        lowerText = cleanedText.lower()[:10000]; # Truncate to header to ensure accurate document
 
         # Check if both company names are present as whole words
         foundCompanies = [name for name in companyNames if re.search(r'\b' + re.escape(name) + r'\b', lowerText)];
@@ -108,8 +115,11 @@ class Processor:
         return cleanedText.strip();
 
     def getDocuments(self, sourceLinks: list, companyNames: list) -> list[Document]:
+        print(sourceLinks)
         # Acquire company name's first word
-        companyNamesCut = [self.__extractFirstWord(name).lower() for name in companyNames];
+        companyNamesCut = [self.__extractAllButLastWord(name).lower() for name in companyNames];
+
+        print(companyNamesCut)
 
         # Create multiple threads to open & verify document
         futures = {self.executor.submit(self.__checkCompaniesInDocument, url, companyNamesCut): url for url in sourceLinks};
@@ -127,7 +137,7 @@ class Processor:
                     documents.append(Document(url, cleanedText));
             except Exception as e:
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error retrieving document for URL {url}: {e}");
-    
+
         return documents;
 
     def __findSection(self, doc: Document, startCandidates: list[str]) -> bool:

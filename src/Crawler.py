@@ -2,12 +2,14 @@ from datetime import datetime
 import re
 import requests
 import sys
-from concurrent.futures import ThreadPoolExecutor, wait, ALL_COMPLETED
+from concurrent.futures import ThreadPoolExecutor
 from fuzzywuzzy import fuzz
 import os
 import csv
 from tqdm import tqdm
 import time
+import gc
+import torch
 
 from Logger import Logger
 from Assistant import Assistant
@@ -255,6 +257,15 @@ class Crawler:
 
         return sourceLinks;
 
+    def __resetResources(self):
+        gc.collect(); # CPU flush
+
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache(); # GPU flush
+            torch.cuda.synchronize();
+        
+        time.sleep(2);
+
     def runCrawler(self, startIndex: int = None, endIndex: int = None, index: int = None):
         # If index is provided, override startIndex and endIndex
         if index is not None:
@@ -296,6 +307,7 @@ class Crawler:
             # No documents found for our 2 companies
             if (results == None):
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                self.__resetResources();
                 continue;
             
             # Extract the source document links
@@ -306,6 +318,7 @@ class Crawler:
             documents = processor.getDocuments(sourceLinks, companyNames);
             if not documents:
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No relevant document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                self.__resetResources();
                 continue;
 
             # Acquire the specific document with the "Background of the Merger" section
@@ -315,12 +328,13 @@ class Crawler:
                 Logger.logMessage(f"\tDumping its document links:");
                 for doc in documents:
                     Logger.logMessage(f"\t\t{doc.getUrl()}");
+                self.__resetResources();
                 continue;
             
             # Save the document for writing at the end
             acquiredDocuments.append((mainIndex, docURL));
 
-            time.sleep(2); # Let any asynchronous work finish and reset computation power
+            self.__resetResources();
 
         # Now perform the expensive output writing
         with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
@@ -343,5 +357,6 @@ class Crawler:
                     Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error writing to output for index {mainIndex}: {e}");
                     self.assistant.clearVectorStores();
 
+        self.executor.shutdown(wait=True);
         # Clean up the vector store at the end as we can't clear while in parallel processing
         self.assistant.clearVectorStores();
