@@ -6,6 +6,7 @@ import torch
 
 from Assistant import Assistant
 from Crawler import Crawler
+from Cognition import Cognition
 
 load_dotenv();
 
@@ -54,7 +55,11 @@ def main():
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, assistant);
     # crawler.runCrawler(startIndex=0, endIndex=20); # True to literal index: i.e., 0 to 99 is 0 to 99
-    crawler.runCrawler(index=10);
+    # crawler.runCrawler(index=20);
+
+    # Do not flood openai api with expensive operations
+    cognition = Cognition(companyAList, companyBList, 5, assistant);
+    cognition.findInitiator(index=0); # Index literal; 0 is 0
 
     if deleteAssistant:
         assistant.deleteAssistant();

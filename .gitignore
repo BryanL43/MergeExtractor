@@ -174,3 +174,6 @@ cython_debug/
 MergeExtractorEnv/
 
 assistantData.json
+
+# Remove this later:
+DataSet/

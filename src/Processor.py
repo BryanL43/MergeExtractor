@@ -115,11 +115,8 @@ class Processor:
         return cleanedText.strip();
 
     def getDocuments(self, sourceLinks: list, companyNames: list) -> list[Document]:
-        print(sourceLinks)
         # Acquire company name's first word
         companyNamesCut = [self.__extractAllButLastWord(name).lower() for name in companyNames];
-
-        print(companyNamesCut)
 
         # Create multiple threads to open & verify document
         futures = {self.executor.submit(self.__checkCompaniesInDocument, url, companyNamesCut): url for url in sourceLinks};
