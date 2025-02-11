@@ -1,59 +1,83 @@
 from openai import OpenAI
 import json
 import os
+import sys
 
 # I only need a single assistant, so I'm limiting the ability to create multiple.
 class Assistant:
-    def __init__(self, api_key: str, prompt: str, model: str, temp: float = 1.00, top_p: float = 1.00):
+    def __init__(self, api_key: str, name: str, instructions: str, prompt: str, model: str, temp: float = 1.00, top_p: float = 1.00):
         self.__client = OpenAI(api_key=api_key);
+        self.__name = name;
         self.prompt = prompt;
-        self.model = model;
-        self.temp = temp;
-        self.top_p = top_p;
-    
-        # Create/retrieve the assistant with limited parameters
-        if not os.path.exists("assistantData.json"):
+        self.__instructions = instructions;
+        self.__model = model;
+        self.__temp = temp;
+        self.__top_p = top_p;
+        
+        self.__assistant_id = None;
+
+        # Load existing assistants from JSON
+        self.__assistants_data = self.__loadAssistants();
+
+        # Check if an assistant with the same name already exists
+        for assistant in self.__assistants_data:
+            if assistant["name"] == self.__name:
+                self.__assistant_id = assistant["id"];
+                break;
+        
+        # If assistant was not found, create a new one
+        if not self.__assistant_id:
             self.__createAssistant();
-        else: # If the assistant is already created
-            with open("assistantData.json", "r") as json_file:
-                data = json.load(json_file);
-                self.__assistant_id = data["id"];
-    
-            print("Successfully retrieved Assistant");
-    
+        
         # Validate assistant existence
         try:
             self.__client.beta.assistants.retrieve(self.__assistant_id);
         except Exception as e:
-            print("Assistant does not exist. Creating a new one...");
+            print(f"Automatic correction: {self.__name} assistant not found. Creating a new one...");
             self.__createAssistant();
+    
+        print(f"Assistant initialized: {self.__name}");
+    
+    def __loadAssistants(self):
+        """Load assistants from the JSON file."""
+        if os.path.exists("assistantData.json"):
+            try:
+                with open("assistantData.json", "r") as json_file:
+                    return json.load(json_file) or [];
+            except json.JSONDecodeError:
+                return [];
+        return [];
     
     def __createAssistant(self):
         self.__assistant = self.__client.beta.assistants.create(
-            name="Document Assistant",
-            instructions = (
-                "You specialize in locating and extracting relevant information from a specific section of a given text file. "
-                "Your task is to identify the relevant section, analyze its content, and then respond to the given prompt based on your analysis. "
-                "Make sure you have gathered all content from the section by checking for any possible amendments or additions. "
-                "If you cannot find the section, simply return 'None'."
-            ),
-            model=self.model,
+            name=self.__name,
+            instructions = self.__instructions,
+            model=self.__model,
             tools=[{"type": "file_search"}],
-            temperature=self.temp,
-            top_p = self.top_p
+            temperature=self.__temp,
+            top_p = self.__top_p
         );
     
         self.__assistant_id = self.__assistant.id;
     
-        # Write the dictionary to a JSON file
-        data = {
-            "id": self.__assistant_id
-        };
+        # Check if an assistant with the same name exists
+        existing_assistant = next((a for a in self.__assistants_data if a["name"] == self.__name), None);
 
+        if existing_assistant:
+            # Overwrite the existing assistant's ID
+            existing_assistant["id"] = self.__assistant_id;
+        else:
+            # Add new assistant if no match is found
+            self.__assistants_data.append({
+                "id": self.__assistant_id,
+                "name": self.__name
+            });
+
+        # Save the assistant data
         with open("assistantData.json", "w") as json_file:
-            json.dump(data, json_file);
+            json.dump(self.__assistants_data, json_file, indent=4);
     
-        print("Successfully created Assistant");
+        print(f"Successfully created Assistant: {self.__name}");
 
     # Find the "Background of the Merger" section
     def analyzeDocument(self, file_path: str):
@@ -107,5 +131,19 @@ class Assistant:
 
     def deleteAssistant(self):
         self.__client.beta.assistants.delete(self.__assistant_id);
-        os.remove("assistantData.json");
-        print("Successfully deleted Assistant");
+
+        if os.path.exists("assistantData.json"):
+            with open("assistantData.json", "r") as json_file:
+                self.__assistants_data = json.load(json_file);
+
+            # Filter out the assistant to be deleted
+            self.__assistants_data = [a for a in self.__assistants_data if a["id"] != self.__assistant_id];
+
+            # Update the JSON file or remove it if empty
+            if self.__assistants_data:
+                with open("assistantData.json", "w") as json_file:
+                    json.dump(self.__assistants_data, json_file, indent=4);
+            else:
+                os.remove("assistantData.json");
+
+        print(f"Successfully deleted Assistant: {self.__name}");

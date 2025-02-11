@@ -1,6 +1,7 @@
 from concurrent.futures import ThreadPoolExecutor
 from tqdm import tqdm
 import os
+import sys
 
 from Assistant import Assistant
 from Logger import Logger
@@ -35,22 +36,29 @@ class Cognition:
 
             self.__startIndex = startIndex;
             self.__endIndex = endIndex + 1;
-        
-        
 
         for mainIndex in tqdm(
             range(self.__startIndex, self.__endIndex),
-            desc="\033[35mReading\033[0m",
+            desc = "\033[36mReading\033[0m",
             unit="items",
             ncols=80,
             bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
         ):
+            print("Reading index: ", mainIndex, "; Companies: ", self.companyAList[mainIndex], " & ", self.companyBList[mainIndex]);
+
+            companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
+            formatDocName = f"{mainIndex}_{companyNames[0].replace(' ', '_')}_&_{companyNames[1].replace(' ', '_')}";
+
             batchStart = (mainIndex // 100) * 100;
             batchEnd = batchStart + 99;
 
-            if os.path.isfile(f"./DataSet/{batchStart}-{batchEnd}")
+            filePath = f"./DataSet/{batchStart}-{batchEnd}/{formatDocName}.txt";
+            if not os.path.isfile(filePath):
+                continue;
 
-            print("Reading index: ", mainIndex, "; Companies: ", self.companyAList[mainIndex], " & ", self.companyBList[mainIndex]);
+            
+
+
 
 
 

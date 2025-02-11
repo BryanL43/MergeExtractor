@@ -42,6 +42,14 @@ startPhrases = [
 ];
 
 def main():
+    # Extract the documents with both company names present and the "Background of the Merger" section
+    instructions = (
+        "You specialize in locating and extracting relevant information from a specific section of a given text file. "
+        "Your task is to identify the relevant section, analyze its content, and then respond to the given prompt based on your analysis. "
+        "Make sure you have gathered all content from the section by checking for any possible amendments or additions. "
+        "If you cannot find the section, simply return 'None'."
+    );
+    
     prompt = (
         "Locate the 'Background of the Merger' section (which may be titled differently, such as "
         "'Background of the Transaction', 'Background of the Acquisition', or 'Background of the Offer'). "
@@ -50,19 +58,28 @@ def main():
         "If and only if you find this section, strictly return [Found]. "
         "If you cannot find the section, strictly return [None]. Do not return anything else. "
     );
+    
+    filterAssistant = Assistant(api_key, "Filter Assistant", instructions, prompt, "gpt-4o-mini");
 
-    assistant = Assistant(api_key, prompt, "gpt-4o-mini");
-
-    crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, assistant);
+    crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
     # crawler.runCrawler(startIndex=0, endIndex=20); # True to literal index: i.e., 0 to 99 is 0 to 99
     # crawler.runCrawler(index=20);
 
-    # Do not flood openai api with expensive operations
-    cognition = Cognition(companyAList, companyBList, 5, assistant);
-    cognition.findInitiator(index=0); # Index literal; 0 is 0
+    # Find the company that had the intention of selling/buying the other company
+    instructions = (
+        "This is a test"
+    );
+    prompt = (
+        "This is a test"
+    );
+    analystAssistant = Assistant(api_key, "Analyst Assistant", instructions, prompt, "gpt-4o-mini");
+
+    # cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
+    # cognition.findInitiator(index=0); # Index literal; 0 is 0
 
     if deleteAssistant:
-        assistant.deleteAssistant();
+        filterAssistant.deleteAssistant();
+        analystAssistant.deleteAssistant();
 
 
 if __name__ == "__main__":
