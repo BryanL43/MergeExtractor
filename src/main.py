@@ -44,10 +44,11 @@ startPhrases = [
 def main():
     # Extract the documents with both company names present and the "Background of the Merger" section
     instructions = (
-        "You specialize in locating and extracting relevant information from a specific section of a given text file. "
-        "Your task is to identify the relevant section, analyze its content, and then respond to the given prompt based on your analysis. "
-        "Make sure you have gathered all content from the section by checking for any possible amendments or additions. "
-        "If you cannot find the section, simply return 'None'."
+        "Your primary task is to determine whether the given text contains a section that provides a chronological background of a merger. "
+        "This section may be titled differently, such as 'Background of the Transaction', 'Background of the Acquisition', or 'Background of the Offer', and so on. "
+        "Carefully scan the document to check if such a section exists. "
+        "Do not analyze the contents—only confirm whether the section is present. "
+        "If the section is found, return [Found]. If not, return [None]."
     );
     
     prompt = (
@@ -63,19 +64,31 @@ def main():
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
     # crawler.runCrawler(startIndex=0, endIndex=20); # True to literal index: i.e., 0 to 99 is 0 to 99
-    # crawler.runCrawler(index=20);
+    # crawler.runCrawler(index=19);
 
     # Find the company that had the intention of selling/buying the other company
     instructions = (
-        "This is a test"
+        "You specialize in identifying the company that first expressed an intention to sell or buy the other company in a given text file. "
+        "Your primary task is to locate the relevant section that outlines the timeline of merger discussions, acquisitions, or sell-off considerations. "
+        "If a third party (such as an advisor, investor, or regulatory body) initiated the suggestion, extract the company that ultimately acted upon it. "
+        "Ensure that you analyze the sequence of events carefully to determine which company first demonstrated intent—whether by initiating discussions, hiring advisors, or making a formal proposal. "
+        "If you identify this company, return its name strictly in the format: [Company Name]. If you cannot determine the initiating company, return [None]."
     );
+
     prompt = (
-        "This is a test"
+        "Analyze the document to determine which company first expressed intent to either sell itself or acquire another company. "
+        "Look for initial merger discussions, acquisition proposals, or sell-off considerations. "
+        "If a third party (e.g., an advisor or investor) suggested the deal, extract the company that took action on it. "
+        "Return the initiating company's name strictly in the format: [Company Name]. "
+        "If no clear initiating company is found, return [None]. "
+        "Do return why said company is the first to express intent. "
     );
+
     analystAssistant = Assistant(api_key, "Analyst Assistant", instructions, prompt, "gpt-4o-mini");
 
-    # cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
-    # cognition.findInitiator(index=0); # Index literal; 0 is 0
+    cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
+    # cognition.findInitiator(startIndex=0, endIndex=19); # Index literal; 0 is 0
+    cognition.findInitiator(index=0);
 
     if deleteAssistant:
         filterAssistant.deleteAssistant();
