@@ -14,7 +14,7 @@ from Assistant import Assistant
 from Logger import Logger
 from Document import Document
 
-TEMP_DIRECTORY = "temp";
+TEMP_DIRECTORY = "merge_extractor_temp";
 
 """
     - This object handles processing the document by:
@@ -243,7 +243,7 @@ class Processor:
 
             # Create a list of async processes to force correct using openai
             for doc in documents:
-                filePath = os.path.join(TEMP_DIRECTORY, f"temp_{random.randint(1000, 99999)}.txt");
+                filePath = os.path.join(TEMP_DIRECTORY, f"merge_extractor_temp_{random.randint(1000, 99999)}.txt");
                 with open(filePath, "w", encoding="utf-8") as file:
                     file.write(doc.getContent());
                     file.flush();
@@ -267,12 +267,14 @@ class Processor:
                     file.write(fallbackResult.getContent());
                 
                 if os.path.exists(TEMP_DIRECTORY):
+                    time.sleep(0.5);
                     shutil.rmtree(TEMP_DIRECTORY);
 
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {companyNames[0]} & {companyNames[1]}");
                 return fallbackResult.getUrl();
             
             if os.path.exists(TEMP_DIRECTORY):
+                time.sleep(0.5);
                 shutil.rmtree(TEMP_DIRECTORY);
             return None;
 

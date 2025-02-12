@@ -1,5 +1,5 @@
 [2025-02-10 19:16:38] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
-[2025-02-10 19:16:51] [-] No relevant document found for: Fritz Cos Inc & United Parcel Service Inc
+[2025-02-10 19:16:51] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
 [2025-02-10 19:17:17] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
 [2025-02-10 19:17:28] [+] Successfully created document for: Xircom Inc & Intel Corp
 [2025-02-10 19:17:41] [+] Successfully created document for: Allaire Corp & Macromedia Inc
@@ -10,7 +10,7 @@
 [2025-02-10 19:18:55] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
 [2025-02-10 19:19:19] [+] Successfully created document for: Heartport Inc & Johnson & Johnson
 [2025-02-10 19:19:37] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
-[2025-02-10 19:20:04] [-] No relevant document found for: Credit Management Solutions & First American Corp
+[2025-02-10 19:20:04] [-] No relevant document found for index 12: Credit Management Solutions & First American Corp
 [2025-02-10 19:20:07] [-] No document found for: Sensory Science Corp & SONICBlue Inc
 [2025-02-10 19:20:26] [+] Successfully created document for: Tosco Corp & Phillips Petroleum Co Inc
 [2025-02-10 19:20:40] [+] Successfully created document for: UTI Energy Corp & Patterson Energy Inc
@@ -24,3 +24,33 @@
 		https://www.sec.gov/Archives/edgar/data/949587/000091205701006390/0000912057-01-006390.txt
 		https://www.sec.gov/Archives/edgar/data/949587/000093066101000488/0000930661-01-000488.txt
 		https://www.sec.gov/Archives/edgar/data/949587/000091205701006391/0000912057-01-006391.txt
+[2025-02-11 03:10:19] [+] Successfully created document for: Oshman's Sporting Goods Inc & Gart Sports Co
+[2025-02-11 03:10:38] [+] Successfully created document for: ASI Solutions Inc & Aon Corp
+[2025-02-11 03:11:04] [+] Successfully created document for: Spieker Properties Inc & Equity Office Properties Trust
+[2025-02-11 03:11:09] [*] No background section found for index 24: Fourth Shift Corp & AremisSoft Corp. Retrying via fallback...
+[2025-02-11 03:11:32] [+] Successfully created document for: Fourth Shift Corp & AremisSoft Corp
+[2025-02-11 03:11:47] [+] Successfully created document for: Data Dimensions Inc & Lionbridge Technologies Inc
+[2025-02-11 03:11:58] [+] Successfully created document for: Cambridge Technology Partners & Novell Inc
+[2025-02-11 03:12:04] [-] No relevant document found for index 27: United Dominion Industries Ltd & SPX Corp
+[2025-02-11 03:12:20] [+] Successfully created document for: Towne Services Inc & Private Business Inc
+[2025-02-11 03:12:51] [+] Successfully created document for: VitalCom Inc & Data Critical Corp
+[2025-02-11 03:12:59] [-] No relevant document found for index 30: Bergen Brunswig Corp & AmeriSource Health Corp
+[2025-02-11 03:13:08] [-] No relevant document found for index 31: True North Communications Inc & Interpublic Group of Cos Inc
+[2025-02-11 03:13:12] [-] No relevant document found for index 32: Huntway Refining Co & Valero Energy Corp
+[2025-02-11 03:13:19] [+] Successfully created document for: Sequoia Software Corp & Citrix Systems Inc
+[2025-02-11 03:13:49] [+] Successfully created document for: CUseeMe Networks Inc & First Virtual Communications
+[2025-02-11 03:14:11] [+] Successfully created document for: Kent Electronics Corp & Avnet Inc
+[2025-02-11 03:14:31] [+] Successfully created document for: Interland Inc & Micron Electronics Inc
+[2025-02-11 03:14:48] [+] Successfully created document for: ALZA Corp & Johnson & Johnson
+[2025-02-11 03:15:06] [+] Successfully created document for: Franchise Finance Corp of Amer & General Electric Capital Corp
+[2025-02-11 03:15:10] [-] No relevant document found for index 39: General Semiconductor Inc & Vishay Intertechnology Inc
+[2025-02-11 03:15:32] [+] Successfully created document for: USA Detergents Inc & Church & Dwight Co Inc
+[2025-02-11 03:15:43] [+] Successfully created document for: DTM Corp & 3D Systems Corp
+[2025-02-11 03:15:54] [+] Successfully created document for: Exigent International Inc & Harris Corp
+[2025-02-11 03:15:58] [-] No relevant document found for index 43: Dean Foods Co & Suiza Foods Corp
+[2025-02-11 03:16:25] [+] Successfully created document for: Broadbase Software Inc & Kana Communications Inc
+[2025-02-11 03:16:28] [-] No relevant document found for index 45: Ravenswood Winery Inc & Constellation Brands Inc
+[2025-02-11 03:16:43] [+] Successfully created document for: Autoweb.com Inc & Autobytel.com Inc
+[2025-02-11 03:16:55] [+] Successfully created document for: Foilmark Inc & Illinois Tool Works Inc
+[2025-02-11 03:17:10] [+] Successfully created document for: McNaughton Apparel Group Inc & Jones Apparel Group Inc
+[2025-02-11 03:17:13] [-] No relevant document found for index 49: Allergan Specialty & Allergan Inc

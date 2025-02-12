@@ -317,7 +317,7 @@ class Crawler:
             companyNames = [self.companyAList[mainIndex], self.companyBList[mainIndex]];
             documents = processor.getDocuments(sourceLinks, companyNames);
             if not documents:
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No relevant document found for: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No relevant document found for index {mainIndex}: {self.companyAList[mainIndex]} & {self.companyBList[mainIndex]}");
                 self.__resetResources();
                 continue;
 

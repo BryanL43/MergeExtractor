@@ -1,0 +1,614 @@
+URL: https://www.sec.gov/Archives/edgar/data/905724/000091205701007486/0000912057-01-007486.txt
+
+T 2:		TWO MERIDIAN CROSSING
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55423
+		BUSINESS PHONE:		6128511500
+
+	MAIL ADDRESS:	
+		STREET 1:		SUITE 800
+		STREET 2:		TWO MERIDIAN CROSSING
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55423
+
+PREM14A
+
+a2040982zprem14a.htm
+
+PREM14A
+
+ Prepared by MERRILL CORPORATION www.edgaradvantage.com
+
+QuickLinks
+
+ -- Click here to rapidly navigate through this document
+
+SCHEDULE 14A INFORMATION  
+
+PROXY STATEMENT PURSUANT TO SECTION 14(a)
+
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+Filed by the Registrant / /
+
+Filed by a Party other than the Registrant /x/
+
+Check the appropriate box:
+
+/x/
+
+Preliminary Proxy Statement
+
+/ /
+
+Confidential, for Use of the Commission only (as permitted by Rule 14a-6(e)(2))
+
+/ /
+
+Definitive Proxy Statement
+
+/ /
+
+Definitive Additional Materials
+
+/ /
+
+Soliciting under § 240.14a-12
+
+ FOURTH SHIFT CORPORATION
+
+(Name of Registrant as Specified in its Charter)
+
+(Name of Person(s) Filing Proxy Statement
+
+if other than the Registrant)
+
+Payment of Filing Fee (Check the appropriate box): 
+
+/ /
+
+No fee required.
+
+/x/
+
+Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
+
+(1)
+
+Title of each class of securities to which transaction applies:
+
+Common Stock, $.01 par value
+
+(2)
+
+Aggregate number of securities to which transaction applies:
+
+10,825,081
+
+(3)
+
+Per unit price or other underlying value of transaction computed pursuant to Exchange Act Rule 0-11 (Set forth the amount on which the filing fee is calculated and state how it was determined):
+
+$3.70
+
+(4)
+
+Proposed maximum aggregate value of transaction: $40,052,800.00(1) (represents the consideration to be received by the Registrant in connection with the transaction).
+
+(5)
+
+Total fee paid: $8,011.00
+
+/ /
+
+Fee paid previously with preliminary materials.
+
+/ /
+
+Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by registration
+statement number, or the Form or Schedule and the date of its filing.
+
+(1)
+
+Amount Previously Paid:
+
+(2)
+
+Form, Schedule or Registration Statement No.:
+
+(3)
+
+Filing Party:
+
+(4)
+
+Date Filed:
+
+(1)
+Based
+on 10,825,081 shares of Common Stock outstanding as of March 7, 2001 and a purchase price of $3.70 per share of Common Stock. 
+
+FOURTH SHIFT CORPORATION
+
+Two Meridian Crossing
+  Minneapolis, Minnesota 55423    
+
+Dear
+Shareholder: 
+
+    You
+are cordially invited to attend the special meeting of shareholders of Fourth Shift Corporation, to be held on            , 2001, at       a.m., at
+            , Minneapolis, Minnesota. 
+
+    At
+the special meeting you will be asked to consider and vote upon a proposal to adopt a Merger Agreement, dated as of February 26, 2001, pursuant to which AremisSoft
+Manufacturing (US), Inc., a Delaware corporation and a wholly owned subsidiary of AremisSoft Corporation, will be merged with and into Fourth Shift and Fourth Shift will become a wholly owned
+subsidiary of AremisSoft Corporation. If the merger agreement is approved and the merger is subsequently consummated, each outstanding share of Fourth Shift common stock, will be cancelled and
+converted automatically into the right to receive $3.70 in cash without interest. 
+The cash you receive in the merger in exchange for your shares of Fourth Shift common stock
+will be subject to United States federal income tax and also may be taxed under applicable state, local and foreign tax laws.
+
+    Your
+Board of Directors has reviewed and considered the terms and conditions of the merger agreement, has determined that the merger is in the best interests of Fourth Shift and its
+shareholders, and has approved the merger agreement. Broadview International LLC, Fourth Shift's financial advisor, rendered a written opinion dated, February 26, 2001, to the effect that, as
+of that date and based upon and subject to the matters stated in the opinion, the merger consideration of $3.70 in cash per share is fair, from a financial point of view, to our shareholders.
+Broadview's written opinion is attached as Appendix B to the enclosed proxy statement, and you should read it carefully and in its entirety. 
+
+Your Board of Directors unanimously recommends that you vote "FOR" adoption of the merger agreement.
+ Approval and adoption of the
+merger agreement requires the affirmative vote of the holders of a majority of our issued and outstanding shares of common stock entitled to vote thereon. Each share of Fourth Shift common stock is
+entitled to one vote on all matters to come before the special meeting. The Fourth Shift common stock constitutes the only outstanding class of our capital stock. 
+
+    Attached
+to this letter you will find a formal notice of special meeting and a proxy statement. The accompanying proxy statement provides you with detailed information about the
+special meeting and the proposed merger. If the merger agreement is approved by the requisite holders of Fourth Shift
+common stock, the closing of the merger will occur soon after the special meeting and after all of the other conditions to closing the merger are satisfied. Please give this material your careful
+attention. You may also obtain more information about us from documents we have filed with the Securities and Exchange Commission. 
+
+    Fourth
+Shift common stock is traded on the Nasdaq National Market under the symbol "FSFT." On      , 2001, the closing price for Fourth Shift common stock was
+$      . 
+
+Your vote is important regardless of the number of shares of Fourth Shift common stock you own. A failure to vote will count as a vote against the merger.
+Accordingly, you are requested promptly to complete, sign and date the enclosed proxy card and return it in the envelope provided, whether or not you plan to attend. Your proxy card contains
+instructions for using these convenient services. This will not prevent you from voting your shares in person if you subsequently choose to attend the special meeting.
+
+    Thank
+you for your cooperation. 
+
+Very
+truly yours, 
+
+Marion
+Melvin Stuckey
+
+Chairman of the Board
+
+This Proxy Statement is dated            , 2001, and is
+  first being mailed to shareholders on or about         
+   , 2001    
+
+FOURTH SHIFT CORPORATION  
+
+NOTICE OF SPECIAL MEETING OF SHAREHOLDERS
+
+TO BE HELD ON             , 2001  
+
+TO THE SHAREHOLDERS OF
+
+  FOURTH SHIFT CORPORATION: 
+
+    NOTICE IS HEREBY GIVEN that a special meeting of shareholders of Fourth Shift Corporation, a Minnesota corporation, will be held on            , 2001,
+at       a.m. at            , Minneapolis, Minnesota for the following purposes: 
+
+1.
+To
+consider and vote upon a proposal to adopt the Merger Agreement, dated as of February 26, 2001, by and among Fourth Shift, AremisSoft Corporation, a Delaware corporation,
+and AremisSoft Manufacturing (US), Inc., a Delaware corporation and a wholly owned subsidiary of AremisSoft Corporation. A copy of the merger agreement is attached as Appendix A to the
+proxy statement. The merger agreement provides that AremisSoft Manufacturing (US), Inc. will merge with and into Fourth Shift, that Fourth Shift will continue as the surviving corporation and
+become a wholly owned subsidiary of AremisSoft Corporation and that each share of common stock of Fourth Shift, other than those shares held by the shareholders, if any, who properly exercise their
+dissenters' appraisal rights under Minnesota law, will be canceled and converted into the right to receive $3.70 in cash without interest.
+
+2.
+To
+transact such other business as may properly come before the special meeting or any adjournment or postponement of the meeting. 
+
+    Only
+shareholders of record at the close of business on        , 2001, are entitled to notice of and to vote at the special meeting and at any adjournment
+or postponement of the special meeting. 
+All shareholders
+are cordially invited to attend the special meeting in person. However, to assure your representation at the meeting in case you cannot attend, you are urged to mark, sign, date and return the
+enclosed proxy card as promptly as possible in the postage prepaid envelope enclosed for that purpose. Any shareholder attending the special meeting may vote in person even if he or she has returned a
+proxy card.
+
+The board of directors of Fourth Shift has determined that the merger is in the best interests of Fourth Shift and its shareholders, has unanimously approved
+the merger agreement and recommends that Fourth Shift shareholders vote "FOR" the adoption of the merger agreement.
+
+    Fourth
+Shift shareholders have the right to dissent from the merger under Minnesota law and obtain payment in cash of the fair value of their shares. To perfect and exercise
+dissenters' rights, shareholders must give written demand for the fair value of their shares before the vote on the merger at the special meeting and must not vote in favor of the merger. A copy of
+the applicable Minnesota statutory provisions is included as Appendix C to the proxy statement, and a summary of these provisions can be found under "Dissenters' Rights of Appraisal" in the
+proxy statement. 
+
+    The adoption of the merger agreement requires the approval of the holders of a majority of the outstanding shares of Fourth Shift common stock entitled to vote. If there are not
+sufficient votes to approve the proposed merger at the time of the special meeting, the special meeting may be adjourned to permit further solicitation by Fourth Shift. 
+
+By
+Order of the Board of Directors 
+
+David
+G. Latzke
+
+Secretary
+
+Minneapolis,
+Minnesota
+
+            , 2001 
+
+Please do not send your stock certificates at this time. If the merger agreement is approved, you will be sent instructions regarding the surrender of your
+stock certificates.
+
+chapter 322B, to which the corporation is a constituent organization, except as provided in subdivision 3; 
+
+    (d) A
+plan of exchange, whether under this chapter or under chapter 322B, to which the corporation is a party as the corporation whose shares will be acquired by the
+acquiring corporation, except as provided in subdivision 3; or 
+
+    (e) Any
+other corporate action taken pursuant to a shareholder vote with respect to which the articles, the bylaws, or a resolution approved by the board directs that
+dissenting shareholders may obtain payment for their shares. 
+
+    Subd.
+2. Beneficial owners. (a) A shareholder shall not assert dissenters' rights as to less than all of the shares registered in the name of the shareholder, unless the
+shareholder dissents with respect to all the shares that are beneficially owned by another person but registered in the name of the shareholder and discloses the name and address of each beneficial
+owner on whose behalf the shareholder dissents. In that event, the rights of the dissenter shall be determined as if the shares as to which the shareholder has dissented and the other shares were
+registered in the names of different shareholders. 
+
+C-1
+
+    (b) The beneficial owner of shares who is not the shareholder may assert dissenters' rights with respect to shares held on behalf of the beneficial owner, and shall be
+treated as a dissenting shareholder under the terms of this section and section 302A.473, if the beneficial owner submits to the corporation at the time of or before the assertion of the rights
+a written consent of the shareholder. 
+
+    Subd.
+3. Rights not to apply. (a) Unless the articles, the bylaws, or a resolution approved by the board otherwise provide, the right to obtain payment under this section does
+not apply to a shareholder of (1) the surviving corporation in a merger with respect to shares of the shareholder that are not entitled to be voted on the merger and are not cancelled or
+exchanged in the merger or (2) the corporation whose shares will be acquired by the acquiring corporation in a plan of exchange with respect to shares of the shareholder that are not entitled
+to be voted on the plan of exchange and are not exchanged in the plan of exchange. 
+
+    (b) If
+a date is fixed according to section 302A.445, subdivision 1, for the determination of shareholders entitled to receive notice of and to vote on an action
+described in subdivision 1, only shareholders as of the date fixed, and beneficial owners as of the date fixed who hold through shareholders, as provided in subdivision 2, may exercise dissenters'
+rights. 
+
+    Subd.
+4. Other rights. The shareholders of a corporation who have a right under this section to obtain payment for their shares do not have a right at law or in equity to have a
+corporate action described in subdivision 1 set aside or rescinded, except when the corporate action is fraudulent with regard to the complaining shareholder or the corporation. 
+
+302A.473.
+Procedures for asserting dissenters' rights 
+
+    Subdivision
+1. Definitions. (a) For purposes of this section, the terms defined in this subdivision have the meanings given them. 
+
+    (b) "Corporation"
+means the issuer of the shares held by a dissenter before the corporate action referred to in section 302A.471, subdivision 1 or the successor
+by merger of that issuer. 
+
+    (c) "Fair
+value of the shares" means the value of the shares of a corporation immediately before the effective date of the corporate action referred to in
+section 302A.471, subdivision 1. 
+
+    (d) "Interest"
+means interest commencing five days after the effective date of the corporate action referred to in section 302A.471, subdivision 1, up to and
+including the date of payment, calculated at the rate provided in section 549.09 for interest on verdicts and judgments. 
+
+    Subd.
+2. Notice of action. If a corporation calls a shareholder meeting at which any action described in section 302A.471, subdivision 1 is to be voted upon, the notice of the
+meeting shall inform each shareholder of the right to dissent and shall include a copy of section 302A.471 and this section and a brief description of the procedure to be followed under these
+sections. 
+
+    Subd.
+3. Notice of dissent. If the proposed action must be approved by the shareholders, a shareholder who is entitled to dissent under section 302A.471 and who wishes to
+exercise dissenters' rights must file with the corporation before the vote on the proposed action a written notice of intent to demand the fair value of the shares owned by the shareholder and must
+not vote the shares in favor of the proposed action. 
+
+    Subd.
+4. Notice of procedure; deposit of shares. (a) After the proposed action has been approved by the board and, if necessary, the shareholders, the corporation shall send to
+all shareholders who have complied with subdivision 3 and to all shareholders entitled to dissent if no shareholder vote was required, a notice that contains: 
+
+    (1) The
+address to which a demand for payment and certificates of certificated shares must be sent in order to obtain payment and the date by which they must be
+received; 
+
+C-2
+
+    (2) Any restrictions on transfer of uncertificated shares that will apply after the demand for payment is received; 
+
+    (3) A
+form to be used to certify the date on which the shareholder, or the beneficial owner on whose behalf the shareholder dissents, acquired the shares or an interest
+in them and to demand payment; and 
+
+    (4) A
+copy of section 302A.471 and this section and a brief description of the procedures to be followed under these sections. 
+
+    (b) In
+order to receive the fair value of the shares, a dissenting shareholder must demand payment and deposit certificated shares or comply with any restrictions on
+transfer of uncertificated shares within 30 days after the notice required by paragraph (a) was given, but the dissenter retains all other rights of a shareholder until the proposed
+action takes effect. 
+
+    Subd.
+5. Payment; return of shares. (a) After the corporate action takes effect, or after the corporation receives a valid demand for payment, whichever is later, the
+corporation shall remit to each dissenting shareholder who has complied with subdivisions 3 and 4 the amount the corporation estimates to be the fair value of the shares, plus interest, accompanied
+by: 
+
+    (1) The
+corporation's closing balance sheet and statement of income for a fiscal year ending not more than 16 months before the effective date of the corporate
+action, together with the latest available interim financial statements; 
+
+    (2) An
+estimate by the corporation of the fair value of the shares and a brief description of the method used to reach the estimate; and 
+
+    (3) A
+copy of section 302A.471 and this section, and a brief description of the procedure to be followed in demanding supplemental payment. 
+
+    (b) The
+corporation may withhold the remittance described in paragraph (a) from a person who was not a shareholder on the date the action dissented from was
+first announced to the public or who is dissenting on behalf of a person who was not a beneficial owner on that date. If the dissenter has complied with subdivisions 3 and 4, the corporation shall
+forward to the dissenter the materials described in paragraph (a) a statement of the reason for withholding the remittance, and an offer to pay to the dissenter the amount listed in the
+materials if the dissenter agrees to accept that amount in full satisfaction. The dissenter may decline the offer and demand payment under subdivision 6. Failure to do so entitles the dissenter only
+to the amount offered. If the dissenter makes demand, subdivisions 7 and 8 apply. 
+
+    (c) If
+the corporation fails to remit payment within 60 days of the deposit of certificates or the imposition of transfer restrictions on uncertificated shares,
+it shall return all deposited certificates and cancel all transfer restrictions. However, the corporation may again give notice under subdivision 4 and require deposit or restrict transfer at a later
+time. 
+
+    Subd.
+6. Supplemental payment; demand. If a dissenter believes that the amount remitted under subdivision 5 is less than the fair value of the shares plus interest, the dissenter may
+give written notice to the corporation of the dissenter's own estimate of the fair value of the shares, plus interest, within 30 days after the corporation mails the remittance under
+subdivision 5, and demand payment of the difference. Otherwise, a dissenter is entitled only to the amount remitted by the corporation. 
+
+    Subd.
+7. Petition; determination. If the corporation receives a demand under subdivision 6, it shall, within 60 days after receiving the demand, either pay to the dissenter the
+amount demanded or agreed to by the dissenter after discussion with the corporation or file in court a petition requesting that the court determine the fair value of the shares, plus interest. The
+petition shall be filed in the county in which the registered office of the corporation is located, except that a surviving foreign corporation that 
+
+C-3
+
+receives a demand relating to the shares of a constituent domestic corporation shall file the petition in the county in this state in which the last registered office of the constituent corporation
+was located. The petition shall name as parties all dissenters who have demanded payment under subdivision 6 and who have not reached agreement with the corporation. The corporation shall, after
+filing the petition, serve all parties with a summons and copy of the petition under the rules of civil procedure. Nonresidents of this state may be served by registered or certified mail or by
+publication as provided by law. Except as otherwise provided, the rules of civil procedure apply to this proceeding. The jurisdiction of the court is plenary and exclusive. The court may appoint
+appraisers, with powers and authorities the court deems proper, to receive evidence on and recommend the amount of the fair value of the shares. The court shall determine whether the shareholder or
+shareholders in question have fully complied with the requirements of this section, and shall determine the fair value of the shares, taking into account any and all factors the court finds relevant,
+computed by any method or combination of methods that the court, in its discretion, sees fit to use, whether or not used by the corporation or by a dissenter. The fair value of the shares as
+determined by the court is binding on all shareholders, wherever located. A dissenter is entitled to judgment in cash for the amount by which the fair value of the shares as determined by the court,
+plus interest, exceeds the amount, if any, remitted under subdivision 5, but shall not be liable to the corporation for the amount, if any, by which the amount, if any, remitted to the dissenter under
+subdivision 5 exceeds the fair value of the shares as determined by the court, plus interest. 
+
+    Subd.
+8. Costs; fees; expenses. (a) The court shall determine the costs and expenses of a proceeding under subdivision 7, including the reasonable expenses and compensation of
+any appraisers appointed by the court, and shall assess those costs and expenses against the corporation, except that the court
+may assess part or all of those costs and expenses against a dissenter whose action in demanding payment under subdivision 6 is found to be arbitrary, vexatious, or not in good faith. 
+
+    (b) If
+the court finds that the corporation has failed to comply substantially with this section, the court may assess all fees and expenses of any experts or attorneys
+as the court deems equitable. These fees and expenses may also be assessed against a person who has acted arbitrarily, vexatiously, or not in good faith in bringing the proceeding, and may be awarded
+to a party injured by those actions. 
+
+    (c) The
+court may award, in its discretion, fees and expenses to an attorney for the dissenters out of the amount awarded to the dissenters, if any. 
+
+C-4
+
+FOURTH SHIFT CORPORATION
+
+SPECIAL MEETING OF SHAREHOLDERS
+
+       , 2001
+
+Time
+
+MARRIOTT CITY CENTER
+
+30 South Seventh Street
+
+Minneapolis, MN 55402  
+
+Fourth Shift Corporation
+
+Two Meridian Crossings, Minneapolis, MN 55423
+
+proxy
+
+Proxy
+for the Special Meeting of Shareholders 
+
+THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS  
+
+The undersigned hereby appoints M.M. Stuckey and J.H. Caldwell, and each of them, with full power to appoint a substitute, to vote all shares the undersigned is entitled to
+vote at the Special Meeting of Shareholders of Fourth Shift Corporation to be held on         , 2001, and at all adjournments thereof, as specified below on the matters referred to, and, in
+their discretion, upon any other matters which may be brought before the meeting: 
+
+(Continued on reverse side)
+
+COMPANY #
+
+CONTROL #
+
+There are two ways to vote your Proxy  
+
+Your Internet vote authorizes the Named Proxies to vote your shares in the same manner as if you marked, signed and returned your proxy card.  
+
+VOTE BY INTERNET — http://www.eproxy.com/fsft/ — QUICK *** EASY *** IMMEDIATE  
+
+•
+
+Use the Internet to vote your proxy 24 hours a day, 7 days a week.
+
+•
+
+You will be prompted to enter your 3-digit Company Number and your 7-digit Control Number which are located above to obtain your records and create an electronic ballot.
+
+VOTE BY MAIL  
+
+Mark, sign and date your proxy card and return it in the postage-paid envelope we've provided or return it to 
+Fourth Shift
+Corporation
+, c/o Shareowner Services,
+SM
+ P.O. Box 64873, St. Paul, MN 55164-0873. 
+
+If you vote by Internet, please do not mail your Proxy Card  
+
+V  
+Please detach here
+  V 
+
+The Board of Directors Recommends a Vote FOR each of the proposals.  
+
+1.
+
+Approval of the merger of AremisSoft Manufacturing (US), Inc. with and into Fourth Shift Corporation and adoption of the Merger Agreement, dated as of February 26, 2001, by and among Fourth Shift Corporation,
+AremisSoft Corporation, a Delaware corporation, and AremisSoft Manufacturing (US), Inc., a Delaware corporation and a wholly owned subsidiary of AremisSoft Corporation.
+
+/ /
+
+For
+
+/ /
+
+Against
+
+/ /
+
+Abstain
+
+2.
+
+To vote with discretionary authority on any other business as may properly be presented at the special meeting.
+
+This Proxy, when properly executed, will be voted in the manner directed herein by the undersigned shareholder. 
+
+If no direction is made, this Proxy will be voted FOR the proposal in Item 1.
+
+Address Change? Mark Box / /
+
+Dated:
+
+, 2001
+
+Indicate changes below:
+
+Signature(s) in Box
+
+When shares are held by joint tenants, both should sign. When signing as attorney, executor, administrator, trustee or guardian, please give full title as such. If a corporation, please sign in full corporate name by
+President or other authorized officer. If a partnership, please sign in partnership name by authorized person.
+
+QuickLinks
+
+FOURTH SHIFT CORPORATION Two Meridian Crossing Minneapolis, Minnesota 55423
+
+This Proxy Statement is dated , 2001, and is first being mailed to shareholders on or about , 2001
+
+
+
+QUESTIONS AND ANSWERS ABOUT THE MERGER
+
+9. When will holders of Fourth Shift common stock receive the merger consideration?
+
+SUMMARY TERM SHEET
+
+Proposed Acquisition
+
+Fourth Shift Stock Price
+
+Unanimous Board Recommendation
+
+Fairness Opinion
+
+Fourth Shift's Reason for the Merger
+
+AremisSoft's Reasons for the Merger
+
+The Special Meeting of Shareholders
+
+Shares Held by Directors and Executive Officers
+
+Dissenters' Rights of Appraisal
+
+Material United States Federal Income Tax Consequences
+
+When the Merger Will Be Completed
+
+Conditions to Completing the Merger
+
+Interests of Directors and Officers in the Merger that Differ From Your Interests
+
+The Merger
+
+Contact Information
+
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING INFORMATION
+
+THE PARTIES TO THE MERGER
+
+THE SPECIAL MEETING OF FOURTH SHIFT SHAREHOLDERS
+
+Place, Date, Time and Purpose of the Special Meeting
+
+Who Can Vote at the Special Meeting
+
+Vote Required
+
+Voting by Proxy
+
+THE MERGER
+
+Background of the Merger
+
+Fourth Shift's Reasons for the Merger
+
+Recommendation of Fourth Shift's Board of Directors
+
+Opinion of Financial Advisor to the Board of Directors of Fourth Shift
+
+Engagement Fees to Broadview and Trilogy
+
+AremisSoft's Reasons for the Merger
+
+Interests of Fourth Shift's Officers and Directors in the Merger
+
+Voting Agreement
+
+MATERIAL UNITED STATES FEDERAL INCOME TAX CONSEQUENCES
+
+ACCOUNTING TREATMENT
+
+REQUIRED REGULATORY APPROVALS
+
+THE MERGER AGREEMENT
+
+MARKET PRICE OF FOURTH SHIFT COMMON STOCK
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+DISSENTERS' RIGHTS OF APPRAISAL
+
+OTHER MATTERS
+
+WHERE YOU CAN FIND MORE INFORMATION
+
+MERGER AGREEMENT BY AND BETWEEN AREMISSOFT CORPORATION, AREMISSOFT MANUFACTURING (US), INC. AND FOURTH SHIFT CORPORATION
+
+
+
+MERGER AGREEMENT
+
+SECTIONS 302A.471 AND 302A.473 OF THE MINNESOTA BUSINESS CORPORATION ACT— DISSENTERS' APPRAISAL RIGHTS
+
+-----END PRIVACY-ENHANCED MESSAGE-----

@@ -38,7 +38,11 @@ startPhrases = [
     "Background to the merger",
     "Background to the acquisition",
     "Background to the offer",
-    "Background to the transaction"
+    "Background to the transaction",
+    "Background of Offer",
+    "Background of Acquisition",
+    "Background of Transaction",
+    "Background of Merger"
 ];
 
 def main():
@@ -63,7 +67,7 @@ def main():
     filterAssistant = Assistant(api_key, "Filter Assistant", instructions, prompt, "gpt-4o-mini");
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
-    # crawler.runCrawler(startIndex=0, endIndex=20); # True to literal index: i.e., 0 to 99 is 0 to 99
+    crawler.runCrawler(startIndex=21, endIndex=49); # True to literal index: i.e., 0 to 99 is 0 to 99
     # crawler.runCrawler(index=19);
 
     # Find the company that had the intention of selling/buying the other company
@@ -84,15 +88,15 @@ def main():
         "Do return why said company is the first to express intent. "
     );
 
-    analystAssistant = Assistant(api_key, "Analyst Assistant", instructions, prompt, "gpt-4o-mini");
+    # analystAssistant = Assistant(api_key, "Analyst Assistant", instructions, prompt, "gpt-4o-mini");
 
-    cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
+    # cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
     # cognition.findInitiator(startIndex=0, endIndex=19); # Index literal; 0 is 0
-    cognition.findInitiator(index=0);
+    # cognition.findInitiator(index=0);
 
     if deleteAssistant:
         filterAssistant.deleteAssistant();
-        analystAssistant.deleteAssistant();
+        # analystAssistant.deleteAssistant();
 
 
 if __name__ == "__main__":
