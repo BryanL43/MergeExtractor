@@ -3,10 +3,14 @@ from dotenv import load_dotenv
 import os
 import spacy
 import torch
+import time
+import random
+import queue
 
 from Assistant import Assistant
 from Crawler import Crawler
 from Cognition import Cognition
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 load_dotenv();
 
@@ -45,6 +49,21 @@ startPhrases = [
     "Background of Merger"
 ];
 
+# def proxy_function(index):
+#     random_seconds = random.randint(1, 5)
+#     time.sleep(random_seconds)
+#     return f"Thread {index + 1} finished after {random_seconds} seconds."
+
+# Just like proxy_function, but with the index argument already set
+def process_item(index, companyAList, companyBList, cognition):
+    try:
+        result = cognition.findInitiator(startIndex=0, endIndex=9)
+        return result
+    except Exception as e:
+        return f"An error occurred: {e}"
+    
+# def priority_function(index) TO BE IMPLEMENTED
+
 def main():
     # Extract the documents with both company names present and the "Background of the Merger" section
     instructions = (
@@ -66,8 +85,8 @@ def main():
     
     filterAssistant = Assistant(api_key, "Filter Assistant", instructions, prompt, "gpt-4o-mini");
 
-    crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
-    crawler.runCrawler(startIndex=21, endIndex=49); # True to literal index: i.e., 0 to 99 is 0 to 99
+    #crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
+    #crawler.runCrawler(startIndex=21, endIndex=49); # True to literal index: i.e., 0 to 99 is 0 to 99
     # crawler.runCrawler(index=19);
 
     # Find the company that had the intention of selling/buying the other company
@@ -88,16 +107,30 @@ def main():
         "Do return why said company is the first to express intent. "
     );
 
-    # analystAssistant = Assistant(api_key, "Analyst Assistant", instructions, prompt, "gpt-4o-mini");
+    analystAssistant = Assistant(api_key, "Analyst Assistant", instructions, prompt, "gpt-4o-mini");
 
-    # cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
-    # cognition.findInitiator(startIndex=0, endIndex=19); # Index literal; 0 is 0
+    cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
+    cognition.findInitiator(startIndex=0, endIndex=5); # Index literal; 0 is 0
     # cognition.findInitiator(index=0);
+
+    priorityQueue = queue.PriorityQueue();
+    
+    with ThreadPoolExecutor(max_workers = 5) as pool:
+        futures = [
+            pool.submit(process_item, index, companyAList, companyBList, cognition)
+            for index in range(min(5, len(companyAList)))
+        ]
+
+        for future in as_completed(futures):
+            try:
+                result = future.result() # Blocks thread until the task finishes
+                print(result)
+            except Exception as e:
+                print(f"An error occurred: {e}")
 
     if deleteAssistant:
         filterAssistant.deleteAssistant();
-        # analystAssistant.deleteAssistant();
-
+        analystAssistant.deleteAssistant();
 
 if __name__ == "__main__":
     main();

@@ -2,6 +2,7 @@ from openai import OpenAI
 import json
 import os
 import sys
+import time
 
 # I only need a single assistant, so I'm limiting the ability to create multiple.
 class Assistant:
@@ -40,6 +41,8 @@ class Assistant:
     
     def __loadAssistants(self):
         """Load assistants from the JSON file."""
+        # start_time = time.time()
+
         if os.path.exists("assistantData.json"):
             try:
                 with open("assistantData.json", "r") as json_file:
@@ -47,6 +50,10 @@ class Assistant:
             except json.JSONDecodeError:
                 return [];
         return [];
+        # end_time = time.time()
+        # elapsed_time = end_time - start_time
+        # print(f"Elapsed time: {elapsed_time} seconds")
+
     
     def __createAssistant(self):
         self.__assistant = self.__client.beta.assistants.create(
@@ -81,6 +88,7 @@ class Assistant:
 
     # Find the "Background of the Merger" section
     def analyzeDocument(self, file_path: str):
+        start_time = time.time()  # Start timing
         msg_file = self.__client.files.create(
             file=open(file_path, "rb"),
             purpose="assistants"
@@ -118,6 +126,9 @@ class Assistant:
         self.__client.beta.threads.delete(thread_id=thread.id);
 
         if run.status == "completed":
+            end_time = time.time()  # End timing
+            elapsed_time = end_time - start_time
+            print(f"Time taken to analyze document: {elapsed_time:.4f} seconds")
             return result;
         else:
             raise RuntimeError(f"Assistant failed with status: {run.status}");
