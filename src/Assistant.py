@@ -127,7 +127,8 @@ class Assistant:
         # API doesn't specify how to acquire a specific one, so I'm just flushing it out.
         vector_stores = self.__client.beta.vector_stores.list();
         for vector in vector_stores.data:
-            self.__client.beta.vector_stores.delete(vector_store_id=str(vector.id));
+            if vector.status != "expired":
+                self.__client.beta.vector_stores.delete(vector_store_id=str(vector.id));
 
     def deleteAssistant(self):
         self.__client.beta.assistants.delete(self.__assistant_id);

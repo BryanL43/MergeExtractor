@@ -140,8 +140,8 @@ class Processor:
     def __findSection(self, doc: Document, startCandidates: list[str]) -> bool:
         # Clean and truncate text for spaCy
         cleanedText = self.__removeTableOfContents(doc.getContent());
-        doc.setContent(cleanedText[1000:1000000]); # Preserve some content for assistant back-up parsing
-        cleanedText = cleanedText[50000:1000000];  # Shrink to manageable size for spaCy
+        doc.setContent(cleanedText[1000:500000]); # Preserve some content for assistant back-up parsing
+        cleanedText = cleanedText[50000:500000];  # Shrink to manageable size for spaCy
 
         # Break the text into sentences
         doc = self.nlp(cleanedText);
