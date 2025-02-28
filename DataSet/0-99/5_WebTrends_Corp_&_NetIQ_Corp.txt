@@ -1,33 +1,26 @@
-URL: https://www.sec.gov/Archives/edgar/data/1084827/000089843001000748/0000898430-01-000748.txt
+URL: https://www.sec.gov/Archives/edgar/data/1084827/000101287001000336/0001012870-01-000336.txt
 
-P:			95054
+		95054
 		BUSINESS PHONE:		4083307000
 
-S-4/A
+S-4
 
 0001.txt
 
-AMENDMENT NO. 1 TO THE FORM S-4
+FORM S-4
 
- As filed with the Securities and Exchange Commission on February 23, 2001
-
-                                                 Registration No. 333-54746
+    As filed with the Securities and Exchange Commission on February 1, 2001
+                                                       Registration No. 333-
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
                        SECURITIES AND EXCHANGE COMMISSION
                              Washington, D.C. 20549
-
                                ----------------
-
-                              AMENDMENT NO. 1
-
-                                    TO
                                     FORM S-4
                              REGISTRATION STATEMENT
                                      Under
                            The Securities Act of 1933
-
                                ----------------
                                NetIQ Corporation
              (Exact name of Registrant as specified in its charter)
@@ -44,9 +37,7 @@ AMENDMENT NO. 1 TO THE FORM S-4
                                  (408) 856-3000
   (Address, including zip code, and telephone number, including area code, of
                    Registrant's principal executive offices)
-
                                ----------------
-
                                  Ching-Fa Hwang
                      President and Chief Executive Officer
                                NetIQ Corporation
@@ -55,9 +46,7 @@ AMENDMENT NO. 1 TO THE FORM S-4
                                  (408) 856-3000
  (Name, address, including zip code, and telephone number, including area code,
                              of agent for service)
-
                                ----------------
-
                                    Copies to:
          William M. Kelly, Esq.                   Roy W. Tucker, Esq.
          Davis Polk & Wardwell                      Perkins Coie LLP
@@ -65,9 +54,7 @@ AMENDMENT NO. 1 TO THE FORM S-4
           Menlo Park, CA 94025                         Suite 1500
              (650) 752-2000                        Portland, OR 97204
                                                      (503) 727-2000
-
                                ----------------
-
    Approximate date of commencement of proposed sale to the public: Upon
 consummation of the merger described herein.
    If the securities being registered on this Form are to be offered in
@@ -81,9 +68,32 @@ registration statement for the same offering. [_]
 under the Securities Act, check the following box and list the Securities Act
 registration statement number of the earlier effective registration statement
 for the same offering. [_]
+                               ----------------
+                        CALCULATION OF REGISTRATION FEE
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+ Title of Each Class of
+    Securities to be     Amount to be       Proposed Maximum           Proposed Maximum          Amount of
+       Registered        Registered(1) Offering Price Per Unit(2) Aggregate Offering Price(2) Registration Fee
+- --------------------------------------------------------------------------------------------------------------
+
+Common Stock $0.001 par
+ value.................   13,365,000             $67.00                 $895,455,000.00         $225,000.00
+- --------------------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------
+
+(1) Based upon the maximum number of shares of common stock of the Registrant
+    which may be issued to shareholders of WebTrends Corporation pursuant to
+    the merger described herein, based upon the number of shares of WebTrends
+    common stock outstanding as of the date hereof or issuable pursuant to
+    options or other rights exercisable on or before June 30, 2001.
+(2) Pursuant to Rule 457(c) and (f) under the Securities Act of 1933, as
+    amended, the registration fee has been calculated based on the average of
+    the high and low prices per share of WebTrends Corporation's common stock
+    on January 26, 2001, as reported on the Nasdaq National Market.
 
                                ----------------
-
    The Registrant hereby amends this Registration Statement on such date or
 dates as may be necessary to delay its effective date until the Registrant
 shall file a further amendment which specifically states that this Registration
@@ -106,9 +116,9 @@ whereby WebTrends will become a wholly-owned subsidiary of NetIQ.
    In the merger, each share of WebTrends common stock will be converted into
 0.48 shares of NetIQ common stock. NetIQ stockholders will continue to own
 their existing stock after the merger. NetIQ common stock is traded on the
-Nasdaq National Market under the trading symbol "NTIQ," and on February 20,
-2001, the closing price of NetIQ common stock was $64.25 per share. NetIQ will
-issue approximately 12.7 million shares in the merger, representing
+Nasdaq National Market under the trading symbol "NTIQ," and on January 30,
+2001, the closing price of NetIQ common stock was $81.125 per share. NetIQ will
+issue approximately 12.7 million common shares in the merger, representing
 approximately 24% of the outstanding shares of NetIQ common stock after the
 merger, on the basis of outstanding shares on January 16, 2001.
 
@@ -133,7 +143,7 @@ Information" on page 75.
 or oral request to NetIQ, 3553 North First Street, San Jose, CA 95134, (408)
 856-3000 and to WebTrends, 851 S.W. Sixth Avenue, Portland, OR 97204, (503)
 294-7025. In order to receive timely delivery of the documents, you must make
-your requests no later than March 15, 2001.
+your requests no later than March   , 2001.
 
    After careful consideration, the boards of directors of both WebTrends and
 NetIQ have determined the merger to be fair to you and in your best interests.
@@ -143,13 +153,13 @@ you.
    Stockholders of NetIQ and WebTrends are cordially invited to attend their
 respective special meetings to vote on the merger:
 
-  . The special meeting of WebTrends shareholders will be held on March 26,
+  . The special meeting of WebTrends shareholders will be held on March   ,
     2001, at 10:00 a.m. local time at the Hilton Hotel, 921 S.W. Sixth
     Avenue, Portland, Oregon 97204. Only shareholders who hold shares of
     WebTrends at the close of business on February 1, 2001, will be entitled
     to vote at this special meeting.
 
-  . The special meeting of NetIQ stockholders will be held on March 26, 2001,
+  . The special meeting of NetIQ stockholders will be held on March   , 2001,
     at 10:00 a.m. local time at NetIQ's headquarters at 3553 North First
     Street, San Jose, California 95134. Only stockholders who hold shares of
     NetIQ at the close of business on February 1, 2001, will be entitled to
@@ -174,10 +184,9 @@ your shares in person. YOUR VOTE IS VERY IMPORTANT.
  the adequacy or accuracy of this joint proxy statement/prospectus. Any
  representation to the contrary is a criminal offense.
 
-This joint proxy statement/prospectus is dated February 23, 2001, and was first
-                                 mailed to
-
-          holders of common stock on or about February 26, 2001.
+This joint proxy statement/prospectus is dated February   , 2001, and was first
+                                   mailed to
+             holders of common stock on or about February   , 2001.
 
                              WEBTRENDS CORPORATION
                              851 S.W. Sixth Avenue
@@ -185,13 +194,12 @@ This joint proxy statement/prospectus is dated February 23, 2001, and was first
                                  (503) 294-7025
 
                    NOTICE OF SPECIAL MEETING OF SHAREHOLDERS
-
-                  TO BE HELD MARCH 26, 2001 AT 10:00 A.M.
+                     TO BE HELD MARCH  , 2001 AT 10:00 A.M.
 
 To the Shareholders of WebTrends Corporation:
 
    A special meeting of shareholders of WebTrends Corporation will be held on
-March 26, 2001, at 10:00 a.m. at the Hilton Hotel, 921 S.W. Sixth Avenue,
+March  , 2001, at 10:00 a.m. at the Hilton Hotel, 921 S.W. Sixth Avenue,
 Portland, Oregon 97204 for the following purposes:
 
      1. To consider and vote on the proposed merger of North Acquisition
@@ -222,8 +230,7 @@ February 1, 2001, are entitled to notice of, and to vote at, this meeting.
                                           Secretary
 
 Portland, Oregon
-
-February 26, 2001
+February  , 2001
 
  To assure that your shares are represented at the meeting, please complete,
  date and sign the enclosed proxy and mail it promptly in the postage-paid
@@ -238,14 +245,13 @@ February 26, 2001
                                  (408) 856-3000
 
                    NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
-
-                 TO BE HELD MARCH 26, 2001, at 10:00 A.M.
+                    TO BE HELD MARCH   , 2001, at 10:00 A.M.
 
 To the Stockholders of NetIQ Corporation:
 
    A special meeting of stockholders of NetIQ Corporation will be held at
 NetIQ's headquarters at 3553 North First Street, San Jose, California 95134 on
-March 26, 2001, at 10:00 a.m., local time, for the following purposes:
+March   , 2001, at 10:00 a.m., local time, for the following purposes:
 
      1. To approve the issuance of shares of NetIQ common stock in the merger
   of North Acquisition Corporation, a wholly-owned subsidiary of NetIQ, with
@@ -279,8 +285,7 @@ entitled "Risk Factors."
                                           Secretary
 
 San Jose, California
-
-February 26, 2001
+February   , 2001
 
  To assure that your shares are represented at the meeting, please complete,
  date and sign the enclosed proxy and mail it promptly in the postage-paid
@@ -289,7 +294,82 @@ February 26, 2001
  enclosed proxy card. You can revoke your proxy at any time before it is
  voted.
 
-                               page 28)
+                               
+
+                                                                           Page
+                                                                           ----
+
+QUESTIONS AND ANSWERS FOR WEBTRENDS SHAREHOLDERS AND NETIQ STOCKHOLDERS..    1
+SUMMARY OF THE JOINT PROXY STATEMENT/PROSPECTUS..........................    3
+  Forward-Looking Statements.............................................    3
+PROPOSAL NO. 1: THE MERGER...............................................    3
+  The Companies..........................................................    3
+  Summary of the Merger..................................................    3
+SELECTED HISTORICAL AND SELECTED PRO FORMA COMBINED FINANCIAL DATA.......    6
+  NetIQ's Selected Historical Consolidated Financial Data................    6
+  WebTrends' Selected Historical Consolidated Financial Data.............    7
+  Summary Unaudited Pro Forma Condensed Combined Financial Data..........    8
+  Comparative Per Share Data.............................................   10
+PROPOSAL NO. 2 FOR NETIQ STOCKHOLDERS: AMENDMENT OF CERTIFICATE OF
+ INCORPORATION ..........................................................   11
+RISK FACTORS.............................................................   12
+THE NETIQ MEETING........................................................   22
+THE WEBTRENDS MEETING....................................................   25
+PROPOSAL NO. 1: THE MERGER...............................................   28
+  Background of the merger...............................................   28
+  Reasons for the merger.................................................   31
+  Recommendation of WebTrends' board of directors........................   32
+  Opinion of WebTrends' financial advisor................................   32
+  Recommendation of NetIQ's board of directors...........................   38
+  Opinion of NetIQ's financial advisor...................................   38
+  Interests of certain persons in the merger.............................   45
+  Restrictions on sales of shares by affiliates..........................   47
+  Completion and effectiveness of the merger.............................   48
+  Structure of the merger and conversion of WebTrends common stock.......   48
+  Material U.S. federal income tax consequences..........................   48
+  Accounting treatment of the merger.....................................   50
+  Regulatory filings and approvals required to complete the merger.......   50
+  No dissenters' rights..................................................   51
+  Listing on the Nasdaq Market of NetIQ common stock to be issued in the
+   merger................................................................   51
+  Delisting and deregistration of WebTrends common stock after the
+   merger................................................................   51
+THE MERGER AGREEMENT.....................................................   52
+AGREEMENTS RELATED TO THE MERGER.........................................   58
+  Voting Agreement.......................................................   58
+  Employment Agreements..................................................   58
+MARKET PRICE AND DIVIDEND INFORMATION....................................   59
+  Recent Share Prices....................................................   59
+  Dividends..............................................................   59
+UNAUDITED PRO FORMA COMBINED CONDENSED FINANCIAL STATEMENTS..............   63
+COMPARISON OF RIGHTS OF HOLDERS OF WEBTRENDS COMMON STOCK AND NETIQ
+ COMMON STOCK............................................................   68
+PROPOSAL NO. 2 FOR NETIQ STOCKHOLDERS: APPROVAL OF AMENDMENT TO
+ CERTIFICATE OF INCORPORATION............................................   73
+LEGAL MATTERS............................................................   73
+EXPERTS..................................................................   74
+STOCKHOLDER PROPOSALS....................................................   74
+WHERE YOU CAN FIND MORE INFORMATION......................................   75
+
+                                       i
+
+                                                                          Page
+                                                                          ----
+
+ANNEX A Agreement and Plan of Merger..................................... A-1
+ANNEX B Voting Agreement................................................. B-1
+ANNEX C Opinion of Credit Suisse First Boston Corporation................ C-1
+ANNEX D Opinion of Dain Rauscher Wessels, a division of Dain Rauscher
+ Incorporated............................................................ D-1
+ANNEX E Certificate of Amendment to NetIQ's Certificate of
+ Incorporation........................................................... E-1
+
+                                       ii
+
+    QUESTIONS AND ANSWERS FOR WEBTRENDS SHAREHOLDERS AND NETIQ STOCKHOLDERS
+                           PROPOSAL NO.1: THE MERGER
+
+Q:What is the merger? (See page 28)
 
 A: The merger will result in the acquisition of the business of WebTrends by
    NetIQ. Upon consummation of the merger, WebTrends will become a wholly-
@@ -310,11 +390,11 @@ A: When the merger is completed, holders of WebTrends common stock will
    multiplied by the fraction of a NetIQ share such shareholder would
    otherwise receive.
 
-   Options to purchase shares of WebTrends common stock will be converted into
-   options to purchase shares of NetIQ common stock. The number of shares
-   covered by, and the exercise price for, each option will be adjusted using
-   the merger exchange ratio of 0.48 shares of NetIQ for each share of
-   WebTrends.
+  Options to purchase shares of WebTrends common stock will be converted into
+  options to purchase shares of NetIQ common stock. The number of shares
+  covered by, and the exercise price for, each option will be adjusted using
+  the merger exchange ratio of 0.48 shares of NetIQ for each share of
+  WebTrends.
 
 Q: Does the board of directors of WebTrends recommend voting in favor of the
    merger? (See page 32)
@@ -334,7 +414,7 @@ Q: Are there risks I should consider in deciding whether to vote for the
    merger? (See page 12)
 
 A: Yes. In evaluating the merger, you should carefully read this joint proxy
-   statement/prospectus and, in particular, consider the factors discussed in
+   statement/ prospectus and, in particular, consider the factors discussed in
    the section entitled "Risk Factors."
 
 Q: What do I need to do now?
@@ -346,8 +426,8 @@ A: Mail your signed proxy card in the enclosed return envelope as soon as
    your properly signed proxy, your shares will be voted "FOR" approval of the
    merger.
 
-   WebTrends shareholders, please do not send your WebTrends stock certificates
-   at this time.
+  WebTrends shareholders, please do not send your WebTrends stock certificates
+  at this time.
 
 Q: If my shares are held in "street name" by my broker, will my broker vote my
    shares for me?
@@ -398,17 +478,17 @@ Q: Whom should I call with questions?
 A: WebTrends shareholders should call Nanci Werts, Investor Relations, at (503)
    294-7025 with any questions about the merger.
 
-   NetIQ stockholders should call Susan Torrey, Investor Relations, at (713)
-   548-1863 with any questions about the merger.
+  NetIQ stockholders should call Susan Torrey, Investor Relations, at (713)
+  548-1863 with any questions about the merger.
 
 - --------------------------------------------------------------------------------
               PROPOSAL NO. 2 FOR NETIQ STOCKHOLDERS: AMENDMENT TO
                           CERTIFICATE OF INCORPORATION
 
-Q: What is the Amendment? (See page 73)
+Q:  What is the Amendment? (See page 73)
 
-A: The proposed amendment would increase the number of authorized shares of
-   NetIQ common stock from 100,000,000 to 250,000,000.
+A:  The proposed amendment would increase the number of authorized shares of
+    NetIQ common stock from 100,000,000 to 250,000,000.
 
 Q: Is approval of the amendment required to complete the merger?
 
@@ -625,26 +705,20 @@ Comparative market price information (See page 59)
 pursuant to a fixed exchange ratio. Shares of WebTrends common stock and shares
 of NetIQ common stock are listed on Nasdaq. On January 16, 2001, the last full
 trading day prior to the public announcement of the proposed merger, WebTrends'
-common stock closed at $32.875 per share. On February 20, 2001, WebTrends'
-common stock closed at $30.563 per share. On January 16, 2001, NetIQ's common
-stock closed at $75.00 per share. On February 20, 2001, NetIQ's common stock
-closed at $64.25 per share. Stockholders of both companies should obtain
+common stock closed at $32.875 per share. On January 30, 2001, WebTrends'
+common stock closed at $38.609 per share. On January 16, 2001, NetIQ's common
+stock closed at $75.00 per share. On January 30, 2001, NetIQ's common stock
+closed at $81.125 per share. Stockholders of both companies should obtain
 current market quotations.
 
 Regulatory approval (See page 50)
 
-   We have already obtained from the applicable U.S. and foreign regulatory
-authorities all material regulatory approvals required to permit completion of
-the acquisition. The Hart-Scott-Rodino Act prohibits completion of an
-acquisition until statutory notification requirements and waiting periods have
-been satisfied. The waiting period under the statute applicable to the
-acquisition was terminated on February 7, 2001. However, the Department of
-Justice and the Federal Trade Commission have the authority to challenge the
-acquisition on antitrust grounds before or after we complete the merger. In
-addition, the completion of the merger is subject to the continued
-effectiveness of the registration statement, of which this joint proxy
-statement/prospectus is a part, and compliance with applicable corporate laws
-of Oregon and Delaware.
+   This merger is subject to review by the Department of Justice and the
+Federal Trade Commission to determine whether it is in compliance with
+applicable antitrust laws. In addition, the completion of the merger is subject
+to the continued effectiveness of the registration statement, of which this
+joint proxy statement/prospectus is a part, and compliance with applicable
+corporate laws of Oregon and Delaware.
 
                    SELECTED HISTORICAL AND SELECTED PRO FORMA
                             COMBINED FINANCIAL DATA
@@ -666,14 +740,16 @@ consolidated financial statements not included or incorporated by reference
 herein. The consolidated statement of operations data for the six months ended
 December 31, 1999 and 2000, and the consolidated balance sheet data as of
 December 31, 2000, are derived from unaudited consolidated financial statements
-which are incorporated by reference in this joint proxy statement/prospectus.
-In the opinion of NetIQ's management, such unaudited financial statements have
-been prepared on the same basis as the audited consolidated financial
-statements referred to above and include all adjustments, consisting of only
-normal recurring adjustments, necessary for a fair presentation of the
-information when read in conjunction with the consolidated financial statements
-and notes thereto. Results for the six months ended December 31, 2000, are not
-necessarily indicative of the expected results for the full year.
+which will be incorporated by reference in this joint proxy
+statement/prospectus upon the filing of NetIQ's quarterly report for the
+quarter ended December 31, 2000, on Form 10-Q with the SEC. In the opinion of
+NetIQ's management, such unaudited financial statements have been prepared on
+the same basis as the audited consolidated financial statements referred to
+above and include all adjustments, consisting of only normal recurring
+adjustments, necessary for a fair presentation of the information when read in
+conjunction with the consolidated financial statements and notes thereto.
+Results for the six months ended December 31, 2000, are not necessarily
+indicative of the expected results for the full year.
 
                                                                               Six Months
                                                                                 Ended
@@ -765,18 +841,23 @@ in conjunction with WebTrends' audited consolidated financial statements and
 WebTrends' "Management's Discussion and Analysis of Financial Condition and
 Results of Operations," incorporated by reference in this joint proxy
 statement/prospectus. The consolidated statement of operations data for the
-years ended December 31, 1998, 1999 and 2000, and the consolidated balance
-sheet data as of December 31, 1999 and 2000, have been derived from WebTrends'
+years ended December 31, 1997, 1998 and 1999, and the consolidated balance
+sheet data as of December 31, 1998 and 1999, have been derived from WebTrends'
 audited consolidated financial statements incorporated by reference in this
 joint proxy statement/prospectus. The consolidated statement of operations data
-for the years ended December 31, 1996 and 1997, and the consolidated balance
-sheet data as of December 31, 1996, 1997 and 1998, have been derived from
-WebTrends' audited consolidated financial statements not included or
-incorporated by reference herein. The consolidated statement of operations data
-for the six months ended December 31, 1999 and 2000, are derived from unaudited
-consolidated financial statements. In the opinion of WebTrends' management,
-such unaudited financial statements have been prepared on the same basis as the
-audited consolidated financial statements referred to above and include all
+for the years ended December 31, 1996, and the consolidated balance sheet data
+as of December 31, 1996 and 1997, have been derived from WebTrends' audited
+consolidated financial statements not included or incorporated by reference
+herein. The consolidated statement of operations data for the year ended
+December 31, 2000, and the consolidated balance sheet data as of December 31,
+2000, have been derived from WebTrends' audited consolidated financial
+statements which will be incorporated by reference upon the filing of
+WebTrends' annual report for the year ended December 31, 2000, on Form 10-K
+with the SEC. The consolidated statement of operations data for the six months
+ended December 31, 1999 and 2000, are derived from unaudited consolidated
+financial statements. In the opinion of WebTrends' management, such unaudited
+financial statements have been prepared on the same basis as the audited
+consolidated financial statements referred to above and include all
 adjustments, consisting of only normal recurring adjustments, necessary for a
 fair presentation of the information when read in conjunction with the
 consolidated financial statements and notes thereto. Results for the six months
@@ -897,10 +978,10 @@ the period from July 1, 1999 to the date of the acquisitions of these
 companies, and the unaudited historical statement of operations of WebTrends
 and SRI for the twelve months ended June 30, 2000. The unaudited pro forma
 condensed combined statement of operations data for the six months ended
-December 31, 2000, has been derived by combining unaudited historical
-statements of operations of NetIQ and WebTrends for the six months ended
-December 31, 2000, and the unaudited historical statement of operations of SRI
-for the period July 1, 2000, to the date of the acquisition of SRI.
+December 31, 2000, has been derived by combining unaudited historical statement
+of operations of NetIQ and WebTrends for the six months ended December 31,
+2000, and the unaudited historical statement of operations of SRI for the
+period July 1, 2000, to the date of the acquisition of SRI.
 
    The summary unaudited pro forma condensed combined balance sheet as of
 December 31, 2000, gives effect to the above transactions as if they occurred
@@ -1724,7 +1805,7 @@ Date, time and place of NetIQ's special meeting
    The date, time and place of the special meeting of NetIQ stockholders are as
 follows:
 
-                              March 26, 2001
+                                March    , 2001
                              10:00 a.m. local time
                             3553 North First Street
                            San Jose, California 95134
@@ -1758,8 +1839,8 @@ Record date and outstanding shares
 2001, as the record date for the special meeting. Only holders of record of
 NetIQ common stock at the close of business on the record date are entitled to
 notice of and to vote at the meeting. As of the close of business on the record
-date, there were 39,753,975 shares of NetIQ common stock outstanding and
-entitled to vote, held of record by approximately 229 stockholders.
+date, there were     shares of NetIQ common stock outstanding and entitled to
+vote, held of record by approximately     stockholders.
 
 Vote and quorum required
 
@@ -1774,8 +1855,8 @@ incorporation requires the affirmative vote of a majority of NetIQ's
 outstanding common stock.
 
    As of the record date, directors, executive officers and affiliates of NetIQ
-as a group beneficially owned approximately 12% of the outstanding shares of
-NetIQ common stock.
+as a group beneficially owned   % of the outstanding shares of NetIQ common
+stock.
 
 Voting of proxies
 
@@ -1889,7 +1970,7 @@ Date, time and place of the WebTrends special meeting
    The date, time and place of the special meeting of WebTrends shareholders
 are as follows:
 
-                              March 26, 2001
+                                March    , 2001
                              10:00 a.m. local time
                                 The Hilton Hotel
                              921 S.W. Sixth Avenue
@@ -1915,8 +1996,8 @@ Record date and outstanding shares
 2001, as the record date for the special meeting. Only holders of record of
 WebTrends common stock at the close of business on the record date are entitled
 to notice of and to vote at the meeting. As of the close of business on the
-record date, there were 26,536,807 shares of WebTrends common stock outstanding
-and entitled to vote, held of record by approximately 65 shareholders.
+record date, there were     shares of WebTrends common stock outstanding and
+entitled to vote, held of record by approximately     shareholders.
 
 Vote and quorum required
 
@@ -3531,21 +3612,22 @@ relevant tax counsel confirm its opinion as of the closing date. Neither NetIQ
 nor WebTrends intends to waive this condition.
 
    The opinions of tax counsel regarding the merger have relied, and the
-confirmation opinions regarding the merger as of the closing date will each
-rely, on (1) representations and covenants made by NetIQ and WebTrends,
-including those contained in certificates of officers of NetIQ and WebTrends,
-and (2) specified assumptions, including an assumption regarding the completion
-of the merger in the manner contemplated by the merger agreement. In addition,
-the opinions of tax counsel have assumed, and tax counsel's ability to provide
-the closing date opinions will depend on, the absence of changes in existing
-facts or in law between the date of this joint proxy statement/prospectus and
-the closing date. If any of those representations, covenants or assumptions is
-inaccurate, either or both tax counsel may not be able to provide the required
-closing date opinions or the tax consequences of the merger could differ from
-those described in the opinions that tax counsel have delivered. Tax counsel's
-opinions neither bind the Internal Revenue Service nor preclude the IRS or the
-courts from adopting a contrary position. Neither NetIQ nor WebTrends intends
-to obtain a ruling from the IRS on the tax consequences of the merger.
+confirmation opinions regarding the merger as of the closing date (the "closing
+date opinions") will each rely, on (1) representations and covenants made by
+NetIQ and WebTrends, including those contained in certificates of officers of
+NetIQ and WebTrends, and (2) specified assumptions, including an assumption
+regarding the completion of the merger in the manner contemplated by the merger
+agreement. In addition, the opinions of tax counsel have assumed, and tax
+counsel's ability to provide the closing date opinions will depend on, the
+absence of changes in existing facts or in law between the date of this joint
+proxy statement/prospectus and the closing date. If any of those
+representations, covenants or assumptions is inaccurate, either or both tax
+counsel may not be able to provide the required closing date opinions or the
+tax consequences of the merger could differ from those described in the
+opinions that tax counsel have delivered. Tax counsel's opinions neither bind
+the Internal Revenue Service nor preclude the IRS or the courts from adopting a
+contrary position. Neither NetIQ nor WebTrends intends to obtain a ruling from
+the IRS on the tax consequences of the merger.
 
    U.S. Federal Income Tax Treatment of the Merger. The merger will be treated
 for U.S. federal income tax purposes as a reorganization within the meaning of
@@ -3631,19 +3713,20 @@ United States Department of Justice and specified waiting period requirements
 have been satisfied. In connection with the merger, on January 26, 2001, NetIQ,
 WebTrends and certain shareholders of WebTrends each filed with the FTC and the
 Antitrust Division the required notification and report forms under the HSR
-Act. The applicable waiting period under the HSR Act relating to the merger was
-terminated on February 7, 2001.
+Act. The applicable waiting period under the HSR Act relating to the merger is
+scheduled to expire on February 25, 2001, unless the FTC or the Antitrust
+Division grants the parties request for earlier termination of the waiting
+period or requests further information regarding the merger.
 
-   Notwithstanding termination of the HSR Act waiting period, at any time
-before or after the completion of the merger, either the Antitrust Division or
-the FTC could take any action under U.S. antitrust laws as it deems necessary
-or desirable in the public interest, including seeking to enjoin the completion
-of the merger or seeking the divestiture of substantial assets of NetIQ or
-WebTrends. Private parties and state attorneys general may also bring actions
-under U.S. antitrust laws depending on the circumstances. Although we believe
-that the merger is legal under U.S. antitrust laws, we can give no assurance
-that a challenge to the merger on antitrust grounds will not be made or, if
-this challenge is made, that it would not be successful.
+   At any time before or after the completion of the merger, either the
+Antitrust Division or the FTC could take any action under U.S. antitrust laws
+as it deems necessary or desirable in the public interest, including seeking to
+enjoin the completion of the merger or seeking the divestiture of substantial
+assets of NetIQ or WebTrends. Private parties and state attorneys general may
+also bring actions under U.S. antitrust laws depending on the circumstances.
+Although we believe that the merger is legal under U.S. antitrust laws, we can
+give no assurance that a challenge to the merger on antitrust grounds will not
+be made or, if this challenge is made, that it would not be successful.
 
    Other Laws. NetIQ and WebTrends conduct operations in a number of other
 jurisdictions where regulatory filings, notifications or approvals with
@@ -4124,21 +4207,21 @@ the calendar periods indicated the quarterly high and low sale prices per share
 of the last reported closing prices of WebTrends common stock and NetIQ common
 stock as reported on the Nasdaq National Market.
 
-                                                   WebTrends         NetIQ
-                                                --------------- ----------------
-                                                 High     Low     High     Low
-                                                ------- ------- -------- -------
+                                                  WebTrends         NetIQ
+                                               --------------- ----------------
+                                                High     Low     High     Low
+                                               ------- ------- -------- -------
 
 1999:
-  Third Quarter................................ $23.875 $14.688 $ 33.750 $14.938
-  Fourth Quarter...............................  49.281  19.125   59.000  23.500
+  Third Quarter............................... $23.875 $14.688 $ 33.750 $14.938
+  Fourth Quarter..............................  49.281  19.125   59.000  23.500
 2000:
-  First Quarter................................ $85.500 $32.875 $ 78.000 $51.000
-  Second Quarter...............................  72.375  24.063   61.500  31.563
-  Third Quarter................................  44.250  28.000   67.938  42.000
-  Fourth Quarter...............................  35.250  15.500  109.375  46.375
+  First Quarter............................... $85.500 $32.875 $ 78.000 $51.000
+  Second Quarter..............................  72.375  24.063   61.500  31.563
+  Third Quarter...............................  44.250  28.000   67.938  42.000
+  Fourth Quarter..............................  35.250  15.500  109.375  46.375
 2001:
-  First Quarter (through February 20).......... $38.609  24.000 $ 81.125 $61.250
+  First Quarter (through January 26).......... $34.938  24.000 $ 80.250 $61.250
 
 Recent Share Prices
 
@@ -4148,8 +4231,8 @@ specified. January 16, 2001, was the last trading date before announcement of
 the merger. The table also sets forth the equivalent per share price for
 WebTrends common stock, which was determined by multiplying the closing prices
 of the NetIQ common stock as of the specified dates by the exchange ratio of
-0.48. February 20, 2001, was the most recent practicable date before the date
-of this joint proxy statement/prospectus.
+0.48. January 26, 2001, was the most recent practicable date before the date of
+this joint proxy statement/prospectus.
 
                                                               WebTrends
                                                                 Common
@@ -4158,8 +4241,8 @@ of this joint proxy statement/prospectus.
                                                       Stock     Value     Stock
                                                     --------- ---------- -------
 
-January 16, 2001...................................  $32.875   $36.000   $75.000
-February 20, 2001..................................  $30.563   $30.840   $64.250
+January 16, 2001...................................  $32.875   $  36.00  $ 75.00
+January 26, 2001...................................  $33.250   $ 33.780  $70.375
 
    Both WebTrends and NetIQ stockholders are advised to obtain current market
 quotations for WebTrends common stock and NetIQ common stock. No assurance can
@@ -4581,7 +4664,7 @@ presented, as their effect would have been antidilutive.
 development expense included in the historical results of operations of NetIQ
 related to the acquisition of MCS.
 
-   (J) This pro forma adjustment reflects the tax impact of the amortization
+   (J) This pro-forma adjustment reflects the tax impact of the amortization
 of identified intangible assets.
 
                        COMPARISON OF RIGHTS OF HOLDERS OF
@@ -5010,8 +5093,8 @@ Menlo Park, California, counsel for NetIQ. Perkins Coie LLP, Portland, Oregon,
 is counsel to WebTrends. It is a condition to the completion of the merger that
 WebTrends and NetIQ each receive opinions from their counsel to the effect
 that, among other things, the merger will be a reorganization for federal
-income tax purposes. See "Proposal No. 1: The Merger--Material U.S. Federal
-Income Tax Consequences."
+income tax purposes. See "The Merger--Material U.S. Federal Income Tax
+Consequences."
 
                                     EXPERTS
 
@@ -5023,8 +5106,8 @@ reports, which are incorporated by reference herein, and have been so
 incorporated in reliance upon the reports of such firm given upon their
 authority as experts in accounting and auditing.
 
-   The financial statements of WebTrends as of December 31, 2000 and 1999, and
-for each of the years in the three-year period ended December 31, 2000, have
+   The financial statements of WebTrends as of December 31, 1999 and 1998, and
+for each of the years in the three-year period ended December 31, 1999, have
 been incorporated by reference herein and in the joint proxy
 statement/prospectus in reliance upon the report of KPMG LLP, independent
 public accountants, incorporated by reference herein, and upon the authority of
@@ -5101,8 +5184,7 @@ performance.
    --------------------------------------   ------
 
    Annual Report on Form 10-K               Fiscal year ended June 30, 2000
-   Quarterly Reports on Form 10-Q           Quarters ended September 30, 2000, and
-                                            December 31, 2000
+   Quarterly Reports on Form 10-Q           Quarter ended September 30, 2000
                                             Filed on January 17, 2001, and July 19,
    Current Reports on Form 8-K              2000
    Description of NetIQ Common Stock from
@@ -5130,8 +5212,11 @@ performance.
    25215)                                   Period
    -------------------------------------    ------
 
-   Annual Report on Form 10-K               Fiscal year ended December 31, 2000
-   Current Reports on Form 8-K              Filed on January 19, 2001
+   Annual Report on Form 10-K               Fiscal year ended December 31, 1999
+   Quarterly Reports on Form 10-Q           Quarters ended March 31, 2000, June 30,
+                                            2000 and September 30, 2000
+   Current Reports on Form 8-K              Filed on January 26, 2000 and January
+                                            19, 2001
    Description of WebTrends Common Stock
    from Registration Statement on Form 8-A  Filed on December 28, 1998
 
@@ -5161,7 +5246,7 @@ the appropriate party at the following address:
                                Portland, OR 97204
                               Tel: (503) 294-7025
 
-   If you would like to request documents from us, please do so by March 15,
+   If you would like to request documents from us, please do so by March  ,
 2001, to receive them before the special meetings. We shall send the documents
 by first-class mail within one business day of receiving your request.
 
@@ -5174,7 +5259,7 @@ reference in this joint proxy statement/prospectus to vote on the NetIQ share
 issuance proposal and the WebTrends merger agreement proposal. We have not
 authorized anyone to provide you with information that is different from what
 is contained in this document. This joint proxy statement/prospectus is dated
-February 23, 2001. You should not assume that the information in it is accurate
+February  , 2001. You should not assume that the information in it is accurate
 as of any date other than that date, and neither its mailing to shareholders
 nor the issuance of NetIQ common stock in the merger shall create any
 implication to the contrary.
@@ -5211,8 +5296,8 @@ contained in this document with respect to NetIQ was provided by NetIQ.
 
                               /1/
 
-                                                                              Page
-                                                                              ----
+                                                                            Page
+                                                                            ----
 
                                    ARTICLE 1
 
@@ -7678,1927 +7763,4 @@ Insider").
 
                             Conditions to the Merger
 
-   Section 9.01. Conditions to Obligations of Each Party. The obligations of
-Company, Parent and Merger Subsidiary to consummate the Merger are subject to
-the satisfaction of the following conditions:
-
-   (a) this Agreement shall have been approved and adopted by the shareholders
-of Company in accordance with Oregon Law and the issuance of Parent Common
-Stock in connection with the Merger shall have been approved by the
-stockholders of Parent in accordance with Delaware Law;
-
-   (b) any applicable waiting period under the HSR Act relating to the Merger
-shall have expired or been terminated;
-
-                                      A-32
-
-   (c) no provision of any applicable law or regulation and no judgment,
-injunction, order or decree shall prohibit the consummation of the Merger;
-
-   (d) there shall not have been instituted or pending any action or proceeding
-(or any investigation or other inquiry that might result in such action or
-proceeding) by any government or governmental authority or agency, domestic,
-foreign or supranational, before any court or governmental authority or agency,
-domestic, foreign or supranational, (i) challenging or seeking to make illegal,
-to delay materially or otherwise directly or indirectly to restrain or prohibit
-the consummation of the Merger, seeking to obtain material damages or otherwise
-directly or indirectly relating to the transactions contemplated by the Merger
-or (ii) seeking to restrain or prohibit Parent's ownership or operation (or
-that of its respective Subsidiaries or Affiliates) of all or any material
-portion of the business or assets of Company and Company Subsidiaries, taken as
-a whole, or of Parent and its Subsidiaries, taken as a whole, or to compel
-Parent or any of its Subsidiaries or Affiliates to dispose of or hold separate
-all or any material portion of the business or assets of Company Subsidiaries,
-taken as a whole, or of Parent and its Subsidiaries, taken as a whole;
-
-   (e) the Registration Statement shall have been declared effective and no
-stop order suspending the effectiveness of the Registration Statement shall be
-in effect and no proceedings for such purpose shall be pending before or
-threatened by the SEC;
-
-   (f) Parent and Company shall have each received written opinions of their
-respective counsel, Davis Polk & Wardwell and Perkins Coie LLP in form and
-substance reasonably satisfactory to each of them, that the Merger will be
-treated for federal income tax purposes as a reorganization qualifying under
-the provision of Section 368(a) of the Code and that each of Parent, Merger
-Subsidiary and Company will be a party to the reorganization within the meaning
-of Section 368(a) of the Code. The Company, Parent and Merger Subsidiary shall
-execute and deliver to Davis Polk & Wardwell and Perkins Coie LLP certificates
-substantially in the form attached hereto as Exhibits C-1 and C-2,
-respectively, at such time or times as reasonably requested by them in
-connection with the delivery of their opinions provided herein; and
-
-   (g) all actions by or in respect of, or filings with, any governmental body,
-agency, official or authority, domestic, foreign or supranational, required to
-permit the consummation of the Merger shall have been taken, made or obtained.
-
-   Section 9.02. Conditions to the Obligations of Parent and Merger
-Subsidiary. The obligations of Parent and Merger Subsidiary to consummate the
-Merger are subject to the satisfaction of the following further conditions:
-
-   (a) (i) Company shall have performed in all material respects all of its
-obligations hereunder required to be performed by it at or prior to the
-Effective Time, (ii) the representations and warranties of Company contained in
-this Agreement and in any certificate or other writing delivered by Company
-pursuant hereto shall be true (disregarding each exception therein for
-materiality and Material Adverse Effect) at and as of the Effective Time as if
-made at and as of such time except for (A) changes contemplated by this
-Agreement, (B) those representations and warranties, that address matters only
-as of a particular date (which shall remain true and current as of such date)
-and (C) such exceptions in each case as would not have a Material Adverse
-Effect on Company; (iii) no Material Adverse Effect with respect to Company has
-occurred and (iv) Parent shall have received a certificate signed by the Chief
-Executive Officer and Chief Financial Officer of Company to the foregoing
-effect;
-
-   (b) Each of Elijahu Shapira and W. Glen Boyd shall have entered into
-employment agreements in form attached hereto as Exhibit D, and such agreements
-shall be in full force and effect.
-
-   Section 9.03. Conditions to the Obligations of the Company. The obligations
-of Company to consummate the Merger are subject to the satisfaction of the
-following further conditions:
-
-   (a) (i) Parent shall have performed in all material respects all of its
-obligations hereunder required to be performed by it at or prior to the
-Effective Time, (ii) the representations and warranties of Parent contained in
-
-                                      A-33
-
-this Agreement and in any certificate or other writing delivered by Parent
-pursuant hereto shall be true (disregarding each exception therein for
-materiality and Material Adverse Effect) at and as of the Effective Time as if
-made at and as of such time except for (A) changes contemplated by this
-Agreement, (B) those representations and warranties that address matters only
-as of a particular date (which shall remain true and correct as of such date)
-and (C) such exceptions in each case as would not have a Material Adverse
-Effect on Parent (iii) no Material Adverse Effect with respect to Parent has
-occurred and (iv) Company shall have received a certificate signed by the Chief
-Executive Officer and Chief Financial Officer of Parent to the foregoing
-effect;
-
-   (b) The shares of Parent Stock to be issued in the Merger shall have been
-listed on the Nasdaq National Market.
-
-                                   ARTICLE 10
-
-                                  Termination
-
-   Section 10.01. Termination. This Agreement may be terminated and the Merger
-may be abandoned at any time prior to the Effective Time, whether before or
-after approval of the Merger by the shareholders of Company or approval of the
-issuance of Parent Stock in connection with the Merger by the stockholders of
-Parent:
-
-   (a) by mutual written agreement of Company and Parent;
-
-   (b) by either Company or Parent, if:
-
-     (i) the Merger has not been consummated on or before June 30, 2001 (the
-  "End Date"), provided that the right to terminate this Agreement pursuant
-  to this Section 10.01(b)(i) shall not be available to any party whose
-  breach of any provision of this Agreement results in the failure of the
-  Merger to be consummated by such time;
-
-     (ii) there shall be any law or regulation that makes consummation of the
-  Merger illegal or otherwise prohibited or any judgment, injunction, order
-  or decree of any court or governmental body having competent jurisdiction
-  enjoining Company or Parent from consummating the Merger is entered and
-  such judgment, injunction, judgment or order shall have become final and
-  nonappealable;
-
-     (iii) this Agreement shall not have been approved and adopted in
-  accordance with Oregon Law by Company's shareholders at the Company
-  Shareholder Meeting (or any adjournment thereof); or
-
-     (iv) the issuance of Parent Stock in connection with the Merger shall
-  not have been approved by Parent's stockholders in accordance with Delaware
-  Law at the Parent Stockholder Meeting (or any adjournment thereof);
-
-   (c) by Parent, if:
-
-     (i) a breach of or failure to perform any representation, warranty,
-  covenant or agreement on the part of Company set forth in this Agreement
-  shall have occurred that would cause the condition set forth in Section
-  9.02(a) not to be satisfied, and such condition is incapable of being
-  satisfied by the End Date;
-
-     (ii) Company shall have willfully and materially breached its
-  obligations under Sections 6.02 and 6.03; or
-
-     (iii) as permitted by Section 6.03(b)(iv), the Board of Directors of
-  Company shall have failed to make or withdrawn, or modified in a manner
-  adverse to Parent, its approval or recommendation of this Agreement or the
-  Merger, or shall have failed to call the Company Shareholder Meeting in
-  accordance with Section 6.02;
-
-                                      A-34
-
-   (d) by Company, if a breach of or failure to perform any representation,
-warranty, covenant or agreement on the part of Parent or Merger Subsidiary set
-forth in this Agreement shall have occurred that would cause the condition set
-forth in Section 9.03(a) not to be satisfied, and such condition is incapable
-of being satisfied by the End Date.
-
-The party desiring to terminate this Agreement pursuant to this Section 10.01
-(other than pursuant to Section 10.01(a)) shall give notice of such termination
-to the other party.
-
-   Section 10.02. Effect of Termination. If this Agreement is terminated
-pursuant to Section 10.01, and except as provided in Section 11.04, this
-Agreement shall become void and of no effect without liability of any party (or
-any stockholder, director, officer, employee, agent, consultant or
-representative of such party) to the other party hereto, provided that, if such
-termination shall result from the willful (i) failure of either party to
-fulfill a condition to the performance of the obligations of the other party or
-(ii) failure of either party to perform a covenant hereof, such party shall be
-fully liable for any and all liabilities and damages incurred or suffered by
-the other party as a result of such failure. The provisions of this Section
-10.02 and Sections 8.07, 11.04, 11.06, 11.07 and 11.08 shall survive any
-termination hereof pursuant to Section 10.01.
-
-                                   ARTICLE 11
-
-                                 Miscellaneous
-
-   Section 11.01. Notices. All notices, requests and other communications to
-any party hereunder shall be in writing (including facsimile transmission) and
-shall be given,
-
-   if to Parent or Merger Subsidiary, to:
-
-      Chief Financial Officer
-      NetIQ Corporation
-      3553 North First Street
-      San Jose, CA 95134
-      Fax: (408) 330-0959
-
-      with a copy to:
-
-      William M. Kelly, Esq.
-      Davis Polk & Wardwell
-      1600 El Camino Real
-      Menlo Park, CA 94025
-      Fax: (650) 752-2111
-
-      if to Company, to:
-
-      WebTrends Corporation
-      851 SW Sixth Avenue
-      Suite 1200
-      Portland, OR 97204
-      Fax: (503) 294-7130
-
-      with a copy to:
-
-      Roy W. Tucker, Esq.
-      Perkins Coie LLP
-      1211 SW Fifth Avenue, Suite 1500
-      Portland OR 97204-3715
-      Fax: (503) 727-2222
-
-                                      A-35
-
-or such other address or facsimile number as such party may hereafter specify
-for the purpose by notice to the other parties hereto. All such notices,
-requests and other communications shall be deemed received on the date of
-receipt by the recipient thereof if received prior to 5 p.m., and such day is a
-business day, in the place of receipt. Otherwise, any such notice, request or
-communication shall be deemed not to have been received until the next
-succeeding business day in the place of receipt.
-
-   Section 11.02. Survival of Representations and Warranties. The
-representations and warranties and agreements contained herein and in any
-certificate or other writing delivered pursuant hereto shall not survive the
-Effective Time or the termination of this Agreement, except for the agreements
-that by their terms survive the Effective Time and as provided for in Section
-10.02 with respect to termination.
-
-   Section 11.03. Amendments; No Waivers. (a) Any provision of this Agreement
-may be amended or waived prior to the Effective Time if, but only if, such
-amendment or waiver is in writing and is signed, in the case of an amendment,
-by each party to this Agreement or, in the case of a waiver, by each party
-against whom the waiver is to be effective, provided that, after the adoption
-of this Agreement by the shareholders of Company and without their further
-approval, no such amendment or waiver shall reduce the amount or change the
-kind of consideration to be received in exchange for any shares of capital
-stock of Company.
-
-   (b) No failure or delay by any party in exercising any right, power or
-privilege hereunder shall operate as a waiver thereof nor shall any single or
-partial exercise thereof preclude any other or further exercise thereof or the
-exercise of any other right, power or privilege. The rights and remedies herein
-provided shall be cumulative and not exclusive of any rights or remedies
-provided by law.
-
-   Section 11.04. Expenses. (a) Except as otherwise provided in this Section,
-all costs and expenses incurred in connection with this Agreement shall be paid
-by the party incurring such cost or expense; provided, however, that Parent and
-Company shall share equally all fees and expenses, other than attorneys' and
-accountants' fees and expenses, incurred (i) in relation to the printing and
-filing of the Proxy Statement (including any preliminary materials related
-thereto) and the Registration Statement (including financial statements and
-exhibits) and any amendments or supplements thereto or (ii) for the pre-merger
-notification and report forms under the HSR Act (including such forms, if any,
-as may be required to be filed by any Company Shareholders).
-
-   (b) If a Payment Event (as hereinafter defined) occurs, Company shall pay
-Parent (by wire transfer of immediately available funds), if, pursuant to (x)
-below, simultaneously with the occurrence of such Payment Event or, if pursuant
-to (y) below, within two Business Days following such Payment Event, a fee of
-$41.0 million. If a Payment Event occurs, payment of the foregoing fee shall be
-the sole and exclusive remedy of Parent against Company in connection with this
-Agreement.
-
-   "Payment Event" means the termination of this Agreement pursuant to (x)
-Sections 10.01(b)(i) or 10.01(b)(iii) if, prior to any such termination, a
-Third Party shall have publicly announced an Acquisition Proposal or (y)
-Sections 10.01(c)(ii) or 10.01(c)(iii) if, prior to any such termination, a
-Third Party shall have made an Acquisition Proposal and, in any such case
-specified in clause (x) or (y), within 12 months following any such
-termination: (i) Company merges with or into, or is acquired, directly or
-indirectly, by merger or otherwise by, a Third Party, in any such case where
-the securities of the surviving or resulting entity issued in respect of the
-stock of the Company outstanding immediately prior to such transaction
-represent less than 50% of the outstanding securities of the surviving or
-resulting entity immediately after such transaction; (ii) a Third Party,
-directly or indirectly, acquires more than 50% of the total assets of Company
-and Company its Subsidiaries, taken as a whole; (iii) a Third Party, directly
-or indirectly, acquires more than 50% of the outstanding shares of Company
-Stock; or (iv) Company adopts or implements a plan of liquidation,
-recapitalization or share repurchase relating to more than 50% of the
-outstanding shares of Company Stock or an extraordinary dividend relating to
-more than 50% of such outstanding shares or 50% of the assets of Company and
-Company Subsidiaries, taken as a whole.
-
-                                      A-36
-
-   (c) Company acknowledges that the agreements contained in this Section 11.04
-are an integral part of the transactions contemplated by this Agreement and
-that, without these agreements, Parent and Merger Subsidiary would not enter
-into this Agreement. Accordingly, if Company fails promptly to pay any amount
-due to Parent pursuant to this Section 11.04, it shall also pay any costs and
-expenses incurred by Parent or Merger Subsidiary in connection with a legal
-action to enforce this Agreement that results in a judgment against Company for
-such amount.
-
-   Section 11.05. Successors and Assigns. The provisions of this Agreement
-shall be binding upon and inure to the benefit of the parties hereto and their
-respective successors and assigns, provided that no party may assign, delegate
-or otherwise transfer any of its rights or obligations under this Agreement
-without the consent of each other party hereto, except that Parent or Merger
-Subsidiary may transfer or assign, in whole or from time to time in part, to
-one or more of their wholly-owned subsidiaries, the right to enter into the
-transactions contemplated by this Agreement, but any such transfer or
-assignment will not relieve Parent or Merger Subsidiary of its obligations
-hereunder.
-
-   Section 11.06. Governing Law. This Agreement shall be governed by and
-construed in accordance with the laws of the State of Delaware.
-
-   Section 11.07. WAIVER OF JURY TRIAL. EACH OF THE PARTIES HERETO HEREBY
-IRREVOCABLY WAIVES ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING
-ARISING OUT OF OR RELATED TO THIS AGREEMENT, THE TRANSACTIONS CONTEMPLATED
-HEREBY OR THE ACTIONS OF THE PARTIES HERETO IN THE NEGOTIATION, ADMINISTRATION,
-PERFORMANCE AND ENFORCEMENT HEREOF.
-
-   Section 11.08. Counterparts; Effectiveness. This Agreement may be signed in
-any number of counterparts, each of which shall be an original, with the same
-effect as if the signatures thereto and hereto were upon the same instrument.
-This Agreement shall become effective when each party hereto shall have
-received counterparts hereof signed by all of the other parties hereto. Except
-as provided in Section 7.03, no provision of this Agreement is intended to
-confer any rights, benefits, remedies, obligations or liabilities hereunder
-upon any Person other than the parties hereto and their respective successors
-and assigns.
-
-   Section 11.09. Entire Agreement. This Agreement constitutes the entire
-agreement between the parties with respect to the subject matter of this
-Agreement and supersedes all prior agreements and understandings, both oral and
-written, between the parties with respect to the subject matter of this
-Agreement.
-
-   Section 11.10 Captions. The captions herein are included for convenience of
-reference only and shall be ignored in the construction or interpretation
-hereof.
-
-   Section 11.11 Severability. If any term, provision, covenant or restriction
-of this Agreement is held by a court of competent jurisdiction or other
-authority to be invalid, void or unenforceable, the remainder of the terms,
-provisions, covenants and restrictions of this Agreement shall remain in full
-force and effect and shall in no way be affected, impaired or invalidated so
-long as the economic or legal substance of the transactions contemplated hereby
-is not affected in any manner materially adverse to any party. Upon such a
-determination, the parties shall negotiate in good faith to modify this
-Agreement so as to effect the original intent of the parties as closely as
-possible in an acceptable manner so that the transactions contemplated hereby
-be consummated as originally contemplated to the fullest extent possible.
-
-   Section 11.12 Specific Performance. The parties hereto agree that
-irreparable damage would occur if any provision of this Agreement were not
-performed in accordance with the terms hereof and that the parties shall be
-entitled to an injunction or injunctions to prevent breaches of this Agreement
-or to enforce specifically the performance of the terms and provisions hereof,
-in addition to any other remedy to which they are entitled at law or in equity.
-
-                                      A-37
-
-   IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly
-executed by their respective authorized officers as of the day and year first
-above written.
-
-                                          WEBTRENDS CORPORATION
-
-                                                   /s/ Ching-Fa Hwang
-                                          By:__________________________________
-                                          Name: Ching-Fa Hwang
-                                          Title: President and Chief Executive
-                                           Officer
-
-                                          NETIQ CORPORATION
-
-                                                   /s/ Elijahu Shapira
-                                          By:__________________________________
-                                          Name: Elijahu Shapira
-                                          Title: Chief Executive Officer
-
-                                          NORTH ACQUISITION CORPORATION
-
-                                                    /s/ James A. Barth
-                                          By:_________________________________
-                                          Name: James A. Barth
-                                          Title: President
-
-                                      A-38
-
-                                                                         ANNEX B
-
-                                                                  EXECUTION COPY
-
-                                VOTING AGREEMENT
-
-   AGREEMENT, dated as of January 16, 2001 between NetIQ Corporation, a
-Delaware corporation ("Buyer"), and Elijahu Shapira, W. Glen Boyd (each, a
-"Founder") and Michael Burmeister-Brown ("Brown").  Each of the Founders and
-Brown are referred to individually herein as a "Shareholder" and together as
-the "Shareholders".
-
-   WHEREAS, in order to induce Buyer and North Acquisition Corporation, an
-Oregon corporation, to enter into an Agreement and Plan of Merger, dated as of
-the date hereof (the "Merger Agreement"), with WebTrends Corporation, an Oregon
-corporation (the "Company"), Buyer has requested Shareholders, and each
-Shareholder has agreed, to enter into this Agreement with respect to all shares
-of common stock, no par value per share, of the Company that Shareholder
-beneficially now owns or may hereafter acquire prior to the termination of this
-Agreement (the "Shares").
-
-   NOW, THEREFORE, the parties hereto agree as follows:
-
-                                   ARTICLE 1
-
-                        Grant of Proxy; Voting Agreement
-
-   Section 1.01. Voting Agreement. Each Shareholder hereby agrees to vote all
-Shares that Shareholder is entitled to vote at the time of any vote to approve
-and adopt the Merger Agreement, the Merger and all agreements related to the
-Merger and any actions related thereto (the "Company Approval Matters") at any
-meeting of the shareholders of the Company, and at any adjournment thereof, at
-which such Merger Agreement and other related agreements (or any amended
-version thereof), or such other actions, are submitted for the consideration
-and vote of the shareholders of the Company. Each Shareholder hereby agrees
-that it will vote any Shares in such manner as Buyer may direct with respect to
-all other proposals submitted to the Company's Shareholders that relates to the
-Company Approval Matters. Notwithstanding any provision of this Agreement to
-the contrary, nothing in this Agreement shall limit or restrict any Shareholder
-from acting in such Shareholder's capacity as a director or officer of the
-Company (it being understood that this Agreement shall apply to Shareholder
-solely in Shareholder's capacity as a Shareholder of the Company) or voting in
-such Shareholder's sole discretion on any matter other than those matters
-referred to in this Section 1.01.
-
-   Section 1.02. Irrevocable Proxy. Each Shareholder hereby revokes any and all
-previous proxies granted with respect to the Shares. By entering into this
-Agreement, each Shareholder hereby grants a proxy appointing Buyer as the
-Shareholder's attorney-in-fact and proxy, with full power of substitution, for
-and in the Shareholder's name, to vote, express consent, or otherwise to
-utilize such voting power with respect to the Shares, solely for the purposes
-and in the circumstances described in the first two sentences of Section 1.01
-above. The proxy granted by each Shareholder pursuant to this Article 1 is
-irrevocable and is granted in consideration of Buyer entering into this
-Agreement and the Merger Agreement and incurring certain related fees and
-expenses, provided, however, that the proxy granted by this Article 1 shall be
-automatically revoked to the extent necessary to comply with paragraph (f) of
-Rule 144 under the Securities Act of 1933 or the rules of the Nasdaq Stock
-Market in connection with Permitted Sales, as set forth below, but only with
-respect to Shares sold in such Permitted Sales. The proxy granted by each
-Shareholder shall be revoked upon termination of this Agreement in accordance
-with its terms.
-
-                                      B-1
-
-                                   ARTICLE 2
-
-                Representations and Warranties of Shareholders
-
-   Each Shareholder severally represents and warrants to Buyer, solely with
-respect to such Shareholder, that:
-
-   Section 2.01. Authorization. If a Shareholder is married and the Shares set
-forth on the signature page hereto opposite such Shareholder's name constitute
-community property under applicable laws, this Agreement has been duly
-authorized, executed and delivered by, and constitutes the valid and binding
-agreement of, such Shareholder's spouse. If this Agreement is being executed
-in a representative or fiduciary capacity, the Person signing this Agreement
-has full power and authority to enter into and perform this Agreement.
-
-   Section 2.02. Non-Contravention. The execution, delivery and performance by
-each Shareholder of this Agreement and the consummation of the transactions
-contemplated hereby do not and will not (i) violate any applicable law, rule,
-regulation, judgment, injunction, order or decree, (ii) require any consent or
-other action by any Person under any agreement or other instrument binding on
-Shareholder or (iii) result in the imposition of any Lien on the shares
-beneficially owned by such Shareholder.
-
-   Section 2.03. Ownership of Shares. Each Shareholder is the record and
-beneficial owner of the Shares, free and clear of any Lien and any other
-limitation or restriction (including any restriction on the right to vote or
-otherwise dispose of the Shares). None of the Shares is subject to any voting
-trust or other agreement or arrangement with respect to the voting of such
-Shares.
-
-   Section 2.04. Total Shares. Except for the Shares set forth on the
-signature page hereto, each Shareholder does not beneficially own any (i)
-shares of capital stock or voting securities of the Company, (ii) securities
-of the Company convertible into or exchangeable for shares of capital stock or
-voting securities of the Company or (iii) options or other rights to acquire
-from the Company any capital stock, voting securities or securities
-convertible into or exchangeable for capital stock or voting securities of the
-Company. The shares of common stock of the Company owned or held of record as
-of the date hereof by trusts or foundations created by Shareholder shall be
-deemed not beneficially owned by Shareholder and may be excluded from the
-Shares set forth on the signature page hereto.
-
-   Section 2.05. Finder's Fees. No investment banker, broker, finder or other
-intermediary is entitled to a fee or commission from Buyer or the Company in
-respect of this Agreement based upon any arrangement or agreement made by or
-on behalf of any Shareholder.
-
-                                   ARTICLE 3
-
-                    Representations and Warranties of Buyer
-
-   Buyer represents and warrants to each Shareholder:
-
-   Section 3.01. Corporate Authorization. The execution, delivery and
-performance by Buyer of this Agreement and the consummation by Buyer of the
-transactions contemplated hereby are within the corporate powers of Buyer and
-have been duly authorized by all necessary corporate action. This Agreement
-constitutes a valid and binding Agreement of Buyer.
-
-   Section 3.02. Non-Contravention. The execution, delivery and performance by
-Buyer of this Agreement and the consummation of the transactions contemplated
-hereby do not and will not (i) violate any applicable law, rule, regulation,
-judgment, injunction, order or decree or (ii) require any consent or other
-action by any Person under any provision of any agreement or other instrument
-binding on Buyer.
-
-                                      B-2
-
-                                   ARTICLE 4
-
-                            Covenants of Shareholder
-
-   Shareholder hereby covenants and agrees that:
-
-   Section 4.01. No Proxies for or Encumbrances on Shares. Except pursuant to
-the terms of this Agreement, each Shareholder shall not, without the prior
-written consent of Buyer, directly or indirectly, (i) grant any proxies or
-enter into any voting trust or other agreement or arrangement with respect to
-the voting of any Shares or (ii) sell, assign, transfer, encumber or otherwise
-dispose of, or enter into any contract, option or other arrangement or
-understanding with respect to the direct or indirect sale, assignment,
-transfer, encumbrance or other disposition of, any Shares during the term of
-this Agreement, provided, however, that from and after the date 48 hours after
-the filing of the initial Registration Statement on Form S-4 to be filed by
-Buyer in connection with the Merger through and until the closing of the
-Merger, (i) each Founder may sell up to 300,000 Shares and (ii) Brown may sell
-up to 64,000 shares, provided further all sales made pursuant to the foregoing
-proviso ("Permitted Sales") be made in compliance with and in reliance upon
-Rule 144 under the Securities Act of 1933. Notwithstanding the foregoing,
-Shares may be transferred (i) by a Shareholder to a family member or a trust
-for the benefit of such Shareholder or such Shareholder's family member or
-(ii) pursuant to such Shareholder's will or the laws of interstate succession,
-provided the recipients of the Shares agree in writing with Buyer to be bound
-by the terms and conditions of this Agreement.
-
-   Section 4.02. Appraisal Rights. Each Shareholder agrees not to exercise any
-rights (including, without limitation, under Section 60.587 of Oregon Law) to
-demand appraisal of any Shares which may arise with respect to the Merger.
-
-   Section 4.03. Other Offers. Each Shareholder hereby agrees to be bound by
-the restrictions set forth in Section 6.03 of the Merger Agreement.
-
-                                   ARTICLE 5
-
-                                 Miscellaneous
-
-   Section 5.01. Additional Documents. Buyer and each Shareholder will each
-execute and deliver, or cause to be executed and delivered, all further
-documents and instruments necessary, proper or advisable under applicable laws
-and regulations, to carry out the intent of this Agreement.
-
-   Section 5.02. Amendments; Termination. Any provision of this Agreement may
-be amended or waived if, but only if, such amendment or waiver is in writing
-and is signed, in the case of an amendment, by each party to this Agreement or
-in the case of a waiver, by the party against whom the waiver is to be
-effective. This Agreement shall terminate upon the earlier of the Effective
-Time and the termination of the Merger Agreement in accordance with its terms.
-
-   Section 5.03. Successors and Assigns. The provisions of this Agreement shall
-be binding upon and inure to the benefit of the parties hereto and their
-respective successors and assigns; provided that no party may assign, delegate
-or otherwise transfer any of its rights or obligations under this Agreement
-without the consent of the other parties hereto, except that Buyer may transfer
-or assign its rights and obligations to any wholly-owned subsidiary of Buyer.
-The Shareholders shall not be required to assign their obligations hereunder to
-transferees in Permitted Sales (nor shall such transferees be obligated to
-assume such obligations).
-
-   Section 5.04. Governing Law. This Agreement shall be construed in accordance
-with and governed by the laws of the State of Delaware.
-
-   Section 5.05. Counterparts; Effectiveness. This Agreement may be signed in
-any number of counterparts, each of which shall be an original, with the same
-effect as if the signatures thereto and hereto were upon the same instrument.
-This Agreement shall become effective when each party hereto shall have
-received counterparts hereof signed by all of the other parties hereto.
-
-                                      B-3
-
-   Section 5.06. Severability. If any term, provision or covenant of this
-Agreement is held by a court of competent jurisdiction or other authority to be
-invalid, void or unenforceable, the remainder of the terms, provisions and
-covenants of this Agreement shall remain in full force and effect and shall in
-no way be affected, impaired or invalidated.
-
-   Section 5.07. Specific Performance. The parties hereto agree that
-irreparable damage would occur in the event any provision of this Agreement is
-not performed in accordance with the terms hereof and that the parties shall be
-entitled to specific performance of the terms hereof in addition to any other
-remedy to which they are entitled at law or in equity.
-
-   Section 5.08. Capitalized Terms. Capitalized terms used but not defined
-herein shall have the respective meanings set forth in the Merger Agreement.
-
-   IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly
-executed as of the day and year first above written.
-
-                                          NETIQ CORPORATION
-
-                                                     /s/ Ching-Fa Hwang
-                                          By: _________________________________
-                                          Name: Ching-Fa Hwang
-                                          Title: President and Chief Executive
-                                           Officer
-
-                                      B-4
-
-                                          ELIJAHU SHAPIRA
-
-                                          /s/ Elijahu Shapira
-                                          -------------------------------------
-
-   Class of Stock                                                   Shares Owned
-   --------------                                                   ------------
-
-   Common..........................................................  3,680,500
-
-                                      B-5
-
-                                                      W. GLEN BOYD
-
-                                                   /s/ W. Glen Boyd
-                                          -------------------------------------
-
-   Class of Stock                                                   Shares Owned
-   --------------                                                   ------------
-
-   Common..........................................................  3,680,500
-
-                                      B-6
-
-                                          MICHAEL BURMEISTER-BROWN
-
-                                          /s/ Michael Burmeister-Brown
-                                          -------------------------------------
-
-   Class of Stock                                                   Shares Owned
-   --------------                                                   ------------
-
-   Common..........................................................   536,054
-
-                                      B-7
-
-                                                                         ANNEX C
-
-             [LETTERHEAD OF CREDIT SUISSE FIRST BOSTON CORPORATION]
-
-January 16, 2001
-
-Board of Directors
-NetIQ Corporation
-3553 North First Street
-San Jose, CA 95134
-
-Members of the Board:
-
-   You have asked us to advise you with respect to the fairness, from a
-financial point of view, to NetIQ Corporation ("NetIQ") of the Exchange Ratio
-(as defined below) set forth in the Agreement and Plan of Merger, dated as of
-January 16, 2001 (the "Agreement"), among NetIQ, North Acquisition Corporation,
-a wholly owned subsidiary of NetIQ ("Merger Sub"), and WebTrends Corporation
-("WebTrends"). The Agreement provides for, among other things, the merger of
-Merger Sub with and into WebTrends (the "Merger") pursuant to which the
-surviving corporation of such merger will become a wholly subsidiary of NetIQ
-and each outstanding share of the common stock, no par value, of WebTrends
-("WebTrends Common Stock") will be converted into the right to receive 0.48
-(the "Exchange Ratio") of a share of the common stock, par value $0.001 per
-share, of NetIQ (the "NetIQ Common Stock").
-
-   In arriving at our opinion, we have reviewed the Agreement and certain
-related documents, and certain publicly available business and financial
-information relating to NetIQ and WebTrends. We have also reviewed certain
-other information relating to NetIQ and WebTrends, including financial
-forecasts, provided to or discussed with us by NetIQ and WebTrends, and have
-met with the managements of NetIQ and WebTrends to discuss the businesses and
-prospects of NetIQ and WebTrends, including the ability to integrate the
-businesses of NetIQ and WebTrends. We have also considered certain financial
-and stock market data of NetIQ and WebTrends, and we have compared those data
-with similar data for other publicly held companies in businesses similar to
-NetIQ and WebTrends, and we have considered, to the extent publicly available,
-the financial terms of certain other business combinations and other
-transactions which have recently been effected or announced. We also considered
-such other information, financial studies, analyses and investigations and
-financial, economic and market criteria which we deemed relevant.
-
-   In connection with our review, we have not assumed any responsibility for
-independent verification of any of the foregoing information and have relied on
-such information being complete and accurate in all material respects. With
-respect to the financial forecasts that we have reviewed, the managements of
-NetIQ and WebTrends have reviewed publicly available financial forecasts for
-NetIQ and WebTrends, respectively, and have advised us, and we have assumed,
-that such publicly available forecasts represent reasonable estimates and
-judgments as to the future financial performance of NetIQ and WebTrends,
-respectively. In addition, we have relied upon, without independent
-verification, the assessment of the managements of NetIQ and WebTrends as to
-WebTrends's existing technology and products, the validity of, and risks
-associated with, WebTrends's future technology and products, and the ability to
-integrate the businesses of NetIQ and WebTrends. You have also informed us, and
-we have assumed, that the Merger will be treated as a tax-free reorganization
-for federal income tax purposes. We have not been requested to make, and have
-not made, an independent evaluation or appraisal of the assets or liabilities
-(contingent or otherwise) of NetIQ or WebTrends, nor have we been furnished
-with any such evaluations or appraisals. Our opinion is necessarily based upon
-information available to us, and financial, economic, market and other
-conditions as they exist and can be evaluated on the date hereof. We are not
-expressing any opinion as to what the value of the NetIQ Common Stock actually
-will be when issued pursuant to the Merger or the prices at which shares of
-NetIQ Common Stock will trade at any time.
-
-                                      C-1
-
-Board of Directors
-NetIQ Corporation
-January 16, 2001
-Page 2
-
-   We have acted as financial advisor to NetIQ in connection with the Merger
-and will receive a fee for our services, a significant portion of which is
-contingent upon the consummation of the Merger. We will also receive a fee upon
-delivery of this opinion. We have in the past provided financial and investment
-banking services to NetIQ for which we have received compensation. In the
-ordinary course of business, Credit Suisse First Boston and its affiliates may
-actively trade the securities of NetIQ and WebTrends for their own accounts and
-for the accounts of customers and, accordingly, may at any time hold long or
-short positions in such securities.
-
-   It is understood that this letter is for the information of the Board of
-Directors of NetIQ in connection with its evaluation of the Merger and does not
-constitute a recommendation to any stockholder as to how such stockholder
-should vote or act on any matter relating to the Merger.
-
-   Based upon and subject to the foregoing, it is our opinion that, as of the
-date hereof, the Exchange Ratio is fair, from a financial point of view, to
-NetIQ.
-
-Very truly yours,
-
-CREDIT SUISSE FIRST BOSTON CORPORATION
-
-By:    /s/ David A. Popowitz
-    _________________________________
-           David A. Popowitz
-           Managing Director
-
-                                      C-2
-
-                                                                         ANNEX D
-
-                     [LETTERHEAD OF DAIN RAUSCHER WESSELS,
-                   A DIVISION OF DAIN RAUSCHER INCORPORATED]
-
-January 16, 2001
-
-The Board of Directors
-WebTrends Corporation
-851 SW 6th Avenue
-Portland, OR 97204-3813
-
-Members of the Board:
-
-   You have requested our opinion as to the fairness, from a financial point of
-view, to the holders of the common stock of WebTrends Corporation, an Oregon
-corporation (the "Company"), of the exchange ratio set forth in the proposed
-Agreement and Plan of Merger (the "Agreement"), by and among NetIQ Corporation,
-a Delaware corporation (the "Acquiror"), North Acquisition Corp., an Oregon
-corporation and wholly owned subsidiary of the Acquiror ("Merger Sub"), and the
-Company. Pursuant to the Agreement, Merger Sub will merge (the "Merger") into
-the Company. Capitalized terms used herein shall have the meanings used in the
-Agreement unless otherwise defined herein.
-
-   Pursuant to the Agreement, each outstanding share of common stock of the
-Company (the "Company Common Stock") is proposed to be converted into 0.48
-shares (the "Exchange Ratio") of common stock of the Acquiror (the "Acquiror
-Common Stock"). Options of the Company will be converted into options of the
-Acquiror based on the Exchange Ratio. The transaction is intended to qualify as
-a tax-free reorganization under the provisions of Section 368(a) of the
-Internal Revenue Code and to be accounted for as a purchase for financial
-accounting purposes. The terms and conditions of the Merger and the Exchange
-Ratio are set forth more fully in the Agreement.
-
-   Dain Rauscher Wessels, a division of Dain Rauscher Incorporated ("Dain
-Rauscher Wessels"), as part of its investment banking services, is regularly
-engaged in the valuation of businesses and their securities in connection with
-mergers and acquisitions, corporate restructurings, underwritings, secondary
-distributions of listed and unlisted securities, private placements and
-valuations for corporate and other purposes.
-
-   We are acting as financial advisor to the Company in connection with the
-Merger, and we will receive a fee for our services, a portion of which is
-contingent upon the consummation of the Merger. We will also receive a fee for
-providing this opinion. The opinion fee is not contingent upon the consummation
-of the Merger. In addition, the Company has agreed to indemnify us for certain
-liabilities arising out of our engagement. In the ordinary course of business,
-Dain Rauscher Wessels may act as a market maker and broker in the publicly
-traded securities of the Company and receives customary compensation in
-connection therewith, and also actively trades securities of the Company for
-its own account and the accounts of its customers, and, accordingly, may hold a
-long or short position in such securities. Similarly, in the ordinary course of
-business, Dain Rauscher Wessels may also act as a market maker and broker in
-the publicly traded securities of the Acquiror and receives customary
-compensation in connection therewith, and also actively trades securities of
-the Acquiror for its own account and the accounts of its customers, and,
-accordingly, may hold a long or short position in such securities.
-
-   In connection with our review of the Merger, and in arriving at our opinion,
-we have: (i) reviewed the financial terms of the draft Agreement dated January
-14, 2001; (ii) reviewed and analyzed certain publicly available financial and
-other data with respect to the Company and Acquiror and certain other
-historical relevant operating data relating to the Company and Acquiror made
-available to us from published sources and from the internal records of the
-Company and Acquiror; (iii) conducted discussions with members of the senior
-
-                                      D-1
-
-The Board of Directors
-WebTrends Corporation
-January 16, 2001
-Page 2
-
-management of the Company with respect to the business prospects and financial
-outlook of the Company and the combined company; (iv) conducted discussions
-with members of the senior management of the Acquiror with respect to the
-business prospects and financial outlook of the Acquiror and the combined
-company; (v) received and reviewed financial forecasts prepared by the
-Company's management and the Acquiror's management on the potential future
-performance of the Company and the Acquiror, respectively, each on a stand
-alone basis; (vi) reviewed the reported prices and trading activity for the
-Company Common Stock and the Acquiror Common Stock; (vii) compared the premium
-implied by the Exchange Ratio with the premiums paid in selected precedent
-transactions; (viii) compared each company's relative contribution to various
-income statement parameters with their pro-forma ownership in the combined
-company; (ix) considered the projected pro forma effect of the Merger on
-Acquiror's earnings per share; and (xi) reviewed the financial terms, to the
-extent publicly available, of selected precedent transactions. The Company did
-not provide us with forecasted financial information beyond December 31, 2001
-and, as a result of the limited forecast, we were unable to employ a discounted
-cash flow analysis.
-
-   With respect to the data and discussions relating to the business prospects
-and financial outlook of the Company and the Acquiror, upon advice of the
-Company and Acquiror we have assumed that such data has been reasonably
-prepared on a basis reflecting the best currently available estimates and
-judgments of the management of the Company and Acquiror as to the future
-financial performance of the Company and the Acquiror, and that the Company and
-the Acquiror will perform substantially in accordance with such financial data
-and estimates. We express no opinion as to such financial data and estimates or
-the assumptions on which they were based.
-
-   In rendering our opinion, we have assumed and relied upon the accuracy and
-completeness of the financial, legal, tax, operating and other information
-provided to us by the Company and the Acquiror (including, without limitation,
-the financial statements and related notes thereto of the Company and the
-Acquiror), and have not assumed responsibility for independently verifying and
-have not independently verified such information. We have not assumed any
-responsibility to perform, and have not performed, an independent evaluation or
-appraisal of any of the respective assets or liabilities of the Company or the
-Acquiror, and we have not been furnished with any such valuations or
-appraisals. In addition, we have not assumed any obligation to conduct, and
-have not conducted, any physical inspection of the property or facilities of
-the Company or the Acquiror. Our opinion relates to the Company as a going
-concern and, accordingly, we express no opinion based on its liquidation value.
-Additionally, we have not been asked and did not consider the possible effects
-of any litigation or other legal claims.
-
-   We have assumed that the Merger will be accounted for by the Acquiror as a
-purchase transaction under generally accepted accounting principles and will
-qualify as a tax-free reorganization for U.S. federal income tax purposes. In
-addition, in arriving at our opinion, we have assumed that, in the course of
-obtaining the necessary regulatory approvals for the Merger, no restrictions,
-including any divestiture requirements, will be imposed that would have a
-material effect on the contemplated benefits of the Merger.
-
-   Our opinion speaks only as of the date hereof, is based on the conditions as
-they exist and information which we have been supplied as of the date hereof,
-and is without regard to any market, economic, financial, legal or other
-circumstances or event of any kind or nature which may exist or occur after
-such date.
-
-   Our advisory services and the opinion expressed herein are provided for the
-information and assistance of the Board of Directors of the Company in
-connection with the transactions contemplated by the Agreement and does not
-constitute a recommendation to any stockholder as to how such stockholder
-should vote with respect
-
-                                      D-2
-
-The Board of Directors
-WebTrends Corporation
-January 16, 2001
-Page 3
-
-to the Merger. This opinion shall not be otherwise published or used, nor shall
-any public references to us be made, without our prior written consent, except
-for publication in any proxy statement related to the Merger.
-
-   Our opinion does not address the merits of the underlying decision by the
-Company to engage in the Merger or the relative merits of the Merger compared
-to any alternative business strategy or transaction in which the Company might
-engage.
-
-   Our opinion addresses solely the fairness of the Exchange Ratio to the
-holders of Company Common Stock in the Merger. Our opinion does not in any way
-address other Merger terms or arrangements, including, without limitation, the
-financial or other terms of any stock option agreement, employment or non-
-competition agreement. We are not expressing any opinion herein as to the
-prices at which Company Common Stock or Acquiror Common Stock have traded or
-may trade following the announcement or consummation of the Merger.
-
-   Based on our experience as investment bankers and subject to the foregoing,
-including the various assumptions and limitations set forth herein, it is our
-opinion that, as of the date hereof, the Exchange Ratio is fair, from a
-financial point of view, to the holders of Company Common Stock.
-
-                                          Very truly yours,
-
-                                          Dain Rauscher Wessels,
-                                          a division of Dain Rauscher
-                                           Incorporated
-
-                                      D-3
-
-                                                                         ANNEX E
-
-                            CERTIFICATE OF AMENDMENT
-
-                                       OF
-
-                   THE RESTATED CERTIFICATE OF INCORPORATION
-
-                                       OF
-
-                               NETIQ CORPORATION
-
-                     Pursuant to Section 242 of the General
-                    Corporation Law of the State of Delaware
-
-                                       *****
-
-   NetIQ Corporation, a Delaware corporation (hereinafter called the
-"Corporation"), does hereby certify as follows:
-
-   FIRST: Article IV of the Corporation's Certificate of Incorporation, as
-amended to date, is hereby amended to read in its entirety as set forth below:
-
-     "Article IV. This Corporation is authorized to issue two classes of
-  stock to be designated, respectively, Common Stock and Preferred Stock. The
-  total number of shares of Common Stock which the Corporation is authorized
-  to issue is 250,000,000, $0.001 par value, and the total number of shares
-  of Preferred Stock the Corporation is authorized to issue is 5,000,000,
-  $0.001 par value. The Preferred Stock may be issued from time to time in
-  one or more series pursuant to a resolution or resolutions providing for
-  such issue duly adopted by the Board of Directors (authority to do so being
-  hereby expressly vested in the Board). The Board of Directors is further
-  authorized to determine or alter the rights, preferences, privileges and
-  restrictions granted to or imposed upon any wholly unissued series of
-  Preferred Stock and to fix the number of shares of any series of Preferred
-  Stock and the designation of any such series of Preferred Stock. The Board
-  of Directors, within the limits and restrictions stated in any resolution
-  or resolutions of the Board of Directors originally fixing the number of
-  shares constituting any series, may increase or decrease (but not below the
-  number of shares in any such series then outstanding), the number of shares
-  of any series subsequent to the issue of shares of that series."
-
-   SECOND: The foregoing amendment was duly adopted in accordance with Section
-242 of the General Corporation Law of the State of Delaware.
-
-   IN WITNESS WHEREOF, NetIQ Corporation has caused this Certificate to be duly
-executed in its corporate name this     day of        .
-
-                                          NETIQ CORPORATION
-
-                                          By:
-                                             ----------------------------------
-                                             Name: Ching-Fa Hwang
-                                             Title: President
-
-                                      E-1
-
-                                                                 1837-S4-01
-
-                                    PART II
-
-                     INFORMATION NOT REQUIRED IN PROSPECTUS
-
-Item 20. Indemnification of Directors and Officers.
-
-   Indemnification. Section 145 of the Delaware Law permits a corporation to
-indemnify any of its directors, officers, employees or agents who was or is a
-party, or is threatened to be made a party to any third party proceeding by
-reason of the fact that such person is or was a director, officer, employee or
-agent of the corporation, or is or was serving at the request of the
-corporation as a director, officer, employee or agent of another corporation or
-firm, against expenses (including attorneys' fees), judgments, fines and
-amounts paid in settlement actually and reasonably incurred by such person in
-connection with such action, suit or proceeding, if such person acted in good
-faith and in a manner such person reasonably believed to be in and not opposed
-to the best interests of the corporation, and, with respect to any criminal
-action or proceeding, had no reason to believe that such person's conduct was
-unlawful. In a derivative action, i.e., one by or in the right of a
-corporation, the corporation is permitted to indemnify any of its directors,
-officers, employees or agents against expenses (including attorneys' fees)
-actually and reasonably incurred by the person in connection with the defense
-or settlement of an action or suit if the person acted in good faith and in a
-manner that he or she reasonably believed to be in or not opposed to the best
-interests of the corporation, except that no indemnification shall be made if
-such person shall have been adjudged liable to the corporation, unless and only
-to the extent that the court in which the action or suit was brought shall
-determine upon application that such person is fairly and reasonably entitled
-to indemnity for such expenses despite the adjudication of liability. The NetIQ
-certificate of incorporation and bylaws provide for indemnification of
-directors, officers, employees or agents for any liability incurred in their
-official capacity to the fullest extent permissible under Delaware Law.
-
-   Insurance. The directors and officers of NetIQ are insured under a customary
-policy of directors' and officers' liability insurance.
-
-   Merger Agreement Provisions Relating to WebTrends Directors and
-Officers. The merger agreement provides that, for six years after the effective
-time of the merger, NetIQ will indemnify and hold harmless each person who was
-a director or officer of WebTrends at or prior to the date of the merger
-agreement from their acts or omissions in those capacities occurring at or
-prior to the effective time to the same extent these persons are indemnified
-and held harmless under the WebTrends' articles of incorporation and bylaws or
-under Oregon law in effect of date of the merger agreement. In addition, NetIQ
-has agreed to provide, for the same six-year period, an insurance and
-indemnification policy that grants WebTrends' officers and directors in office
-immediately prior to the effective time of the merger coverage no less
-favorable than WebTrends' policy in effect as of the date of the merger
-agreement, provided, however, that in satisfying such obligation NetIQ shall
-not be obligated to pay annual premiums in excess of $1.0 million. NetIQ has
-agreed to make arrangements for the assumption of these obligations in the
-event of a subsequent merger or sale of NetIQ or WebTrends.
-
-                                      II-1
-
-Item 21. Exhibits and Financial Statement Schedules.
-
-   (a) List of Exhibits
-
- Exhibit
- Number                                Description
- ------- ----------------------------------------------------------------------
-
-  2(a)+  Agreement and Plan of Merger dated as of January 16, 2001 among NetIQ,
-         WebTrends and North Acquisition Corporation (included as Annex A to
-         the Joint Proxy Statement/Prospectus contained in this Registration
-         Statement).
-
-  2(b)+  Voting Agreement dated as of January 16, 2001 between NetIQ and
-         Elijahu Shapira, W. Glen Boyd and Michael Burmeister-Brown (included
-         as Annex B to the Joint Proxy Statement/Prospectus contained in this
-         Registration Statement)
-
-  3(a)+  Restated Certificate of Incorporation of NetIQ.
-
-  3(b)+  Certificate of Amendment to Certificate of Incorporation of NetIQ
-         (included as Annex E to the Joint Proxy Statement/Prospectus contained
-         in this Registration Statement)
-
-  3(c)+  Restated Bylaws of NetIQ.
-
-  4(a)+  Specimen Common Stock Certificate (incorporated by reference to
-         exhibit 4.1 of NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
-  4(b)+  Registration Rights Agreement dated as of May 14, 1997 by and among
-         NetIQ and certain NetIQ stockholders identified therein (incorporated
-         by reference to exhibit 4.2 of NetIQ's Registration Statement on Form
-         S-1, declared effective July 29, 1999).
-
-  5+     Opinion of Davis Polk & Wardwell regarding the validity of the
-         securities being registered.
-
-  8(a)   Opinion of Davis Polk & Wardwell regarding certain federal income tax
-         consequences relating to the merger.
-
-  8(b)   Opinion of Perkins Coie LLP regarding certain federal income tax
-         consequences relating to the merger.
-
- 10.1+   Form of Indemnification Agreement between NetIQ and each of its
-         directors and executive officers (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 10.2+   Form of Change of Control Severance Agreements between NetIQ and each
-         of its executive officers (incorporated by reference to the exhibit of
-         the same number filed with NetIQ's Registration Statement on Form S-1,
-         declared effective July 29, 1999).
-
- 10.3A+  Amended and Restated 1995 Stock Plan (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 10.3B+  Form of Stock Option Agreement under the Amended and Restated Stock
-         Plan (incorporated by reference to the exhibit of the same number
-         filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.3C+  Form of Director Option Agreement under the 1995 Amended and Restated
-         Stock Plan (incorporated by reference to the exhibit of the same
-         number filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.4A+  1999 Employee Stock Purchase Plan (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 10.4B+  Form of Subscription Agreement under the 1999 Employee Stock Purchase
-         Plan (incorporated by reference to the exhibit of the same number
-         filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
-                                      II-2
-
- Exhibit
- Number                                Description
- ------- ----------------------------------------------------------------------
-
- 10.5A*+ BasicScript License Agreement, dated August 27, 1996, between NetIQ
-         and Henneberry Hill Technologies Corporation doing business as Summit
-         Software Company (incorporated by reference to the exhibit of the same
-         number filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.5B+  Amendment, dated May 21, 1999, to the BasicScript License Agreement
-         between NetIQ and Henneberry Hill Technologies Corporation doing
-         business as Summit Software Company (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 10.6*+  Software Distribution Agreement, dated June 23, 1998, between NetIQ
-         and Tech Data Product Management, Inc. (incorporated by reference to
-         the exhibit of the same number filed with NetIQ's Registration
-         Statement on Form S-1, declared effective July 29, 1999).
-
- 10.7+   Agreement of Sublease, dated July 31, 1998, between NetIQ and AMP
-         Incorporated (incorporated by reference to the exhibit of the same
-         number filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.8+   Confidential Settlement Agreement, dated March 10, 1999, by and
-         between Compuware Corporation, NetIQ Corporation, and the individuals
-         named therein (incorporated by reference to the exhibit of the same
-         number filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.9+   Purchase and Sale Agreement, dated July 24, 2000, between NetIQ and
-         TMG North First Associates, L.P. (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Quarterly Report on Form
-         10-Q filed November 14, 2000).
-
- 10.10*+ License, Development and Marketing Agreement, dated September 25,
-         2000, between NetIQ and Microsoft Corporation (incorporated by
-         reference to the exhibit of the same number filed with NetIQ's
-         Quarterly Report on Form 10-Q filed November 14, 2000).
-
- 10.11+  Employment Agreement, dated January 16, 2001, by and between NetIQ,
-         WebTrends, and Elijahu Shapira.
-
- 21+     Subsidiaries of the Registrant (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 23(a)   Consent of Deloitte & Touche LLP.
-
- 23(b)   Consent of KPMG LLP.
-
- 23(c)   Consent of Ernst & Young LLP.
-
- 23(d)   Consent of PricewaterhouseCoopers LLP.
-
- 23(e)+  Consent of Davis Polk & Wardwell (included in the opinion filed as
-         Exhibit 5 to this Registration Statement).
-
- 23(f)   Consent of Davis Polk & Wardwell (included in the opinion filed as
-         Exhibit 8(a) to this Registration Statement).
-
- 23(g)   Consent of Perkins Coie LLP (included in the opinion filed as Exhibit
-         8(b) to this Registration Statement).
-
- 24+     Power of Attorney
-
- 99(a)   Form of NetIQ Proxy Card.
-
- 99(b)+  Form of WebTrends Proxy Card.
-
-                                      II-3
-
- Exhibit
- Number                      Description
- ------- --------------------------------------------------
-
- 99(c)+  Consent of Credit Suisse First Boston Corporation.
-
- 99(d)+  Consent of Dain Rauscher Wessels
-
- 99(e)   Consent of Elijahu Shapira
-
-- --------
-*  Subject to Confidential Treatment.
-
-+  Previously filed.
-
-   (b) The opinions of Credit Suisse First Boston Corporation and Dain Rauscher
-Wessels are included as Annex C and Annex D, respectively, to the Joint Proxy
-Statement/Prospectus contained in this Registration Statement.
-
-Item 22. Undertakings.
-
-   (a) The undersigned Registrant hereby undertakes:
-
-     (1) That prior to any public reoffering of the securities registered
-  hereunder through use of a prospectus which is a part of this registration
-  statement, by any person or party who is deemed to be an underwriter within
-  the meaning of Rule 145(c), such reoffering prospectus will contain the
-  information called for by the applicable registration form with respect to
-  reofferings by persons who may be deemed underwriters, in addition to the
-  information called for by the other items of the applicable form.
-
-     (2) That every prospectus (i) that is filed pursuant to paragraph (1)
-  immediately preceding, or (ii) that purports to meet the requirements of
-  Section 10(a)(3) of the Securities Act of 1933 and is used in connection
-  with an offering of securities subject to Rule 415, will be filed as a part
-  of an amendment to the registration statement and will not be used until
-  such amendment is effective, and that, for purposes of determining any
-  liability under the Securities Act of 1933, each such post-effective
-  amendment shall be deemed to be a new registration statement relating to
-  the securities offered therein, and the offering of such securities at that
-  time shall be deemed to be the initial bona fide offering thereof.
-
-     (3) That, for purposes of determining any liability under the Securities
-  Act of 1933, each filing of the Registrant's annual report pursuant to
-  Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (and, where
-  applicable, each filing of an employee benefit plan's annual report
-  pursuant to Section 15(d) of the Securities Exchange Act of 1934) that is
-  incorporated by reference in the registration statement shall be deemed to
-  be a new registration statement relating to the securities offered therein,
-  and the offering of such securities at that time shall be deemed to be the
-  initial bona fide offering thereof.
-
-     (4) To respond to requests for information that is incorporated by
-  reference into the Joint Proxy Statement/Prospectus pursuant to Item 4,
-  10(b), 11 or 13 of this form, within one business day of receipt of such
-  request, and to send the incorporated documents by first class mail or
-  other equally prompt means. This includes information contained in
-  documents filed subsequent to the effective date of the registration
-  statement through the date of responding to the request.
-
-     (5) To supply by means of a post-effective amendment all information
-  concerning a transaction, and the company being acquired involved therein,
-  that was not the subject of and included in the registration statement when
-  it became effective.
-
-   (b) Insofar as indemnification for liabilities arising under the Securities
-Act of 1933 may be permitted to directors, officers and controlling persons of
-the Registrant pursuant to the foregoing provisions, or otherwise, the
-Registrant has been advised that in the opinion of the Securities and Exchange
-Commission such indemnification is against public policy as expressed in the
-Act and is, therefore, unenforceable. In the event that a claim for
-indemnification against such liabilities (other than the payment by the
-Registrant of expenses incurred or paid by a director, officer or controlling
-person of the registrant in the successful defense of any action, suit or
-proceeding) is asserted by such director, officer or controlling person in
-connection with the securities being registered, the Registrant will, unless in
-the opinion of its counsel the matter has been settled by controlling
-precedent, submit to a court of appropriate jurisdiction the question whether
-such indemnification by it is against public policy as expressed in the Act and
-will be governed by the final adjudication of such issue.
-
-                                      II-4
-
-                                   SIGNATURES
-
-   Pursuant to the requirements of the Securities Act of 1933, the Registrant
-has duly caused this Registration Statement to be signed on its behalf by the
-undersigned, thereunto duly authorized, in the City of San Jose, State of
-California, on February 22, 2001.
-
-                                          NetIQ Corporation
-                                          (Registrant)
-
-                                                             *
-                                          By: _________________________________
-                                                 Ching-Fa Hwang, President
-                                                and Chief Executive Officer
-
-   Pursuant to the requirements of the Securities Act of 1933, this
-Registration Statement has been signed below by the following persons in the
-capacities and on the dates indicated.
-
-              Signature                          Title                   Date
-              ---------                          -----                   ----
-
-                  *                    President, Chief Executive  February 22, 2001
-______________________________________  Officer and Director
-            Ching-Fa Hwang              (Principal Executive
-                                        Officer)
-
-                  *                    Senior Vice President,      February 22, 2001
-______________________________________  Finance, Chief Financial
-            James A. Barth              Officer and Secretary
-                                        (Principal Financial and
-                                        Accounting Officer)
-
-                  *                    Senior Vice President,      February 22, 2001
-______________________________________  Chief Technology Officer
-         Thomas P. Bernhardt            and Director
-
-                  *                    Director                    February 22, 2001
-______________________________________
-           Alan W. Kaufman
-
-                  *                    Director                    February 22, 2001
-______________________________________
-          Michael J. Maples
-
-                  *                    Director                    February 22, 2001
-______________________________________
-           Scott D. Sandell
-
-                  *                    Director                    February 22, 2001
-______________________________________
-
-    Ying-Hon Wong
-
-*By:       /s/ James A. Barth
-  ------------------------------
-         Attorney-in-Fact
-
-*  An asterisk denotes execution by James A. Barth as Attorney-in-Fact.
-
-                                      II-5
-
-                                 EXHIBIT INDEX
-
- Exhibit
- Number                                Description
- ------- ----------------------------------------------------------------------
-
-  2(a)+  Agreement and Plan of Merger dated as of January 16, 2001 among NetIQ,
-         WebTrends and North Acquisition Corporation (included as Annex A to
-         the Joint Proxy Statement/Prospectus contained in this Registration
-         Statement).
-
-  2(b)+  Voting Agreement dated as of January 16, 2001 between NetIQ and
-         Elijahu Shapira, W. Glen Boyd and Michael Burmeister-Brown (included
-         as Annex B to the Joint Proxy Statement/Prospectus contained in this
-         Registration Statement)
-
-  3(a)+  Restated Certificate of Incorporation of NetIQ.
-
-  3(b)+  Certificate of Amendment to Certificate of Incorporation of NetIQ
-         (included as Annex E to the Joint Proxy Statement/Prospectus contained
-         in this Registration Statement)
-
-  3(c)+  Restated Bylaws of NetIQ.
-
-  4(a)+  Specimen Common Stock Certificate (incorporated by reference to
-         exhibit 4.1 of NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
-  4(b)+  Registration Rights Agreement dated as of May 14, 1997 by and among
-         NetIQ and certain NetIQ stockholders identified therein (incorporated
-         by reference to exhibit 4.2 of NetIQ's Registration Statement on Form
-         S-1, declared effective July 29, 1999).
-
-  5+     Opinion of Davis Polk & Wardwell regarding the validity of the
-         securities being registered.
-
-  8(a)   Opinion of Davis Polk & Wardwell regarding certain federal income tax
-         consequences relating to the merger.
-
-  8(b)   Opinion of Perkins Coie LLP regarding certain federal income tax
-         consequences relating to the merger.
-
- 10.1+   Form of Indemnification Agreement between NetIQ and each of its
-         directors and executive officers (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 10.2+   Form of Change of Control Severance Agreements between NetIQ and each
-         of its executive officers (incorporated by reference to the exhibit of
-         the same number filed with NetIQ's Registration Statement on Form S-1,
-         declared effective July 29, 1999).
-
- 10.3A+  Amended and Restated 1995 Stock Plan (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 10.3B+  Form of Stock Option Agreement under the Amended and Restated Stock
-         Plan (incorporated by reference to the exhibit of the same number
-         filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.3C+  Form of Director Option Agreement under the 1995 Amended and Restated
-         Stock Plan (incorporated by reference to the exhibit of the same
-         number filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.4A+  1999 Employee Stock Purchase Plan (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 10.4B+  Form of Subscription Agreement under the 1999 Employee Stock Purchase
-         Plan (incorporated by reference to the exhibit of the same number
-         filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- Exhibit
- Number                                Description
- ------- ----------------------------------------------------------------------
-
- 10.5A*+ BasicScript License Agreement, dated August 27, 1996, between NetIQ
-         and Henneberry Hill Technologies Corporation doing business as Summit
-         Software Company (incorporated by reference to the exhibit of the same
-         number filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.5B+  Amendment, dated May 21, 1999, to the BasicScript License Agreement
-         between NetIQ and Henneberry Hill Technologies Corporation doing
-         business as Summit Software Company (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 10.6*+  Software Distribution Agreement, dated June 23, 1998, between NetIQ
-         and Tech Data Product Management, Inc. (incorporated by reference to
-         the exhibit of the same number filed with NetIQ's Registration
-         Statement on Form S-1, declared effective July 29, 1999).
-
- 10.7+   Agreement of Sublease, dated July 31, 1998, between NetIQ and AMP
-         Incorporated (incorporated by reference to the exhibit of the same
-         number filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.8+   Confidential Settlement Agreement, dated March 10, 1999, by and
-         between Compuware Corporation, NetIQ Corporation, and the individuals
-         named therein (incorporated by reference to the exhibit of the same
-         number filed with NetIQ's Registration Statement on Form S-1, declared
-         effective July 29, 1999).
-
- 10.9+   Purchase and Sale Agreement, dated July 24, 2000, between NetIQ and
-         TMG North First Associates, L.P. (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Quarterly Report on Form
-         10-Q filed November 14, 2000).
-
- 10.10*+ License, Development and Marketing Agreement, dated September 25,
-         2000, between NetIQ and Microsoft Corporation (incorporated by
-         reference to the exhibit of the same number filed with NetIQ's
-         Quarterly Report on Form 10-Q filed November 14, 2000).
-
- 10.11+  Employment Agreement, dated January 16, 2001, by and between NetIQ,
-         WebTrends, and Elijahu Shapira.
-
- 21+     Subsidiaries of the Registrant (incorporated by reference to the
-         exhibit of the same number filed with NetIQ's Registration Statement
-         on Form S-1, declared effective July 29, 1999).
-
- 23(a)   Consent of Deloitte & Touche LLP.
-
- 23(b)   Consent of KPMG LLP.
-
- 23(c)   Consent of Ernst & Young LLP.
-
- 23(d)   Consent of PricewaterhouseCoopers LLP.
-
- 23(e)+  Consent of Davis Polk & Wardwell (included in the opinion filed as
-         Exhibit 5 to this Registration Statement).
-
- 23(f)   Consent of Davis Polk & Wardwell (included in the opinion filed as
-         Exhibit 8(a) to this Registration Statement).
-
- 23(g)   Consent of Perkins Coie LLP (included in the opinion filed as Exhibit
-         8(b) to this Registration Statement).
-
- Exhibit
- Number                      Description
- ------- --------------------------------------------------
-
- 24+     Power of Attorney
-
- 99(a)   Form of NetIQ Proxy Card.
-
- 99(b)+  Form of WebTrends Proxy Card.
-
- 99(c)+  Consent of Credit Suisse First Boston Corporation.
-
- 99(d)+  Consent of Dain Rauscher Wessels
-
- 99(e)   Consent of Elijahu Shapira
-
-- --------
-*  Subject to Confidential Treatment
-
-+  Previously filed
-
-EX-8.(A)
-
-0002.txt
-
-OPINION OF DAVIS POLK & WARDWELL
-
-                                                           Exhibit 8(a)
-
-                     [LETTERHEAD OF DAVIS POLK & WARDWELL]
-
-                                                         February 22, 2001
-
-Re:  Qualification of the Merger of North Acquisition Corporation with
-     and into WebTrends Corporation as a Tax-Free Reorganization
-
-NetIQ Corporation
-3553 North First Street
-San Jose, California 95134
-
-Ladies and Gentlemen:
-
-     We have acted as counsel for NetIQ Corporation ("Parent"), a Delaware
-corporation, in connection with (i) the Merger, as defined and described in the
-Agreement and Plan of Merger dated as of January 16, 2001 (the "Merger
-Agreement") among Parent, North Acquisition Corporation ("Merger Subsidiary"),
-an Oregon corporation and a newly formed, wholly owned subsidiary of Parent, and
-WebTrends Corporation ("Company"), an Oregon corporation and (ii) the
-preparation and filing of the related Registration Statement on Form S-4 (the
-"Registration Statement"), which includes the Proxy Statement/Prospectus (the
-"Proxy Statement/Prospectus"), filed with the Securities and Exchange Commission
-(the "Commission") under the Securities Act of 1933, as amended (the "Securities
-Act") and the Securities Exchange Act of 1934, as amended.
-
-     In connection with this opinion, we have examined the Merger Agreement
-(including the attachments thereto) and the Proxy Statement/Prospectus. For
-purposes of this opinion, we have assumed (i) the validity and accuracy of the
-documents that we have examined, (ii) that the Merger would be consummated in
-the manner described in Merger Agreement and the Proxy Statement/Prospectus, and
-(iii) that the representations made by Parent (together with Merger Subsidiary)
-and Company in the certificates dated as of the date hereof are, and will be,
-accurate and complete.  The opinions expressed herein are based upon existing
-statutory, regulatory and judicial authority, any of which may be changed at any
-time with retroactive effect.  In addition, our opinions are based solely on the
-documents that we have examined, the additional information that we have
-obtained, and the statements contained in the certificates from Parent and
-Company referred to above, which we have assumed will be true as of the
-effective time of the Merger. Our opinions cannot be relied upon if any of the
-facts pertinent to the Federal income tax treatment of the
-
-NetIQ Corporation                      2                       February 22, 2001
-
-Merger stated in such documents or in such additional information is, or later
-becomes, inaccurate, if any of the statements contained in the certificates from
-Parent or Company referred to above are, or later become, inaccurate, or if
-there are any changes in the relevant law between now and the effective time of
-the merger.
-
-     Based upon the foregoing, in our opinion, the Merger will be treated for
-Federal income tax purposes as a reorganization within the meaning of Section
-368(a) of the Code and Parent, Company and Merger Subsidiary will each be a
-party to that reorganization within the meaning of Section 368(b) of the Code.
-
-     The preceding are all of the material U.S. federal income tax consequences
-of the Merger.  However, our opinion does not address U.S. federal income tax
-consequences which may vary with, or are contingent upon, a shareholder's
-individual circumstances.  In addition, our opinion does not address any non-
-income tax or any foreign, state or local tax consequences of the Merger.
-
-     In accordance with the requirements of Item 601(b)(23) of Regulation S-K
-under the Securities Act, we hereby consent to the discussion of this opinion in
-the Proxy Statement/Prospectus, to the filing of this opinion as an exhibit to
-the Proxy Statement/Prospectus and to the reference to our firm under the
-headings "PROPOSAL NO. 1: THE MERGER-Material U.S. Federal Income Tax
-Consequences," "THE MERGER AGREEMENT-Principal Conditions to Completion of the
-Merger" and "LEGAL MATTERS" in the Proxy Statement/Prospectus. In giving such
-consent, we do not thereby admit that we are in the category of persons whose
-consent is required under Section 7 of the Securities Act or the rules and
-regulations of the Commission thereunder.
-
-                                            Very truly yours,
-
-                                            /s/ Davis Polk & Wardwell
-
-EX-8.(B)
-
-0003.txt
-
-OPINION OF PERKINS COIE LLP
-
-                                                                    EXHIBIT 8(b)
-
-                       [LETTERHEAD OF PERKINS COIE LLP]
-
-                               February 22, 2001
-
-WebTrends Corporation
-851 SW Sixth Avenue, Suite 1200
-Portland, OR  97204
-
-     Re:  Acquisition by NetIQ Corporation.
-
-Ladies and Gentlemen:
-
-     We have acted as counsel to WebTrends Corporation, an Oregon corporation
-("WebTrends"), in connection with the preparation and execution of the Agreement
-and Plan of Merger dated as of January 16, 2001 (the "Merger Agreement") by and
-among WebTrends, NetIQ Corporation, a Delaware Corporation ("NetIQ"), and North
-Acquisition Corporation, an Oregon Corporation and a wholly-owned subsidiary of
-NetIQ ("Merger Subsidiary").  Pursuant to the Merger Agreement, Merger
-Subsidiary will merge with and into WebTrends (the "Merger"), and WebTrends will
-become a wholly-owned subsidiary of NetIQ.  Unless otherwise indicated,
-capitalized terms used herein have the meaning ascribed to them in the Merger
-Agreement.
-
-     You have requested our opinion regarding certain United States federal
-income tax consequences of the Merger.  In delivering this opinion, we have
-reviewed the Merger Agreement, the Registration Statement on Form S-4
-(Registration Number 333-54746) filed by NetIQ with the U.S. Securities and
-Exchange Commission under the Securities Act of 1933, as amended (the
-"Securities Act"), on February 1, 2001, as amended, (which contains a prospectus
-and proxy statement of WebTrends and NetIQ) (the "Registration Statement"), in
-connection with the registration under the Securities Act of shares of NetIQ's
-common stock to be issued to the stockholders of WebTrends upon consummation of
-the Merger, and such other documents as we have deemed necessary or appropriate.
-Further, we have, with your permission, relied upon (without any independent
-investigation), and assumed as correct at all relevant times, (i) the
-statements, covenants, representations and warranties contained in the Merger
-Agreement (including Exhibits), and (ii) the representation letters from
-NetIQ and Merger Subsidiary, and WebTrends (the "Tax Representation Letters").
-We have also assumed (without independent investigation) the following:
-
-WebTrends Corporation
-February 22, 2001
-Page 2
-
-     1.   The authenticity of original documents submitted to us, the conformity
-to the originals of documents submitted to us as copies, and the due and valid
-execution and delivery of all such documents where due execution and delivery
-are a prerequisite to the effectiveness thereof;
-
-     2.   The performance of all covenants contained in the Merger Agreement and
-the Tax Representation Letters without waiver or breach of any material
-provision thereof;
-
-     3.   The accuracy of any representation or statement "to the best
-knowledge" or similarly qualified without such qualification; and
-
-     4.   The reporting of the Merger as a reorganization, within the meaning of
-Section 368(a) of the Internal Revenue Code of 1986, as amended (the "Code"), by
-WebTrends and NetIQ in their respective federal income tax returns.
-
-     Based upon the foregoing, and subject to the limitations, qualifications,
-assumptions and caveats set forth herein, if the Merger is consummated in
-accordance with the Merger Agreement (and without any waiver, breach or
-amendment of any of the provisions thereof) and the statements set forth in the
-Registration Statement and the Tax Representation Letters are true and correct
-as of the effective time of the Merger, then for federal income tax purposes we
-are of the opinion that:
-
-     (i)  The Merger will qualify as a reorganization within the meaning of
-          Section 368(a) of the Code; and
-
-     (ii) Each of NetIQ, Merger Subsidiary and WebTrends will be a party to the
-          reorganization within the meaning of Section 368(a) of the Code.
-
-     This opinion represents our best judgment regarding the application of
-federal income tax laws under the Code, existing judicial decisions,
-administrative regulations and published rulings and procedures.  Our opinion is
-not binding upon the Internal Revenue Service or the courts, and there is no
-assurance that the Internal Revenue Service will not successfully assert a
-contrary position.  Furthermore, no assurance can be given that future
-legislative, judicial or administrative changes, on either a prospective or
-retroactive basis, would not adversely affect the accuracy of the conclusions
-stated herein.  We undertake no responsibility to advise you of any new
-developments in the application or interpretation of the federal income tax
-laws.
-
-WebTrends Corporation
-February 22, 2001
-Page 3
-
-Furthermore, in the event any one of the statements, representations, warranties
-or assumptions upon which we have relied to issue this opinion is incorrect, our
-opinion might be adversely affected and may not be relied upon. This opinion
-addresses only the matters described above, and does not address any other
-federal state, local or foreign tax consequences that may result from the Merger
-or any other transaction undertaken in connection with the Merger.
-
-     We hereby consent to the filing of this opinion as an exhibit to the
-Registration Statement under the captions "LEGAL MATTERS" and "Material U.S.
-federal income tax consequences" in the Registration Statement.  In giving such
-consent, we do not thereby admit that we are in the category of persons whose
-consent is required under Section 7 of the Securities Act nor do we admit that
-we are experts with respect to any part of such Registration Statement within
-the meaning of the term "expert" as used in the Securities Act.
-
-                                            Very truly yours,
-
-                                            /s/ PERKINS COIE LLP
-
-EX-23.(A)
-
-0004.txt
-
-CONSENT OF DELOITTE & TOUCHE LLP
-
-                                                                   Exhibit 23(a)
-
-                         INDEPENDENT AUDITORS' CONSENT
-
-   We consent to the incorporation by reference in this Amendment No.1 to
-Registration Statement No. 333-54746 of NetIQ Corporation on Form S-4 of our
-reports dated July 17, 2000, appearing in the Annual Report on Form 10-K of
-NetIQ Corporation for the year ended June 30, 2000 and to the reference to us
-under the heading "Experts" in the Prospectus, which is part of this
-Registration Statement.
-
-/s/ DELIOTTE & TOUCHE LLP
-
-San Jose, California
-
-February 21, 2001
-
-EX-23.(B)
-
-0005.txt
-
-CONSENT OF KPMG LLP
-
-                                                                   Exhibit 23(b)
-
-                         Independent Auditors' Consent
-
-The Board of Directors
-WebTrends Corporation:
-
-   We consent to the incorporation by reference in the joint proxy
-statement/prospectus of WebTrends Corporation of our report dated January 19,
-2001, relating to the balance sheets of WebTrends Corporation as of December
-31, 1999 and 2000, and the related statements of operations, shareholders'
-equity and cash flows for each of the years in the three-year period ending
-December 31, 2000, which report appears in the annual report on Form 10-K of
-WebTrends Corporation and to the reference to our firm under the heading
-"Experts" in the joint proxy statement/prospectus.
-
-/s/ KPMG LLP
-
-Portland, Oregon
-
-February 21, 2001
-
-EX-23.(C)
-
-0006.txt
-
-CONSENT OF ERNST & YOUNG LLP
-
-                                                                   Exhibit 23(c)
-
-               Consent of Ernst & Young LLP, Independent Auditors
-
-   We consent to the reference to our firm under the caption "Experts" and to
-the use of our report dated July 7, 1999, except for Note 14 as to which the
-date is August 4, 1999, with respect to the financial statements of Mission
-Critical Software, Inc. incorporated by reference in the Registration Statement
-(Form S-4) and related Prospectus of NetIQ Corporation for the registration of
-its common stock.
-
-                                          /s/ Ernst & Young LLP
-
-Austin, Texas
-
-February 21, 2001
-
-EX-23.(D)
-
-0007.txt
-
-CONSENT OF PRICEWATERHOUSECOOPERS LLP
-
-                                                                   Exhibit 23(d)
-
-                       CONSENT OF INDEPENDENT ACCOUNTANTS
-
-   We hereby consent to the incorporation by reference in this Registration
-Statement on Form S-4 of NetIQ Corporation of our report dated May 12, 1999,
-except as to Note 10, which is as of March 9, 2000, relating to the financial
-statements of Ganymede Software, Inc., which appears in Amendment No. 1 to the
-NetIQ Form S-4 dated April 3, 2000. We also consent to the reference to us
-under the heading "Experts" in this Registration Statement.
-
-/s/ PricewaterhouseCoopers LLP
-Raleigh, North Carolina
-
-February 21, 2001
-
-EX-99.(A)
-
-0008.txt
-
-FORM OF NETIQ PROXY CARD
-
-                                                                   EXHIBIT 99(a)
-
-                                     PROXY
-
-                               NetIQ Corporation
-
-                   PROXY FOR SPECIAL MEETING OF STOCKHOLDERS
-
-          THIS PROXY IS SOLICITED ON BEHALF OF THE BOARD OF DIRECTORS
-
-     The undersigned stockholder of NetIQ Corporation, a Delaware corporation,
-hereby acknowledges receipt of the Notice of Special Meeting of Stockholders
-dated February 26, 2001, and the Joint Proxy Statement/ Prospectus, as filed
-with the Securities and Exchange Commission, and hereby appoints Ching-Fa Hwang
-and James A. Barth and each of them proxies and attorneys-in-fact, with full
-power to each of substitution, on behalf and in the name of the undersigned, to
-represent the undersigned at the Special Meeting of Stockholders of NetIQ
-Corporation to be held on ________, March __, 2001 at 10:00 a.m., local time at
-3553 North First Street, San Jose, California, and any adjournment(s) thereof,
-and to vote all shares of Common Stock which the undersigned would be entitled
-to vote if then and there personally present, on the matters set forth on the
-reverse side.
-
-- ---------------                                                ---------------
-  SEE REVERSE    CONTINUED AND TO BE SIGNED ON THE OTHER SIDE    SEE REVERSE
-      SIDE                                                           SIDE
-- ---------------                                                ---------------
-
-Vote by Telephone                                                Vote by Internet
-- -----------------                                                ----------------
-
-It's fast, convenient, and immediate!                            It's fast, convenient, and your vote is
-Call Toll-Free on a Touch-Tone Phone                             immediately confirmed and posted.
-1-877-PRX-VOTE  (1-877-779-8683).
-
-Follow these four easy steps:                                    Follow these four easy steps:
-
-1.  Read the accompanying Proxy                                  1.  Read the accompanying Joint Proxy
-    Statement/Prospectus and Proxy Card.                             Statement/Prospectus and Proxy Card.
-
-2.  Call the toll free number:                                   2.  Go to the Website
-    1-877-PRX-VOTE (1-877-779-8683).                                 http://www.eproxyvote.com/ntiq
-
-3.  Enter your 14-digit Voter Control Number                     3.  Enter your 14-digit Voter Control Number
-    located on your Proxy Card above your name.                      located on your Proxy Card above your name.
-
-4.  Follow the recorded instructions.                            4.  Follow the instructions provided.
-
-Your vote is important!                                          Your vote is important!
-Call 1-877-PRX-VOTE anytime                                      Go to http://www.eproxyvote.com/ntiq anytime!
-                                                                       ------------------------------
-
-Do not return your Proxy Card if you are voting by Telephone or Internet
-
-                                  DETACH HERE
-
-- ---  Please mark
- X   votes as in
-- ---  this example.                                        This proxy will be voted as directed or, if no direction is
-                                                          indicated, will be voted for each of the proposals listed
-The Board of Directors proposes and recommends a          above, and as said proxies deem advisable on such other
-vote "FOR" each of the following proposals:               matters as may come before the meeting.
-
-1.  To approve the issuance of shares of NetIQ
-    common stock in the merger of North Acquisition        MARK HERE FOR ADDRESS CHANGE AND NOTE AT LEFT         /_/
-    Corporation with and into WebTrends as contemplated
-    by the Agreement and Plan of Merger dated as of
-    January 16, 2001.                                      Please sign your name exactly as it appears on the proxy
-                                                           card.  For joint accounts, each owner should sign.  When
-      FOR        AGAINST     ABSTAIN                       signing as executor, administrator, attorney, trustee or
-      /_/          /_/         /_/                         guardian, etc., please give your full title.
-
-2.  To approve an amendment to NetIQ's certificate
-    of incorporation to increase the authorized
-    number of shares of common stock from 100,000,000
-    to 250,000,000.
-
-      FOR        AGAINST     ABSTAIN
-      /_/          /_/         /_/
-
-Signature:  _________________________  Date: _______      Signature: ______________________________  Date: _______
-
-EX-99.(E)
-
-0009.txt
-
-CONSENT OF ELIJAHU SHAPIRA
-
-                                                                   EXHIBIT 99(e)
-
-                          CONSENT OF ELIJAHU SHAPIRA
-
-I hereby consent to being named as a person who will become a director of NetIQ
-Corporation, a Delaware corporation ("NetIQ"), in connection with the completion
-of the merger (the "Merger") contemplated by the Agreement and Plan of Merger,
-dated as of January 16, 2001, among NetIQ, WebTrends Corporation, an Oregon
-corporation, and North Acquisition Corporation, an Oregon corporation, described
-in and attached to the Registration Statement on Form S-4 to be filed by NetIQ
-with the Securities and Exchange Commission in connection with the Merger (the
-"Registration Statement"), and to the filing of this consent as an exhibit to
-the Registration Statement.
-
-Signature      /s/ Elijahu Shapira
-               -------------------
-               Elijahu Shapira
-
-Date: February 21, 2001
-
------END PRIVACY-ENHANCED MESSAGE-----
+   Section 9.0

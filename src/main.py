@@ -67,8 +67,8 @@ def main():
     filterAssistant = Assistant(api_key, "Filter Assistant", instructions, prompt, "gpt-4o-mini");
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
-    # crawler.runCrawler(startIndex=21, endIndex=49); # True to literal index: i.e., 0 to 99 is 0 to 99
-    crawler.runCrawler(index=0);
+    # crawler.runCrawler(startIndex=50, endIndex=99); # True to literal index: i.e., 0 to 99 is 0 to 99
+    crawler.runCrawler(index=60);
 
     # Find the company that had the intention of selling/buying the other company
     instructions = (

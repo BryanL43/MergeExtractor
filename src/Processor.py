@@ -9,6 +9,9 @@ import os
 import shutil
 import random
 import time
+import unicodedata
+from lxml.html.soupparser import fromstring
+from lxml.etree import tostring, XMLSyntaxError
 
 from Assistant import Assistant
 from Logger import Logger
@@ -59,60 +62,77 @@ class Processor:
             print(f"FATAL: Failed to load document via url. Err_Code: {response.status_code}");
             sys.exit(response.status_code);
 
+    # def __preProcessText(self, content) -> str:
+    #     soup = BeautifulSoup(content, "html.parser");
+    #     text = soup.get_text(separator="\n");
+
+    #     # Remove standalone page numbers
+    #     pageNumPattern = re.compile(r'^\s*\d+\s*$', re.MULTILINE);
+    #     text = re.sub(pageNumPattern, '', text);
+
+    #     # Remove extra newline characters
+    #     text = re.sub(r'\n\s*\n+', '\n\n', text);
+
+    #     return text.strip();
+
     def __preProcessText(self, content) -> str:
-        soup = BeautifulSoup(content, "html.parser");
-        text = soup.get_text(separator="\n");
+        try:
+            # Handle encoding issues: Remove control characters
+            content = unicodedata.normalize("NFKC", content)
+            content = content.encode("utf-8", "ignore").decode("utf-8", "ignore")
+            content = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F]', '', content)  # Remove control characters
 
-        # Remove standalone page numbers
-        pageNumPattern = re.compile(r'^\s*\d+\s*$', re.MULTILINE);
-        text = re.sub(pageNumPattern, '', text);
+            # Remove SGML/XML directives (like <!DOCTYPE>)
+            content = re.sub(r'<!\[.*?\]>', '', content, flags=re.DOTALL)  # Remove <! ... ]> patterns
 
-        # Remove extra newline characters
-        text = re.sub(r'\n\s*\n+', '\n\n', text);
+            # Try parsing with lxml first
+            try:
+                tree = fromstring(content)
+                text = tostring(tree, method="text", encoding="unicode")
+            except (XMLSyntaxError, RecursionError) as e:
+                print(f"lxml parsing failed, falling back to BeautifulSoup: {e}")
+                soup = BeautifulSoup(content, "html.parser")
+                text = soup.get_text(separator="\n")
 
-        return text.strip();
+            # Remove standalone page numbers
+            text = re.sub(r'^\s*\d+\s*$', '', text, flags=re.MULTILINE)
+
+            # Remove extra newlines
+            text = re.sub(r'\n\s*\n+', '\n\n', text)
+
+            return text.strip()
+
+        except Exception as e:
+            print(f"Error in __preProcessText: {e}")
+        return content  # Fallback to raw content in case of failure
+
+    def __normalizeText(self, text) -> str:
+        # Remove table of contents references and normalize the text
+        text = unicodedata.normalize("NFKC", text);  # Normalize Unicode
+        text = text.encode("ascii", "ignore").decode("ascii");
+        cleanedText = re.sub(r'\btable\s*of\s*contents?\b|\btableofcontents?\b', '', text, flags=re.IGNORECASE);
+        cleanedText = re.sub(r'(?i)table\s*of\s*contents?|tableofcontents?', '', cleanedText);
+
+        return cleanedText.strip();
 
     def __checkCompaniesInDocument(self, url, companyNames) -> tuple[str, bool]:
         # Open the url and acquire the document content.
         # Error = Fatal, force exit from load function.
         rawText = self.__loadFileFromURL(url);
 
+        # Clean and truncate text
         cleanedText = self.__preProcessText(rawText);
-        lowerText = cleanedText.lower()[:10000]; # Truncate to header to ensure accurate document
+        cleanedText = self.__normalizeText(cleanedText);
+        cleanedText = cleanedText[1000:450000]; # Reduce data load
+
+        # Truncate to header to validate that we have the correct document
+        lowerText = cleanedText.lower()[:10000];
 
         # Check if both company names are present as whole words
         foundCompanies = [name for name in companyNames if re.search(r'\b' + re.escape(name) + r'\b', lowerText)];
         
         # Return the cleanedText if both company names are found, else False
         return cleanedText, len(foundCompanies) == len(companyNames);
-
-    def __removeTableOfContents(self, text) -> str:
-        # Regular expression patterns for table of contents
-        tocStartPattern = re.compile(r'(Table of Contents|Contents|TABLE OF CONTENT|CONTENTS)', re.IGNORECASE);
-        tocEndPattern = re.compile(r'(Introduction|Chapter \d+|Section \d+|Part \d+|Page \d+)', re.IGNORECASE);
-
-        # Find the start of the table of contents
-        tocStartMatch = tocStartPattern.search(text);
-        if (not tocStartMatch):  # No table of contents found
-            return text;
-
-        tocStartIndex = tocStartMatch.start();
-
-        # Find the end of the table of contents
-        tocEndMatch = tocEndPattern.search(text, tocStartIndex);
-        if (not tocEndMatch):  # No end of table of contents found
-            return text;
-
-        tocEndIndex = tocEndMatch.start();
-
-        # Remove the table of contents section
-        cleanedText = text[:tocStartIndex] + text[tocEndIndex:];
-
-        # Remove any remaining table of contents references
-        cleanedText = re.sub(r'\btable\s*of\s*contents?\b|\btableofcontents?\b', '', cleanedText, flags=re.IGNORECASE);
-        cleanedText = re.sub(r'(?i)table\s*of\s*contents?|tableofcontents?', '', cleanedText);
-
-        return cleanedText.strip();
 
     def getDocuments(self, sourceLinks: list, companyNames: list) -> list[Document]:
         # Acquire company name's first word
@@ -139,9 +159,8 @@ class Processor:
 
     def __findSection(self, doc: Document, startCandidates: list[str]) -> bool:
         # Clean and truncate text for spaCy
-        cleanedText = self.__removeTableOfContents(doc.getContent());
-        doc.setContent(cleanedText[1000:500000]); # Preserve some content for assistant back-up parsing
-        cleanedText = cleanedText[50000:500000];  # Shrink to manageable size for spaCy
+        cleanedText = doc.getContent();
+        cleanedText = cleanedText[50000:450000];  # Cut some unnecessary data for spaCy
 
         # Break the text into sentences
         doc = self.nlp(cleanedText);
