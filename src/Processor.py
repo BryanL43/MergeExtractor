@@ -10,8 +10,7 @@ import shutil
 import random
 import time
 import unicodedata
-from lxml.html.soupparser import fromstring
-from lxml.etree import tostring, XMLSyntaxError
+from lxml import etree
 
 from Assistant import Assistant
 from Logger import Logger
@@ -37,8 +36,18 @@ class Processor:
         print("Successfully initialized Processor");
 
     def __extractAllButLastWord(self, companyName) -> str:
-        clean_name = re.sub(r"\(.*?\)", "", companyName);  # Remove parentheses content
-        words = re.split(r"[\s\-_]+", clean_name.strip());  # Split by space, hyphen, or underscore
+        cleanName = re.sub(r"\(.*?\)", "", companyName);  # Remove parentheses content
+        words = re.split(r"[\s\-_]+", cleanName.strip());  # Split by space, hyphen, or underscore
+
+        # Domain-like terms to merge
+        mergeWords = {"net", "com", "org", "co"};
+
+        # Merge domain-like words
+        for i in range(len(words) - 1):
+            if words[i].lower() in mergeWords:
+                words[i] = words[i] + "." + words[i + 1];
+                words.pop(i + 1);
+                break;
 
         if len(words) > 1:
             if words[-2] == "&":
@@ -62,49 +71,27 @@ class Processor:
             print(f"FATAL: Failed to load document via url. Err_Code: {response.status_code}");
             sys.exit(response.status_code);
 
-    # def __preProcessText(self, content) -> str:
-    #     soup = BeautifulSoup(content, "html.parser");
-    #     text = soup.get_text(separator="\n");
-
-    #     # Remove standalone page numbers
-    #     pageNumPattern = re.compile(r'^\s*\d+\s*$', re.MULTILINE);
-    #     text = re.sub(pageNumPattern, '', text);
-
-    #     # Remove extra newline characters
-    #     text = re.sub(r'\n\s*\n+', '\n\n', text);
-
-    #     return text.strip();
-
     def __preProcessText(self, content) -> str:
+        # Ensure content is in UTF-8
+        if isinstance(content, bytes):
+            content = content.decode('utf-8', errors='ignore');
+        
+        # HTMLParser to handle bad HTML
+        parser = etree.HTMLParser(recover=True, encoding='utf-8');
         try:
-            # Handle encoding issues: Remove control characters
-            content = unicodedata.normalize("NFKC", content)
-            content = content.encode("utf-8", "ignore").decode("utf-8", "ignore")
-            content = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F]', '', content)  # Remove control characters
-
-            # Remove SGML/XML directives (like <!DOCTYPE>)
-            content = re.sub(r'<!\[.*?\]>', '', content, flags=re.DOTALL)  # Remove <! ... ]> patterns
-
-            # Try parsing with lxml first
-            try:
-                tree = fromstring(content)
-                text = tostring(tree, method="text", encoding="unicode")
-            except (XMLSyntaxError, RecursionError) as e:
-                print(f"lxml parsing failed, falling back to BeautifulSoup: {e}")
-                soup = BeautifulSoup(content, "html.parser")
-                text = soup.get_text(separator="\n")
-
-            # Remove standalone page numbers
-            text = re.sub(r'^\s*\d+\s*$', '', text, flags=re.MULTILINE)
-
-            # Remove extra newlines
-            text = re.sub(r'\n\s*\n+', '\n\n', text)
-
-            return text.strip()
-
+            tree = etree.fromstring(content.encode('utf-8'), parser);
+            text = '\n'.join(tree.xpath('.//text()'));  # Extract all text nodes
         except Exception as e:
-            print(f"Error in __preProcessText: {e}")
-        return content  # Fallback to raw content in case of failure
+            raise RuntimeError(f"HTML parsing error: {e}") from e;
+
+        # Remove standalone page numbers
+        pageNumPattern = re.compile(r'^\s*\d+\s*$', re.MULTILINE);
+        text = re.sub(pageNumPattern, '', text);
+
+        # Remove extra newline characters
+        text = re.sub(r'\n\s*\n+', '\n\n', text);
+
+        return text.strip();
 
     def __normalizeText(self, text) -> str:
         # Remove table of contents references and normalize the text
