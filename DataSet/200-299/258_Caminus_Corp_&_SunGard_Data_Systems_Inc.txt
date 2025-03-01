@@ -1,0 +1,461 @@
+URL: https://www.sec.gov/Archives/edgar/data/789388/000095013003001291/0000950130-03-001291.txt
+
+73586
+
+	BUSINESS ADDRESS:	
+		STREET 1:		825 THIRD AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+		BUSINESS PHONE:		2125153600
+
+	MAIL ADDRESS:	
+		STREET 1:		825 THIRD AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SUNGARD DATA SYSTEMS INC
+		CENTRAL INDEX KEY:			0000789388
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				510267091
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-T/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1285 DRUMMERS LN
+		STREET 2:		STE 300
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		6103418700
+
+	MAIL ADDRESS:	
+		STREET 1:		1285 DRUMMERS LANE
+		STREET 2:		SUITE 300
+		CITY:			WAYNE
+		STATE:			PA
+		ZIP:			19087
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SUNDATA CORP
+		DATE OF NAME CHANGE:	19860310
+
+SC TO-T/A
+
+dsctota.htm
+
+AMENDMENT NO. 2 TO SC TO-T
+
+AMENDMENT NO. 2 TO SC TO-T
+
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+
+Schedule TO 
+Tender Offer Statement under Section 14(d)(1) or 13(e)(1) 
+of the Securities Exchange Act of 1934  
+(Amendment No. 2) 
+
+Caminus Corporation 
+(Name of Subject Company (issuer)) 
+
+Rapid Resources Inc. 
+(Offeror) 
+
+SunGard Data Systems Inc. 
+(Parent of Offeror) 
+(Names of Filing Persons) 
+
+COMMON STOCK, PAR VALUE $0.01 PER SHARE 
+(Title of Class of Securities) 
+
+133766 10 5 
+(CUSIP Number of Class of Securities) 
+
+Lawrence A. Gross, Esquire 
+SunGard Data Systems Inc. 
+1285 Drummers Lane 
+Wayne, Pennsylvania 19087 
+Tel: (610) 341-8700 
+Fax: (610) 341-8115 
+(Name, address, and telephone number of person authorized to receive notices 
+and communications on behalf of filing persons) 
+
+copy to: 
+
+Richard J. McMahon, Esquire 
+Blank Rome LLP 
+One Logan Square 
+Philadelphia, Pennsylvania 19103 
+Tel: (215)
+569-5500 
+Fax: (215) 569-5555 
+
+Calculation of Filing Fee 
+
+Transaction valuation*
+
+Amount of filing fee**
+
+$164,332,206
+
+$15,118.57
+
+(*)
+
+Estimated for purposes of calculating the amount of the filing fee only, in accordance with Rule 0-11(d) under the Securities Exchange Act of 1934, as amended (the
+Exchange Act). The calculation of the transaction valuation assumes (a) the purchase of (i) 16,782,306 outstanding shares of common stock of Caminus Corporation, (ii) 1,176,828 shares of common stock of Caminus Corporation underlying
+outstanding options, and (iii) 300,000 shares of Caminus Corporation common stock issuable pursuant to the Caminus Corporation 1999 Employee Stock Purchase Plan (ESPP) (which is the maximum number of shares of Caminus Corporation common
+stock issuable under the ESPP), (b) multiplied by the offer price of $9.00 per share. 
+
+(**)
+
+As indicated below, a filing fee was previously paid with the filing of the Schedule TO on January 29, 2003. The amount of the filing fee, calculated in accordance
+with Rule 0-11 of the Exchange Act, is equal to $92 per $1,000,000 of the value of the transaction. 
+
+x
+
+Check the box if any part of the fee is offset as provided by Rule 0-11(a)(2) and identify the filing with which the offsetting fee was previously paid. Identify
+the previous filing by registration statement number or the form or schedule and the date of its filing. 
+
+Amount previously Paid:  $14,632.12
+
+Filing Party:
+
+Rapid Resources Inc.
+
+SunGard Data Systems Inc
+
+Form or Registration No.:  Schedule TO-T
+
+Date Filed:
+
+January 29, 2003
+
+ 
+
+Check the box if the filing relates to preliminary communications made before the commencement of a tender offer. 
+
+Check the appropriate boxes below to designate any transactions to which the
+statement relates: 
+
+x
+
+third-party tender offer subject to Rule 14d-1. 
+
+ 
+
+issuer tender offer subject to Rule 13e-4. 
+
+ 
+
+Going-private transaction subject to Rule 13e-3. 
+
+ 
+
+Amendment to Schedule 13D under Rule 13d-2. 
+
+Check the following box if the filing is a final amendment reporting the results of the tender offer: 
+
+This Amendment No. 2 (Amendment) to the Tender Offer Statement on Schedule TO (this Schedule TO) filed initially
+with the Securities and Exchange Commission (the Commission) on January 29, 2003 and amended by Amendment No. 1 to the Schedule TO filed with the Commission on February 10, 2003, relates to the offer by Rapid Resources Inc., a Delaware
+corporation (the Purchaser) and a wholly owned subsidiary of SunGard Data Systems Inc., a Delaware corporation (SunGard), to purchase all of the outstanding shares of common stock (the Shares) of Caminus
+Corporation, a Delaware corporation (Caminus), at a purchase price of $9.00 per Share, in cash, without interest thereon, upon the terms and subject to the conditions set forth in the Offer to Purchase, dated January 29, 2003 (the
+Offer to Purchase), and in the related Letter of Transmittal (which, as they may be amended or supplemented from time to time, such Offer to Purchase and Letter of Transmittal together constitute the Offer), copies of which
+were previously filed as Exhibits (a)(1) and (a)(2), respectively, to the Schedule TO. This Amendment to the Schedule TO is being filed on behalf 
+
+of the Purchaser and SunGard. Capitalized terms used herein and not defined herein shall have the meanings
+ascribed to such terms in the Offer to Purchase. 
+
+ITEMS 1-9 AND ITEM 11 
+
+Items 1-9 and Item 11 of the Schedule TO are hereby amended and supplemented to include the following: 
+
+Statements made by SunGard, Purchaser or
+Caminus in connection with the Offer are not entitled to the safe harbor provisions of The Private Securities Litigation Reform Act of 1995 (the PSLRA). Consequently, notwithstanding any statements to the contrary, the PSLRA does not
+apply to any forward-looking statements made by SunGard, Purchaser or Caminus in connection with the Offer. 
+
+Items 1-9 and Item 11 of the Schedule TO are hereby amended by the following amendments to the Offer to Purchase: 
+
+The ninth paragraph of the Introduction to the Offer to
+Purchase is hereby amended and restated in its entirety to read as follows: 
+
+The following directors, executive officers and affiliated stockholders of Caminus have entered into a tender and voting agreement with SunGard and the Purchaser (the Tender and Voting
+Agreement) pursuant to which they have agreed, in their capacity as stockholders of Caminus, to tender all of their shares of Caminus common stock, with certain limited exceptions, as well as any additional shares of Caminus common stock that
+they may acquire (pursuant to Caminus stock options or otherwise), with certain limited exceptions, to the Purchaser in the Offer: 
+
+William P. Lyons; 
+Brian J. Scanlan; 
+Joseph P. Dwyer; 
+John A. Andrus; 
+Cynthia Chang; 
+Clare M.J. Spottiswoode; 
+OCM Principal Opportunities Fund, L.P.; 
+ZAK Associates, Inc.; 
+RIT Capital Partners PLC; 
+GFI Two LLC; and 
+OW Richards and CMJ Spottiswoode Accumulation and Maintenance Trust DTD. 
+
+As of January 19, 2003, such directors, executive officers and
+affiliated stockholders held in the aggregate, including shares issuable upon exercise of stock options, 5,099,416 shares of Caminus common stock, which represented approximately 28% of Caminuss Adjusted Outstanding Shares as of such date. See
+Section 12 (Purpose of the Offer; Plans for Caminus; The Merger Agreement; The Tender and Voting Agreement) of this Offer to Purchase. 
+
+The eleventh
+paragraph of the Introduction to the Offer to Purchase is hereby amended and restated in its entirety to read as follows: 
+
+Caminus has informed the Purchaser that, as of January 19, 2003, there were (i) 16,782,306 shares of Caminus common
+stock issued and outstanding; (ii) 896,272 shares of Caminus common stock subject to outstanding options with exercise prices per share equal to or less than the Offer Price; (iii) 280,556 shares of Caminus common stock subject to outstanding
+options with exercise prices per share greater than the Offer Price; and (iv) up to 300,000 shares to be issued by Caminus pursuant to its 1999 Employee Stock Purchase Plan. Based upon the foregoing, the Minimum Condition will be satisfied if at
+least approximately 9,150,000 shares of Caminus common stock are validly tendered (including shares tendered pursuant to the Tender and Voting Agreement) and not withdrawn prior to the Expiration Date of the Offer. Assuming all of the shares of
+Caminus common stock that are eligible to be tendered by the parties to the Tender and Voting Agreement (except for an aggregate of 469,300 outstanding shares and shares underlying outstanding options which are subject to pledge agreements or the
+tender of which would violate the provisions of Section 16(b) of the Securities Exchange Act of 1934, as amended) are tendered, an aggregate of approximately 4,520,000 additional shares of Caminus common stock, representing approximately 25% of the
+Adjusted Outstanding Shares of Caminus as of January 19, 2003 would need to be validly tendered in order to satisfy the Minimum Condition. The actual number of shares of Caminus common stock that are required to be tendered to satisfy the Minimum
+Condition will depend upon the actual number of Adjusted Outstanding Shares prior to the Expiration Date. 
+
+The tenth paragraph of Section 1 (Terms of the Offer) of the Offer to Purchase is hereby amended and restated as follows: 
+
+Under Rule 14d-11 of the Exchange Act,
+the Purchaser may provide for a subsequent offering period so long as, among other things, (i) the initial 20-business day period of the Offer has expired, (ii) the Purchaser offers the same form and amount of consideration for shares of Caminus
+common stock in the subsequent offering period that was offered in the Offer, (iii) the Purchaser immediately accepts and promptly pays for all shares of Caminus common stock that are validly tendered to the Purchaser and not properly withdrawn
+prior to the Expiration Date, (iv) the Purchaser announces the results of the Offer, including the approximate number and percentage of shares of Caminus common stock that were validly tendered in the Offer, no later than 9:00 a.m., New York City
+time, on the next business day after the Expiration Date and immediately begins the subsequent offering period on the next business day after the Expiration Date, and (v) the Purchaser immediately accepts and promptly pays for shares of Caminus
+common stock as they are tendered during the subsequent offering period. 
+
+The second
+sentence of the first paragraph of Section 4 (Acceptance for Payment and Payment for Shares of Caminus Common Stock) of the Offer to Purchase is hereby amended and restated in its entirety to read as follows: 
+
+Subject to the terms of the Merger
+Agreement, the Purchaser expressly reserves the right, in its sole discretion, to delay acceptance for payment of or the payment for shares of Caminus common stock that are tendered in the Offer in order to comply with any applicable antitrust law
+or obtain any necessary governmental regulatory approval, including, without limitation, pursuant to the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended. See Section 14 (Certain Legal Matters) of this Offer to Purchase.
+
+The second sentence of the last paragraph of
+Section 8 (Certain Information Concerning Caminus) of the Offer to Purchase is hereby amended and restated in its entirety to read as follows: 
+
+Although the Purchaser and SunGard do not have any knowledge that any such information is untrue, neither the
+Purchaser nor SunGard has verified the accuracy or completeness of such information. 
+
+The first sentence of the second paragraph of Section 10 (Source and Amount of Funds) of the Offer to Purchase is hereby amended and restated in its entirety to read as follows: 
+
+The total amount of funds required by
+the Purchaser to pay for all outstanding shares of Caminus common stock that are tendered in the Offer and converted into the right to receive cash in the Merger, and to pay all fees and expenses incurred by SunGard and Purchaser related to the
+Offer and the Merger, is estimated to be approximately $164 million plus any related transaction fees and expenses. 
+
+The third paragraph of Section 10 (Source and Amount of Funds) of the Offer to Purchase is hereby amended and restated in its entirety to
+read as follows: 
+
+SunGards line of credit is available pursuant to a 364-Day Credit Agreement, dated as of January 25, 2002 and as amended from time to time, and an Amended and Restated Three-Year Credit Agreement, dated as of January 10,
+2003 (collectively, the Credit Agreements), among SunGard, certain banks and other financial institutions, JPMorgan Chase Bank, as Administrative Agent, PNC Bank, National Association, as Syndication Agent, First Union National Bank, as
+Documentation Agent, ABN AMRO Bank, N.V., as Co-Documentation Agent, and Fleet National Bank, as Co-Documentation Agent. The Credit Agreements contain representations and warranties, conditions precedent, covenants, events of default and other
+provisions generally found in similar agreements. The Credit Agreements provide for up to $500 million of unsecured borrowings, and consist of a $150 million short-term (364 day) facility that was extended in January 2003 that now expires in January
+2004, a $175 million revolving facility and a $175 million term loan that both expire in January 2005. The multi-year agreement 
+
+was amended in January 2003 to permit $75 million of multicurrency borrowing under the
+$175 million revolving facility and to add J.P. Morgan Europe Limited, as London Agent, as a party. SunGards only current outstanding borrowings under the Credit Agreements are $175 million under the term loan. SunGard can periodically
+designate borrowings as base-rate borrowings or LIBOR borrowings. Base-rate borrowings bear interest generally at the prime rate plus a margin (currently prime), while LIBOR borrowings bear interest at a rate equal to LIBOR plus a margin (currently
+LIBOR plus 1%), depending upon SunGards corporate credit rating at the time of the borrowing. Interest rates on base-rate borrowings reset daily, while LIBOR borrowings can be fixed for one-, two-, three- or six-month periods at SunGards
+option. In order to remain eligible to borrow under the Credit Agreements, SunGard must, among other requirements, maintain a minimum net worth of $850 million plus 50% of the quarterly net income starting April 1, 2002 ($930 million as of September
+30, 2002), an interest coverage ratio of at least four to one, and limit its total debt to no more than two and one-half times SunGards earnings before interest, taxes, depreciation and amortization. 
+
+Each of the third and fourth paragraph of Section 11
+(Background of the Offer) to the Offer to Purchase is hereby amended and restated in its entirety to read as follows: 
+
+On September 26, 2002, Mr. Conde indicated in a conversation with Mr. Gilson that SunGard considered the valuation
+of Caminus to be approximately $7.00 per share. The initial price of $7.00 per share was determined by SunGard after a review of the historical public information regarding Caminus, in particular Caminuss financial results and financial
+condition. SunGard also made certain assumptions with respect to future revenue growth and cost synergies that could be achieved with the acquisition of Caminus. Mr. Gilson responded that it did not appear that SunGard, in deriving its valuation,
+was factoring appropriately, among other things, expected revenues or the number of shares of Caminus common stock outstanding. Mr. Gilson indicated that the 2002 expected revenue figure that SunGard was using to value Caminus was lower than the
+consensus of publicly available estimates by stock analysts following Caminuss stock. In addition, Mr. Gilson indicated that SunGard had not taken into account Caminuss recently announced stock buy-back program and was therefore using an
+inflated figure regarding the number of shares of Caminus common stock outstanding. 
+
+Subsequently, in a conversation with Mr. Gilson on October 10, 2002, Mr. Conde indicated that SunGard had revised its
+valuation of Caminus and considered its revised valuation of Caminus to be in the range of $8.50 to $9.00 per share. 
+
+The second bullet point under the first paragraph of Section 13 (Certain Conditions to the Offer) of the Offer to Purchase is hereby
+amended and restated in its entirety to read as follows: 
+
+on any scheduled expiration date of the Offer, any of the following events or circumstances shall occur or exist or shall be reasonably determined by SunGard or the Purchaser to have occurred or exist, and in the sole
+good faith judgment of SunGard or the Purchaser, and regardless of the circumstances giving rise to such event or circumstance, such event or circumstance makes it inadvisable to proceed with the Offer and/or with such acceptance for payment of or
+payment for shares of Caminus common stock: 
+
+The penultimate paragraph of Section 13 (Certain Conditions to the Offer) of the Offer to Purchase is hereby amended and restated in its entirety to read as follows: 
+
+The foregoing conditions are for the sole benefit of SunGard and the Purchaser and,
+subject to the terms and conditions of the Merger Agreement, may be asserted by SunGard or Purchaser regardless of the circumstances giving rise to such condition, and must be satisfied, unless waived by SunGard or Purchaser in one or more respects
+(as described below) prior to the Expiration Date. The foregoing conditions may be waived by SunGard or Purchaser, in their reasonable discretion, in whole or in part, at any time and from time to time prior to the Expiration Date, in each case
+subject to the terms of the Merger Agreement. The failure by SunGard or the Purchaser, at any time prior to the Expiration Date, to exercise any of the foregoing rights will not be deemed a waiver of any such right and each such right will be deemed
+an ongoing right that may be asserted at any time and from time to time prior to the Expiration Date. 
+
+Section 13 (Certain Conditions to the Offer) of the Offer to Purchase is hereby amended to
+include the following paragraph after the penultimate paragraph of that section. 
+
+The foregoing paragraph notwithstanding, the condition requiring compliance with any applicable antitrust law or
+other governmental regulation may be satisfied or waived by SunGard or Purchaser, in their reasonable discretion, after the Expiration Date and prior to the Purchasers acceptance for payment of or payment for the validly tendered shares.
+
+The foregoing is hereby incorporated by
+reference in answer to Items 1-9 and Item 11 of the Schedule TO. 
+
+ITEM 12.    EXHIBITS 
+
+Exhibit Number
+
+Description
+
+(a)(1)*
+
+Offer to Purchase, dated January 29, 2003.
+
+(a)(2)*
+
+Letter of Transmittal.
+
+(a)(3)*
+
+Notice of Guaranteed Delivery.
+
+(a)(4)*
+
+Letter to Brokers, Dealers, Banks, Trust Companies and Other Nominees.
+
+(a)(5)*
+
+Letter to Clients for use by Brokers, Dealers, Banks, Trust Companies and Other Nominees.
+
+(a)(6)*
+
+Guidelines for Certification of Taxpayer Identification Number on Substitute Form W-9.
+
+(a)(7)*
+
+Joint Press Release issued by SunGard Data Systems Inc. and Caminus Corporation on January 21,
+2003.
+
+(a)(8)*
+
+Summary Newspaper Advertisement published in The New York Times, National Edition, on January 29,
+2003.
+
+(a)(9)*
+
+Press Release issued by SunGard Data Systems Inc. on January 29, 2003.
+
+(a)(10)*
+
+Joint Press Release issued by SunGard Data Systems Inc. and Caminus Corporation on February 7,
+2003.
+
+Exhibit Number
+
+Description
+
+(b)(1)*
+
+364-Day Credit Agreement dated as of January 25, 2002, among SunGard Data Systems Inc., certain banks and other
+financial institutions, JP Morgan Chase Bank, as Administrative Agent, PNC Bank, National Association, as Syndication Agent, First Union National Bank, as Documentation Agent, ABN AMRO Bank, N.V., as Co-Documentation Agent, and Fleet National Bank,
+as Co-Documentation Agent (Incorporated by reference to the Exhibit filed with SunGard Data Systems Inc.s Annual Report on Form 10-K for the fiscal year ended December 31, 2001 (Commission File No. 1-12989)).
+
+(b)(2)*
+
+Amended and Restated Three-Year Credit Agreement, dated as of January 10, 2003, among SunGard Data Systems Inc.,
+certain banks and other financial institutions, JP Morgan Chase Bank, as Administrative Agent, PNC Bank, National Association, as Syndication Agent, First Union National Bank, as Documentation Agent, ABN AMRO Bank, N.V., as Co-Documentation Agent,
+and Fleet National Bank, as Co-Documentation Agent (Incorporated by reference to the Exhibit filed with Tender Offer Statement on Schedule TO filed by SunGard Data Systems Inc. and its wholly owned subsidiary Lake Acquisition Corp. Inc. on
+February 14, 2003 (Commission File No. 5-52541)).
+
+(b)(3)
+
+Amendment, dated as of September 30, 2002, to the 364-Day Credit Agreement dated as of January 25, 2002 and the
+Three-Year Credit Agreement dated as of January 25, 2002, in each case among SunGard Data Systems Inc., certain banks and other financial institutions, JPMorgan Chase Bank, as Administrative Agent, PNC Bank, National Association, as Syndication
+Agent, First Union National Bank, as Documentation Agent, ABN AMRO Bank, N.V., as Co-Documentation Agent, and Fleet National Bank, as Co-Documentation Agent (Incorporated by reference to the Exhibit filed with Tender Offer Statement on Schedule TO
+filed by SunGard Data Systems Inc. and its wholly owned subsidiary Lake Acquisition Corp. Inc. on February 14, 2003 (Commission File No. 5-52541)).
+
+(b)(4)
+
+Amendment, dated as of January 10, 2003, to the 364-Day Credit Agreement dated as of January 25, 2002 among SunGard
+Data Systems Inc., certain banks and other financial institutions, JPMorgan Chase Bank, as Administrative Agent, PNC Bank, National Association, as Syndication Agent, First Union National Bank, as Documentation Agent, ABN AMRO Bank, N.V., as
+Co-Documentation Agent, and Fleet National Bank, as Co-Documentation Agent (Incorporated by reference to the Exhibit filed with Tender Offer Statement on Schedule TO filed by SunGard Data Systems Inc. and its wholly owned subsidiary Lake Acquisition
+Corp. Inc. on February 14, 2003 (Commission File No. 5-52541)).
+
+Exhibit Number
+
+Description
+
+(d)(1)*
+
+Agreement and Plan of Merger, dated January 20, 2003, by and among SunGard Data Systems Inc., Rapid Resources Inc.
+and Caminus Corporation (Incorporated by reference to the Exhibit filed with Caminus Corporations Current Report on Form 8-K for the event dated January 20, 2003 (Commission File No. 0-28085)).
+
+(d)(2)*
+
+Tender and Voting Agreement, dated as of January 20, 2003, by and among SunGard Data Systems Inc., Rapid Resources
+Inc., and certain directors, executive officers and affiliated stockholders of Caminus Corporation identified therein.
+
+(d)(3)*
+
+Confidentiality Agreement, between SunGard Data Systems Inc. and Caminus Corporation, dated as of November 6,
+2002.
+
+(g)
+
+Not applicable.
+
+(h)
+
+Not applicable.
+
+*
+
+Previously filed as an exhibit to the Schedule TO. 
+
+
+
+Supersedes and replaces in its entirety the Exhibit (b)(2) filed with the Schedule TO filed with the Commission on January 29, 2003. 
+
+SIGNATURES
+
+After due inquiry and to the best of my
+knowledge and belief, I certify that the information set forth in this statement is true, complete and correct. 
+
+RAPID RESOURCES INC.
+
+By:
+
+/
+S
+/    R
+ICHARD
+ C. T
+ARBOX
+
+Name:  
+Richard C. Tarbox
+
+Title:    
+Vice President
+
+SUNGARD DATA SYSTEMS INC.
+
+By:
+
+/
+S
+/    R
+ICHARD
+ C. T
+ARBOX
+
+Name:  
+Richard C. Tarbox
+
+Title:  
+Senior Vice President-Corporate
+
+Development
+
+Dated:  February 19, 2003 
+
+-----END PRIVACY-ENHANCED MESSAGE-----

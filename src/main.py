@@ -36,6 +36,8 @@ startPhrases = [
     "Background of the acquisition",
     "Background of the consolidation",
     "Background of the Asset Sale",
+    "Background of the Combination",
+    "Background of the Proposal",
     "Background of the Offer and the Merger",
     "Background and negotiation of the merger",
     "Background to the merger",
@@ -44,12 +46,16 @@ startPhrases = [
     "Background to the transaction",
     "Background to the consolidation",
     "Background to the Asset Sale",
+    "Background to the Combination",
+    "Background to the Proposal",
     "Background of Offer",
     "Background of Acquisition",
     "Background of Transaction",
     "Background of Merger",
     "Background of Consolidation",
-    "Background of Asset Sale"
+    "Background of Asset Sale",
+    "Background of Combination",
+    "Background of Proposal"
 ];
 
 def main():
@@ -74,8 +80,8 @@ def main():
     filterAssistant = Assistant(api_key, "Filter Assistant", instructions, prompt, "gpt-4o-mini");
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
-    crawler.runCrawler(startIndex=150, endIndex=199); # True to literal index: i.e., 0 to 99 is 0 to 99
-    # crawler.runCrawler(index=51);
+    crawler.runCrawler(startIndex=250, endIndex=299); # True to literal index: i.e., 0 to 99 is 0 to 99
+    # crawler.runCrawler(index=233);
 
     # Find the company that had the intention of selling/buying the other company
     instructions = (
