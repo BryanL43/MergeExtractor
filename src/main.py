@@ -34,22 +34,29 @@ startPhrases = [
     "Background of the merger",
     "Background of the offer",
     "Background of the acquisition",
+    "Background of the consolidation",
+    "Background of the Asset Sale",
     "Background of the Offer and the Merger",
+    "Background and negotiation of the merger",
     "Background to the merger",
     "Background to the acquisition",
     "Background to the offer",
     "Background to the transaction",
+    "Background to the consolidation",
+    "Background to the Asset Sale",
     "Background of Offer",
     "Background of Acquisition",
     "Background of Transaction",
-    "Background of Merger"
+    "Background of Merger",
+    "Background of Consolidation",
+    "Background of Asset Sale"
 ];
 
 def main():
     # Extract the documents with both company names present and the "Background of the Merger" section
     instructions = (
         "Your primary task is to determine whether the given text contains a section that provides a chronological background of a merger. "
-        "This section may be titled differently, such as 'Background of the Transaction', 'Background of the Acquisition', or 'Background of the Offer', and so on. "
+        "This section may be titled differently, such as 'Background of the Transaction', 'Background of the Acquisition', 'Background of the Offer', or 'Background of the Consolidation' and so on. "
         "Carefully scan the document to check if such a section exists. "
         "Do not analyze the contents—only confirm whether the section is present. "
         "If the section is found, return [Found]. If not, return [None]."
@@ -57,7 +64,7 @@ def main():
     
     prompt = (
         "Locate the 'Background of the Merger' section (which may be titled differently, such as "
-        "'Background of the Transaction', 'Background of the Acquisition', or 'Background of the Offer'). "
+        "'Background of the Transaction', 'Background of the Acquisition', 'Background of the Consolidation', or 'Background of the Offer'). "
         "This section provides a chronological timeline of events leading to the merger. "
         "For example, the timeline will describe events like: On date X, company A met with company B. "
         "If and only if you find this section, strictly return [Found]. "
@@ -67,7 +74,7 @@ def main():
     filterAssistant = Assistant(api_key, "Filter Assistant", instructions, prompt, "gpt-4o-mini");
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
-    crawler.runCrawler(startIndex=50, endIndex=99); # True to literal index: i.e., 0 to 99 is 0 to 99
+    crawler.runCrawler(startIndex=150, endIndex=199); # True to literal index: i.e., 0 to 99 is 0 to 99
     # crawler.runCrawler(index=51);
 
     # Find the company that had the intention of selling/buying the other company
