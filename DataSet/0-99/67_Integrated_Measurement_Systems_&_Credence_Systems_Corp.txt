@@ -1,6 +1,7 @@
-URL: https://www.sec.gov/Archives/edgar/data/893162/000101287001501132/0001012870-01-501132.txt
+URL: https://www.sec.gov/Archives/edgar/data/893162/000101287001501230/0001012870-01-501230.txt
 
-TREET 1:		215 FOURIER AVE
+
+		STREET 1:		215 FOURIER AVE
 		CITY:			FREMONT
 		STATE:			CA
 		ZIP:			94539
@@ -12,26 +13,32 @@ TREET 1:		215 FOURIER AVE
 		STATE:			CA
 		ZIP:			94539
 
-S-4
+S-4/A
 
-ds4.txt
+ds4a.txt
 
-FORM S-4
+AMENDMENT NO. 1 TO FORM S-4
 
-      As filed with the Securities and Exchange Commission on June 6, 2001
-                                                      Registration No. 333-
+   As filed with the Securities and Exchange Commission on June 15, 2001
+
+                                                 Registration No. 333-62386
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
                        SECURITIES AND EXCHANGE COMMISSION
                              Washington, D.C. 20549
 
-                                ----------------
+                               ----------------
+
+                              AMENDMENT NO. 1
+
+                                    TO
                                     FORM S-4
                              REGISTRATION STATEMENT
                                      UNDER
                            THE SECURITIES ACT OF 1933
 
-                                ----------------
+                               ----------------
+
                           CREDENCE SYSTEMS CORPORATION
              (Exact name of registrant as specified in its charter)
 
@@ -40,15 +47,17 @@ FORM S-4
     (State of Incorporation)       (Primary Standard Industrial           (I.R.S. Employer
                                        Classification Code)            Identification Number)
 
-                                ----------------
+                               ----------------
+
                                215 Fourier Avenue
                            Fremont, California 94539
                                  (510) 657-7400
   (Address, including zip code, and telephone number, including area code, of
                    registrant's principal executive offices)
 
-                                ----------------
-                               Byron W. Milstead
+                               ----------------
+
+                          Byron W. Milstead, Esq.
                        Vice President and General Counsel
                           Credence Systems Corporation
                                215 Fourier Avenue
@@ -56,7 +65,9 @@ FORM S-4
                                  (510) 657-7400
  (Name, address, including zip code, and telephone number, including area code,
                              of agent for service)
-                                ----------------
+
+                               ----------------
+
                                    Copies to:
 
            Warren T. Lazarow, Esq.                       William C. Campbell, Esq.
@@ -68,56 +79,28 @@ FORM S-4
           Telephone: (650) 424-0160                      Telephone: (503) 226-1191
           Facsimile: (650) 496-2885                      Facsimile: (503) 226-0079
 
-                                ----------------
+                               ----------------
+
    Approximate date of commencement of proposed sale to the public: As soon as
 practicable following the effectiveness of this Registration Statement and
 consummation of the merger described herein.
-  If the securities being registered on this Form are being offered in
+
+   If the securities being registered on this Form are being offered in
 connection with the formation of a holding company and there is compliance with
 General Instruction G, check the following box. [_]
-  If this Form is filed to register additional securities for an offering
+
+   If this Form is filed to register additional securities for an offering
 pursuant to Rule 462(b) under the Securities Act, check the following box and
 list the Securities Act registration statement number of the earlier effective
 registration statement for the same offering. [_]
-  If this Form is a post-effective amendment filed pursuant to Rule 462(d)
+
+   If this Form is a post-effective amendment filed pursuant to Rule 462(d)
 under the Securities Act, check the following box and list the Securities Act
 registration statement number of the earlier effective registration statement
 for the same offering. [_]
 
-                        CALCULATION OF REGISTRATION FEE
-- --------------------------------------------------------------------------------
-- --------------------------------------------------------------------------------
+                               ----------------
 
-                                                         Proposed        Proposed
-                                                         Maximum         Maximum         Amount of
-        Title of Each Class of          Amount to be  Offering Price     Aggregate      Registration
-     Securities to be Registered        Registered(1)   Per Share    Offering Price(2)     Fee(2)
-- ----------------------------------------------------------------------------------------------------
-
-Common Stock, par value $0.001 per
- share(3)............................    9,393,417         N/A       $196,218,025.20     $49,054.51
-- ----------------------------------------------------------------------------------------------------
-
-- --------------------------------------------------------------------------------
-(1) This registration statement relates to common stock, par value $0.001 per
-    share, of Credence Systems Corporation in the proposed merger of Iguana
-    Acquisition Corporation, a wholly-owned subsidiary of Credence, with and
-    into Integrated Measurement Systems, Inc. The amount of Credence common
-    stock to be registered has been determined by multiplying the exchange
-    ratio (0.9 of a share of Credence common stock for each share of IMS common
-    stock) by 10,437,129 shares, the maximum aggregate number of shares of IMS
-    common stock that would be outstanding prior to the merger, assuming the
-    exercise of all outstanding IMS options and warrants (whether or not
-    exercisable).
-(2) The registration fee was calculated pursuant to Rule 457(f) under the
-    Securities Act as 0.000250 multiplied by $18.80 (the average of the high
-    and low prices of IMS common stock on The Nasdaq National Market on May 31,
-    2001), multiplied by 10,437,129 shares.
-(3) Includes corresponding right to purchase shares of Credence Systems
-    Corporation Series A Junior Participating Preferred Stock, par value $0.001
-    per share, pursuant to a Rights Agreement dated as of June 2, 1998 between
-    Credence Systems Corporation and BankBoston, N.A.
-                                ----------------
    The registrant hereby amends this registration statement on such date or
 dates as may be necessary to delay its effective date until the registrant
 shall file a further amendment that specifically states that this registration
@@ -131,7 +114,7 @@ Section 8(a), may determine.
 
                                   [LOGO OF INTEGRATED MEASUREMENT SYSTEMS, INC.]
 
-[June   , 2001]
+June 15, 2001
 
 Dear Integrated Measurement Systems, Inc. Shareholders:
 
@@ -148,11 +131,11 @@ will be exchanged for 0.90 shares of Credence common stock (subject to
 adjustment to reflect the effect of any stock split, stock dividend,
 reorganization or similar change in Credence or IMS common stock). Credence
 common stock is traded on the Nasdaq National Market under the trading symbol
-"CMOS," and on June 4, 2001, Credence common stock closed at $21.69 per share.
+"CMOS," and on June 13, 2001, Credence common stock closed at $22.90 per share.
 
    Before we can merge, the holders of 67% of IMS' outstanding common stock
 must vote to approve the merger agreement. The merger proposal will be voted on
-at a special meeting of IMS' shareholders on [    , 2001] at 10:00 a.m. local
+at a special meeting of IMS' shareholders on July 31, 2001 at 10:00 a.m. local
 time at the Courtyard by Marriott, 8500 S.W. Nimbus Avenue, Beaverton, Oregon
 97008. Only those who hold shares of our common stock at the close of business
 on June 7, 2001 will be entitled to vote at the special meeting.
@@ -184,7 +167,7 @@ urge you to VOTE FOR APPROVAL of the merger agreement among IMS, Credence and a
 subsidiary of Credence.
 
                                           Sincerely,
-
+                                          /s/ Keith L. Barnes
                                           Keith L. Barnes
                                           Chief Executive Officer and Chairman
                                           of the Board
@@ -199,8 +182,8 @@ subsidiary of Credence.
  statement/prospectus is accurate or complete. Any representation to the
  contrary is a criminal offense.
 
-    This proxy statement/prospectus is dated [June   , 2001], and is first
- being mailed to IMS shareholders on or about [June   , 2001].
+    This proxy statement/prospectus is dated June 15, 2001, and is first
+ being mailed to IMS shareholders on or about June 21, 2001.
 
                       INTEGRATED MEASUREMENT SYSTEMS, INC.
                              9525 S.W. Gemini Drive
@@ -210,14 +193,15 @@ subsidiary of Credence.
                                ----------------
 
                    NOTICE OF SPECIAL MEETING OF SHAREHOLDERS
-                          TO BE HELD [        , 2001]
+
+                         TO BE HELD JULY 31, 2001
 
                                ----------------
 
 To the Shareholders of Integrated Measurement Systems, Inc.:
 
    We will hold a special meeting of shareholders of Integrated Measurement
-Systems, Inc., or IMS, at 10:00 a.m. local time, on [            , 2001] at the
+Systems, Inc., or IMS, at 10:00 a.m. local time, on July 31, 2001 at the
 Courtyard by Marriott, 8500 S.W. Nimbus Avenue, Beaverton, Oregon 97008, for
 the following purposes:
 
@@ -244,14 +228,14 @@ information in the proxy statement/prospectus your careful attention.
 June 7, 2001 are entitled to notice of, and will be entitled to vote at, the
 special meeting or any adjournment or postponement thereof. At the close of
 business on such record date, IMS had outstanding and entitled to vote
-[           ] shares of common stock.
+7,941,904 shares of common stock.
 
    The IMS board of directors has carefully considered the terms and conditions
 of the merger and has unanimously determined that the terms are fair to, and in
 the best interests of, IMS shareholders. The board of directors has unanimously
 adopted the agreement and plan of merger and approved the merger and
-unanimously recommends that you vote FOR the approval of the merger agreement
-and the merger.
+unanimously recommends that you vote FOR the approval of the agreement and plan
+of merger and the merger.
 
    YOUR VOTE IS VERY IMPORTANT. Approval of the agreement and plan of merger
 and reorganization will require the affirmative vote of the holders of IMS
@@ -264,17 +248,18 @@ mail your proxy card without indicating how you wish to vote, your proxy will
 be voted in favor of approval of the agreement and plan of merger. You may
 revoke your proxy in the manner described in the accompanying proxy
 statement/prospectus at any time before it has been voted at the special
-meeting. Any shareholders attending the special meeting may revote his, her or
+meeting. Any shareholder attending the special meeting may revoke his, her or
 its proxy and vote in person.
 
                                           By Order of the Board of Directors
-
+                                          /s/ Keith L. Barnes
                                           Keith L. Barnes
                                           Chief Executive Officer and
                                           Chairman of the Board
 
 Beaverton, Oregon
-[June    , 2001]
+
+June 15, 2001
 
               QUESTIONS AND ANSWERS ABOUT THE IMS/CREDENCE MERGER
 
@@ -288,8 +273,8 @@ A:  If the merger is completed, you will receive 0.90 shares of common stock
     Credence will not issue fractional shares of common stock. You will
     receive cash based on the market price of Credence common stock instead of
     any fractional share. Credence common stock is traded on the Nasdaq
-    National Market under the trading symbol "CMOS," and on June 4, 2001,
-    Credence common stock closed at $21.69 per share. Because the exchange
+    National Market under the trading symbol "CMOS," and on June 13, 2001,
+    Credence common stock closed at $22.90 per share. Because the exchange
     ratio is fixed at 0.90 but the market price of Credence common stock is
     subject to fluctuation, the market value of the shares of Credence common
     stock that you will receive in the merger may increase or decrease prior
@@ -316,7 +301,7 @@ A:  Yes. All shares of Credence common stock received in the merger will be
     purposes of the Securities Act. Persons who are deemed affiliates of IMS
     will be required to comply with Rules 144 and 145 under the Securities Act
     and the terms of their affiliate agreements with Credence which, in
-    connection with accounting for the merger as a pooling-of-interests,
+    connection with accounting for the merger as a pooling of interests,
     require IMS' affiliates not to sell the shares of Credence common stock
     they receive in the merger from the date beginning 30 days prior to the
     completion of the merger until Credence releases earnings containing at
@@ -325,9 +310,8 @@ A:  Yes. All shares of Credence common stock received in the merger will be
 Q:  When will the merger be completed?
 
 A:  Subject to obtaining the necessary approval of IMS shareholders, we hope
-    to complete the merger by the end of July 2001. Because the merger is
-    subject to governmental approvals, however, we cannot predict the exact
-    timing.
+    to complete the merger in early August 2001. Because the merger is subject
+    to governmental approvals, however, we cannot predict the exact timing.
 
 Q:  Are there risks I should consider in deciding whether to vote for the
     merger?
@@ -466,7 +450,7 @@ COMPARISON OF RIGHTS OF SHAREHOLDERS OF IMS AND STOCKHOLDERS OF CREDENCE..   72
                                                                           Page
                                                                           ----
 
-  Shareholder Action Without a Meeting...................................   72
+  Shareholder Action without a Meeting...................................   72
   Bylaws.................................................................   73
   Size of the Board of Directors.........................................   73
   Classification of the Board of Directors...............................   73
@@ -511,12 +495,13 @@ statement/prospectus and may not contain all of the information that is
 important to you. You should carefully read this entire proxy
 statement/prospectus, including the appendices, and the other documents we
 refer to for a more complete understanding of the merger and related
-transactions. The agreement and plan of merger and reorganization is attached
-as Appendix A1 to this proxy statement/prospectus and additional documents
-relating to the transaction are also attached hereto. Amendment no. 1 to the
-agreement and plan of merger and reorganization is attached as Appendix A2 to
-this proxy statement/prospectus. Each reference to the "merger agreement" in
-this proxy statement/prospectus refers to the agreement and plan of merger and
+transactions. The agreement and plan of merger and reorganization and the
+exhibits thereto (including the plan of merger) are attached as Appendix A1 to
+this proxy statement/prospectus and additional documents relating to the
+transaction are also attached hereto. Amendment no. 1 to the agreement and plan
+of merger and reorganization is attached as Appendix A2 to this proxy
+statement/prospectus. Each reference to the "merger agreement" in this proxy
+statement/prospectus refers to the agreement and plan of merger and
 reorganization as amended by amendment no. 1 to the agreement and plan of
 merger and reorganization. You are encouraged to read the merger agreement in
 its entirety, as it is the legal document that governs the merger. You are also
@@ -562,21 +547,21 @@ www.ims.com
    IMS designs, manufactures, markets and services versatile, high performance
 IC validation systems. Customers use IMS' validation systems to test, at the
 prototype stage, complex digital, mixed-signal and memory devices such as
-microprocessors: application specific integrated circuits; multi-chip modules;
-systems on chip integrated circuits; static random access memory; and dynamic
-random access memory devices. In addition, IMS develops, markets and supports a
-line of virtual test software that enables design and test engineers to develop
-and debug production test software prior to fabricating the prototype of the
-actual device. IMS' validation systems and software enable its customers to
-refine their integrated circuit designs,
+microprocessors: application specific ICs; multi-chip modules; systems on chip
+ICs; static random access memory; and dynamic random access memory devices. In
+addition, IMS develops, markets and supports a line of virtual test software
+that enables design and test engineers to develop and debug production test
+software prior to fabricating the prototype of the actual device. IMS'
+validation systems and software enable its customers to refine their IC
+designs, provide reliable and prompt feedback to both design
 
-provide reliable and prompt feedback to both design and test engineers, reduce
-cost of testing and shorten time-to-market. IMS markets and supports its
-products worldwide through a network of direct sales force personnel,
-independent distributors and dedicated sales personnel employed by affiliated
-companies. IMS has sold over 1,000 validation systems to customers in the
-semiconductor, aerospace, automotive, computer, consumer electronics, data
-communications, medical electronics, telecommunications and other industries.
+and test engineers, reduce cost of testing and shorten time-to-market. IMS
+markets and supports its products worldwide through a network of direct sales
+force personnel, independent distributors and dedicated sales personnel
+employed by affiliated companies. IMS has sold over 1,000 validation systems to
+customers in the semiconductor, aerospace, automotive, computer, consumer
+electronics, data communications, medical electronics, telecommunications and
+other industries.
 
 Structure of the Merger and Conversion of IMS Common Stock (see page 53)
 
@@ -621,8 +606,8 @@ the outstanding shares of IMS common stock as of the record date, has entered
 into an amended and restated shareholder agreement with Credence (referred to
 herein as the "shareholder agreement"), whereby Cadence is required to vote all
 shares of IMS common stock beneficially owned by it in favor of approval of the
-merger agreement and requires Cadence to vote against any other takeover
-proposals. The shareholder agreement is attached to this proxy
+merger agreement and to vote against any other merger or other business
+combination proposals. The shareholder agreement is attached to this proxy
 statement/prospectus as Appendix B.
 
    You are entitled to cast one vote per share of IMS common stock you owned as
@@ -653,23 +638,23 @@ Reasons for the Merger (see page 42)
  Credence
 
    The board of directors of Credence has determined that the merger is in the
-best interest of Credence and its stockholders, and has identified several
+best interests of Credence and its stockholders, and has identified several
 potential benefits, including:
 
   . a reduction in the volatility of Credence's business model;
 
-  . complementary product lines;
+  . complementary product lines and capabilities;
 
   . potentially expanded customer usage model from design prototype
     validation to production test;
 
-  . a broader potential Credence customer and relationship base;
+  . a broader potential customer and relationship base;
 
   . a potentially expanded customer base geographically;
 
-  . an enhanced Credence technology portfolio;
+  . an enhanced technology portfolio;
 
-  . a stronger Credence virtual test product;
+  . a stronger virtual test product;
 
   . enhanced purchasing power with suppliers;
 
@@ -680,7 +665,7 @@ potential benefits, including:
  IMS
 
    The board of directors of IMS has determined that the terms of the merger
-are fair to, and in the best interests, of IMS and its shareholders, and has
+are fair to, and in the best interests of, IMS and its shareholders, and has
 identified several potential benefits, including:
 
   . increased liquidity for IMS shareholders;
@@ -765,12 +750,14 @@ Shareholder Agreement Requiring It to Vote in Favor of the Merger (see page 66)
 
    Cadence has entered into a shareholder agreement with Credence which
 requires Cadence to vote all shares of IMS common stock beneficially owned by
-it in favor of approval of the merger agreement and requires Cadence to vote
-against any other takeover proposals. The shareholder agreement also requires
+it in favor of approval of the merger agreement and to vote against any other
+merger or other business combination proposals. The shareholder agreement also
+requires
 
 Cadence to deliver an irrevocable proxy to Credence. The irrevocable proxy
 enables Credence to vote Cadence's shares to approve the merger and enables
-Credence to vote Cadence's shares against any other takeover proposals.
+Credence to vote Cadence's shares against any other merger or other business
+combination proposals.
 
    The shares of IMS common stock subject to the shareholder agreement
 represent approximately 32% of the outstanding IMS common stock as of the
@@ -787,7 +774,7 @@ Interests of IMS' Directors, Officers and Affiliates in the Merger (see page
 should be aware that certain IMS directors, officers and affiliates have
 interests in the merger that are different from, or in addition to, yours. As a
 result, IMS' directors, officers and affiliates may be more likely to vote to
-approve the merger agreement than IMS shareholders generally. As of June 4,
+approve the merger agreement than IMS shareholders generally. As of June 7,
 2001, directors and executive officers of IMS and affiliates (including
 Cadence) held approximately 34% of the outstanding shares of IMS common stock
 entitled to vote. To approve the merger agreement, the holders of 67% of the
@@ -824,11 +811,11 @@ a condition to completion of the merger.
 
 Antitrust Approval Required to Complete the Merger (see page 69)
 
-   The merger is subject to United States antitrust laws. Credence and IMS
-expect to make the required filings with the United States Department of
-Justice and the Federal Trade Commission. However, Credence and IMS are not
-permitted to complete the merger until the applicable waiting period has
-expired or terminated.
+   The merger is subject to United States antitrust laws. Credence and IMS have
+made the required filings with the United States Department of Justice and the
+Federal Trade Commission. However, Credence and IMS are not permitted to
+complete the merger until the applicable waiting period has expired or
+terminated.
 
    In addition, Credence and IMS may need to obtain approval for the merger in
 foreign jurisdictions depending upon the extent to which IMS and/or Credence
@@ -846,7 +833,7 @@ Credence has offered limited registration rights to parties who may be deemed
 to be affiliates of IMS which may be utilized if those affiliates are unable to
 sell their shares of Credence common stock acquired in the merger under Rules
 144 and 145 under the Securities Act. In addition, in connection with
-accounting for the merger as a pooling-of-interests, IMS' affiliates will not
+accounting for the merger as a pooling of interests, IMS' affiliates will not
 be able to sell the shares of Credence common stock received in the merger from
 the date beginning 30 days prior to the completion of the merger until Credence
 releases earnings containing at least 30 days of earnings of the combined
@@ -890,17 +877,16 @@ Credence and IMS.
 October 31, 1996, October 31, 1997, October 31, 1998, October 31, 1999 and
 October 31, 2000 has been derived from its audited consolidated financial
 statements and related notes thereto incorporated herein by reference.
-Credence's historical figures as of and for the three months ended January 31,
-2000 and January 31, 2001 have been derived from, and should be read in
-conjunction with, Credence's unaudited consolidated financial statements and
-the notes thereto that are incorporated herein by reference. The unaudited
-results of operations for the interim period presented are not necessarily
-indicative of the results to be expected for any other interim period or for
-the fiscal year as a whole. However, in the opinion of Credence's management,
-the interim financial data presented reflects all adjustments, consisting only
-of normal recurring adjustments, necessary for the fair presentation of the
-financial condition at such date and the results of operations for such
-periods.
+Credence's historical figures as of and for the six months ended April 30, 2000
+and April 30, 2001 have been derived from, and should be read in conjunction
+with, Credence's unaudited consolidated financial statements and the notes
+thereto that are incorporated herein by reference. The unaudited results of
+operations for the interim period presented are not necessarily indicative of
+the results to be expected for any other interim period or for the fiscal year
+as a whole. However, in the opinion of Credence's management, the interim
+financial data presented reflects all adjustments, consisting only of normal
+recurring adjustments, necessary for the fair presentation of the financial
+condition at such date and the results of operations for such periods.
 
    IMS' summary financial data as of and for the fiscal years ended December
 31, 1996, December 31, 1997, December 31, 1998, December 31, 1999 and December
@@ -920,8 +906,8 @@ operations for such periods.
          Summary Selected Historical Consolidated Financial Data, Cont.
 Credence:
 
-                                                                            Three Months
-                                 Fiscal Years Ended October 31,            Ended Jan. 31,
+                                                                          Six Months Ended
+                                 Fiscal Years Ended October 31,               April 30,
                           ----------------------------------------------  ------------------
                             1996     1997     1998      1999      2000      2000      2001
                           -------- -------- --------  --------  --------  --------  --------
@@ -930,25 +916,25 @@ Credence:
 Historical Consolidated
  Statement Of Operations
  Data:
-Net sales...............  $238,788 $204,092 $216,803  $197,183  $679,738  $101,768  $123,177
+Net sales...............  $238,788 $204,092 $216,803  $197,183  $679,738  $255,522  $166,470
 Net income (loss) from
- continuing operations..  $ 37,703 $ 10,693 $(26,282) $   (809) $140,382  $ 16,862  $ 14,735
-Net income (loss) from
- continuing operations
- per share--basic.......  $   0.88 $   0.25 $  (0.61) $  (0.02) $   2.91  $   0.38  $   0.28
+ continuing operations..  $ 37,703 $ 10,693 $(26,282) $   (809) $140,382  $ 50,356  $(28,977)
 Net income (loss) from
  continuing operations
- per share--diluted.....  $   0.86 $   0.24 $  (0.61) $  (0.02) $   2.65  $   0.35  $   0.27
+ per share--basic.......  $   0.88 $   0.25 $  (0.61) $  (0.02) $   2.91  $   1.10  $  (0.55)
+Net income (loss) from
+ continuing operations
+ per share--diluted.....  $   0.86 $   0.24 $  (0.61) $  (0.02) $   2.65  $   1.00  $  (0.55)
 Number of shares used in
  per common share
- calculation--basic.....    43,064   43,730   43,066    42,176    48,239    43,904    52,409
+ calculation--basic.....    43,064   43,730   43,066    42,176    48,239    45,900    52,448
 Number of shares used in
  per common share
- calculation--diluted...    43,954   45,024   43,066    42,176    54,176    47,506    54,410
+ calculation--diluted...    43,954   45,024   43,066    42,176    54,176    50,386    52,448
 
-                                                                             As of Three
+                                                                              As of Six
                                                                             Months Ended
-                            As of the Fiscal Year Ended October 31,           Jan. 31,
+                            As of the Fiscal Year Ended October 31,           April 30,
                           ----------------------------------------------  ------------------
                             1996     1997     1998      1999      2000      2000      2001
                           -------- -------- --------  --------  --------  --------  --------
@@ -956,10 +942,10 @@ Number of shares used in
 
 Historical Consolidated
  Balance Sheet Data:
-Total assets............  $233,042 $358,141 $306,189  $340,420  $879,237  $376,536  $865,268
+Total assets............  $233,042 $358,141 $306,189  $340,420  $879,237  $728,713  $779,441
 Long-term obligations,
  net of current
- portion................       --  $115,418 $115,227  $ 98,026  $  8,655  $ 98,026  $  9,921
+ portion................       --  $115,418 $115,227  $ 98,026  $  8,655  $ 97,116  $ 10,343
 
 IMS:
 
@@ -1041,25 +1027,25 @@ realized had the entities been a single entity during the periods presented.
 
                             Credence Per Share Data
 
-                                                                  Three Months
-                                            Fiscal Years Ended     Ended Jan.
-                                                 Oct. 31,             31,
-                                           ---------------------- ------------
-                                            1998    1999    2000   2000  2001
-                                           ------  ------  ------ ----- ------
-                                            (in thousands, except per share
-                                                         data)
+                                                                 Six Months
+                                          Fiscal Years Ended     Ended April
+                                               Oct. 31,              30,
+                                         ---------------------- -------------
+                                          1998    1999    2000   2000   2001
+                                         ------  ------  ------ ------ ------
+                                          (in thousands, except per share
+                                                       data)
 
 Credence Historical Data(F):
-Net income from continuing operations per
- share--basic............................. $(0.61) $(0.02) $ 2.91 $0.38 $ 0.28
-Net income from continuing operations per
- share--diluted........................... $(0.61) $(0.02) $ 2.65 $0.35 $ 0.27
-Book value per share at period end........ $ 3.68  $ 4.16  $13.76 $4.73 $14.06
+Net income from continuing operations
+ per share--basic....................... $(0.61) $(0.02) $ 2.91 $ 1.10 $(0.55)
+Net income from continuing operations
+ per share--diluted..................... $(0.61) $(0.02) $ 2.65 $ 1.00 $(0.55)
+Book value per share at period end...... $ 3.68  $ 4.16  $13.76 $14.66 $13.22
 
                                IMS Per Share Data
 
-                                    Year Ended December        Three Months
+                                    Year Ended December         Six Months
                                             31,              Ended March 31,
                                    -----------------------  --------------------
                                     1998     1999   2000      2000       2001
@@ -1068,39 +1054,41 @@ Book value per share at period end........ $ 3.68  $ 4.16  $13.76 $4.73 $14.06
 
 IMS Historical Data(F):
 Basic income (loss) per share:
-  Before cumulative effect(A)..... $ (0.44) $ 0.74 $  1.31  $    0.26  $   0.24
+  Before cumulative effect(A)..... $ (0.44) $ 0.74 $  1.31  $    0.59  $   0.43
   Cumulative effect of accounting
-   change(B)...................... $   --   $  --  $ (0.93) $   (0.95) $    --
-  Net income (loss) per share(A).. $ (0.44) $ 0.74 $  0.38  $   (0.69) $   0.24
+   change(B)...................... $   --   $  --  $ (0.93) $   (0.96) $    --
+  Net income (loss) per share(A).. $ (0.44) $ 0.74 $  0.38  $   (0.37) $   0.43
 Diluted income (loss) per share:
-  Before cumulative effect(A)..... $ (0.44) $ 0.70 $  1.20  $    0.23  $   0.22
+  Before cumulative effect(A)..... $ (0.44) $ 0.70 $  1.20  $    0.53  $   0.40
   Cumulative effect of accounting
-   change(B)...................... $   --   $  --  $ (0.85) $   (0.85) $    --
-  Net income (loss) per share(A).. $ (0.44) $ 0.70 $  0.35  $   (0.62) $   0.22
+   change(B)...................... $   --   $  --  $ (0.85) $   (0.96) $    --
+  Net income (loss) per share(A).. $ (0.44) $ 0.70 $  0.35  $   (0.37) $   0.40
 Book value per share at period
  end.............................. $  7.21  $ 8.15 $  8.63  $    8.42  $   8.82
 
                   Unaudited Pro Forma Combined Per Share Data
 
-                                                                   Three Months
-                                                                    Ended Jan.
-                                     Fiscal Years Ended Oct. 31,       31,
-                                     ----------------------------- ------------
-                                        1998      1999     2000     2000  2001
-                                     ---------  ------------------ ----- ------
+                                                                  Six Months
+                                                                  Ended April
+                                   Fiscal Years Ended Oct. 31,        30,
+                                   ----------------------------- -------------
+                                      1998      1999     2000     2000   2001
+                                   ---------  ------------------ ------ ------
 
 Pro Forma Combined Per Share
  Data(C)(D)(E):
-Per Credence common share--basic...  $   (0.59) $   0.10 $    2.68 $0.36 $ 0.25
 Per Credence common share--
- diluted...........................  $   (0.59) $   0.09 $    2.44 $0.34 $ 0.24
-Equivalent per IMS share--basic....  $   (0.54) $   0.09 $    2.41 $0.33 $ 0.22
-Equivalent per IMS share--diluted..  $   (0.54) $   0.08 $    2.20 $0.30 $ 0.21
+ basic...........................  $   (0.59) $   0.10 $    2.68 $ 1.03 $(0.46)
+Per Credence common share--
+ diluted.........................  $   (0.59) $   0.09 $    2.44 $ 0.94 $(0.46)
+Equivalent per IMS share--basic..  $   (0.54) $   0.09 $    2.41 $ 0.93 $(0.41)
+Equivalent per IMS share--
+ diluted.........................  $   (0.54) $   0.08 $    2.20 $ 0.85 $(0.41)
 
 Pro Forma Combined Book Value Per
  Share At Period End(C)(D)(E)(F):
-Per Credence share.................  $    4.29  $   4.82 $   13.34 $5.37 $13.60
-Equivalent per IMS share...........  $    3.86  $   4.34 $   12.01 $4.83 $12.24
+Per Credence share...............  $    4.29  $   4.82 $   13.34 $14.00 $12.86
+Equivalent per IMS share.........  $    3.86  $   4.34 $   12.01 $12.60 $11.58
 
 - --------
 (A) Net income, basic earnings per share and diluted earnings per share for
@@ -1113,19 +1101,45 @@ Equivalent per IMS share...........  $    3.86  $   4.34 $   12.01 $4.83 $12.24
 
 (C) The Unaudited Pro Forma Combined Per Share Data combines financial
     information of Credence for the fiscal years ended October 31, 1998,
-    October 31, 1999 and October 31, 2000 and the three months ended January
-    31, 2000 and January 31, 2001 with the financial information of IMS for the
+    October 31, 1999, and October 31, 2000 and the six months ended April 30,
+    2000 and April 30, 2001 with the financial information of IMS for the
     fiscal years ended December 31, 1998, December 31, 1999 and December 31,
-    2000 and the three months ended March 31, 2000 and 2001, respectively. This
-    information which is unaudited also assumes the merger occurred as of the
+    2000 and the six months ended March 31, 2000 and 2001, respectively. This
+    information which is unaudited, also assumes the merger occurred as of the
     beginning of the earliest period presented and was accounted for as a
     pooling of interests.
+
+    Included in the figures for IMS for the six month periods ended March 31,
+    2000 and 2001 were the following pre-SAB 101 results of operations for the
+    three-month periods ended December 31, 1999 and 2000, respectively:
+
+                                                                 Three Months
+                                                                Ended December
+                                                                      31,
+                                                                ---------------
+                                                                 1999    2000
+                                                                ------- -------
+
+Consolidated Statement of Operations Data:
+Net Sales...................................................... $16,791 $17,714
+Income (loss) before cumulative effect of accounting change.... $ 2,510 $ 1,875
+Cumulative effect of accounting change......................... $    -- $    --
+Net income (loss).............................................. $ 2,510 $ 1,875
+IMS Per Share Data:
+Basic income (loss) per share:
+ Before cumulative effect...................................... $  0.33 $  0.24
+ Cumulative effect of accounting change........................ $    -- $    --
+ Net Income (loss) per share................................... $  0.33 $  0.24
+Diluted:
+ Before cumulative effect...................................... $  0.31 $  0.22
+ Cumulative effect of accounting change........................ $    -- $    --
+ Net Income (loss) per share................................... $  0.31 $  0.22
 
 (D) The Unaudited Pro Forma Combined Per Share Data is presented on a pre-SAB
     101 basis for IMS. During the fourth fiscal quarter of 2001, the combined
     company will record the cumulative effect of SAB 101 at November 1, 2000
-    and will restate all four quarters of fiscal 2001 for the effect of SAB
-    101.
+    and will restate the three fiscal quarters ended July 31, 2001 for the
+    effect of SAB 101.
 
 (E) The unaudited equivalent IMS pro forma per share amounts are calculated by
     multiplying the Credence combined pro forma per share amounts by the
@@ -1166,7 +1180,7 @@ effected on May 17, 2000.
    Credence's Fiscal 2001
      First Quarter............................................... $29.50 $16.19
      Second Quarter.............................................. $27.00 $17.50
-     Third Quarter (through June 4, 2001)........................ $26.49 $21.00
+     Third Quarter (through June 13, 2001)....................... $26.49 $21.00
 
 IMS Market Price Data
 
@@ -1192,7 +1206,7 @@ indicated.
 
    IMS' Fiscal 2001
      First Quarter............................................... $13.69 $ 7.00
-     Second Quarter (through June 4, 2001)....................... $23.54 $10.70
+     Second Quarter (through June 13, 2001)...................... $23.54 $10.70
 
 Dividend Information
 
@@ -1205,13 +1219,12 @@ Recent Closing Prices
    As of May 16, 2001, the last trading day before announcement of the proposed
 merger, the closing prices per share of Credence common stock and IMS common
 stock on the Nasdaq National Market were $24.76 and $12.81, respectively. On
-[June     , 2001], the latest practicable trading day before the printing of
-this proxy statement/prospectus, the closing prices per share of Credence
-common stock and IMS common stock on the Nasdaq National Market were $[      ]
-and $[       ], respectively. The equivalent per share prices for IMS common
-stock based on the Credence common stock prices multiplied by the exchange
-ratio of 0.90 were $22.28 as of May 16, 2001 and $[      ] as of [June     ,
-2001].
+June 13, 2001, the latest practicable trading day before the printing of this
+proxy statement/prospectus, the closing prices per share of Credence common
+stock and IMS common stock on the Nasdaq National Market were $22.90 and
+$20.35, respectively. The equivalent per share prices for IMS common stock
+based on the Credence common stock prices multiplied by the exchange ratio of
+0.90 were $22.28 as of May 16, 2001 and $20.61 as of June 13, 2001.
 
    Because the exchange ratio is fixed at 0.90 but the market price of Credence
 common stock is subject to fluctuation, the market value of the shares of
@@ -1221,11 +1234,11 @@ to obtain current market quotations for Credence and IMS common stock. No
 assurance can be given as to the future prices or markets for Credence or IMS
 common stock.
 
-Number of IMS Shareholders
+IMS Shares
 
-   As of close of business on June 7, 2001, there were approximately [     ] of
-IMS common stock outstanding and entitled to vote at the special meeting, held
-by approximately [     ] shareholders of record of IMS.
+   As of close of business on June 7, 2001, there were approximately 7,941,904
+shares of IMS common stock outstanding and entitled to vote at the special
+meeting.
 
                                   RISK FACTORS
 
@@ -1239,8 +1252,8 @@ vote for the merger.
                           Risks Related to the Merger
 
    Under this section entitled "--Risks Related to the Merger," use of the term
-"combined company" refers to the Credence group of companies after completion
-of the merger, including IMS.
+"combined company" refers to the Credence group of companies including IMS
+after completion of the merger.
 
 You will receive 0.90 shares of Credence common stock for each share of IMS
 common stock owned despite changes in market value of IMS common stock or
@@ -1258,7 +1271,7 @@ of the merger. The share price of Credence common stock is by its nature
 subject to the general price fluctuations in the market for publicly traded
 equity securities and has experienced significant volatility. See "Risk
 Factors--Risks Relating to Credence" below. No prediction can be made as to the
-market price of Credence common stock at the completion of the merger or as to
+market price of Credence common stock upon completion of the merger or as to
 the market price of Credence common stock after the completion of the merger.
 
 Although Credence and IMS expect that the merger will result in benefits, those
@@ -1285,12 +1298,12 @@ period.
 will involve risks that may jeopardize the success of the combined company.
 Integration of the IMS technology and products will result in significant
 expansion of Credence's participation in the high performance integrated
-circuit validation systems market, will involve considerable risks and may or
-may not be successful. For the potential benefits of the merger to be fully
-realized, Credence will have to learn to satisfy the needs of customers in this
-market in a timely and efficient manner. Credence and IMS cannot, therefore,
-assure you that IMS will be successfully integrated into Credence or that any
-of the anticipated benefits will be realized, and failure to do so could have a
+circuit validation systems market, will involve considerable risks and may not
+be successful. For the potential benefits of the merger to be fully realized,
+Credence will have to learn to satisfy the needs of customers in this market in
+a timely and efficient manner. Credence and IMS cannot, therefore, assure you
+that IMS will be successfully integrated into Credence or that any of the
+anticipated benefits will be realized, and failure to do so could have a
 material adverse effect on the combined company's business, financial condition
 and operating results and on the price of Credence's common stock.
 
@@ -1302,25 +1315,25 @@ continuing indemnification against liabilities that provide them with interests
 in the merger that are different from, or are in addition to, yours including
 the following:
 
-  . As of June 4, 2001, directors and executive officers of IMS and
+  . As of June 7, 2001, directors and executive officers of IMS and
     affiliates (including Cadence) held approximately 34% of the outstanding
     shares of IMS common stock entitled to vote.
 
-  . As of June 4, 2001, directors and executive officers of IMS held stock
+  . As of June 13, 2001, directors and executive officers of IMS held stock
     options, both vested and unvested, to purchase an aggregate of 1,313,747
     shares of IMS common stock under the 1995 Stock Incentive Plan and the
     1995 Stock Option Plan for Non-Employee Directors. If the merger is
     completed, approximately 39% of that total, consisting of the options to
-    purchase 505,935 shares held by Keith L. Barnes, Donald E. Grant and Fred
-    Hall, will accelerate and become fully vested and exercisable immediately
-    pursuant to terms of their existing employment agreements, without any
-    action by IMS or Credence.
+    purchase 505,935 shares held collectively by Keith L. Barnes, Donald E.
+    Grant and Fred Hall, will accelerate and become fully vested and
+    exercisable immediately pursuant to terms of their existing employment
+    agreements, without any action by IMS or Credence.
 
   . As a condition to the merger, six of the seven current IMS directors must
     resign from the board of directors upon completion of the merger. All six
     of those directors are outside directors and have existing director
     consulting and indemnity agreements with IMS that obligate IMS to engage
-    the director as a consultant. The aggregate number of shares subject to
+    each director as a consultant. The aggregate number of shares subject to
     unvested options for all six outside directors is 74,440. Please see the
     section entitled "Interests of IMS Directors, Officers and Affiliates in
     the Merger" on page 67 of this proxy statement/prospectus.
@@ -1332,7 +1345,7 @@ the following:
     the voting stock of IMS, then the vesting of IMS options held by the
     officer will be accelerated. If the employment of Mr. Baril or Ms. Harvey
     were to be terminated without cause within one year from completion of
-    the merger, their unvested options totaling, as of June 4, 2001, 56,246
+    the merger, their unvested options totaling, as of June 13, 2001, 56,246
     shares and 22,227 shares, respectively, will immediately vest and become
     exercisable.
 
@@ -1356,13 +1369,13 @@ directors and officers of IMS occurring prior to completion of the merger,
 directors' and officers' liability insurance on terms comparable to those
 maintained by IMS as of the date of the merger agreement.
 
-   As of June 4, IMS' officers, directors and affiliates (including Cadence)
-held approximately 2,675,865 shares of IMS common stock, excluding options to
-purchase IMS common stock which were unexercised as of the record date, which
-represented approximately 34% of all outstanding shares of IMS common stock
-entitled to vote. See the section entitled "Interests of IMS Directors,
-Officers and Affiliates in the Merger" beginning on page 67 of this proxy
-statement/prospectus.
+   As of June 7, 2001, IMS' officers, directors and affiliates (including
+Cadence) held approximately 2,675,865 shares of IMS common stock, excluding
+options to purchase IMS common stock which were unexercised as of the record
+date, which represented approximately 34% of all outstanding shares of IMS
+common stock entitled to vote. See the section entitled "Interests of IMS
+Directors, Officers and Affiliates in the Merger" beginning on page 67 of this
+proxy statement/prospectus.
 
    As a result, these directors and officers may be more likely to vote to
 approve the merger agreement than if they did not hold these interests. IMS
@@ -1382,7 +1395,7 @@ number of material risks, including the following:
     Credence for its out-of-pocket expenses if the merger agreement is
     terminated under certain circumstances;
 
-  . relationships with customers and suppliers may be adversely effected;
+  . relationships with customers and suppliers may be adversely affected;
 
   . the price of IMS' common stock may decline to the extent that the current
     market price of IMS common stock reflects a market assumption that the
@@ -1397,10 +1410,10 @@ decline to make future purchases from IMS. Any of these actions by IMS
 customers could have a material adverse effect on IMS' business, regardless of
 whether or not the merger is ultimately completed. Similarly, current and
 prospective IMS employees may experience uncertainty about their future role
-with Credence until Credence's strategies with regard to IMS are announced or
-executed. This may adversely affect IMS' ability to attract and retain, and may
-affect the performance during the transition period of, key management, sales,
-marketing and technical personnel.
+with Credence until or after Credence's strategies with regard to IMS are
+announced or executed. This may adversely affect IMS' ability to attract and
+retain, and may affect the performance during the transition period of, key
+management, sales, marketing and technical personnel.
 
    Further, if the merger is terminated and IMS' board of directors determines
 to seek another merger or business combination, there can be no assurance that
@@ -1425,7 +1438,7 @@ of the combined company. Similarly, current and prospective IMS employees may
 experience uncertainty about their future as employees of the combined company
 until or after strategies with regard to IMS are announced or executed. This
 may adversely affect Credence's or IMS' ability to attract and retain, and may
-affect the performance during the transition period of, key management,
+affect the performance during the transition period of, key management, sales,
 marketing and technical personnel. Credence has not entered into employment
 agreements with any IMS employees in connection with the merger and, therefore,
 cannot be certain that it will be able to retain any such employees.
@@ -1516,12 +1529,12 @@ working relationships with these strategic partners is important to IMS'
 business. As a result of the merger, these strategic partners may no longer do
 business, or may reduce or impose additional conditions on their business, with
 the combined company. For example, Agilent Technologies, Inc., or Agilent, has
-provided notice to IMS that it is cancelling an agreement it had in place with
+provided notice to IMS that it is canceling an agreement it had in place with
 IMS. This agreement provides that if IMS consummates a transaction with a
 competitor of Agilent, Agilent may become entitled, under certain
-circumstances, to obtain IMS source codes deposited with Agilent in order to
-support the technology covered by the Agreement for a period of five years. The
-inability to maintain, or any other adverse change to, such strategic
+circumstances, to obtain IMS source codes deposited with Agilent, in order to
+support the technology covered by the agreement, for a period of five years.
+The inability to maintain, or any other adverse change to, such strategic
 relationships could have a material adverse effect on the combined company's
 business, financial condition and operating results.
 
@@ -1529,7 +1542,7 @@ business, financial condition and operating results.
 
    Under this section entitled "--Risks Related to Credence," use of the terms
 "we," "us" and "our" refers to Credence Systems Corporation and its
-subsidiaries.
+subsidiaries as of the date of this proxy statement/prospectus.
 
 Our operating results may fluctuate significantly which may adversely affect
 our stock price.
@@ -2082,7 +2095,7 @@ formed to interpret and create appropriate accounting policies. A change in
 those policies can have a significant effect on our reported results and may
 even affect our reporting of transactions completed before a change is
 announced. Accounting policies affecting many other aspects of our business,
-including rules relating to purchase and pooling-of-interests accounting for
+including rules relating to purchase and pooling of interests accounting for
 business combinations, in-process research and development charges, revenue
 recognition, employee stock purchase plans and stock option grants have
 recently been revised or are under review. Changes to those rules or the
@@ -2101,7 +2114,7 @@ impact our future operating results.
 Our executive officers and certain key personnel are critical to our business.
 
    Our future operating results depend substantially upon the continued service
-of our executive officers and key personnel, none of whom are bound by an
+of our executive officers and key personnel, none of whom is bound by an
 employment or non-competition agreement. Our future operating results also
 depend in significant part upon our ability to attract and retain qualified
 management, manufacturing, technical, engineering, marketing, sales and support
@@ -2252,7 +2265,7 @@ high-tech companies in particular, including ours, have experienced extreme
 price fluctuations, which have often been unrelated to the operating
 performance of affected companies. For example, in fiscal 1999, the price of
 our common stock ranged from a closing high of $24.94 to a closing low of
-$7.19. In fiscal 2000 and through June 4, 2001, the price of our common stock
+$7.19. In fiscal 2000 and through June 13, 2001, the price of our common stock
 has ranged from a closing high of $74.59 to a closing low of $16.13. The market
 price of our common stock is likely to continue to fluctuate significantly in
 the future, including fluctuations unrelated to our performance.
@@ -2479,15 +2492,15 @@ The proposed merger with Credence will
 
 likely have a direct impact on future relationships with the vendors named
 above and possibly other ATE manufacturers. For example, Agilent has provided
-notice to IMS that it is cancelling an agreement it had in place with IMS. This
+notice to IMS that it is canceling an agreement it had in place with IMS. This
 agreement provides that if IMS consummates a transaction with a competitor of
 Agilent, Agilent may become,entitled, under certain circumstances, to obtain
-IMS source codes deposited with Agilent in order to support the technology
-covered by the agreement for a period of five years. IMS' virtual test software
-also relies upon software simulation programs and other integrated circuit
-software design tools written by third parties, including Cadence and others.
-IMS' ability to take timely advantage of advances in those tools will be
-hindered if IMS does not maintain close working relationships with those
+IMS source codes deposited with Agilent, in order to support the technology
+covered by the agreement, for a period of five years. IMS' virtual test
+software also relies upon software simulation programs and other integrated
+circuit software design tools written by third parties, including Cadence and
+others. IMS' ability to take timely advantage of advances in those tools will
+be hindered if IMS does not maintain close working relationships with those
 vendors. Consequently, maintaining close working relationships both with
 vendors of ATE machines and electronic design automation, or EDA, software is
 of strategic importance to IMS. In particular, IMS' ability to maintain these
@@ -2841,18 +2854,19 @@ solicitation of proxies from the holders of IMS common stock by the IMS board
 of directors for use at a special meeting of IMS shareholders.
 
    This proxy statement/prospectus is first being furnished to shareholders of
-IMS on or about [          ,             , 2001].
+IMS on or about June 21, 2001.
 
 Date, Time and Place of the Special Meeting
 
-   The special meeting will be held on [            , 2001] at 10:00 a.m.,
-local time, at the Courtyard by Marriott, 8500 S.W. Nimbus Avenue, Beaverton,
-Oregon 97008.
+   The special meeting will be held on July 31, 2001 at 10:00 a.m., local
+time, at the Courtyard by Marriott, 8500 S.W. Nimbus Avenue, Beaverton, Oregon
+97008.
 
 Matters to be Considered at the Special Meeting
 
    At the special meeting and any adjournment or postponement of the special
-meeting, shareholders of IMS will be asked to consider and vote upon proposals:
+meeting, shareholders of IMS will be asked to consider and vote upon
+proposals:
 
   . To approve the agreement and plan of merger and reorganization, dated May
     16, 2001, as amended, by and among Credence, Iguana Acquisition
@@ -2871,47 +2885,48 @@ Record Date and Shares Entitled to Vote
    IMS' board of directors has fixed the close of business on June 7, 2001, as
 the record date for determination of IMS shareholders entitled to notice of,
 and to vote at, the special meeting. As of the close of business on the record
-date, there were approximately [   ] shares of IMS common stock outstanding and
-entitled to vote, held by approximately [  ] shareholders of record of IMS.
-Each IMS shareholder is entitled to one vote for each share of IMS common stock
-held as of the record date.
+date, there were approximately 7,941,904 shares of IMS common stock
+outstanding and entitled to vote. Each IMS shareholder is entitled to one vote
+for each share of IMS common stock held as of the record date.
 
 Voting of Proxies
 
    You are requested to complete, date and sign the accompanying proxy and
-promptly return it in the accompanying envelope or otherwise mail it to IMS. If
-your shares are held in "street name" by your broker, your broker will vote
+promptly return it in the accompanying envelope or otherwise mail it to IMS.
+If your shares are held in "street name" by your broker, your broker will vote
 your shares only if you provide instructions on how to vote. Your broker will
 provide you with directions regarding how to instruct your broker to vote your
 shares. All properly executed proxies received by IMS prior to the vote at the
-special meeting, and that are not revoked, will be voted in accordance with the
-instructions indicated on the proxies. If no direction is made, your proxy will
-be voted to approve the merger agreement. IMS' board of directors does not
-presently intend to bring any other business before the special meeting and, so
-far as is known to IMS' board of directors, no other matters are to be brought
-before the special meeting. As to any business that may properly come before
-the special meeting, however, it is intended that proxies, in the form
+special meeting, and that are not revoked, will be voted in accordance with
+the instructions indicated on the proxies. If no direction is made, your proxy
+will be voted to approve the merger agreement. IMS' board of directors does
+not presently intend to bring any other business before the special meeting
+and, so far as is known to IMS' board of directors, no other matters are to be
+brought before the special meeting. As to any business that may properly come
+before the special meeting, however, it is intended that proxies, in the form
 enclosed, will be voted in respect thereof by the proxy holders in such manner
-as they determine to be in the best interests of IMS. You may revoke your proxy
-at any time prior to its use by delivering to the Secretary of IMS a signed
-notice of revocation or a subsequently dated, signed proxy, or by attending the
-special meeting and voting in person. Attendance at the special meeting does
-not in itself constitute the revocation of a proxy. If you fail to vote, it
-will, in effect, count as a vote against approval of the merger.
+as they determine to be in the best interests of IMS. You may revoke your
+proxy at any time prior to its use by delivering to the Secretary of IMS a
+signed notice of revocation or a subsequently dated, signed proxy, or by
+attending the special meeting and voting in person. Attendance at the special
+meeting does not in itself constitute the revocation of a proxy. If you fail
+to vote, it will, in effect, count as a vote against approval of the merger
+agreement.
 
 Vote Required
 
    The Articles of Incorporation of IMS require the affirmative vote of the
 holders of 67% of the shares of IMS common stock outstanding and entitled to
-vote at the special meeting to approve the merger. Cadence, a shareholder of
-IMS, has entered into a shareholder agreement and has delivered an irrevocable
-proxy obligating it to vote in favor of the merger agreement and the merger. As
-of the date of this proxy statement/prospectus, Cadence beneficially owned
-2,559,000 shares (exclusive of any shares held by or issuable upon the exercise
-of options or warrants held by any officer, director or employee of Cadence) of
-IMS common stock (constituting approximately 32% of the shares of IMS common
-stock outstanding as of the record date). As of the record date and the date of
-this proxy statement/prospectus, Credence owns no shares of IMS common stock.
+vote at the special meeting to approve the merger agreement and the merger.
+Cadence, a shareholder of IMS, has entered into a shareholder agreement and has
+delivered an irrevocable proxy obligating it to vote in favor of the merger
+agreement and the merger. As of the date of this proxy statement/prospectus,
+Cadence beneficially owned 2,559,000 shares (exclusive of any shares held by or
+issuable upon the exercise of options or warrants held by any officer, director
+or employee of Cadence) of IMS common stock (constituting approximately 32% of
+the shares of IMS common stock outstanding as of the record date). As of the
+record date and the date of this proxy statement/prospectus, Credence owns no
+shares of IMS common stock.
 
 Quorum; Abstentions and Broker Non-Votes
 
@@ -2919,12 +2934,12 @@ Quorum; Abstentions and Broker Non-Votes
 is a majority of the shares of IMS common stock issued and outstanding on the
 record date. If a quorum is not present in person or represented by proxy, it
 is expected that the special meeting will be adjourned or postponed to solicit
-additional proxies. Because approval of the merger agreement and the
-consummation of the merger requires the affirmative vote of 67% of the
-outstanding shares of IMS common stock entitled to vote, abstentions and broker
-non-votes will have the same effect as votes against the merger agreement. In
-addition, the failure of an IMS shareholder to return a proxy will have the
-effect of a vote against the approval of the merger agreement. The actions
+additional proxies. Because approval of the merger agreement and the merger
+requires the affirmative vote of 67% of the outstanding shares of IMS common
+stock entitled to vote, abstentions and broker non-votes will have the same
+effect as votes against the merger agreement and the merger. In addition, the
+failure of an IMS shareholder to return a proxy will have the effect of a vote
+against the approval of the merger agreement and the merger. The actions
 proposed in this proxy statement/prospectus are not matters that can be voted
 on by brokers holding shares for beneficial owners without the owners' specific
 instructions. Accordingly, you are urged to return the enclosed proxy card
@@ -3041,7 +3056,7 @@ Mr. Barnes and Barry Baril, Chief Technology Officer of IMS. The parties
 discussed the companies' road maps and sales distribution channels.
 
    On April 18, 2001, Mr. Barnes reviewed the status of the merger discussions
-with the Audit Committee of the IMS board of directors.
+with the audit committee of the IMS board of directors.
 
    On April 20, 2001, Dr. Siddall and Mr. Barnes participated in a telephone
 conference regarding a proposed term sheet relating to a potential transaction.
@@ -3139,7 +3154,7 @@ Credence's due diligence review. Finally, the board of Credence discussed the
 terms of the proposed acquisition and the directors' legal duties and
 responsibilities. Credence's board unanimously voted to approve the merger
 agreement and related transaction documents. Representatives of Goldman Sachs
-were in attendance.
+and Brobeck, Phleger & Harrison LLP were in attendance.
 
    On May 15, 2001, IMS' board of directors held a meeting and discussed with
 management final due diligence results. In addition, SG Cowen delivered its
@@ -3281,7 +3296,7 @@ including:
 
   . the risk that, despite the efforts of IMS and Credence, key technical,
     marketing, sales and management personnel might choose not to remain
-    employed by the combined comapny after the merger;
+    employed by the combined company after the merger;
 
   . the stock issued in the merger may be worth substantially less than the
     same number of shares are worth at the time the merger agreement was
@@ -3457,7 +3472,7 @@ contemplated by the merger agreement would be obtained and that, in the course
 of obtaining any of those consents, no restrictions would be imposed or waivers
 made that would have an adverse effect on the contemplated benefits of the
 merger. IMS informed SG Cowen, and SG Cowen assumed, that the merger (1) would
-be recorded as a pooling-of-interests under generally accepted accounting
+be recorded as a pooling of interests under generally accepted accounting
 principles and (2) would be treated as a reorganization for tax purposes.
 
    SG Cowen's opinion does not constitute a recommendation to any shareholder
@@ -3950,8 +3965,8 @@ shareholders. The merger will become effective upon the filing of the articles
 of merger with the Secretary of State for the State of Oregon.
 
    We are working towards completing the merger as quickly as possible. We hope
-to complete the merger by the end of July 2001. Because the merger is subject
-to government approvals, we cannot predict the exact timing.
+to complete the merger in early August 2001. Because the merger is subject to
+government approvals, we cannot predict the exact timing.
 
 Structure of the Merger and Conversion of IMS Common Stock
 
@@ -3964,7 +3979,8 @@ merger, the members of IMS' board of directors will be Graham J. Siddall, John
 R. Detwiler and Keith L. Barnes. The membership of the Credence board of
 directors will remain unchanged as a result of the merger. Following the
 merger, the officers of IMS will be Mr. Barnes (President), Fred Hall (Vice
-President-Finance) and Mr. Detwiler (Vice President and Assistant Secretary).
+President-Finance and Secretary) and Mr. Detwiler (Vice President and Assistant
+Secretary).
 
    Upon completion of the merger, each outstanding share of IMS common stock
 will automatically be canceled and converted into the right to receive 0.90
@@ -4049,7 +4065,7 @@ the option immediately prior to completion of the merger, except that:
     of the merger by the exchange ratio of 0.90, rounded up to the nearest
     whole cent; and
 
-  . As of June 4, 2001, directors and executive officers of IMS held stock
+  . As of June 13, 2001, directors and executive officers of IMS held stock
     options, both vested and unvested, to purchase an aggregate of 1,313,747
     shares of IMS common stock under the 1995 Stock Incentive Plan and the
     1995 Stock Option Plan for Non-Employee Directors. If the merger is
@@ -4104,11 +4120,11 @@ to IMS and its subsidiaries:
 
   . authorization of the merger and the transaction agreements by IMS;
 
-  . the absence of conflicts with the organizational documents of IMS and its
-    subsidiaries with any material mortgage, indenture, lease, contract, or
-    other agreement or any instrument, permit, concession, franchise,
-    license, judgment, order, decree, statute, law, ordinance, rule or
-    regulation;
+  . the enforceability of the merger agreement and the absence of conflicts
+    with the organizational documents of IMS and its subsidiaries, or with
+    any material mortgage, indenture, lease, contract, or other agreement or
+    any instrument, permit, concession, franchise, license, judgment, order,
+    decree, statute, law, ordinance, rule or regulation;
 
   . the obtaining of all consents, approvals, orders or authorizations of or
     registration, declaration of or filing with any governmental authorities
@@ -4123,7 +4139,7 @@ to IMS and its subsidiaries:
 
   . absence of undisclosed liabilities;
 
-  . pending or threatened litigation involving IMS;
+  . pending or threatened litigation and investigations involving IMS;
 
   . absence of restrictions on IMS' business activities;
 
@@ -4146,7 +4162,7 @@ to IMS and its subsidiaries:
 
   . transactions with interested parties;
 
-  . insurance coverage;
+  . insurance coverage and claims;
 
   . compliance with applicable laws;
 
@@ -4197,10 +4213,11 @@ relate to Credence:
   . authorization of the merger by Credence and Iguana Acquisition
     Corporation;
 
-  . the absence of conflicts with the organizational documents of Credence
-    with any material mortgage, indenture, lease, contract, or other
-    agreement or any instrument, permit, concession, franchise, license,
-    judgment, order, decree, statute, laws, ordinance, rules or regulations;
+  . the enforceability of the merger agreement and the absence of conflicts
+    with the organizational documents of Credence, or with any material
+    mortgage, indenture, lease, contract, or other agreement or any
+    instrument, permit, concession, franchise, license, judgment, order,
+    decree, statute, laws, ordinance, rules or regulations;
 
   . the obtaining of all consents, approvals, orders or authorizations of, or
     registration, declaration of or filing with any governmental authorities
@@ -4213,7 +4230,7 @@ relate to Credence:
 
   . absence of undisclosed liabilities;
 
-  . pending or threatened litigation involving Credence;
+  . pending or threatened litigation and investigations involving Credence;
 
   . brokers' and finders' fees incurred in connection with the merger;
 
@@ -4236,7 +4253,7 @@ Appendix A2 to this proxy statement/prospectus entitled "Representations and
 Warranties of Company" and "Representations and Warranties of Parent and Merger
 Sub."
 
- IMS' Conduct of Business Before Completion of the Merger
+ IMS' Conduct of Business before Completion of the Merger
 
    IMS agreed that until the completion of the merger, the termination of the
 merger agreement, or unless Credence consents in writing, IMS and its
@@ -4275,7 +4292,8 @@ following:
   . modifications of IMS' or its subsidiaries' articles of incorporation or
     bylaws (or equivalent organizational documents);
 
-  . the issuance of dividends or other distributions;
+  . the issuance of dividends or other distributions or changes in IMS'
+    capital structure;
 
   . the modification of any stock option plans;
 
@@ -4515,8 +4533,8 @@ be terminated and the merger abandoned:
      adverse effect, shall have occurred;
 
    . if a trigger event (as further explained below) or takeover proposal
-     has occurred and the board of directors of IMS does not within 10
-     business days of such occurrence:
+     (as further explained below) has occurred and the board of directors of
+     IMS does not within 10 business days of such occurrence:
 
     . reconfirm its recommendation, without conditions, of the approval of
       the merger agreement and the transactions contemplated thereby; and
@@ -4874,7 +4892,7 @@ and programs provide the following benefits:
 
   . 401(k) plan coverage;
 
-  . Internal Revenue Code Section 125 benefit arrangements
+  . Internal Revenue Code Section 125 benefit arrangements;
 
   . bonus, profit-sharing or other incentive plans;
 
@@ -4909,22 +4927,21 @@ Related Agreements
  Shareholder Agreement
 
    In connection with the merger, Cadence has entered into a shareholder
-agreement with Credence. The terms of the shareholder agreement provides that
+agreement with Credence. The terms of the shareholder agreement provide that
 Cadence will vote all shares of IMS common stock beneficially owned by it in
-favor of the approval of the merger agreement and requires Cadence to vote
-against any other takeover proposals. The shareholder agreement terminates of
-the earlier of the completion of the merger or the termination of the merger
-agreement pursuant to its terms.
+favor of the approval of the merger agreement and require Cadence to vote
+against any other merger or other business combination proposals. The
+shareholder agreement terminates on the earlier of the completion of the merger
+or the termination of the merger agreement pursuant to its terms.
 
    The shareholder agreement also requires Cadence to deliver an irrevocable
 proxy to Credence. The irrevocable proxy enables Credence to vote Cadence's
 shares to approve the merger and enables Credence to vote Cadence's shares
-against any other takeover proposals. As of the date of this proxy
-statement/prospectus, Cadence beneficially owned 2,559,000 shares (exclusive of
-any shares issuable upon the exercise of options or warrants held by any
-officer, director or employee of Cadence) of IMS common stock, which
-represented approximately 32% of the outstanding IMS common stock as of the
-record date.
+against any other merger or other business combination proposals. As of June 7,
+2001, Cadence beneficially owned 2,559,000 shares (exclusive of any shares
+issuable upon the exercise of options or warrants held by any officer, director
+or employee of Cadence) of IMS common stock, which represented approximately
+32% of the outstanding IMS common stock as of the record date.
 
  Amendment to IMS Shareholder Rights Agreement
 
@@ -4948,14 +4965,14 @@ board of directors will be Graham J. Siddall, John R.
 Detwiler and Keith L. Barnes. The membership of the Credence board of directors
 will remain unchanged as a result of the merger. Following the merger, the
 officers of IMS will be Mr. Barnes (President), Fred Hall (Vice President-
-Finance) and Mr. Detwiler (Vice President and Assistant Secretary). The
-shareholders of IMS will become stockholders of Credence, and their rights as
-stockholders will be governed by Credence's certificate of incorporation and
-bylaws and the laws of the State of Delaware. The day-to-day operations of IMS
-following the merger will be the responsibility of its officers and directors.
-In addition, provided certain ongoing revenue target levels are met or
-exceeded, it is the intention of Credence to maintain existing headcount and
-compensation levels of IMS employees.
+Finance and Secretary) and Mr. Detwiler (Vice President and Assistant
+Secretary). The shareholders of IMS will become stockholders of Credence, and
+their rights as stockholders will be governed by Credence's certificate of
+incorporation and bylaws and the laws of the State of Delaware. The day-to-day
+operations of IMS following the merger will be the responsibility of its
+officers and directors. In addition, provided certain ongoing revenue target
+levels are met or exceeded, it is the intention of Credence to maintain
+existing headcount and compensation levels of IMS employees.
 
    It is the current intent of Credence and IMS that the existing headoffice of
 IMS at Gemini Drive, Beaverton, Oregon, will be maintained as the headoffice of
@@ -4995,23 +5012,23 @@ directors was aware of these potential conflicts when considering their
 approval and recommendation of the merger. These interests include the
 following:
 
-  . As of June 4, 2001, directors, executive officers and affiliates of IMS
+  . As of June 7, 2001, directors, executive officers and affiliates of IMS
     (including Cadence) held approximately 34% of the outstanding shares of
     IMS common stock entitled to vote.
 
-  . As of June 4, 2001, non-employee directors of IMS beneficially owned
+  . As of June 13, 2001, non-employee directors of IMS beneficially owned
     stock options, vested and unvested, to purchase an aggregate of 204,722
     shares of IMS common stock. The merger agreement requires all members of
     IMS' board of directors other than Keith L. Barnes to resign from the
-    board as of completion of the merger. Each of the directors who are
-    required to resign have existing consulting and indemnity agreements with
-    IMS which provide that upon resignation from the board of directors as
-    part of IMS' process of merging with another entity, IMS remains
-    obligated to continue to engage the director as a consultant. Upon
+    board as of completion of the merger. Each of the directors who is
+    required to resign has an existing consulting and indemnity agreement
+    with IMS which provides that upon resignation from the board of directors
+    as part of IMS' process of merging with another entity, IMS remains
+    obligated to continue to engage the that director as a consultant. Upon
     completion of the merger, the following non-employee directors will be
     offered the opportunity to consult for IMS. The following chart
-    indicates, as of June 4, 2001, the number of unvested options held by the
-    six non-employee directors, however this number will decrease
+    indicates, as of June 13, 2001, the number of unvested options held by
+    the six non-employee directors, however this number will decrease
 
    monthly (next on June 30, 2001) as unvested options vest automatically in
    accordance with the terms of the stock options plans pursuant to which
@@ -5028,14 +5045,14 @@ following:
       Michael Bosworth................................    2,500       12,500
       Tom Franz.......................................   15,306       13,694
 
-  . As of June 4, 2001, executive officers (including the only employee
+  . As of June 13, 2001, executive officers (including the only employee
     director, Keith L. Barnes) beneficially owned stock options (some of
     which are vested and unexercised, and the balance of which are unvested)
     to purchase an aggregate of 1,109,025 shares of IMS common stock. Upon
-    completion of the merger, the portion of unvested stock options noted
-    held by the following executive officers will accelerate and become fully
-    vested and exercisable upon existing employment agreements as shown
-    below:
+    completion of the merger, the portion of unvested stock options held by
+    the following executive officers will accelerate and become fully vested
+    and exercisable in accordance with existing employment agreements, as
+    shown below:
 
                                                             % of All Unvested
                                         # of IMS Option      Options Held By
@@ -5053,9 +5070,9 @@ following:
     majority of the voting stock of IMS, then the vesting of IMS options held
     by the officer will accelerate. If the employment of Mr. Baril or Ms.
     Harvey were to be terminated without cause within one year following
-    completion of the merger, their unvested options totaling, as of June 4,
-    2001 56,246 shares and 22,227 shares, respectively, will immediately vest
-    and become exercisable.
+    completion of the merger, their unvested options totaling, as of June 13,
+    2001, 56,246 shares and 22,227 shares, respectively, will immediately
+    vest and become exercisable.
 
   . Following completion of the merger, Credence intends to grant an
     aggregate of 250,000 options to purchase shares of Credence common stock
@@ -5122,11 +5139,11 @@ expire. The initial waiting period is 30 days after both parties have made
 their written filings and provided the information and documentary materials
 required.
 
-   Credence and IMS expect to make their HSR Act filings on June 6, 2001, and
-the initial waiting period therefore will expire at 11:59 p.m. Eastern
-Daylight Time on July 6, 2001. The requirements of the HSR Act will be
-satisfied if the merger is completed within one year from the termination of
-the waiting period.
+   Credence and IMS have made their HSR Act filings on June 6, 2001, and the
+initial waiting period therefore will expire at 11:59 p.m. Eastern Daylight
+Time on July 6, 2001. The requirements of the HSR Act will be satisfied if the
+merger is completed within one year from the termination of the waiting
+period.
 
    However, the Antitrust Division of the Department of Justice or the Federal
 Trade Commission may issue, during the initial waiting period, a second
@@ -5294,7 +5311,7 @@ offered limited registration rights to certain parties who may be deemed to be
 affiliates of IMS which may be utilized if those affiliates are unable to sell
 their shares of Credence common stock acquired in the merger under Rules 144
 and 145 under the Securities Act. In addition, in connection with accounting
-for the merger as a pooling-of-interests, IMS' affiliates will not be able to
+for the merger as a pooling of interests, IMS' affiliates will not be able to
 sell their shares of Credence common stock received in the merger from the date
 beginning 30 days prior to the completion of the merger until Credence releases
 earnings containing at least 30 days of earnings of the combined company.
@@ -5858,23 +5875,24 @@ reports.
                                  LEGAL MATTERS
 
    The validity of the shares of Credence common stock offered by this proxy
-statement/prospectus and the federal income tax consequences in connection with
-the merger will be passed upon for Credence by Brobeck, Phleger & Harrison LLP,
-Palo Alto, California. Certain legal matters with respect to federal income tax
-consequences in connection with the merger will be passed upon for IMS by Ater
-Wynne LLP, Portland, Oregon. Attorneys of the firm Ater Wynne LLP beneficially
-own an aggregate of approximately 5,000 shares of IMS' common stock.
+statement/prospectus and certain legal matters with respect to federal income
+tax consequences in connection with the merger will be passed upon for Credence
+by Brobeck, Phleger & Harrison LLP, Palo Alto, California. Certain legal
+matters with respect to federal income tax consequences in connection with the
+merger will be passed upon for IMS by Ater Wynne LLP, Portland, Oregon.
+Attorneys of Ater Wynne LLP beneficially own an aggregate of approximately
+5,000 shares of IMS' common stock.
 
                       WHERE YOU CAN FIND MORE INFORMATION
 
-   IMS and Credence file annual, quarterly and special reports, proxy
+   Credence and IMS file annual, quarterly and special reports, proxy
 statements and other information with the SEC. You may read and copy any
 reports, statements or other information we file at the SEC's public reference
 rooms in Washington, D.C., New York, New York and Chicago, Illinois. Please
 call the SEC at 1-800-SEC-0330 for further information on the public reference
-rooms. Our SEC filings are also available to the public from commercial
-document retrieval services and at the Internet website maintained by the SEC
-at http://www.sec.gov.
+rooms. Credence's and IMS' SEC filings are also available to the public from
+commercial document retrieval services and at the Internet website maintained
+by the SEC at http://www.sec.gov.
 
    Credence filed a Registration Statement on Form S-4 to register with the SEC
 Credence common stock to be issued to IMS stockholders in the merger. This
@@ -5911,7 +5929,7 @@ writing to the following addresses or by telephone:
     (510) 492-3229                          (503) 626-7117
 
    To ensure timely delivery, you must make this request no later than five
-business days before the special meeting or [   , 2001].
+business days before the special meeting or July 24, 2001.
 
    You should rely only on the information contained in or incorporated by
 reference in this proxy statement/prospectus to vote on the merger. We have not
@@ -5950,8 +5968,9 @@ Credence
 Definitive Proxy Statement proposal in connection with Credence's 2001 Annual
 Meeting of Stockholders;
 
-   2. Credence's Quarterly Reports on Form 10-Q for the fiscal quarter ended
-January 31, 2001, filed March 15, 2001;
+   2. Credence's Quarterly Reports on Form 10-Q for the fiscal quarters ended
+January 31, 2001 and April 30, 2001, filed March 15, 2001 and June 14, 2001,
+respectively;
 
    3. Credence's Current Reports on Form 8-K filed on each of November 30,
 2000, May 17, 2001; May 17, 2001 and June 4, 2001;
@@ -5972,7 +5991,7 @@ IMS
 2000, filed March 30, 2001, including certain information in IMS' Definitive
 Proxy Statement in connection with IMS' 2001 Annual Meeting of Shareholders;
 
-   2. IMS' Quarterly Reports on Form 10-Q for the fiscal quarter ended March
+   2. IMS' Quarterly Report on Form 10-Q for the fiscal quarter ended March
 31, 2001, filed May 15, 2001;
 
    3. IMS' Current Reports on Form 8-K filed on May 18, 2001 and June 5, 2001;
@@ -5998,8 +6017,7 @@ address:
     (510) 657-7400                          (503) 626-5353
 
    You must request this information no later than five business days before
-the date of the special meeting or [           , 2001] to ensure timely
-delivery.
+the date of the special meeting or July 24, 2001 to ensure timely delivery.
 
                                                                      Appendix A1
 
@@ -7843,4 +7861,4 @@ Parent:
   coverage provided by existing insurance policies;
 
      (n) Termination or Waiver. Terminate or waive or assign any right or
-  claim with a value in excess of $1
+  claim with a value in excess of $100,000 or which is othe

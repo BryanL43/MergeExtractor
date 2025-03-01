@@ -1,21 +1,19 @@
-URL: https://www.sec.gov/Archives/edgar/data/875320/000091205701519050/0000912057-01-519050.txt
+URL: https://www.sec.gov/Archives/edgar/data/875320/000091205701517350/0000912057-01-517350.txt
 
-RLY STREET
+STREET
 		CITY:			CAMBRIDGE
 		STATE:			MA
 		ZIP:			02139-4242
 		BUSINESS PHONE:		6165776000
 
-S-4/A
+S-4
 
-a2051179zs-4a.txt
+a2050194zs-4.txt
 
-S-4/A
+S-4
 
-      AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON JUNE 8, 2001
-
-                                                      REGISTRATION NO. 333-61480
-
+      AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON MAY 23, 2001
+                                                      REGISTRATION NO. 333-
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
@@ -23,8 +21,6 @@ S-4/A
                              WASHINGTON, D.C. 20549
                          ------------------------------
 
-                                AMENDMENT NO. 1
-                                       TO
                                     FORM S-4
 
                              REGISTRATION STATEMENT
@@ -95,32 +91,37 @@ for the same offering. / /
 
                                                               PROPOSED MAXIMUM     PROPOSED MAXIMUM
         TITLE OF EACH CLASS OF               AMOUNT TO         OFFERING PRICE          AGGREGATE            AMOUNT OF
-     SECURITIES TO BE REGISTERED         BE REGISTERED(1)         PER SHARE         OFFERING PRICE      REGISTRATION FEE
+     SECURITIES TO BE REGISTERED         BE REGISTERED(1)       PER SHARE(2)       OFFERING PRICE(2)   REGISTRATION FEE(2)
 
 Common stock, $0.01 par value per
-  share(3)............................      14,725,000               N/A             $471,437,500        $117,860.00(2)
+  share...............................      14,725,000               N/A             $471,437,500          $117,860.00
 
 (1) Based upon the estimated maximum number of shares of common stock of the
     Registrant that may be issued in connection with the merger described
     herein.
 
-(2) Previously paid.
-
-(3) The Vertex common stock being registered hereby includes associated
-    preferred stock purchase rights.
-
+(2) Estimated solely for purposes of calculating the registration fee required
+    by Section 6(b) of the Securities Act of 1933, as amended, and computed
+    pursuant to Rules 457(c) and (f) under the Securities Act based on
+    (i) $19.85, the average of the high and low price per share of Aurora
+    Biosciences Corporation common stock, par value $0.001 per share, as quoted
+    on The Nasdaq National Market on May 16, 2001, and (ii) 23,750,000, the
+    estimated maximum number of shares of Aurora common stock to be converted
+    into shares of the Registrant's common stock pursuant to the merger.
                          ------------------------------
 
     THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR
 DATES AS MAY BE NECESSARY TO DELAY ITS EFFECTIVE DATE UNTIL THE REGISTRANT SHALL
 FILE A FURTHER AMENDMENT WHICH SPECIFICALLY STATES THAT THIS REGISTRATION
-STATEMENT SHALL THEREAFTER BECOME EFFECTIVE IN ACCORDANCE WITH SECTION 8(a) OF
+STATEMENT SHALL THEREAFTER BECOME EFFECTIVE IN ACCORDANCE WITH SECTION 8(A) OF
 THE SECURITIES ACT OF 1933 OR UNTIL THE REGISTRATION STATEMENT SHALL BECOME
-EFFECTIVE ON SUCH DATE AS THE COMMISSION, ACTING PURSUANT TO SAID SECTION 8(a),
+EFFECTIVE ON SUCH DATE AS THE COMMISSION, ACTING PURSUANT TO SAID SECTION 8(A),
 MAY DETERMINE.
 
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
+
+                                                                Preliminary Copy
 
                      [LOGO]                                            [LOGO]
 
@@ -138,10 +139,10 @@ approved the merger and recommend that the stockholders of each company vote FOR
 the merger.
 
     Vertex common stock is listed on The Nasdaq National Market under the
-trading symbol "VRTX" and on June 7, 2001, Vertex common stock closed at
-$48.70 per share. Aurora common stock is listed on The Nasdaq National Market
-under the trading symbol "ABSC" and on June 7, 2001, Aurora common stock closed
-at $29.98 per share.
+trading symbol "VRTX" and on       , 2001, Vertex common stock closed at
+$         per share. Aurora common stock is listed on The Nasdaq National Market
+under the trading symbol "ABSC" and on       , 2001, Aurora common stock closed
+at $      per share.
 
     If the merger is approved, the number of Vertex employees will increase from
 approximately 475 to approximately 825. Accordingly, the board of directors of
@@ -157,11 +158,11 @@ BEGINS ON PAGE 15.
 
     The dates, times and places of the special meetings are as follows:
 
-             For Vertex stockholders:                            For Aurora stockholders:
+          For Vertex stockholders:                       For Aurora stockholders:
 
-    July 18, 2001 at 12:00 p.m. (Eastern Time)          July 18, 2001 at 9:00 a.m. (Pacific Time)
-                130 Waverly Street                                 11010 Torreyana Road
-             Cambridge, Massachusetts                             San Diego, California
+        , 2001 at       a.m. (Eastern Time)         , 2001 at       a.m. (Pacific Time)
+             130 Waverly Street                            11010 Torreyana Road
+          Cambridge, Massachusetts                         San Diego, California
 
     Your vote is very important, regardless of the number of shares you own.
 WHETHER OR NOT YOU PLAN TO ATTEND THE SPECIAL MEETING, PLEASE COMPLETE, SIGN AND
@@ -171,10 +172,10 @@ REPRESENTED AT THE MEETING.
     We strongly support this merger and join with our boards of directors in
 enthusiastically recommending that you vote in favor of the merger.
 
-               /s/ Joshua S. Boger                              /s/ Stuart J.M. Collinson
-                 Joshua S. Boger                                  Stuart J.M. Collinson
-       CHAIRMAN AND CHIEF EXECUTIVE OFFICER          CHAIRMAN, CHIEF EXECUTIVE OFFICER AND PRESIDENT
-       VERTEX PHARMACEUTICALS INCORPORATED                    AURORA BIOSCIENCES CORPORATION
+                                                           Stuart J.M. Collinson
+               Joshua S. Boger                     CHAIRMAN, CHIEF EXECUTIVE OFFICER AND
+    CHAIRMAN AND CHIEF EXECUTIVE OFFICER                          PRESIDENT
+     VERTEX PHARMACEUTICALS INCORPORATED              AURORA BIOSCIENCES CORPORATION
 
     NEITHER THE SECURITIES AND EXCHANGE COMMISSION NOR ANY STATE SECURITIES
 COMMISSION HAS APPROVED OR DISAPPROVED OF THE SECURITIES TO BE ISSUED IN
@@ -182,8 +183,8 @@ CONNECTION WITH THE MERGER OR DETERMINED IF THIS JOINT PROXY
 STATEMENT-PROSPECTUS IS ACCURATE OR COMPLETE. ANY REPRESENTATION TO THE CONTRARY
 IS A CRIMINAL OFFENSE.
 
-    This joint proxy statement-prospectus is dated June 8, 2001, and is first
-being mailed to stockholders of Vertex and Aurora on or about June 13, 2001.
+    This joint proxy statement-prospectus is dated       , 2001, and is first
+being mailed to stockholders of Vertex and Aurora on or about       , 2001.
 
                              ADDITIONAL INFORMATION
 
@@ -202,10 +203,10 @@ Attn: Investor Relations                       Attn: Investor Relations
 Telephone: (617) 577-6000                      Telephone: (858) 404-6600
 email: InvestorInfo@vpharm.com                 email: ir@aurorabio.com
 
-    IF YOU WOULD LIKE TO REQUEST ANY DOCUMENTS, PLEASE DO SO BY JULY 11, 2001 IN
+    IF YOU WOULD LIKE TO REQUEST ANY DOCUMENTS, PLEASE DO SO BY       , 2001 IN
 ORDER TO RECEIVE THEM BEFORE THE SPECIAL MEETINGS.
 
-See "Where You Can Find More Information" beginning on page 91.
+See "Where You Can Find More Information" beginning on page 89.
 
     This joint proxy statement-prospectus contains trademarks of Vertex, Aurora
 and other companies.
@@ -217,14 +218,14 @@ and other companies.
                       CAMBRIDGE, MASSACHUSETTS 02139-4242
 
  NOTICE OF SPECIAL MEETING OF VERTEX PHARMACEUTICALS INCORPORATED STOCKHOLDERS
-                          JULY 18, 2001 AT 12:00 P.M.
+                                 , 2001 AT       A.M.
 
 To the stockholders of Vertex Pharmaceuticals Incorporated:
 
     Notice is hereby given that a special meeting of stockholders of Vertex
-Pharmaceuticals Incorporated will be held on Wednesday, July 18, 2001 at 12:00
-p.m. Eastern Time at Vertex's offices at 130 Waverly Street, Cambridge,
-Massachusetts for the following purposes:
+Pharmaceuticals Incorporated will be held on       ,       , 2001 at       a.m.
+local time at Vertex's offices at 130 Waverly Street, Cambridge, Massachusetts
+for the following purposes:
 
     1.  To consider and vote upon a proposal to approve the issuance of shares
        of Vertex common stock in connection with the merger between Vertex and
@@ -243,7 +244,7 @@ Massachusetts for the following purposes:
 
     These items of business are described in the attached joint proxy
 statement-prospectus. Holders of record of Vertex common stock at the close of
-business on June 6, 2001, the record date, are entitled to notice of, and to
+business on       , 2001, the record date, are entitled to notice of, and to
 vote at, the special meeting and any adjournments or postponements of the
 special meeting.
 
@@ -257,12 +258,11 @@ meeting. If your shares are held in an account at a brokerage firm or bank, you
 must instruct them on how to vote your shares.
 
                                           By Order of the Board of Directors,
-                                          /s/ Sarah P. Cecil
                                           Sarah P. Cecil
                                           CLERK
 
 Cambridge, Massachusetts
-June 8, 2001
+      , 2001
 
                                      [LOGO]
 
@@ -271,14 +271,13 @@ June 8, 2001
                           SAN DIEGO, CALIFORNIA 92121
 
     NOTICE OF SPECIAL MEETING OF AURORA BIOSCIENCES CORPORATION STOCKHOLDERS
-                           JULY 18, 2001 AT 9:00 A.M.
+                                   , 2001 AT         A.M.
 
 To the stockholders of Aurora Biosciences Corporation:
 
     Notice is hereby given that a special meeting of stockholders of Aurora
-Biosciences Corporation will be held on Wednesday, July 18, 2001 at 9:00 a.m.
-Pacific Time at Aurora's offices at 11010 Torreyana Road, San Diego, California
-for the following purposes:
+Biosciences Corporation will be held on       ,       , 2001 at         a.m.
+local time at           at             , California for the following purposes:
 
     1.  To consider and vote upon a proposal to approve and adopt a merger
        agreement between Vertex Pharmaceuticals Incorporated and Aurora. In the
@@ -293,7 +292,7 @@ for the following purposes:
 
     These items of business are described in the attached joint proxy
 statement-prospectus. The Board of directors of Aurora has fixed the close of
-business on June 6, 2001, as the record date for the determination of
+business on             , 2001, as the record date for the determination of
 stockholders entitled to notice of, and to vote at, the special meeting and any
 adjournments or postponements of the special meeting. Only holders of record of
 Aurora common stock on the record date are entitled to vote at the Aurora
@@ -328,16 +327,15 @@ IN PERSON. WHETHER OR NOT YOU EXPECT TO ATTEND THE AURORA SPECIAL MEETING, WE
 URGE YOU TO SIGN AND DATE THE ENCLOSED PROXY AND RETURN IT PROMPTLY IN THE
 ENVELOPE PROVIDED.
 
-                                               By Order of the Board of Directors,
+                                                                             By Order of the Board of Directors,
 
-                                               /s/ Stuart J.M. Collinson
-                                               Stuart J.M. Collinson
-                                               CHAIRMAN OF THE BOARD,
-                                               CHIEF EXECUTIVE OFFICER
-                                               AND PRESIDENT
+                                                                             Stuart J.M. Collinson
+                                                                             CHAIRMAN OF THE BOARD,
+                                                                             CHIEF EXECUTIVE OFFICER
+                                                                             AND PRESIDENT
 
 San Diego, California
-June 8, 2001
+            , 2001
 
                                
 
@@ -406,45 +404,36 @@ THE MERGER..................................................     29
   Employment Agreements.....................................     68
   Operations After the Merger...............................     70
 UNAUDITED PRO FORMA COMBINED FINANCIAL INFORMATION..........     71
-DESCRIPTION OF VERTEX CAPITAL STOCK.........................     78
-  General...................................................     78
-  Vertex Common Stock.......................................     78
-  Vertex Preferred Stock....................................     78
-  Vertex Options............................................     78
-  Vertex Stockholder Rights Plan............................     78
-  Provisions of Vertex's Charter and By-laws Relating to a
-    Change in Control.......................................     79
-  Transfer Agent and Registrar..............................     79
 COMPARISON OF RIGHTS OF AURORA STOCKHOLDERS AND VERTEX
-  STOCKHOLDERS..............................................     80
-  Capitalization............................................     80
-  Voting Rights.............................................     80
-  Number of Directors.......................................     80
-  Classification of Board of Directors......................     80
-  Removal of Directors......................................     81
-  Filling Vacancies on the Board of Directors...............     81
-  Amendments to Charter.....................................     81
-  Amendments to By-Laws.....................................     81
-  Special Stockholder Meetings..............................     82
-  Action by Consent of Stockholders.........................     82
-  Inspection Rights.........................................     82
-  Limitation of Personal Liability of Directors.............     82
-  Indemnification of Directors and Officers.................     83
-  Stockholder Rights Plans..................................     83
-  Relevant Business Combination Provisions and Statutes.....     84
+  STOCKHOLDERS..............................................     78
+  Capitalization............................................     78
+  Voting Rights.............................................     78
+  Number of Directors.......................................     78
+  Classification of Board of Directors......................     78
+  Removal of Directors......................................     79
+  Filling Vacancies on the Board of Directors...............     79
+  Amendments to Charter.....................................     79
+  Amendments to By-Laws.....................................     79
+  Special Stockholder Meetings..............................     80
+  Action by Consent of Stockholders.........................     80
+  Inspection Rights.........................................     80
+  Limitation of Personal Liability of Directors.............     80
+  Indemnification of Directors and Officers.................     81
+  Stockholder Rights Plans..................................     81
+  Relevant Business Combination Provisions and Statutes.....     82
 ADDITIONAL PROPOSAL FOR THE VERTEX SPECIAL MEETING TO AMEND
-  VERTEX'S 1996 STOCK AND OPTION PLAN.......................     86
-  General...................................................     86
-  Amendment to the Plan.....................................     86
-  Description of Material Features of the Plan..............     87
-  Federal Income Tax Consequences...........................     87
-  Option Information........................................     89
-LEGAL MATTERS...............................................     90
-EXPERTS.....................................................     90
-OTHER MATTERS...............................................     90
-STOCKHOLDER PROPOSALS.......................................     90
-WHERE YOU CAN FIND MORE INFORMATION.........................     91
-STATEMENTS REGARDING FORWARD-LOOKING INFORMATION............     93
+  VERTEX'S 1996 STOCK AND OPTION PLAN.......................     84
+  General...................................................     84
+  Amendment to the Plan.....................................     84
+  Description of Material Features of the Plan..............     85
+  Federal Income Tax Consequences...........................     85
+  Option Information........................................     87
+LEGAL MATTERS...............................................     88
+EXPERTS.....................................................     88
+OTHER MATTERS...............................................     88
+STOCKHOLDER PROPOSALS.......................................     88
+WHERE YOU CAN FIND MORE INFORMATION.........................     89
+STATEMENTS REGARDING FORWARD-LOOKING INFORMATION............     91
 
 ANNEX A--Agreement and Plan of Merger
 ANNEX B--Opinion of Merrill Lynch, Pierce, Fenner & Smith
@@ -501,17 +490,18 @@ A:   For Vertex, the affirmative vote of the holders of at least
      Vertex's 1996 Stock and Option Plan. Each holder of Vertex
      common stock is entitled to one vote per share. As of the
      record date, Vertex directors and executive officers and
-     their affiliates owned approximately 1.9% of the outstanding
-     shares of Vertex common stock. They have executed proxies so
-     that these shares will be voted in favor of the issuance of
-     the Vertex common stock in connection with the merger.
+     their affiliates owned approximately       % of the
+     outstanding shares of Vertex common stock. They have
+     executed proxies so that these shares will be voted in favor
+     of the issuance of the Vertex common stock in connection
+     with the merger.
 
      For Aurora, the affirmative vote of the holders of at least
      a majority of the outstanding shares of Aurora common stock
      is required to approve and adopt the merger agreement. Each
      holder of Aurora common stock is entitled to one vote per
      share. As of the record date, Aurora directors and executive
-     officers and their affiliates owned approximately 3.8% of
+     officers and their affiliates owned approximately       % of
      the outstanding shares of Aurora common stock. They have
      executed proxies so that these shares will be voted in favor
      of approval and adoption of the merger agreement.
@@ -571,20 +561,16 @@ A:   If you are an Aurora stockholder, your broker will vote your
 Q:   CAN I CHANGE MY VOTE AFTER I HAVE DELIVERED MY PROXY?
 
 A:   Yes. You can change your vote at any time before your proxy
-     is voted at the special meeting. If you are a holder of
-     record, you can do this in one of three ways. First, you can
-     notify us that you would like to revoke your proxy. Second,
-     you can complete and submit a new proxy. If you choose
-     either of these two methods, you must submit your notice of
-     revocation or your new proxy to the Clerk of Vertex or the
-     Secretary of Aurora, as appropriate, before the special
-     meeting. Third, you can attend your respective special
-     meeting and vote in person.
-
-     If your shares are held in an account at a brokerage firm or
-     bank, you must follow the directions received from your
-     broker to change your vote or to vote at your respective
-     special meeting.
+     is voted at the special meeting. You can do this in one of
+     three ways. First, you can notify us that you would like to
+     revoke your proxy. Second, you can submit a new proxy. If
+     you choose either of these two methods, you must submit your
+     notice of revocation or your new proxy to the Clerk of
+     Vertex or the Secretary of Aurora, as appropriate, before
+     the special meeting. If your shares are held in an account
+     at a brokerage firm or bank, you should contact your
+     brokerage firm or bank to change your vote. Third, you can
+     attend the special meeting and vote in person.
 
 Q:   SHOULD AURORA STOCKHOLDERS SEND IN THEIR STOCK CERTIFICATES
      NOW?
@@ -640,7 +626,7 @@ OTHER IMPORTANT BUSINESS AND FINANCIAL INFORMATION ABOUT VERTEX AND AURORA INTO
 THIS JOINT PROXY STATEMENT-PROSPECTUS. YOU MAY OBTAIN THE INFORMATION
 INCORPORATED BY REFERENCE INTO THIS JOINT PROXY STATEMENT-PROSPECTUS WITHOUT
 CHARGE BY FOLLOWING THE INSTRUCTIONS IN THE SECTION ENTITLED "WHERE YOU CAN FIND
-MORE INFORMATION" THAT BEGINS ON PAGE 91 OF THIS JOINT PROXY
+MORE INFORMATION" THAT BEGINS ON PAGE 89 OF THIS JOINT PROXY
 STATEMENT-PROSPECTUS.
 
                                  THE COMPANIES
@@ -736,7 +722,7 @@ THE SPECIAL MEETINGS (SEE PAGE 26)
 
     SPECIAL MEETING OF VERTEX'S STOCKHOLDERS.  The Vertex special meeting will
 be held at Vertex's offices at 130 Waverly Street, Cambridge, Massachusetts on
-July 18, 2001, starting at 12:00 p.m., Eastern Time. At the Vertex special
+      , 2001, starting at       a.m., Eastern Time. At the Vertex special
 meeting, Vertex will ask the holders of Vertex common stock to consider and vote
 upon (1) a proposal to approve the issuance of the Vertex common stock in
 connection with the merger, (2) a proposal to amend Vertex's 1996 Stock and
@@ -744,12 +730,11 @@ Option Plan and (3) any other matters as may properly come before the Vertex
 special meeting or any postponements or adjournments of the meeting.
 
     SPECIAL MEETING OF AURORA'S STOCKHOLDERS.  The Aurora special meeting will
-be held at Aurora's offices at 11010 Torreyana Road, San Diego, California on
-July 18, 2001, starting at 9:00 a.m., Pacific Time. At the Aurora special
-meeting, Aurora will ask the holders of Aurora common stock to consider and vote
-upon (1) a proposal to approve and adopt the merger agreement and (2) any other
-matters as
+be held at           at             , California on       , 2001, starting at
+      a.m., Pacific Time. At the Aurora special meeting, Aurora will ask the
+holders of Aurora common stock to consider and vote upon (1) a
 
+proposal to approve and adopt the merger agreement and (2) any other matters as
 may properly come before the Aurora special meeting or any postponements or
 adjournments of the meeting.
 
@@ -805,15 +790,15 @@ waived.
 ANTITRUST APPROVAL IS REQUIRED TO COMPLETE THE MERGER (SEE PAGE 57)
 
     The merger is subject to antitrust laws. We have made the required filings
-with the Department of Justice and the Federal Trade Commission. However, we are
-not permitted to complete the merger until the applicable waiting periods have
-expired or terminated. We believe that we have substantially complied with all
-requests for information from the Department of Justice and the Federal Trade
-Commission and we expect that the applicable waiting periods will expire or be
-terminated on or before July 5, 2001. However, the Department of Justice or the
-Federal Trade Commission, as well as a foreign regulatory agency or government,
-state or private person, may challenge the merger at any time before its
-completion.
+with the Department of Justice and the Federal Trade Commission as well as
+foreign regulatory agencies. However, we are not permitted to complete the
+merger until the applicable waiting periods have expired or terminated. We
+believe that we have substantially complied with all requests for information
+from the Department of Justice and the Federal Trade Commission and we expect
+that the applicable waiting periods will expire or be terminated on or before
+June 24, 2001. However, the Department of Justice or the Federal Trade
+Commission, as well as a foreign regulatory agency or government, state or
+private person, may challenge the merger at any time before its completion.
 
 RESTRICTIONS ON THE ABILITY TO SELL VERTEX COMMON STOCK (SEE PAGE 57)
 
@@ -942,18 +927,17 @@ directors and executive officers, pursuant to which they have granted proxies to
 officers of Vertex so that all of the shares of Aurora common stock owned by
 Aurora's directors and executive officers will be voted by the officers of
 Vertex at the Aurora special meeting to approve and adopt the merger agreement.
-As of the record date, Aurora's directors and executive officers and their
-affiliates owned approximately 3.8% of the outstanding Aurora common stock.
-Aurora has entered into stockholder agreements with all of Vertex's directors
-and executive officers, pursuant to which they have granted proxies to officers
-of Aurora so that all of the shares of Vertex common stock owned by Vertex's
-directors and executive officers will be voted by the officers of Aurora at the
-Vertex special meeting to approve the issuance of the Vertex common stock in
-connection with the merger. As of the record date, Vertex's directors and
-executive officers and their affiliates owned approximately 1.9% of the
-outstanding Vertex common stock.
+As of the record date, Aurora's directors and executive officers owned
+approximately       % of the outstanding Aurora common stock. Aurora has entered
+into stockholder agreements with all of Vertex's directors and executive
+officers, pursuant to which they have granted proxies to officers of Aurora so
+that all of the shares of Vertex common stock owned by Vertex's directors and
+executive officers will be voted by the officers of Aurora at the Vertex special
+meeting to approve the issuance of the Vertex common stock in connection with
+the merger. As of the record date, Vertex's directors and executive officers
+owned approximately       % of the outstanding Vertex common stock.
 
-COMPARISON OF STOCKHOLDER RIGHTS (SEE PAGE 80)
+COMPARISON OF STOCKHOLDER RIGHTS (SEE PAGE 78)
 
     After the merger, Aurora's stockholders will become stockholders of Vertex.
 Their rights as stockholders of Vertex will differ from their rights as
@@ -969,7 +953,7 @@ MARKET PRICE INFORMATION
     The following table sets forth the closing prices per share of Vertex common
 stock and Aurora common stock as reported on The Nasdaq National Market on (1)
 April 27, 2001, the last full trading day prior to the public announcement that
-Vertex and Aurora had entered into the merger agreement, and (2) June 7, 2001,
+Vertex and Aurora had entered into the merger agreement, and (2)       , 2001,
 the last full trading day for which closing prices were available at the time of
 the printing of this joint proxy statement-prospectus. This table also sets
 forth the pro forma equivalent per share value of Aurora common stock on those
@@ -981,11 +965,11 @@ DATE                                                 VERTEX         AURORA      
 - ----                                              ------------   ------------   --------------------
 
 April 27, 2001..................................     $39.25         $16.85             $24.34
-June 7, 2001....................................     $48.70         $29.98             $30.19
+        , 2001..................................     $              $                  $
 
                ADDITIONAL PROPOSAL FOR THE VERTEX SPECIAL MEETING
 
-PROPOSAL TO AMEND VERTEX'S 1996 STOCK AND OPTION PLAN (SEE PAGE 86)
+PROPOSAL TO AMEND VERTEX'S 1996 STOCK AND OPTION PLAN (SEE PAGE 84)
 
     As a result of the merger, Vertex will have approximately 350 additional
 persons eligible to receive stock options and stock awards under its 1996 Stock
@@ -1457,23 +1441,16 @@ TREATMENT WOULD CREATE THE NEED TO ACCOUNT FOR THE PURCHASE OF GOODWILL, WHICH
 WILL NEGATIVELY IMPACT THE FUTURE EARNINGS OF VERTEX.
 
     Vertex and Aurora intend to treat the merger for accounting purposes as a
-"pooling of interests." The availability of pooling of interests accounting
-depends on a number of factors, including that affiliates of Vertex and Aurora
-not sell or otherwise transfer more than a DE MINIMIS number of shares held by
-them during the period beginning 30 days prior to the closing of the merger and
-ending when financial results covering at least 30 days of combined operations
-of Aurora and Vertex have been published. Vertex will not receive written
-commitments from all of its stockholders who may be deemed affiliates that they
-will not transfer shares during this period. If the merger is consummated but
-not treated as a pooling of interests, Vertex will have to account for its
-purchase of Aurora's goodwill and other intangible assets. This "purchase
-accounting" will negatively affect Vertex's earnings, as goodwill and other
-intangible assets would be amortized over a period of years and cause decreased
-earnings for each quarter during those years. Although Vertex expects to receive
-letters from its independent accountants concurring with the conclusion of
-Vertex's management that the merger will qualify for pooling of interests
-accounting treatment and from Aurora's independent auditors that they concur
-with the conclusion of Aurora's management as to whether Aurora meets the
+"pooling of interests." If, however, this expected accounting treatment does not
+occur and the merger is nevertheless consummated, Vertex will have to account
+for its purchase of Aurora's goodwill and other intangible assets. This
+"purchase accounting" will negatively affect Vertex's earnings, as goodwill and
+other intangible assets would be amortized over a period of years and cause
+decreased earnings for each quarter during those years. Although Vertex expects
+to receive letters from its independent accountants concurring with the
+conclusion of Vertex's management that the merger will qualify for pooling of
+interests accounting treatment and from Aurora's independent auditors that they
+concur with the conclusion of Aurora's management as to whether Aurora meets the
 conditions necessary for it to enter into the business combination accounted for
 as a pooling of interests, such opinions are not binding on the Securities and
 Exchange Commission and do not take into account transactions that may occur
@@ -1531,7 +1508,7 @@ months' notice.
 IF VERTEX DOES NOT SUCCESSFULLY DEVELOP ITS DRUG PIPELINE, IT MAY NOT GENERATE
 SUFFICIENT FUNDS TO ACHIEVE OR SUSTAIN PROFITABILITY IN THE FUTURE.
 
-    As of June 1, 2001, Vertex and its collaborators were conducting clinical
+    As of March 31, 2001, Vertex and its collaborators were conducting clinical
 trials for eight product candidates resulting from Vertex's research and
 development programs, including additional clinical trials of VX-175, VX-497,
 VX-740 and VX-745, and preclinical testing of four product candidates from these
@@ -1670,7 +1647,7 @@ ITS PRODUCTS.
 products that are currently on the market or new products that may be developed
 by others. There are many other companies developing products for the same
 indications that Vertex is pursuing in development. For example, Vertex knows of
-at least ten drugs in development for the treatment of HIV, five drugs in
+at least 10 drugs in development for the treatment of HIV, 5 drugs in
 development for the treatment of hepatitis C infection, and 20 drugs in
 development for the treatment of rheumatoid arthritis, by competitors in the
 pharmaceutical and biotechnology industries. In order to compete successfully in
@@ -1757,7 +1734,7 @@ IF VERTEX'S PATENTS DO NOT PROTECT ITS PRODUCTS, OR VERTEX'S PRODUCTS INFRINGE
 THIRD-PARTY PATENTS, VERTEX COULD BE SUBJECT TO LITIGATION AND SUBSTANTIAL
 LIABILITIES.
 
-    As of June 1, 2001, Vertex had 105 patent applications pending in the United
+    As of May 16, 2001, Vertex had 105 patent applications pending in the United
 States, as well as foreign counterparts in other countries. Vertex's success
 will depend, in significant part, on its ability to obtain and maintain United
 States and foreign patent protection for its products, their uses and its
@@ -1908,25 +1885,25 @@ COMMON STOCK TO DECLINE.
 
     Sales of substantial amounts of Vertex common stock in the open market, or
 the availability of such shares for sale, could adversely affect the price of
-Vertex common stock. As of June 1, 2001, Vertex had 60,373,345 shares of common
+Vertex common stock. As of the record date, Vertex had       shares of common
 stock outstanding, excluding shares reserved for issuance upon the exercise of
 outstanding stock options, employee stock purchase and 401(k) plans and upon
-conversion of its outstanding notes. As of June 1, 2001, Vertex had outstanding
-stock options to purchase 11,428,148 shares of Vertex common stock at a weighted
-average exercise price of approximately $25.23 per share. Of this total,
-5,152,966 were currently exercisable at a weighted average exercise price of
-approximately $13.94 per share. The shares of Vertex common stock that may be
+conversion of its outstanding notes. As of the record date, Vertex had
+outstanding stock options to purchase       shares of Vertex common stock at a
+weighted average exercise price of approximately $         per share. Of this
+total,       were currently exercisable at a weighted average exercise price of
+approximately $         per share. The shares of Vertex common stock that may be
 issued under the options will generally be freely tradable or transferable
 pursuant to an effective registration statement. In addition, upon completion of
 the merger, based on shares of Aurora common stock and options to purchase
-shares of Aurora common stock outstanding as of June 1, 2001, Vertex will issue
-approximately 14,160,814 shares of common stock to the stockholders of Aurora
-and will assume options to purchase approximately 2,733,366 shares of Vertex
-common stock. All shares of Vertex common stock issuable upon completion of the
-merger, except those held by affiliates of Aurora, will be freely transferable.
-In addition, Vertex has agreed to file a registration statement on Form S-8
-relating to the shares of Vertex common stock issuable upon exercise of the
-assumed Aurora stock options within 20 days after completion of the merger.
+shares of Aurora common stock outstanding as of March 31, 2001, Vertex will
+issue approximately 14,010,244 shares of common stock to the stockholders of
+Aurora and will assume options to purchase approximately 2,843,586 shares of
+Vertex common stock. All shares of Vertex common stock issuable upon completion
+of the merger, except those held by affiliates of Aurora, will be freely
+transferable. In addition, Vertex has agreed to file a registration statement on
+Form S-8 relating to the shares of Vertex common stock issuable upon exercise of
+the assumed Aurora stock options within 20 days after completion of the merger.
 
 VERTEX HAS ADOPTED ANTI-TAKEOVER PROVISIONS THAT MAY FRUSTRATE ANY ATTEMPT TO
 ACQUIRE VERTEX OR TO REMOVE OR REPLACE ITS MANAGEMENT.
@@ -2008,16 +1985,16 @@ converted into 0.62 of a share of Vertex common stock, and Aurora will become a
 wholly-owned subsidiary of Vertex.
 
     This joint proxy statement-prospectus is first being furnished to
-stockholders of Vertex and Aurora on or about June 13, 2001.
+stockholders of Vertex and Aurora on or about             , 2001.
 
 DATE, TIME AND PLACE OF THE SPECIAL MEETINGS
 
     The special meetings are scheduled to be held as follows:
 
           For Vertex stockholders:                       For Aurora stockholders:
- July 18, 2001 at 12:00 p.m. (Eastern Time)      July 18, 2001 at 9:00 a.m. (Pacific Time)
-             130 Waverly Street                            11010 Torreyana Road
-          Cambridge, Massachusetts                         San Diego, California
+        , 2001 at       a.m. (Eastern Time)         , 2001 at       a.m. (Pacific Time)
+             130 Waverly Street
+          Cambridge, Massachusetts                             , California
 
 PURPOSES OF THE SPECIAL MEETINGS
 
@@ -2044,16 +2021,16 @@ any adjournment or postponement of the special meetings.
 STOCKHOLDER RECORD DATES FOR THE SPECIAL MEETINGS
 
     VERTEX.  Vertex's board of directors has fixed the close of business on
-June 6, 2001 as the record date for determination of Vertex's stockholders
+      , 2001 as the record date for determination of Vertex's stockholders
 entitled to notice of and to vote at the special meeting. On the record date,
-there were 60,373,345 shares of Vertex common stock outstanding, held by
-approximately 191 holders of record.
+there were       shares of Vertex common stock outstanding, held by
+approximately       holders of record.
 
     AURORA.  Aurora's board of directors has fixed the close of business on
-June 6, 2001 as the record date for determination of Aurora's stockholders
+      , 2001 as the record date for determination of Aurora's stockholders
 entitled to notice of and to vote at the special meeting. On the record date,
-there were 22,738,438 shares of Aurora common stock outstanding, held by
-approximately 233 holders of record.
+there were       shares of Aurora common stock outstanding, held by
+approximately       holders of record.
 
 VOTES REQUIRED AT THE SPECIAL MEETINGS
 
@@ -2068,11 +2045,11 @@ and to approve the amendment to Vertex's 1996 Stock and Option Plan. At the
 Vertex special meeting, each share of Vertex common stock is entitled to one
 vote on all matters properly submitted to the Vertex stockholders at the special
 meeting. As of the record date for the special meeting, directors and executive
-officers of Vertex and their affiliates owned approximately 1.9% of all
-outstanding shares of Vertex common stock entitled to vote at the special
-meeting. These directors and executive officers of Vertex have executed proxies
-so that these shares will be voted in favor of the approval of the issuance of
-the Vertex common stock in connection with the merger.
+officers of Vertex owned approximately       % of all outstanding shares of
+Vertex common stock entitled to vote at the special meeting. These directors and
+executive officers of Vertex have executed proxies so that these shares will be
+voted in favor of the approval of the issuance of the Vertex common stock in
+connection with the merger.
 
     AURORA.  At least a majority of the outstanding shares of Aurora common
 stock must be represented, either in person or by proxy, to constitute a quorum
@@ -2083,11 +2060,10 @@ stock is required to approve and adopt the merger agreement. At the Aurora
 special meeting, each share of Aurora common stock is entitled to one vote on
 all matters properly submitted to the Aurora stockholders at the special
 meeting. As of the record date for the special meeting, directors and executive
-officers of Aurora and their affiliates owned approximately 3.8% of all
-outstanding shares of Aurora common stock entitled to vote at the special
-meeting. These directors and executive officers of Aurora have executed proxies
-so that these shares will be voted in favor of the approval and adoption of the
-merger agreement.
+officers of Aurora owned approximately       % of all outstanding shares of
+Aurora common stock entitled to vote at the special meeting. These directors and
+executive officers of Aurora have executed proxies so that these shares will be
+voted in favor of the approval and adoption of the merger agreement.
 
 PROXIES
 
@@ -2147,8 +2123,7 @@ to do so is withheld on the proxy card.
 
 REVOCATION OF PROXIES
 
-    A stockholder of record may revoke his or her proxy at any time before it is
-voted by:
+    A stockholder may revoke his or her proxy at any time before it is voted by:
 
     - notifying in writing the Clerk of Vertex Pharmaceuticals Incorporated at
       130 Waverly Street, Cambridge, Massachusetts 02139-4242, if you are a
@@ -2161,26 +2136,24 @@ voted by:
     - appearing in person and voting at the special meeting if you are a holder
       of record.
 
-If your shares are held in an account at a brokerage firm or bank, you must
-follow the directions received from your broker to revoke your vote or to vote
-at your respective special meeting. Attendance at the special meeting will not
-in and of itself constitute revocation of a proxy.
+Attendance at the special meeting will not in and of itself constitute
+revocation of a proxy.
 
 SOLICITATION OF PROXIES
 
     Vertex and Aurora will equally share the expenses incurred in connection
 with the printing and mailing of this joint proxy statement-prospectus. Vertex
-has retained D.F. King & Co., Inc. , at an estimated cost of $4,000.00 plus
-reimbursement of expenses, to assist in the solicitation of proxies for the
-Vertex special meeting. Vertex, its proxy solicitor and Aurora will also request
-banks, brokers and other intermediaries holding shares of Vertex common stock or
-Aurora common stock beneficially owned by others to send this joint proxy
-statement-prospectus to, and obtain proxies from, the beneficial owners and will
-reimburse the holders for their reasonable expenses in so doing. Solicitation of
-proxies by mail may be supplemented by telephone, telegram, and other electronic
-means, advertisements and personal solicitation by the directors, officers or
-employees of Vertex and Aurora. No additional compensation will be paid to
-directors, officers or employees for such solicitation.
+has retained       , at an estimated cost of $         plus reimbursement of
+expenses, to assist in the solicitation of proxies for the Vertex special
+meeting. Vertex, its proxy solicitor and Aurora will also request banks, brokers
+and other intermediaries holding shares of Vertex common stock or Aurora common
+stock beneficially owned by others to send this joint proxy statement-prospectus
+to, and obtain proxies from, the beneficial owners and will reimburse the
+holders for their reasonable expenses in so doing. Solicitation of proxies by
+mail may be supplemented by telephone, telegram, and other electronic means,
+advertisements and personal solicitation by the directors, officers or employees
+of Vertex and Aurora. No additional compensation will be paid to directors,
+officers or employees for such solicitation.
 
     AURORA STOCKHOLDERS SHOULD NOT SEND IN ANY STOCK CERTIFICATES WITH THEIR
 PROXY CARD. A TRANSMITTAL LETTER WITH INSTRUCTIONS FOR THE SURRENDER OF STOCK
@@ -2897,7 +2870,7 @@ between Vertex and Aurora and was approved by Vertex's board of directors.
     - reviewed publicly available business and financial information relating to
       Aurora and Vertex that Merrill Lynch deemed to be relevant;
 
-    - reviewed information, including financial forecasts, relating to the
+    - reviewed information, including financial forecasts relating to the
       business, earnings, cash flow, assets, liabilities and prospects of Aurora
       and Vertex, furnished to Merrill Lynch by Aurora and Vertex, respectively;
 
@@ -3784,14 +3757,14 @@ are guaranteed by Vertex:
 Non-Employee Directors' Stock Option Plan will, by its terms, become fully
 vested and immediately exercisable prior to and subject to completion of the
 merger and if not exercised prior to the completion of the merger, will
-terminate as of the completion of the merger. In addition, as of June 1, 2001,
-approximately 4,160,337 shares of Aurora common stock were subject to
-outstanding options granted to officers and employees of Aurora under Aurora's
-1996 Stock Plan, which contains a provision that provides for acceleration of
-vesting after the merger if, within the period beginning 60 days before
-completion of the merger and ending 13 months following the merger, the optionee
-is terminated by Vertex without cause or if the optionee voluntarily terminates
-his or her employment as a result of a constructive termination.
+terminate as of the completion of the merger. In addition, as of March 31, 2001,
+approximately 4,327,853 shares of Aurora common stock are subject to outstanding
+options granted to officers and employees of Aurora under Aurora's 1996 Stock
+Plan, which contains a provision that provides for acceleration of vesting after
+the merger if, within the period beginning 60 days before completion of the
+merger and ending 13 months following the merger, the optionee is terminated by
+Vertex without cause or if the optionee voluntarily terminates his or her
+employment as a result of a constructive termination.
 
     INDEMNIFICATION AND INSURANCE.  The merger agreement provides that all
 rights to indemnification and limitation of personal liability existing in favor
@@ -3917,20 +3890,20 @@ stock option immediately before the merger except that:
 
     Any restrictions on the exercise of such options shall continue, and the
 term, vesting schedule and other provisions of each such option shall remain
-unchanged. However, as of June 1, 2001, approximately 4,160,337 shares of Aurora
-common stock were subject to outstanding options granted to officers and
+unchanged. However, as of March 31, 2001, approximately 4,327,853 shares of
+Aurora common stock are subject to outstanding options granted to officers and
 employees of Aurora under Aurora's 1996 Stock Plan, which contains a provision
 that provides for acceleration of vesting after the merger if, within the period
 beginning 60 days before completion of the merger and ending 13 months following
 the merger, the optionee is terminated by Vertex without cause or if the
 optionee voluntarily terminates his or her employment as a result of a
-constructive termination. On June 1, 2001, excluding outstanding options under
+constructive termination. On March 31, 2001, excluding outstanding options under
 the Aurora Non-Employee Directors' Stock Option Plan, there were options to
-purchase 4,408,654 shares of Aurora common stock outstanding at a weighted
-average exercise price of $22.55 per share. On June 1, 2001 there were options
-to purchase 101,584 shares of Aurora common stock outstanding under the Aurora
+purchase 4,586,429 shares of Aurora common stock outstanding at a weighted
+average exercise price of $22.05 per share. On March 31, 2001 there were options
+to purchase 78,167 shares of Aurora common stock outstanding under the Aurora
 Non-Employee Directors' Stock Option Plan at a weighted average exercise price
-of $28.13 per share.
+of $27.15 per share.
 
     Vertex has agreed to file a registration statement on Form S-8 relating to
 the shares of Vertex common stock issuable upon exercise of the assumed Aurora
@@ -4105,12 +4078,12 @@ REGULATORY MATTERS
 not complete the merger until notifications have been furnished to the Federal
 Trade Commission and the Antitrust Division of the Department of Justice, and
 the required waiting period has expired or been terminated. Vertex and Aurora
-each filed a pre-merger notification and report form with the FTC and the
-Antitrust Division on June 5, 2001. We expect that the applicable waiting period
-under the Hart-Scott-Rodino Act will expire or be terminated on or before
-July 5, 2001. As a result, the merger will be deemed to have received antitrust
-approval and may be consummated, pending compliance with the other closing
-conditions.
+each intend to file a pre-merger notification and report form with the FTC and
+the Antitrust Division on or before May 25, 2001. We expect that the applicable
+waiting period under the Hart-Scott-Rodino Act will expire or be terminated on
+or before June 24, 2001. As a result, the merger will be deemed to have received
+antitrust approval and may be consummated, pending compliance with the other
+closing conditions.
 
     At any time before the completion of the merger, the Antitrust Division, the
 FTC or a private person or entity could seek under antitrust laws, among other
@@ -4858,8 +4831,8 @@ STOCKHOLDER AGREEMENTS
 
     As an inducement to Vertex to enter into the merger agreement, on April 29,
 2001, all of Aurora's directors and executive officers, who own an aggregate of
-869,279 shares of Aurora common stock, or approximately 3.8% of the outstanding
-Aurora common stock as of the record date, entered into stockholder agreements
+869,279 shares of Aurora common stock, or approximately 3.9% of the outstanding
+Aurora common stock as of April 29, 2001, entered into stockholder agreements
 with Vertex. These stockholder agreements provide that each of these directors
 and executive officers (1) agrees not to sell, transfer or otherwise dispose of
 any of their Aurora common stock until the earlier of the completion of the
@@ -4872,17 +4845,17 @@ merger agreement.
 
     As an inducement to Aurora to enter into the merger agreement, on April 29,
 2001, all of Vertex's directors and executive officers, who own an aggregate of
-1,160,300 shares of Vertex common stock, or approximately 1.9% of the
-outstanding Vertex common stock as of the record date, entered into stockholder
-agreements with Aurora. These stockholder agreements provide that each of these
-directors and executive officers (1) agrees not to sell, transfer or otherwise
-dispose of any of their Vertex common stock until the earlier of the completion
-of the merger or the termination of the merger agreement and (2) to appoint
-specified officers of Aurora as their proxy for any matters concerning the
-merger. The proxy holders agreed that they will vote such shares of Vertex
-common stock in favor of the issuance of Vertex common stock in connection with
-the merger. The proxy terminates upon the earlier of the completion of the
-merger or the termination of the merger agreement.
+1,160,885 shares of Vertex common stock, or approximately 2% of the outstanding
+Vertex common stock as of April 29, 2001, entered into stockholder agreements
+with Aurora. These stockholder agreements provide that each of these directors
+and executive officers (1) agrees not to sell, transfer or otherwise dispose of
+any of their Vertex common stock until the earlier of the completion of the
+merger or the termination of the merger agreement and (2) to appoint specified
+officers of Aurora as their proxy for any matters concerning the merger. The
+proxy holders agreed that they will vote such shares of Vertex common stock in
+favor of the issuance of Vertex common stock in connection with the merger. The
+proxy terminates upon the earlier of the completion of the merger or the
+termination of the merger agreement.
 
 EMPLOYMENT AGREEMENTS
 
@@ -5032,7 +5005,7 @@ stockholders of Vertex, and their rights as stockholders will be governed by
 Vertex's restated articles of organization, as amended, Vertex's amended and
 restated by-laws and the laws of the Commonwealth of Massachusetts. See the
 section entitled "Comparison of Rights of Holders of Aurora Common Stock and
-Vertex Common Stock" that begins on page 80 of this joint proxy
+Vertex Common Stock" that begins on page 78 of this joint proxy
 statement-prospectus.
 
                UNAUDITED PRO FORMA COMBINED FINANCIAL INFORMATION
@@ -5404,89 +5377,6 @@ Basic and diluted net loss per common share........  $  (0.65)  $  (1.00)       
 Basic and diluted weighted average number of common
   shares outstanding...............................    50,598     17,972                   61,741
 
-                      DESCRIPTION OF VERTEX CAPITAL STOCK
-
-    The following is a summary of the material terms of Vertex's capital stock.
-Because it is only a summary, it does not contain all information that may be
-important to you. Therefore, you should read carefully the more detailed
-provisions of Vertex's restated articles of organization, as amended, Vertex's
-amended and restated by-laws and the Vertex stockholder rights plan.
-
-GENERAL
-
-    Vertex's authorized capital stock consists of 200,000,000 shares of common
-stock, $0.01 par value, and 1,000,000 shares of preferred stock, $0.01 par
-value.
-
-VERTEX COMMON STOCK
-
-    As of the record date, there were 60,373,345 shares of Vertex common stock
-outstanding held by approximately 191 stockholders of record. Holders of Vertex
-common stock are entitled to one vote for each share held on all matters
-submitted to a vote of stockholders and do not have cumulative voting rights.
-Accordingly, holders of a majority of the shares of Vertex common stock entitled
-to vote in any election of directors may elect all of the directors standing for
-election. Holders of Vertex common stock are entitled to receive ratably such
-dividends, if any, as may be declared by Vertex's board of directors out of
-funds legally available therefor, subject to any preferential dividend rights of
-any outstanding preferred stock. Upon the liquidation, dissolution or winding up
-of Vertex, the holders of Vertex common stock are entitled to receive ratably
-the net assets of Vertex available after the payment of all debts and other
-liabilities and subject to any prior rights of any outstanding preferred stock.
-Holders of Vertex common stock have no preemptive, subscription, redemption or
-conversion rights. The outstanding shares of Vertex common stock are fully paid
-and nonassessable. The rights, preferences and privileges of holders of Vertex
-common stock are subject to, and may be adversely affected by, the rights of the
-holders of shares of any series of preferred stock which Vertex may designate
-and issue in the future.
-
-VERTEX PREFERRED STOCK
-
-    Vertex's board of directors has the authority, without further action by the
-stockholders, to issue up to 1,000,000 shares of preferred stock in one or more
-series and to fix the rights, preferences, privileges and restrictions thereof,
-including dividend rights, conversion rights, voting rights, terms of
-redemption, liquidation preferences, sinking fund terms and the number of shares
-constituting any series or the designation of such series, without any further
-vote or action by stockholders. The issuance of preferred stock could adversely
-affect the voting power of holders of Vertex common stock and the likelihood
-that such holders will receive dividend payments and payments upon liquidation
-and could have the effect of delaying, deferring or preventing a change in
-control. Vertex has no present plan to issue any shares of preferred stock.
-
-VERTEX OPTIONS
-
-    As of June 1, 2001, there were outstanding options for the purchase of
-11,428,148 shares of Vertex common stock at a weighted average exercise price of
-approximately $25.23 per share. Options for the purchase of 5,152,966 shares of
-Vertex common stock were exercisable as of that date at a weighted average
-exercise price of approximately $13.94 per share.
-
-VERTEX STOCKHOLDER RIGHTS PLAN
-
-    Vertex has a stockholder rights plan. See the section entitled "Comparison
-of Rights of Aurora Stockholders and Vertex Stockholders--Stockholder Rights
-Plans" that begins on page 83 of this joint proxy statement-prospectus for a
-discussion of the Vertex stockholder rights plan.
-
-PROVISIONS OF VERTEX'S CHARTER AND BY-LAWS RELATING TO A CHANGE IN CONTROL
-
-    Provisions of Vertex's restated articles of organization, as amended,
-amended and restated by-laws and stockholder rights plan may discourage certain
-types of transactions involving an actual or potential change in control of
-Vertex which might be beneficial to the company or its stockholders. Vertex's
-restated articles of organization, as amended, provides for staggered terms for
-the members of the Vertex board of directors. Vertex's amended and restated
-by-laws grant the directors a right to adjourn annual meetings of stockholders,
-and certain provisions of the amended and restated by-laws may be amended only
-with an 80% stockholder vote.
-
-TRANSFER AGENT AND REGISTRAR
-
-    The transfer agent and registrar for Vertex common stock is EquiServe
-Limited Partnership. The transfer agent's address is P.O. Box 8040, Boston,
-Massachusetts 02266-8040, and its telephone number is 781-575-3120.
-
       COMPARISON OF RIGHTS OF AURORA STOCKHOLDERS AND VERTEX STOCKHOLDERS
 
     Aurora is a Delaware corporation subject to the provisions of the Delaware
@@ -5512,14 +5402,14 @@ CAPITALIZATION
     AURORA.  The total authorized capital stock of Aurora consists of (1)
 150,000,000 shares of common stock, par value $0.001 per share, and (2)
 7,500,000 shares of preferred stock, par value $0.001 per share. As of the
-record date, there were 22,738,438 shares of Aurora common stock outstanding and
-no shares of Aurora preferred stock outstanding.
+record date, there were       shares of Aurora common stock outstanding and no
+shares of Aurora preferred stock outstanding.
 
     VERTEX.  The total authorized shares of capital stock of Vertex consist of
 (1) 200,000,000 shares of common stock, par value $0.01 per share, and (2)
 1,000,000 shares of preferred stock, par value $0.01 per share. As of the record
-date, there were 60,373,345 shares of Vertex common stock outstanding and no
-shares of Vertex preferred stock outstanding.
+date, there were       shares of Vertex common stock outstanding and no shares
+of Vertex preferred stock outstanding.
 
 VOTING RIGHTS
 
@@ -5772,18 +5662,16 @@ exclusion of the merger as a transaction that would trigger any rights under the
 agreement.
 
     VERTEX.  Pursuant to a Rights Agreement dated July 1, 1991, as amended on
-February 21, 1997, each outstanding share of Vertex common stock has, and each
-share of Vertex common stock issued in the future, including the shares of
-Vertex common stock issued in exchange for Aurora common stock upon completion
-of the merger, will have an associated preferred share purchase right that
-entitles the holder to purchase from Vertex one half of one-hundredth of a share
-of Vertex's Series A Junior Participating Preferred Stock, $0.01 par value, at a
-purchase price of $135, subject to adjustment for stock splits and other
-recapitalization events. The Rights Agreement will expire by its terms on
-June 30, 2001. On May 8, 2001, the board of directors of Vertex met and voted to
-amend the Rights Agreement to extend the term of the Rights Agreement through
-June 30, 2011. These rights are not currently exercisable, but will become
-exercisable upon the earlier of:
+February 21, 1997, each outstanding share of Vertex common stock has an
+associated preferred share purchase right that entitles the holder to purchase
+from Vertex one half of one-hundredth of a share of Vertex's Series A Junior
+Participating Preferred Stock, $0.01 par value, at a purchase price of $135,
+subject to adjustment for stock splits and other recapitalization events. The
+Rights Agreement will expire by its terms on June 30, 2001. On May 8, 2001, the
+board of directors of Vertex met and voted to amend the Rights Agreement to
+extend the term of the Rights Agreement through June 30, 2011. As of the date
+hereof, the amendment has not been effectuated. These rights are not currently
+exercisable, but will become exercisable upon the earlier of:
 
     - ten days following the acquisition by a person, group or entity of 15% or
       more of Vertex's outstanding common stock; or
@@ -5804,11 +5692,11 @@ at the time of the transaction has a market value of twice the purchase price.
 
     At any time after any person, group or entity triggers the exercisability of
 the right and prior to the acquisition by such person, group or entity of 50% or
-more of the outstanding Vertex common stock, Vertex's board of directors may
-cause the rights (other than rights owned by such person, group or entity) to be
-exchanged, in whole or in part, for Vertex common stock or junior preferred
-shares, at an exchange rate of one share of Vertex common stock per right or one
-half of one-hundredth of a junior preferred share per right.
+more of the outstanding common stock, Vertex's board of directors may cause the
+rights (other than rights owned by such person, group or entity) to be
+exchanged, in whole or in part, for common stock or junior preferred shares, at
+an exchange rate of one share of common stock per right or one half of
+one-hundredth of a junior preferred share per right.
 
     At any time prior to the rights becoming exercisable, Vertex's board of
 directors may redeem the rights in whole at a price of $.01 per right.
@@ -5821,14 +5709,15 @@ transactions with the corporation for a period of three years. The statute
 contains certain exceptions to this prohibition. If, for example, the board of
 directors approves the acquisition of stock or the transaction prior to the time
 that the person becomes an interested stockholder, or if the interested
-stockholder acquires at least 85% of the voting stock of
+stockholder acquires at least 85% of the voting stock of the corporation
+(excluding voting stock owned by directors who are also officers and certain
+employee
 
-the corporation (excluding voting stock owned by directors who are also officers
-and certain employee stock plans) in one transaction, or if the transaction is
-approved by the board of directors and the affirmative vote of two-thirds of the
-holders of the outstanding voting stock which is not owned by the interested
-stockholder at a meeting of the stockholders, then the prohibition on business
-combinations is not applicable.
+stock plans) in one transaction, or if the transaction is approved by the board
+of directors and the affirmative vote of two-thirds of the holders of the
+outstanding voting stock which is not owned by the interested stockholder at a
+meeting of the stockholders, then the prohibition on business combinations is
+not applicable.
 
     VERTEX.  The MBCL provides that, if a person acquires 5% or more of the
 stock of a Massachusetts corporation, such person may not engage in certain
@@ -5912,23 +5801,23 @@ that the increase is advisable to give Vertex the flexibility needed to attract,
 retain and motivate employees, directors and consultants after the merger is
 completed.
 
-    As of June 1, 2001, stock options to purchase 7,938,733 shares of common
+    As of March 31, 2001, stock options to purchase 8,068,212 shares of common
 stock were outstanding under the Plan, with exercise prices ranging from $7.66
-to $93.12. These options have expiration dates ranging from December 11, 2006 to
+to $93.12. These options have expiration dates ranging from December 12, 2006 to
 December 21, 2010. As of the same date, after giving effect to this amendment,
-6,372,354 shares of Vertex common stock remained available for the grant of
-additional stock rights under the Plan. On June 7, 2001, the last sales price
-for Vertex's common stock reported on The Nasdaq National Market was $48.70. The
-number of shares subject to the Plan is subject to adjustment in the case of a
-stock split, stock dividend, combination, recapitalization or similar
+6,310,209 shares of Vertex common stock remained available for the grant of
+additional stock rights under the Plan. On       , 2001, the last sales price
+for Vertex's common stock reported on The Nasdaq National Market was $      .
+The number of shares subject to the Plan is subject to adjustment in the case of
+a stock split, stock dividend, combination, recapitalization or similar
 transaction.
 
-    As of June 1, 2001, unexercised options for 1,544,689 shares of Vertex
+    As of March 31, 2001, unexercised options for 1,577,809 shares of Vertex
 common stock were outstanding under the Vertex 1991 Stock Option Plan, and
-22,522 shares remained available for the granting of additional options under
-that plan. As of the same date, unexercised options for 1,936,360 shares of
+17,652 shares remained available for the granting of additional options under
+that plan. As of the same date, unexercised options for 1,871,498 shares of
 Vertex common stock were outstanding under the Vertex 1994 Stock and Option
-Plan, and 18,239 shares of Vertex common stock remained available for the
+Plan, and 106,539 shares of Vertex common stock remained available for the
 granting of additional options and stock awards under that plan. The number of
 shares authorized for issuance under the Plan will be increased by the number of
 shares reserved for options under the 1991 Stock Option Plan and the 1994 Stock
@@ -6204,10 +6093,13 @@ reference into this joint proxy statement-prospectus:
     - Vertex's Quarterly Report on Form 10-Q for the quarterly period ended
       March 31, 2001 (filing date May 15, 2001);
 
-    - Vertex's Proxy Statement on Schedule 14A (filing date April 3, 2001); and
+    - Vertex's Proxy Statement on Schedule 14A (filing date April 3, 2001);
 
     - Vertex's Current Report on Form 8-K for the April 29, 2001 event (filing
-      date April 30, 2001).
+      date April 30, 2001); and
+
+    - The description of Vertex's common stock contained in Vertex's
+      Registration Statement on Form 8-A (filing date May 30, 1991).
 
     The following documents, which were filed by Aurora with the Securities and
 Exchange Commission (SEC file number 0-22669), are incorporated by reference
@@ -6256,7 +6148,7 @@ joint proxy statement-prospectus to any person, without charge, upon written or
 oral request. If exhibits to the documents incorporated by reference in this
 joint proxy statement-prospectus are not themselves specifically incorporated by
 reference in this joint proxy statement-prospectus, then the exhibits will not
-be provided. ANY REQUEST FOR DOCUMENTS SHOULD BE MADE BY JULY 11, 2001 TO ENSURE
+be provided. ANY REQUEST FOR DOCUMENTS SHOULD BE MADE BY       , 2001 TO ENSURE
 TIMELY DELIVERY OF THE DOCUMENTS.
 
     REQUESTS FOR DOCUMENTS RELATING TO VERTEX SHOULD BE DIRECTED TO:
@@ -6273,8 +6165,10 @@ ir@aurorabio.com.
 
     Vertex and Aurora file reports, proxy statements and other information with
 the Securities and Exchange Commission. Copies of these reports, proxy
-statements and other information may be inspected and copied at the public
-reference facility maintained by the Securities and Exchange Commission at:
+statements and other information may be
+
+inspected and copied at the public reference facility maintained by the
+Securities and Exchange Commission at:
 
                                 Judiciary Plaza
                                    Room 1024
@@ -6336,8 +6230,10 @@ statements may be made directly in this joint proxy statement-prospectus
 referring to Vertex and Aurora, and they may also be made a part of this joint
 proxy statement-prospectus by reference to other documents filed with the
 Securities and Exchange Commission by Vertex and Aurora, which is known as
-"incorporation by reference." These statements may include statements regarding
-the period following completion of the merger.
+"incorporation by
+
+reference." These statements may include statements regarding the period
+following completion of the merger.
 
     Words such as "anticipate," "estimate," "expects," "projects," "intends,"
 "plans," "believes" and words and terms of similar substance used in connection
@@ -6345,19 +6241,17 @@ with any discussion of future operating or financial performance, or the merger
 of Vertex and Aurora, identify forward-looking statements. All forward-looking
 statements are management's present expectations of future events and are
 subject to a number of factors and uncertainties that could cause actual results
-to differ materially from those
-
-described in the forward-looking statements. In addition to the risks related to
-the businesses of Vertex and Aurora, the factors relating to the merger
-discussed under "Risk Factors," among others, could cause actual results to
-differ materially from those described on the forward-looking statements.
-Stockholders are cautioned not to place undue reliance on the forward-looking
-statements, which speak only of the date of this joint proxy
-statement-prospectus or the date of the document incorporated by reference in
-this joint proxy statement-prospectus. Neither Vertex nor Aurora is under any
-obligation, and each expressly disclaims any obligation, to update or alter any
-forward-looking statements, whether as a result of new information, future
-events or otherwise.
+to differ materially from those described in the forward-looking statements. In
+addition to the risks related to the businesses of Vertex and Aurora, the
+factors relating to the merger discussed under "Risk Factors," among others,
+could cause actual results to differ materially from those described on the
+forward-looking statements. Stockholders are cautioned not to place undue
+reliance on the forward-looking statements, which speak only of the date of this
+joint proxy statement-prospectus or the date of the document incorporated by
+reference in this joint proxy statement-prospectus. Neither Vertex nor Aurora is
+under any obligation, and each expressly disclaims any obligation, to update or
+alter any forward-looking statements, whether as a result of new information,
+future events or otherwise.
 
     For additional information about factors that could cause results to differ
 materially from those described in the forward-looking statements, please see
@@ -7621,4 +7515,97 @@ unlawful expenses relating to political activity, (ii) made any unlawful payment
 to foreign or domestic government officials or employees or to foreign or
 domestic political parties or campaigns or violated any provision of the Foreign
 Corrupt Practices Act of 1977, as amended, or (iii) to the Company's knowledge,
-made any other unlawful payment in their capacity as a director, officer, age
+made any other unlawful payment in their capacity as a director, officer, agent
+or employee of any of the Acquired Corporations.
+
+    Section 2.17  GOVERNMENTAL AUTHORIZATIONS.  Except as disclosed in
+Part 2.17 of the Company Disclosure Schedule, the Acquired Corporations hold all
+material Governmental Authorizations required to enable the Acquired
+Corporations to conduct their respective businesses in the manner in which such
+businesses are currently being conducted. All such Governmental Authorizations
+are valid and in full force and effect. Each Acquired Corporation is in
+substantial compliance with the terms and requirements of such Governmental
+Authorizations. None of the Acquired Corporations has received any written
+notice or other communication from any Governmental Authority regarding (a) any
+actual or possible violation of or failure to comply with any term or
+requirement of any material Governmental Authorization, or (b) any actual or
+possible revocation, withdrawal, suspension, cancellation, termination or
+modification of any material Governmental Authorization.
+
+    Section 2.18  TAX MATTERS.
+
+    (a) Except as disclosed in Part 2.18(a) of the Company Disclosure Schedule,
+each Tax Return required to be filed by or on behalf of the respective Acquired
+Corporations with any Governmental Authority with respect to any taxable period
+ending on or before the Closing Date (the "Acquired Corporation Returns")
+(i) has been or will be filed on or before the applicable due date (including
+any extensions of such due date), and (ii) has been, or will be when filed,
+prepared in all material respects in compliance with all applicable Legal
+Requirements. All amounts shown on the Acquired Corporation Returns to be due on
+or before the Closing Date have been or will be paid on or before the Closing
+Date.
+
+    (b) Except as disclosed in Part 2.18(b) of the Company Disclosure Schedule,
+the Company Balance Sheet fully accrues all actual and contingent liabilities
+for Taxes with respect to all periods through December 31, 2000 in accordance
+with generally accepted accounting principles. Each Acquired Corporation will
+establish, in the ordinary course of business and consistent with its past
+practices, reserves adequate for the payment of all Taxes for the period from
+December 31, 2000 through the Closing Date.
+
+    (c) Except as set forth in Part 2.18(c) of the Company Disclosure Schedule,
+(i) no Acquired Corporation Return has ever been examined or audited by any
+Governmental Authority, and (ii) no extension or waiver of the limitation period
+applicable to any of the Acquired Corporation Returns has been granted (by the
+Company or any other Person), and no such extension or waiver has been requested
+from any Acquired Corporation.
+
+    (d) No claim or Legal Proceeding is pending or, to the best of the knowledge
+of the Company, has been threatened against or with respect to any Acquired
+Corporation in respect of any material Tax. There are no unsatisfied liabilities
+for material Taxes (including liabilities for interest, additions to tax and
+penalties thereon and related expenses) with respect to any notice of deficiency
+or similar document received by any Acquired Corporation with respect to any
+material Tax (other than liabilities
+
+                                      A-16
+
+for Taxes asserted under any such notice of deficiency or similar document which
+are being contested in good faith by the Acquired Corporations and with respect
+to which adequate reserves for payment have been established on the Company
+Balance Sheet). There are no liens for material Taxes upon any of the assets of
+any of the Acquired Corporations except liens for current Taxes not yet due and
+payable. None of the Acquired Corporations has entered into or become bound by
+any agreement or consent pursuant to Section 341(f) of the Code (or any
+comparable provision of state or foreign Tax laws). None of the Acquired
+Corporations has been, and none of the Acquired Corporations will be, required
+to include any adjustment in taxable income for any tax period (or portion
+thereof) pursuant to Section 481 or 263A of the Code (or any comparable
+provision under state or foreign Tax laws) as a result of transactions or events
+occurring, or accounting methods employed, prior to the Closing.
+
+    (e) Except as set forth in Part 2.18(e) of the Company Disclosure Schedule,
+none of the Acquired Corporations is a party to any agreement, plan, arrangement
+or other Contract covering any employee or independent contractor or former
+employee or independent contractor of any of the Acquired Corporations that,
+considered individually or considered collectively with any other such
+Contracts, would reasonably be expected to, give rise directly or indirectly to
+the payment of any amount that would not be deductible pursuant to Section 280G
+or Section 162(m) the Code (or any comparable provision of state or foreign Tax
+laws). None of the Acquired Corporations is, or has ever been, a party to or
+bound by any tax indemnity agreement, tax sharing agreement, tax allocation
+agreement or similar Contract.
+
+    (f) Neither Company nor any of its affiliates has taken, failed to take or
+agreed to take any action or knows of any fact, circumstance, plan or intention
+that is or would be reasonably likely to prevent the Merger from qualifying as a
+"reorganization" within the meaning of Section 368(a) of the Code.
+
+    Section 2.19  EMPLOYEE AND LABOR MATTERS; BENEFIT PLANS.
+
+    (a) Part 2.19(a) of the Company Disclosure Schedule identifies each salary,
+bonus, vacation, deferred compensation, incentive compensation, stock purchase,
+stock option, severance pay, termination pay, death and disability benefits,
+hospitalization, medical, life or other insurance, flexible benefits,
+supplemental unemployment benefits, profit-sharing, pension or retirement plan,
+program or agreement and each

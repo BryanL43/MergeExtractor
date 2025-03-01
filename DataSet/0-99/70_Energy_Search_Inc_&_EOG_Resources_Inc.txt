@@ -106,7 +106,7 @@ Total fee paid: $11,515.93
 
 Fee paid previously with preliminary materials.
 
-[   ]            Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by
+[   ]  &nbsp         Check box if any part of the fee is offset as provided by Exchange Act Rule 0-11(a)(2) and identify the filing for which the offsetting fee was paid previously. Identify the previous filing by
 registration statement number, or the form or schedule and the date of its filing.
 
 (1)
@@ -149,7 +149,7 @@ a.m., local time.
           At the special meeting, you will be asked to vote on a proposal to approve the Agreement and Plan of Merger dated as of May 23, 2001 by and among Energy Search, EOG Resources, Inc. and EOG Tennessee, Inc., a newly
 formed subsidiary of EOG Resources. 
 
-          If Energy Search's shareholders approve the merger agreement, EOG Tennessee will be merged with and into Energy Search, and each outstanding share of Energy Search common stock and each outstanding share of Energy
+  &nbsp       If Energy Search's shareholders approve the merger agreement, EOG Tennessee will be merged with and into Energy Search, and each outstanding share of Energy Search common stock and each outstanding share of Energy
 Search preferred stock will be converted into the right to receive $8.22 in cash, without interest. As a result of the merger, Energy Search will become a wholly owned subsidiary of EOG Resources. You will not become a shareholder of EOG Resources as a
 result of the merger. Information concerning the merger is in the accompanying proxy statement, and a copy of the merger agreement is attached as 
 Annex A
@@ -239,7 +239,7 @@ The following is a summary of the material terms of the merger. You should caref
 
 Overview of the Proposed Merger 
 
-You are being asked to approve the proposed merger agreement that Energy Search, Incorporated, EOG Resources, Inc. and EOG Tennessee, Inc. entered into on May 23, 2001. If the merger agreement is approved by our
+          You are being asked to approve the proposed merger agreement that Energy Search, Incorporated, EOG Resources, Inc. and EOG Tennessee, Inc. entered into on May 23, 2001. If the merger agreement is approved by our
 shareholders and the merger is completed:
 
 
@@ -804,27 +804,28 @@ meeting. Additionally, you could be asked to vote on a proposal to adjourn the s
           We do not know of any matters other than those described in the notice of special meeting of shareholders that are to come before the special meeting. If any other matter is properly presented for action at the
 special meeting, the persons named in the enclosed form of proxy will have discretion to vote on the matters in accordance with their judgment. 
 
+  &nbsp       
 The matters to be considered at the special meeting are important to you. Accordingly, we urge you to read and carefully consider the information presented in this proxy statement. 
 
 Proxies
 
-          The accompanying form of proxy is for use at the special meeting, regardless of whether you will be able to attend the special meeting. To ensure that your shares are represented at the special meeting, we urge you to
+  &nbsp       The accompanying form of proxy is for use at the special meeting, regardless of whether you will be able to attend the special meeting. To ensure that your shares are represented at the special meeting, we urge you to
 sign and return the proxy card in the enclosed envelope as soon as possible. All shares of Energy Search common stock and Energy Search preferred stock represented by properly authorized proxies will, unless the proxies previously have been revoked, be
 voted in accordance with the instructions indicated in the proxies. 
 If no instructions are indicated, shares of Energy Search common stock and preferred stock represented by proxies will be voted "FOR" approval of the merger agreement.
 
 How to Vote Your Shares
 
-          You may vote your shares either in person at the special meeting or by a duly authorized proxy. You may grant a proxy by completing, signing and returning the proxy card in the enclosed envelope.
+  &nbsp       You may vote your shares either in person at the special meeting or by a duly authorized proxy. You may grant a proxy by completing, signing and returning the proxy card in the enclosed envelope.
 
 Solicitation of Proxies
 
-          Proxies are being solicited by and on behalf of our board of directors. We will bear all expenses in connection with the solicitation of proxies. In addition to solicitation by use of the mails, our directors,
+  &nbsp       Proxies are being solicited by and on behalf of our board of directors. We will bear all expenses in connection with the solicitation of proxies. In addition to solicitation by use of the mails, our directors,
 
 officers and employees may solicit proxies from holders of Energy Search stock by telephone, in person or through other means of communication. Our directors, officers and employees will not be additionally compensated for, but may be reimbursed by us
 for out-of-pocket expenses incurred in connection with, the solicitation. 
 
-          In addition, arrangements will be made with brokerage firms and other custodians, nominees and fiduciaries to forward proxy solicitation materials to the beneficial owners of shares of Energy Search stock and secure
+  &nbsp       In addition, arrangements will be made with brokerage firms and other custodians, nominees and fiduciaries to forward proxy solicitation materials to the beneficial owners of shares of Energy Search stock and secure
 their voting instructions, if necessary. We will reimburse these record holders for their reasonable out-of-pocket expenses in doing so. Furthermore, Georgeson Shareholder Communications, Inc. will assist us in the solicitation of proxies for an estimated
 fee of $10,000, plus reasonable out-of-pocket expenses.
 
@@ -842,26 +843,26 @@ appointed for the special meeting will tabulate votes cast by proxy or in person
 
 Quorum
 
-          A majority of the outstanding shares will constitute a quorum for purposes of the special meeting. However, because the common and preferred shareholders will be voting as separate classes on the merger agreement,
+  &nbsp       A majority of the outstanding shares will constitute a quorum for purposes of the special meeting. However, because the common and preferred shareholders will be voting as separate classes on the merger agreement,
 each group must have a majority of its shares represented either in person or by proxy before the group can vote on the merger agreement. For purposes of determining whether a quorum is present, the inspectors of election will include shares that are
 present or represented by proxy, even if the holders of the shares abstain from voting on any particular matter.
 
-          The shareholders present at the special meeting, in person or by proxy, may by a majority vote adjourn the meeting despite the absence of a quorum. If there is not a quorum at the meeting, we expect that the meeting
+  &nbsp       The shareholders present at the special meeting, in person or by proxy, may by a majority vote adjourn the meeting despite the absence of a quorum. If there is not a quorum at the meeting, we expect that the meeting
 will be adjourned so we can solicit additional proxies.
 
 Required Vote
 
-          Approval of the merger agreement requires the affirmative vote of the holders of a majority of the outstanding shares of Energy Search common stock and a majority of the outstanding shares of Energy Search preferred
+  &nbsp       Approval of the merger agreement requires the affirmative vote of the holders of a majority of the outstanding shares of Energy Search common stock and a majority of the outstanding shares of Energy Search preferred
 stock, voting as separate classes. The merger agreement provides that approval of our shareholders is a condition to completion of the merger. If the merger agreement is not approved, we will continue to operate our business as an independent entity or
 may also continue to consider other strategic alternatives.
 
-          Because approval of the merger agreement is based on the number of outstanding shares, rather than the number of shares that actually vote on the merger agreement, failures to vote, abstentions and broker non-votes
+  &nbsp       Because approval of the merger agreement is based on the number of outstanding shares, rather than the number of shares that actually vote on the merger agreement, failures to vote, abstentions and broker non-votes
 will have the effect of a "no" vote on the proposal to approve the merger agreement. Your broker will vote your shares only if you provide instructions on how to vote by following the information provided to you by your broker. 
 
-          If you vote against the merger agreement by proxy and a proposal to adjourn the meeting for the purpose of soliciting additional votes in favor of the merger agreement is presented, the persons named in the enclosed
+  &nbsp       If you vote against the merger agreement by proxy and a proposal to adjourn the meeting for the purpose of soliciting additional votes in favor of the merger agreement is presented, the persons named in the enclosed
 form of proxy will not vote your shares in favor of the adjournment proposal.
 
-          As of June 1, 2001, Energy Search's directors and officers beneficially owned a total of 801,583 shares of Energy Search common stock and 46,605 shares of Energy Search preferred stock, or approximately 17.2% of the
+  &nbsp       As of June 1, 2001, Energy Search's directors and officers beneficially owned a total of 801,583 shares of Energy Search common stock and 46,605 shares of Energy Search preferred stock, or approximately 17.2% of the
 shares of Energy Search common stock and 2.7% of the shares of Energy Search preferred stock that were issued and outstanding on that date. We expect that all of these persons will vote for approval of the merger agreement.
 
 Recommendation of the Energy Search Board
@@ -871,30 +872,31 @@ Search and our shareholders and recommends that you vote "FOR" approval of the m
 
 The Merger
 
+  &nbsp       
 The following discussion summarizes the proposed merger and related matters. This discussion does not, however, contain a complete explanation of the merger.  See "THE MERGER AGREEMENT" and 
 Annex A
 .
 
 Effects of the Merger
 
-          The merger agreement provides that EOG Tennessee will be merged with and into Energy Search. Energy Search will survive the merger but afterwards will be a wholly owned subsidiary of EOG Resources. In other words, EOG
+  &nbsp       The merger agreement provides that EOG Tennessee will be merged with and into Energy Search. Energy Search will survive the merger but afterwards will be a wholly owned subsidiary of EOG Resources. In other words, EOG
 Resources will be the only shareholder of Energy Search immediately after the merger is completed. You will no longer be a shareholder of Energy Search after the merger. You will not become a shareholder of EOG Resources as a result of the merger.
 
 What You Will Receive in the Merger
 
-          Under the terms of the merger agreement, you will receive $8.22 in cash, without interest, in exchange for each share of Energy Search common stock and each share of Energy Search preferred stock that you own
+  &nbsp       Under the terms of the merger agreement, you will receive $8.22 in cash, without interest, in exchange for each share of Energy Search common stock and each share of Energy Search preferred stock that you own
 immediately before the completion of the merger.
 
 Energy Search After the Merger
 
           We have been informed that EOG Resources currently intends to maintain Energy Search as an operating subsidiary of EOG Resources. 
 
-          The officers and directors of EOG Tennessee immediately before completion of the merger will become the officers and directors of Energy Search following the merger, until their respective successors have been elected
+  &nbsp       The officers and directors of EOG Tennessee immediately before completion of the merger will become the officers and directors of Energy Search following the merger, until their respective successors have been elected
 and qualified or until their earlier death, resignation or removal. The merger agreement provides that all of our current directors and officers will resign as of the effective time of the merger. 
 
 Background of the Merger
 
-          As part of our strategic planning, we continually review trends and strategic opportunities in the oil and gas industry. In the past several years, this planning has focused on growing primarily through developmental
+  &nbsp       As part of our strategic planning, we continually review trends and strategic opportunities in the oil and gas industry. In the past several years, this planning has focused on growing primarily through developmental
 drilling and opportunistic acquisitions of Appalachian properties for our own account and the subsequent development, exploitation and exploration of these properties. However, we have also considered other strategic alternatives from time to time,
 including the sale of our company or its assets.
 
@@ -902,15 +904,15 @@ including the sale of our company or its assets.
 explore potential capitalization and business combination strategies and alternatives. We entered into a letter agreement with McDonald Investments on January 3, 2000. This letter agreement provided that McDonald Investments would provide certain
 financial advisory services in connection with our evaluation of strategic alternatives, including a possible sale of our company. 
 
-          Pursuant to its engagement, McDonald Investments, in conjunction with our senior management, prepared confidential offering materials concerning Energy Search, our oil and gas assets and our operations. These
+  &nbsp       Pursuant to its engagement, McDonald Investments, in conjunction with our senior management, prepared confidential offering materials concerning Energy Search, our oil and gas assets and our operations. These
 materials were distributed to numerous interested parties, subject to their execution of acceptable confidentiality agreements.
 
-          In January 2000 we assembled a "data room" in Knoxville, Tennessee where potentially interested financiers, buyers or combination candidates could, upon signing a confidentiality agreement, review technical
+  &nbsp       In January 2000 we assembled a "data room" in Knoxville, Tennessee where potentially interested financiers, buyers or combination candidates could, upon signing a confidentiality agreement, review technical
 and other relevant information about our company, our oil and gas assets and our operations. The data room remained open into the third quarter of 2000. During this time, our management made formal presentations to several interested parties, and we
 embarked upon preliminary discussions with each of them. Despite these activities, we did not find a suitable candidate with whom to pursue substantive discussions toward any kind of strategic financing, sale or business combination that would be
 attractive to our board or shareholders.  As a result, we terminated our agreement with McDonald Investments on July 21, 2000.
 
-          In July 2000, our senior management and board of directors determined that it would be prudent for the company to attempt to raise private equity capital to supplement our senior credit facility with Mirant
+  &nbsp       In July 2000, our senior management and board of directors determined that it would be prudent for the company to attempt to raise private equity capital to supplement our senior credit facility with Mirant
 Corporation as a source of capital to fund our continued operations. In August 2000, we undertook the private offering of $4,675,000 of 9% redeemable convertible preferred stock. Also at that time, we were approached by Weisser, Johnson & Co., an
 investment firm which indicated it could, among other things, assist us in raising additional private equity from institutional sources. We entered into a letter agreement dated August 1, 2000 with Weisser Johnson. Pursuant to this letter agreement,
 Weisser Johnson agreed to, among other things, identify potential financing opportunities or acquisition candidates. Weisser, Johnson began its work by attempting to assist us in arranging financing for a major oil and gas asset acquisition that we were
@@ -926,7 +928,7 @@ redeemable convertible preferred stock noted above. However, with the steep incr
 better accomplished through a sale of our company or a business combination with another company. After we compared sale or business combination alternatives with the risks and costs involved in continuing to expand our business with available sources of
 capital, we determined that sale or business combination alternatives once again warranted closer examination.
 
-          In February 2001, First Union Securities approached us about the possibility of introducing us to a significant natural gas exploration and production company that was potentially interested in a purchase or business
+  &nbsp       In February 2001, First Union Securities approached us about the possibility of introducing us to a significant natural gas exploration and production company that was potentially interested in a purchase or business
 combination with our company.  That company was EOG Resources.  On February 6, 2001, we entered into a letter agreement with First Union Securities relating to an introduction to EOG Resources. On May 10, 2001, we entered into a new agreement with
 First Union Securities replacing the earlier agreement. Under this new agreement, First Union Securities agreed to serve as financial advisor to our board of directors with respect to the acquisition of our company by EOG Resources and in that capacity to
 (1) introduce us to EOG Resources, (2) undertake a review of our business, operations and financial position and (3) render a fairness opinion with respect to any such transaction if appropriate and if requested by our board.
@@ -943,11 +945,11 @@ purchase all of our outstanding stock at a price based on this valuation, but su
 increasing the valuation of our oil and gas assets to $91.3 million and establishing that valuation and adjustments would be as of March 31, 2001. Based on the current assets and other financial considerations of our company as of March 31,
 2001, the adjustments had the effect of increasing the enterprise valuation for our company to over $96 million.
 
-          In response to, and in consideration of, these letters, our senior management, legal counsel and members of our board of directors had numerous discussions from April 17 to April 24, 2001.  As a result of these
+  &nbsp       In response to, and in consideration of, these letters, our senior management, legal counsel and members of our board of directors had numerous discussions from April 17 to April 24, 2001.  As a result of these
 discussions, a letter was sent to EOG Resources on April 23, 2001 outlining certain suggested changes to EOG Resources' letter of intent proposal.  During this same period, our senior management and legal counsel engaged in discussions concerning the
 terms of the proposed letter of intent with EOG Resources' management and legal counsel.
 
-          On April 24, 2001, EOG Resources sent us a revised non-binding letter of intent.  Following a telephonic meeting of our board of directors, we signed the letter of intent and returned it to EOG Resources.  The letter
+  &nbsp       On April 24, 2001, EOG Resources sent us a revised non-binding letter of intent.  Following a telephonic meeting of our board of directors, we signed the letter of intent and returned it to EOG Resources.  The letter
 of intent provided for a valuation of our oil and gas properties and related assets of $91.3 million, subject to certain valuation adjustments that were to be made as of March 31, 2001. The letter of intent outlined the general terms of the proposed
 transaction but provided that the specific terms of the transaction would be contained in a definitive merger agreement.
 
@@ -966,7 +968,7 @@ and determined to recommend to our shareholders that they vote in favor of appro
 
 Recommendation of Energy Search's Board of Directors and Reasons for the Merger 
 
-          Our board of directors has determined that the terms of the merger agreement are advisable and fair to and in the best interests of Energy Search and our shareholders. In reaching this determination, the board
+  &nbsp       Our board of directors has determined that the terms of the merger agreement are advisable and fair to and in the best interests of Energy Search and our shareholders. In reaching this determination, the board
 consulted with our senior management, as well as our financial advisors, accountants and legal counsel, and considered many factors, including the following:
 
 
@@ -1029,11 +1031,11 @@ the possible distraction of our management from day-to-day operations while the 
 
 the conditions required in connection with the merger, as well as the risks, costs, uncertainties and possible delays associated with completion of the merger.
 
-          Our board of directors believes that the potential benefits of the merger outweigh these negative factors, and that the merger is fair to and in the best interests of Energy Search and our shareholders. 
+  &nbsp       Our board of directors believes that the potential benefits of the merger outweigh these negative factors, and that the merger is fair to and in the best interests of Energy Search and our shareholders. 
 
 Accordingly, your board recommends that you vote "FOR" approval of the merger agreement.
 
-          The foregoing discussion concerns the main factors considered by our board. In view of the wide variety of factors considered, the board did not find it practicable to quantify, or attempt to assign relative weights
+  &nbsp       The foregoing discussion concerns the main factors considered by our board. In view of the wide variety of factors considered, the board did not find it practicable to quantify, or attempt to assign relative weights
 to, the various factors that it considered.
 
 Opinion of First Union Securities 
@@ -1113,7 +1115,7 @@ First Union Securities conducted a before-tax, net asset value analysis to deter
 financial and production forecasts provided by Energy Search's management, First Union Securities estimated Energy Search's net asset value by discounting the projected net cash flows from Energy Search's risked reserves to obtain a present value based on
 a 10% discount rate for each case. First Union Securities analyzed Energy Search's net asset value under two production forecasts, using four oil and natural gas pricing scenarios for each production forecast. 
 
-          Cases I through IV were based in part on a Wright & Company SEC Report dated as of December 31, 2000. First Union Securities used the information in this report and made certain assumptions in deriving an
+  &nbsp       Cases I through IV were based in part on a Wright & Company SEC Report dated as of December 31, 2000. First Union Securities used the information in this report and made certain assumptions in deriving an
 estimated April 1, 2001 production forecast. Case I assumed December 31, 2000 year-end flat pricing, Case II assumed NYMEX strip pricing as of April 1, 2001; Case III assumed NYMEX strip pricing as of May 16, 2001; and Case IV assumed pricing based on a
 consensus of equity research analysts' NYMEX estimates as reported by First Call Corp. All NYMEX pricing forecasts were adjusted for pipeline differentials, transportation costs, BTU content and other fees as necessary to more accurately reflect wellhead
 pricing in the field.
@@ -1310,7 +1312,7 @@ Escalation
 
 3.0%
 
-          Cases V through VIII reflected the most recent available production forecasts provided by Energy Search dated April 1, 2001. Case V assumed Energy Search's pricing forecasts as of April 1, 2001; Case VI assumed
+  &nbsp       Cases V through VIII reflected the most recent available production forecasts provided by Energy Search dated April 1, 2001. Case V assumed Energy Search's pricing forecasts as of April 1, 2001; Case VI assumed
 NYMEX strip pricing as of April 1, 2001; Case VII assumed NYMEX strip pricing as of May 16, 2001; and Case VIII assumed pricing based on a consensus of equity research analysts' NYMEX estimates as reported by First Call Corp. All NYMEX pricing forecasts
 were adjusted for pipeline differentials, transportation costs, BTU content and other fees as necessary to more accurately reflect wellhead pricing in the field. The following table summarizes the oil and natural gas NYMEX price forecasts employed by
 First Union Securities for each pricing case.
@@ -1505,7 +1507,7 @@ Escalation
 
 3.0%
 
-          The risking for the various reserve categories was derived from a Society of Petroleum Evaluation Engineers survey entitled "Survey of Economic Parameters Used in Property Valuation," published in June 2000. Based on
+  &nbsp       The risking for the various reserve categories was derived from a Society of Petroleum Evaluation Engineers survey entitled "Survey of Economic Parameters Used in Property Valuation," published in June 2000. Based on
 the production and pricing forecasts described above and after applying reserve risk factors, the net asset valuation analysis derived an implied value per fully diluted
 
 share after the net redemption of all options and warrants. The implied per share equity values for each case presented below were compared with the per share equity value of $8.22 associated with the proposed merger.
@@ -1618,7 +1620,7 @@ Petroleum Development Corporation; and
 
 Quicksilver Resources Inc.
 
-          Using publicly available information, First Union Securities calculated and analyzed the enterprise value multiples of certain historical and projected financial and operating criteria and the indicated value of
+  &nbsp       Using publicly available information, First Union Securities calculated and analyzed the enterprise value multiples of certain historical and projected financial and operating criteria and the indicated value of
 certain reserve and production data such as (1) discretionary cash flow ("LTM DCF" and "2001(E) DCF"); (2) earnings before interest, taxes, depreciation, depletion, amortization, and exploration expenses ("LTM EBITDAX"); (3) 
 total proved reserves ("Reserves"); and (4) the last twelve months of production ("Production"), among other criteria. First Union Securities compared Energy Search to these companies based on these and other selected criteria. In evaluating Energy
 Search, First Union Securities used historical financial information, as well as management estimates and projections as of April 1, 2001. First Union Securities compared these calculated multiples and values with Energy Search's implied multiples and
@@ -1730,6 +1732,7 @@ $43.73
 None of the comparable companies used in this analysis were identical to Energy Search. Accordingly, First Union Securities' analysis of publicly traded comparable companies is not mathematical; rather, it involved complex considerations and judgments
 concerning differences in financial and operating characteristics of the comparable companies and other factors that could have affected the public trading value of the comparable companies to which Energy Search was being compared.
 
+  &nbsp       
 Comparable Transaction Analysis. 
 First Union Securities reviewed certain publicly available information regarding selected mergers and asset sales in the oil and natural gas exploration and production
 industry. The following 13 transactions were completed between May 1996 and May 2001 and were determined to be relevant by First Union Securities to the proposed merger:
@@ -1786,7 +1789,7 @@ Belden & Blake Corp./Texas Pacific Group (March 1997); and
 
 Clinton Gas Systems, Inc./Enron Capital & Trade/CalPERS (May 1996).
 
-          Using publicly available information and data obtained from John S. Herold, Inc., First Union Securities calculated and analyzed the portion of the transaction value attributable to proved oil and gas reserves and
+  &nbsp       Using publicly available information and data obtained from John S. Herold, Inc., First Union Securities calculated and analyzed the portion of the transaction value attributable to proved oil and gas reserves and
 compared this data to the target's Reserves and the target's Production, among other criteria. In evaluating the proposed merger, First Union Securities used Energy Search's estimates and projections as of April 1, 2001. First Union Securities compared
 the results of this analysis with the implied enterprise value of the proposed merger over Energy Search's Reserves and Production as is illustrated in the following table.
 
@@ -1824,10 +1827,11 @@ Production ($ per Mcfe)
 
 43.73
 
-          None of the comparable transactions used in this analysis are identical to the proposed merger. Accordingly, First Union Securities' analysis of comparable transactions was not mathematical; rather, it involved
+  &nbsp       None of the comparable transactions used in this analysis are identical to the proposed merger. Accordingly, First Union Securities' analysis of comparable transactions was not mathematical; rather, it involved
 complex considerations and judgments concerning differences in financial and operating characteristics of the companies involved in the selected transactions as well as other factors, including but not limited to transaction structure, quality of assets,
 and macroeconomic and competitive dynamics associated with the time period in which the transaction took place.
 
+  &nbsp       
 Premiums Paid Analysis. 
 First Union Securities reviewed the premiums paid in 32 relevant transactions completed between January 1998 and May 2001 involving publicly traded companies in the energy sector.
 For the group of relevant transactions, First Union Securities calculated the median market premium represented by the offer price over the target company's share price one day, one week, 30 days, 60 days and 90 days prior to the date of the announcement
@@ -1835,6 +1839,7 @@ of the proposed merger. First Union Securities also considered in its analysis t
 Investments by Energy Search to explore strategic alternatives to maximize shareholder value was publicly announced. The following chart compares a range of market premiums, defined as the first and third quartiles of premiums paid in the selected
 transactions; the median market premium; and the proposed merger premium.
 
+  &nbsp         &nbsp       
 Percentage Premium at Various Periods Prior to Announcement
 
 Period Prior
@@ -1988,24 +1993,24 @@ Since Unit Split
 
 The closing price of Energy Search's common stock on May 22, 2001, the day prior to the announcement of the proposed merger, was $7.37.
 
-          The summary set forth above does not purport to be a complete description of the analyses or data presented by First Union Securities. The preparation of a fairness opinion is a complex process and is not necessarily
+  &nbsp       The summary set forth above does not purport to be a complete description of the analyses or data presented by First Union Securities. The preparation of a fairness opinion is a complex process and is not necessarily
 susceptible to partial analysis or summary description. First Union Securities believes that the summary set forth above and their analyses must be considered as a whole and that selecting portions thereof, without considering all of its analyses, could
 create an incomplete view of the processes underlying its analyses and opinion. First Union Securities based its analyses on assumptions that it deemed reasonable, including assumptions concerning general business and economic conditions and
 industry-specific factors. The other principal assumptions upon which First Union Securities based its analyses are set forth above under the description of each such analysis. First Union Securities' analyses are not necessarily indicative of actual
 values or actual future results that might be achieved. Moreover, First Union Securities' analyses are not and do not purport to be appraisals or otherwise reflective of the prices at which Energy Search could actually be bought or sold.
 
-          As part of its investment banking business, First Union Securities and its affiliates are continually engaged in the valuation of businesses and their securities in connection with mergers and acquisitions,
+  &nbsp       As part of its investment banking business, First Union Securities and its affiliates are continually engaged in the valuation of businesses and their securities in connection with mergers and acquisitions,
 investments for passive and control purposes, negotiated underwritings, secondary distributions of listed and unlisted securities, private placements, and valuations for estate, corporate and other purposes. Energy Search's board of directors selected
 First Union Securities to deliver an opinion to Energy Search's board of directors with respect to the merger on the basis of such experience and its familiarity with Energy Search.
 
-          For services rendered in connection with the merger and the delivery of its opinion, Energy Search has agreed to pay First Union Securities a fee of $300,000 for the delivery of the opinion. This fee is payable upon
+  &nbsp       For services rendered in connection with the merger and the delivery of its opinion, Energy Search has agreed to pay First Union Securities a fee of $300,000 for the delivery of the opinion. This fee is payable upon
 the earliest to occur of the following: (1) the date of closing, (2) the date on which the proposed merger is terminated or (3) the date 90 days after the date on which First Union Securities renders the opinion. Energy Search also has agreed to pay an
 additional fee of $575,000 payable upon the closing of the merger. In addition, Energy Search has agreed to reimburse First Union Securities for its expenses incurred in connection with its services, including the reasonable fees and disbursements of
 counsel, and will indemnify First Union Securities against certain liabilities, including liabilities arising under the federal securities laws.
 
 Federal Income Tax Consequences
 
-          This section summarizes the material United States federal income tax consequences of the merger. This discussion does not address the consequences of the merger under state, local or foreign law, nor does it address
+  &nbsp       This section summarizes the material United States federal income tax consequences of the merger. This discussion does not address the consequences of the merger under state, local or foreign law, nor does it address
 all aspects of federal income taxation that may be relevant to you in light of your particular circumstances. 
 You should consult your own tax advisor about the specific tax consequences to you of the proposed merger, including the application and effect of state, local, foreign and other tax laws, changes in tax laws and tax return reporting requirements. 
 
@@ -2013,19 +2018,19 @@ Special tax consequences not described in this proxy statement may apply to a pa
 States, tax-exempt entities, persons holding Energy Search stock as part of an integrated investment composed of Energy Search stock and one or more other positions, and shareholders who acquired their Energy Search common stock through the exercise of an
 employee stock option or otherwise as compensation. 
 
-          The receipt of cash in exchange for shares of Energy Search common stock and Energy Search preferred stock will be a taxable transaction for federal income tax purposes under the Internal Revenue
+  &nbsp       The receipt of cash in exchange for shares of Energy Search common stock and Energy Search preferred stock will be a taxable transaction for federal income tax purposes under the Internal Revenue
 
 Code, and also may be a taxable transaction under applicable state, local, foreign and other laws. Generally, for federal income tax purposes, you will recognize gain or loss in an amount equal to the difference between the amount of cash that you
 receive in the merger and your adjusted basis in the shares of Energy Search common stock or Energy Search preferred stock that you surrender in the merger. For federal income tax purposes, any gain or loss will be capital gain or loss to you if your
 Energy Search common stock or Energy Search preferred stock was held as a capital asset. It will be long-term capital gain or loss if you held your shares of Energy Search stock for more than one year. Long-term capital gain of individuals will be subject
 to federal income tax at a maximum rate of 20%.
 
-          Payments to you in connection with the merger may be subject to 31% "backup withholding" unless you provide on your letter of transmittal (see "Payment of Cash For Energy Search Stock" beginning on page ___) your
+  &nbsp       Payments to you in connection with the merger may be subject to 31% "backup withholding" unless you provide on your letter of transmittal (see "Payment of Cash For Energy Search Stock" beginning on page ___) your
 taxpayer identification number or social security number and certify that the number is correct or properly certify that you have applied for and are waiting for a number. Certain holders (including all corporations and certain foreign individuals) are
 not subject to these backup withholding requirements. If backup withholding applies to a shareholder, EOG Resources will be required to withhold 31% of any payments made in the merger to that shareholder. Backup withholding is not an additional tax; it is
 an advance tax payment that is subject to refund if it results in an overpayment of tax. 
 
-          The receipt of cash in cancellation of compensatory stock options (for example, nonqualified stock options under Section 83 of the Internal Revenue Code and incentive stock options under Section 422 of the Internal
+  &nbsp       The receipt of cash in cancellation of compensatory stock options (for example, nonqualified stock options under Section 83 of the Internal Revenue Code and incentive stock options under Section 422 of the Internal
 Revenue Code) will be taxable to the recipient as ordinary income.  Cash payments in cancellation of the stock options and restricted stock may be subject to income and employment tax withholding.
 
           This discussion is based on the Internal Revenue Code of 1986, as amended, applicable Treasury Department regulations, judicial authority and current administrative ruling and practice, all as in effect as of the
@@ -2034,7 +2039,7 @@ of such changes or interpretations.
 
 Interests of Certain Persons in the Merger 
 
-          You should be aware that some members of our board and senior management have certain interests in the merger that may be different from the interests of our shareholders generally. These interests could influence
+  &nbsp       You should be aware that some members of our board and senior management have certain interests in the merger that may be different from the interests of our shareholders generally. These interests could influence
 their decisions in voting on the merger. Your board of directors was aware of these interests before adopting the merger agreement. These interests are as follows:
 
 
@@ -2080,6 +2085,7 @@ This arrangement proved materially less expensive to the company than hiring a f
 Torrey and Cooper in consideration for $10.00 and their assumption of the liabilities, ongoing expenses, insurance, taxes and maintenance associated with the company's office, office furniture, computer and printer equipment and aircraft. The board found
 that the assumption of these items resulted in fair consideration for the transfer of these assets.
 
+  &nbsp       
 Indemnification; Directors and Officers Insurance
 . 
 After the merger, EOG Resources will cause the surviving corporation of the merger to indemnify and hold harmless all of our past and present officers,
@@ -2094,16 +2100,16 @@ acquired and liabilities assumed based on their estimated fair values, with any 
 
 Regulatory Approval
 
-          Energy Search Incorporated and EOG Resources have determined that no material governmental or regulatory approvals are required for the merger to occur. In particular, a filing is not required under Hart-Scott-Rodino
+  &nbsp       Energy Search Incorporated and EOG Resources have determined that no material governmental or regulatory approvals are required for the merger to occur. In particular, a filing is not required under Hart-Scott-Rodino
 Antitrust Improvements Act of 1976, as amended, because the merger is exempt under Rules 802.3 and 802.4 under that act, which exempt certain purchases of oil and gas reserves.
 
-          However, at any time before or after consummation of the merger, the Department of Justice, the Federal Trade Commission or any state or foreign governmental authority could take such action under the antitrust laws
+  &nbsp       However, at any time before or after consummation of the merger, the Department of Justice, the Federal Trade Commission or any state or foreign governmental authority could take such action under the antitrust laws
 as it deems necessary or desirable in the public interest. Private parties may also seek to take legal action under the antitrust laws under certain circumstances.
 
-          Based on information available to them, Energy Search and EOG Resources believe that the merger will be effected in compliance with federal, state and foreign antitrust laws. However, there can be no assurance that a
+  &nbsp       Based on information available to them, Energy Search and EOG Resources believe that the merger will be effected in compliance with federal, state and foreign antitrust laws. However, there can be no assurance that a
 challenge to the consummation of the merger on antitrust grounds will not be made or that, if such a challenge were made, Energy Search and EOG Resources would prevail.
 
-          The merger agreement provides that Energy Search and EOG Resources will use their reasonable best efforts to cause the merger to be completed, including obtaining all necessary waivers, authorizations, orders and
+  &nbsp       The merger agreement provides that Energy Search and EOG Resources will use their reasonable best efforts to cause the merger to be completed, including obtaining all necessary waivers, authorizations, orders and
 consents of third parties. Subject to the foregoing, except for filing the certificate of merger with the State of Tennessee after shareholder approval of the merger agreement and compliance with federal and state securities laws, neither Energy Search
 nor EOG Resources is aware of any material U.S. federal, state or foreign governmental regulatory requirements that must be complied with, or approvals that must be obtained, in order to complete the merger.
 
@@ -2112,15 +2118,16 @@ Dissenters' Rights
           Shareholders of a corporation that is proposing to merge with another entity are sometimes entitled to appraisal or dissenters' rights in connection with the proposed transaction, depending on the circumstances. Most
 commonly, these rights give shareholders who oppose the merger the right to receive the fair value of their shares, as determined in a judicial appraisal proceeding, instead of the consideration being offered in the merger.
 
-          The holders of Energy Search common stock and preferred stock are entitled to dissenters' rights with respect to the merger. Energy Search is a Tennessee corporation and is governed by Tennessee law regarding the
+  &nbsp       The holders of Energy Search common stock and preferred stock are entitled to dissenters' rights with respect to the merger. Energy Search is a Tennessee corporation and is governed by Tennessee law regarding the
 rights of dissenting shareholders. Described below are the steps that you must take if you are an Energy Search common or preferred shareholder and you wish to exercise your dissenters' rights with respect to the merger.
 
-          This description of dissenters' rights is not complete. You should read Chapter 23 of the Tennessee Business Corporation Act, a copy of which is attached as 
+  &nbsp       This description of dissenters' rights is not complete. You should read Chapter 23 of the Tennessee Business Corporation Act, a copy of which is attached as 
 Annex C
  to this proxy statement.
 
 Failure to take any one of the required steps may result in termination of your dissenters' rights under Tennessee law. If you are an Energy Search common or preferred shareholder considering dissenting, you should consult your own legal advisor. 
 
+  &nbsp       
 How to Assert Your Dissenters' Rights. 
 To exercise dissenters' rights, you must satisfy four conditions: (1) be a shareholder of record, (2) deliver to Energy Search a written objection to the merger,
 (3) not vote in favor of the merger agreement and (4) return your payment demand form and deposit your shares according to Energy Search's instructions.
@@ -2131,6 +2138,7 @@ You must be a shareholder of record
 . To be entitled to dissenters' rights, you must be the record holder of the dissenting shares as of June 1, 2001. If you have a beneficial interest in shares of Energy Search common or preferred stock that
 are held of record in the name of another person, such as your broker, you must act promptly to cause the shareholder of record to follow the steps described below.
 
+  &nbsp       
 Before the vote is taken on the merger.
 
 
@@ -2157,6 +2165,7 @@ if you do not return your proxy card and do not vote at the special meeting in f
 
 if you revoke your proxy and later "ABSTAIN" from or vote "AGAINST" the merger agreement.
 
+  &nbsp       
 If you vote "FOR" the merger agreement, you automatically waive your dissenters' rights. If you do not vote your shares, you will retain the ability to assert dissenters' rights. However, a proxy card that is
 returned signed but on which no voting preference is indicated will be voted to approve the merger agreement and will constitute a waiver of dissenters' rights. 
 Therefore, if no voting preference is indicated on your proxy card, you will have no dissenters' rights.
@@ -2171,14 +2180,15 @@ Attn: Richard S. Cooper
 
 Knoxville, Tennessee 37922
 
+  &nbsp       
 After the vote is taken, Energy Search will send you a payment demand form and instructions on when and where to deposit your stock certificates.
 
-          You must return the payment demand form and deposit your shares in accordance with Energy Search's instructions. If you fail to return your payment demand form or to deposit your stock in accordance with Energy
+  &nbsp       You must return the payment demand form and deposit your shares in accordance with Energy Search's instructions. If you fail to return your payment demand form or to deposit your stock in accordance with Energy
 Search's instructions, then you will not be entitled to payment under the dissenters' rights statute.
 
+  &nbsp       
 Energy Search's Notice to Dissenting Shareholders.
-
-If the merger agreement is approved and you delivered a written objection to the merger before the vote and did not vote "FOR" the merger, Energy Search
+ If the merger agreement is approved and you delivered a written objection to the merger before the vote and did not vote "FOR" the merger, Energy Search
 will notify you within 10 days after the special meeting. This dissenters' notice will:
 
 
@@ -2197,51 +2207,55 @@ be accompanied by a payment demand form that will require you to state whether y
 
 set a date by which you must return your payment demand form to Energy Search.
 
-          You will retain all other rights of a shareholder until the merger takes place. If you fail to return your payment demand form or to deposit your stock according to Energy Search's instructions, then you will lose
+  &nbsp       You will retain all other rights of a shareholder until the merger takes place. If you fail to return your payment demand form or to deposit your stock according to Energy Search's instructions, then you will lose
 your dissenters' rights and receive the merger consideration ($8.22 per share) instead. Once you have made a payment demand, you may not withdraw your dissent unless Energy Search consents to the withdrawal.
 
+  &nbsp       
 Energy Search's Payment for the Fair Value of Your Shares.
-
-After Energy Search receives your payment demand form, it will pay you its estimate of the fair value of your shares, plus accrued interest. The
+ After Energy Search receives your payment demand form, it will pay you its estimate of the fair value of your shares, plus accrued interest. The
 term "fair value" means the value of your shares immediately before the effectuation of the merger, excluding any appreciation or depreciation in value in anticipation of the merger. Included with your payment will be (1) certain financial statements of
 the Energy Search, (2) a statement of Energy Search's estimate of fair value of your shares and an explanation of how the interest was calculated and (3) a statement on how you may object to Energy Search's estimate of the fair value of your shares.
 
+  &nbsp       
 How to Object to Energy Search's Estimate of the Value of Your Shares.
  If you disagree with Energy Search's estimate of the fair value of your shares or believe that the interest due was incorrectly
 calculated, you must, within one month after receiving payment from Energy Search, provide Energy Search with your estimate of the fair value of your shares. If you and Energy Search have not reached a settlement regarding the fair value of your shares
 within two months of Energy Search's receipt of your estimate, then Energy Search must bring a lawsuit in Knox County, Tennessee. If Energy Search fails to initiate suit within two months, Energy Search will pay you the amount you estimated to be the fair
 value of your shares. If you fail to object to Energy Search's fair value estimate within one month of receiving payment or being offered payment, you will lose your right to object.
 
+  &nbsp       
 Who Pays for the Lawsuit? 
 Energy Search will pay for the costs and expenses of any lawsuit, but a court may assess costs and expenses as it deems appropriate against you or any other dissenting
 shareholder if it finds that your demand for additional payment was arbitrary, vexatious or otherwise not in good faith. In addition, the court may charge Energy Search for attorney fees if Energy Search failed to comply with the dissenters' rights
 statute. A court may charge attorneys fees against Energy Search, you or any other dissenting shareholder, if it finds that the party against whom the fees and expenses are assessed acted arbitrarily, vexatiously or not in good faith.32222
 
+  &nbsp       
 In view of the complexities of the foregoing provisions of the Tennessee Business Corporations Act, if you are considering pursuing your dissenters' rights we urge you to consult with your own legal counsel
 
  .
 
 Completion and Effectiveness of the Merger
 
-          Completion of the merger will occur as soon as practicable after all of the conditions to the merger are satisfied or waived. The merger will become effective when a certificate of merger is filed with the Tennessee
+  &nbsp       Completion of the merger will occur as soon as practicable after all of the conditions to the merger are satisfied or waived. The merger will become effective when a certificate of merger is filed with the Tennessee
 Secretary of State. We are working toward completing the merger as quickly as possible and hope to complete the merger shortly after the special meeting. However, as discussed in "Conditions to the Merger" beginning on page ___, there are many conditions
 that must be satisfied or waived before the merger can occur. We cannot assure you that the merger will occur.
 
 Payment of Cash for Energy Search Stock
 
-          Under the merger agreement, upon completion of the merger, each share of Energy Search common stock and each share of Energy Search preferred stock outstanding immediately before the merger will automatically be
+  &nbsp       Under the merger agreement, upon completion of the merger, each share of Energy Search common stock and each share of Energy Search preferred stock outstanding immediately before the merger will automatically be
 converted into the right to receive $8.22 in cash, without interest. Each holder of a certificate representing shares of Energy Search common stock or Energy Search preferred stock will no longer have any rights with respect to the shares of Energy Search
 stock, except the right to receive $8.22 in cash, without interest, for each share.
 
-          Promptly after the merger is completed, our exchange agent will mail to each shareholder of record a letter of transmittal and instructions for surrendering Energy Search stock certificates in exchange for cash. When
+  &nbsp       Promptly after the merger is completed, our exchange agent will mail to each shareholder of record a letter of transmittal and instructions for surrendering Energy Search stock certificates in exchange for cash. When
 you surrender your Energy Search stock certificates to the exchange agent, together with a properly completed letter of transmittal and any other required documents, your Energy Search stock certificates will be canceled and you will receive $8.22 in
 cash, without interest, for each share of Energy Search common stock and each share of Energy Search preferred stock that you owned as of the effective time of the merger. 
 
-          After completion of the merger, there will be no more transfers on our records or on our transfer agent's records of certificates representing shares of Energy Search common stock or Energy Search preferred stock. If
+  &nbsp       After completion of the merger, there will be no more transfers on our records or on our transfer agent's records of certificates representing shares of Energy Search common stock or Energy Search preferred stock. If
 certificates are presented to us or our transfer agent for transfer, the certificates will be canceled and in exchange the holder will receive $8.22 in cash, without interest, for each share of Energy Search common stock and each share of Energy Search
 preferred stock represented by the certificate. Until surrendered, each certificate formerly representing shares of Energy Search common stock or Energy Search preferred stock will be deemed after completion of the merger to represent only the right to
 receive $8.22 in cash, without interest, upon surrender of the certificate. No interest or other payment will be paid or will accrue on the cash payment.
 
+  &nbsp       
 You should not send your Energy Search stock certificates to our exchange agent until you have received transmittal forms. Do 
 not
  return your Energy Search stock certificates with the enclosed proxy card.
@@ -2251,31 +2265,33 @@ Delisting of Energy Search Common Stock After the Merger
           Energy Search common stock is currently listed on the Nasdaq SmallCap Market and the Boston Stock Exchange. Because all of the Energy Search common stock outstanding immediately before the merger will be cancelled in
 exchange for the right to receive cash, Energy Search common stock will be delisted from the Nasdaq SmallCap Market and the Boston Stock Exchange if the merger is approved. 
 
-          Energy Search common stock is currently registered under the Securities Exchange Act of 1934. EOG Resources has informed us that it intends to terminate the registration of Energy Search common stock under the
+  &nbsp       Energy Search common stock is currently registered under the Securities Exchange Act of 1934. EOG Resources has informed us that it intends to terminate the registration of Energy Search common stock under the
 Securities Exchange Act promptly after the merger. The termination of the registration of
 
 Energy Search common stock under the Securities Exchange Act will mean that Energy Search will no longer be required to file various reports, such as Forms 10-KSB and 10-QSB, with the SEC. 
 
 Financing for the Merger 
 
-          The funds to pay the total amount of the merger consideration to our shareholders and option holders and pay estimated fees, expenses and other transaction costs of EOG Resources and EOG Tennessee in connection with
+  &nbsp       The funds to pay the total amount of the merger consideration to our shareholders and option holders and pay estimated fees, expenses and other transaction costs of EOG Resources and EOG Tennessee in connection with
 the merger will come from EOG Resources' available cash resources and available credit facilities. 
 
 The Merger Agreement
 
+  &nbsp       
 The following discussion summarizes the material terms of the merger agreement. The discussion does not, however, contain a complete statement of all provisions of the merger agreement and is qualified in its
 entirety by reference to the merger agreement. A copy of the merger agreement is attached as 
 Annex A
  to this proxy statement and is incorporated in this proxy statement by reference. You should read the merger agreement because it, and not this proxy statement, is the legal document that governs the merger.
 
-          In addition to providing for the merger of EOG Resources into Energy Search and the conversion of Energy Search stock into cash, the merger agreement contains many other provisions, some of which are discussed in this
+  &nbsp       In addition to providing for the merger of EOG Resources into Energy Search and the conversion of Energy Search stock into cash, the merger agreement contains many other provisions, some of which are discussed in this
 section. 
 
 Representations and Warranties 
 
-          Energy Search, EOG Resources and EOG Tennessee each made a number of representations and warranties in the merger agreement regarding various aspects of their respective businesses and other facts relevant to the merger
+  &nbsp       Energy Search, EOG Resources and EOG Tennessee each made a number of representations and warranties in the merger agreement regarding various aspects of their respective businesses and other facts relevant to the merger
  .
 
+  &nbsp       
 Representations and Warranties of Energy Search. 
 Our representations and warranties include representations as to, among other things:
 
@@ -2359,6 +2375,7 @@ regulatory filings, consents or approvals required to complete the merger; and
 
 payments required to be made by us to brokers and agents as a result of the merger.
 
+  &nbsp       
 Representations and Warranties of EOG Resources and EOG Tennessee. 
 The representations and warranties of EOG Resources include representations as to, among other things:
 
@@ -2390,7 +2407,7 @@ regulatory filings, consents or approvals required to complete the merger; and
 
 payments required to be made by EOG Resources to brokers and agents as a result of the merger.
 
-          The representations and warranties of EOG Tennessee include representations as to, among other things:
+  &nbsp       The representations and warranties of EOG Tennessee include representations as to, among other things:
 
 
 
@@ -2408,12 +2425,13 @@ the absence of a conflict with any charter document, agreement, law or governmen
 
 the lack of any other activities by EOG Tennessee since its formation.
 
-          The representations and warranties of Energy Search, EOG Resources and EOG Tennessee will expire upon the completion of the merger.
+  &nbsp       The representations and warranties of Energy Search, EOG Resources and EOG Tennessee will expire upon the completion of the merger.
 
 Covenants 
 
-          The merger agreement contains a number of covenants, most of which provide limitations within which we will operate our business until the merger is completed. These covenants include the following.
+  &nbsp       The merger agreement contains a number of covenants, most of which provide limitations within which we will operate our business until the merger is completed. These covenants include the following.
 
+  &nbsp       
 Conduct of Energy Search's Business Pending the Merger. 
 From the date of the merger agreement until completion of the merger we will:
 
@@ -2544,16 +2562,20 @@ take any action that would cause the representations and warranties in the merge
 
 pay any additional compensation to any financial advisors in addition to that required by current agreements.
 
+  &nbsp       
 Governmental Filings. 
 We have agreed to keep EOG Resources informed of the status of any governmental filings and to report to EOG Resources concerning operational matters.
 
+  &nbsp       
 Access to Information. 
 Upon reasonable notice, we have agreed to give EOG Resources and its representatives access to our properties, books, records and employees.
 
+  &nbsp       
 Shareholder Meeting. 
 We have agreed to call a shareholder meeting to vote on the merger agreement, and recommend approval of the merger agreement to our shareholders. Subject to its fiduciary duties, our
 board has agreed not to withdraw or modify its recommendation of the merger to our shareholders.
 
+  &nbsp       
 Acquisition Proposals. 
  Until completion of the merger, we have agreed not to: 
 
@@ -2571,23 +2593,27 @@ effort or attempt to make or implement an acquisition proposal or accept an acqu
 discussions with that third party, in each case only if our board of directors believes in good faith by a majority vote, after consultation with our financial advisors and legal counsel, that failing to take such action would constitute a breach of the
 board's fiduciary duties.
 
-          If our board determines that in response to a superior acquisition proposal, in order to comply with its fiduciary duties we must terminate the merger agreement, we may do so, but before terminating the merger
+  &nbsp       If our board determines that in response to a superior acquisition proposal, in order to comply with its fiduciary duties we must terminate the merger agreement, we may do so, but before terminating the merger
 agreement or accepting the superior acquisition proposal we must give EOG Resources five business days written notice of the proposal, specifying the company making the proposal and the terms and conditions of the proposal.
 
-          We have not received any proposals to enter into an acquisition proposal from third parties since we entered into the merger agreement.
+  &nbsp       We have not received any proposals to enter into an acquisition proposal from third parties since we entered into the merger agreement.
 
+  &nbsp       
 Employee Benefit Matters. 
 We have agreed, prior to the effective time of the merger, to terminate all of our employee benefit plans and stock option plans.
 
+  &nbsp       
 Expenses. 
 All expenses relating to the merger will be paid by the party incurring the expense, except the corporation surviving the merger will pay all applicable property or transfer taxes.
 
+  &nbsp       
 Indemnification of Our Officers, Directors and Employees.
   For a discussion of the provisions of the merger agreement concerning indemnification of our officers, directors and employees, see
 "Indemnification; Directors and Officers Insurance" on page ___.
 
 Conditions to the Merger
 
+  &nbsp       
 Joint Conditions to Completion of the Merger.
 
 The obligations of Energy Search, EOG Resources and EOG Tennessee to complete the merger are subject to the satisfaction or waiver of each of the following
@@ -2611,6 +2637,7 @@ on EOG Resources must be obtained; and
 
 First Union Securities' fairness opinion must not be withdrawn.
 
+  &nbsp       
 EOG Resources' and EOG Tennessee's Conditions to Completion of the Merger. 
 EOG Resources' and EOG Tennessee's obligations to complete the merger are subject to the satisfaction or waiver of each of the
 following additional conditions: 
@@ -2644,6 +2671,7 @@ no shareholders holding more than 7.5% of Energy Search's issued and outstanding
 we must have sold or otherwise transferred certain of our non-oil and gas assets, such as our office equipment and furniture at our Knoxville, Tennessee office, our aircraft and the capital stock of our inactive subsidiary Equity Financial
 Corporation, along with any related liabilities with respect to these assets (see "Purchase of Non-Oil and Gas Assets" on page ___).
 
+  &nbsp       
 Energy Search's Conditions to Completion of the Merger. 
 Our obligation to complete the merger is subject to the satisfaction or waiver of each of the following additional conditions: 
 
@@ -2722,7 +2750,7 @@ $300,000 of its expenses.
 
 Effect of Termination
 
-          If the merger agreement is terminated, the merger will be abandoned and the merger agreement will be void, except that agreements concerning confidentiality, payment of expenses and representations and warranties
+  &nbsp       If the merger agreement is terminated, the merger will be abandoned and the merger agreement will be void, except that agreements concerning confidentiality, payment of expenses and representations and warranties
 concerning brokers and investment bankers will remain in effect. The termination of the merger agreement will not result in liability on the part of any party or its affiliates, directors, officers or shareholders, except for payment of the termination
 fee and expenses, as described in "Payment of Expenses and Termination Fee" below, and except for any willful or bad faith breach of any obligations or undertakings under the merger agreement.
 
@@ -2760,7 +2788,7 @@ acquisition proposal is received which our board communicates, recommends and su
           With respect to the first three items in the above list, we generally will have 30 days to cure a breach, if it is capable of being cured. In addition, if we have reasonably and promptly begun and diligently pursued
 a cure, and that cure is in progress as of the end of the 30-day period, we will have an additional 30 days to cure the breach if it is practicable to cure the breach within that additional 30-day period.
 
-          EOG Resources will pay us a termination fee of $2 million and reimburse us for up to $300,000 of our expenses if:
+  &nbsp       EOG Resources will pay us a termination fee of $2 million and reimburse us for up to $300,000 of our expenses if:
 
 
 
@@ -2776,7 +2804,7 @@ consistent with termination fees in similar transactions with which we were fami
 
 Extension, Amendment and Waiver of the Merger Agreement
 
-          The merger agreement provides that EOG Resources, EOG Tennessee and Energy Search may agree to:
+  &nbsp       The merger agreement provides that EOG Resources, EOG Tennessee and Energy Search may agree to:
 
 
 
@@ -2794,61 +2822,64 @@ Information About Energy Search
 
 Our Business
 
-          We are an independent oil and natural gas company engaged in the exploration, development, production and acquisition of domestic oil and natural gas properties primarily in the Appalachian Basin. In 2000,
+  &nbsp       We are an independent oil and natural gas company engaged in the exploration, development, production and acquisition of domestic oil and natural gas properties primarily in the Appalachian Basin. In 2000,
 approximately 95% of our production was natural gas. Our daily net paid production averaged approximately 5.6 million cubic feet equivalent per day ("MMcfed") in 2000, and currently exceeds 6.5 MMcfed. In 2000, we drilled 69 net wells and one coalbed
 methane well. From January 1, 2001 to May 31, 2001, we drilled 33 net wells and two coalbed methane wells.
 
-          According to the 2000 year-end reserve report prepared by Wright & Company, Inc., our independent certified petroleum engineers, as of December 31, 2000, we had proven natural gas reserves of approximately 75
+  &nbsp       According to the 2000 year-end reserve report prepared by Wright & Company, Inc., our independent certified petroleum engineers, as of December 31, 2000, we had proven natural gas reserves of approximately 75
 billion cubic feet of gas equivalent ("Bcfe") with a pre-tax present value of proved natural gas and oil reserves discounted at the rate of 10% per year ("SEC PV-10") of approximately $154.7 million. Proven reserves have increased 17.9% for 2000 compared
 to the amount reported for 1999 as a direct result of successful drilling and acquisitions. SEC PV-10 proven reserve value has increased 159% for 2000 compared to 1999 due to our proven reserve growth and an increase in the price of the natural gas and
 oil commodities. We drill primarily developmental wells and, on occasion, step out or exploratory wells to develop new areas.
 
-          We presently focus our operations entirely in the Appalachian Basin. The Appalachian Basin is characterized by shallow natural gas formations, which historically have provided for highly predictable drilling success
+  &nbsp       We presently focus our operations entirely in the Appalachian Basin. The Appalachian Basin is characterized by shallow natural gas formations, which historically have provided for highly predictable drilling success
 rates. We currently enjoy economic completion of over 90% of all wells drilled. In addition, because wells drilled in the Appalachian Basin are closer to the large demand centers in the northeastern United States, natural gas from this area typically
 commands a premium price relative to natural gas produced in areas such as the Gulf Coast and Mid-Continent regions of the United States. 
 
-          Throughout the 1990s, we drilled an average of approximately 25 to 35 wells per year. Until February of 1997, substantially all of our wells were drilled in joint ventures with Tennessee limited partnerships that we
+  &nbsp       Throughout the 1990s, we drilled an average of approximately 25 to 35 wells per year. Until February of 1997, substantially all of our wells were drilled in joint ventures with Tennessee limited partnerships that we
 sponsored. The affiliated drilling partnerships participated primarily in development drilling in Washington, Athens and Meigs Counties, Ohio. We have drilled over 200 wells with affiliated drilling partnerships. We did not sponsor an affiliated drilling
 partnership in 2000 and do not expect to sponsor any in 2001 or in the foreseeable future. In 1998 we began to implement a consolidation strategy which involved acquiring the oil and gas reserves held by our affiliated drilling partnerships for cash or
 our stock. As of December 31, 2000, we had completed the acquisition of all oil and gas properties from the affiliated drilling partnerships.
 
-          During the last several years, we have grown primarily through developmental drilling and opportunistic acquisitions of Appalachian properties for our own account and the subsequent development, exploitation and
+  &nbsp       During the last several years, we have grown primarily through developmental drilling and opportunistic acquisitions of Appalachian properties for our own account and the subsequent development, exploitation and
 exploration of these properties. These drilling and acquisition activities have substantially increased our reserves and production. 
 
-          Before entering into the merger agreement with EOG Resources, our business plan anticipated drilling approximately 75 to 85 wells in 2001 using net cash flow, additional debt from our credit facility and other
+  &nbsp       Before entering into the merger agreement with EOG Resources, our business plan anticipated drilling approximately 75 to 85 wells in 2001 using net cash flow, additional debt from our credit facility and other
 sources. From January 1 to May 31, 2001, we drilled 35 wells. Subject to restrictions placed on
 
 us by the merger agreement with EOG Resources (see "Conduct of Energy Search's Business Pending the Merger" on page __), management plans to continue drilling and development activities primarily for our own account, which should enable us to expand
 activities and operations. 
 
-          If our revenues and net cash flows grow, we intend to expand drilling activities and continue to evaluate and execute natural gas and oil property acquisitions. However, all of our plans are subject to restrictions
+  &nbsp       If our revenues and net cash flows grow, we intend to expand drilling activities and continue to evaluate and execute natural gas and oil property acquisitions. However, all of our plans are subject to restrictions
 placed on us by the merger agreement with EOG Resources. Furthermore, because after the merger EOG Resources will be the sole shareholder of Energy Search, it will have the ability to change any or all of these plans as it sees fit.
 
 Recent Acquisitions
 
-          In March 2000, we completed the purchase of approximately 6,500 acres of oil and gas properties from Cabot Oil & Gas Corporation. The property is contiguous to our existing field in Raleigh County, West Virginia
+  &nbsp       In March 2000, we completed the purchase of approximately 6,500 acres of oil and gas properties from Cabot Oil & Gas Corporation. The property is contiguous to our existing field in Raleigh County, West Virginia
 and includes 45 producing wells and related gas gathering equipment. This acquisition has increased our production by approximately 500,000 cubic feet equivalent (500 Mcfe) per day. In connection with this financing, we issued 105,000 shares of common
 stock to Mirant. 
 
 Business Strategy
 
-          Before entering into the merger agreement with EOG Resources and EOG Tennessee, our objective was to grow reserves, production, cash flow and earnings through active development of existing properties and through the
+  &nbsp       Before entering into the merger agreement with EOG Resources and EOG Tennessee, our objective was to grow reserves, production, cash flow and earnings through active development of existing properties and through the
 opportunistic acquisition of Appalachian properties with underexploited value. Fundamental to this objective was our focus on the Appalachian Basin region and our foundation of experienced technical personnel, strengthened by a high level of financial and
 transactional experience. 
 
+  &nbsp       
 Geographic and Natural Gas Focus. 
 We focus on natural gas in the Appalachian Basin. Unlike many exploration and production companies, we concentrate on one region and are one of only a few publicly
 traded companies that are natural gas producers concentrating exclusively in the Appalachian Basin. We believe this region remains attractive for future development, exploration and acquisition activities due to significant reserve potential, a well
 developed company infrastructure of gathering systems and pipelines and premium pricing and economics. This geographic focus has enabled us to build and utilize a base of region-specific geological, geophysical, engineering and production expertise.
 
-          The Appalachian Basin has a price advantage over the Gulf Coast and other natural gas producing regions given its proximity to the primary markets on the east coast. We believe that the demand for natural gas in the
+  &nbsp       The Appalachian Basin has a price advantage over the Gulf Coast and other natural gas producing regions given its proximity to the primary markets on the east coast. We believe that the demand for natural gas in the
 United States economy will continue to grow. Increasingly, natural gas is replacing other fossil fuels due to its efficiency and environmental characteristics. As demand for natural gas has grown, prices have increased.
 
+  &nbsp       
 Acquisition of Properties with Underexploited Value.
 
 Our acquisition strategy has been to purchase Appalachian Basin natural gas properties in order to increase reserves, production and cash flow through
 development and exploitation drilling and lease operating expense reduction. However, due to the proposed merger agreement, we have suspended any further acquisition activity. 
 
+  &nbsp       
 Focus on Development and Exploitation with Controlled Exploration.
 
 We integrate our reservoir and production engineering expertise with our geological interpretation abilities to enhance our exploration
@@ -2858,17 +2889,20 @@ did not identify and to identify unexploited
 multiple horizon wells. We have assembled a multi-year inventory of development, exploitation and exploratory drilling opportunities in the Appalachian Basin. Most of the properties comprising this inventory are located in fields that have established
 production histories. Based on our experience on these properties and on independent reports from our petroleum engineers, we believe these properties could yield significant additional recoverable reserves.
 
+  &nbsp       
 Control of Operations. 
 We operate and maintain near 100% working interest positions in each of our core properties. Consequently, we can directly control all aspects of drilling, completion and
 production. In addition, we seek to maintain a low cost overhead structure by controlling the timing of the development of our properties. By operating producing wells, we believe that we are well positioned to control the expenses and timing of
 development and exploitation of these properties and better manage cost reduction efforts.
 
+  &nbsp       
 Control of Delivery Systems
 . 
 In addition to maintaining operational control of drilling activities, we operate and control the gas gathering and pipeline systems in our fields through which our
 production is delivered to market. We believe that this integration has allowed us not only to improve overall margins on the sale of natural gas, but also avoid shut-ins, pressure problems and/or allocation problems sometimes experienced when using third
 party gathering systems. We actively examine additional integration possibilities for transmission, gathering and marketing of natural gas to continue this integration of our natural gas business.
 
+  &nbsp       
 Employment of Technology. 
 We use advanced technology in development and exploration activities to reduce drilling risks and finding costs and to prioritize our drilling prospects based on return
 potential. Specifically, we use GeoGraphix for determining well location, mapping and possible viability of potential leases. GeoGraphix is a leading program used for mapping reserve geology and overall reserve evaluation. We also have a proprietary
@@ -2877,36 +2911,38 @@ inputting data from our drilling experiences and from public and other records.
 
 Market for Oil and Natural Gas
 
+  &nbsp       
 General. 
 Our revenues from oil and natural gas operations depend highly on the prices of and demand for our natural gas and oil production. In 2000, prices for both natural gas and oil increased over the
 1999 prices. Currently, the net average natural gas prices realized before hedge costs are approximately $4.28 per Mcfe. We have entered into a financial hedging program with respect to 4,000 MMBTU per day at a fixed price of $3.72 per MMBTU based on the
 TCO Appalachian Index for the period of July 1, 2000 to June 30, 2002. 
 
-          The prices that we receive in any year for natural gas and oil production depend on numerous factors beyond our control. Decreases in the prices of natural gas and oil could have a negative effect on the value of our
+  &nbsp       The prices that we receive in any year for natural gas and oil production depend on numerous factors beyond our control. Decreases in the prices of natural gas and oil could have a negative effect on the value of our
 proved reserves, revenues, profitability and cash flow.
 
+  &nbsp       
 Commodity Price Risk. 
 We produce and sell natural gas and, to a lesser extent, oil. As a result, our financial results can be significantly impacted as these commodity prices fluctuate widely in response
 to changing market forces. We have previously engaged in oil and gas hedging activities to realize commodity prices which management considers to be favorable. We continue to monitor oil and gas prices and may enter into additional oil and gas hedges or
 swaps in the future. In addition, we continue to diversify our natural gas sales contracts to include fixed rate contracts and variable price contracts to provide additional price volatility protection. 
 
-          Although we are not currently experiencing any involuntary curtailments of our oil or natural gas production, future market, economic and regulatory factors may harm our ability to sell oil or natural gas production.
+  &nbsp       Although we are not currently experiencing any involuntary curtailments of our oil or natural gas production, future market, economic and regulatory factors may harm our ability to sell oil or natural gas production.
 Due to the availability of other markets and pipeline connections, we do not believe that the loss of any single oil or natural gas customer would materially harm our results of operations.
 
 Regulation and Environmental Matters
 
-          Oil and natural gas exploration, production and related operations are subject to extensive rules and regulations of federal, state and local agencies. Failure to comply with these rules and regulations can result in
+  &nbsp       Oil and natural gas exploration, production and related operations are subject to extensive rules and regulations of federal, state and local agencies. Failure to comply with these rules and regulations can result in
 substantial penalties. The regulatory burden on the oil and gas industry increases our cost of doing business and affects our profitability. Although we believe that we substantially comply with all applicable laws and regulations, because these rules and
 regulations frequently are changed or interpreted, we cannot predict the future cost or impact of complying with these laws.
 
-          Environmental enforcement efforts with respect to natural gas and oil operations recently have increased and we anticipate that regulation will expand and have a greater impact on future natural gas and oil
+  &nbsp       Environmental enforcement efforts with respect to natural gas and oil operations recently have increased and we anticipate that regulation will expand and have a greater impact on future natural gas and oil
 operations. We cannot be sure that future laws and regulations will not harm our exploration for, and production and transmission of, oil and natural gas. Legislation and/or actions of local, state and federal governments could harm us in the future.
 Management believes that we have complied in all material respects with applicable regulatory requirements of the states in which we operate. We have not received a notice of a material violation or complaint concerning compliance with federal, state or
 local laws respecting the environment. We cannot be sure, however, that our business operations will not violate environmental laws in the future.
 
 Competition
 
-          The oil and natural gas industry is highly competitive in all of its phases. We compete with many other companies in the search for and acquisition of oil and natural gas properties and leases for exploration and
+  &nbsp       The oil and natural gas industry is highly competitive in all of its phases. We compete with many other companies in the search for and acquisition of oil and natural gas properties and leases for exploration and
 development. Our competitors include numerous independent oil and natural gas companies, major integrated oil and natural gas companies, individuals, and drilling and income programs. Many of these companies have substantially greater financial, technical
 and other resources than we do and have been in the exploration and production business for a much longer time than we have. These companies may be able to pay more for leases on oil and natural gas properties and exploratory prospects, as well as to
 define, evaluate, bid for or purchase a greater number of properties and prospects than our financial or human resources permit. We expect competition among oil and natural gas companies for favorable oil and natural gas prospects to continue. We
@@ -2914,25 +2950,25 @@ anticipate that the cost of purchasing oil and natural gas properties may increa
 
 Operating Hazards and Uninsured Risks
 
-          Drilling activities are subject to many risks, including the risk that no commercially productive reservoirs will be encountered. We cannot be sure that new wells drilled by us will be productive or that we will
+  &nbsp       Drilling activities are subject to many risks, including the risk that no commercially productive reservoirs will be encountered. We cannot be sure that new wells drilled by us will be productive or that we will
 recover all or any portion of our investment. Our future drilling activities may not be successful. Drilling for oil and natural gas may involve unprofitable efforts, not only from dry wells, but from wells that are productive but do not produce
 sufficient net revenues to return a profit after drilling, operating and other costs. The cost of drilling, completing and operating wells is often uncertain. Our drilling operations may be curtailed, delayed or canceled as a result of numerous factors,
 many of which are beyond our control, including title problems, weather conditions, compliance with governmental requirements and/or shortages or delays in the delivery of equipment and services.
 
-          Our operations are subject to hazards and risks inherent in drilling for and producing and transporting oil and natural gas. These include fires, natural disasters, explosions, encountering formations with abnormal
+  &nbsp       Our operations are subject to hazards and risks inherent in drilling for and producing and transporting oil and natural gas. These include fires, natural disasters, explosions, encountering formations with abnormal
 pressures, blowouts, craterings, pipeline ruptures and spills and/or uncontrollable flows of oil, natural gas or well fluids.
 
-          Any of the above factors could cause a loss of hydrocarbons, environmental pollution, personal injury claims and other damage to properties. We are insured against some but not necessarily all of these risks. In
+  &nbsp       Any of the above factors could cause a loss of hydrocarbons, environmental pollution, personal injury claims and other damage to properties. We are insured against some but not necessarily all of these risks. In
 particular, our insurance does not cover claims relating to failure of title to oil and natural gas leases, trespass during survey acquisition or surface change attributable to seismic operations and, except in limited circumstances, losses due to
 business interruption. In addition, pollution and environmental risks generally are not fully insurable. The occurrence of an event that is not covered, or not fully covered, by insurance could harm our business, financial condition and results of
 operations.
 
 Activities with Affiliated Drilling Partnerships
 
-          We operate approximately 277 miles of gas gathering systems which service our primary areas of operation in Ohio and West Virginia. Approximately 92 miles of the gas gathering systems were owned by a Tennessee limited
+  &nbsp       We operate approximately 277 miles of gas gathering systems which service our primary areas of operation in Ohio and West Virginia. Approximately 92 miles of the gas gathering systems were owned by a Tennessee limited
 partnership. In the fourth quarter of 1999, we acquired all of the limited partner interests of the partnership in exchange for shares of our preferred stock. 
 
-          From 1989 to 1998, we sponsored 16 affiliated drilling partnerships. We did not sponsor an affiliated drilling partnership in 1999 or 2000 and do not plan to sponsor any partnerships in 2001. Beginning in 1998, we
+  &nbsp       From 1989 to 1998, we sponsored 16 affiliated drilling partnerships. We did not sponsor an affiliated drilling partnership in 1999 or 2000 and do not plan to sponsor any partnerships in 2001. Beginning in 1998, we
 implemented a consolidation strategy to reacquire interests in wells from affiliated drilling partnerships for cash or shares of our stock. We have now acquired all assets of all affiliated drilling partnerships.
 
 Properties
@@ -2944,16 +2980,19 @@ drilling operations. If title opinions or other investigations reflect title def
 be prudent to begin drilling operations on the property, we could suffer a loss of our entire investment in that property. Our properties are subject to customary royalty, overriding royalty, carried, net profits, working and other similar interests,
 liens incident to operating agreements, liens for current taxes and other burdens.
 
+  &nbsp       
 Company Natural Gas and Oil Assets. 
 As of December 31, 2000, we partially owned and operated approximately 681 gross wells, 680 net wells to us, and owned and operated approximately 277 miles of natural
 gas gathering systems. We have 202,655 gross acres, 196,688 net to us, of oil and natural gas leases in Ohio and West Virginia in the heart of the Appalachian Basin. For the year ended December 31, 2000, we had net average daily paid production of
 approximately 5.6 MMcfed. As of the date of this proxy statement, our net paid production of natural gas exceeds 6.5 MMcfed. 
 
+  &nbsp       
 Southeast Ohio (Washington, Morgan, Meigs and Athens Counties). 
 The Simmons Field is located in Washington County and contains approximately 22,000 gross acres. This area is our largest producing field
 and contains a large portion of our proved undeveloped drilling locations. Secondary fields in this area are the Bartlett Field and Torch Field. Although these fields are similar in geology to the Simmons area, we do not forecast any development drilling
 around them.
 
+  &nbsp       
 Southern Ohio (Lawrence and Gallia Counties). 
 Located on the southern border adjacent to Kentucky and near the border with West Virginia is an area that represents two of our major assets: Arabia Field
 and Greasy Ridge Field. This area, which we acquired in 1999, contains a total of 99 producing wells and approximately 40,000 acres. About half of the acreage is undeveloped. 
@@ -2983,23 +3022,25 @@ good total coal seam thickness from multiple coal seams; and
 
 high gas content.
 
-          Presently, management is evaluating strategies for development of our CBM project. 
+  &nbsp       Presently, management is evaluating strategies for development of our CBM project. 
 
+  &nbsp       
 Gas Gathering Systems. 
 Throughout our various fields of operation in Ohio and West Virginia, we own and operate substantially all of the pipeline and natural gas gathering systems. Substantially all of
 the wells that we drill and complete are connected to these natural gas gathering systems. The gas gathering systems collect the natural gas from the wells, with the majority sent through one or more compressor stations to enhance transportability and
 deliver it to interstate pipeline carriers.
 
+  &nbsp       
 Natural Gas and Oil Reserves. 
 Our natural gas and oil reserves are located in Ohio and West Virginia. Proved reserves are estimated quantities of crude oil and natural gas which geological and
 engineering data indicate are reasonably certain to be recoverable in the future from known reservoirs under existing economic and operating conditions. Proved developed natural gas and oil reserves are proved reserves that can be expected to be recovered
 through existing wells using existing equipment and operating methods. Proved undeveloped reserves are proved reserves expected to be recovered from new wells on undrilled acreage, or from existing wells at depths below the present bottom of the wells.
 
-          The following table summarizes information with respect to the estimated net proved oil and natural gas reserves as reviewed, evaluated and certified by Wright & Company, Inc., independent
+  &nbsp       The following table summarizes information with respect to the estimated net proved oil and natural gas reserves as reviewed, evaluated and certified by Wright & Company, Inc., independent
 
 certified petroleum engineers, attributable to our interests in oil and natural gas properties as of December 31, 2000, 1999 and 1998. 
 
-          The reserve amounts in the following tables represent well interests and reserves directly owned 100% by us. 
+  &nbsp       The reserve amounts in the following tables represent well interests and reserves directly owned 100% by us. 
 
 TOTAL ESTIMATED NET RESERVE QUANTITIES
 
@@ -3122,11 +3163,12 @@ Total Proved Developed Reserves:
 
 (2)          After conversion on the basis of 6.0 Mcf of natural gas to 1.0 barrel of crude oil.
 
+  &nbsp       
 Discounted Present Value of Future Net Revenues. 
 The following table represents the estimated future net revenues and the present value of the future estimated net reserves, discounted at a rate of 10%
 per year, from our proved developed producing, proved developed non-producing and proved undeveloped reserves.
 
-          With respect to the table below, the estimated discounted present value future net cash flows from proved oil and gas reserves is computed assuming a constant net price of $26.00 per barrel of oil and $6.32 per Mcf of
+  &nbsp       With respect to the table below, the estimated discounted present value future net cash flows from proved oil and gas reserves is computed assuming a constant net price of $26.00 per barrel of oil and $6.32 per Mcf of
 natural gas. For the fiscal year ended December 31, 2000, we received gross oil prices ranging from $21.50 to $31.50 per barrel and gross natural gas prices ranging from $1.94 to $11.11 per Mcf before royalties and gathering and transportation costs.
 
 ESTIMATED DISCOUNTED PRESENT VALUE OF FUTURE NET CASH FLOWS
@@ -3287,19 +3329,20 @@ $
 
 30,761,583
 
-          Estimates of our proved reserves and future cash flows are made using sales prices estimated to be in effect as of the date of the reserve estimates and are held constant throughout the life of the properties, except
+  &nbsp       Estimates of our proved reserves and future cash flows are made using sales prices estimated to be in effect as of the date of the reserve estimates and are held constant throughout the life of the properties, except
 to the extent a contract specifically provides otherwise. Estimated quantities of proved reserves and future cash flows from them are affected by natural gas and oil prices, which have fluctuated widely in recent years.
 
-          There are many uncertainties inherent in estimating oil and natural gas reserves and their values, including many factors beyond the control of the producer. The reserve data set forth in this proxy statement
+  &nbsp       There are many uncertainties inherent in estimating oil and natural gas reserves and their values, including many factors beyond the control of the producer. The reserve data set forth in this proxy statement
 represents estimates only. The significance of the estimates are highly dependent on the accuracy of the assumptions on which they were based. Reserve engineering and evaluation is a subjective process of estimating underground accumulations of oil and
 gas that cannot be measured in an exact manner. The accuracy of any reserve estimate is a function of the quality of available data and of engineering and geological interpretation and judgment. As a result, estimates of different engineers and geologists
 often vary. In addition, estimates of reserves are subject to revision by the results of drilling, testing and production after the date of the estimate. Accordingly, reserve estimates are often different from the quantities of oil and natural gas that
 are ultimately recovered. While we believe that reserve estimates in this proxy statement are reasonable, you should know that subsequent reservoir performance, the timing and success of future development drilling and changes in pricing structure or
 market demand will affect the reserve estimates. 
 
-          In general, the volume of production from oil and gas properties declines as reserves are depleted. Unless we purchase properties containing proven reserves or conduct successful exploration and development
+  &nbsp       In general, the volume of production from oil and gas properties declines as reserves are depleted. Unless we purchase properties containing proven reserves or conduct successful exploration and development
 activities, or both, our proven reserves will decline as reserves are produced. Our future oil and natural gas production is, therefore, highly dependent on our level of success in purchasing or developing additional reserves.
 
+  &nbsp       
 Productive Wells. 
 The following table contains information regarding our ownership of productive wells in Ohio and West Virginia as of December 31, 2000. For purposes of this table, productive wells
 are producing wells and wells capable of production. A gross well is a well in which we own a working interest. The number of gross wells is the total number of wells in which we own a working interest. A net well is considered to exist when the sum of
@@ -3339,6 +3382,7 @@ ____________________
 
 Of the wells reported, 369 gross wells had multiple completions or were producing from more than one geological formation.
 
+  &nbsp       
 Production Volumes, Average Prices and Production Costs. 
 The following table contains certain information regarding the production volumes of, average sales prices received for, and average production
 costs associated with, our sales of oil and natural gas for the time periods indicated.
@@ -3431,6 +3475,7 @@ Includes direct lifting costs, such as labor, repairs and maintenance, materials
 
           The production volumes in the table above reflect net production volumes from our well interests after reduction for gas pipeline shrinkage and compressor use and after reduction for landowner and overriding royalties.
 
+  &nbsp       
 Development, Exploration and Acquisition Expenditures. 
 The following table lists information regarding the costs we incurred in the development, exploration and acquisition activities on our Ohio and
 West Virginia properties during the periods indicated:
@@ -3467,6 +3512,7 @@ Property Acquisition Costs
 
 4,560,556
 
+  &nbsp       
 Recent Drilling Activities. 
 We have drilled or participated in the drilling of wells in our Ohio and West Virginia properties as listed in the table below for the periods indicated.
 
@@ -3722,11 +3768,12 @@ Total
 
           From January 1, 2001 to May 31, 2001, we drilled 35 wells and, as of May 31, 2001, are in the process of drilling two more.
 
+  &nbsp       
 Oil, Natural Gas and Coalbed Methane Leases. 
 As of the date of this proxy statement, we owned or controlled oil and natural gas leasehold acres located in Athens, Gallia, Lawrence, Meigs, Morgan,
 Tuscarawas, Washington and Vinton Counties, Ohio, and in Fayette, Gilmer, Ritchie, Wood and Raleigh Counties, West Virginia, and coalbed methane leasehold acreage in Raleigh County, West Virginia.
 
-          The following table lists information regarding our developed and undeveloped leasehold acreage as of December 31, 2000:
+  &nbsp       The following table lists information regarding our developed and undeveloped leasehold acreage as of December 31, 2000:
 
 LEASEHOLD ACREAGE
 
@@ -3792,10 +3839,10 @@ Total
 
 196,688
 
-          For purposes of the above table, developed acreage means acreage that is held by existing production, has no further drilling obligations or delay rentals due and embodies, in its aggregate, offsetting drilling
+  &nbsp       For purposes of the above table, developed acreage means acreage that is held by existing production, has no further drilling obligations or delay rentals due and embodies, in its aggregate, offsetting drilling
 locations.
 
-          Substantially all of our Ohio and West Virginia leases are subject to landowner royalties of 12.5%, an overriding royalty interest of 3% to Mirant (subject to certain limitations), and occasionally additional
+  &nbsp       Substantially all of our Ohio and West Virginia leases are subject to landowner royalties of 12.5%, an overriding royalty interest of 3% to Mirant (subject to certain limitations), and occasionally additional
 overriding royalty interests up to 7.5%. Thus, our net revenue interest in the Ohio and West Virginia leases generally ranges from 84.5% to 77%.
 
 Selected Historical Financial Information
@@ -4293,7 +4340,7 @@ _____________________________________
 
 Market Price and Dividend Information
 
-          Our common stock is quoted on the Nasdaq SmallCap Market under the ticker symbol "EGAS." It is also traded on the Boston Stock Exchange. The following table lists the high and low sale prices for our common stock for
+  &nbsp       Our common stock is quoted on the Nasdaq SmallCap Market under the ticker symbol "EGAS." It is also traded on the Boston Stock Exchange. The following table lists the high and low sale prices for our common stock for
 the periods indicated, all as reported by the Nasdaq SmallCap Market:
 
 High
@@ -4395,7 +4442,7 @@ $ ____
           On May 22, 2001, the last trading day before announcement of the merger agreement, the closing price of Energy Search common stock as reported by Nasdaq was $7.37 per share. On June ___, 2001, the closing price of
 Energy Search common stock as reported on Nasdaq was $______ per share. We urge you to obtain current market quotations before voting on the merger agreement.
 
-          We have not paid any dividends on our common stock. However, as of December 31, 2000, we had issued 1,760,640 shares of 9% redeemable convertible preferred stock on which we pay dividends quarterly. Some of these
+  &nbsp       We have not paid any dividends on our common stock. However, as of December 31, 2000, we had issued 1,760,640 shares of 9% redeemable convertible preferred stock on which we pay dividends quarterly. Some of these
 shares of preferred stock have since been converted to common stock at the option of the holder. According to terms and conditions relating to the preferred stock, at the option of Energy Search, dividends may be paid in cash or in registered common stock
 valued at the closing price of our common stock as of the dividend accrual date. We have elected to issue common stock in payment of accrued dividends on the 9% redeemable convertible preferred stock since the second quarter of 2000 through the first
 quarter of 2001. Other than dividends payable on our 9% redeemable convertible preferred stock, our senior credit facility with Mirant restricts our ability to pay dividends. In addition, the merger agreement prohibits the payment of any dividends other
@@ -4430,7 +4477,7 @@ Public Accountants. Mr. Yoakley serves as a director for The Philadelphians, Inc
 
 Our Management
 
-          In addition to serving as directors, Charles P. Torrey, Jr. and Richard S. Cooper serve as our Chief Executive Officer our and President, respectively. Our other key management personnel include John M. Johnston and
+  &nbsp       In addition to serving as directors, Charles P. Torrey, Jr. and Richard S. Cooper serve as our Chief Executive Officer our and President, respectively. Our other key management personnel include John M. Johnston and
 Mitzi F. Anderson. 
 
           John M. Johnston 
@@ -4448,7 +4495,7 @@ Ms. Anderson earned a Bachelor of Business Administration in accounting from the
 
 Ownership of Principal Shareholders and Management of Energy Search
 
-          The following table sets forth information regarding beneficial ownership of Energy Search stock as of June 1, 2001 by:
+  &nbsp       The following table sets forth information regarding beneficial ownership of Energy Search stock as of June 1, 2001 by:
 
 
 
@@ -4466,7 +4513,7 @@ each of the Chief Executive Officer and the three other most highly compensated 
 
 all of our directors and executive officers as a group.
 
-          The percentage ownership is based on 4,657,722 shares of Energy Search common stock and 1,703,305 shares of preferred stock outstanding as of June 1, 2001. The number of shares beneficially owned is determined in
+  &nbsp       The percentage ownership is based on 4,657,722 shares of Energy Search common stock and 1,703,305 shares of preferred stock outstanding as of June 1, 2001. The number of shares beneficially owned is determined in
 accordance with Rule 13d-3 of the Securities Exchange Act of 1934 and the information is not necessarily indicative of beneficial ownership for any other purpose. Under this rule, beneficial ownership includes any shares as to which the individual or
 entity has voting power or investment power and any shares that the individual has the right to acquire within 60 days after June 1, 2001 through the exercise of any stock option or similar right.
 
@@ -4783,7 +4830,7 @@ basins in the United States, as well as in Canada and Trinidad and, to a lesser 
 estimated net proved crude oil, condensate and natural gas liquids reserves were 73 million barrels ("MMBbl"). At that date, approximately 56% of EOG Resources' reserves (on a natural gas equivalent basis) were located in the United States, 15% in Canada
 and 29% in Trinidad. As of December 31, 2000, EOG employed approximately 850 persons. 
 
-          EOG Resources' business strategy is to maximize the rate of return on investment of capital by controlling operating and capital costs. This strategy is intended to enhance the generation of cash flow and earnings
+  &nbsp       EOG Resources' business strategy is to maximize the rate of return on investment of capital by controlling operating and capital costs. This strategy is intended to enhance the generation of cash flow and earnings
 from each unit of production on a cost-effective basis. EOG Resources focuses its drilling activity toward natural gas deliverability in addition to natural gas reserve replacement and to a lesser extent crude oil exploitation. EOG Resources focuses on
 the cost-effective utilization of advances in technology associated with the gathering, processing and interpretation of three-dimensional seismic data, developing reservoir simulation models and drilling operations through the use of new and/or improved
 drill bits, mud motors, mud additives, formation logging techniques and reservoir fracturing methods. These advanced technologies are used, as appropriate, throughout EOG Resources to reduce the risks associated with all aspects of oil and gas reserve
@@ -4795,14 +4842,14 @@ implementation of EOG Resources' strategy.
 
 Forward-Looking Statements
 
-          This proxy statement contains statements that are not historical facts. These statements are called "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the
+  &nbsp       This proxy statement contains statements that are not historical facts. These statements are called "forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the
 Securities Exchange Act of 1934. These statements involve important known and unknown risks, uncertainties and other factors and can be identified by phrases using "estimate,"
 
 "anticipate," "believe," "project," "expect," "intend," "predict," "potential," "future," "may," "should" and similar expressions or words. 
 
 Forward-Looking Statements With Respect to Our Business Operations
 
-          Our future results, performance or achievements may differ materially from the results, performance or achievements discussed in the forward-looking statements. There are numerous factors that could cause actual
+  &nbsp       Our future results, performance or achievements may differ materially from the results, performance or achievements discussed in the forward-looking statements. There are numerous factors that could cause actual
 results to differ materially from the results discussed in forward-looking statements, including the impact that the following factors can have on our business and the energy resource industry in general:
 
 
@@ -4889,7 +4936,7 @@ Economic factors that may affect the success of our acquisitions.
 
 Factors that we have discussed in previous public reports and other documents filed with the SEC.
 
-          This list provides examples of factors that could affect the results described by forward-looking statements contained in this proxy statement. However, this list is not intended to be exhaustive; many other factors
+  &nbsp       This list provides examples of factors that could affect the results described by forward-looking statements contained in this proxy statement. However, this list is not intended to be exhaustive; many other factors
 could impact our business and it is impossible to predict with any accuracy which factors could result in which negative impacts. Although we believe that the forward-looking statements contained in this proxy statement are reasonable, we cannot provide
 you with any guarantee that the anticipated results will be achieved. All forward-looking statements in this proxy statement are expressly qualified in their entirety by the cautionary statements contained in this section and you are cautioned not to
 place undue reliance on the forward-looking statements contained in this proxy statement. In addition to the risks listed above, other risks may arise in the future, and we disclaim any obligation to update information contained in any forward-looking
@@ -4904,7 +4951,7 @@ Other Information
 
 Where You Can Find More Information
 
-          We file annual, quarterly and other current reports, proxy statements and other information with the SEC. You may read and copy these reports, proxy statements and other information at the public reference rooms of
+  &nbsp       We file annual, quarterly and other current reports, proxy statements and other information with the SEC. You may read and copy these reports, proxy statements and other information at the public reference rooms of
 the SEC located at: 
 
 Judiciary Plaza
@@ -4930,22 +4977,22 @@ th
 
 New York, New York 10048
 
-          Copies of these materials also can be obtained from the SEC Public Reference Section at the Washington, D.C. address noted above at prescribed rates. Information regarding the operation of the Public Reference Room
+  &nbsp       Copies of these materials also can be obtained from the SEC Public Reference Section at the Washington, D.C. address noted above at prescribed rates. Information regarding the operation of the Public Reference Room
 may be obtained by calling the SEC at 1-800-SEC-0330. The SEC maintains a website that contains reports, proxy statements and other information regarding us. The address of the website is http://www.sec.gov.
 
 Incorporation of Information By Reference
 
-          The SEC allows us to "incorporate by reference" information into this proxy statement. This means that we can disclose important information to you by referring you to another document we filed with the SEC. The
+  &nbsp       The SEC allows us to "incorporate by reference" information into this proxy statement. This means that we can disclose important information to you by referring you to another document we filed with the SEC. The
 information incorporated by reference is considered to be a part of this document, except for any information that is superseded by information that is included directly in this document.
 
-          All reports that Energy Search files with the SEC after the date of this proxy statement, but prior to the date of the special meeting, pursuant to Sections 13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of
+  &nbsp       All reports that Energy Search files with the SEC after the date of this proxy statement, but prior to the date of the special meeting, pursuant to Sections 13(a), 13(c), 14 or 15(d) of the Securities Exchange Act of
 1934, are hereby incorporated by reference in this proxy statement. Copies of these documents (other than certain exhibits to them) are available without charge to each person to whom this proxy statement is delivered, upon written or oral request to:
 Energy Search, Incorporated, Attention: Richard S. Cooper, 280 Fort Sanders West Boulevard, Suite 200, Knoxville, Tennessee 37922, telephone (865) 531-6562.
 
-          Documents requested will be sent by first class mail or other equally prompt means within one business day of receipt of the request. In order to ensure timely delivery of such documents, any such request should be
+  &nbsp       Documents requested will be sent by first class mail or other equally prompt means within one business day of receipt of the request. In order to ensure timely delivery of such documents, any such request should be
 made by July ___, 2001.
 
-          You can also obtain any of the documents incorporated by reference in this proxy statement from the SEC through the SEC's web site (www.sec.gov) or at the SEC's addresses listed above. 
+  &nbsp       You can also obtain any of the documents incorporated by reference in this proxy statement from the SEC through the SEC's web site (www.sec.gov) or at the SEC's addresses listed above. 
 
 Shareholder Proposals
 
@@ -4965,6 +5012,7 @@ Act of 1934. All shareholder proposals should be addressed to the attention of t
 
 Other
 
+  &nbsp       
 We have not authorized anyone to give any information or to make any representation other than contained in this proxy statement in connection with the merger and related transactions. If anyone gives any
 information or makes representations, you must not regard it as having been authorized by us or EOG Resources. The delivery of this proxy statement shall not under any circumstances, create an implication that there has been no change in the facts set
 forth in this proxy statement since the date of this proxy statement. This proxy statement does not constitute an offer or a solicitation to buy securities where, or to any person to whom, it is unlawful to make an offer or solicitation.
@@ -7125,6 +7173,7 @@ material benefit under, or the creation of a Lien, pledge, security interest, ch
 WARN Act
 " means Worker Adjustment and Retraining Notification Act.
 
+  &nbsp                 
 IN WITNESS WHEREOF
 , Parent, Merger Sub and the Company have caused this Agreement to be signed by their respective officers thereunto duly authorized, all as of the date first
 written above.
@@ -7185,13 +7234,13 @@ Knoxville, Tennessee 37922
 
 Dear Members of the Board:
 
-          We understand that Energy Search, Incorporated (the "Company") proposes to enter into an Agreement and Plan of Merger with EOG Resources, Inc, ("EOG") and EOG Tennessee, Inc. a wholly owned subsidiary of EOG ("Merger
+  &nbsp       We understand that Energy Search, Incorporated (the "Company") proposes to enter into an Agreement and Plan of Merger with EOG Resources, Inc, ("EOG") and EOG Tennessee, Inc. a wholly owned subsidiary of EOG ("Merger
 Sub"), pursuant to which Merger Sub will be merged with and into the Company and the Company will become a wholly owned subsidiary of EOG (the "Proposed Transaction"). Under the terms of the Proposed Transaction, the shareholders of the Company will
 receive $8.22 in cash in exchange for each share of the Company's common stock and $8.22 in cash in exchange for each share of the Company's preferred stock. The terms and conditions of the Proposed Transaction are set forth in more detail in the draft of
 the Agreement and Plan of Merger dated May 22, 2001 among the Company, EOG and the Merger Sub (the "Merger Agreement"). We have been asked to advise the Board of Directors of the Company as to the fairness, from a financial point of view, to the Company's
 shareholders of the consideration to be received by these shareholders in the Proposed Transaction. 
 
-          In arriving at our opinion, we have, among other things, reviewed and analyzed the following:
+  &nbsp       In arriving at our opinion, we have, among other things, reviewed and analyzed the following:
 
 
 
@@ -7241,10 +7290,10 @@ The historical financial results and present financial condition of the Company 
 
 A comparison of the financial terms of the Proposed Transaction with the financial terms, to the extent publicly available, of certain comparable transactions we deemed relevant.
 
-          In addition, we have had discussions with the management of the Company concerning the Company's business, operations, assets, financial condition, prospects, reserves, production profiles, and exploration programs.
+  &nbsp       In addition, we have had discussions with the management of the Company concerning the Company's business, operations, assets, financial condition, prospects, reserves, production profiles, and exploration programs.
 We have also undertaken such other studies, analyses, and investigations that we deemed appropriate.
 
-          In arriving at our opinion, we have assumed and relied upon the accuracy and completeness of the forgoing financial and other information, and we have not assumed any responsibility for independent verification of
+  &nbsp       In arriving at our opinion, we have assumed and relied upon the accuracy and completeness of the forgoing financial and other information, and we have not assumed any responsibility for independent verification of
 such information. We have further relied upon the assurances of the Company's management that they are not aware of any facts or circumstances that would make such information inaccurate or misleading. With respect to the Company's financial projections
 and the estimates of future production, revenue, operating costs, and capital investment prepared by the Company, we have assumed that such projections and estimates have been reasonably prepared and reflect the best currently available estimates and
 judgements of the Company's management as to the future performance of the Company. We have discussed the Company's financial projections with the management of the Company, but we assume no responsibility for and express no view as to the Company's
@@ -7252,7 +7301,7 @@ financial projections or the assumptions upon which they are based. We have also
 inspection of the properties and facilities of the Company, and have not made or been provided any evaluations or appraisals of the Company's assets or liabilities. In addition, you have not authorized us to solicit, and we have not solicited, any
 third-party indications of interest with respect to the purchase of all or a part of the Company's business.
 
-          In rendering our opinion, we have assumed that the Proposed Transaction will be consummated on the terms described in the Agreement, without any waiver of material terms or conditions. Our opinion is necessarily based
+  &nbsp       In rendering our opinion, we have assumed that the Proposed Transaction will be consummated on the terms described in the Agreement, without any waiver of material terms or conditions. Our opinion is necessarily based
 on economic, market, financial, and other conditions, and the information made available to us as of the date hereof. Although subsequent developments may affect this opinion, we do not have any obligation to update, revise, or reaffirm this opinion. Our
 opinion does not address the relative merits of the Proposed Transaction or the other business strategies considered by the Company's Board of Directors. We have not been requested to opine as to, and our opinion does not in any manner address, the
 Company's underlying business decision to proceed with or effect the Proposed Transaction.
@@ -7267,17 +7316,17 @@ May 23, 2001
 
 Page 3
 
-          First Union Securities, Inc. is an investment banking firm and an affiliate of First Union Corporation. We have had no role in the negotiation of any of the terms and conditions of the Proposed Transaction, nor have
+  &nbsp       First Union Securities, Inc. is an investment banking firm and an affiliate of First Union Corporation. We have had no role in the negotiation of any of the terms and conditions of the Proposed Transaction, nor have
 we acted as financial advisor to the Company in connection with the Proposed Transaction. We will receive a fee for the delivery of this opinion which is not contingent upon completion of the Proposed Transaction. We will also receive a success fee,
 contingent upon completion of the Proposed Transaction, for introducing EOG and the Company. In addition, the Company has agreed to indemnify us for certain liabilities that may arise out of the rendering of this opinion. In the ordinary course of our
 business, we may actively trade in the securities of the Company and EOG for our own account and for the accounts of our customers and, accordingly, may at any time hold a long or short position in such securities. 
 
-          The opinion expressed herein is solely for the information and use of the Board of Directors of the Company in connection with the Proposed Transaction and shall not confer any rights or remedies upon the shareholders
+  &nbsp       The opinion expressed herein is solely for the information and use of the Board of Directors of the Company in connection with the Proposed Transaction and shall not confer any rights or remedies upon the shareholders
 of the Company or any other person or be used or relied upon for any other purpose. This opinion does not constitute a recommendation as to how any shareholder of the Company should respond to or vote on the Proposed Transaction. This opinion may not be
 summarized, excerpted from, or otherwise publicly referred to without prior written consent, except that this opinion may be reproduced in full or summarized in any proxy or information statement mailed or provided to the shareholders of the Company or in
 any other filing made under the federal securities laws.
 
-          Based upon and subject to the foregoing, our experience as investment bankers, our work as described above, and other factors we deemed relevant, we are of the opinion that, as of the date hereof, the consideration to
+  &nbsp       Based upon and subject to the foregoing, our experience as investment bankers, our work as described above, and other factors we deemed relevant, we are of the opinion that, as of the date hereof, the consideration to
 be received by the shareholders of the Company in the Proposed Transaction is fair, from a financial point of view.
 
 Sincerely,
@@ -7316,7 +7365,7 @@ with a corporation; and
 
 48-23-102  Right to dissent.
 
-          (a) A shareholder is entitled to dissent from, and obtain payment of the fair value of the shareholder's shares in the event of, any of the following corporate actions:
+  &nbsp       (a) A shareholder is entitled to dissent from, and obtain payment of the fair value of the shareholder's shares in the event of, any of the following corporate actions:
 
 (1) Consummation of a plan of merger to which the corporation is a party:
 
@@ -7347,10 +7396,10 @@ after the date of sale;
           (5) Any corporate action taken pursuant to a shareholder vote to the extent the charter, bylaws, or a resolution of the board of directors provides that voting or nonvoting shareholders are entitled to dissent and
 obtain payment for their shares.
 
-          (b) A shareholder entitled to dissent and obtain payment for the shareholder's shares under this chapter may not challenge the corporate action creating the shareholder's entitlement unless the action is unlawful or
+  &nbsp       (b) A shareholder entitled to dissent and obtain payment for the shareholder's shares under this chapter may not challenge the corporate action creating the shareholder's entitlement unless the action is unlawful or
 fraudulent with respect to the shareholder or the corporation.
 
-          (c) Notwithstanding the provisions of subsection (a), no shareholder may dissent as to any shares of a security which, as of the date of the effectuation of the transaction which would otherwise give rise to
+  &nbsp       (c) Notwithstanding the provisions of subsection (a), no shareholder may dissent as to any shares of a security which, as of the date of the effectuation of the transaction which would otherwise give rise to
 dissenters' rights, is listed on an exchange registered under  6 of the Securities Exchange Act of 1934, as amended, or is a "national market system security," as defined in rules promulgated pursuant to the Securities Exchange Act of 1934, as amended
  .
 
@@ -8672,8 +8721,7 @@ December 31, 2000 and 1999
 
 Note A -- Summary of Significant Accounting Policies
 
-Nature of Operations
- - Energy Search, Incorporated and Subsidiary (the "Company") consists of Energy Search, Incorporated (ESI) and, until December 2000, Equity Financial Corporation (EFC), a wholly owned subsidiary acquired May 1, 1997.
+Nature of Operations - Energy Search, Incorporated and Subsidiary (the "Company") consists of Energy Search, Incorporated (ESI) and, until December 2000, Equity Financial Corporation (EFC), a wholly owned subsidiary acquired May 1, 1997.
 
 ESI is engaged in the exploration, development, production and marketing of oil and natural gas in the Appalachian Basin area including southeastern Ohio and southern West Virginia.  ESI's revenue is primarily derived from the sale of natural gas and
 crude oil from wells in which it has working interest, the transmission of natural gas through a pipeline and gathering system, and, to a lesser extent, the management and operation of oil and gas wells.  Management's primary focus is the development of
@@ -8731,8 +8779,7 @@ December 31, 2000 and 1999
 
 Note A -- Summary of Significant Accounting Policies (Continued)
 
-Hedging 
-- In order to mitigate the impact of market price fluctuations, the Company utilizes hedges (swap agreements) for a significant portion of its natural gas production. Gains or losses on these agreements are recognized as adjustments to
+Hedging - In order to mitigate the impact of market price fluctuations, the Company utilizes hedges (swap agreements) for a significant portion of its natural gas production. Gains or losses on these agreements are recognized as adjustments to
 sales revenue when the related transactions being hedged are finalized.  The cash flows from such agreements are included in operating activities in the consolidated statement of cash flows.
 
 The Company participated in natural gas hedges covering 3,850 MMBTU per day (January -- March) and 4,900 MMBTU per day (April -- June) via a costless collar agreement with a put option of $2.45 and a call option of $2.88 per MMBTU during the current
@@ -8758,8 +8805,7 @@ December 31, 2000 and 1999
 
 Note A -- Summary of Significant Accounting Policies (Continued)
 
-Income Taxes
- - The Company accounts for income taxes following the liability method.  A current tax liability or asset is recognized for the estimated taxes payable or refundable on tax returns.  Deferred tax liabilities or assets are recognized
+Income Taxes - The Company accounts for income taxes following the liability method.  A current tax liability or asset is recognized for the estimated taxes payable or refundable on tax returns.  Deferred tax liabilities or assets are recognized
 for the estimated future tax effect of temporary differences between book and tax accounting and operating loss and tax credit carryforwards.  Valuation allowances are established when necessary to reduce deferred tax assets to the amount expected to be
 realized.
 
@@ -9220,8 +9266,7 @@ December 31, 2000 and 1999
 
 Note F -- Preferred Stock
 
-Redeemable Convertible Preferred Stock 
-- In 2000, the Company initiated a private placement offering of up to 850,000 shares of 9 percent redeemable convertible preferred stock at $5.50 per share.  The offering was terminated on December 31, 2000.
+Redeemable Convertible Preferred Stock - In 2000, the Company initiated a private placement offering of up to 850,000 shares of 9 percent redeemable convertible preferred stock at $5.50 per share.  The offering was terminated on December 31, 2000.
  The Company raised $4,288,000, net of issue costs of approximately $387,000, and sold 850,000 shares of preferred stock under the offering.  Of the total amount raised, $1,146,095 had not been received from the escrow agent before December 31, 2000, but
 was received by the Company as of February 22, 2001.
 
@@ -9247,8 +9292,7 @@ December 31, 2000 and 1999
 
 Note F -- Preferred Stock (Continued)
 
-Affiliated Partnership Roll-Up 
-- During 2000, the Company completed the acquisition of working interests (the "Subject Interests") in the remaining gross natural gas or oil wells that were being operated by the Company.  The Subject
+Affiliated Partnership Roll-Up - During 2000, the Company completed the acquisition of working interests (the "Subject Interests") in the remaining gross natural gas or oil wells that were being operated by the Company.  The Subject
 Interests were owned in the following affiliated partnerships: Natural Gas 1997 L.P. (the "97 L.P"), Natural Gas 1997-A L.P. (the "97-A L.P."), and the Natural Gas 1998 L.P. (the "98 L.P.").  The Company issued 141,123 shares
 of 9 percent redeemable convertible preferred stock to acquire these interests.  The preferred shares were recorded at $564,492 based on the value of the working interests acquired.
 
@@ -9263,8 +9307,7 @@ in the wells acquired.  In recording this acquisition the Company concluded it h
 
 Note G -- Common Stock
 
-Stock Issued to Employees and Non-Employees
- -- During 2000, the Company issued 24,998 shares of common stock to employees for past services rendered.  In addition, the Company issued 12,654 shares of common stock to non-employees for past services
+Stock Issued to Employees and Non-Employees -- During 2000, the Company issued 24,998 shares of common stock to employees for past services rendered.  In addition, the Company issued 12,654 shares of common stock to non-employees for past services
 rendered.  The Company charged $133,795 to operations during 2000 for the issuance of this stock.
 
 Annex D - Page 19
@@ -9307,8 +9350,7 @@ December 31, 2000 and 1999
 
 Note H -- Stock Warrant Plans
 
-Regulation D Warrants
- - As part of ESI's private offering of common stock that took place in October 1997, 74,996 warrants were issued to unaffiliated parties pursuant to the Placement Agent Agreement.  The warrants entitle each holder to purchase
+Regulation D Warrants - As part of ESI's private offering of common stock that took place in October 1997, 74,996 warrants were issued to unaffiliated parties pursuant to the Placement Agent Agreement.  The warrants entitle each holder to purchase
 one share of common stock and are exercisable at $7 per share at any time up to October 27, 2002.  During 1999, 13,925 of the regulation D warrants were re-priced at $4.50 per share.  The number, type of security and the exercise price is subject to
 adjustment upon occurrence of certain events including consolidation, merger, subdivision or combination of shares and issuance of stock dividends.  None of these warrants have been exercised at December 31, 2000.
 
@@ -9433,8 +9475,7 @@ December 31, 2000 and 1999
 
 Note J -- Employee Benefit and Stock-Based Compensation Plans
 
-Employee Benefit Plan
- - The Company sponsors a simplified employee pension plan (SEP) for qualifying employees.  Employee contributions to individual retirement plans may not exceed the greater of 15 percent of employee earnings or $22,500 per
+Employee Benefit Plan - The Company sponsors a simplified employee pension plan (SEP) for qualifying employees.  Employee contributions to individual retirement plans may not exceed the greater of 15 percent of employee earnings or $22,500 per
 year per employee.  The Company contributed $34,657 and $36,197 to the SEP during 2000 and 1999, respectively.
 
 Non-employee Options
@@ -9468,8 +9509,7 @@ December 31, 2000 and 1999
 
 Note J -- Employee Benefit and Stock-Based Compensation Plans (Continued)
 
-Officer Warrant Plan
- - The Company also has a fixed executive officer stock-based compensation plan under which executive officers have been granted warrants for the purchase of up to 450,000 shares of restricted common stock.  During 1999, the
+Officer Warrant Plan - The Company also has a fixed executive officer stock-based compensation plan under which executive officers have been granted warrants for the purchase of up to 450,000 shares of restricted common stock.  During 1999, the
 Company replaced the outstanding warrants with options, issued under the Company's employee stock-based compensation plan.  The exercise price of each option is $4.50 per share, re-priced from $8.00 per share.  The options vest at 30,000 shares per
 officer per year, and expirations were extended during 2000 to December 31, 2005.
 
@@ -9666,8 +9706,7 @@ December 31, 2000 and 1999
 
 Note K -- Commitments, Contingencies and Concentrations
 
-Geographic Concentration
- - The Company plans to increase its oil and gas reserves by continued developmental drilling in southeastern Ohio in the area serviced by its gas gathering system, its Dupont Field and its Beaver Coal Company Lease in Wood
+Geographic Concentration - The Company plans to increase its oil and gas reserves by continued developmental drilling in southeastern Ohio in the area serviced by its gas gathering system, its Dupont Field and its Beaver Coal Company Lease in Wood
 and Raleigh counties, West Virginia, respectively.  The Company may also undertake activities elsewhere in the Appalachian Basin and the mid-continent region of the United States.  It plans to drill an increasing number of wells for its own account.
 
 Note L -- Discontinued Operation
@@ -10461,7 +10500,7 @@ Management fees and other revenue
 
 1,466,779
 
-          Operating Expenses
+  &nbsp       Operating Expenses
 
 Production costs
 
@@ -10970,157 +11009,114 @@ M3V_O!0#PD-T"20#@^4`,7@PQB@D`'Q!CX+\/^._IB1-?5O^Z,?[^2X'HU"KO
 M^8Z31])EWQ1MNI?<<]PWVGOILJ+RRD!N>_>!SG?[56LS2B9>^X,\T%0X[+MW
 MZG/9^:MS;ST]F+O_[LZ5LT\O/J+>F]G9T78]?M1M5IZ\T%[<7[C#JGOEBQ:=
 M^$>-5+!W^-KPNK:V"]&QBCVN^S=Z;Q>UWG[CU>XBU?&+33D;DA5GRL>WG(4N
-MT;;<5O?7"Y2KZ=.:GI&#:=>F=T6VEHCFJ\Y,F
+MT;;<5O?7"Y2KZ=.:GI:=>F=T6VEHCFJ\Y,F
 U\DRI=^=VU3L'U7<,MGX=R1DLY)7W_YM,?OR)9Z.H=>]W4&Z@N9
 M#I7#*-WG\Q98:J4#A8)MRHOIE@K_J6R+D?&H"*,THFJK54P5E!M]_2K1AI?+
-MLLLK&#K;YU9E&8_M#Q'&M_?WS2I:"GS-!>7O*#FA><)+B=!@J*8O5G8XDQ9H
+MLLLKK;YU9E&8_M#Q'&M_?WS2I:"GS-!>7O*#FA><)+B=!@J*8O5G8XDQ9H
 M&_O<98=J:3UN-P1"+4U692($W;03M^MM+@\5U)ST%%6'N[2-TL$Z@S_4:73!
-MN,A3W2,P694WFYRXN#5!&-3U<EP<B(N<E,AI+3L2+X.](;^"T-L^6C%;ZS0V
-MM\;J]!E"O\V\H+!K;,U<L%Z>'E3>M&8GQ`^KPK`[O&*&EN,2@0VEVB,UX<?^
-MD-PH*<ELAH/B+C^AK^I)K0Y[[,(GB>:VS%+ESZ$NLB]KLB8#=\E9B"35[G@<
+MN,A3W2,P694WFYRXN#5!&-3U
+'E3>M&8GQ`^KPK`[O&*&EN,2@0VEVB,UX^
+MD-PH*
+:VS%+ESZ$NLB]KLB8#=\E9B"35[G@<
 M9^EY)VN=6X4+/)1J#$Q:UYA<+=P&N=^C<5N5<<)`>30L$V+]'51<(L`]>ESB
 MK+$J?ZJ5NKGV!\5^RH.(07=C1CI2@PVB-M?-FN$GYGE6GY"?(O3^Y!R3,#`G
-M<CHD#8'(^AC-N'L$G)\_E*RQ1;(3$F:01A9("*,V8?>B&4-+]GQI$S)LD:#&
+M
+B&4-+]GQI$S)LD:#&
 M@2C1S(RPNPI)-]`0&$"T12;1H0RNE#LT@/:84%S"Q,H8-WW8)&)B]&%;G68(
 M85FXWA91SH68T?"*A=].S%]^\_=OVQ^-=[*B17),06TZ5P=!C.+`W.(1',-8
 M)#=GI&3/2,Z09")ZFKDOBLXA9S0P]VR9Z/'G!7.&ZTJL9QNBISF?YKY='D?3
 MU5AT+#&P+`NA6'_\[WOH+FLP9^3T/RJ\@)QS/`>.=ALES!`2%K6&9*0;YI">
 M_8%)488)-8C\@88$2AUS4,F:7X[MH`"9!@&6YH6`)%/1(X8D4R#0&0#$M:`4
-M@M)*"@!,5XSVR+3HYM=BI&X[Y%5"!>`5E4*>`<UBV@Z`V@[(%!T$%,`@KD8%
-MR-5HA4%@AJ2YDL)(F0;R44%,K;:P_R**-5+&EE<;`)"MA8"'LI4<!10`,N2Q
-MD30V`D&*`:1"`C,`KC9"P12(KX&()Q38N5H60,KM`+(T204`V^U`3?&X1C`%
-M^_0D\%(61@`:DBB41`$!@K.S%))HLAXZ7HLP!(_E!3$U&TR!6"K463"U%N!L
-M?W8^C8J@E`(0@,!(B`[4%5?2[/"B;B#;MAH1@J0"98$"'<\I08`E8_F@"X]M
-M<S7D?%0,05F%U4N!I0O%B@X6_=5_36D771XT$&Q;R+@^9=Q)+#WTN_!+O?_[
-M%P,2/`&$MY*17.GHLY%[BLN!6*!<!;S\?+#L<9:U5\``_C3`J@!`MZ=\3`K!
-MJGD@]`-L%+N2-M&&2Z7+ZU+Z*O`QV>:S2=]/)*EWF:NQ?(E)GGIY)?1\>&<:
+M@M)*"@!,5XSVR+3HYM=BI&X[Y%5"!>`5E4*>`
+:S2=]/)*EWF:NQ?(E)GGIY)?1\>&<:
 M,'G0BMUQP,U2:QZ8M\2D<>FS=_.?$X?"ZPUE;F1S=')E86T-96YD;V)J#34V
 M."`P(&]B:@TQ-#0R(`UE;F1O8FH--30R(#`@;V)J#3P\(`TO5'EP92`O4&%G
-M92`-+U!A<F5N="`U,#@@,"!2(`TO4F5S;W5R8V5S(#4T,R`P(%(@#2]#;VYT
-M96YT<R!;(#4T-R`P(%(@-34R(#`@4B`U-30@,"!2(#4U-B`P(%(@-34X(#`@
-M4B`U-C$@,"!2(#4V,R`P(%(@-38U(#`@4B!=(`TO365D:6%";W@@6R`P(#`@
-M-C$R(#<Y,B!=(`TO0W)O<$)O>"!;(#`@,"`V,3(@-SDR(%T@#2]2;W1A=&4@
-M,"`-/CX@#65N9&]B:@TU-#,@,"!O8FH-/#P@#2]0<F]C4V5T(%L@+U!$1B`O
-M5&5X="!=(`TO1F]N="`\/"`O1C$@-30U(#`@4B`O1C(@-30T(#`@4B`O1C,@
-M-30Y(#`@4B`O1C0@-34Y(#`@4B`^/B`-+T5X=$=3=&%T92`\/"`O1U,Q(#4V
-M-B`P(%(@/CX@#3X^(`UE;F1O8FH--30T(#`@;V)J#3P\(`TO5'EP92`O1F]N
-M="`-+U-U8G1Y<&4@+U1Y<&4Q(`TO3F%M92`O1C(@#2]"87-E1F]N="`O5&EM
-M97,M4F]M86X@#3X^(`UE;F1O8FH--30U(#`@;V)J#3P\(`TO5'EP92`O1F]N
-M="`-+U-U8G1Y<&4@+U1Y<&4Q(`TO3F%M92`O1C$@#2]"87-E1F]N="`O5&EM
-M97,M0F]L9"`-/CX@#65N9&]B:@TU-#8@,"!O8FH--S`X(`UE;F1O8FH--30W
-M(#`@;V)J#3P\("]&:6QT97(@+T9L871E1&5C;V1E("],96YG=&@@-30V(#`@
-M4B`^/B`-<W1R96%M#0I(B7U335/;,!"]>R;_04?I8*&5Y"]N`9R63IO2Q,RT
+M92`-+U!A
+"!;(#`@,"`V,3(@-SDR(%T@#2]2;W1A=&4@
+M,"`-/CX@#65N9&]B:@TU-#,@,"!O8FH-/#P@#2]0
+R;_04?I8*&5Y"]N`9R63IO2Q,RT
 MTW`PP82T)&82,X5_WUU)=J"T36:2E;3[]KW].*E&T=$$&+#J=A0!2&69PJ^W
 M=&IE85BFK82,59M1I-@*`][-@:WVHRA64BF-+TM\">:O4?2=ST_?BSB3AI<"
 M\/?L\F/)P([%5?6!/%.59PR#BR1-6'7F@Y7'B7O;`2WX[/&^82"04,IM'8/R
-M)BR$1XL+J75N6`PRMUGNX!R&U0,O,AW<N8A3F?"I4-+RR6<1YS+GLT\B3F3!
-MQ]5YN)FR6?G%FY?.-<3-W*$\8Z]PF`"4PB]$#)K@W&5`^DIL#?^&;PH#V+P:
-M5V7(5TXK+\'*+->I4V"R@P"3#P+(/!0V)Q*810^%]83`$<J#,!N$)8,PB^^^
-M9HE4AC(B;VV*H04Z.;2`;)?R8M<^"3`8_<SFPF+63A1XJKN&Q&5\@^(P2[,5
-MD/"NK\:C<]WM'^FV%AH]MB':N0>_K@V@`6SIP=>M=T9Q/O>"UPL18EI_=>L*
+M)BR$1XL+J75N6`PRMUGNX!R&U0,O,AW
+I4V"R@P"3#P+(/!0V)Q*810^%]83`$
+_K@V@`6SIP=>M=T9Q/O>"UPL18EI_=>L*
 M;@:D.X\SX%$IEAXUD%D+ZDGG_YJ]+X:666&2U[7PA0\%*)]\@N5=O5TU;+SL
-M6.MOB(%%J,``"F.#N>#C3;.]$4"Z-U0:,E`ZCLNTE<Q]O"M9_3"7N([`UFP4
-MF3R1><'2!,?',%Q`FSN**=LUHPAW]<1MKO['YH*U4F&XT9(:N?']!7WH+_0[
+M6.MOB(%%J,``"F.#N>#C3;.]$4"Z-U0:,E`ZCLNTE
+<'2!,?',%Q`FSN**=LUHPAW]<1MKO['YH*U4F&XT9(:N?']!7WH+_0[
 M,5G?-\3$\AMV_4Q$@;/NKF&S9N5/:Q%3O??8F9PTT&&'-03L:TQCO>T.8KR0
 MHXGIF2D)M.[J367YL:A^O!01][ZT"9#H82[AQ5Q"\@?O;."-M:W914W4K.<)
 MO']H49'WWJ$X?UEOA]$9U%JO%E`ML>EA/*:3JYW<7N\;N9FT8/ZFMGBCUKN2
 M6&7-_\6>"EIDY$V+MOP91!'O^L$?'G9ML'#,,VQ4W;F_AEW3_M+#L;CZ#;J=
-M0H0-96YD<W1R96%M#65N9&]B:@TU-#@@,"!O8FH-/#P@+T9I;'1E<B`O1FQA
-M=&5$96-O9&4@+TQE;F=T:"`R-#4@+U-U8G1Y<&4@+U1Y<&4Q0R`^/B`-<W1R
-M96%M#0I(B6)D8&%B8&1DE''V\/!P]]4.#]#S3,[/RTP.KLQ-RL\I=C2P-`+)
-M:_V09?HAQ_Q#C.6W)`_S?!Z6'_(\8EV_E7ZE_SS'^MU(X+L9_W=KP>[O:X48
-M6!D96=AE]9S<32W<3<W#`YS]K<(#XE%-Q2*`Q5X&!B9+*P;&#L9V!F9&1F:Y
-MG&Z^G]K7'XG^J/W1\:?V3P?[P8.B/V1^"/Z1^2/(!I>:#)2:S'[PD>AWT^_:
+M0H0-96YD
+[O:X48
+M6!D96=AE]9S<32W<3
+:#)2:S'[PD>AWT^_:
 MOTV_Z[+^/L*^YOL'T>\VOTV^VWXW8?W]E.T'6[SH;_/?NM_-?^NS?C_!'O7[
-MJ>AOO>]JO_5_J[%^/\G&!Q!@`/6:;E0-"F5N9'-T<F5A;0UE;F1O8FH--30Y
-M(#`@;V)J#3P\(`TO5'EP92`O1F]N="`-+U-U8G1Y<&4@+U1Y<&4Q(`TO3F%M
-M92`O1C,@#2]&:7)S=$-H87(@-3<@#2],87-T0VAA<B`U."`-+U=I9'1H<R!;
-M(#8V,R`V-C,@72`-+T)A<V5&;VYT("]#2$A(1TTK5U`N26-O;FEC4WEM8F]L
-M<T$P.3(@#2]&;VYT1&5S8W)I<'1O<B`U-3`@,"!2(`T^/B`-96YD;V)J#34U
-M,"`P(&]B:@T\/"`-+U1Y<&4@+T9O;G1$97-C<FEP=&]R(`TO07-C96YT(#`@
-M#2]#87!(96EG:'0@,"`-+T1E<V-E;G0@,"`-+T9L86=S(#0@#2]&;VYT0D)O
-M>"!;("TQ("TQ-#(@.3<Y(#@R-B!=(`TO1F]N=$YA;64@+T-(2$A'32M74"Y)
-M8V]N:6-3>6UB;VQS03`Y,B`-+TET86QI8T%N9VQE(#`@#2]3=&5M5B`P(`TO
-M0VAA<E-E="`H+T<U."]'-3<I#2]&;VYT1FEL93,@-30X(#`@4B`-/CX@#65N
-M9&]B:@TU-3$@,"!O8FH--34Y(`UE;F1O8FH--34R(#`@;V)J#3P\("]&:6QT
-M97(@+T9L871E1&5C;V1E("],96YG=&@@-34Q(#`@4B`^/B`-<W1R96%M#0I(
-MB<542V_;,`R^!\A_X%$":DT/QX_=@B3=`UA3..YA6';P&F7SX-B#DW;KOQ]%
-M24M[V;"AP&(@(J6/U/>1M.NWT\F+2P,*ZOUTDABA,UE"HD2A9AKJY70BH;ZE
+MJ>AOO>]JO_5_J[%^/\G&!Q!@`/6:;E0-"F5N9'-T
+"!;("TQ("TQ-#(@.3
+6UB;VQS03`Y,B`-+TET86QI8T%N9VQE(#`@#2]3=&5M5B`P(`TO
+M0VAA
+1M.NWT\F+2P,*ZOUTDABA,UE"HD2A9AKJY70BH;ZE
 M_^_3"7O)ZZ\N0(>`@)>$3*204J8>'TP,^L"N1YZD(F6V:WDR8P>N,I$SLGN.
 M42EK`N*!*REF#&+$\"/N;$X.WO!"%(Q,&]+8_L0_UG\GH_R=#*)>$CR)-LE8
-MVGW;<X5)'7>#=Y]X+G1T[OV1=8IR)X'(NRTDWS@9RC%W4,>]^!-SF9I_8*YG
+MVGW;
+#=Y]X+G1T[OV1=8IR)X'(NRTDWS@9RC%W4,>]^!-SF9I_8*YG
 MOY@K$QNP1)X*F4DD0QH,UA9I:Z)4>$'.N?='#EDRX(ERZYRB=[O6%[\=0H*&
 M\G7PKG$RL1IVY.4Y<=CMO'=\_B8]DDHV2=WP%%LR<(U#TWG&MY%X_]D3?\38
-MKV/[E"S<D.2>LNS.-2G8"!7/<//.;W865!JJD7`MA6%*/[]29<Y*G4U*%T._
-M;Y&<1KUNE'*1^5$TK/$O3>>]"[@</&R$FZ.%X.R=5AQ4'_F%*X1:6`P'\MV$
-MNEX>C]AO6/<^IGOP*VQ9<P1.X_'-CA'L4YWL#CY%8'77V?`*AW%R!7-'6#!5
-M8I6S+;-;OF78),TTT=AR<G`)I52A,BH5^%61^'A+2VQ7#FE6B@)?TT.<!G/^
-M".E0KM75JGKU'C:K>;5X?0%O>.+Z>+585]?K:EZOEO&NV`4<B'@76;D6V)1T
-M5@ICZ*HG/83_^\,)^@E)/S+0#65N9'-T<F5A;0UE;F1O8FH--34S(#`@;V)J
-M#38S-"`-96YD;V)J#34U-"`P(&]B:@T\/"`O1FEL=&5R("]&;&%T941E8V]D
-M92`O3&5N9W1H(#4U,R`P(%(@/CX@#7-T<F5A;0T*2(FU5,%NVS`,O1OP/_!(
-M`8LJR8YE][9U#;`=NJ+U;=[!394E6VIGCH.F?S]*E(-NP[`.V'22*)(BWWM4
-MFF1:VCDHJ-^F"<++EZB_I,EEG2;62%5!/B^ESB`OK+0%S)3,"AA<FJS2Y`TY
-M:2U53J\HX)W1I;3DGE<^JGY($R65TA;J99K,IOUCFGS$!J_:!T'^)3KH5W#C
-M/@MM9($;,3.RPOTH2AS:CHTC&Z'=PZW0N32X$]0ANJ70BBXV*U'Z6'</T=#!
-M.Z$K.9]"]W"Q;H?@-3KV&1HA/M7OJ3*=25,::E#+,K,!-!5J5J':OP'P?ZQ`
-MRK]BU%A9S%_,J"ZTK"SD1!1%38Q2GA.C?O\#H\SGM1N$)7+W@D#-L>\:Y',C
+MKV/[E"S
+LNS.-2G8"!7//.;W865!JJD7`MA6%*/[]29
+>]"[@&R$FZ.%X.R=5AQ4'_F%*X1:6`P'\MV$
+MNEX>C]AO6/<^IGOP*VQ9
+;5X?0%O>.+Z>+585]?K:EZOEO&NV`4
+\:Y',C
 M8"$(\-PSG1&'6[*;Z="1"H@$A.NA/S[%_>W8>L:TY]([.7ZF&U_!)@2OO%TC
 M?!C7'.($U4;ZB6JHQ8S:Q7C9=C"&L+7PEXZUYV]B$7L1A>,/W$;+"3L./`F'
-MIB,GI7O=Y+9DX7B5FV>*-Q&?Z_8I"#[SE7N(`@R6'\T##//IT(5AH(X6SD&#
-M%VL^AK;FN/P:;\>U@P!-CKO=T+/53X9!+W4]I6O'D-S!77]DIT:<<PMGBPPT
-MU"NO]=_)OPH:.EN8Z$G34A#MZM3OLW:G;J]$0:/6"X.PHA[BQ+EO!_\^S:>O
+MIB,GI7O=Y+9DX7B5FV>*-Q&?Z_8I"#[SE7N(`@R6'\T##//IT(5AH(X6SD
+M%VL^AK;FN/P:;\>U@P!-CKO=T+/53X9!+W4]I6O'D-S!77]DIT:<
+O
 MC["_ES^7,8O9*5MELNK7:L[_5(U^!GZLQL.X[`/\!-!AI'^B]Y172!\,!CED
 MS+'%NVTX$5CAGS"X[1]A%_<#7!Z7:PYM6:P5TV(17B]'N#FP;>OVH'F;TQ/M
 MC/^ZHL$-J<>2N4%-L\#`M-T]J.A",5%=$Q(3+=\!/5TS6@UE;F1S=')E86T-
 M96YD;V)J#34U-2`P(&]B:@TU,3@@#65N9&]B:@TU-38@,"!O8FH-/#P@+T9I
-M;'1E<B`O1FQA=&5$96-O9&4@+TQE;F=T:"`U-34@,"!2(#X^(`US=')E86T-
-M"DB)O52YDMLP#.TUHW]`2<[8'%ZBI.UR-:E2J,NF4+3TVHE6TNB(?S\@06_6
-MDS3.)*N&(`@\$@\/RC,II%06FB[/]A?[G&>?V3U3]YSOM:QJ4;"&&U&RT\I+
+M;'1E
+?V3U3]YSOM:QJ4;"&&U&RT\I+
 M7'H/(U=:&';``.$8^)8KB49WA(ZLGN^-T*Q=<,L6&`\0_#5;?`K8N!*6S;Q"
-MF!,%$WK:^"5EK".<CW3="?&3<TXW#A%FN=R?(,8!DF>:>G+Y^)([`@=X-SYQ
-M56%E:<&,91V[[W31+J+",,+4SO"#G"U'A@SK-\^_-!_S#(&<K`&=M38U-._S
-MR*8TO]@,=F03?ONHCEL]?YEV[?D4ZJF0^WUHJC\@0<CW')?9/\""34&*^=YB
-MN9$3A2<['JHG3GC01"0FG"`Q@:Y^2[P4HI2N`$F41#9DY(%YWGQ#:@SBN])&
-MZHRM8MP?*'K5+[[,*%%>'G[+@V+RAR;/2BU0$D8C!258A\ISH4KC8/9Y=LBS
+MF!,%$WK:^"5EK".
+:>G+Y^)([`@=X-SYQ
+M56%E:<&,91V[[W31+J+",,+4SO"#G"U'A@SK-\^_-!_S#(&
+'G[+@V+RAR;/2BU0$D8C!258A\ISH4KC8/9Y=LBS
 MMQB$I$F+MT@@*R4I)S3*Z(EDI%[(2)GGH=3/0^G8&UY@GQX?0SM#YY(1=6K9
 MZF'8HKHM^^KG,((+]JUFOMM2Q@E;[MA*"P[<&@V<[=#H\Y'\'<$=T^D<1KYD
 M[4`82QOGN4"4D3PX>M-$9OP)A/&.^(1#;[BC$P"W,W5!T3NI2U*0O%+&E8+^
-M6_]O:/2_4HFTMZM$U\5+E6CDYB=.+AC!#65N9'-T<F5A;0UE;F1O8FH--34W
-M(#`@;V)J#38V."`-96YD;V)J#34U."`P(&]B:@T\/"`O1FEL=&5R("]&;&%T
-M941E8V]D92`O3&5N9W1H(#4U-R`P(%(@/CX@#7-T<F5A;0T*2(EM5#V/G#`0
-M[9'X#U-<84<+L=GE*UVD)$6J**++7<&!-Q!QL`*3S?W[C#WCO<LIS:YG/!_/
-M;]X01^)>'.^E;'[%T?LO)]#0G.-(I[H\UJ"@^11'^-O%D0".R3@F2U55AI!4
+M6_]O:/2_4HFTMZM$U\5+E6CDYB=.+AC!#65N9'-T
+'.^E;'[%T?LO)]#0G.-(I[H\UJ"@^11'^-O%D0".R3@F2U55AI!4
 M*9W[.#SF607--8Y^B&]FA7V6.DM/8K0@M4HK<5EEY>S.P$)7JTRR-!?!M#(Y
-MIEH,QL67PI7H#25-=/7,)<F:?Y()O^F_E8E"][3?&IRY@94E`N!V+0/;VHX:
-MV9'#9Y`)>FK1+4]25VDA+KLU??!>*&J7&JNLFTO68@_E&'T(MDLX?9;ZA%W^
+MIEH,QL67PI7H#25-=/7,)
+FK1+4]25VDA+KLU??!>*&J7&JNLFTO68@_E&'T(MDLX?9;ZA%W^
 M^+1N:`-L0W!#V,>`)CB^[Y.';>1#\]6-(]$OI)>!]*.JF7252%UC"ZWA7FS&
 MPMD_JQ"KE948P`YD&FC]ZRJQ[+.%988KWXS=X&>%Z`?#I_.(R9/[(=R%@+,)
-ME^,&'9U:Z:EG:Y]:KN,HKX7I.;6=>T[=[)L08!`(&EFX@FO)=X&1:[N%(Q<T
-M4@EKJ-#*KQIGTZ.RW?@^W*C#@*J^\9=G)9-V5Z59!A=#$EUA\RA0)"N[4H2#
-MP%G#C4Q*,7B781<25&+W:21^<L</W1B@J\T-NA3PV))_0TDM,P>W7IRU?W8A
+ME^,&'9U:Z:EG:Y]:KN,HKX7I.;6=>T[=[)L08!`(&EFX@FO)=X&1:[N%(Q
+W7IRU?W8A
 M+(=,I."<%(P2+P['@CSZH!`]5QI:MQ^Y,#B(G8XK91AN8*=G[L3,+;OUTLV\
 M8@4WG/L7_!R(L_J?\F[KGJF,23R>#DJI&R;>1MI<1$9^VL'!;T%+!M]<1Q+Z
 M%#;(>Q]?;4D6G.,6UL[7(5TA/>.3K\!;RSG]R'W,Q!\.>#3G\.T)\W-2_S=O
 M#0NZ'H!WGJ'M&]R1(S\HG1UR,G"_]2F46[`);3)<6CJ,/=B%N&S>Q5'B>2R8
-M/-=_X&E/?1`B#7%[*X/EPE,E92WSELJ'O[Z65!L-96YD<W1R96%M#65N9&]B
-M:@TU-3D@,"!O8FH-/#P@#2]4>7!E("]&;VYT(`TO4W5B='EP92`O5'EP93$@
-M#2].86UE("]&-"`-+T)A<V5&;VYT("](96QV971I8V$@#3X^(`UE;F1O8FH-
-M-38P(#`@;V)J#30S-R`-96YD;V)J#34V,2`P(&]B:@T\/"`O1FEL=&5R("]&
-M;&%T941E8V]D92`O3&5N9W1H(#4V,"`P(%(@/CX@#7-T<F5A;0T*2(GEE#UO
-MW#`,AG<#_@\<.I#`6=&'+5D9B^:&3!V\-1V,G"YQX9P//E^2_OM2EAVD!1H@
-M4X9XL$5*I"4^?-5<YUEAA+;20R&%-V4-S;<\D]#<SN^G/$/XV(>:7WEFE'`5
+M/-=_X&E/?1`B#7%[*X/EPE,E92WSELJ'O[Z65!L-96YD
+7!E("]&;VYT(`TO4W5B='EP92`O5'EP93$@
+M#2].86UE("]&-"`-+T)A
+:7WEFE'`5
 MR'ES[]G0''S5Y)G3@L^HC1?.0&F=<#:>V%@80Y[M\^PK+U)*R)+_(B&-UB`I
 M=`7-`U=$2*G,7)QB'7.)?N`-EC=$A9:U%Q:_D\%Q.`XG\L)CV,$#J5J4V!)'
 ME?C<+?:9BKA\L:"]NR.EA<:1,PF'83';*<#C,DP9^G.`80^DF!E.(]5QZG!J
-MHZ/"VXD<I^V&0PJZ)&9L$+Y4;E,EE_,;:ZQ(AJSI9W,=>7^*'N!BO[\'I/^K
+MHZ/"VXD
+7^*'N!BO[\'I/^K
 M!UZUP$L'5"\=X+&A(B(8B),PH0C`XHQ'8Y\LV(=D!S@N,]WNDLE%4DIM*I6"
 M*T;RF?@H[][B<[$UP#7?_X^4JNN5%/HY]<56+Q'+39>V&.'I5UK6JY:W5&)(
-M4!2KJ=O!D91)LE11EH_)[(;S*2FP_YT\\$26S6ZZ_S<DI>JC\#WKMSNTXQJS
-MN%J2O'`*8\=JYE[IY\]))/1O7])_`!(K"@P-96YD<W1R96%M#65N9&]B:@TU
-M-C(@,"!O8FH--34V(`UE;F1O8FH--38S(#`@;V)J#3P\("]&:6QT97(@+T9L
-M871E1&5C;V1E("],96YG=&@@-38R(#`@4B`^/B`-<W1R96%M#0I(B=542X^;
-M0`R^(_$??!Q+979F2"`<^]B5VF/%K>F!A6&AS4($9!__OI[QD&2UIYZJYA(_
+M4!2KJ=O!D91)LE11EH_)[(;S*2FP_YT\\$26S6ZZ_S
+JC\#WKMSNTXQJS
+MN%J2O'`*8\=JYE[IY\]))/1O7])_`!(K"@P-96YD
+F!A6&AS4($9!__OI[QD&2UIYZJYA(_
 M/G^V/P-Q).#?_K#\%4>IEOD6%)1?XK\:R!??EG&4&ZD*T'DF\Q0V62[S#!(E
 MTPPF&T=M''TBT,U="AI*\K26:D/]%+`5RJDN(\`C#5%XZIL[$RI2:3*"\(A*
 M*J4I7CM3YV8'Y7,<_1"?.UO_1FT$H%:R$/?C2[#Z%G=KM!I>KS#':J+4@DDJ
@@ -11130,74 +11126,63 @@ M-?BS_!9'21"-RHO--C]+9[(@G=&;53H:C6K=_$N/KDO[RFZ0A,0`-/28B);S
 MAWYX>(-H1W:GX#_3\$9T:&B?OD8Z]$YT9S;&VHO@!;GM[&"DPN);+.]:6*:Q
 MP.05NN@,1T:QVS>K/[D+D'Y/[/;CB8T9G52'L*`$^(I&$;#QL]IAZ<_+7P:E
 M,[H1K\CF=:IW@M")_0&4EWZ;;2]/;>&E3U;;:S]9=WO:J\?$D,*S6]^(J7+;
-M:I)A'#@/(5/QGWU$7;AY83AY\]Y.'V"<KD\63C/YO,O-+K05M=>@L\V)J0\6
-M0KNA`::GU:G60L,(IZX1R^5DZZO%Z!GH9;CL</#!X`QA/WDMBTD+EH4?1J_%
-M__XQ_`-9,RWA#65N9'-T<F5A;0UE;F1O8FH--38T(#`@;V)J#3,W,2`-96YD
-M;V)J#34V-2`P(&]B:@T\/"`O1FEL=&5R("]&;&%T941E8V]D92`O3&5N9W1H
-M(#4V-"`P(%(@/CX@#7-T<F5A;0T*2(GED[UN@S`4A7<DOX-'7ZE8_@.;;JW2
-M#!TZ-&Q-!Y0X*14)$2&M\O:]!I+2H4.Z=`A(<&Q?<Z[.ATGTD)/(*BXR*G7"
-ME:0FM=RF-!9<I[3Q)%J1Z!Z+I.3"4(%WKX9-*N%6TWQ#(L&%D`G-%R2*3_J3
-M1"]LSN0<(%;"9=RP.X@-=VP#TO&4U8=M2W<-.%SQ'R`5OLOZL*^.O::[`J3@
-MEI7+6WC-']$FM)9IXV@^":/@)SHG1O_W@OR=1%IRFV!(H;E+&NHVCV!(\P<8
-MPHQAX,P91M`##-7#R`2;@@H(FL""W0#&RNAL\>:7A\J'U"6C=4.?_1K0Q;$2
+M:I)A'#@/(5/QGWU$7;AY83AY\]Y.'V"
+@L\V)J0\6
+M0KNA`::GU:G60L,(IZX1R^5DZZO%Z!GH9;CL#!X`QA/WDMBTD+EH4?1J_%
+M__XQ_`-9,RWA#65N9'-T
+:7A\J'U"6C=4.?_1K0Q;$2
 M8HTD]I#QA+7]H`&+*P6@B<,YR]6IK-[2&4B-#(?2HO_D,/*=J4?Z3S6_*K29
 MOIRLTV.PRGV##7H`JX=3YC#E*1B$5%;(2K)RNPXD;#A-37OL]55ECL^+,T_5
-M+YE+;<^9FU'F$_S]#2M:3U=EEWOEES^R#OU\`8UT]DP-96YD<W1R96%M#65N
-M9&]B:@TU-C8@,"!O8FH-/#P@#2]4>7!E("]%>'1'4W1A=&4@#2]302!F86QS
+M+YE+;<^9FU'F$_S]#2M:3U=EEWOEES^R#OU\`8UT]DP-96YD
+7!E("]%>'1'4W1A=&4@#2]302!F86QS
 M92`-+T]0(&9A;'-E(`TO2%0@+T1E9F%U;'0@#3X^(`UE;F1O8FH-,2`P(&]B
-M:@T\/"`-+U1Y<&4@+U!A9V4@#2]087)E;G0@-3`X(#`@4B`-+U)E<V]U<F-E
-M<R`R(#`@4B`-+T-O;G1E;G1S(#,@,"!2(`TO365D:6%";W@@6R`P(#`@-C$R
-M(#<Y,B!=(`TO0W)O<$)O>"!;(#`@,"`V,3(@-SDR(%T@#2]2;W1A=&4@,"`-
+M:@T\/"`-+U1Y<&4@+U!A9V4@#2]087)E;G0@-3`X(#`@4B`-+U)E
+"!;(#`@,"`V,3(@-SDR(%T@#2]2;W1A=&4@,"`-
 M/CX@#65N9&]B:@TR(#`@;V)J#3P\(`TO4')O8U-E="!;("]01$8@+U1E>'0@
 M+TEM86=E0R`O26UA9V5)(%T@#2]&;VYT(#P\("]&,2`U-#4@,"!2("]&,B`U
 M-#0@,"!2("]&-2`T-S,@,"!2("]&-B`T-S0@,"!2(#X^(`TO17AT1U-T871E
 M(#P\("]'4S$@-38V(#`@4B`^/B`-+T-O;&]R4W!A8V4@/#P@+T-3,R`T-S4@
-M,"!2("]#4S0@-#<V(#`@4B`^/B`-/CX@#65N9&]B:@TS(#`@;V)J#3P\("],
-M96YG=&@@,SDT,B`O1FEL=&5R("]&;&%T941E8V]D92`^/B`-<W1R96%M#0I(
-MB8Q7W6_;.!)_+]#_@0_W0!ULK4E]NF_9-LUM]Z[=2P(LBO90*!(=:^M*7DE.
-MFO_^YHN2["1%$2"FR)GA<#Y_\^OURQ>_O#7*J.O-RQ<F#]>I6L$?KZR-PB12
-M:1J%Z5I=?WOY8J5N@>'BRJC;_N6+Y2I<K8"UA`-8Q59=W[]\\4F?OP^6:9CK
-M\\N+C^HJ6.9AI,\#$\;Z[))/7O\K^-_U.V2S$;`M36@2`U>\84FKG(1^TK^]
+M,"!2("]#4S0@-#
+_O#7*J.O-RQ
+I6L$?KZR-PB12
+M:1J%Z5I=?WOY8J5N@>'BRJC;_N6+Y2I
+\84FKG(1^TK^]
 M?_T!./3E'Q\NSZ[/WS"7L:RD539=A>M,I38-LX@T/-')B$KOST"/1+\Y^^\K
 M=7X19!J^698)5S&+HY6-LC!.5+JRH4WXS:A03!*7?LW/#&)X4A/8T&C7W3ZH
-M*U<$("727;#$GW*[4($!#?5O3=EV^_;HM!B"#'Y<Q8HLH]#D<<ZVL)9L\4G;
-M?"4BWJ(=C6Z#59B`B'68Z2$`ID2KJZ*I'&_U*#O7ZD_'GX-P_XIVCX7[$)A(
-M[X)EC(K?H5*Q+KIJH:[HI!Z<<-G5BI6+PCA.,M(M-I'H]GO3?F?FNWH7H%N]
-MS(6Z=DV#LES?@R*PA7K!CU(1LV1K:UFV#?/H6#19.9I9/!*+?]9YFGP.P&Y6
-MJR0R2UJE22JB?GEKIU"VT=HH,)!=I<DDULS$^N!X!\J!]=$N1C=.??F"BR\+
-M!>\WWCMI&(%?U-*&JRPUD\!L)C`3@6^"!#U;=.J\04>LT><1;-WBXU/]P#\8
+M*U<$("727;#$GW*[4($!#?5O3=EV^_;HM!B"#'Y
+\WWCMI&(%?U-*&JRPUD\!L)C`3@6^"!#U;=.J\04>LT><1;-WBXU/]P#\8
 M,%VY55?;8D[DMBV?[_![K2O^0A,"20;+5]XK$/]K--TZ7T\JV4DCGY$?P3VI
-M;@^JZ+QO(2!!L(5535%K]6[WP!NJ;N[D*,#<'5PE3$.KA!ABSX+(@0@<A%6D
-MFTH50M?O7<ETHW#U+3`<"4CKAKJYE=O:C>J1+=7;P&JA!UM8M@32[/BVRLEA
-MK^1@@V0*,S'"3-1NQBWR_:.N@@@R@BR^&%-.##C:;A8>/CI^"R"8<I!N-"5Q
-M-R:N&LA1(/O&J2TOP4LKN&;G+58,ZL+A$DPV/#!-?\>_!Z=>MX>&/X9.3M7K
+M;@^JZ+QO(2!!L(5535%K]6[WP!NJ;N[D*,#<'5PE3$.KA!ABSX+(@0@
+J1+=7;P&JA!UM8M@32[/BVRLEA
+MK^1@@V0*,S'"3-1NQBWR_:.N@@@R@BR^&%-.##C:;A8>/CI^"R"8
+_!Z=>MX>&/X9.3M7K
 MW>%FH=81?YI,_;NF"YNOC]C?=+5\0,[]#A4.R=KOLL=LNYW<[XO1=;#,.)Y0
 MTT;NYTR%;9#4-FR@ZW^*59*969)9UA@0<$#[QIJ#)]:0/9PXDP$,GZR@!23Z
 M521?J@B_H6E3'2[4KBT+I`?+*31O#LIC1=1"0LI:'?XP\$T^4S,7-<\"+'P4
 MKE`7AZV;0A2SO(1P-!RE'*,YV@+",\!J"[8!+@JD3"_H0SWP%R33/8FN=SOP
 M/_*KHO_*AXZD0H`$7+.)\4X8Z0MJ;-MX$ZE]U_+AONU9%=%W2KO]GBDPM,$2
-MK4AS\"2_XJ>*MIUS_C7-H*!#/!OSJYEW5]Z[?^R*1K5<JS?29_XSE7)(L5L^
-M=)VJI(7PP<"M!XI!+^I#@C.K4#PP/?3:HTBY\?L%5A)0'J.T;>0>+*709.6#
+MK4AS\"2_XJ>*MIUS_C7-H*!#/!OSJYEW5]Z[?^R*1K5
+0>+*709.6#
 M*^="G7^X4)>.>TQ[Z$JZ6C3L%XIR%RL#MKTR),G`(N!#P9./`^AQ]I\D"^<*
 MU@+'Z=)COLQ+!`1SH1IW'Y@4[J02+@4?4GO3=N04@]6C/]RPC+J2?"W&&@`F
 MFYZ&E1L+/Q1MUX>^U272ZKQ#[?2,6>\TT53&T$A8,.$AHS4QEL2:GRVTY!P-
 MAYU&]5L^A9:!_DGTMMU5O$76B"$4)VJ)3RZ]&.5W0HHIQ_R<7?'(?2L4G2ID
 MZ6,VQIA%YT(?7>L+^J_($]AK2%C3D&G6?+USB@PN90/13>8;:$3E^9F[3[/B
-M-"#F$>%#XKX>MHJJ%?4\K+(Q50J#B7H.*WP4WD"]9PI6R7;@<<Q=0//'Q,<:
-MBMP]P[J"1%2TQVT2O2$WDGTAJ9EQPU^$,^;'CVY794LFL%I^H/KT0UM^)1K2
-MJ2A9Q'9,#_/CD&H/`_M@8#MCD2&SBA,:L;)7/O'!P<J'=AZ-1P3">!R?4"4I
+M-"#F$>%#XKX>MHJJ%?4\K+(Q50J#B7H.*WP4WD"]9PI6R7;@<
+!R?4"4I
 MX-SFF%AVV;.05G.5^($HX[X^C0F)RK)M?*RRI`GNU,U`/%BR(RV5%F.:">L1
 MU.'NEH@&``7"[?.F=/7=4=ZH?^0A;P#.KT][[0R^&8_?RJ*'^*$0SP"?,RPB
 MP(KZ'FF;\"T)F<7XCWX(F46ILWZ$:1WE4"YR=L1-AHNI`DGSV4KV1,?9@T//
 M@L.=!R!>/,@]XK/[FJ3N6#A87>(P\IJ!,O=069C*,[?WC6-/@G(W_%M7+*J0
 MYST\5\6?A.1306T/C*<%;9<,T/M0J8_8T^$2TE:KIO66%:T1ECBN=E0=40I6
-M1^2G)P!`[::>Y^]C0FY.:Q8`+AB+%PX"A6)@SX<'#_]EQ%L_]L:H2B<CA>O"
+M1^2G)P!`[::>Y^]C0FY.:Q8`+AB+%PX"A6)@SX<'#_]EQ%L_]L:H2B
+O"
 MI](VG053.N\$7+%2#1V)IA^I"QG@M7H$)I`:)05QSKE&3!:,CY$OZ9TPJ!)N
-M<JJ1"$FPMM<]HT\(]-D3I!26)4MOA7U?-`]RPR@=L-%WV82*50S.7X4MHF!^
-M&CV\K+VG!J-QRH(BSRIXG'UV5O"M+_C8GB)I3FM,8P!4=3_BVP`;RP"UG`;>
+M
+
 MBB>D"'U+[_;]VDB_!K^G6:Q6Y*3ES$M'3CJ#!O<=8@3*SMGCCI_9/!()S^)S
-M+$3\?&A[7#MC+::,R90,N`<&VLXC[6:`5/B3SP1VJP/;*QXW1`HDS*S<B<"*
-M</YT=^_=7;7E8;JEE]8+P9>ND^Q1&MMXYHIX+(2=XX#?<.I`KE"_Q]*!"]#]
+M+$3\?&A[7#MC+::,R90,N`<&VLXC[6:`5/B3SP1VJP/;*QXW1`HDS*S
+ND^Q1&MMXYHIX+(2=XX#?<.I`KE"_Q]*!"]#]
 M#/)F#U%SQSO%;DK)HQQ:4ZVDX+YE4H$BN/3>3LC;'7F"B?^6*VNO24]@G]Y+
 M0C@`1@TWQ%LS;.]$*&39G2>711N@M0;JC?B]&6N#YV&Q?U&^&J%GS>I!GG]4
 M*)XJ"#.CFGC>Q\V*(\'Z-AYQ?[.2Y]'8QE,N!N#$GOMXQ'T\'?OX2"&<#R+@
@@ -11206,18 +11191,134 @@ MW,(AO0SU/F[-3Z49O8D#?\N!+ZDF,$4F-N['L:\_V-P,+B3[Y/4Q#9F)S(HQ
 M`0]HR:(\CD:]9Q1!>TFZKL#FGX\)*BKM6'PA3#W,#V*V:S#;GJ6*@C]5&Q2;
 M%8&6DU6Y:WE!%2_7(WSRTTY*UI49-];?Z5'^+DSHY\:QIZ#0IF9@0ZW3Z*E%
 M,SIH",H(%O&X12!#O0/5QGH%<2`0R<.I'4.?BOP&9H'P]CVK[;C5Q/H&LH6Q
-M#)^\`SVL("B/A039?/F"\RWOK8STYR?&M7SVS%R>"5BD4S<MYKSN*@[PC/,,
-MO`M0"#6G"J3+04X[/NVI+1I//!"1QR4E/3JC6@8D!^;<04[RJNGYF77EF)#Z
-M&\PA;;-06Z8IB+=7PHPFSS7'!:!3LCE8[-`SG,MH..QX(,PP.@:1(TUY+<IP
-MUF54A9L?#&;0D*MVSVJA-%IL28DCB?9(HBS]B+F68*Y$Q6WA&WKE1#2+$.JZ
-M&<-ZV))Y!S1OKG_B-1-6J,0(-?/VQ8W8G[^Y=2":V;#M29+X6ESOG4UET@/_
-M$R.(5'Y!/_SL/.?''0_S97[I9<J;2J2?;Q^/:#+G@6KM@4\Z@LJX*KQ`AONI
-MKF3@PE36C+]Y@P.?4'YU.BK2%`#%VY5,X0<]N8VI(#9%T:+A@(RG@`3YXV@&
-MG0BE"8EKJEX-?E@=3JK_#!H:#PU1(**@._H-J"(Y]=G:Z!3VQ:%)8-R;P3[+
-M/OBDWWX(EBD8^/(4Z/V?_:II;ML&HF*_V*A5V[1->\61FI$YXA=(7NUF)NXE
+M#)^\`SVL("B/A039?/F"\RWOK8STYR?&M7SVS%R>"5BD4S
+\61FI$YXA=(7NUF)NXE
 M:>*9'GI2+#AFRE**1-O-?_:/Z`*[@$B9I*!Z>JMF+!'&`Y98+-Y[`.*89VG#
-MZ'7:4X@6PQ&3[I-<C_0\TD6@A\B]?=\3JM+`B]S.];0=KJ\/()-3M&BYJW9>
-M"RJ(!17/LA1;<\>1M8,[>W<ML,BN(2QM!^1OC4\E;N;"7!56;-':YE:!5LO&
-MPC`8S",%G&JCH,$ETQLLM):&2FG!#MP)[6Y#/6_CO8Q:D&>)*4(I:C'30E+0
-M\`IG?$A>C=PU[J:!OIMN1*T."U1UA9D@<Q+1Q2CSUC76+L?;%@86U24^*/H`
-MRMV*)8%(;+D2V]338X']EYC1'-4:_K<E)&B=X<#U:JMT@'PKR"MB*)#8;0
+MZ'7:4X@6PQ&3[I-
+
+M"RJ(!17/LA1;<\>1M8,[>W
+)*4(I:C'30E+0
+M\`IG?$A>C=PU[J:!OIMN1*T."U1UA9D@
+">OLJ&.4DXS'8*]%6B"N#I6J9(Q1<_Z
+M_6L"ZE"=-N(/;[L6=#$L%I)V
+,26"
+ML*)BQ55CYC4^;7`1&E4``
+];+AL]>5E"!6@G*JWT5JDG30&M76MT>2A4V"Z0NHSGUGE;-@(.P
+MRTR[J/XDI=I1$;CI70M4]88X<[U"T31N!D8-,]HM-11=U;J4NT0K2OR$)V%#
+M@3A7R0+->CV]>+\G5D'.-52AYBJ92J`4^"2&0'&2-AFQ4]*T851*1@[\ZA$J
+M%@*7
+3<<#>R:^"0:X"[F
+<)]LI$AAVC._OU^'GJSX.!\7W]-#Z+_3SJ>[F^3I46[.S/2O?@
+MP4X*FR=^GO8OJ:_[5.Y\X,]CJ/8YPZ<(2@[2ER9^G+"+OV3QOR-^R1O\DE.%
+MGTUA;F78@3`WI3K!Y-?9*Y]*_4+ZPA2]+;"=/.=0AQ^Q.6._;GQ]8#D=PI;)
+M![NY.UJA"
+RG%.=6LC.1;8.-2
+M('JS=Q3"#(HH9VD4R_PE?@JI@R68S'V8C+E*&J0_9AH=IGX2L4M(VNDYK.9W
+MQN'[!4OA^_35&
+VQKC76=:VQ]M#1T5`+K&L-=:VAKC74;4,'X&[K
+M,[3#[K^%W@]`.R8]!MJ-[43:0`>K9@\ZL!'=DQZ&[IJ'H(W6`6BS,;BLT1'0
+MO0B#4-<6>GC21B9MH?<'%V6P]P>2^FAH/])@+9"Z[FV03>@!))T\*R2>9SND
+MQEI!)5'9JL91LF4/??S'N)Q_!@#WAP]-#0IE;F1S=')E86T-96YD;V)J#30@
+M,"!O8FH-/#P@#2]4>7!E("]086=E(`TO4&%R96YT(#4P."`P(%(@#2]297-O
+M=7)C97,@-2`P(%(@#2]#;VYT96YT
+%P%.G?;[V:Y(QE;_80"!B1S>JJZGI\
+M]?7WVXL7+]]HI=7V]N*%UD$8JQ#^^,E$61`G*M,F2!.UO;]X$:H=;'A[K=7N
+M`&]!&(+8MKIXL7;/?UR\^)>W\>,@]CK?!-JSP^Y)7=O2!YV1-_AK_%?=K92O
+MPZ#PKKJJ'_;]R==R]#/X9VO_W]MWH#L*=![G"K[IQ!BU?8TV3!Z*BC?^.@=#
+MO1\&":@H@LP;?=B4>.JZ[&K+2P?4G7OJ5\NOH^S^WE^GX"SO/OHZ\EI_':/C
+M#^A4[)5#O5+7]*49K>PR8
+1;K"/Q[<>N?^3-#TWKIV#6Z5RIK>TZ
+MU&4/!W`$EJR*,A8NC)$3PY8DS]3:!*:($M)*$8XU1=L]4K!__H#GS[SM%9_D
+MU49]@)!`TC((@)_#TB_RNGDE,I=TVO?J)W^=@'>;C=O\\ULYX$+%#ZS_\N/F
+M!S'U_O7FXS6[F@8IGGMY?JX%,WF*C^3IME
+'3%`VGOR89OQ
+MU*=/GU;*X.?,"T/-1EZ^2:5$BZ!(J4+I(3-!6*C4@.<%UR<&9E&1VE7D%HP8
+M2#+XF7IJ]!.HKSM^L^KZKAR@X@K/WJ%A*(:6!+!T_=^3F4U-K`0HA\HL@/K$-Z>WVY!!DX$/0$=
+M#H'`;W`$[#0,0L:QBJEP46
+"!L*")S]3N0&C,1RP(R56=.Y8YHF=
+M`#00%17;PJ"1'.^J1*5LED.>+I:C%:?
+G%)LC3J>41GJ!
+MF:Z-WV$K(@(A*+0,:4^^T=P4T!.`./A)H^-O[3@^T>N!MSW0"V^&DL0RE;"\
+M@L,G7G_LZ-N($!O!9Z=Z(16#V5AT0`0-I'.EBDAGZCWB4^8U\+G[S_\P^WIH
+M'@#F?O37!44"/_6/+`BY000DF[%L8(ENH4)T'Z!EH3MAPRUV)14`^C2H\8ZE
+MG?.GWUM,DTZ@'J@0&PXE&]C1K]JSQS!WQ`C_DY8,O^C!E/+EZ<#??L:6C:5E
+M`:22`L"(Y+A-*9L05A9TO6T`SY/82
+X[D<"U.WZ>H@'@@`BSX^7!6LQ$!I6JJ5#Q6;;C;E7*2ZU^`=3SW"NB
+MG::!^1,VL3:S2CNHNIR]J56)`)DNMY1L!XK,8)&9B.N7MFMUX]9GVZ5STD1R
+MXMAY*58)670P+0.OX`>G3(Z/X%))3%930I$ZI','FF*>3B[ZFP]OU4
+Y7%WJ?!@"(K['YP\*HCH0J0HN3'6J%2KO=4U/(7_G6&
+MH-XS48;UOE2DG"1;I*(6?.`F]DZZ('4.#_<^]I^ME:CG$]RPE:9N2D:"1)10
+MST`818MRT3#>Z6&?CP=_"]35M%W.+-X#!W3C+I&6V/[]&V`H2<0F_
+K8;
+M5UB
+\1?27KL
+MP!R33OL6V505@_.]BR6]\0;%BD>8,GTE(>=IHYQO:NG^.,N[#(E8\[S;I]6S
+M\'OA\%<`8^;=YK1$@0`!/TF8E@!T(`W*0-6`]`3@]3#V^+]"C,CA.-F"KVC$
+M+>$K"9.(G".$(
+4#@*#8T.)U&`K
+MVRPTJK_A
+T0Z6=N1P
+MS_H'Q]3U.Y+8"@-8(MG+O?J\)]8+(@Q3\Z_HC"^S27!G#Q0J/(BDLYJ.\4S6
+MRNIW)]Y0J&E3/`48R@K3*JL[?'GR];(D'1&./*ZD4JQA##G=&WRT(B0JLIE!
+MNXW/IV>JK,KE"+GLY%]YMDV2F(G,EF)A$M>)PA0HKNJW$@.L`3'NY9U0AX
+M]L3?<(008/@A4=N;HT@"5B$(1S)#*=S:T1(COSQQ$--0`NX%TZ0K8%\I.Y[P
+M`@/YAM&XMT/K7AF)(7HLS1ZH&TNH*(,>IAK-47)`L=&](-WIG9-4T)T3'6*7
+M=W+&83YO67]F"5'/QR4>`0>]QTO)?%36,B)0?P66PRGZ4'H2?7`W)7=]@?V8
+MG4XFI^^)KK*W<%9T-R5W\3?XVB4@CA:4W:7ZGW[$L=)$L4`;4HL0XMB70XTN
+M>#AF(%5UXR._`A@>Z:$?#H1_ZHYWE=`+>.FA-=K"&QZ!PO$.$;2J:ED#"UMJ
+ME`B>V-"-N,%?&^R3@DES1(P=C(B57E;5.]G26:4GIA[A55,DSQR`0_1R.KH)
+M$$M$S>RXA`.N"7;Y<2!V'YVY=/JVD_YU,V"!*<\#MPP_:)B,2`FT@1O%9WA6
+M+X:LB&!M@-.69I;`73.V,FIE<'9.S=A4%.O$XR%/--\!M0@_3,)6E4`=Q3U'
+M0?8,QR>=@XAL)^LT,W8"N1.M0$N+\5&2S<^RYWQHD2C6.!!O.MF$WK<"2"=.
+MB:3K!N--+A`O4.H#*IFGP3.M"+A^$GG!OS^=@$50E=-1+<_/,9Z(T41YGI<%
+M`=I0LBU,A1O-DNN_),G+[$Y!_9-Y/:%()I]GBJMS`,X>P3)GL$P$+',&2X+*
+MG*&2$(TG0TR3(5_FND!H%)R.9=N.?@7X%NQKB7[18BJZ"4=D&I275=4CGZ?1
+MX"'6R_T!:ZE`&D[#YQ%OFF?W"(@A(&@!LXNO73FYZ.Z[.>T?`4=8MH(Z`@AM
+M;N2=KGC@`$ZVGI<`+
+[78N8%$[>"8IY?'4WPMQCQ=VH
+M%H=;7BYIJ('\EQBVG%G&S-G-)9X`E&73!DI=^N0O#.<]3>>"IS=4"F2V(#KO
+MKPM*JSFYV6J"V9#)D([I&D`R=+/-:?+P7$UG<7[MZ#.=JH"D)#2GQQ%O6J2A
+MQC%`JXZJ:\>&H`#CR-$AFHQXE973I8F<[A(,I5AMG24@BKQ'.*CHFDEZEFF]
+M9%8S?0S=;(<.9#J2
+PN`;"
+"R+O@RV%/Z[-LGS(\O$\S'2>6AA]UD,*U9BW5='
+M=#*2G'!CQM[(`G`5&^SMD99:'W&CQ0+,O2=:"L[3LFCA*)M;6!>3)Q!HX2_]
+M<1"NTM\"1T%Z@LP$>>$*@X'3YI;8'5SJQ)$6RK-CF::V0SDV?;=2=R4OJ6-7
+M=EA+X"=46B:!0^IX9(GV295[R-X#4IN[115#="'JPXY:M?YV&^F9>$]LK*S[
+M_7BNU.!E0I3NN`DF:W)9`_Q$3E[_E_&JZTW="*+OD?(?]A%+282_P+S>V[1J
+MJBI5;][:JG)@$]Q2H,:0\.\[Y\RLO1!Z6QZPO;LS.]]SQG0`6O,=IJ[X)%5"
+M_\FUS'1+`=SGXA=V4V-\ZL7!7FO,*/GH>>5YTTO=M(@@O#=K\GGV>K(+_JS,
+MGWU?N%`YFK4(ZC4_.TM3\>0]B^$ZH3Q'SHOS)2^#P_7<4G;%G\O-:D%=4TYD
+MV)$\>2(#'/$6'W`KPBZE)53=F>+X2E*".THN_FV]C1=RT$YZ\6AT2.UWW.S=
+M82.9RG;B?LVR_-O'G^517!HK66"J`8;W5JBW"4)'_]M$*O&A7@FV4&,`DTK*
+ME7%*2US,AF"SN!CWR_Q8DZ1#A)1#EF4?LDPFS6R(R\%):=5G&9P/*TVU*>7(
+MJP._;$N@1+-SC0D!,VUUP_9))&H`C3!&H(0S5@SB">"%!MI82QFV%DJ^\D3(
+M!1&7@I""$T/%GK(D96^<=1"7#T!4V7W6+Q^QS\X9V27*KK8S?N<(@\)R-Y35
+M%$5"J\/,K./"YQMB`I40JW>H15*OW1.[6SX*$DMQHIXJ0$.SM(R\+`A>\SIQ
+M9',X5?/<`6=&B63^KY9^`;`I\MJH"9!AZ$W:QQ6AU2?=NQ(Q4T#Z2N?)G$#'
+M4!S[SVSTK^C.D&&G5W1U!`D7RNH"WHM[9FZLZM8',6G#?!1NO%=25!.E9DGA
+M14KJYH%$0:;^FR9*C/`H(:>44-F:_ZFKM4D:6P2T%PWR?TVAJU\QR/KU%'3G
+M:5170GL$/:9*3%UFFXG91BU3T3+8IF4XG07+C%ECN;25MJG'?=M*[U!&G517
+M6(%'&F/>^K_W7&EPT*CDQDRT;JUOJCPK,T*E.!@RQ&B4=2$5]14$YP"SE),P
+M&*7A`IE$O!$-ITT570AH>#K
+4F`W-NYR:K>\/\-D4#`OV
+MKELZNGFQW`MLD'S5>-HG7Y$-CDM#]DE?2<286_E;2147:ZT3A6QUEZ281CN/
+ME057EPDZPRX!5@&)S'!*I+21>6RJTVTP>'7#.Z_S2:8@?,9V2OB#S9M(&%_K
+MAIZUBY7/*QD!_3`6.JC1)EH(!U$I^UR9;8P7*4S2;4^U>4\X@!Z!W7C$[K9;
+M-YNU+4;]-AN7:M[>2P%A;2421:U=\TRW`XF."6$[A3?<%O%V^[9?6R9:WF[9
+M2['BCOC@V3TW!9(L>4!RS+U1"2GFJY5@(C&"9,].T#MH"=A2K18]PV+D[*E7
+MB2NWXD(>4/DB#Z+TB`=5$%0!""Q!IGS.!1.KX6.]WL3BQ[K8P\1:+S[@A$(F
+MBG(6#38V(FFE"3.2<]^_))Q61(8,4(PYCV'#PE_9G+>>?!(Q"_.%Q#A22/\]
+M%5D3PR_`D^8JB.YF,21"0!!VX`A2`&<(H\J3,1
+8($GS2GY:7N2N
+M0".-'&W5SNHM>K7)L3&I#ERTKUAXU]]#JBV:*;AL=.$FFM-2&S<*FH['3T77
+M
+4PXA51:*4AM#X=57/W*'T70D(<`21L'QDBKN-8MM2.
+MZMTGFP=M]QN2-3R#^9`O&!(K&1%#U
+G\*4\IB\'!6V%4/
+M>Y0.M`@^/!WF?I??C
+)!&=T_P4#?75^E[D'4^L.)P3/WYM*Q^]']\MO8
+M+;#5.`39Y&X\
+"!;(#`@,"`V,3(@-SDR(%T@#2]#
+SNZNKJJG-.?;^\OOK+
+MWV(3F>7Z^JH*JMR$^..'),R#,C))&:2

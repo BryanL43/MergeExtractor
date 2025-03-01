@@ -1,6 +1,6 @@
-URL: https://www.sec.gov/Archives/edgar/data/1031107/000091205701522389/0000912057-01-522389.txt
+URL: https://www.sec.gov/Archives/edgar/data/1031107/000091205701524759/0000912057-01-524759.txt
 
-
+E DR
 		STREET 2:		5TH FL
 		CITY:			SAN DIEGO
 		STATE:			CA
@@ -14,21 +14,26 @@ URL: https://www.sec.gov/Archives/edgar/data/1031107/000091205701522389/00009120
 		STATE:			CA
 		ZIP:			92130
 
-S-4
+S-4/A
 
-a2052971zs-4.txt
+a2054757zs-4a.txt
 
-FORM S-4
+FORM S-4/A
 
-      AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON JULY 2, 2001
-                                                      REGISTRATION NO. 333-
+     AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON JULY 23, 2001
+
+                                                      REGISTRATION NO. 333-64458
+
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
                        SECURITIES AND EXCHANGE COMMISSION
                              WASHINGTON, D.C. 20549
+
                             ------------------------
 
+                                AMENDMENT NO. 1
+                                       TO
                                     FORM S-4
 
                              REGISTRATION STATEMENT
@@ -36,6 +41,7 @@ FORM S-4
                                      UNDER
 
                            THE SECURITIES ACT OF 1933
+
                             ------------------------
 
                             PEREGRINE SYSTEMS, INC.
@@ -59,6 +65,7 @@ FORM S-4
                                  (858) 481-5000
                (Name, address, including zip code, and telephone
                number, including area code, of agent for service)
+
                          ------------------------------
 
                                    COPIES TO:
@@ -79,6 +86,7 @@ Wilson Sonsini Goodrich &    Peregrine Systems, Inc.        Remedy Corporation  
         APPROXIMATE DATE OF COMMENCEMENT OF PROPOSED SALE TO THE PUBLIC:
 UPON CONSUMMATION OF THE MERGER OF A SUBSIDIARY OF PEREGRINE SYSTEMS, INC. WITH
                     REMEDY CORPORATION AS DESCRIBED HEREIN.
+
                          ------------------------------
 
     If the securities being registered on this Form are to be offered in
@@ -94,27 +102,7 @@ registration statement for the same offering. / /
 under the Securities Act, check the following box and list the Securities Act
 registration statement number of the earlier effective registration statement
 for the same offering. / /
-                         ------------------------------
 
-                        CALCULATION OF REGISTRATION FEE
-
-                                                                  PROPOSED MAXIMUM     PROPOSED MAXIMUM
-          TITLE OF EACH CLASS OF               AMOUNT TO BE        OFFERING PRICE          AGGREGATE            AMOUNT OF
-       SECURITIES TO BE REGISTERED             REGISTERED(1)        PER SHARE(2)       OFFERING PRICE(2)    REGISTRATION FEE
-
-Common Stock, $0.001 par value(1).........   34,890,516 shares         $22.91           $929,488,992.42        $232,372.25
-
-(1) Represents the number of shares of the Common Stock of the Registrant which
-    may be issued to securityholders of Remedy Corporation, a Delaware
-    corporation, pursuant to the transactions described in this registration
-    statement.
-
-(2) Pursuant to Rule 457(f)(1) and Rule 457(c) under the Securities Act of 1933,
-    as amended, the registration fee has been calculated based on the average of
-    the high and low prices per share of Remedy Corporation's common stock on
-    June 26, 2001 as reported on the Nasdaq National Market, less the amount of
-    cash which may be paid to securityholders of Remedy Corporation pursuant to
-    the transactions described in this registration statement.
                          ------------------------------
 
     THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR
@@ -128,11 +116,9 @@ MAY DETERMINE.
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
-                   SUBJECT TO COMPLETION, DATED JULY 2, 2001
-
                                                                    [REMEDY LOGO]
 
-                                           , 2001
+                                 July 23, 2001
 
 Dear Remedy Corporation Stockholder:
 
@@ -157,19 +143,18 @@ each share of Remedy common stock receives in the merger. Peregrine expects to
 issue approximately 28 million shares of its common stock in the merger, before
 taking into account Peregrine common stock to be issued upon exercise of assumed
 Remedy options. Peregrine's common stock is traded on the Nasdaq National Market
-under the trading symbol "PRGN." On June 29, 2001, the closing price of
-Peregrine's common stock was $29.00 per share. We encourage you to obtain more
+under the trading symbol "PRGN." On July 20, 2001, the closing price of
+Peregrine's common stock was $22.66 per share. We encourage you to obtain more
 recent quotations.
 
     You are cordially invited to attend a special meeting of Remedy's
-stockholders to be held on             , 2001 at 9:00 a.m. (local time) at
-Remedy's headquarters located at 1585 Charleston Road, Mountain View, California
-94043. Only stockholders who held shares of Remedy at the close of business on
-            , 2001 will be entitled to vote at this special meeting. At this
-meeting, you will be asked to vote upon the merger agreement and the merger. The
-matters to be submitted for consideration at the special meeting are described
-in more detail in the attached notice of special meeting and in the proxy
-statement/ prospectus.
+stockholders to be held on August 27, 2001 at 9:00 a.m. (local time) at Remedy's
+headquarters located at 1585 Charleston Road, Mountain View, California 94043.
+Only stockholders who held shares of Remedy at the close of business on July 9,
+2001 will be entitled to vote at this special meeting. At this meeting, you will
+be asked to vote upon the merger agreement and the merger. The matters to be
+submitted for consideration at the special meeting are described in more detail
+in the attached notice of special meeting and in the proxy statement/prospectus.
 
     THE BOARD OF DIRECTORS OF REMEDY HAS UNANIMOUSLY DETERMINED THAT THE MERGER
 AGREEMENT AND THE MERGER ARE FAIR TO, AND IN THE BEST INTERESTS OF, REMEDY AND
@@ -187,7 +172,6 @@ VERY IMPORTANT. We appreciate your consideration of the merger.
                                                  Sincerely,
 
                                                  /s/ Lawrence L. Garlick
-
                                                  Lawrence L. Garlick
                                                  CHAIRMAN AND CHIEF EXECUTIVE OFFICER
                                                  Remedy Corporation
@@ -196,9 +180,9 @@ VERY IMPORTANT. We appreciate your consideration of the merger.
 charge by following the instructions in the section entitled "Where You Can Find
 More Information" on page 110 of this proxy statement/prospectus.
 
-    THE DATE OF THIS PROXY STATEMENT/PROSPECTUS IS             , 2001, AND IT IS
+    THE DATE OF THIS PROXY STATEMENT/PROSPECTUS IS JULY 23, 2001, AND IT IS
 FIRST BEING MAILED OR OTHERWISE DELIVERED TO HOLDERS OF REMEDY COMMON STOCK ON
-OR ABOUT             , 2001.
+OR ABOUT JULY 26, 2001.
 
     NEITHER THE SECURITIES AND EXCHANGE COMMISSION NOR ANY STATE SECURITIES
 COMMISSION HAS APPROVED OR DISAPPROVED OF THE SHARES OF PEREGRINE COMMON STOCK
@@ -209,23 +193,23 @@ THE CONTRARY IS A CRIMINAL OFFENSE.
                                  [REMEDY LOGO]
 
                    NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
-                         TO BE HELD             , 2001
+                           TO BE HELD AUGUST 27, 2001
 
     NOTICE IS HEREBY GIVEN that a special meeting of the stockholders of Remedy
 Corporation will be held at Remedy's headquarters located at 1585 Charleston
-Road, Mountain View, California 94043 on             , 2001 at 9:00 a.m., local
+Road, Mountain View, California 94043 on August 27, 2001 at 9:00 a.m., local
 time, for the following purposes:
 
     1.  To consider and vote on proposals:
 
        - to approve and adopt the Agreement and Plan of Merger and
          Reorganization, dated as of June 10, 2001, by and among Peregrine
-         Systems, Inc., Rose Acquisition Corporation and Remedy Corporation. A
-         copy of the merger agreement is attached as Annex A to the accompanying
-         proxy statement/prospectus; and
+         Systems, Inc., Rose Acquisition Corporation, a wholly-owned subsidiary
+         of Peregrine, and Remedy Corporation. A copy of the merger agreement is
+         attached as Annex A to the accompanying proxy statement/prospectus; and
 
        - to approve the merger of Remedy Corporation and Rose Acquisition
-         Corporation, a wholly-owned subsidiary of Peregrine, whereby holders of
+         Corporation (or if applicable, Peregrine) in which holders of
          outstanding shares of Remedy common stock will receive 0.9065 of a
          share of Peregrine common stock and $9.00 in cash in exchange for each
          share of Remedy common stock they own.
@@ -238,7 +222,7 @@ the merger agreement and other related matters. We encourage you to read it
 carefully.
 
     Only stockholders who held shares of Remedy common stock at the close of
-business on             , 2001 are entitled to vote at the special meeting.
+business on July 9, 2001 are entitled to vote at the special meeting.
 
     THE BOARD OF DIRECTORS OF REMEDY UNANIMOUSLY RECOMMENDS THAT HOLDERS OF
 REMEDY'S COMMON STOCK VOTE FOR THE APPROVAL AND ADOPTION OF THE MERGER AGREEMENT
@@ -256,7 +240,7 @@ ENCLOSED PROXY CARD AND RETURN IT PROMPTLY IN THE ENVELOPE PROVIDED.
                                                CHAIRMAN AND CHIEF EXECUTIVE OFFICER
 
 Mountain View, California
-            , 2001
+July 23, 2001
 
     TO ENSURE THAT YOUR SHARES ARE REPRESENTED AT THE MEETING, PLEASE SUBMIT
 YOUR PROXY ACCORDING TO THE INSTRUCTIONS ON THE ATTACHED PROXY CARD, WHETHER OR
@@ -282,13 +266,13 @@ San Diego, California 92130                Mountain View, California 94043
 Attn: Investor Relations                   Attn: Investor Relations
 (858) 481-5000                             (650) 903-5200
 
-    IF YOU WOULD LIKE TO REQUEST DOCUMENTS FROM PEREGRINE OR REMEDY, PLEASE DO
-SO BY FIVE DAYS BEFORE THE DATE OF REMEDY'S STOCKHOLDER MEETING, OR
-2001, IN ORDER TO RECEIVE THEM BEFORE THE DATE OF THE SPECIAL MEETING.
+    IF YOU WOULD LIKE TO RECEIVE COPIES OF ANY OF THE PEREGRINE OR REMEDY
+DOCUMENTS REFERRED TO ABOVE BEFORE REMEDY'S SPECIAL MEETING, YOU SHOULD MAKE A
+REQUEST BY AUGUST 22, 2001, TO ENSURE TIMELY DELIVERY OF THE DOCUMENTS.
 
     For a more detailed discussion of the information incorporated into this
 proxy statement/ prospectus and where you can find additional information, see
-"Where You Can Find More Information" on page 110.
+"Where You Can Find More Information" on page 109.
 
                                        i
 
@@ -306,110 +290,109 @@ SUMMARY OF THE PROXY
 RISK FACTORS...........................     13
   Risks relating to the merger.........     13
   Risks relating to Peregrine..........     15
-  Risks relating to Remedy.............     31
+  Risks relating to Remedy.............     30
 SELECTED HISTORICAL AND PRO FORMA
-  FINANCIAL DATA.......................     38
+  FINANCIAL DATA.......................     37
   Peregrine selected consolidated
-    historical financial information...     38
+    historical financial information...     37
   Remedy selected consolidated
     historical financial information...     38
   Selected unaudited pro forma combined
     condensed financial information....     39
-  Comparative per share data...........     40
+  Comparative per share data...........     39
 MARKET PRICE AND DIVIDEND
-  INFORMATION..........................     42
-  Peregrine common stock...............     42
-  Remedy common stock..................     42
-  Recent share prices..................     43
-  Stockholders.........................     43
-  Dividends............................     43
-THE REMEDY SPECIAL MEETING.............     44
+  INFORMATION..........................     41
+  Peregrine common stock...............     41
+  Remedy common stock..................     41
+  Recent share prices..................     42
+  Stockholders.........................     42
+  Dividends............................     42
+THE REMEDY SPECIAL MEETING.............     43
   Date, time and place of the special
-    meeting............................     44
+    meeting............................     43
   Purpose of the Remedy special
-    meeting............................     44
+    meeting............................     43
   Recommendation of the board of
-    directors..........................     44
-  Record dates and outstanding
-    shares.............................     44
-  Vote and quorum required.............     44
+    directors..........................     43
+  Record date and outstanding shares...     43
+  Vote and quorum required.............     43
   Treatment of abstentions and broker
-    non-votes..........................     45
-  Expenses of proxy solicitation.......     45
-  Methods of voting....................     45
-  Revoking your proxy..................     46
-THE MERGER.............................     47
-  Background of the merger.............     47
-  Peregrine's reasons for the merger...     49
-  Remedy's reasons for the merger......     51
+    non-votes..........................     44
+  Expenses of proxy solicitation.......     44
+  Methods of voting....................     44
+  Revoking your proxy..................     45
+THE MERGER.............................     46
+  Background of the merger.............     46
+  Peregrine's reasons for the merger...     48
+  Remedy's reasons for the merger......     50
   Recommendation of Remedy's board of
-    directors..........................     53
+    directors..........................     52
   Opinion of Remedy's financial
-    advisor............................     53
-  Accounting treatment.................     61
+    advisor............................     52
+  Accounting treatment.................     60
   Material United States federal income
-    tax consequences of the merger.....     61
+    tax consequences of the merger.....     60
 
                                            PAGE
                                          --------
 
   Delisting and deregistration of
-    Remedy common stock................     64
+    Remedy common stock................     63
   Listing of Peregrine common stock to
-    be issued in the merger............     64
+    be issued in the merger............     63
   Conduct of the business if the merger
-    is not completed...................     65
-  Regulatory compliance................     65
-  Appraisal rights.....................     65
+    is not completed...................     64
+  Regulatory compliance................     64
+  Appraisal rights.....................     64
   Federal securities laws consequences;
-    stock transfer restrictions........     66
+    stock transfer restrictions........     65
   Interests of Remedy's directors and
-    executive officers.................     66
-THE MERGER AGREEMENT...................     69
-  Structure of the merger..............     69
+    executive officers.................     65
+THE MERGER AGREEMENT...................     68
+  Structure of the merger..............     68
   Completion and effectiveness of the
-    merger.............................     69
-  Conversion of Remedy common stock....     69
+    merger.............................     68
+  Conversion of Remedy common stock....     68
   Exchange of Remedy certificates for
-    cash and stock consideration.......     70
+    cash and stock consideration.......     69
   Treatment of Remedy stock options and
     purchase rights under the Remedy
-    employee stock purchase plan.......     71
+    employee stock purchase plan.......     70
   Representations and warranties of
-    Remedy.............................     72
+    Remedy.............................     71
   Representations and warranties of
     Peregrine and Rose Acquisition
-    Corporation........................     73
+    Corporation........................     72
   Remedy's conduct of business pending
-    the completion of the merger.......     74
+    the completion of the merger.......     73
   Peregrine's conduct of business
     pending the completion of the
-    merger.............................     75
+    merger.............................     74
   Restrictions on solicitation of
-    alternative acquisition proposals
-    by Remedy..........................     76
+    alternative transactions by
+    Remedy.............................     75
   Obligation of Remedy's board of
     directors to recommend approval of
     the merger agreement and the
-    merger.............................     78
+    merger.............................     77
   Right to designate Peregrine
-    director...........................     78
-  Amendment to Remedy rights plan......     78
+    director...........................     77
+  Amendment to Remedy rights plan......     77
   Conditions to completion of the
-    merger.............................     79
+    merger.............................     78
   Termination of the merger
-    agreement..........................     80
-  Payment of termination fee...........     82
+    agreement..........................     79
+  Payment of termination fee...........     81
   Extension, waiver and amendment of
-    the merger agreement...............     83
+    the merger agreement...............     82
   Definition of material adverse
-    effect.............................     83
-  Expenses.............................     84
-AGREEMENTS RELATED TO THE MERGER.......     85
+    effect.............................     82
+  Expenses.............................     83
+AGREEMENTS RELATED TO THE MERGER.......     84
   Remedy stockholders' voting
-    agreement..........................     85
-  Affiliate agreements.................     86
-BUSINESS OF PEREGRINE..................     87
+    agreement..........................     84
+  Affiliate agreements.................     85
+BUSINESS OF PEREGRINE..................     86
 
                                        ii
 
@@ -419,52 +402,53 @@ BUSINESS OF PEREGRINE..................     87
                                            PAGE
                                          --------
 
-BUSINESS OF REMEDY.....................     89
+BUSINESS OF REMEDY.....................     88
 PEREGRINE SELECTED CONSOLIDATED
-  FINANCIAL DATA.......................     90
+  FINANCIAL DATA.......................     89
 REMEDY SELECTED CONSOLIDATED FINANCIAL
-  DATA.................................     91
+  DATA.................................     90
 UNAUDITED PRO FORMA COMBINED CONDENSED
-  FINANCIAL STATEMENTS.................     92
+  FINANCIAL STATEMENTS.................     91
 DESCRIPTION OF PEREGRINE CAPITAL
-  STOCK................................     97
-  General..............................     97
-  Common stock.........................     97
-  Preferred stock......................     97
+  STOCK................................     96
+  General..............................     96
+  Common stock.........................     96
+  Preferred stock......................     96
+  Antitakeover effects of provisions of
+    certificate of incorporation and
+    bylaws.............................     97
+DESCRIPTION OF REMEDY CAPITAL STOCK....     98
+  General..............................     98
+  Preferred stock......................     98
   Antitakeover effects of provisions of
     certificate of incorporation and
     bylaws.............................     98
-DESCRIPTION OF REMEDY CAPITAL STOCK....     99
-  General..............................     99
-  Preferred stock......................     99
-  Antitakeover effects of provisions of
-    certificate of incorporation and
-    bylaws.............................     99
 COMPARISON OF RIGHTS OF HOLDERS OF
   REMEDY COMMON STOCK AND PEREGRINE
-  COMMON STOCK.........................    101
-APPRAISAL RIGHTS.......................    106
-  General requirements.................    106
+  COMMON STOCK.........................    100
+APPRAISAL RIGHTS.......................    105
+  General requirements.................    105
   Requirements for written demand for
-    appraisal..........................    106
+    appraisal..........................    105
 
                                            PAGE
                                          --------
 
-  Written notice.......................    107
-  Petition with the Chancery Court.....    107
-  Withdrawal of demand.................    107
+  Written notice.......................    106
+  Petition with the Chancery Court.....    106
+  Withdrawal of demand.................    106
   Request for appraisal rights
-    statement..........................    107
-  Chancery court procedures............    107
-  Appraisal of chancery shares.........    108
+    statement..........................    106
+  Chancery Court procedures............    106
+  Chancery Court appraisal of Remedy
+    shares.............................    107
   Costs and expenses of appraisal
-    proceeding.........................    108
-  Loss of stockholder's rights.........    108
-EXPERTS................................    109
-LEGAL MATTERS..........................    109
-REMEDY STOCKHOLDER PROPOSALS...........    109
-WHERE YOU CAN FIND MORE INFORMATION....    110
+    proceeding.........................    107
+  Loss of stockholder's rights.........    107
+EXPERTS................................    108
+LEGAL MATTERS..........................    108
+REMEDY STOCKHOLDER PROPOSALS...........    108
+WHERE YOU CAN FIND MORE INFORMATION....    109
 
 Annexes
 
@@ -486,39 +470,39 @@ Annex E  Section 262 of the Delaware
 THE SPECIAL MEETING, THE MERGER, AND THE EFFECT OF THE MERGER ON HOLDERS OF
 REMEDY'S COMMON STOCK. THIS SECTION PROVIDES ONLY SUMMARY INFORMATION, HOWEVER.
 FOR A MORE COMPLETE RESPONSE TO THESE QUESTIONS AND FOR ADDITIONAL INFORMATION,
-PLEASE REFER TO THE CROSS-REFERENCED PAGE FOR EACH QUESTION.
+PLEASE REFER TO THE CROSS-REFERENCED PAGES IN THIS PROXY STATEMENT/PROSPECTUS.
 
 Q:  WHAT IS THE PROPOSED MERGER TRANSACTION?
-    (SEE PAGE 47)
+    (SEE PAGE 46)
 
     A: The proposed merger transaction is to combine the businesses of Peregrine
         and Remedy. To combine the companies, Remedy will merge into a
         subsidiary of Peregrine. For a more complete description of the merger,
-        see the section entitled "The Merger" on page 47.
+        see the section entitled "The Merger" on page 46.
 
-Q:  WHY ARE PEREGRINE AND REMEDY PROPOSING THE MERGER? (SEE PAGES 49 AND 51)
+Q:  WHY ARE PEREGRINE AND REMEDY PROPOSING THE MERGER? (SEE PAGES 48 AND 50)
 
     A: Peregrine and Remedy are proposing the merger because they believe the
         combined company will be well positioned to serve a broader range of
         customers with an expanded line of products and development
         environments. In particular, both companies believe that Peregrine's
-        network management solutions for large enterprises for use throughout
-        the organization complement Remedy's network management solutions, which
-        have historically focused on smaller and medium-sized businesses and on
-        departments or divisions of large organizations. A more complete
-        discussion of the companies' respective reasons for proposing the merger
-        is contained under the captions "Peregrine's reasons for the merger" on
-        page 49 and "Remedy's reasons for the merger" on page 51.
+        network management solutions for large enterprises complement Remedy's
+        network management solutions, which have historically focused on smaller
+        and medium-sized businesses and on departments or divisions of large
+        organizations. A more complete discussion of the companies' respective
+        reasons for proposing the merger is contained under the captions
+        "Peregrine's reasons for the merger" on page 48 and "Remedy's reasons
+        for the merger" on page 50.
 
 Q:  WHAT PERCENTAGE OF PEREGRINE WILL THE FORMER REMEDY STOCKHOLDERS AND CURRENT
     PEREGRINE STOCKHOLDERS OWN IMMEDIATELY FOLLOWING THE MERGER?
 
-    A: Based on the outstanding number of shares of Peregrine's common stock as
-        of June 1, 2001 and Remedy's common stock as of June 7, 2001 and
-        excluding options to purchase either company's common stock, the former
-        stockholders of Remedy and the current stockholders of Peregrine will
-        have approximately the following aggregate ownership interests in
-        Peregrine common stock immediately following the merger:
+    A: Based on the outstanding number of shares of Peregrine's common stock and
+        Remedy's common stock as of July 9, 2001 and excluding options to
+        purchase either company's common stock, the former stockholders of
+        Remedy and the current stockholders of Peregrine will have approximately
+        the following aggregate ownership interests in Peregrine common stock
+        immediately following the merger:
 
                                     POST-MERGER AGGREGATE
                                     OWNERSHIP INTEREST IN
@@ -531,7 +515,7 @@ Q:  WHAT PERCENTAGE OF PEREGRINE WILL THE FORMER REMEDY STOCKHOLDERS AND CURRENT
        stockholders................         85.3
 
 Q:  WHAT WILL A REMEDY STOCKHOLDER RECEIVE IN EXCHANGE FOR REMEDY COMMON STOCK
-    IN THE MERGER? (SEE PAGE 69)
+    IN THE MERGER? (SEE PAGE 68)
 
     A: If the merger is completed, Remedy stockholders will receive, in exchange
         for each outstanding share of Remedy common stock, $9.00 in cash and
@@ -550,19 +534,19 @@ Q:  WHAT WILL A REMEDY STOCKHOLDER RECEIVE IN EXCHANGE FOR REMEDY COMMON STOCK
         legal document that sets forth the parties' rights.
 
 Q:  HOW WILL THE MERGER AFFECT OPTIONS TO ACQUIRE REMEDY COMMON STOCK? (SEE
-    PAGE 71)
+    PAGE 70)
 
     A: Options to purchase shares of Remedy's common stock will be converted
-        into
+        into options to purchase shares of
 
-        options to purchase shares of Peregrine's common stock after completion
-        of the merger. The number of shares covered by these options will be
-        adjusted based on the value of Peregrine common stock and cash each
-        share of Remedy common stock receives in the merger. The applicable
-        exercise price will also be correspondingly adjusted.
+        Peregrine's common stock after completion of the merger. The number of
+        shares covered by these options will be adjusted based on the value of
+        Peregrine common stock and cash each share of Remedy common stock
+        receives in the merger. The applicable exercise price will also be
+        correspondingly adjusted.
 
 Q:  WILL REMEDY STOCKHOLDERS BE ABLE TO TRADE THE PEREGRINE COMMON STOCK THAT
-    THEY RECEIVE IN THE MERGER? (SEE PAGE 66)
+    THEY RECEIVE IN THE MERGER? (SEE PAGE 65)
 
     A: Yes. However, certain persons who are deemed affiliates of Remedy will be
         required to comply with Rule 145 under the Securities Act of 1933 before
@@ -570,7 +554,7 @@ Q:  WILL REMEDY STOCKHOLDERS BE ABLE TO TRADE THE PEREGRINE COMMON STOCK THAT
         merger. Peregrine's common stock is listed on the Nasdaq National Market
         under the symbol "PRGN."
 
-Q:  WHAT STOCKHOLDER APPROVALS ARE NEEDED TO COMPLETE THE MERGER? (SEE PAGE 44)
+Q:  WHAT STOCKHOLDER APPROVALS ARE NEEDED TO COMPLETE THE MERGER? (SEE PAGE 43)
 
     A: A majority of the outstanding shares of Remedy's common stock as of the
         record date, voting in person or by proxy, must approve and adopt the
@@ -581,7 +565,7 @@ Q:  WHAT STOCKHOLDER APPROVALS ARE NEEDED TO COMPLETE THE MERGER? (SEE PAGE 44)
 
 Q:  DOES THE BOARD OF DIRECTORS OF REMEDY RECOMMEND VOTING IN FAVOR OF APPROVAL
     AND ADOPTION OF THE MERGER AGREEMENT AND APPROVAL OF THE MERGER? (SEE PAGE
-    44)
+    43)
 
     A: Yes. After careful consideration, Remedy's board of directors unanimously
         recommends that Remedy's stockholders vote in favor of the approval and
@@ -593,7 +577,7 @@ Q:  ARE THERE RISKS I SHOULD CONSIDER IN DECIDING WHETHER TO VOTE FOR THE
     A: Yes. In evaluating the merger, you should carefully consider the factors
         discussed in the section entitled "Risk Factors" beginning on page 13.
 
-Q:  WHAT DO I NEED TO DO NOW? (SEE PAGE 44)
+Q:  WHAT DO I NEED TO DO NOW? (SEE PAGE 43)
 
     A: After carefully reading and considering the information contained in and
         incorporated into this proxy statement/ prospectus, please submit your
@@ -614,7 +598,7 @@ Q:  CAN I SUBMIT MY PROXY BY TELEPHONE OR OVER THE INTERNET? (SEE PAGE 44)
         will not be able to vote by telephone or over the Internet.
 
 Q:  IF MY SHARES ARE HELD IN "STREET NAME" BY MY BANK OR BROKER, WILL MY BANK OR
-    BROKER VOTE MY SHARES FOR ME? (SEE PAGE 45)
+    BROKER VOTE MY SHARES FOR ME? (SEE PAGE 44)
 
     A: Your bank or broker will vote your shares only if you provide
         instructions on how to vote by following the information provided to
@@ -633,7 +617,7 @@ Q:  IF MY SHARES ARE HELD IN "STREET NAME" BY MY BANK OR BROKER, WILL MY BANK OR
         and approval of the merger agreement and against approval of the merger.
 
 Q:  WHAT DO I DO IF I WANT TO CHANGE MY VOTE AFTER I HAVE SUBMITTED MY PROXY?
-    (SEE PAGE 46)
+    (SEE PAGE 45)
 
     A: You may change your vote at any time before your proxy is voted at your
         special meeting. There are three ways for you to do this:
@@ -651,7 +635,7 @@ Q:  WHAT DO I DO IF I WANT TO CHANGE MY VOTE AFTER I HAVE SUBMITTED MY PROXY?
         your bank's or broker's instructions to change your vote.
 
 Q:  WHAT HAPPENS IF A REMEDY STOCKHOLDER DOESN'T VOTE, SUBMITS AN INCOMPLETE
-    PROXY, OR ABSTAINS FROM VOTING? (SEE PAGE 45)
+    PROXY, OR ABSTAINS FROM VOTING? (SEE PAGE 44)
 
     A: If you do not submit a proxy or attend the special meeting and vote in
         person, it will have the same effect as a vote against adoption and
@@ -669,35 +653,32 @@ Q:  WHEN AND WHERE IS THE REMEDY SPECIAL MEETING?
 
     A: The Remedy special meeting will take place at Remedy's headquarters
         located at 1585 Charleston Road, Mountain View, California 94043 on
-                , 2001 at 9:00 a.m., local time.
+        August 27, 2001 at 9:00 a.m., local time.
 
-Q:  WHEN DO YOU EXPECT THE MERGER TO BE COMPLETED? (SEE PAGE 69)
+Q:  WHEN DO YOU EXPECT THE MERGER TO BE COMPLETED? (SEE PAGE 68)
 
     A: Peregrine and Remedy are working to complete the merger as quickly as
         possible. In addition to receiving the required approvals from holders
         of Remedy's common stock, Peregrine and Remedy must also receive
-        clearance for the merger under the Hart-Scott-Rodino Antitrust
-        Improvements Act and under applicable foreign antitrust laws. Peregrine
-        and Remedy hope to complete the merger before September 30, 2001.
+        clearance for the merger under applicable foreign antitrust laws.
+        Peregrine and Remedy hope to complete the merger before August 31, 2001.
 
 Q:  SHOULD REMEDY STOCKHOLDERS SEND IN THEIR STOCK CERTIFICATES NOW? (SEE
-    PAGE 70)
+    PAGE 69)
 
     A: No. After the merger is completed, Peregrine will send you written
         instructions for exchanging your Remedy stock certificates for Peregrine
         stock certificates.
 
-Q:  WHAT ARE THE TAX CONSEQUENCES OF THE MERGER TO ME? (SEE PAGE 61)
+Q:  WHAT ARE THE TAX CONSEQUENCES OF THE MERGER TO ME? (SEE PAGE 60)
 
     A: Peregrine and Remedy each expect the merger to qualify as a
         reorganization for U.S. federal income tax purposes. If the merger
         qualifies as a reorganization, Remedy stockholders will only recognize
         gain, if any, for federal income tax purposes, with respect to the cash
         they receive in the merger. In addition, Remedy's stockholders will
-        recognize gain or loss on any fractional shares of
-
-        Peregrine common stock for which cash is received in lieu of a
-        fractional share.
+        recognize gain or loss on any fractional shares of Peregrine common
+        stock for which cash is received in lieu of a fractional share.
 
         Please carefully review the information under "Material United States
         federal income tax consequences of the merger" for a description of the
@@ -706,14 +687,14 @@ Q:  WHAT ARE THE TAX CONSEQUENCES OF THE MERGER TO ME? (SEE PAGE 61)
         Please consult your tax advisors for a full understanding of the tax
         consequences of the merger to you.
 
-Q:  AM I ENTITLED TO APPRAISAL RIGHTS? (SEE PAGE 65)
+Q:  AM I ENTITLED TO APPRAISAL RIGHTS? (SEE PAGES 64 AND 105)
 
     A: Yes. Under Delaware law, because a portion of the merger consideration is
         being paid in cash, holders of Remedy common stock may exercise
         appraisal rights in connection with the merger.
 
 Q:  WILL THE RIGHTS OF A REMEDY STOCKHOLDER CHANGE AS A RESULT OF THE MERGER?
-    (SEE PAGE 101)
+    (SEE PAGE 100)
 
     A: Yes. Remedy stockholder rights are currently governed by Remedy's
         certificate of incorporation, rights agreement and bylaws, while
@@ -729,7 +710,7 @@ Q:  WHOM SHOULD I CALL WITH QUESTIONS? (SEE PAGE 110)
         additional information about Peregrine or Remedy from documents filed
         with the Securities and Exchange Commission by following the
         instructions in the section entitled "Where You Can Find More
-        Information" on page 110.
+        Information" on page 109.
 
                             ------------------------
 
@@ -744,8 +725,8 @@ IMPORTANT TO YOU. FOR A MORE COMPLETE UNDERSTANDING OF THE MERGER, YOU SHOULD
 CAREFULLY READ THE REST OF THIS PROXY STATEMENT/PROSPECTUS, INCLUDING THE "RISK
 FACTORS" SECTION BEGINNING ON PAGE 13 AND THE OTHER DOCUMENTS THAT PEREGRINE AND
 REMEDY INCORPORATE BY REFERENCE OR TO WHICH THEY OTHERWISE REFER YOU IN THIS
-PROXY STATEMENT/PROSPECTUS. SEE "WHERE YOU CAN FIND MORE INFORMATION" beginning
-on page 110.
+PROXY STATEMENT/PROSPECTUS. SEE "WHERE YOU CAN FIND MORE INFORMATION" BEGINNING
+ON PAGE 109.
 
                                  THE COMPANIES
 
@@ -837,15 +818,15 @@ and its telephone number is (650) 903-5200.
 
                                    THE MERGER
 
-REASONS FOR THE MERGER (SEE PAGE 49 AND 51)
+REASONS FOR THE MERGER (SEE PAGE 48 AND 50)
 
     Peregrine's and Remedy's boards of directors believe that the merger and the
 merger agreement will be beneficial to each company. Peregrine and Remedy have
 each identified several reasons for this belief. These reasons are discussed in
 greater detail under the caption "Remedy's reasons for the merger" beginning on
-page 51 and "Peregrine's reasons for the merger" beginning on page 49.
+page 50 and "Peregrine's reasons for the merger" beginning on page 48.
 
-RISKS ASSOCIATED WITH PEREGRINE, REMEDY AND THE MERGER
+RISKS ASSOCIATED WITH PEREGRINE, REMEDY AND THE MERGER (SEE PAGE 13)
 
     The merger poses risks to each company and its respective stockholders. In
 addition, both Peregrine and Remedy are subject to various risks associated with
@@ -853,17 +834,17 @@ their businesses and their industry. These risks are discussed in greater detail
 under the caption "Risk Factors" beginning on page 13. Peregrine and Remedy both
 encourage you to read and consider all of these risks carefully.
 
-THE REMEDY SPECIAL MEETING (SEE PAGE 44)
+THE REMEDY SPECIAL MEETING (SEE PAGE 43)
 
     Remedy will hold a special meeting of its stockholders to obtain stockholder
 approval and adoption of the merger agreement with Peregrine and stockholder
 approval of the merger.
 
-    Remedy's special meeting will be held on         , 2001 at 9:00 a.m. (local
+    Remedy's special meeting will be held on August 27, 2001 at 9:00 a.m. (local
 time) at Remedy's headquarters located at 1585 Charleston Road, Mountain View,
 California 94043.
 
-RECOMMENDATION OF THE REMEDY BOARD OF DIRECTORS (SEE PAGE 53)
+RECOMMENDATION OF REMEDY'S BOARD OF DIRECTORS (SEE PAGE 52)
 
     The board of directors of Remedy has unanimously determined that the merger
 agreement and the merger are fair to, and in the best interests of, Remedy and
@@ -871,35 +852,34 @@ its stockholders. The board of directors of Remedy unanimously recommends that
 Remedy's stockholders vote in favor of approval and adoption of the merger
 agreement and in favor of approval of the merger.
 
-RECORD DATE (SEE PAGE 44)
+RECORD DATE (SEE PAGE 43)
 
-    The close of business on             , 2001 has been fixed as the record
-date for determining the holders of Remedy common stock entitled to notice of
-and to vote at Remedy's special meeting.
+    The close of business on July 9, 2001 has been fixed as the record date for
+determining the holders of Remedy common stock entitled to notice of and to vote
+at Remedy's special meeting.
 
-VOTING POWER (SEE PAGE 44)
+VOTING POWER (SEE PAGE 43)
 
-    On the record date,             shares of Remedy's common stock were
+    On the record date, 30,909,043 shares of Remedy's common stock were
 outstanding. Each record holder of shares of Remedy's common stock will be
 entitled at the special meeting to one vote for each Remedy share of common
 stock held on the record date.
 
-VOTE REQUIRED FOR APPROVAL (SEE PAGE 44)
+VOTE REQUIRED FOR APPROVAL (SEE PAGE 43)
 
     In order for the merger to become effective, holders of at least a majority
 of Remedy's outstanding common stock at the record date must approve and adopt
 the merger agreement and approve the merger.
 
-VOTING AGREEMENTS OF OFFICERS, DIRECTORS, AND SIGNIFICANT STOCKHOLDERS (SEE PAGE
-85)
+VOTING AGREEMENTS OF OFFICERS AND DIRECTORS (SEE PAGE 84)
 
     Of Remedy's outstanding shares, 3,206,990 shares were held by officers and
 directors of Remedy as of the record date. These shares represented
-approximately   % of Remedy's total outstanding shares on the record date. Each
-of these officers and directors has agreed to vote his or her shares at Remedy's
-special meeting in favor of the merger and the merger agreement.
+approximately 10.4% of Remedy's total outstanding shares on the record date.
+Each of these officers and directors has agreed to vote his or her shares at
+Remedy's special meeting in favor of the merger and the merger agreement.
 
-OPINION OF REMEDY'S FINANCIAL ADVISOR (SEE PAGE 53)
+OPINION OF REMEDY'S FINANCIAL ADVISOR (SEE PAGE 52)
 
     In deciding to approve the merger, the Remedy board of directors considered
 the opinion of its financial advisor, Morgan Stanley & Co. Incorporated, that,
@@ -911,7 +891,7 @@ Stanley's opinion is attached as Annex D to this proxy statement prospectus.
 Remedy and Peregrine urge you to read the opinion of Morgan Stanley in its
 entirety.
 
-INTERESTS OF REMEDY'S DIRECTORS AND EXECUTIVE OFFICERS (SEE PAGE 66)
+INTERESTS OF REMEDY'S DIRECTORS AND EXECUTIVE OFFICERS (SEE PAGE 65)
 
     Remedy stockholders should consider that some directors and executive
 officers of Remedy have interests in the merger that are different from their
@@ -929,16 +909,14 @@ interests. These interests include:
       constructively terminated within 18 months after completion of the merger.
 
     - Peregrine has agreed to appoint a designee of Remedy, who Remedy expects
-      will be Lawrence L. Garlick, to Peregrine's board of directors upon
-      effectiveness of the merger and to take reasonable actions necessary to
-      cause Remedy's designee to be elected or appointed to Peregrine's board of
-      directors at Peregrine's next annual meeting of stockholders.
+      will be Lawrence L. Garlick, to Peregrine's board of directors after
+      effectiveness of the merger.
 
     - Peregrine has agreed to continue to indemnify and provide directors' and
       officers' insurance coverage for the current officers and directors of
       Remedy for a period of six years following the merger.
 
-STRUCTURE AND EFFECTS OF THE MERGER (SEE PAGE 69)
+STRUCTURE AND EFFECTS OF THE MERGER (SEE PAGE 68)
 
     Pursuant to the merger agreement, Remedy will be merged with and into Rose
 Acquisition Corporation, and Rose Acquisition Corporation will continue as the
@@ -976,7 +954,7 @@ issuable in the merger had Remedy's capitalization representations and
 warranties been accurate.
 
 TREATMENT OF REMEDY STOCK OPTIONS AND PURCHASE RIGHTS UNDER THE REMEDY EMPLOYEE
-  STOCK PURCHASE PLAN
+  STOCK PURCHASE PLAN (SEE PAGE 70)
 
     At the completion of the merger, Peregrine will assume all of Remedy's
 outstanding stock options, whether vested or unvested. As a result, all of
@@ -992,15 +970,16 @@ in the merger.
 
     Remedy will terminate its employee stock purchase plan either on the day
 immediately prior to the completion of the merger, or the last day of the last
-full payroll period ending immediately prior to the
+full payroll period ending immediately prior to the completion of the merger.
+Outstanding purchase rights under Remedy's employee stock purchase plan will be
+exercised at the time of the termination of the plan, and each share of Remedy's
+common stock
 
-completion of the merger. Outstanding purchase rights under Remedy's employee
-stock purchase plan will be exercised at the time of the termination of the
-plan, and each share of Remedy's common stock purchased upon that exercise will
-be converted into the right to receive the cash and stock consideration payable
-for a share of Remedy common stock in connection with the merger.
+purchased upon that exercise will be converted into the right to receive the
+cash and stock consideration payable for a share of Remedy common stock in
+connection with the merger.
 
-COMPLETION AND EFFECTIVENESS OF THE MERGER (SEE PAGE 69)
+COMPLETION AND EFFECTIVENESS OF THE MERGER (SEE PAGE 68)
 
     Peregrine and Remedy expect to complete the merger when all of the
 conditions to completion of the merger contained in the merger agreement have
@@ -1012,7 +991,7 @@ agreement and the merger will be presented and voted upon.
 
     Peregrine and Remedy are working toward satisfying the conditions to the
 merger and completing the merger as soon as possible. Peregrine and Remedy hope
-to complete the merger before September 30, 2001, assuming that the Remedy
+to complete the merger before August 31, 2001, assuming that the Remedy
 stockholders adopt and approve the merger agreement and approve the merger at
 the special meeting of Remedy's stockholders and that the other conditions to
 the merger are satisfied promptly. However, because the merger is subject to
@@ -1020,7 +999,7 @@ governmental and regulatory approvals and other conditions, some of which are
 beyond Peregrine's and Remedy's control, Peregrine and Remedy cannot predict the
 exact timing of the completion of the merger.
 
-RESTRICTIONS ON SOLICITATION OF ALTERNATIVE TRANSACTIONS BY REMEDY (SEE PAGE 76)
+RESTRICTIONS ON SOLICITATION OF ALTERNATIVE TRANSACTIONS BY REMEDY (SEE PAGE 75)
 
     Under the terms of the merger agreement, Remedy may not solicit, initiate
 or, subject to some exceptions, engage in discussions or negotiations with, or
@@ -1028,7 +1007,7 @@ provide material inside information to, any third party regarding some types of
 acquisition transactions involving Remedy, including a merger, business
 combination or sale of a material amount of Remedy's assets or capital stock.
 
-CONDITIONS TO THE COMPLETION OF THE MERGER (SEE PAGE 79)
+CONDITIONS TO THE COMPLETION OF THE MERGER (SEE PAGE 78)
 
     Peregrine's and Remedy's obligations to complete the merger are subject to a
 number of conditions, including:
@@ -1067,7 +1046,7 @@ the merger may be waived by the company that is entitled to assert the
 condition.
 
 TERMINATION OF THE MERGER AGREEMENT AND PAYMENT OF THE TERMINATION FEE (SEE
-  PAGES 80 AND 82)
+  PAGES 79 AND 81)
 
     Peregrine and Remedy may terminate the merger agreement by mutual agreement.
 In addition, either Peregrine or Remedy may terminate the merger agreement under
@@ -1114,7 +1093,7 @@ additional circumstances:
     - if the condition to Peregrine's obligations to complete the merger would
       not be satisfied because any of the representations and warranties of
       Remedy contained in the merger agreement become inaccurate and the
-      inaccuracy would have a material adverse effect on Remedy; or
+      inaccuracy would have a material adverse effect on Remedy;
 
     - if Remedy's board of directors withdraws or changes its recommendation
       that Remedy's stockholders adopt and approve the merger agreement and
@@ -1135,7 +1114,8 @@ additional circumstances:
 under the circumstances described under "The Merger Agreement--Payment of
 termination fee", Remedy will pay Peregrine a termination fee of $40 million.
 
-FEDERAL INCOME TAX CONSEQUENCES OF THE MERGER (SEE PAGE 61)
+MATERIAL UNITED STATES FEDERAL INCOME TAX CONSEQUENCES OF THE MERGER (SEE PAGE
+  60)
 
     Consummation of the merger is conditioned upon the receipt of opinions from
 Peregrine's and Remedy's respective tax counsels that the merger will qualify as
@@ -1146,14 +1126,14 @@ receive cash in the merger. In addition, Remedy stockholders will recognize gain
 or loss, as the case may be, to the extent they receive cash in lieu of the
 receipt of a fractional share of Peregrine's common stock.
 
-ACCOUNTING TREATMENT OF THE MERGER (SEE PAGE 61)
+ACCOUNTING TREATMENT OF THE MERGER (SEE PAGE 60)
 
     Peregrine intends to account for the merger as a purchase for financial
 accounting purposes. As a result of this accounting treatment, Peregrine will
 record goodwill and other intangible assets on its balance sheet.
 
 RESTRICTIONS ON RESALE OF PEREGRINE COMMON STOCK ISSUED IN THE MERGER (SEE PAGE
-  66)
+  65)
 
     The shares of Peregrine's common stock you receive in the merger will be
 freely tradable after the merger unless you are considered an affiliate of
@@ -1163,20 +1143,20 @@ compliance with Rule 145 under the Securities Act of 1933, as amended. Each
 person that Remedy believes to be an affiliate has signed an agreement
 acknowledging his or her obligation to sell in compliance with Rule 145.
 
-ANTITRUST APPROVALS (SEE PAGE 65)
+ANTITRUST APPROVALS (SEE PAGE 64)
 
     The merger is subject to waiting periods and other provisions of United
-States and applicable foreign antitrust laws. Peregrine and Remedy are required
-to make filings with the United States Department of Justice and the Federal
-Trade Commission. The applicable waiting periods have not expired as of the date
-of this proxy statement/prospectus. The merger may not be completed until these
-waiting periods have expired or been terminated. In addition, the Department of
-Justice, the Federal Trade Commission, or a foreign regulatory agency or other
-governmental or private person may challenge the merger at any time, including
-after the expiration or termination of the applicable waiting periods or after
-the merger is completed.
+States and applicable foreign antitrust laws. Peregrine and Remedy have made
+filings with, and have received early termination of the waiting period from,
+the United States Department of Justice and the Federal Trade Commission. The
+merger, however, may not be completed until filings have been made and waiting
+periods have expired or been terminated under foreign antitrust laws. In
+addition, the Department of Justice, the Federal Trade Commission, or a foreign
+regulatory agency or other governmental or private person may challenge the
+merger at any time, including after the expiration or termination of the
+applicable waiting periods or after the merger is completed.
 
-APPRAISAL RIGHTS (SEE PAGE 65)
+APPRAISAL RIGHTS (SEE PAGES 64 AND 105)
 
     Under Delaware law, Remedy stockholders are entitled to appraisal rights
 with respect to the merger and, if the merger is completed, to receive payment
@@ -1202,7 +1182,7 @@ procedures described in Annex E will result in the loss of your appraisal
 rights. You are urged to read the text of the Delaware statute governing
 appraisal rights carefully.
 
-TRANSFER OF YOUR STOCK CERTIFICATES
+TRANSFER OF YOUR STOCK CERTIFICATES (SEE PAGE 69)
 
     If the merger becomes effective, you will receive a transmittal letter from
 the exchange agent in the merger instructing you how to exchange your Remedy
@@ -1211,17 +1191,17 @@ RECEIVED THIS INSTRUCTION LETTER. If you have any questions, you may contact
 Peregrine's transfer agent, Mellon Investor Services, L.L.C., at 400 South Hope
 Street, Fourth Floor, Los Angeles, California 90071. Please do not contact
 Mellon Investor Services with questions about the exchange of certificates until
-after the merger has been completed.
+the merger has been completed.
 
-COMPARATIVE MARKET PRICE DATA (SEE PAGE 42)
+COMPARATIVE MARKET PRICE DATA (SEE PAGE 41)
 
     Both Peregrine's and Remedy's common stock currently trade on the Nasdaq
 National Market. Peregrine trades under the symbol "PRGN", and Remedy trades
 under the symbol "RMDY". The following table presents trading information about
-Peregrine's and Remedy's common stock on June 8, 2001 and             , 2001.
+Peregrine's and Remedy's common stock on June 8, 2001 and July 20, 2001.
 June 8, 2001 was the last trading day prior to the time the merger agreement was
-executed and publicly announced.             , 2001 was the last practicable
-trading day prior to the time Remedy mailed this proxy statement/prospectus.
+executed and publicly announced. July 20, 2001 was the last practicable trading
+day prior to the time Remedy mailed this proxy statement/prospectus.
 
                                                   PEREGRINE COMMON STOCK            REMEDY COMMON STOCK
                                               ------------------------------   ------------------------------
@@ -1229,7 +1209,7 @@ trading day prior to the time Remedy mailed this proxy statement/prospectus.
                                               --------   --------   --------   --------   --------   --------
 
 June 8, 2001................................   $30.00     $28.44     $28.81     $19.01     $18.04     $18.34
-            , 2001..........................
+July 20, 2001...............................   $24.90     $19.89     $22.66     $31.45     $26.69     $29.00
 
 FORWARD LOOKING STATEMENTS IN THIS PROXY STATEMENT/PROSPECTUS
 
@@ -1463,18 +1443,18 @@ incur losses, if Peregrine's revenues decline or
 grow at a slower rate, or if Peregrine's expenses increase without commensurate
 increases in revenues, Peregrine's operating results will suffer and the price
 of Peregrine's common stock may fall. Through March 31, 2001, Peregrine had
-recorded cumulative net losses of approximately $917.1 million, mainly comprised
-of acquisition costs related to the acquisitions Peregrine has completed since
-late 1997. Peregrine has incurred, and expects to continue to incur, substantial
-expenses associated with acquisition related costs, and amortization of other
-intangible assets will result in Peregrine continuing to incur net losses for
-the foreseeable future. In addition, Peregrine does not believe recent revenue
-growth rates are sustainable in the future or indicative of future growth rates.
-If Peregrine's revenue growth rates slow or its revenues decline, Peregrine's
-operating results could be seriously impaired because many of Peregrine's
-expenses are fixed and cannot be easily or quickly changed. A reduction in
-Peregrine's revenue growth rate and/or an impairment of Peregrine's financial
-results could lead to a dramatic decline in Peregrine's stock price.
+recorded cumulative net losses of approximately $917.1 million, principally as a
+result of acquisition costs related to the acquisitions Peregrine has completed
+since late 1997. Peregrine has incurred, and expects to continue to incur,
+substantial expenses associated with acquisition related costs, and amortization
+of other intangible assets will result in Peregrine continuing to incur net
+losses for the foreseeable future. In addition, Peregrine does not believe
+recent revenue growth rates are sustainable in the future or indicative of
+future growth rates. If Peregrine's revenue growth rates slow or its revenues
+decline, Peregrine's operating results could be seriously impaired because many
+of Peregrine's expenses are fixed and cannot be easily or quickly changed. A
+reduction in Peregrine's revenue growth rate and/or an impairment of Peregrine's
+financial results could lead to a dramatic decline in Peregrine's stock price.
 
     PEREGRINE'S REVENUES ARE NOT PREDICTABLE AND VARY SIGNIFICANTLY FROM
 QUARTER-TO-QUARTER FOR NUMEROUS REASONS BEYOND PEREGRINE'S CONTROL.
@@ -1512,7 +1492,7 @@ and operating results could be materially below the expectations of market
 analysts, and Peregrine's stock price could fall. In particular, Peregrine's
 dependence on a few relatively large license transactions could have an adverse
 effect on Peregrine's quarterly revenues or revenue growth rates to the extent
-Peregrine is unable to complete a large license transaction because a large
+Peregrine is unable to complete a large license transaction because a
 prospective customer determines to reduce its capital investments in technology
 in response to slowing economic growth.
 
@@ -1536,28 +1516,28 @@ Peregrine's strategic and distribution partners, including resellers and system
 integrators. Peregrine believes that these transaction partners are extremely
 important influencers of customer purchase decisions, particularly purchase
 decisions by large enterprise customers. If the number or size of Peregrine's
-partner-influenced transactions were to decrease for any reason, Peregrine's
-revenue growth rates and operating results would be materially and adversely
-affected. If Peregrine's sales through these indirect channels, or to new
-distributors, resellers, or strategic partners, were to decrease in a given
-quarter, Peregrine's total revenues and operating results could be harmed. Sales
-through indirect channels, including distributors, third party resellers, and
-system integrators, represent a significant percentage of Peregrine's total
-sales, and this percentage has increased in recent periods. Peregrine expects
-this trend to continue in the future. As a result, Peregrine could experience a
-shortfall in its revenues, or a substantial decline in its rate of revenue
-growth, if sales through these channels were to decrease or were to increase at
-a slower rate than recently experienced. Peregrine has less ability to manage
-sales through indirect channels, relative to direct sales, and less visibility
-about its partners' success in selling its products. In addition, many of
-Peregrine's distribution arrangements are non-exclusive, and these distributors
-may carry competing products. As a result, Peregrine could experience unforeseen
-variability in its revenues and operating results for a number of reasons,
-including the following: inability of Peregrine's partners to sell its products;
-a decision by Peregrine's partners to favor competing products; or inability of
-Peregrine's partners to manage the timing of their purchases from Peregrine
-against their sales to end-users, resulting in inventories of unsold licenses
-held by partners.
+partner-sourced or partner-influenced transactions were to decrease for any
+reason, Peregrine's revenue growth rates and operating results would be
+materially and adversely affected. If Peregrine's sales through these indirect
+channels, or to new distributors, resellers, or strategic partners, were to
+decrease in a given quarter, Peregrine's total revenues and operating results
+could be harmed. Sales through indirect channels, including distributors, third
+party resellers, and system integrators, represent a significant percentage of
+Peregrine's total sales, and this percentage has increased in recent periods.
+Peregrine expects this trend to continue in the future. As a result, Peregrine
+could experience a shortfall in its revenues, or a substantial decline in its
+rate of revenue growth, if sales through these channels were to decrease or were
+to increase at a slower rate than recently experienced. Peregrine has less
+ability to manage sales through indirect channels, relative to direct sales, and
+less visibility about its partners' success in selling its products. In
+addition, many of Peregrine's distribution arrangements are non-exclusive, and
+these distributors may carry competing products. As a result, Peregrine could
+experience unforeseen variability in its revenues and operating results for a
+number of reasons, including the following: inability of Peregrine's partners to
+sell its products; a decision by Peregrine's partners to favor competing
+products; or inability of Peregrine's partners to manage the timing of their
+purchases from Peregrine against their sales to end-users, resulting in
+inventories of unsold licenses held by partners.
 
     PEREGRINE'S QUARTERLY AND ANNUAL REVENUES AND REVENUE GROWTH RATES ARE
 DEPENDENT ON THE BUDGETING CYCLES AND INVESTMENT CYCLES OF ITS CUSTOMERS.
@@ -1614,7 +1594,7 @@ resources and a lengthy evaluation and product qualification process. As a
 result, Peregrine may incur substantial sales and marketing expenses during a
 particular period in an effort to obtain orders. If Peregrine is unsuccessful in
 generating offsetting revenues during that period, Peregrine's revenues and
-earnings could be substantially reduced, or Peregrine could experience a large
+earnings would be substantially reduced, and Peregrine could experience a large
 loss. The sales cycle for Peregrine's products typically takes four to nine
 months to complete, and Peregrine may experience delays that further extend this
 period. The length of the sales cycle may be extended beyond four to nine months
@@ -1729,18 +1709,20 @@ dismissal of all claims against Harbinger. Although the parties to the
 litigation have agreed in principle to this settlement, final settlement is
 subject to further documentation, various contingencies, and approval by the
 court. The court may not approve the settlement. If the court does not approve
-the settlement, the plaintiffs in the lawsuit may proceed with their claims,
-without prejudice. It is also possible that if the settlement is approved by the
-court, claims could be pursued by class members who opt out of the class
-settlement by filing appropriate notices with the court. If the litigation were
-to continue to proceed, Peregrine could be required to spend substantial sums in
-an effort to litigate this matter. Continued litigation would be likely to
-result in a diversion of management's time and attention away from business
-operations. If the litigation were decided adversely to Harbinger, or if
-Peregrine were to agree in the future to settle this litigation for a
-substantial sum as a result of failure to obtain court approval of the pending
-settlement or for any other reason, Peregrine's financial condition and results
-of operations could be materially and adversely affected.
+the
+
+settlement, the plaintiffs in the lawsuit may proceed with their claims, without
+prejudice. It is also possible that if the settlement is approved by the court,
+claims could be pursued by class members who opt out of the class settlement by
+filing appropriate notices with the court. If the litigation were to continue to
+proceed, Peregrine could be required to spend substantial sums in an effort to
+litigate this matter. Continued litigation would be likely to result in a
+diversion of management's time and attention away from business operations. If
+the litigation were decided adversely to Harbinger, or if Peregrine were to
+agree in the future to settle this litigation for a substantial sum as a result
+of failure to obtain court approval of the pending settlement or for any other
+reason, Peregrine's financial condition and results of operations could be
+materially and adversely affected.
 
     PEREGRINE COULD EXPERIENCE LOSSES AS A RESULT OF PEREGRINE'S STRATEGIC
 INVESTMENTS.
@@ -1749,16 +1731,16 @@ INVESTMENTS.
 Peregrine could incur losses. Peregrine has made and expects to continue to make
 minority investments in companies with businesses or technologies that Peregrine
 considers to be complementary to its business or technologies. These investments
-have generally been made by issuing shares of Peregrine's common stock or, to a
-lesser extent, paying cash. Many of these investments are in companies whose
-operations are not yet sufficient to establish them as profitable concerns.
-Adverse changes in market conditions or poor operating results of underlying
-investments could result in Peregrine's incurring losses or Peregrine's being
-unable to recover the carrying value of its investments. For example, during
-fiscal 2001, Peregrine recognized impairment charges totalling $490 million,
-associated principally with impairment of acquired assets but to a lesser extent
-with strategic investments. Peregrine will continue to monitor the value of
-these investments and may have additional impairment charges in the future.
+have generally been made by issuing shares of Peregrine's common stock or by
+paying cash. Many of these investments are in companies whose operations are not
+yet sufficient to establish them as profitable concerns. Adverse changes in
+market conditions or poor operating results of underlying investments could
+result in Peregrine's incurring losses or Peregrine's being unable to recover
+the carrying value of its investments. For example, during fiscal 2001,
+Peregrine recognized impairment charges totalling $490 million, associated
+principally with impairment of acquired assets but to a lesser extent with
+strategic investments. Peregrine will continue to monitor the value of these
+investments and may have additional impairment charges in the future.
 
     PEREGRINE'S BUSINESS AND OPERATING RESULTS WILL BE HARMED IF PEREGRINE
 CANNOT COMPETE EFFECTIVELY AGAINST OTHER COMPANIES.
@@ -1776,32 +1758,32 @@ companies, such as Applix, Blue Ocean, Computer Associates, Control Software (a
 division of CSI-Maximus), FrontRange, Hewlett-Packard, IBM, Intraware, Main
 Control, Microsoft, MRO Software (formerly Project Software and Development
 Inc.), Network Associates, Nortel, PeopleSoft, Remedy, and Royal Blue
-Technologies. Peregrine's e-commerce enablement technology, Peregrine faces
-competition from providers of customer relationship portals, such as Aspect
-Communications; providers of catalog management solutions, such as Requisite
-Technology; providers of e-commerce enablement software such as webMethods; and
-providers of legacy e-commerce technology and services such as SBC
-Communications, through its acquisition of Sterling Commerce, and General
-Electric eXchange Solutions. With respect to employee relationship management
-products, including procurement and e-procurement solutions, Peregrine faces
-competition from established providers of business-to-business Internet commerce
-solutions such as Ariba and CommerceOne; established providers of enterprise
-resource planning software such as Oracle and SAP; and numerous start-up and
-other entrepreneurial companies offering products that provide one or more
-aspects of
-
-employee relationship management such as self-help service offerings, or
-web-based knowledge management systems.
+Technologies. Peregrine's e-commerce enablement technology faces competition
+from providers of customer relationship portals, such as Aspect Communications;
+providers of catalog management solutions, such as Requisite Technology;
+providers of e-commerce enablement software such as webMethods; and providers of
+legacy e-commerce technology and services such as SBC Communications, through
+its acquisition of Sterling Commerce, and General Electric eXchange Solutions.
+With respect to employee relationship management products, including procurement
+and e-procurement solutions, Peregrine faces competition from established
+providers of business-to-business Internet commerce solutions such as Ariba and
+CommerceOne; established providers of enterprise resource planning software such
+as Oracle and SAP; and numerous start-up and other entrepreneurial companies
+offering products that provide one or more aspects of employee relationship
+management such as self-help service offerings, or web-based knowledge
+management systems.
 
     If Peregrine cannot compete effectively by offering products that are
 comparable in functionality, ease of use and price to those of Peregrine's
 competitors, Peregrine's revenues will decrease, and its operating results will
 be adversely affected. Many of Peregrine's current and potential competitors
-have substantially greater financial, technical, marketing and other resources
-than Peregrine has. As a result, they may be able to devote greater resources
-than Peregrine can to the development, promotion and sale of their products, and
-they may be able to respond more quickly to new or emerging technologies and
-changes in customer needs.
+have
+
+substantially greater financial, technical, marketing and other resources than
+Peregrine has. As a result, they may be able to devote greater resources than
+Peregrine can to the development, promotion and sale of their products, and they
+may be able to respond more quickly to new or emerging technologies and changes
+in customer needs.
 
     Additional competition from new entrepreneurial companies or established
 companies extending their product lines could have an adverse effect on
@@ -1814,7 +1796,7 @@ expects that the software industry will continue to consolidate. In particular,
 Peregrine expects that large software companies will continue to acquire or
 establish alliances with Peregrine's smaller competitors, thereby increasing the
 resources available to those competitors. These new competitors or alliances
-could rapidly acquire significant share at Peregrine's expense.
+could rapidly acquire significant market share at Peregrine's expense.
 
     PEREGRINE MAY EXPERIENCE INTEGRATION OR OTHER PROBLEMS WITH NEW
 ACQUISITIONS, WHICH COULD HAVE AN ADVERSE EFFECT ON PEREGRINE'S BUSINESS OR
@@ -1858,13 +1840,11 @@ in common stock, this would further dilute Peregrine's existing stockholders. In
 addition, Peregrine may raise additional equity or debt capital to finance cash
 acquisitions. Raising additional equity capital would further dilute the
 interests of Peregrine's existing stockholders, and additional debt could impair
-Peregrine's operating results and financial condition.
-
-Additional financing may not be available when and as needed on commercially
-reasonable terms, if at all. If an inability to obtain financing were to
-preclude Peregrine from making an acquisition or completing a previously
-announced acquisition, Peregrine's future operating results could be adversely
-affected, and its stock price could fall.
+Peregrine's operating results and financial condition. Additional financing may
+not be available when and as needed on commercially reasonable terms, if at all.
+If an inability to obtain financing were to preclude Peregrine from making an
+acquisition or completing a previously announced acquisition, Peregrine's future
+operating results could be adversely affected, and its stock price could fall.
 
     PEREGRINE'S FUTURE REVENUES AND OPERATING RESULTS MAY BE ADVERSELY AFFECTED
 IF THE SOFTWARE APPLICATION INDUSTRY CONTINUES TO EVOLVE TOWARD A
@@ -1923,22 +1903,23 @@ providers handle the installation of the computer and communications equipment
 and software needed for the day-to-day operations of Peregrine's Internet-based
 applications, Peregrine will be dependent on them to manage, maintain and
 provide adequate security for customer applications. If Peregrine's customers
-experience any delays in response time or performance problems while using
-Peregrine's Internet applications, as hosted by a third-party or by
-
-Peregrine, Peregrine's customers may perceive the delays as defects with
-Peregrine's products and may stop using these applications, which would
-adversely affect Peregrine's revenues.
+experience any delays in response time or other performance problems while using
+Peregrine's Internet applications, as hosted by a third-party or by Peregrine,
+Peregrine's customers may perceive the delays as defects with Peregrine's
+products and may stop using these applications, which would adversely affect
+Peregrine's revenues.
 
     Peregrine has limited experience outsourcing these services and may have
 difficulty managing this process. Peregrine will be required to monitor its
 third-party service providers to ensure that they perform these services
 adequately. In addition, if Peregrine does not maintain good relations with
-these third-party service providers, or if they go out of business, they may be
-unable to perform critical support functions for Peregrine. If Peregrine were
-unable to find replacement third-party service providers, Peregrine would be
-required to perform these functions itself. Peregrine may not be successful in
-obtaining or performing these services on a timely or cost-effective basis.
+these
+
+third-party service providers, or if they go out of business, they may be unable
+to perform critical support functions for Peregrine. If Peregrine were unable to
+find replacement third-party service providers, Peregrine would be required to
+perform these functions itself. Peregrine may not be successful in obtaining or
+performing these services on a timely or cost-effective basis.
 
     IF PEREGRINE DOES NOT RESPOND ADEQUATELY TO ITS INDUSTRY'S EVOLVING
 TECHNOLOGY STANDARDS, OR DOES NOT CONTINUALLY DEVELOP PRODUCTS THAT MEET THE
@@ -1993,12 +1974,10 @@ affect Peregrine's operating results. Because of severe shortages for qualified
 technical personnel in the United States, many companies, including Peregrine,
 have recruited engineers and other technical personnel from foreign countries.
 Foreign computer professionals such as those Peregrine has employed typically
-become eligible for
-
-employment in the United States by obtaining a nonimmigrant visa. The number of
-nonimmigrant visas is limited annually by federal immigration laws. In recent
-years, despite increases in the number of available visas, the annual allocation
-has been exhausted well before year-end.
+become eligible for employment in the United States by obtaining a nonimmigrant
+visa. The number of nonimmigrant visas is limited annually by federal
+immigration laws. In recent years, despite increases in the number of available
+visas, the annual allocation has been exhausted well before year-end.
 
     PEREGRINE'S BUSINESS COULD BE HARMED IF IT LOST THE SERVICES OF ONE OR MORE
 MEMBERS OF ITS SENIOR MANAGEMENT TEAM.
@@ -2473,19 +2452,20 @@ future, vary significantly depending on factors such as:
     Remedy operates with no significant order backlog because its software
 products typically are shipped or electronically downloaded over the Web shortly
 after orders are received. Furthermore, Remedy has often recognized a
-substantial portion of its revenue in the last month of a quarter, with this
-revenue frequently concentrated in the last weeks of a quarter. As a result,
-product revenue in any quarter is substantially dependent on orders booked and
-shipped in that quarter and revenue for any future quarter is not predictable
-with any significant degree of certainty. Product revenue is also difficult to
-forecast because the market for software products is rapidly evolving, and
-Remedy's sales cycle, from initial trial to multiple copy purchases and the
-provision of support services, varies substantially from customer to customer.
-Remedy's expense levels are based, in part, on its expectations as to future
-revenue. If revenue levels are below expectations, operating results are likely
-to be adversely affected. Net income may be disproportionately affected by a
-reduction in revenue because a proportionately smaller amount of Remedy's
-expenses varies with its revenue.
+substantial portion of its revenue in the last month of a quarter, with
+
+this revenue frequently concentrated in the last weeks of a quarter. As a
+result, product revenue in any quarter is substantially dependent on orders
+booked and shipped in that quarter and revenue for any future quarter is not
+predictable with any significant degree of certainty. Product revenue is also
+difficult to forecast because the market for software products is rapidly
+evolving, and Remedy's sales cycle, from initial trial to multiple copy
+purchases and the provision of support services, varies substantially from
+customer to customer. Remedy's expense levels are based, in part, on its
+expectations as to future revenue. If revenue levels are below expectations,
+operating results are likely to be adversely affected. Net income may be
+disproportionately affected by a reduction in revenue because a proportionately
+smaller amount of Remedy's expenses varies with its revenue.
 
     In addition, the technology sector in which Remedy operates has experienced
 a dramatic general slowdown over the past nine months as evidenced by the
@@ -2572,28 +2552,27 @@ characterized by rapid technological change, frequent new product introductions
 and evolving industry standards. The introduction of products embodying new
 technologies and the emergence of new industry standards can render existing
 products obsolete and unmarketable. The life cycles of Remedy's products are
-difficult
-
-to estimate. Remedy's future success will depend upon its ability to enhance its
-current products and to develop and introduce new products on a timely basis
-that keep pace with technological developments and emerging industry standards
-and address the increasingly sophisticated needs of its customers. Since 1999,
-Remedy has invested significant resources into the research and development and
-sales and marketing of software applications. Remedy intends to continue to
-invest heavily in these efforts in the future. There can be no assurance that
-Remedy will be successful in developing and marketing product enhancements or
-new products that respond to technological change, evolving industry standards
-and customer requirements, or that Remedy will not experience difficulties that
-could delay or prevent the successful development, introduction and marketing of
-these products, or that its new products and product enhancements will
-adequately meet the requirements of the marketplace and achieve market
-acceptance. If Remedy is unable, for technological or other reasons, to develop
-and introduce new products or enhancements of existing products in a timely
-manner in response to changing market conditions or customer requirements,
-Remedy's business, operating results and financial condition will be seriously
-harmed. If the new products currently being developed by Remedy do not achieve
-market acceptance or are not released when expected, its business, operating
-results and financial condition will be seriously harmed.
+difficult to estimate. Remedy's future success will depend upon its ability to
+enhance its current products and to develop and introduce new products on a
+timely basis that keep pace with technological developments and emerging
+industry standards and address the increasingly sophisticated needs of its
+customers. Since 1999, Remedy has invested significant resources into the
+research and development and sales and marketing of software applications.
+Remedy intends to continue to invest heavily in these efforts in the future.
+There can be no assurance that Remedy will be successful in developing and
+marketing product enhancements or new products that respond to technological
+change, evolving industry standards and customer requirements, or that Remedy
+will not experience difficulties that could delay or prevent the successful
+development, introduction and marketing of these products, or that its new
+products and product enhancements will adequately meet the requirements of the
+marketplace and achieve market acceptance. If Remedy is unable, for
+technological or other reasons, to develop and introduce new products or
+enhancements of existing products in a timely manner in response to changing
+market conditions or customer requirements, Remedy's business, operating results
+and financial condition will be seriously harmed. If the new products currently
+being developed by Remedy do not achieve market acceptance or are not released
+when expected, its business, operating results and financial condition will be
+seriously harmed.
 
     REMEDY'S SUCCESS DEPENDS ON RETAINING ITS CURRENT KEY PERSONNEL AND
 ATTRACTING AND RETAINING ADDITIONAL KEY PERSONNEL.
@@ -2607,16 +2586,15 @@ role with the combined company following completion of the merger. If this
 occurs, Remedy may experience an increase in attrition over historical rates.
 Remedy's future success also depends upon its continuing ability to attract and
 retain highly qualified technical, sales and managerial personnel. Competition
-for such personnel is intense, particularly in the competitive employment market
-of the Silicon Valley in California where the majority of Remedy's workforce is
+for
+
+such personnel is intense, particularly in the competitive employment market of
+the Silicon Valley in California where the majority of Remedy's workforce is
 located, and there can be no assurance that it can retain its key technical,
 sales and managerial employees or that it can attract, assimilate or retain
 other highly qualified technical, sales and managerial personnel in the future.
 In particular, if Remedy is to achieve significant revenue growth in the future,
-it must continue to hire additional sales personnel. Competition for such
-personnel is intense, and there can be no assurance that Remedy can retain its
-existing sales personnel or that it can attract, assimilate or retain additional
-highly qualified sales persons in the future. In the past, Remedy has
+it must continue to hire additional sales personnel. In the past, Remedy has
 experienced difficulty in recruiting a sufficient number of qualified sales
 persons. Any failure of Remedy to attract and retain such qualified employees
 could seriously harm its business, operating results and financial condition.
@@ -2640,15 +2618,15 @@ Remedy's sales at the organizational level were significantly below its
 expectations.
 
     Organizational customers often deploy Remedy's products in business critical
-operations, which involve significant capital and management commitments, by
-such customers. These customers generally commit significant resources to an
+operations, which involve significant capital and management commitments by such
+customers. These customers generally commit significant resources to an
 evaluation of available enterprise software and require Remedy to expend
-substantial time, effort and money. Sales of Remedy's products to these
-customers require an extensive sales effort throughout a customer's
-organization, because decisions to purchase the products generally involve the
-evaluation of the software by a significant number of customer personnel in
-various functional and geographic areas, each often having specific and
-conflicting requirements. A variety of factors, including factors over which
+substantial time, effort and money in the sales effort. Sales of Remedy's
+products to these customers require an extensive sales effort throughout a
+customer's organization, because decisions to purchase the products generally
+involve the evaluation of the software by a significant number of customer
+personnel in various functional and geographic areas, each often having specific
+and conflicting requirements. A variety of factors, including factors over which
 Remedy has little or no control, may cause these potential customers to favor a
 particular supplier or to delay or forego a purchase. As a result of these or
 other factors, the sales cycle for Remedy's products is relatively long when
@@ -2678,9 +2656,10 @@ such customers, in order to meet the demand for implementation of its product
 from these customers. Remedy's operating margins may be lower as a result of the
 higher expenses associated with engaging such third party service providers. In
 addition, if Remedy is unable to establish and maintain effective, long-term
-relationships with its implementation providers, or if these providers do not
-meet the needs or expectations of its organizational customers, its business
-would be seriously harmed.
+relationships with its implementation providers, or if
+
+these providers do not meet the needs or expectations of its organizational
+customers, its business would be seriously harmed.
 
     REMEDY RELIES ON INDIRECT MARKETING CHANNELS FOR A SIGNIFICANT PERCENTAGE OF
 ITS TOTAL SALES.
@@ -2702,8 +2681,8 @@ agreements with its value added resellers, system integrators and independent
 software vendors are not exclusive and in many cases may be terminated by either
 party without cause, and many of Remedy's value added resellers, system
 integrators and independent software vendors carry competing product lines.
-Therefore, there can be no assurance that any value added resellers systems
-integrators and independent software vendors will continue to represent Remedy's
+Therefore, there can be no assurance that any value added reseller, systems
+integrator or independent software vendor will continue to represent Remedy's
 products, and the inability to recruit, or the loss of important value added
 resellers, system integrators and independent software vendors could seriously
 harm Remedy's results of operations.
@@ -2778,24 +2757,23 @@ will be issued, Remedy does not know whether these patents will be subject to
 further proceedings limiting their scope, will provide significant proprietary
 protection or competitive advantage, or will be circumvented or invalidated.
 Despite its efforts to protect its proprietary rights, unauthorized parties may
-attempt to copy aspects of Remedy's products or to obtain and use
-
-information that Remedy regards as proprietary. Policing unauthorized use of
-Remedy's products is difficult, and while it is unable to determine the extent
-to which piracy of its software products exists, software piracy can be expected
-to be a persistent problem. In selling its products, Remedy relies primarily on
-"shrink wrap" (out-of-the-box or off-the-shelf sales) and "click wrap"
-(electronic sales transmitted via the internet) licenses that are not signed by
-licensees and, therefore, it is possible that such licenses may be unenforceable
-under the laws of some jurisdictions. In addition, the laws of some foreign
-countries do not protect its proprietary rights to as great an extent as do the
-laws of the United States. There can be no assurance that Remedy's means of
-protecting its proprietary rights will be adequate or that its competitors will
-not independently develop similar technology.
+attempt to copy aspects of Remedy's products or to obtain and use information
+that Remedy regards as proprietary. Policing unauthorized use of Remedy's
+products is difficult, and while it is unable to determine the extent to which
+piracy of its software products exists, software piracy can be expected to be a
+persistent problem. In selling its products, Remedy relies primarily on "shrink
+wrap" (out-of-the-box or off-the-shelf sales) and "click wrap" (electronic sales
+transmitted via the internet) licenses that are not signed by licensees and,
+therefore, it is possible that such licenses may be unenforceable under the laws
+of some jurisdictions. In addition, the laws of some foreign countries do not
+protect proprietary rights to as great an extent as do the laws of the United
+States. There can be no assurance that Remedy's means of protecting its
+proprietary rights will be adequate or that its competitors will not
+independently develop similar technology.
 
     Remedy may have to resort to litigation to protect its intellectual property
 rights, to protect any issued patents, its trade secrets or know-how or to
-determine their scope validity or enforceability. Enforcing or defending its
+determine their scope, validity or enforceability. Enforcing or defending its
 proprietary technology is expensive, could cause the diversion of its resources,
 and may not prove successful. Remedy's protective measures may prove inadequate
 to protect its proprietary rights, and any failure to enforce or protect its
@@ -2846,10 +2824,9 @@ unenforceable under the laws of some jurisdictions. For these and other reasons,
 it is possible that the limitation of liability provisions contained in its
 license agreements may not be effective. A product liability claim brought
 against Remedy, even if not successful, would likely be time consuming and
-costly and could seriously harm Remedy's business. A
-
-successful product liability claim brought against Remedy could seriously harm
-Remedy's business, operating results and financial condition.
+costly and could seriously harm Remedy's business. A successful product
+liability claim brought against Remedy could seriously harm Remedy's business,
+operating results and financial condition.
 
     THE CONVERSION OF EUROPEAN CURRENCIES INTO THE EUROPEAN UNION'S COMMON
 CURRENCY COULD HARM REMEDY'S BUSINESS.
@@ -2936,18 +2913,17 @@ REMEDY SELECTED CONSOLIDATED HISTORICAL FINANCIAL INFORMATION
     The selected historical financial data of Remedy have been derived from the
 audited historical financial data and related notes of Remedy as of and for each
 of the years in the five-year period ended December 31, 2000. The selected
-historical financial data of Remedy for the three months ended and as of
-March 31, 2001 and March 31, 2000 have been derived from unaudited financial
-data and include, in the opinion of management of Remedy, all adjustments,
-consisting only of normal recurring adjustments, necessary for a fair
-presentation of Remedy's results of operations for that period and its financial
-condition at March 31, 2001 and March 31, 2000. These historical data provide
-only a summary. You should read them in conjunction with Remedy's historical
+historical financial data of Remedy for the three months ended March 31, 2001
+and March 31, 2000 and as of March 31, 2001, have been derived from unaudited
+financial data and include, in the opinion of management of Remedy, all
+adjustments, consisting only of normal recurring adjustments, necessary for a
+fair presentation of Remedy's results of operations for those periods and its
+financial condition at March 31, 2001. These historical data provide only a
+summary. You should read them in conjunction with Remedy's historical
 consolidated financial statements and related notes thereto contained in
-Remedy's annual report on Form 10-K for the fiscal
-
-year ended December 31, 2000 and unaudited quarterly report on Form 10-Q for the
-quarter ended March 31, 2001.
+Remedy's annual report on Form 10-K for the fiscal year ended December 31, 2000
+and unaudited quarterly report on Form 10-Q for the quarter ended March 31,
+2001.
 
                                             THREE MONTHS
                                                 ENDED
@@ -2993,11 +2969,9 @@ table is only a summary and should be read in conjunction with the "Unaudited
 Pro Forma Combined Condensed Financial Statements" beginning on page 92 and the
 respective audited and unaudited consolidated financial statements of Peregrine
 and Remedy, including the notes thereto, contained in Peregrine's annual report
-on Form 10-K for the fiscal year ended March 31, 2001,
-
-Remedy's annual report on Form 10-K for the fiscal year ended December 31, 2000
-and Remedy's unaudited quarterly report on Form 10-Q for the quarter ended
-March 31, 2001.
+on Form 10-K for the fiscal year ended March 31, 2001, Remedy's annual report on
+Form 10-K for the fiscal year ended December 31, 2000 and Remedy's unaudited
+quarterly report on Form 10-Q for the quarter ended March 31, 2001.
 
                                                                   (A)
                                                          ---------------------
@@ -3017,7 +2991,7 @@ Shares used in per share computation...................          166,447
 
 (A) Year ended March 31, 2001 and December 31, 2000 for Peregrine and Remedy,
     respectively. See "Notes to Unaudited Pro Forma Combined Condensed Financial
-    Statements" on page       .
+    Statements" on page 94.
 
                                                             AS OF MARCH 31, 2001
                                                             --------------------
@@ -3091,8 +3065,8 @@ UNAUDITED PRO FORMA COMBINED CONDENSED NET
 
 COMBINED CONDENSED BOOK VALUE PER SHARE:
   Historical--Peregrine(1).........................          $ 8.67
-  Unaudited Historical--Remedy(1)..................          $ 7.94
-  Unaudited Pro forma combined per Peregrine
+  Unaudited historical--Remedy(1)..................          $ 7.94
+  Unaudited pro forma combined per Peregrine
     share(3).......................................          $11.94
 
 - ------------------------
@@ -3127,7 +3101,7 @@ and February 2000.
 
 FISCAL YEAR ENDING MARCH 31, 2002:
   First Quarter.............................................   $32.19     $13.75
-  Second Quarter (through             , 2001)...............
+  Second Quarter (through July 20, 2001)....................    30.03      22.66
 
 FISCAL YEAR ENDED MARCH 31, 2001:
   Fourth Quarter............................................   $33.00     $17.88
@@ -3154,7 +3128,7 @@ periods indicated.
 FISCAL YEAR ENDING DECEMBER 31, 2001:
   First Quarter.............................................   $26.94     $15.00
   Second Quarter............................................    34.80      15.05
-  Third Quarter (through             , 2001)................
+  Third Quarter (through July 20, 2001).....................    34.01      27.80
 
 FISCAL YEAR ENDED DECEMBER 31, 2000:
   Fourth Quarter............................................   $21.69     $15.69
@@ -3171,15 +3145,14 @@ FISCAL YEAR ENDED DECEMBER 31, 1999:
 RECENT SHARE PRICES
 
     The following table provides information about the closing sale price of
-Peregrine's common stock and Remedy's common stock on June 8, 2001 and       ,
+Peregrine's common stock and Remedy's common stock on June 8, 2001 and July 20,
 2001. In addition, the table provides an equivalent per-share price for Remedy's
 common stock on those dates based on the closing price of Peregrine's common
 stock multiplied by the exchange ratio in the merger of 0.9065 of a share of
 Peregrine common stock plus $9.00 in cash for each share of Remedy common stock.
 June 8, 2001 was the last trading day prior to the execution and public
-announcement of the reorganization agreement.             , 2001 was the last
-practicable trading day prior to the mailing of this proxy statement/
-prospectus.
+announcement of the merger agreement. July 20, 2001 was the last practicable
+trading day prior to the mailing of this proxy statement/prospectus.
 
                                                                         REMEDY
                                      PEREGRINE     REMEDY COMMON        COMMON
@@ -3187,7 +3160,7 @@ prospectus.
                                     ------------   -------------   ----------------
 
 June 8, 2001......................     $28.81         $18.34            $35.12
-            , 2001................
+July 20, 2001.....................     $22.66         $29.00            $29.54
 
     No assurance can be given as to the market prices of Peregrine's common
 stock or Remedy's common stock at any time prior to the merger or as to the
@@ -3208,11 +3181,11 @@ Nasdaq National Market.
 
 STOCKHOLDERS
 
-    As of             , 2001, Peregrine had issued and outstanding
-shares of Peregrine's common stock held by             stockholders of record.
+    As of July 9, 2001, Peregrine had issued and outstanding 163,144,479 shares
+of Peregrine's common stock held by approximately 1,550 stockholders of record.
 
-    As of             , 2001, Remedy had issued and outstanding
-shares of Remedy's common stock held by             stockholders of record.
+    As of July 9, 2001, Remedy had issued and outstanding 30,909,043 shares of
+Remedy's common stock held by 142 stockholders of record.
 
 DIVIDENDS
 
@@ -3237,7 +3210,7 @@ would become stockholders of Peregrine.
 
 DATE, TIME AND PLACE OF THE SPECIAL MEETING
 
-    The special meeting of stockholders will be held on             , 2001 at
+    The special meeting of stockholders will be held on August 27, 2001 at
 9:00 a.m., local time, at Remedy's headquarters located at 1585 Charleston Road,
 Mountain View, California 94043.
 
@@ -3265,11 +3238,11 @@ MERGER AGREEMENT AND APPROVE THE MERGER.
 RECORD DATE AND OUTSTANDING SHARES
 
     Stockholders of record who owned Remedy common stock at the close of
-business on             , 2001 will be entitled to attend and vote at Remedy's
-special meeting. On the record date, Remedy had approximately             shares
-of common stock issued and outstanding. Remedy had             stockholders of
-record on the record date and believes that its common stock is held by more
-than             beneficial owners.
+business on July 9, 2001 will be entitled to attend and vote at Remedy's special
+meeting. On the record date, Remedy had approximately 30,909,043 shares of
+common stock issued and outstanding. Remedy had 142 stockholders of record on
+the record date and believes that its common stock is held by more than 7,000
+beneficial owners.
 
 VOTE AND QUORUM REQUIRED
 
@@ -3280,10 +3253,10 @@ the record date are present at the special meeting in person or by proxy.
     Holders of Remedy's common stock are entitled to one vote for each share
 held as of the record date. In order for the merger to become effective, holders
 of at least a majority of Remedy's outstanding common stock at the record date
-must approve the merger agreement and the merger. Holders of approximately
-      % of the outstanding shares of Remedy's common stock as of the record date
-have entered agreements under which they agreed to vote for the merger agreement
-and the merger and to be present, in person or by proxy, at the special meeting.
+must approve the merger agreement and the merger. Holders of approximately 10.4%
+of the outstanding shares of Remedy's common stock as of the record date have
+entered agreements under which they agreed to vote for the merger agreement and
+the merger and to be present, in person or by proxy, at the special meeting.
 
 TREATMENT OF ABSTENTIONS AND BROKER NON-VOTES
 
@@ -3311,16 +3284,17 @@ proxy.
 
 EXPENSES OF PROXY SOLICITATION
 
-    Remedy will bear the expenses of proxy solicitation, including the cost of
-preparing and mailing this proxy statement/prospectus. Remedy has retained
-Georgeson Shareholder Communications, Inc. to assist with the solicitation of
-proxies for a fee of approximately $6,000 plus reimbursement of the reasonable
-expenses Georgesen incurs. In addition, Remedy may reimburse brokerage firms and
-other custodians for their reasonable out-of-pocket expenses for forwarding this
-proxy statement/prospectus to Remedy's stockholders.
+    Remedy will bear the expenses of proxy solicitation, and Peregrine and
+Remedy will share the cost of preparing and mailing this proxy
+statement/prospectus. Remedy has retained Georgeson Shareholder Communications,
+Inc. to assist with the solicitation of proxies for a fee of approximately
+$6,000 plus reimbursement of the reasonable expenses Georgesen incurs. In
+addition, Remedy may reimburse brokerage firms and other custodians for their
+reasonable out-of-pocket expenses for forwarding this proxy statement/prospectus
+to Remedy's stockholders.
 
     Proxies may be solicited by directors, officers, and employees of Remedy in
-person or by telephone, facsimile, or other means of communications. These
+person or by telephone, facsimile, or other means of communication. These
 directors, officers, and employees will not receive additional compensation for
 their solicitation efforts but may be reimbursed for their reasonable
 out-of-pocket expenses.
@@ -3382,8 +3356,8 @@ BACKGROUND OF THE MERGER
     Peregrine is a leading global provider of infrastructure resource management
 applications, employee relationship management (or self-service) solutions and
 e-commerce technologies and services. These products, services, and enabling
-technologies permit businesses to eliminate points of frictional cost of doing
-business.
+technologies permit businesses to eliminate points of friction in the cost of
+doing business.
 
     Remedy is a leading provider of information technology service management
 and customer relationship management solutions. Remedy's products provide a
@@ -3563,7 +3537,7 @@ identified by the board of directors of Peregrine included the following:
     - Peregrine's board of directors' judgment that Remedy's customer focus on
       small to medium-sized business would complement, and be synergistic with,
       Peregrine's focus on larger enterprise customers for sales of its
-      infra-structure management products;
+      infrastructure management products;
 
     - the combination of the technical and marketing resources of the two
       companies is expected to lead to a broader product family that will be
@@ -3585,8 +3559,8 @@ including the following:
 
     - historical information concerning Peregrine's and Remedy's respective
       businesses, prospects, financial performance and condition, operations,
-      technology and management, including public SEC reports of the results of
-      operations for each company;
+      technology and management, including public reports of the results of
+      operations for each company as filed with the SEC;
 
     - the view of Peregrine's management of the financial condition, results of
       operations, and businesses of Peregrine and Remedy both before and after
@@ -3600,10 +3574,7 @@ including the following:
       paid in the merger in light of comparable transactions;
 
     - detailed financial analysis and pro forma and other information presented
-      to the board, including the opinion of Banc of America Securities LLC to
-      the effect that, as of the date of its opinion and based on and subject to
-      the matters described in the opinion, the exchange ratio in the merger was
-      fair, from a financial point of view, to the stockholders of Peregrine;
+      to the board;
 
     - the anticipated impact of the merger on Peregrine's customers and
       employees;
@@ -3809,7 +3780,7 @@ OF THE MERGER AGREEMENT AND IN FAVOR OF APPROVAL OF THE MERGER.
 be aware that some directors and officers of Remedy have interests in the merger
 that are different from, or are in addition to, the interests of Remedy
 stockholders generally. Please see the section entitled "Interests of Remedy's
-directors and executive officers" on page 66 of this proxy statement/prospectus.
+directors and executive officers" on page 65 of this proxy statement/prospectus.
 
 OPINION OF REMEDY'S FINANCIAL ADVISOR
 
@@ -3938,7 +3909,7 @@ From April 6, 2001......................................    $15.05 - $20.00
 30 trading days.........................................    $16.92 - $20.00
 
     The implied transaction value of $35.12 per share of Remedy common stock is
-based on Peregrine's common stock price of $28.21 per share as of June 8, 2001.
+based on Peregrine's common stock price of $28.81 per share as of June 8, 2001.
 Morgan Stanley noted that the implied transaction value reflected a 91.5%
 premium to Remedy's closing price as of June 8, 2001 and was above the range of
 closing prices for the 30-day and 60-day periods ending on June 8, 2001 as well
@@ -3966,10 +3937,9 @@ the relevant comparable companies analyzed by Morgan Stanley:
     In conducting its analysis, Morgan Stanley applied the relevant financial
 multiples of the comparable companies to publicly available securities research
 analyst estimates of various financial statistics for Remedy and added a change
-of control premium ranging from 20% to 40%. Morgan
-
-Stanley then estimated the implied value per share of Remedy as of June 8, 2001.
-Morgan Stanley estimated the following:
+of control premium ranging from 20% to 40%. Morgan Stanley then estimated the
+implied value per share of Remedy as of June 8, 2001. Morgan Stanley estimated
+the following:
 
                                          REMEDY       COMPARABLE
                                         FINANCIAL      COMPANY       IMPLIED VALUE PER
@@ -4047,7 +4017,7 @@ is a list of the selected precedent transactions reviewed:
           Sterling Software, Inc./Computer Associates International,
           Inc.
           Sterling Commerce, Inc./SBC Communications, Inc.
-          PLATINUM Technology International, Inc/Computer Associates
+          PLATINUM Technology International, Inc./Computer Associates
           International, Inc.
           Visio Corporation/Microsoft Corporation
           Network General Corporation/McAfee Associates, Inc.
@@ -4096,10 +4066,9 @@ transactions to which they are being compared.
 
     DISCOUNTED EQUITY VALUE.  Morgan Stanley performed an analysis of the
 implied present value per share of Remedy common stock on a stand-alone basis
-based on Remedy's projected future equity
-
-value using equity research analyst projections that were publicly available as
-of June 8, 2001 for Remedy's future cash earnings projections.
+based on Remedy's projected future equity value using equity research analyst
+projections that were publicly available as of June 8, 2001 for Remedy's future
+cash earnings projections.
 
                                                                  NEXT
                                                   REMEDY       CALENDAR                  IMPLIED VALUE
@@ -4117,9 +4086,10 @@ range.
     RELATIVE CONTRIBUTION ANALYSIS.  Morgan Stanley compared Remedy and
 Peregrine stockholders' respective percentage ownership of the combined company
 to Remedy's and Peregrine's respective percentage contribution (and the implied
-ownership based on such contribution) to the combined company using revenues,
-operating income and net income based on publicly-available equity research
-analyst estimates.
+ownership based on such contribution) to the combined
+
+company using revenues, operating income and net income based on
+publicly-available equity research analyst estimates.
 
                                                                IMPLIED % PRO FORMA
                                                                    OWNERSHIP BY
@@ -4241,7 +4211,7 @@ CALENDAR YEAR FINANCIAL STATISTIC            STATISTIC       RANGE          RATE
 2004 Estimated Cash Earnings Per Share.....    $1.63       25x - 45x        15.0%     $30.75 - $55.35
 
     Morgan Stanley observed the price per share of Peregrine common stock on
-June 8, 2001 of $28.21 was at the low end of the estimated reference range of
+June 8, 2001 of $28.81 was at the low end of the estimated reference range of
 $26.20 - $55.35.
 
     In connection with the review of the merger by Remedy's board of directors,
@@ -4332,7 +4302,7 @@ other studies that have not yet been finalized.
 MATERIAL UNITED STATES FEDERAL INCOME TAX CONSEQUENCES OF THE MERGER
 
     In the opinion of Wilson Sonsini Goodrich & Rosati, P.C., counsel to
-Peregrine, and Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, L.P.,
+Peregrine, and Gunderson Dettmer Stough Villeneuve Franklin & Hachigian, LLP,
 counsel to Remedy, the following are the material United States federal income
 tax consequences of the merger, assuming that the merger is effected as
 described in the merger agreement and this proxy statement/prospectus. This
@@ -4535,7 +4505,7 @@ Act of 1934. The stockholders of Remedy will become stockholders of Peregrine,
 and their rights as stockholders will be governed by Peregrine's amended and
 restated certificate of incorporation, Peregrine's bylaws and the laws of the
 State of Delaware. See "Comparison of Rights of Holders of Remedy Common Stock
-and Peregrine Common Stock," beginning on page 101.
+and Peregrine Common Stock," beginning on page 100.
 
 LISTING OF PEREGRINE COMMON STOCK TO BE ISSUED IN THE MERGER
 
@@ -4560,8 +4530,9 @@ termination of the waiting period has been granted. Peregrine's acquisition of
 shares of Remedy's common stock pursuant to the merger is subject to the
 provisions of that act. Under the act, the transaction cannot be consummated
 until the expiration or early termination of the waiting period following the
-filing of a Hart-Scott-Rodino Notification and Report Forms by Peregrine and
-Remedy.
+filing of Hart-Scott-Rodino Notification and Report Forms by Peregrine and
+Remedy. Peregrine and Remedy have made the necessary filings and have received
+early termination of the waiting period.
 
     The Antitrust Division of the Department of Justice or the Federal Trade
 Commission may challenge the merger on antitrust grounds either before or after
@@ -4619,7 +4590,7 @@ asserting these rights, and multiple steps must be taken to properly perfect the
 rights. A copy of Section 262 of the Delaware General Corporation Law is
 attached to this proxy statement/prospectus as Annex E. A more detailed
 discussion of appraisal rights under Delaware law is contained in the section
-entitled "Appraisal rights" on page 65 of this proxy statement/ prospectus.
+entitled "Appraisal rights" on page 105 of this proxy statement/ prospectus.
 
 FEDERAL SECURITIES LAWS CONSEQUENCES; STOCK TRANSFER RESTRICTIONS
 
@@ -4789,7 +4760,7 @@ agreement and the merger will be presented and voted upon.
 
     Peregrine and Remedy are working toward satisfying the conditions to the
 merger, and completing the merger, as soon as possible. Peregrine and Remedy
-currently hope to complete the merger by September 30, 2001, assuming that the
+currently hope to complete the merger by August 31, 2001, assuming that the
 Remedy stockholders adopt and approve the merger agreement and approve the
 merger at the special meeting of Remedy stockholders and that the other
 conditions to the merger are satisfied promptly. However, because the merger is
@@ -4912,7 +4883,7 @@ except that:
 
     - the per share exercise price of each stock option will be equal to the
       quotient obtained by dividing the exercise price per share of each such
-      stock option prior to the merger, by the OPTION EXCHANGE RATIO (rounded up
+      stock option prior to the merger by the OPTION EXCHANGE RATIO (rounded up
       to the nearest whole cent).
 
     The OPTION EXCHANGE RATIO is the sum of the following:
@@ -5021,7 +4992,7 @@ agreement entitled "Representations and Warranties of the Company."
 
 REPRESENTATIONS AND WARRANTIES OF PEREGRINE AND ROSE ACQUISITION CORPORATION
 
-    Peregrine and Rose Acquisition Corporation have made a number of customary
+    Peregrine and Rose Acquisition Corporation made a number of customary
 representations and warranties to Remedy in the merger agreement regarding
 aspects of Peregrine's business, financial condition, structure and other facts
 pertinent to the merger. These representations and warranties include
@@ -5211,7 +5182,7 @@ or unless Remedy consents in writing, Peregrine will not:
 the merger agreement are complicated and not easily summarized. You are urged to
 carefully read Article V of the merger agreement entitled "Interim Conduct."
 
-RESTRICTIONS ON SOLICITATION OF ALTERNATIVE ACQUISITION PROPOSALS BY REMEDY
+RESTRICTIONS ON SOLICITATION OF ALTERNATIVE TRANSACTIONS BY REMEDY
 
     Under the terms of the merger agreement, Remedy agreed to cease, as of the
 date of the merger agreement, any and all existing activities, discussions or
@@ -5359,7 +5330,7 @@ the approval of the merger. However, the Remedy board of directors may withhold,
 withdraw, amend or modify its recommendation in favor of the merger agreement
 and the merger if:
 
-    - Remedy receives a SUPERIOR PROPOSAL, which is not withdrawn;
+    - Remedy receives a SUPERIOR PROPOSAL which is not withdrawn;
 
     - neither Remedy nor any of its representatives has violated the
       non-solicitation provisions contained in the merger agreement; and
@@ -5389,7 +5360,7 @@ law.
 
 RIGHT TO DESIGNATE PEREGRINE DIRECTOR
 
-    At the completion of the merger, Remedy will be entitled to designate one
+    After completion of the merger, Remedy will be entitled to designate one
 member on the Peregrine board of directors, who will serve for an initial term
 ending on the date of the next scheduled annual meeting of Peregrine
 stockholders. Remedy anticipates that its designee will be Lawrence L. Garlick.
@@ -5821,10 +5792,11 @@ acquired after the date of the voting agreements, as follows:
       into any other person.
 
     As of the record date, these individuals collectively beneficially owned
-      shares of Remedy common stock or approximately       % of the outstanding
-Remedy common stock. All of these shares are subject to the voting agreement.
-None of the Remedy stockholders who are parties to the voting agreements were
-paid additional consideration in connection with these agreements.
+3,206,990 shares of Remedy common stock or approximately 10.4% of the
+outstanding Remedy common stock. All of these shares are subject to the voting
+agreement. None of the Remedy stockholders who are parties to the voting
+agreements were paid additional consideration in connection with these
+agreements.
 
     Under the voting agreements, each of these Remedy stockholders agreed not to
 sell the Remedy common stock and options owned, controlled or acquired, either
@@ -5857,8 +5829,8 @@ individuals who are parties to the agreement represented the following:
       are held by the affiliate;
 
     - the affiliate does not own, of record or beneficially, directly or
-      indirectly to the affiliate agreement, any securities of the Company other
-      than the shares and options listed on the signature page; and
+      indirectly to the affiliate agreement, any securities of Remedy other than
+      the shares and options listed on the signature page; and
 
     - the affiliate has carefully read the affiliate agreement and, to the
       extent the affiliate felt necessary, has discussed with counsel the
@@ -5880,7 +5852,7 @@ unless one of the following conditions is met:
       applicable requirements of Rule 145 promulgated under the Securities Act;
 
     - counsel reasonably satisfactory to Peregrine shall have advised Peregrine
-      in a written opinion letter, reasonable acceptable to Peregrine in form
+      in a written opinion letter, reasonably acceptable to Peregrine in form
       and substance and upon which Peregrine may rely, that such sale, transfer
       or other disposition will be exempt from the registration requirements
       under the Securities Act; or
@@ -5893,10 +5865,10 @@ unless one of the following conditions is met:
       have been delivered to Peregrine.
 
     Peregrine has agreed to use its reasonable efforts to timely make all
-filings under the Securities Exchange Act of 1934, as amended, to furnish to the
-affiliates a written statement to that effect during the 12 months preceding a
-proposed sale and to otherwise use its reasonable efforts to permit sales
-pursuant to Rule 145.
+filings required to be made by it under the Securities Exchange Act of 1934, as
+amended, to furnish to the affiliates a written statement to that effect during
+the 12 months preceding a proposed sale and to otherwise use its reasonable
+efforts to permit sales by affiliates pursuant to Rule 145.
 
     The form of affiliate agreement is attached as Annex C to this proxy
 statement/prospectus.
@@ -6085,11 +6057,13 @@ financial statements have been audited by Arthur Andersen LLP, independent
 public accountants. The consolidated financial statements as of March 31, 2000
 and 2001 and for each of the years in the three-year period ended March 31,
 2001, and the report of independent public accountants thereon, are incorporated
-herein by reference. The selected consolidated financial data set forth below is
-qualified in its entirety by, and should be read in conjunction with, the
-Consolidated Financial Statements and Notes thereto and "Management's Discussion
-and Analysis of Financial Condition and Results of Operations" incorporated
-herein by reference.
+herein by reference to Peregrine's annual report on Form 10-K for the fiscal
+year ended March 31, 2001. The selected consolidated financial data set forth
+below is qualified in its entirety by, and should be read in conjunction with,
+the Consolidated Financial Statements and Notes thereto and "Management's
+Discussion and Analysis of Financial Condition and Results of Operations"
+incorporated herein by reference to Peregrine's annual report on Form 10-K for
+the fiscal year ended March 31, 2001.
 
                                                               YEAR ENDED MARCH 31,
                                              ------------------------------------------------------
@@ -6148,7 +6122,8 @@ Stockholders' equity (deficit).............   1,389,765    411,850    150,781   
 should be read in conjunction with, the Consolidated Financial Statements of
 Remedy and the Notes thereto and with "Management's Discussion and Analysis of
 Financial Condition and Results of Operations" contained in Remedy's annual
-report on Form 10-K for the year ended December 31, 2000, which has been
+report on Form 10-K for the year ended December 31, 2000, and Remedy's quarterly
+report on Form 10-Q for the quarter ended March 31, 2001, which have been
 incorporated by reference herein. The consolidated balance sheet data and
 consolidated statements of operations data as of and for each of the five years
 in the period ended December 31, 2000 have been derived from the audited
@@ -6494,10 +6469,10 @@ GENERAL
 
     Peregrine is authorized to issue 500,000,000 shares of common stock, $0.001
 par value, and 5,000,000 shares of undesignated preferred stock, $0.001 par
-value. As of       , 2001, approximately       shares of Peregrine common stock
-were outstanding,             shares of Peregrine common stock were issuable
-upon exercise of outstanding options, and no shares of Peregrine preferred stock
-were issued and outstanding.
+value. As of July 9, 2001, approximately 163,144,479 shares of Peregrine common
+stock were outstanding, 25,811,449 shares of Peregrine common stock were
+issuable upon exercise of outstanding options, and no shares of Peregrine
+preferred stock were issued and outstanding.
 
     The following description of Peregrine's capital stock does not purport to
 be complete and is subject to and qualified in its entirety by Peregrine's
@@ -6594,10 +6569,9 @@ GENERAL
     Remedy is authorized to issue 240,000,000 shares of common stock, $.00005
 par value, and 20,000,000 shares of preferred stock, $.00005 par value, of which
 50,000 shares are designated as Series A Junior Participating Preferred Stock.
-As of             , approximately             shares of common stock were
-outstanding,             shares of Remedy common stock were issuable upon
-exercise of outstanding options and no shares of preferred stock were
-outstanding.
+As of July 9, 2001, approximately 30,909,043 shares of common stock were
+outstanding, 9,580,747 shares of Remedy common stock were issuable upon exercise
+of outstanding options and no shares of preferred stock were outstanding.
 
 COMMON STOCK
 
@@ -6731,7 +6705,7 @@ Peregrine, their rights will be governed by Delaware corporation law and by
 Peregrine's certificate of incorporation and bylaws. The following discussion
 compares the material provisions in Remedy's certificate of incorporation and
 bylaws with the provisions in Peregrine's certificate of incorporation and
-bylaws. See "Description of Remedy Capital Stock" beginning on page 99 for a
+bylaws. See "Description of Remedy Capital Stock" beginning on page 98 for a
 description of the rights of Remedy stockholders under Remedy's rights agreement
 with respect to antitakeover measures.
 
@@ -6815,9 +6789,9 @@ meetings.......................  Peregrine's bylaws require that  Remedy's bylaw
                                  election to the board of         board of directors and the
                                  directors and the proposal of    proposal of business to be
                                  business to be considered at     transacted at the meeting be
-                                 any meeting of stockholders      made
+                                 any meeting of stockholders      made:
                                  must be:                         - pursuant to the notice of
-                                 - specified in the                 meeting
+                                 - specified in the                 meeting,
                                  corporation's notice of          - specified in the
                                    meeting,                       corporation's notice of
                                  - otherwise properly brought by    meeting,
@@ -6837,18 +6811,18 @@ meetings.......................  Peregrine's bylaws require that  Remedy's bylaw
                                  proper matter for stockholder    more than 30 days prior to or
                                  action.                          delayed
                                  To be timely, a stockholder's
-                                 notice must be delivered to
+                                 notice must be delivered to the
 
                                             PEREGRINE                         REMEDY
                                            (DELAWARE)                       (DELAWARE)
                                  -------------------------------  -------------------------------
 
-                                 received by the secretary of     by more than 60 days after the
-                                 Peregrine not less than 90 days  anniversary date, notice to be
-                                 prior to the meeting; provided,  timely must be delivered no
-                                 however, that in the event that  later than the close of
-                                 less than 100 days' notice or    business on the later of the
-                                 prior public disclosure of the   60th day prior to the meeting
+                                 secretary of Peregrine not less  by more than 60 days after the
+                                 than 90 days prior to the        anniversary date, notice to be
+                                 meeting; provided, however,      timely must be delivered no
+                                 that in the event that less      later than the close of
+                                 than 100 days' notice or prior   business on the later of the
+                                 public disclosure of the         60th day prior to the meeting
                                  meeting is given to the          or the 10th day following the
                                  stockholders, notice by the      day on which public
                                  stockholder to be timely must    announcement of the meeting was
@@ -6893,7 +6867,7 @@ Number of directors............  Peregrine's certificate of       Remedy's certi
                                  designated by the bylaws. The    Remedy's bylaws or an amendment
                                  bylaws currently provide that    thereof adopted by the board of
                                  the board of directors shall     directors or by the
-                                 consist of nine members. This    stockholders.
+                                 consist of ten members. This     stockholders.
                                  number may be changed by a
                                  resolution of the board of
                                  directors.
@@ -7005,13 +6979,13 @@ Limitations on liability.......  Peregrine's certificate of       Remedy's certi
                                 APPRAISAL RIGHTS
 
     Under the Delaware General Corporation Law, Remedy stockholders may object
-to the merger and demand in writing that Remedy pay the fair value of their
-shares. Determination of fair value is based on all relevant factors, but
-excludes any appreciation or depreciation resulting from the anticipation or
-accomplishment of the merger. Stockholders who elect to exercise appraisal
-rights must comply with all of the procedures to preserve those rights. A copy
-of Section 262 of the Delaware General Corporation Law, which sets forth the
-appraisal rights, is attached as Annex E to this document.
+to the merger and demand in writing that the company surviving the merger pay
+the fair value of their shares. Determination of fair value is based on all
+relevant factors, but excludes any appreciation or depreciation resulting from
+the anticipation or accomplishment of the merger. Stockholders who elect to
+exercise appraisal rights must comply with all of the procedures to preserve
+those rights. A copy of Section 262 of the Delaware General Corporation Law,
+which sets forth the appraisal rights, is attached as Annex E to this document.
 
     Section 262 sets forth the procedures a stockholder requesting appraisal
 must follow. These procedures are complicated and must be followed completely.
@@ -7085,59 +7059,60 @@ thereby demanding appraisal of such stockholder's shares.
 
 WRITTEN NOTICE
 
-    Within 10 days after the closing of the merger, Remedy must give written
-notice that the merger has become effective to each stockholder who has fully
-complied with the conditions of Section 262. Except as required by law, Remedy
-will not notify stockholders of any dates by which appraisal rights must be
-exercised.
+    Within 10 days after the closing of the merger, the company surviving the
+merger must give written notice of the date that the merger became effective to
+each stockholder who has fully complied with the conditions of Section 262.
+Except as required by law, you will not be notified of any dates by which
+appraisal rights must be exercised.
 
 PETITION WITH THE CHANCERY COURT
 
-    Within 120 days after the closing of the merger, either Remedy or any
-stockholder who has complied with the conditions of Section 262 may file a
-petition in the Delaware Court of Chancery. This petition should request that
-the Chancery Court determine the value of the shares of Remedy stock held by all
-of the stockholders who are entitled to appraisal rights. If you intend to
-exercise your rights of appraisal, you should file a petition in the Chancery
-Court. Remedy has no intentions at this time to file a petition. Because Remedy
-has no obligation to file a petition, if you do not file such a petition within
-120 days after the closing, you will lose your rights of appraisal.
+    Within 120 days after the closing of the merger, the company surviving the
+merger or any stockholder who has complied with the conditions of Section 262
+may file a petition in the Delaware Court of Chancery. This petition should
+request that the Chancery Court determine the value of the shares of Remedy
+stock held by all of the stockholders who are entitled to appraisal rights. If
+you intend to exercise your rights of appraisal, you should file a petition in
+the Chancery Court. Neither Remedy nor Peregrine have any intention at this time
+to file a petition. Because neither Remedy nor Peregrine have an obligation to
+file a petition, if you do not file such a petition within 120 days after the
+closing, you will lose your rights of appraisal.
 
 WITHDRAWAL OF DEMAND
 
     If you change your mind and decide you no longer want an appraisal, you may
 withdraw your demand for appraisal at any time within 60 days after the closing
 of the merger. You may also withdraw your demand for appraisal after 60 days
-after the closing of the merger, but only with the written consent of Remedy. If
-you withdraw your demand for appraisal, you will receive the merger
+after the closing of the merger, but only with the written consent of Peregrine.
+If you withdraw your demand for appraisal, you will receive the merger
 consideration provided in the merger agreement.
 
 REQUEST FOR APPRAISAL RIGHTS STATEMENT
 
     If you have complied with the conditions of Section 262, you will be
-entitled to receive a statement from Remedy setting forth the number of shares
-for which appraisal rights have been exercised and the number of stockholders
-who own those shares. In order to receive this statement, you must send a
-written request to Remedy within 120 days after the closing of the merger. After
-the merger, Remedy will have 10 days after receiving a request to mail the
+entitled to receive a statement setting forth the number of shares for which
+appraisal rights have been exercised and the number of stockholders who own
+those shares. In order to receive this statement, you must send a written
+request to Peregrine within 120 days after the closing of the merger. After the
+merger, Peregrine will have 10 days after receiving a request to mail the
 statement to the stockholder.
 
 CHANCERY COURT PROCEDURES
 
     If you properly file a petition for appraisal in the Chancery Court and
-deliver a copy to Remedy, Remedy will then have 20 days to provide the Chancery
-Court with a list of the names and addresses of all stockholders who have
-demanded appraisal and have not reached an agreement with Remedy as to the value
-of their shares. The Chancery Court will then send notice to all of the
-stockholders who have demanded appraisal. If the Chancery Court decides it is
-appropriate, it has the power to conduct
+deliver a copy to Peregrine, Peregrine will then have 20 days to provide the
+Chancery Court with a list of the names and addresses of all stockholders who
+have demanded appraisal and have not reached an agreement with Peregrine as to
+the value of their shares. If the Chancery Court decides it is appropriate, it
+will then send notice to
 
-a hearing to determine whether the stockholders have fully complied with
-Section 262 of the Delaware General Corporation Law and whether they are
-entitled to appraisal under that section. The Chancery Court may also require
-you to submit your stock certificates to the Registry in Chancery so that it can
-note on the certificates that an appraisal proceeding is pending. If you do not
-follow the Chancery Court's directions, you may be dismissed from the
+all of the stockholders who have demanded appraisal. The Chancery Court has the
+power to conduct a hearing to determine whether the stockholders have fully
+complied with Section 262 of the Delaware General Corporation Law and whether
+they are entitled to appraisal under that section. The Chancery Court may also
+require you to submit your stock certificates to the Registry in Chancery so
+that it can note on the certificates that an appraisal proceeding is pending. If
+you do not follow the Chancery Court's directions, you may be dismissed from the
 proceeding.
 
 CHANCERY COURT APPRAISAL OF REMEDY SHARES
@@ -7147,11 +7122,12 @@ appraisal rights, the Chancery Court will appraise the shares of stock. To
 determine the fair value of the shares, the Chancery Court will consider all
 relevant factors except for any appreciation or depreciation resulting from the
 anticipation or accomplishment of the merger. After the Chancery Court
-determines the fair value of the shares, it will direct Remedy to pay that value
-to the stockholders who are entitled to appraisal. The Chancery Court can also
-direct Remedy to pay interest, simple or compound, on that value if the Chancery
-Court determines that interest is appropriate. In order to receive the fair
-value for your shares, you must surrender your stock certificates to Remedy.
+determines the fair value of the shares, it will direct Peregrine to pay that
+value to the stockholders who are entitled to appraisal. The Chancery Court can
+also direct Peregrine to pay interest, simple or compound, on that value if the
+Chancery Court determines that interest is appropriate. In order to receive the
+fair value for your shares, you must surrender your stock certificates to
+Peregrine.
 
     The Chancery Court could determine that the fair value of shares of Remedy
 stock is more than, the same as, or less than the merger consideration. In other
@@ -7161,13 +7137,14 @@ you would under the merger agreement.
 COSTS AND EXPENSES OF APPRAISAL PROCEEDING
 
     The costs and expenses of the appraisal proceeding may be assessed against
-Remedy and the stockholders participating in the appraisal proceeding, as the
-Chancery Court deems equitable under the circumstances. You can request that the
-Chancery Court determine the amount of interest, if any, that Remedy should pay
-on the value of stock owned by stockholders entitled to the payment of interest.
-You may also request that the Chancery Court allocate the expenses of the
-appraisal action incurred by any stockholder pro rata against the value of all
-of the shares entitled to appraisal.
+the company surviving the merger and the stockholders participating in the
+appraisal proceeding, as the Chancery Court deems equitable under the
+circumstances. You can request that the Chancery Court determine the amount of
+interest, if any, that the company surviving the merger should pay on the value
+of stock owned by stockholders entitled to the payment of interest. You may also
+request that the Chancery Court allocate the expenses of the appraisal action
+incurred by any stockholder pro rata against the value of all of the shares
+entitled to appraisal.
 
 LOSS OF STOCKHOLDER'S RIGHTS
 
@@ -7187,12 +7164,12 @@ entitled to:
 
     However, you can regain these rights if no petition for an appraisal is
 filed within 120 days after the closing of the merger, or if you deliver to
-Remedy a written withdrawal of your demand for an appraisal and your acceptance
-of the merger, either within 60 days after the closing of the merger or with the
-written consent of Remedy. As explained above, these actions will also terminate
-your appraisal rights. However, an appraisal proceeding in the Chancery Court
-cannot be dismissed without the Chancery Court's approval. The Chancery Court
-may condition its approval upon any terms that it deems just.
+Peregrine a written withdrawal of your demand for an appraisal and your
+acceptance of the merger, either within 60 days after the closing of the merger
+or with the written consent of Peregrine. As explained above, these actions will
+also terminate your appraisal rights. However, an appraisal proceeding in the
+Chancery Court cannot be dismissed without the Chancery Court's approval. The
+Chancery Court may condition its approval upon any terms that it deems just.
 
     IF YOU FAIL TO COMPLY STRICTLY WITH THESE PROCEDURES YOU WILL LOSE YOUR
 APPRAISAL RIGHTS. CONSEQUENTLY, IF YOU WISH TO EXERCISE YOUR APPRAISAL RIGHTS,
@@ -7297,9 +7274,8 @@ incorporated by reference into this proxy statement/prospectus:
        registration statement on Form 8-A, filed with the SEC on March 7, 1997
        under Section 12(g) of the Exchange Act.
 
-    The following documents, which were filed by Remedy with the Securities and
-Exchange Commission, are incorporated by reference into this proxy
-statement/prospectus:
+    The following documents, which were filed by Remedy with the SEC, are
+incorporated by reference into this proxy statement/prospectus:
 
     1.  Remedy's Annual Report on Form 10-K for the fiscal year ended
        December 31, 2000.
@@ -7330,8 +7306,8 @@ Telephone: (858) 481-5000              Telephone: (650) 903-5200
 Attention: Investor Relations          Attention: Investor Relations
 
     IF YOU WISH TO RECEIVE COPIES OF ANY OF THE PEREGRINE OR REMEDY DOCUMENTS
-LISTED ABOVE BEFORE THE SPECIAL MEETING, YOU SHOULD MAKE A REQUEST BY       ,
-              , 2001 TO ENSURE TIMELY DELIVERY OF THE DOCUMENTS .
+LISTED ABOVE BEFORE THE SPECIAL MEETING, YOU SHOULD MAKE A REQUEST BY
+AUGUST 22, 2001 TO ENSURE TIMELY DELIVERY OF THE DOCUMENTS .
 
     You should rely only on (i) the information contained in this proxy
 statement/prospectus or (ii) information that Peregrine and Remedy have referred
@@ -7516,11 +7492,7 @@ ARTICLE IX GENERAL PROVISIONS..............................................  A-5
 
                                      A-iii
 
-                               INDEX OF EXHIBITS
-
-EXHIBIT A--FORM OF COMPANY VOTING AGREEMENT
-
-EXHIBIT B--FORM OF COMPANY AFFILIATE AGREEMENT
+                 (This page has been left blank intentionally.)
 
                                       A-iv
 
@@ -7744,4 +7716,24 @@ following terms shall have the following respective meanings:
     of the following be taken into account in determining whether there has been
     or will be, a Material Adverse Effect on any entity: (i) any change
     resulting from compliance with the terms and conditions of this Agreement;
-    (ii) any chan
+    (ii) any change resulting from the pendency of the Merger or any other
+    transactions contemplated hereby (including, without limitation, any
+    cancellation or deferral of product or service orders by customers);
+    (iii) any change in such entity's stock price or trading volume or any
+    failure by such entity to meet internal projections or forecasts or
+    published revenue or earnings projections, in each case in and of itself;
+    (iv) any change or effect that results or arises from changes affecting any
+    of the industries in which such entity operates generally or the United
+    States economy generally (which changes or effects in each case do not
+    disproportionately affect such entity in any material respect); or (v) any
+    change or effect that results or arises from changes affecting general
+    worldwide economic or capital market conditions (which changes in each case
+    do not disproportionately affect such entity in any material respect);
+    PROVIDED, HOWEVER, that the party hereto asserting the exception in
+    clause (i), (ii), (iv) and/or (v) above shows by a preponderance of the
+    evidence that such change results from compliance with the terms and
+    conditions of this Agreement or the pendency of the Merger or any other
+    transactions contemplated hereby, as applicable.
+
+        (ff)  "NASDAQ" means the Nasdaq National Market, or any successor
+    inter-dealer 

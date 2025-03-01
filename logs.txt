@@ -53,169 +53,57 @@
 [2025-02-27 16:44:06] [+] Successfully created document for: Foilmark Inc & Illinois Tool Works Inc
 [2025-02-27 16:44:14] [+] Successfully created document for: McNaughton Apparel Group Inc & Jones Apparel Group Inc
 [2025-02-27 16:44:18] [-] No relevant document found for index 49: Allergan Specialty & Allergan Inc
-[2025-02-27 16:49:19] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 16:49:26] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 16:49:43] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 16:49:51] [+] Successfully created document for: Learn2.com Inc & E-Stamp Corp
-[2025-02-27 16:50:00] [*] No background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc. Retrying via fallback...
-[2025-02-27 16:50:21] [+] Successfully created document for: Aronex Pharmaceuticals Inc & Antigenics Inc
-[2025-02-27 16:50:29] [+] Successfully created document for: Focal Inc & Genzyme Corp
-[2025-02-27 16:50:38] [*] No background section found for index 54: MedPlus Inc & Quest Diagnostics Inc. Retrying via fallback...
-[2025-02-27 16:50:54] [+] Successfully created document for: MedPlus Inc & Quest Diagnostics Inc
-[2025-02-27 16:51:04] [+] Successfully created document for: Aurora Biosciences Corp & Vertex Pharmaceuticals Inc
-[2025-02-27 16:51:18] [+] Successfully created document for: Del Webb Corp & Pulte Homes Inc
-[2025-02-27 16:51:27] [+] Successfully created document for: Telescan Inc & Ziasun Technologies Inc
-[2025-02-27 16:51:31] [-] No relevant document found for index 58: Ultramar Diamond Shamrock Corp & Valero Energy Corp
-[2025-02-27 16:52:22] [+] Successfully created document for: NOVA Corp & US Bancorp
-[2025-02-27 16:52:34] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 16:52:34] [-] No relevant document found for index 60: Telemate Net Software Inc & Verso Technologies Inc
-[2025-02-27 16:52:41] [-] No relevant document found for index 61: Barrett Resources Corp & Williams Cos Inc
-[2025-02-27 16:52:50] [+] Successfully created document for: Rosetta Inpharmatics Inc & Merck & Co Inc
-[2025-02-27 16:53:23] [+] Successfully created document for: HS Resources Inc & Kerr-McGee Corp
-[2025-02-27 16:53:30] [-] No relevant document found for index 64: Healthcare.com Corp & Xcare Net Inc
-[2025-02-27 16:53:33] [-] No relevant document found for index 65: SkyMall Inc & Gemstar-TV Guide Intl Inc
-[2025-02-27 16:53:46] [+] Successfully created document for: Sawtek Inc & TriQuint Semiconductor Inc
-[2025-02-27 16:53:56] [+] Successfully created document for: Integrated Measurement Systems & Credence Systems Corp
-[2025-02-27 16:54:01] [-] No relevant document found for index 68: OrthAlliance Inc & Orthodontic Centers of America
-[2025-02-27 16:54:04] [-] No relevant document found for index 69: C-bridge Internet Solutions & Excelon Corp
-[2025-02-27 16:54:16] [*] No background section found for index 70: Energy Search Inc & EOG Resources Inc. Retrying via fallback...
-[2025-02-27 16:54:28] [+] Successfully created document for: Energy Search Inc & EOG Resources Inc
-[2025-02-27 16:54:49] [+] Successfully created document for: Marine Drilling Cos & Pride International Inc
-[2025-02-27 16:56:14] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/68505/000091205701518301/0000912057-01-518301.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![4B(WGHFS(T=5+*4E"'
-[2025-02-27 16:56:18] [+] Successfully created document for: Structural Dynamics Research & Electronic Data Systems Corp
-[2025-02-27 16:56:28] [+] Successfully created document for: PictureTel Corp & Polycom Inc
-[2025-02-27 16:56:36] [+] Successfully created document for: York Group Inc & Matthews International Corp
-[2025-02-27 16:56:41] [-] No relevant document found for index 75: RoweCom Inc & Divine Inc
-[2025-02-27 16:56:49] [+] Successfully created document for: MiniMed Inc & Medtronic Inc
-[2025-02-27 16:56:56] [+] Successfully created document for: Richton International Corp & Deere & Co
-[2025-02-27 16:57:06] [+] Successfully created document for: Minntech Corp & Cantel Medical Corp
-[2025-02-27 16:58:47] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/1038339/000095013301501212/0000950133-01-501212.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![%G(0BITW4Z15T\\L2='
-[2025-02-27 16:58:47] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/1038339/000095013301501213/0000950133-01-501213.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![%G(0BITW4Z15T\\L2='
-[2025-02-27 16:58:51] [+] Successfully created document for: United Investors Realty Trust & Equity One Inc
-[2025-02-27 16:59:00] [+] Successfully created document for: MessageMedia Inc & DoubleClick Inc
-[2025-02-27 16:59:48] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/68505/000091205701518301/0000912057-01-518301.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![4B(WGHFS(T=5+*4E"'
-[2025-02-27 16:59:48] [-] No relevant document found for index 81: Sound Advice Inc & Tweeter Home Ent Group Inc
-[2025-02-27 17:00:09] [+] Successfully created document for: Juno Online Services Inc & Netzero Inc
-[2025-02-27 17:01:17] [-] No relevant document found for index 83: Network Six Inc & TRW Inc
-[2025-02-27 17:01:31] [+] Successfully created document for: Belco Oil & Gas Corp & Westport Resources Cforp
-[2025-02-27 17:02:18] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401505038/0000950144-01-505038.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:02:23] [+] Successfully created document for: Remedy Corp & Peregrine Systems Inc
-[2025-02-27 17:02:36] [+] Successfully created document for: AXYS Pharmaceuticals Inc & Celera Genomics Corp
-[2025-02-27 17:02:58] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401505038/0000950144-01-505038.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:02:58] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:03:01] [+] Successfully created document for: Aris Corp & Ciber Inc
-[2025-02-27 17:04:02] [+] Successfully created document for: Avert Inc & Automatic Data Processing Inc
-[2025-02-27 17:04:12] [+] Successfully created document for: Galileo International Inc & Cendant Corp
-[2025-02-27 17:04:22] [+] Successfully created document for: Datron Systems Inc & Titan Corp
-[2025-02-27 17:04:33] [+] Successfully created document for: SMC Corp & Monaco Coach Corp
-[2025-02-27 17:04:37] [-] No relevant document found for index 92: Duck Head Apparel Co & Tropical Sportswear Intl Corp
-[2025-02-27 17:04:43] [-] No relevant document found for index 93: Launch Media Inc & Yahoo! Inc
-[2025-02-27 17:04:50] [+] Successfully created document for: UroCor Inc & Dianon Systems Inc
-[2025-02-27 17:04:57] [+] Successfully created document for: Cardiac Pathways Corp & Boston Scientific Corp
-[2025-02-27 17:05:01] [-] No relevant document found for index 96: Duramed Pharmaceuticals Inc & Barr Laboratories Inc
-[2025-02-27 17:05:05] [-] No relevant document found for index 97: Captec Net Lease Realty Inc & Commercial Net Lease Rlty Inc
-[2025-02-27 17:05:12] [+] Successfully created document for: Earthgrains Co & Sara Lee Corp
-[2025-02-27 17:05:35] [+] Successfully created document for: Mediaplex Inc & ValueClick Inc
-[2025-02-27 17:16:25] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:16:32] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 17:16:43] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 17:18:45] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:18:52] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 17:19:04] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 17:20:23] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:20:32] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 17:20:42] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 17:30:43] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:30:50] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 17:31:01] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 17:42:36] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:42:42] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 17:42:55] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 17:48:15] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:48:21] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 17:48:37] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 17:50:25] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:50:32] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 17:50:45] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 17:54:40] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 17:54:48] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 17:55:06] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/8858/000095012301501125/0000950123-01-501125.txt: maximum recursion depth exceeded
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/8858/000095012301500734/0000950123-01-500734.txt: maximum recursion depth exceeded
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/40533/000095013701501787/0000950137-01-501787.txt: Invalid HTML tag name 'reqy:b;rr1&m`8s@].g3p4$!``['
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/1126609/000110801701000073/0001108017-01-000073.txt: Invalid HTML tag name 'pp&e'
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/40533/000095012401501586/0000950124-01-501586.txt: Invalid HTML tag name 'reqy:b;rr1&m`8s@].g3p4$!``['
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/40533/000095013701501674/0000950137-01-501674.txt: Invalid HTML tag name 'reqy:b;rr1&m`8s@].g3p4$!``['
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/40533/000095013701501216/0000950137-01-501216.txt: Invalid HTML tag name 'reqy:b;rr1&m`8s@].g3p4$!``['
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/93102/000089882201500175/0000898822-01-500175.txt: All strings must be XML compatible: Unicode or ASCII, no NULL bytes or control characters
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/909494/000091205701513070/0000912057-01-513070.txt: Invalid HTML tag name 'f1s("ac'
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/924954/000091205701517008/0000912057-01-517008.txt: Invalid HTML tag name "i+#`q-#0t'r<y"
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/797448/000095014401503161/0000950144-01-503161.txt: The markup you provided was rejected by the parser. Trying a different parser or a different encoding may help.
-
-Original exception(s) from parser:
- AssertionError: expected name token at '<![\\=:JVJ:IUUJ!O.5GK'
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/40533/000095013701501373/0000950137-01-501373.txt: Invalid HTML tag name 'reqy:b;rr1&m`8s@].g3p4$!``['
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/40533/000095012401501699/0000950124-01-501699.txt: Invalid HTML tag name 'reqy:b;rr1&m`8s@].g3p4$!``['
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/40533/000095013701501509/0000950137-01-501509.txt: Invalid HTML tag name 'reqy:b;rr1&m`8s@].g3p4$!``['
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/1091271/000091205701517701/0000912057-01-517701.txt: Invalid HTML tag name "i+#`q-#0t'r<y"
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/920317/000091205701516536/0000912057-01-516536.txt: Invalid HTML tag name "i+#`q-#0t'r<y"
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/770403/000091205701507210/0000912057-01-507210.txt: Invalid HTML tag name "i+#`q-#0t'r<y"
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/770403/000091205701007948/0000912057-01-007948.txt: Invalid HTML tag name "i+#`q-#0t'r<y"
-[2025-02-27 18:00:38] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/1126609/000110801701000057/0001108017-01-000057.txt: Invalid HTML tag name 'pp&e'
-[2025-02-27 18:00:47] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 18:01:00] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 18:03:41] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
-[2025-02-27 18:03:54] [+] Successfully created document for: Mainspring Inc & IBM
-[2025-02-27 18:05:10] [-] No relevant document found for index 60: Telemate Net Software Inc & Verso Technologies Inc
-[2025-02-27 18:05:52] [-] No relevant document found for index 60: Telemate Net Software Inc & Verso Technologies Inc
+[2025-03-01 01:14:55] [*] No background section found for index 50: Mainspring Inc & IBM. Retrying via fallback...
+[2025-03-01 01:15:10] [+] Successfully created document for: Mainspring Inc & IBM
+[2025-03-01 01:15:20] [+] Successfully created document for: Learn2.com Inc & E-Stamp Corp
+[2025-03-01 01:15:30] [*] No background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc. Retrying via fallback...
+[2025-03-01 01:15:41] [+] Successfully created document for: Aronex Pharmaceuticals Inc & Antigenics Inc
+[2025-03-01 01:15:50] [+] Successfully created document for: Focal Inc & Genzyme Corp
+[2025-03-01 01:16:01] [*] No background section found for index 54: MedPlus Inc & Quest Diagnostics Inc. Retrying via fallback...
+[2025-03-01 01:16:14] [+] Successfully created document for: MedPlus Inc & Quest Diagnostics Inc
+[2025-03-01 01:16:28] [+] Successfully created document for: Aurora Biosciences Corp & Vertex Pharmaceuticals Inc
+[2025-03-01 01:16:43] [+] Successfully created document for: Del Webb Corp & Pulte Homes Inc
+[2025-03-01 01:16:52] [+] Successfully created document for: Telescan Inc & Ziasun Technologies Inc
+[2025-03-01 01:16:56] [-] No relevant document found for index 58: Ultramar Diamond Shamrock Corp & Valero Energy Corp
+[2025-03-01 01:17:09] [-] No relevant document found for index 59: NOVA Corp & US Bancorp
+[2025-03-01 01:17:13] [-] No relevant document found for index 60: Telemate Net Software Inc & Verso Technologies Inc
+[2025-03-01 01:17:18] [-] No relevant document found for index 61: Barrett Resources Corp & Williams Cos Inc
+[2025-03-01 01:17:33] [+] Successfully created document for: Rosetta Inpharmatics Inc & Merck & Co Inc
+[2025-03-01 01:17:55] [+] Successfully created document for: HS Resources Inc & Kerr-McGee Corp
+[2025-03-01 01:18:03] [+] Successfully created document for: Healthcare.com Corp & Xcare Net Inc
+[2025-03-01 01:18:07] [-] No relevant document found for index 65: SkyMall Inc & Gemstar-TV Guide Intl Inc
+[2025-03-01 01:18:21] [+] Successfully created document for: Sawtek Inc & TriQuint Semiconductor Inc
+[2025-03-01 01:18:35] [+] Successfully created document for: Integrated Measurement Systems & Credence Systems Corp
+[2025-03-01 01:18:39] [-] No relevant document found for index 68: OrthAlliance Inc & Orthodontic Centers of America
+[2025-03-01 01:18:48] [+] Successfully created document for: C-bridge Internet Solutions & Excelon Corp
+[2025-03-01 01:18:59] [*] No background section found for index 70: Energy Search Inc & EOG Resources Inc. Retrying via fallback...
+[2025-03-01 01:19:15] [+] Successfully created document for: Energy Search Inc & EOG Resources Inc
+[2025-03-01 01:19:30] [+] Successfully created document for: Marine Drilling Cos & Pride International Inc
+[2025-03-01 01:19:50] [+] Successfully created document for: Structural Dynamics Research & Electronic Data Systems Corp
+[2025-03-01 01:19:59] [+] Successfully created document for: PictureTel Corp & Polycom Inc
+[2025-03-01 01:20:08] [+] Successfully created document for: York Group Inc & Matthews International Corp
+[2025-03-01 01:20:12] [-] No relevant document found for index 75: RoweCom Inc & Divine Inc
+[2025-03-01 01:20:21] [+] Successfully created document for: MiniMed Inc & Medtronic Inc
+[2025-03-01 01:20:30] [+] Successfully created document for: Richton International Corp & Deere & Co
+[2025-03-01 01:20:43] [+] Successfully created document for: Minntech Corp & Cantel Medical Corp
+[2025-03-01 01:21:07] [+] Successfully created document for: United Investors Realty Trust & Equity One Inc
+[2025-03-01 01:21:16] [+] Successfully created document for: MessageMedia Inc & DoubleClick Inc
+[2025-03-01 01:21:28] [-] No relevant document found for index 81: Sound Advice Inc & Tweeter Home Ent Group Inc
+[2025-03-01 01:21:42] [+] Successfully created document for: Juno Online Services Inc & Netzero Inc
+[2025-03-01 01:21:55] [-] No relevant document found for index 83: Network Six Inc & TRW Inc
+[2025-03-01 01:22:13] [+] Successfully created document for: Belco Oil & Gas Corp & Westport Resources Cforp
+[2025-03-01 01:22:34] [+] Successfully created document for: Remedy Corp & Peregrine Systems Inc
+[2025-03-01 01:22:44] [+] Successfully created document for: AXYS Pharmaceuticals Inc & Celera Genomics Corp
+[2025-03-01 01:22:53] [+] Successfully created document for: Aris Corp & Ciber Inc
+[2025-03-01 01:23:12] [+] Successfully created document for: Avert Inc & Automatic Data Processing Inc
+[2025-03-01 01:23:25] [+] Successfully created document for: Galileo International Inc & Cendant Corp
+[2025-03-01 01:23:43] [+] Successfully created document for: Datron Systems Inc & Titan Corp
+[2025-03-01 01:23:55] [+] Successfully created document for: SMC Corp & Monaco Coach Corp
+[2025-03-01 01:23:59] [-] No relevant document found for index 92: Duck Head Apparel Co & Tropical Sportswear Intl Corp
+[2025-03-01 01:24:03] [-] No relevant document found for index 93: Launch Media Inc & Yahoo! Inc
+[2025-03-01 01:24:11] [+] Successfully created document for: UroCor Inc & Dianon Systems Inc
+[2025-03-01 01:24:18] [+] Successfully created document for: Cardiac Pathways Corp & Boston Scientific Corp
+[2025-03-01 01:24:21] [-] No relevant document found for index 96: Duramed Pharmaceuticals Inc & Barr Laboratories Inc
+[2025-03-01 01:24:25] [-] No relevant document found for index 97: Captec Net Lease Realty Inc & Commercial Net Lease Rlty Inc
+[2025-03-01 01:24:32] [+] Successfully created document for: Earthgrains Co & Sara Lee Corp
+[2025-03-01 01:24:50] [+] Successfully created document for: Mediaplex Inc & ValueClick Inc

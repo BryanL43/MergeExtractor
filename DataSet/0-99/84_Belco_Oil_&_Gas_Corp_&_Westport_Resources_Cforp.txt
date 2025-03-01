@@ -1,6 +1,6 @@
-URL: https://www.sec.gov/Archives/edgar/data/889005/000095013401504315/0000950134-01-504315.txt
+URL: https://www.sec.gov/Archives/edgar/data/889005/000095013401503781/0000950134-01-503781.txt
 
-TREET 2:		46TH FL
+REET 2:		46TH FL
 		CITY:			NEW YORK
 		STATE:			NY
 		ZIP:			10153
@@ -15,24 +15,18 @@ TREET 2:		46TH FL
 
 S-4/A
 
-d88606a1s-4a.txt
+d88606as-4a.txt
 
-AMENDMENT NO. 1 TO FORM S-4
+AMENDMENT TO FORM S-4
 
-     AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON JULY 24, 2001
+     AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON JUNE 29, 2001
 
-                                                      REGISTRATION NO. 333-64320
-
+                                                     REGISTRATION NO. 333-
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
                        SECURITIES AND EXCHANGE COMMISSION
                              Washington, D.C. 20549
-                             ---------------------
-
-                                AMENDMENT NO. 1
-
-                                       TO
 
                                     FORM S-4
             REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933
@@ -43,9 +37,9 @@ AMENDMENT NO. 1 TO FORM S-4
 
                              ---------------------
 
-               NEVADA                                 1311                               13-3869719
-  (State or other jurisdiction of         (Primary Standard Industrial                (I.R.S. Employer
-   incorporation or organization)         Classification Code Number)               Identification No.)
+              NEVADA                                1311                              13-3869719
+  (State or other jurisdiction of       (Primary Standard Industrial               (I.R.S. Employer
+  incorporation or organization)         Classification Code Number)              Identification No.)
 
                           767 FIFTH AVENUE, 46TH FLOOR
                             NEW YORK, NEW YORK 10153
@@ -65,13 +59,13 @@ AMENDMENT NO. 1 TO FORM S-4
 
                                 with copies to:
 
-                     ALAN P. BADEN                                      MICHAEL E. DILLARD, P.C.
-                VINSON & ELKINS L.L.P.                                     JOSEPH L. MOTES III
-             666 FIFTH AVENUE, 26TH FLOOR                       AKIN, GUMP, STRAUSS, HAUER & FELD, L.L.P.
-             NEW YORK, NEW YORK 10103-0040                           1700 PACIFIC AVENUE, SUITE 4100
-               TELEPHONE: (917) 206-8000                                   DALLAS, TEXAS 75201
-               FACSIMILE: (917) 206-8100                                TELEPHONE: (214) 969-2800
-                                                                        FACSIMILE: (214) 969-4343
+                    ALAN P. BADEN                                    MICHAEL E. DILLARD, P.C.
+               VINSON & ELKINS L.L.P.                                   JOSEPH L. MOTES III
+            666 FIFTH AVENUE, 26TH FLOOR                     AKIN, GUMP, STRAUSS, HAUER & FELD, L.L.P.
+            NEW YORK, NEW YORK 10103-0040                         1700 PACIFIC AVENUE, SUITE 4100
+              TELEPHONE: (917) 206-8000                                 DALLAS, TEXAS 75201
+              FACSIMILE: (917) 206-8100                              TELEPHONE: (214) 969-2800
+                                                                     FACSIMILE: (214) 969-4343
 
     APPROXIMATE DATE OF COMMENCEMENT OF PROPOSED SALE TO PUBLIC:  As soon as
 practicable after the registration statement becomes effective and the
@@ -97,23 +91,23 @@ for the same offering.  [ ]
 
                         CALCULATION OF REGISTRATION FEE
 
-- ----------------------------------------------------------------------------------------------------------------------------
-- ----------------------------------------------------------------------------------------------------------------------------
-                                                                PROPOSED MAXIMUM     PROPOSED MAXIMUM         AMOUNT OF
-         TITLE OF EACH CLASS OF              AMOUNT TO BE        OFFERING PRICE          AGGREGATE          REGISTRATION
-      SECURITIES TO BE REGISTERED            REGISTERED(1)         PER UNIT(2)       OFFERING PRICE(2)         FEE(3)
-- ----------------------------------------------------------------------------------------------------------------------------
+- -----------------------------------------------------------------------------------------------------------------------
+- -----------------------------------------------------------------------------------------------------------------------
+                                                           PROPOSED MAXIMUM     PROPOSED MAXIMUM         AMOUNT OF
+      TITLE OF EACH CLASS OF            AMOUNT TO BE        OFFERING PRICE          AGGREGATE          REGISTRATION
+    SECURITIES TO BE REGISTERED         REGISTERED(1)         PER UNIT(2)       OFFERING PRICE(2)           FEE
+- -----------------------------------------------------------------------------------------------------------------------
 
 Common Stock, par value $0.01 per
-  share.................................      56,464,519              $8.12            $458,491,895           $114,623
-- ----------------------------------------------------------------------------------------------------------------------------
-- ----------------------------------------------------------------------------------------------------------------------------
+  share............................      56,441,519              $8.12            $458,305,135           $114,577
+- -----------------------------------------------------------------------------------------------------------------------
+- -----------------------------------------------------------------------------------------------------------------------
 
-(1) Consists of up to 56,464,519 shares of common stock, par value $0.01 per
+(1) Consists of up to 56,441,519 shares of common stock, par value $0.01 per
     share, of Belco Oil & Gas Corp. issuable upon the conversion, pursuant to
     the merger described herein, of (i) 38,462,591 shares of common stock, par
     value $0.01 per share, of Westport Resources Corporation outstanding on June
-    28, 2001, (ii) up to 2,240,488 shares of Westport Resources Corporation
+    28, 2001, (ii) up to 2,217,488 shares of Westport Resources Corporation
     common stock that may be issued upon the exercise of outstanding options to
     purchase Westport Resources Corporation common stock between June 28, 2001
     and the consummation of the merger, (iii) 13,594,205 shares of Belco Oil &
@@ -131,11 +125,8 @@ Common Stock, par value $0.01 per
     pursuant to Rule 457(f)(1) and Rule 457(c) under the Securities Act of 1933,
     as amended, based upon the product of $8.12 (the average of the high and low
     sales prices of Belco Oil & Gas Corp. common stock on June 28, 2001 on the
-    New York Stock Exchange) multiplied by 56,464,519 (the number of shares of
+    New York Stock Exchange) multiplied by 56,441,519 (the number of shares of
     Belco Oil & Gas Corp. common stock to be issued pursuant to the merger).
-
-(3)An amount of $149,481 was previously paid to the Securities and Exchange
-   Commission on June 29, 2001.
 
                              ---------------------
 
@@ -155,7 +146,7 @@ Securities and Exchange Commission is effective. This prospectus is not an offer
 to sell these securities and is not soliciting an offer to buy these securities
 in any state where the offer or sale is not permitted.
 
-                   SUBJECT TO COMPLETION, DATED JULY 24, 2001
+                   SUBJECT TO COMPLETION, DATED JUNE 29, 2001
 
 [BELCO LOGO]                                                     [WESTPORT LOGO]
 
@@ -178,8 +169,8 @@ convertible preferred stock will remain outstanding and the existing conversion
 ratio will be adjusted so that holders will be entitled to receive 0.465795 of a
 share of New Westport common stock upon conversion.
 
-    On July 20, 2001, the closing price of Belco common stock was $8.68 per
-share and the closing price of Westport common stock was $21.43 per share. We
+    On June 28, 2001, the closing price of Belco common stock was $8.12 per
+share and the closing price of Westport common stock was $19.65 per share. We
 encourage you to obtain more recent quotations. Following consummation of the
 merger, Belco will change its name to Westport Resources Corporation and the
 shares of New Westport common stock will trade on the New York Stock Exchange,
@@ -207,13 +198,9 @@ RETURN IT IN THE ENCLOSED ENVELOPE.
     The dates, times and places of the stockholders' meetings are as follows:
 
               For Belco stockholders:                           For Westport stockholders:
-                  August 21, 2001                                     August 21, 2001
-              11:00 a.m., local time                               9:00 a.m., local time
-         522 Fifth Avenue (at 44th Street)                          Bluebonnet II Room
-                     7th Floor                                         Pinnacle Club
-                  Rooms LPR 1 & 2                                 555 Seventeenth Street
-                New York, New York                                      37th Floor
-                                                                     Denver, Colorado
+                     -- , 2001                                           -- , 2001
+                  -- , local time                                     -- , local time
+                 [INSERT LOCATION]                                   [INSERT LOCATION]
 
     This document is a prospectus of Belco relating to the issuance of shares of
 Belco's common stock in connection with the merger and a proxy statement for
@@ -242,15 +229,13 @@ REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE.
                                  (212) 644-2200
 
                    NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
-
-                         TO BE HELD ON AUGUST 21, 2001
+                            TO BE HELD ON  -- , 2001
 
 To Stockholders of Belco Oil & Gas Corp.:
 
      NOTICE IS HEREBY GIVEN that a Special Meeting of Stockholders of Belco Oil
-& Gas Corp., a Nevada corporation, or Belco, will be held at 522 Fifth Avenue
-(at 44th Street), 7th Floor, Rooms LPR 1 & 2, New York, New York, on August 21,
-2001 at 11:00 a.m., local time, for the following purposes:
+& Gas Corp., a Nevada corporation, or Belco, will be held at  -- , on  -- , 2001
+at  -- a.m.,  -- time, for the following purposes:
 
           1. To consider and vote upon a proposal to approve the Agreement and
      Plan of Merger, dated June 8, 2001, between Belco and Westport Resources
@@ -262,10 +247,11 @@ To Stockholders of Belco Oil & Gas Corp.:
           2. To consider and vote upon a proposal to amend Belco's articles of
      incorporation to, among other things, change our name to "Westport
      Resources Corporation," decrease the number of authorized shares of common
-     stock, create a classified board of directors, provide for indemnification
-     of certain persons, including directors and officers of Belco and, after
-     the merger, the combined company, New Westport, and elect not to be
-     governed by the Nevada Revised Statutes "Combination" provisions;
+     stock, create a classified board of directors, provide that directors may
+     only be removed for "cause," provide for indemnification of certain
+     persons, including directors and officers of Belco and, after the merger,
+     the combined company, New Westport, and elect not to be governed by the
+     Nevada Revised Statutes "Combination" provisions;
 
           3. To consider and vote upon a proposal to elect 11 individuals,
      including Robert A. Belfer, Laurence D. Belfer and nine individuals who are
@@ -276,9 +262,9 @@ To Stockholders of Belco Oil & Gas Corp.:
      meeting as may properly come before the meeting or any adjournments or
      postponements thereof.
 
-     Only common stockholders of record at the close of business on July 31,
-2001 are entitled to notice of and to vote at the Belco special meeting or at
-any adjournments or postponements thereof. Approval of the proposals set forth
+     Only common stockholders of record at the close of business on  -- , 2001
+are entitled to notice of and to vote at the Belco special meeting or at any
+adjournments or postponements thereof. Approval of the proposals set forth
 above, other than the election of directors, requires the affirmative vote of a
 majority of the outstanding shares of Belco common stock. Directors are elected
 upon receiving a plurality of votes cast in their favor from holders of Belco
@@ -328,16 +314,13 @@ PERSON.
                                  (303) 573-5404
 
                    NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
-
-                         TO BE HELD ON AUGUST 21, 2001
+                            TO BE HELD ON  -- , 2001
 
 To Stockholders of Westport Resources Corporation:
 
      NOTICE IS HEREBY GIVEN that a Special Meeting of Stockholders of Westport
-Resources Corporation, a Delaware corporation, or Westport, will be held at the
-Bluebonnet II Room at the Pinnacle Club, 555 Seventeenth Street, 37th Floor,
-Denver, Colorado, on August 21, 2001 at 9:00 a.m., local time, for the following
-purposes:
+Resources Corporation, a Delaware corporation, or Westport, will be held at
+ -- , on  -- , 2001 at  -- a.m.,  -- time, for the following purposes:
 
           1. To consider and vote upon a proposal to approve the merger and
      adopt the Agreement and Plan of Merger, dated June 8, 2001, between Belco
@@ -353,7 +336,7 @@ purposes:
      meeting as may properly come before the meeting or any adjournments or
      postponements thereof.
 
-     Only stockholders of record at the close of business on July 31, 2001 are
+     Only stockholders of record at the close of business on  -- , 2001 are
 entitled to notice of and to vote at the Westport special meeting or at any
 adjournments or postponements thereof. Approval of the merger and adoption of
 the merger agreement requires the affirmative vote of a majority of the
@@ -409,11 +392,11 @@ SUMMARY.........................................     5
   Opinions of Financial Advisors................     6
   Record Date and Voting Power..................     7
   Quorum and Votes Required.....................     7
-  Voting Agreements.............................     8
+  Voting Agreements.............................     7
   Management Share Ownership....................     8
   Accounting Treatment..........................     8
   Certain Material Federal Income Tax
-    Consequences................................     9
+    Consequences................................     8
   Board of Directors and Management of New
     Westport following the Merger...............     9
   Regulatory Approvals..........................     9
@@ -426,13 +409,13 @@ SUMMARY.........................................     5
     Agreement...................................    10
   Payments Upon Termination.....................    11
   Interests of Certain Persons in the Merger
-    that Differ from Your Interests.............    12
+    that Differ from Your Interests.............    11
   No Solicitation...............................    12
   Amendments to Belco's Articles of
     Incorporation...............................    12
   Shareholders Agreement........................    12
   Material Differences in the Rights of
-    Stockholders................................    13
+    Stockholders................................    12
   Summary Historical Consolidated Financial and
     Operating Data..............................    14
   Summary Historical Oil and Natural Gas Reserve
@@ -474,22 +457,22 @@ THE MERGER......................................    40
     Westport Following the Merger...............    61
   Governmental and Regulatory Approvals.........    62
   Interests of Certain Persons in the Merger....    62
-  Dissenters' or Appraisal Rights...............    63
+  Dissenters' or Appraisal Rights...............    64
   Belco Preferred Stock.........................    64
   Delisting and Deregistration of Westport
     Common Stock................................    64
   Federal Securities Law Consequences; Resale
     Restrictions................................    64
-TERMS OF THE MERGER AGREEMENT...................    64
-  Effective Time of the Merger..................    64
+TERMS OF THE MERGER AGREEMENT...................    65
+  Effective Time of the Merger..................    65
   Manner and Basis of Converting Shares.........    65
-  Exchange Procedures...........................    65
+  Exchange Procedures...........................    66
   Representations and Warranties................    66
   Conduct of Business Prior to the Merger.......    66
   No Solicitation...............................    68
   Certain Additional Agreements.................    69
   Conditions to the Merger......................    70
-  Termination of the Merger Agreement...........    71
+  Termination of the Merger Agreement...........    72
   Expenses......................................    72
 SHAREHOLDERS AGREEMENT..........................    74
 CERTAIN MATERIAL U.S. FEDERAL INCOME TAX
@@ -504,7 +487,7 @@ CERTAIN MATERIAL U.S. FEDERAL INCOME TAX
 SELECTED HISTORICAL CONSOLIDATED FINANCIAL AND
   OPERATING DATA................................    78
 NEW WESTPORT UNAUDITED PRO FORMA CONDENSED
-  CONSOLIDATED COMBINED FINANCIAL STATEMENTS....    82
+  COMBINED FINANCIAL STATEMENTS.................    82
 NEW WESTPORT UNAUDITED PRO FORMA CONDENSED
   CONSOLIDATED BALANCE SHEET MARCH 31, 2001.....    82
 NEW WESTPORT UNAUDITED PRO FORMA CONDENSED
@@ -517,147 +500,147 @@ NEW WESTPORT NOTES TO UNAUDITED PRO FORMA
   CONDENSED CONSOLIDATED FINANCIAL STATEMENTS...    85
 MANAGEMENT'S DISCUSSION AND ANALYSIS OF
   FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-  OF BELCO OIL & GAS CORP.......................    90
-  General.......................................    90
+  OF BELCO OIL & GAS CORP.......................    87
+  General.......................................    87
 
                                         i
 
   Results of Operations -- Three Months Ended
-    March 31, 2001 Compared to March 31, 2000...    91
+    March 31, 2001 Compared to March 31, 2000...    88
   Results of Operations -- Year Ended 1999
-    Compared to Year Ended 2000.................    92
+    Compared to Year Ended 2000.................    89
   Results of Operations -- Year Ended 1999
-    Compared to Year Ended 1998.................    93
-  Liquidity and Capital Resources...............    94
-  Other.........................................    98
+    Compared to Year Ended 1998.................    90
+  Liquidity and Capital Resources...............    91
+  Other.........................................    95
   Quantitative and Qualitative Disclosures About
-    Market Risk.................................    99
-INFORMATION ABOUT BELCO.........................   100
-  Overview......................................   100
-  Primary Operating Areas.......................   100
-  Rocky Mountains...............................   101
-  Gulf Coast....................................   102
-  Permian Basin.................................   104
-  Mid-Continent Region..........................   104
-  Costs Incurred and Drilling Results...........   105
-  Acreage.......................................   106
-  Productive Well Summary.......................   107
-  Marketing.....................................   107
-  Production Sales Contracts....................   108
-  Price Risk Management Transactions............   109
-  Texas Severance Tax Abatement.................   110
-  Section 29 Tax Credit.........................   110
-  Regulation....................................   110
-  Operating Hazards and Insurance...............   113
-  Title to Properties...........................   113
-  Employees.....................................   114
-  Office and Equipment..........................   114
-  Legal Proceedings.............................   114
-  Properties -- Oil and Natural Gas Reserves....   115
-MANAGEMENT OF BELCO.............................   116
+    Market Risk.................................    96
+INFORMATION ABOUT BELCO.........................    97
+  Overview......................................    97
+  Primary Operating Areas.......................    97
+  Rocky Mountains...............................    98
+  Gulf Coast....................................    99
+  Permian Basin.................................   101
+  Mid-Continent Region..........................   101
+  Costs Incurred and Drilling Results...........   102
+  Acreage.......................................   103
+  Productive Well Summary.......................   104
+  Marketing.....................................   104
+  Production Sales Contracts....................   105
+  Price Risk Management Transactions............   105
+  Texas Severance Tax Abatement.................   107
+  Section 29 Tax Credit.........................   107
+  Regulation....................................   107
+  Operating Hazards and Insurance...............   110
+  Title to Properties...........................   110
+  Employees.....................................   111
+  Office and Equipment..........................   111
+  Legal Proceedings.............................   111
+  Properties -- Oil and Natural Gas Reserves....   111
+MANAGEMENT OF BELCO.............................   112
   The Belco Board of Directors and its
-    Committees..................................   116
-  Executive Compensation of Belco...............   117
-  Stock Options Granted in 2000.................   118
+    Committees..................................   112
+  Executive Compensation of Belco...............   113
+  Stock Options Granted in 2000.................   114
   Stock Option Exercises and Fiscal Year End
-    Values......................................   119
-  Director Compensation.........................   119
-  Employment Agreements.........................   120
-CERTAIN TRANSACTIONS OF BELCO...................   120
+    Values......................................   115
+  Director Compensation.........................   115
+  Employment Agreements.........................   116
+CERTAIN TRANSACTIONS OF BELCO...................   116
 SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING
-  COMPLIANCE OF BELCO...........................   121
+  COMPLIANCE OF BELCO...........................   117
 SECURITY OWNERSHIP OF MANAGEMENT AND CERTAIN
-  BENEFICIAL OWNERS.............................   122
+  BENEFICIAL OWNERS.............................   118
 MANAGEMENT'S DISCUSSION AND ANALYSIS OF
   FINANCIAL CONDITION AND RESULTS OF OPERATIONS
-  OF WESTPORT RESOURCES CORPORATION.............   124
-  General.......................................   124
-  Results of Operations.........................   125
-  Liquidity and Capital Resources...............   130
+  OF WESTPORT RESOURCES CORPORATION.............   120
+  General.......................................   120
+  Results of Operations.........................   121
+  Liquidity and Capital Resources...............   126
   Quantitative and Qualitative Disclosures About
-    Market Risk.................................   133
-INFORMATION ABOUT WESTPORT......................   134
-  Overview......................................   134
-  Purchasers and Marketing......................   134
-  Competition...................................   135
-  Regulation....................................   135
-  Operating Hazards and Insurance...............   138
-  Employees.....................................   138
-  Legal Proceedings.............................   138
-  Properties-Principal Areas of Operations......   138
-  Gulf of Mexico................................   138
-  Rocky Mountains...............................   140
-  West Texas/Mid-Continent......................   141
-  Gulf Coast....................................   142
-  Proved Reserves...............................   142
-  Production and Price History..................   144
-  Producing Wells...............................   144
-  Acreage.......................................   145
-  Drilling Results..............................   145
-MANAGEMENT OF WESTPORT..........................   146
-  Employment Agreements.........................   148
-  Retention Agreement...........................   149
-  Executive Compensation of Westport............   149
-  Stock Options Granted in 2000.................   150
+    Market Risk.................................   129
+INFORMATION ABOUT WESTPORT......................   130
+  Overview......................................   130
+  Purchasers and Marketing......................   130
+  Competition...................................   131
+  Regulation....................................   131
+  Operating Hazards and Insurance...............   134
+  Employees.....................................   134
+  Legal Proceedings.............................   134
+  Properties-Principal Areas of Operations......   134
+  Gulf of Mexico................................   135
+  Rocky Mountains...............................   136
+  West Texas/Mid-Continent......................   137
+  Gulf Coast....................................   138
+  Proved Reserves...............................   138
+  Production and Price History..................   140
+  Producing Wells...............................   140
+  Acreage.......................................   141
+  Drilling Results..............................   141
+MANAGEMENT OF WESTPORT..........................   142
+  Employment Agreements.........................   144
+  Retention Agreement...........................   145
+  Executive Compensation of Westport............   145
+  Stock Options Granted in 2000.................   146
   Stock Option Exercises and Fiscal Year-End
-    Values......................................   150
-  Employee Benefit Plans........................   151
-CERTAIN TRANSACTIONS OF WESTPORT................   152
+    Values......................................   146
+  Employee Benefit Plans........................   147
+CERTAIN TRANSACTIONS OF WESTPORT................   148
 SECTION 16(a) BENEFICIAL OWNERSHIP REPORTING
-  COMPLIANCE OF WESTPORT........................   152
+  COMPLIANCE OF WESTPORT........................   148
 SECURITY OWNERSHIP OF WESTPORT'S PRINCIPAL
-  STOCKHOLDERS AND MANAGEMENT...................   153
-COMPARISON OF STOCKHOLDER RIGHTS................   156
-  Authorized Common Stock.......................   156
-  Directors.....................................   156
-  Special Meetings of Stockholders..............   158
+  STOCKHOLDERS AND MANAGEMENT...................   149
+COMPARISON OF STOCKHOLDER RIGHTS................   152
+  Authorized Common Stock.......................   152
+  Directors.....................................   152
+  Special Meetings of Stockholders..............   154
   Notice for Annual Meetings; Certain
-    Proposals...................................   158
-  Charter Amendment.............................   158
-  Amendment to Bylaws...........................   159
-  State Takeover Legislation....................   159
-  Control Share Acquisitions....................   160
-  Liability of Directors........................   160
-  Indemnification of Directors and Officers.....   161
-  Advancement of Expenses.......................   161
-  Absence of Dissenters' or Appraisal Rights....   162
-  Inspection of Books and Records...............   162
-  Vote Required for Mergers.....................   163
+    Proposals...................................   154
+  Charter Amendment.............................   154
+  Amendment to Bylaws...........................   155
+  State Takeover Legislation....................   155
+  Control Share Acquisitions....................   156
+  Liability of Directors........................   156
+  Indemnification of Directors and Officers.....   157
+  Advancement of Expenses.......................   157
+  Absence of Dissenters' or Appraisal Rights....   158
+  Inspection of Books and Records...............   158
+  Vote Required for Mergers.....................   159
 AMENDMENT OF BELCO'S ARTICLES OF
-  INCORPORATION.................................   164
-  General.......................................   164
-  Terms of the New Westport Charter.............   164
+  INCORPORATION.................................   160
+  General.......................................   160
+  Terms of the New Westport Charter.............   160
   Vote Required and Belco Board of Directors'
-    Recommendation..............................   166
-ELECTION OF DIRECTORS...........................   167
-  Nominees......................................   167
+    Recommendation..............................   162
+ELECTION OF DIRECTORS...........................   163
+  Nominees......................................   163
 AMENDMENT TO WESTPORT RESOURCES CORPORATION 2000
-  STOCK INCENTIVE PLAN..........................   168
-  Plan Background and Description...............   168
+  STOCK INCENTIVE PLAN..........................   164
+  Plan Background and Description...............   164
   Amendment to Increase the Number of Shares
     Reserved for Issuance Under the Incentive
-    Plan........................................   168
-  Incentive Plan Administration.................   169
-  Eligible Participants.........................   169
-  Grants Permitted Under the Incentive Plan.....   169
-  Stock Options.................................   169
+    Plan........................................   164
+  Incentive Plan Administration.................   165
+  Eligible Participants.........................   165
+  Grants Permitted Under the Incentive Plan.....   165
+  Stock Options.................................   165
   Terms Generally Applicable to Other Awards
-    Available Under the Incentive Plan..........   170
+    Available Under the Incentive Plan..........   166
   Terms Applicable to All Awards Under the
-    Incentive Plan..............................   172
-  Tax Information...............................   174
+    Incentive Plan..............................   168
+  Tax Information...............................   170
   Additional Considerations Applicable To
-    Reporting Persons...........................   175
+    Reporting Persons...........................   171
 
                                         ii
 
-EXPERTS.........................................        177
-LEGAL MATTERS...................................        177
-STOCKHOLDER PROPOSALS...........................        178
+EXPERTS.........................................   173
+LEGAL MATTERS...................................   173
+STOCKHOLDER PROPOSALS...........................   174
 WHERE YOU CAN FIND MORE
-  INFORMATION...................................        178
-GLOSSARY OF OIL AND GAS TERMS...................        180
-INDEX TO CONSOLIDATED FINANCIAL STATEMENTS......        F-1
+  INFORMATION...................................   174
+GLOSSARY OF OIL AND GAS TERMS...................   176
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS......   F-1
 
                                 LIST OF ANNEXES
 
@@ -796,10 +779,10 @@ A: Subject to stockholder and regulatory approval, we hope to complete the
 
 Q: WHEN ARE THE SPECIAL STOCKHOLDERS' MEETINGS?
 
-A: Belco's special meeting of stockholders will take place on August 21, 2001,
-   and Westport's special meeting of stockholders will take place on August 21,
-   2001. The time and location of each special meeting is specified on the cover
-   page of this document.
+A: Belco's special meeting of stockholders will take place on  -- , 2001, and
+   Westport's special meeting of stockholders will take place on  -- , 2001. The
+   time and location of each special meeting is specified on the cover page of
+   this document.
 
 Q: WHAT WILL HAPPEN AT THE SPECIAL STOCKHOLDERS' MEETINGS?
 
@@ -808,13 +791,13 @@ A: At the Belco special meeting, Belco common stockholders will vote on:
    - the merger proposal;
 
    - an amendment to Belco's articles of incorporation to, among other things,
-     change the name of the company to "Westport Resources Corporation"; and
+     change the name of the company to "Westport Resources Corporation;" and
 
    - the election of Robert A. Belfer, Laurence D. Belfer and nine individuals
      currently serving on Westport's board of directors to serve on New
      Westport's board of directors.
 
-   At the Westport special meeting, Westport common stockholders will vote on:
+   At the Westport special meeting, Westport common stockholders will vote on
 
    - the approval of the merger and the adoption of the merger agreement and the
      transactions contemplated by the merger agreement; and
@@ -909,19 +892,19 @@ A: No. Holders of Belco common stock, Belco preferred stock or Westport common
 Q: WHAT ARE THE TAX CONSEQUENCES OF THE MERGER TO BELCO AND WESTPORT COMMON
    STOCKHOLDERS?
 
-A: We have structured the merger with the intent that the exchange of shares by
-   Belco and Westport common stockholders for shares of New Westport common
-   stock will be tax-free to them for U.S. federal income tax purposes. A holder
-   of shares of Belco common stock that receives cash in lieu of a fractional
-   share of New Westport common stock will recognize gain or loss equal to the
-   difference between the amount of cash received and such holder's tax basis in
-   the shares of Belco common stock allocable to the fractional share. Your tax
-   basis in the shares of New Westport common stock that you will receive in the
-   merger will equal your tax basis in your Belco or Westport common stock,
-   decreased by the amount of any tax basis allocable to any fractional share
-   interest for which cash is received. A summary of the material federal income
-   tax consequences of the merger is included in the section "Certain Material
-   U.S. Federal Income Tax Consequences of the Merger" on page 75.
+A: We have structured the merger so that the exchange of shares by Belco and
+   Westport common stockholders for shares of New Westport common stock will be
+   tax-free to them for U.S. federal income tax purposes. A holder of shares of
+   Belco common stock that receives cash in lieu of a fractional share of New
+   Westport common stock will recognize gain or loss equal to the difference
+   between the amount of cash received and such holder's tax basis in the shares
+   of Belco common stock allocable to the fractional share. Your tax basis in
+   the shares of New Westport common stock that you will receive in the merger
+   will equal your tax basis in your Belco or Westport common stock, decreased
+   by the amount of any tax basis allocable to any fractional share interest for
+   which cash is received. A summary of the material federal income tax
+   consequences of the merger is included in the section "Certain Material U.S.
+   Federal Income Tax Consequences of the Merger" on page 75.
 
 Q: ARE THERE RISKS ASSOCIATED WITH THE MERGER AND THE OTHER PROPOSALS THAT I
    SHOULD CONSIDER IN DECIDING HOW TO VOTE?
@@ -966,12 +949,12 @@ and does not contain all of the information that may be important to you. To
 understand the merger fully and for a more complete description of the terms of
 the merger, you should read carefully this entire document and the other
 available information referred to in "Where You Can Find More Information" on
-page 178. We have included page references parenthetically to direct you to more
+page 174. We have included page references parenthetically to direct you to more
 complete descriptions of the topics presented in this summary. The merger
 agreement is the legal document that governs the merger and is included as Annex
 A to this joint proxy statement/prospectus. If you are not familiar with certain
 industry terms used in this document, you should read "Glossary of Oil and Gas
-Terms" on pages 180-182.
+Terms" on pages 176-178.
 
                                  THE COMPANIES
 
@@ -987,10 +970,10 @@ Permian Basin and the Mid-Continent region. Since inception in April 1992, Belco
 has grown its reserve base through a program of acquisitions, exploration,
 exploitation and development drilling.
 
-     At June 30, 2001, Belco reported 637 Bcfe of proved reserves with a total
-inventory of 1.6 million gross and 648,000 net undeveloped acres. During the
-first quarter of 2001, Belco produced approximately 15 Bcfe, with net production
-averaging 167 Mmcfe/d.
+     At December 31, 2000, Belco reported 726 Bcfe of proved reserves with a
+total inventory of 1.8 million gross and 703,000 net undeveloped acres. During
+the first quarter of 2001, Belco produced approximately 15 Bcfe, with net
+production averaging 167 Mmcfe/d.
 
 Westport Resources Corporation
 410 Seventeenth Street, Suite 2300
@@ -1005,7 +988,7 @@ on maintaining a balanced portfolio of lower-risk, long-life onshore reserves
 and higher-margin offshore reserves to provide a diversified cash flow
 foundation for its exploitation, acquisition and exploration activities.
 
-     At June 30, 2001, Westport reported 445 Bcfe of proved reserves with a
+     At December 31, 2000, Westport reported 454 Bcfe of proved reserves with a
 total inventory of 489,000 gross and 260,000 net undeveloped acres. During the
 first quarter of 2001, Westport produced approximately 16 Bcfe, with net
 production averaging 179 Mmcfe/d.
@@ -1019,17 +1002,16 @@ stock for each share of Westport common stock they own. In addition, Belco
 common stockholders will receive 0.4125 of a share of New Westport common stock
 for each share of Belco common stock they own. The outstanding shares of Belco
 preferred stock will remain outstanding and the existing conversion ratio will
-be adjusted so that holders will receive 0.465795 of a share of New Westport
+be adjusted so that holders will receive 0.465975 of a share of New Westport
 common stock upon conversion.
 
                      THE SPECIAL MEETINGS (SEE PAGES 34-39)
 
 BELCO STOCKHOLDERS
 
-     A special meeting of Belco stockholders will be held on August 21, 2001 at
-522 Fifth Avenue (at 44th Street), 7th Floor, Rooms LPR 1 & 2, New York, New
-York, commencing at 11:00 a.m., local time. At the Belco special meeting,
-holders of Belco common stock will be asked to:
+     A special meeting of Belco stockholders will be held on -- , -- at -- ,
+commencing at -- a.m.,  -- time. At the Belco special meeting, holders of Belco
+common stock will be asked to:
 
      - approve the merger agreement and the transactions contemplated thereby,
        including the merger and the assumption of Westport's 2000 Stock
@@ -1052,10 +1034,9 @@ effective.
 
 WESTPORT STOCKHOLDERS
 
-     A special meeting of Westport stockholders will be held on August 21, 2001,
-at the Bluebonnet II Room at the Pinnacle Club, 555 Seventeenth Street, 37th
-Floor, Denver, Colorado, commencing at 9:00 a.m., local time. At the Westport
-special meeting, holders of Westport common stock will be asked to:
+     A special meeting of Westport stockholders will be held on -- , at -- ,
+commencing at -- a.m.,  -- time. At the Westport special meeting, holders of
+Westport common stock will be asked to:
 
      - approve the merger and adopt the merger agreement and the transactions
        contemplated thereby;
@@ -1088,12 +1069,12 @@ the proposals set forth above.
 
      In deciding to approve the merger agreement, we considered opinions from
 our respective financial advisors. Westport received a written opinion dated
-June 8, 2001 from its financial advisor, Credit Suisse
+June 8, 2001 from its financial advisor, Credit Suisse First Boston as to the
+fairness, from a financial point of view, as of that date, of the exchange ratio
+to Westport. On June 7, 2001, Petrie Parkman & Co., Belco's financial advisor,
+delivered an oral opinion (which was subsequently confirmed in writing) to the
+Belco board of directors as to the fairness, from a
 
-First Boston as to the fairness, from a financial point of view, as of that
-date, of the exchange ratio to Westport. On June 7, 2001, Petrie Parkman & Co.,
-Belco's financial advisor, delivered an oral opinion (which was subsequently
-confirmed in writing) to the Belco board of directors as to the fairness, from a
 financial point of view, as of that date, of the Belco exchange ratio to the
 holders of Belco common stock taking into account the Westport exchange ratio.
 The full text of these opinions describe the basis and assumptions on which they
@@ -1102,27 +1083,22 @@ read these opinions in their entirety.
 
                  RECORD DATE AND VOTING POWER (SEE PAGES 35-36)
 
-BELCO STOCKHOLDERS
+     BELCO STOCKHOLDERS.  You can vote at the meeting of Belco stockholders if
+you owned Belco common stock at the close of business on -- . You can cast one
+vote for each share of Belco common stock you owned at such time. Holders of
+Belco preferred stock have no voting rights with respect to matters to be voted
+on at the Belco special meeting.
 
-     You can vote at the meeting of Belco stockholders if you owned Belco common
-stock at the close of business on July 31, 2001. You can cast one vote for each
-share of Belco common stock you owned at such time. Holders of Belco preferred
-stock have no voting rights with respect to matters to be voted on at the Belco
-special meeting.
-
-WESTPORT COMMON STOCKHOLDERS
-
-     You can vote at the meeting of Westport stockholders if you owned Westport
-common stock at the close of business on July 31, 2001. You can cast one vote
-for each share of Westport common stock you owned at such time.
+     WESTPORT COMMON STOCKHOLDERS.  You can vote at the meeting of Westport
+stockholders if you owned Westport common stock at the close of business on -- .
+You can cast one vote for each share of Westport common stock you owned at such
+time.
 
                   QUORUM AND VOTES REQUIRED (SEE PAGES 35-36)
 
-BELCO COMMON STOCKHOLDERS
-
-     The transaction of business at the Belco special meeting requires the
-presence in person or by proxy of the holders of a majority of the shares of
-Belco common stock entitled to vote.
+     BELCO COMMON STOCKHOLDERS.  The transaction of business at the Belco
+special meeting requires the presence in person or by proxy of the holders of a
+majority of the shares of Belco common stock entitled to vote.
 
      Approval of the merger proposal and approval of the amendment to Belco's
 articles of incorporation require the affirmative vote of a majority of the
@@ -1135,25 +1111,23 @@ special meeting. Abstentions and broker non-votes will be the equivalent of a
 incorporation, but will not have any effect on the outcome of voting on director
 elections.
 
-WESTPORT COMMON STOCKHOLDERS
-
-     The transaction of business at the Westport special meeting requires the
-presence in person or by proxy of the holders of a majority of the shares of
-Westport common stock entitled to vote. Approval of the merger and adoption of
-the merger agreement by Westport require the affirmative vote of a majority of
-the outstanding shares of Westport common stock. Approval of the amendment to
-increase the number of shares of common stock reserved under the Westport 2000
-Stock Incentive Plan requires the affirmative vote of a majority of the shares
-entitled to vote, present in person or by proxy. Abstentions and broker
-non-votes will count in determining whether a quorum is present at the special
-meeting. Abstentions and broker non-votes will be the equivalent of a "no" vote
-on the proposal to approve the adoption of the merger agreement. For purposes of
-voting on the approval of the amendment to increase the number of shares
-reserved for issuance under Westport's 2000 Stock Incentive Plan, abstentions
-will be included in the number of shares voting and will have the effect of a
-vote against the proposal, and broker non-votes will not be included in the
-number of shares voting and therefore will have no effect on the outcome of the
-voting.
+     WESTPORT COMMON STOCKHOLDERS.  The transaction of business at the Westport
+special meeting requires the presence in person or by proxy of the holders of a
+majority of the shares of Westport common stock entitled to vote. Approval of
+the merger and adoption of the merger agreement by Westport require the
+affirmative vote of a majority of the outstanding shares of Westport common
+stock. Approval of the amendment to increase the number of shares of common
+stock reserved under the Westport 2000 Stock Incentive Plan requires the
+affirmative vote of a majority of the shares entitled to vote, present in person
+or by proxy. Abstentions and broker non-votes will count in determining whether
+a quorum is present at the special meeting. Abstentions and broker non-votes
+will be the equivalent of a "no" vote on the proposal to approve the adoption of
+the merger agreement. For purposes of voting on the approval of the amendment to
+increase the number of shares reserved for issuance under Westport's 2000 Stock
+Incentive Plan, abstentions will be included in the number of shares voting and
+will have the effect of a vote against the proposal, and broker non-votes will
+not be included in the number of shares voting and therefore will have no effect
+on the outcome of the voting.
 
                       VOTING AGREEMENTS (SEE PAGES 36-37)
 
@@ -1166,8 +1140,9 @@ be voted on at the Belco special meeting. Approval of the proposals to be voted
 on at the Belco special meeting requires the approval of the holders of a
 majority of the outstanding shares of Belco. The Belco voting agreement
 terminates upon the earlier to occur of the completion of the merger and the
-termination of the merger agreement in accordance with its terms. The Belco
-voting agreement is attached as Annex D to this joint proxy
+termination of the merger agreement in accordance with its terms. The
+
+Belco voting agreement is attached as Annex D to this joint proxy
 statement/prospectus. We urge you to read the full text of the Belco voting
 agreement.
 
@@ -1251,8 +1226,8 @@ TAX CONSEQUENCES TO THEM OF THE MERGER, INCLUDING THE APPLICABILITY AND EFFECT
 OF U.S. FEDERAL, STATE, LOCAL AND FOREIGN INCOME AND OTHER TAX LAWS IN THEIR
 PARTICULAR CIRCUMSTANCES.
 
-BOARD OF DIRECTORS AND MANAGEMENT OF NEW WESTPORT FOLLOWING THE MERGER (SEE PAGE
-                                      61)
+  BOARD OF DIRECTORS AND MANAGEMENT OF NEW WESTPORT FOLLOWING THE MERGER (SEE
+                                  PAGES 60-61)
 
      In connection with the merger, Belco stockholders will be asked to elect
 the 11 director nominees listed below to serve on the New Westport board of
@@ -1273,17 +1248,22 @@ Peter R. Hearl       Donald D. Wolf       Michael Russell
 William F. Wallace                        Randy Stein
 
      After the merger, the management of Westport will become the management of
-New Westport in the positions described herein. In addition, Grant W. Henderson,
-the current President and Chief Operating Officer of Belco, will join New
-Westport as Executive Vice President and General Manager, Southern Business
-Unit.
+New Westport in the same positions. In addition, Grant W. Henderson, the current
+President and Chief Operating Officer of Belco, will join New Westport as
+Executive Vice President and General Manager, Southern Business Unit.
 
-                       REGULATORY APPROVALS (SEE PAGE 62)
+                     REGULATORY APPROVALS (SEE PAGES 61-62)
 
-     Belco and Westport have determined that no material governmental or
-regulatory approvals are required for the merger to occur, other than as
-required by federal securities laws. In particular, a filing is not required
-under the Hart-Scott-Rodino Antitrust Improvements Act of 1976, or HSR Act.
+     The Hart-Scott-Rodino Antitrust Improvements Act of 1976, or HSR Act,
+prohibits us from completing the merger until we have provided certain
+information and materials to the Federal Trade Commission and the Antitrust
+Division of the U. S. Department of Justice, and until we have waited the
+required period of time. We filed premerger notification forms with the Federal
+Trade Commission and the Department of Justice on  -- , 2001. The waiting period
+under the HSR Act is currently scheduled to expire on or about  -- , 2001. Under
+the HSR Act procedures, the waiting period could also either be terminated prior
+to this date or extended as a result of the issuance of a request for additional
+information by the Federal Trade Commission or the Department of Justice.
 
                  COMPARATIVE PER SHARE MARKET PRICE INFORMATION
 
@@ -1299,7 +1279,7 @@ Westport common stock were as follows:
 Belco......................................................  $10.80   $10.32   $10.57
 Westport...................................................   24.95    24.42    24.53
 
-       NO DISSENTERS' OR APPRAISAL RIGHTS FOR STOCKHOLDERS (SEE PAGE 63)
+       NO DISSENTERS' OR APPRAISAL RIGHTS FOR STOCKHOLDERS (SEE PAGE 64)
 
      Holders of Belco common stock, Belco preferred stock or Westport common
 stock are not entitled to dissenters' or appraisal rights in connection with the
@@ -1346,8 +1326,8 @@ with the merger agreement, these conditions include the following:
       TERMINATION AND AMENDMENT OF THE MERGER AGREEMENT (SEE PAGES 71-72)
 
      The merger agreement may be terminated at any time and the merger may be
-abandoned prior to the effective time of the merger, whether before or after
-approval by the common stockholders of Westport or Belco:
+abandoned prior to the effective time, whether before or after approval by the
+common stockholders of Westport or Belco:
 
      - by the mutual written consent of Belco and Westport;
 
@@ -1356,10 +1336,11 @@ approval by the common stockholders of Westport or Belco:
 
      - by Belco or Westport if there has been a breach of any representation,
        warranty, covenant or agreement on the part of the other party set forth
-       in the merger agreement, which breach would, if uncured, cause certain
-       closing conditions not to be satisfied and shall not have been cured
-       within 20 business days following the breaching party's receipt of
-       written notice of such breach;
+       in the merger agreement, which breach would, if
+
+       uncured, cause certain closing conditions not to be satisfied and shall
+       not have been cured within 20 business days following the breaching
+       party's receipt of written notice of such breach;
 
      - by either Belco or Westport if any governmental authority or court of
        competent jurisdiction shall have enacted, issued, promulgated, enforced
@@ -1378,7 +1359,7 @@ approval by the common stockholders of Westport or Belco:
        proposal (other than an acquisition proposal made by Westport); or (3)
        Belco shall have willfully breached its covenants in the merger agreement
        prohibiting solicitations or requiring the calling and holding of the
-       Belco special meeting;
+       Belco special stockholders' meeting;
 
      - by Belco, if, prior to the Belco stockholders' approval having been
        obtained, Belco simultaneously enters into a definitive agreement for a
@@ -1428,12 +1409,13 @@ INTERESTS OF CERTAIN PERSONS IN THE MERGER THAT DIFFER FROM YOUR INTERESTS (SEE
 
      Some of Belco's and Westport's directors and officers have interests in the
 merger that differ from, or are in addition to, your interests as stockholders
-of Belco or Westport, respectively. Some of the Belco officers and directors
-hold stock options and shares of restricted stock that will become fully vested
-and exercisable as a result of the merger. In addition, some of the Belco
-officers will be entitled to retention payments and severance benefits as a
-result of the merger. Our boards of directors were aware of these interests and
-considered them in approving the merger.
+of Belco or Westport, respectively. Some of the Belco
+
+officers and directors hold stock options and shares of restricted stock that
+will become fully vested and exercisable as a result of the merger. In addition,
+some of the Belco officers will be entitled to retention payments and severance
+benefits as a result of the merger. Our boards of directors were aware of these
+interests and considered them in approving the merger.
 
                        NO SOLICITATION (SEE PAGES 68-69)
 
@@ -1447,20 +1429,18 @@ determines that the offer or proposal is reasonably capable of being completed
 and may reasonably be expected to result in a transaction more favorable to
 Belco's stockholders than the transaction contemplated in the merger agreement.
 
-      AMENDMENTS TO BELCO'S ARTICLES OF INCORPORATION (SEE PAGES 164-166)
+      AMENDMENTS TO BELCO'S ARTICLES OF INCORPORATION (SEE PAGES 160-162)
 
      The Belco board of directors has approved a proposal to amend Belco's
 articles of incorporation to, among other things:
 
-     - change the company's name to "Westport Resources Corporation";
+     - change the company's name to "Westport Resources Corporation;"
 
      - decrease the number of authorized shares of common stock;
 
      - create a classified board of directors;
 
-     - provide that a director may be removed, with or without cause, by a vote
-       of not less than two-thirds of the issued and outstanding shares of
-       voting stock of New Westport entitled to vote thereon;
+     - provide that directors may only be removed for "cause";
 
      - amend the indemnification provisions for certain persons, including
        directors and officers of Belco and New Westport; and
@@ -1488,21 +1468,22 @@ these parties the ability to determine the composition of the New Westport board
 of directors and otherwise affect New Westport's corporate governance and
 business activities.
 
-     MATERIAL DIFFERENCES IN THE RIGHTS OF STOCKHOLDERS (SEE PAGES 156-163)
+     MATERIAL DIFFERENCES IN THE RIGHTS OF STOCKHOLDERS (SEE PAGES 152-159)
 
-     The rights of Westport stockholders are governed by Delaware law,
-Westport's certificate of incorporation and bylaws and the original shareholders
-agreement. Certain provisions of the Westport certificate of incorporation and
+     The rights of Westport stockholders are governed by Delaware law and
+Westport's certificate of incorporation, the original shareholders agreement and
+bylaws. Certain provisions of the Westport certificate of incorporation and
 bylaws are subject to the original shareholders agreement. Upon completion of
 the merger, your rights as stockholders of New Westport will be governed by
 Nevada law and Belco's articles of incorporation and bylaws, which will be
-amended in connection with the merger. Certain provisions of the New Westport
-bylaws will be subject to the new shareholders agreement. Nevada law and Belco's
-articles of incorporation and bylaws differ from Delaware law and Westport's
-certificate of incorporation and bylaws in some material respects. In addition,
-Belco's articles of incorporation and bylaws differ in some material respects
-from the articles of incorporation and bylaws of New Westport that are proposed
-to be adopted in connection with the merger.
+amended in connection with the merger. Certain
+
+provisions of the New Westport bylaws will be subject to the new shareholders
+agreement. Nevada law and Belco's articles of incorporation and bylaws differ
+from Delaware law and Westport's certificate of incorporation and bylaws in some
+material respects. In addition, Belco's articles of incorporation and bylaws
+differ in some material respects from the articles of incorporation and bylaws
+of New Westport that are proposed to be adopted in connection with the merger.
 
           SUMMARY HISTORICAL CONSOLIDATED FINANCIAL AND OPERATING DATA
 
@@ -1538,11 +1519,12 @@ Operating costs and expenses:
            expenses..........................    331,165     98,290       111,013       25,850     31,404
                                                ---------   --------     ---------     --------   --------
          Operating income (loss).............   (201,249)    43,642        88,374       19,524     41,826
-Other income (expense):
+Other income expense:
   Interest expense...........................    (21,013)   (21,021)      (25,253)      (6,128)    (6,990)
   Interest income............................      1,730      1,134           951          250        124
   Impairment of equity securities............    (24,216)      (450)           --           --         --
   Derivative gain (loss) -- cash.............        172     (2,442)      (33,953)      (5,465)   (31,959)
+
                        -- non-cash...........     18,912    (34,094)     (103,610)     (22,178)    46,761
                                                ---------   --------     ---------     --------   --------
 Income (loss) before income taxes............   (225,664)   (13,231)      (73,491)     (13,997)    49,762
@@ -1635,69 +1617,68 @@ Stockholders' Equity.........................    138,291    113,972        60,40
 
                          WESTPORT RESOURCES CORPORATION
 
-                                                                                           THREE MONTHS
-                                                        YEAR ENDED DECEMBER 31,          ENDED MARCH 31,
-                                                    --------------------------------   --------------------
-                                                      1998        1999       2000        2000        2001
-                                                    ---------   --------   ---------   --------    --------
-                                                                                           (UNAUDITED)
-                                                           (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+                                                                                            THREE MONTHS
+                                                          YEAR ENDED DECEMBER 31,          ENDED MARCH 31,
+                                                      --------------------------------   -------------------
+                                                        1998        1999       2000        2000       2001
+                                                      ---------   --------   ---------   --------   --------
+                                                             (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
 
 STATEMENT OF OPERATIONS DATA:
 Operating revenues:
-  Oil and natural gas sales.......................  $  52,355   $ 75,488   $ 220,042   $ 25,463    $ 95,006
-                                                    ---------   --------   ---------   --------    --------
+  Oil and natural gas sales.........................  $  52,355   $ 75,488   $ 220,042   $ 25,463   $ 95,006
+                                                      ---------   --------   ---------   --------   --------
 Operating costs and expenses:
-  Lease operating expense.........................     21,554     22,916      34,397      6,623      10,473
-  Production taxes................................      3,888      5,742      10,631      2,268       3,518
-  Transportation costs............................        850      1,725       3,034        478       1,395
-  Exploration.....................................     14,664      7,314      12,790      1,871       2,611
-  Depletion, depreciation and amortization........     36,264     25,210      64,856      6,172      20,241
-  Impairment of proved properties.................      8,794      3,072       2,911         --          --
-  Impairment of unproved properties...............      1,898      2,273       5,124        235       1,004
-  Stock compensation expense(1)...................         --         --       5,539      3,383         545
-  General and administrative......................      5,913      5,297       7,542      1,164       3,522
-                                                    ---------   --------   ---------   --------    --------
-         Total operating costs and expenses.......     93,825     73,549     146,824     22,194      43,309
-                                                    ---------   --------   ---------   --------    --------
-         Operating income (loss)..................    (41,470)     1,939      73,218      3,269      51,697
+  Lease operating expense...........................     21,554     22,916      34,397      6,623     10,473
+  Production taxes..................................      3,888      5,742      10,631      2,268      3,518
+  Transportation costs..............................        850      1,725       3,034        478      1,395
+  Exploration.......................................     14,664      7,314      12,790      1,871      2,611
+  Depletion, depreciation and amortization..........     36,264     25,210      64,856      6,172     20,241
+  Impairment of proved properties...................      8,794      3,072       2,911         --         --
+  Impairment of unproved properties.................      1,898      2,273       5,124        235      1,004
+  Stock compensation expense(1).....................         --         --       5,539      3,383        545
+  General and administrative........................      5,913      5,297       7,542      1,164      3,522
+                                                      ---------   --------   ---------   --------   --------
+         Total operating costs and expenses.........     93,825     73,549     146,824     22,194     43,309
+                                                      ---------   --------   ---------   --------   --------
+         Operating income (loss)....................    (41,470)     1,939      73,218      3,269     51,697
 Other income (expense):
-  Interest expense................................     (8,323)    (9,207)     (9,731)    (2,047)       (290)
-  Interest income.................................        403        489       1,230        193         363
-  Gain on sale of assets, net.....................         --      3,637       3,130        (17)         --
-  Derivative gain (loss) and other................         29         16        (587)        (1)      1,823
-                                                    ---------   --------   ---------   --------    --------
-Income (loss) before income taxes.................    (49,361)    (3,126)     67,260      1,397      53,593
-Provision for income taxes........................         --         --     (23,724)        --     (19,561)
-                                                    ---------   --------   ---------   --------    --------
-         Net income (loss)........................  $ (49,361)  $ (3,126)  $  43,536   $  1,397    $ 34,032
-                                                    =========   ========   =========   ========    ========
+  Interest expense..................................     (8,323)    (9,207)     (9,731)    (2,047)      (290)
+  Interest income...................................        403        489       1,230        193        363
+  Gain on sale of assets, net.......................         --      3,637       3,130        (17)        --
+  Derivative gain (loss) and other..................         29         16        (587)        (1)     1,823
+                                                      ---------   --------   ---------   --------   --------
+Income (loss) before income taxes...................    (49,361)    (3,126)     67,260      1,397     53,593
+Provision for income taxes..........................         --         --     (23,724)        --    (19,561)
+                                                      ---------   --------   ---------   --------   --------
+         Net income (loss)..........................  $ (49,361)  $ (3,126)  $  43,536   $  1,397   $ 34,032
+                                                      =========   ========   =========   ========   ========
 WEIGHTED AVERAGE NUMBER OF COMMON SHARES
   OUTSTANDING:
-  Basic...........................................     11,004     14,727      28,296     15,630      38,436
-                                                    =========   ========   =========   ========    ========
-  Diluted.........................................     11,004     14,727      28,645     15,924      39,250
-                                                    =========   ========   =========   ========    ========
+  Basic.............................................     11,004     14,727      28,296     15,630     38,436
+                                                      =========   ========   =========   ========   ========
+  Diluted...........................................     11,004     14,727      28,645     15,924     39,250
+                                                      =========   ========   =========   ========   ========
 NET INCOME (LOSS) PER COMMON SHARE:
-  Basic...........................................  $   (4.49)  $  (0.21)  $    1.54   $   0.09    $   0.89
-                                                    =========   ========   =========   ========    ========
-  Diluted.........................................  $   (4.49)  $  (0.21)  $    1.52   $   0.09    $   0.87
-                                                    =========   ========   =========   ========    ========
+  Basic.............................................  $   (4.49)  $  (0.21)  $    1.54   $   0.09   $   0.89
+                                                      =========   ========   =========   ========   ========
+  Diluted...........................................  $   (4.49)  $  (0.21)  $    1.52   $   0.09   $   0.87
+                                                      =========   ========   =========   ========   ========
 OTHER FINANCIAL DATA:
-EBITDAX(2)........................................  $  20,582   $ 43,950   $ 165,567   $ 15,105    $ 76,461
-Net cash provided by operating activities.........      7,622     21,279     143,429      5,215      74,218
+EBITDAX(2)..........................................  $  20,582   $ 43,950   $ 165,567   $ 15,105   $ 76,461
+Net cash provided by operating activities...........      7,622     21,279     143,429      5,215     74,218
 Net cash provided by (used in) investing
-  activities......................................   (113,019)    17,981    (140,169)   (12,119)    (20,807)
+  activities........................................   (113,019)    17,981    (140,169)   (12,119)   (20,807)
 Net cash provided by (used in) financing
-  activities......................................    104,667    (29,933)     (2,581)      (333)         --
-Capital expenditures..............................    113,008     14,005     146,086     12,110      20,807
+  activities........................................    104,667    (29,933)     (2,581)      (333)        --
+Capital expenditures................................    113,008     14,005     146,086     12,110     20,807
 BALANCE SHEET DATA (AS OF PERIOD END):
-Cash..............................................  $  10,148   $ 19,475   $  20,154   $ 12,238    $ 73,565
-Working capital (deficit).........................    (30,993)    12,837      20,487      9,557      74,881
-Total assets......................................    302,302    271,477     551,831    269,503     601,567
-Total long-term debt..............................    121,333    105,462         162    105,462         162
-Total debt........................................    153,128    106,795         162    106,462         162
-Stockholders' equity..............................    126,737    140,011     458,056    141,408     492,529
+Cash................................................  $  10,148   $ 19,475   $  20,154   $ 12,238   $ 73,565
+Working capital (deficit)...........................    (30,993)    12,837      20,487      9,557     74,881
+Total assets........................................    302,302    271,477     551,831    269,503    601,567
+Total long-term debt................................    121,333    105,462         162    105,462        162
+Total debt..........................................    153,128    106,795         162    106,462        162
+Stockholders' equity................................    126,737    140,011     458,056    141,408    492,529
 
 - ---------------
 
@@ -1731,73 +1712,72 @@ Stockholders' equity..............................    126,737    140,011     458
            SUMMARY HISTORICAL OIL AND NATURAL GAS RESERVE INFORMATION
 
      The following tables set forth summary information with respect to Belco's
-and Westport's historical proved oil and natural gas reserves as of June 30,
-2001.
+and Westport's historical proved oil and natural gas reserves as of December 31,
+2000.
 
                                                                                         MILLION OF
                                                                                         CUBIC FEET
                                                               CRUDE OIL   NATURAL GAS   EQUIVALENTS
-                                                               (MBBLS)      (MMCF)        (MMCFE)
+                                                               (Mbbls)      (Mmcf)        (Mmcfe)
                                                               ---------   -----------   -----------
 
 ESTIMATED NET PROVED RESERVES
 Belco:
-  Developed.................................................   35,727       239,619       453,981
-  Undeveloped...............................................   11,737       112,468       182,891
+  Developed.................................................   40,642       231,380       475,232
+  Undeveloped...............................................   16,849       149,943       251,037
                                                                ------       -------       -------
-          Total.............................................   47,464       352,087       636,872
+          Total.............................................   57,491       381,323       726,269
                                                                ======       =======       =======
 Westport:
-  Developed.................................................   28,594       185,235       356,797
-  Undeveloped...............................................    6,050        51,458        87,759
+  Developed.................................................   28,673       185,354       357,392
+  Undeveloped...............................................    6,127        60,111        96,873
                                                                ------       -------       -------
-          Total.............................................   34,644       236,693       444,556
+          Total.............................................   34,800       245,465       454,265
                                                                ======       =======       =======
 
 RESERVE VALUATION INFORMATION (IN THOUSANDS)
 Belco:
-  Estimated future net revenues (before income taxes).......  $1,468,695
+  Estimated future net revenues (before income taxes).......  $3,977,765
   Present value of estimated future net revenues (before
-     income taxes, discounted at 10%).......................     826,758
+     income taxes, discounted at 10%).......................   2,256,387
   Standardized measure of discounted future net cash
-     flows(1)...............................................     614,149
+     flows(1)...............................................   1,666,004
 Westport:
-  Estimated future net revenues (before income taxes).......     938,654
+  Estimated future net revenues (before income taxes).......   2,327,249
   Present value of estimated future net revenues (before
-     income taxes, discounted at 10%).......................     636,874
+     income taxes, discounted at 10%).......................   1,570,892
   Standardized measure of discounted future net cash
-     flows(1)...............................................     480,135
+     flows(1)...............................................   1,098,399
 
 - ---------------
 
 (1) The standardized measure of discounted future net cash flows represents the
     present value of future net revenues after income taxes discounted at 10%.
 
-     Reserve volumes and present values were calculated using NYMEX prices at
-the close of business on June 29, 2001 of $26.23 per Bbl and $3.22 per Mmbtu in
-the case of Belco and $26.23 per Bbl and $3.22 per Mmbtu in the case of Westport
-with costs held constant. The foregoing standardized measures of discounted
-future net cash flows do not include the effects of hedging or other derivative
-contracts.
+     Reserve volumes and present values were calculated using year end prices
+and costs held constant. Average prices used to calculate reserve quantities and
+present values were $25.50 per Bbl and $9.53 per Mcf in the case of Belco and
+$26.83 per Bbl and $9.52 per Mmbtu in the case of Westport. The foregoing
+standardized measures of discounted future net cash flows do not include the
+effects of hedging or other derivative contracts.
 
     SUMMARY UNAUDITED PRO FORMA FINANCIAL AND OPERATING DATA OF NEW WESTPORT
 
      The following tables set forth summary unaudited pro forma financial and
 operating data to give effect to the merger between Belco and Westport, which
-will be accounted for as a reverse acquisition, in accordance with generally
-accepted accounting principles, in which Westport is the purchaser of Belco. The
-unaudited pro forma statement of operations data for the year ended December 31,
-2000 and the three months ended March 31, 2001 assume that the merger was
-consummated on January 1, 2000. The unaudited pro forma balance sheet data
-assume that the merger was consummated on March 31, 2001. The unaudited pro
-forma financial data are not necessarily indicative of the results of operations
-or the financial position that would have occurred had the merger been
-consummated on the dates indicated, nor are they necessarily indicative of
-future results of operations or financial position. The unaudited pro forma
-financial data should be read in conjunction with the historical consolidated
-financial statements of Belco and Westport, including the notes thereto, and the
-New Westport unaudited pro forma condensed consolidated financial statements
-contained in this document.
+will be accounted for as a purchase in accordance with generally accepted
+accounting principles. The unaudited pro forma statement of operations data for
+the year ended December 31, 2000 and the three months ended March 31, 2001
+assume that the merger was consummated on January 1, 2000. The unaudited pro
+forma balance sheet data assume that the merger was consummated on March 31,
+2001. The unaudited pro forma financial data are not necessarily indicative of
+the results of operations or the financial position that would have occurred had
+the merger been consummated on the dates indicated, nor are they necessarily
+indicative of future results of operations or financial position. The unaudited
+pro forma financial data should be read in conjunction with the historical
+consolidated financial statements of Belco and Westport, including the notes
+thereto, and the New Westport unaudited pro forma condensed consolidated
+financial statements contained in this document.
 
                                                                  YEAR ENDED       THREE MONTHS ENDED
                                                              DECEMBER 31, 2000      MARCH 31, 2001
@@ -1806,15 +1786,7 @@ contained in this document.
 
 STATEMENT OF OPERATIONS DATA:
 Operating Revenues:
-  Oil and natural gas sales................................      $ 438,361             $168,236
-  Commodity price risk management activities:
-     Non-hedge cash settlements............................        (33,953)             (31,959)
-     Non-hedge non-cash change in fair value of
-       derivatives.........................................       (104,349)              48,858
-  Gain on sale of operating assets -- net..................          3,130                   --
-                                                                 ---------             --------
-          Net revenues.....................................        303,189              185,135
-                                                                 ---------             --------
+  Oil and natural gas sale.................................      $ 438,361             $168,236
 Operating costs and expenses:
   Lease operating expense..................................         68,902               19,531
   Production taxes.........................................         25,095                9,456
@@ -1828,21 +1800,22 @@ Operating costs and expenses:
                                                                  ---------             --------
           Total operating costs and expenses...............        284,395               77,687
                                                                  ---------             --------
-          Operating income.................................         18,794              107,448
+          Operating income.................................        153,966               90,549
 Other income (expense):
   Interest expense.........................................        (36,007)              (7,280)
   Interest income..........................................          2,181                  487
-  Other....................................................            152                 (274)
+  Gain on sale of assets, net..............................          3,130                   --
+  Derivative gain (loss) and other.........................       (138,150)              16,625
                                                                  ---------             --------
-Income (loss) before income taxes..........................        (14,880)             100,381
-Benefit (provision) for income taxes.......................          5,208              (35,955)
+  Income (loss) before income taxes........................        (14,880)             100,381
+  Benefit (provision) for income taxes.....................          5,208              (35,955)
                                                                  ---------             --------
-Net income (loss) before cumulative effect of change in
-  accounting principle.....................................      $  (9,672)            $ 64,426
+  Net income (loss) before cumulative effect of change in
+     accounting principle..................................      $  (9,672)            $ 64,426
                                                                  =========             ========
 WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING:
-  Basic....................................................         45,834               51,967
-  Diluted..................................................         45,834               54,330
+  Basic....................................................         41,827               51,967
+  Diluted..................................................         41,827               54,330
 
                                                                  YEAR ENDED       THREE MONTHS ENDED
                                                              DECEMBER 31, 2000      MARCH 31, 2001
@@ -1854,10 +1827,10 @@ WEIGHTED AVERAGE NUMBER OF COMMON SHARES OUTSTANDING:
 NET INCOME (LOSS) AVAILABLE TO COMMON STOCK BEFORE
   CUMULATIVE EFFECT OF CHANGE IN ACCOUNTING PRINCIPLE PER
   COMMON SHARE(2):
-  Basic....................................................       $  (0.34)           $     1.21
-  Diluted..................................................       $  (0.34)           $     1.19
+  Basic....................................................       $  (0.38)           $     1.21
+  Diluted..................................................       $  (0.38)           $     1.19
 OTHER FINANCIAL DATA:
-EBITDAX(3).................................................       $291,211            $   99,956
+EBITDAX(3).................................................       $294,442            $  100,230
 BALANCE SHEET DATA (AS OF PERIOD END):
 Cash.......................................................            N/A            $   74,055
 Working capital (deficit)..................................            N/A               (11,136)
@@ -1917,39 +1890,39 @@ AVERAGE COSTS (PER MCFE):
 
      The following table sets forth pro forma summary information with respect
 to New Westport's combined estimated net proved oil and natural gas reserves as
-of June 30, 2001.
+of December 31, 2000.
 
                                                                                         MILLION OF
                                                                                         CUBIC FEET
                                                               CRUDE OIL   NATURAL GAS   EQUIVALENTS
-                                                               (MBBLS)      (MMCF)        (MMCFE)
+                                                               (Mbbls)      (Mmcf)        (Mmcfe)
                                                               ---------   -----------   -----------
 
 ESTIMATED NET PROVED RESERVES
-Developed...................................................   64,321       424,854        810,778
-Undeveloped.................................................   17,787       163,926        270,650
+Developed...................................................   69,315       416,734        832,624
+Undeveloped.................................................   22,976       210,054        347,910
                                                                ------       -------      ---------
-          Total.............................................   82,108       588,780      1,081,428
+          Total.............................................   92,291       626,788      1,180,534
                                                                ======       =======      =========
 
 RESERVE VALUATION INFORMATION (IN THOUSANDS)
-Estimated future net revenues (before income taxes).........  $2,407,349
+Estimated future net revenues (before income taxes).........  $6,305,014
 Present value of estimated future net revenues (before
-  income taxes, discounted at 10%)..........................   1,473,632
+  income taxes, discounted at 10%)..........................   3,827,279
 Standardized measure of discounted future net cash
-  flows(1)..................................................   1,094,284
+  flows(1)..................................................   2,764,403
 
 - ---------------
 
 (1) The standardized measure of discounted future net cash flows represents the
     present value of future net revenues after income taxes discounted at 10%.
 
-     Reserve volumes and present values were calculated using NYMEX prices at
-the close of business on June 29, 2001 of $26.28 per Bbl and $3.22 per Mmbtu in
-the case of Belco and $26.28 per Bbl and $3.22 per Mmbtu in the case of Westport
-with costs held constant. The foregoing standardized measures of discounted
-future net cash flows do not include the effects of hedging or other derivative
-contracts not specific to a property.
+     Reserve volumes and present values were calculated using year end prices
+and costs held constant. Average prices used to calculate reserve quantities and
+present values were $25.50 per Bbl and $9.53 per Mcf in the case of Belco and
+$26.83 per Bbl and $9.52 per Mmbtu in the case of Westport. The foregoing
+standardized measures of discounted future net cash flows do not include the
+effects of hedging or other derivative contracts not specific to a property.
 
                            COMPARATIVE PER SHARE DATA
 
@@ -1974,9 +1947,9 @@ Historical -- Westport
   Book Value Per Share -- Diluted...........................      11.92           12.81
 Pro Forma Combined -- New Westport
   Earnings (Loss) Per Share:
-     Basic..................................................      (0.34)           1.21
-     Diluted................................................      (0.34)           1.19
-  Book Value Per Share -- Diluted...........................        N/A           16.55
+     Basic..................................................      (0.38)           1.21
+     Diluted................................................      (0.38)           1.19
+  Book Value Per Share -- Diluted...........................        N/A           16.99
 Pro Forma Combined -- Belco Equivalent Per Share
   Earnings (Loss) Per Share:
      Basic..................................................      (0.16)           0.50
@@ -1989,7 +1962,7 @@ Pro Forma Combined -- Belco Equivalent Per Share
 including those described below. You should consider carefully these risks
 together with all of the other information included in this document and the
 documents to which we have referred you. See "Where You Can Find More
-Information" on pages 178-179.
+Information" on pages 174-175.
 
 RISKS RELATED TO THE MERGER
 
@@ -2091,11 +2064,12 @@ open market purchase, proxy contest or otherwise. These provisions include:
        number of directors up to 15 directors and to fill these positions
        without a vote of the stockholders;
 
-     - provisions under which no director may be removed at any time except by
-       the affirmative vote of holders of two-thirds of the voting power;
+     - provisions under which no director may be removed at any time except for
+       cause and by the affirmative vote of holders of two-thirds of the voting
+       power;
 
      - provisions requiring an affirmative vote of holders of two-thirds of the
-       voting power to amend the removal of a director provision; and
+       voting power to amend the removal of a director for cause provision; and
 
      - provisions under which stockholder action may be taken only at a
        stockholder's meeting and not by written consent of the stockholders.
@@ -2328,10 +2302,9 @@ statement/prospectus represents estimates based on reports prepared or audited
 by independent petroleum engineers and prepared by company internal engineers.
 Reserve engineering is not an exact science. Estimates of economically
 recoverable oil and natural gas reserves and of future net cash flows
-necessarily depend upon
-
-a number of variable factors and assumptions, any of which may cause these
-estimates to vary considerably from actual results, such as:
+necessarily depend upon a number of variable factors and assumptions, any of
+which may cause these estimates to vary considerably from actual results, such
+as:
 
      - historical production from the area compared with production from other
        producing areas;
@@ -2388,10 +2361,12 @@ may be able to define, evaluate, bid for and purchase a greater number of
 properties and prospects than New Westport's financial or human resources may
 permit. Further, many of its competitors may enjoy technological advantages and
 may be able to implement new technologies more rapidly than New Westport. New
-Westport's ability to explore for oil and natural gas and to acquire additional
-properties in the future will depend upon its ability to successfully conduct
-operations, implement advanced technologies, evaluate and select suitable
-properties and consummate transactions in this highly competitive environment.
+Westport's ability to explore for oil and natural gas
+
+and to acquire additional properties in the future will depend upon its ability
+to successfully conduct operations, implement advanced technologies, evaluate
+and select suitable properties and consummate transactions in this highly
+competitive environment.
 
   New Westport will be subject to complex laws and regulations, including
   environmental regulations, that can adversely affect the cost, manner or
@@ -2401,7 +2376,6 @@ properties and consummate transactions in this highly competitive environment.
 and regulations relating to the exploration of, and the development, production
 and transportation of, oil and natural gas, as well as environmental and safety
 matters. Although we believe that both our companies are in substantial
-
 compliance with all applicable laws and regulations, the requirements imposed by
 such laws and regulations are frequently changed and subject to new
 interpretations. We cannot be certain that existing laws or regulations, as
@@ -2459,6 +2433,7 @@ Westport's dependence on the operator and other working interest owners for
 these projects and its limited ability to influence operations and associated
 costs could prevent the realization of its targeted returns on capital in
 drilling or acquisition activities. The success and timing of drilling and
+
 exploitation activities on properties operated by others therefore depend upon a
 number of factors that will be outside of New Westport's control, including:
 
@@ -2524,9 +2499,11 @@ of operations.
 
      New Westport's operations and financial results could be significantly
 impacted by conditions in the Gulf of Mexico because we intend for New Westport
-to explore and produce extensively in that area. This concentration of activity
-will make New Westport more vulnerable than some of its competitors to the risks
-associated with operating in the Gulf of Mexico, including those relating to:
+to explore and produce extensively in that area. This
+
+concentration of activity will make New Westport more vulnerable than some of
+its competitors to the risks associated with operating in the Gulf of Mexico,
+including those relating to:
 
      - adverse weather conditions;
 
@@ -2541,10 +2518,9 @@ in the deep waters of the Gulf of Mexico, where operations are more difficult
 and costly than in shallower waters. The deep waters in the Gulf of Mexico lack
 the physical and oil field service infrastructure present in the shallower
 waters of the Gulf of Mexico. As a result, deep water operations may require a
-significant amount of time
-
-between a discovery and the time that New Westport can market its production,
-thereby increasing the risk involved with these operations.
+significant amount of time between a discovery and the time that New Westport
+can market its production, thereby increasing the risk involved with these
+operations.
 
      Further, production of reserves from reservoirs in the Gulf of Mexico
 generally declines more rapidly than from reservoirs in many other producing
@@ -2594,11 +2570,12 @@ affected and may be also harmed by:
      WELLC, ERI and the Belfer Group, who will be New Westport's principal
 stockholders, will beneficially own a significant amount of its outstanding
 common stock immediately after the merger. Accordingly, these stockholders,
-acting together through the new shareholders agreement, based on their current
-share ownership, will be able to control the outcome of stockholder votes,
-including votes concerning the election of directors, the adoption or amendment
-of provisions in New Westport's articles of incorporation or bylaws and the
-approval of mergers and other significant corporate transactions. This
+acting together through the new shareholders agreement, based on their
+
+current share ownership, will be able to control the outcome of stockholder
+votes, including votes concerning the election of directors, the adoption or
+amendment of provisions in New Westport's articles of incorporation or bylaws
+and the approval of mergers and other significant corporate transactions. This
 concentrated ownership will make it unlikely that any other holder or group of
 holders of New Westport's common stock will be able to affect the way it is
 managed or the direction of its business. These factors may also delay or
@@ -2606,24 +2583,14 @@ prevent a change in New Westport's management or voting control.
 
      In addition, these principal stockholders are parties to a shareholders
 agreement relative to their common stock in New Westport. The effect of the new
-shareholders agreement may also delay or prevent
-
-a change in New Westport's management or voting control. This new shareholders
-agreement, which is effective upon consummation of the merger, provides, among
-other things, that:
+shareholders agreement may also delay or prevent a change in New Westport's
+management or voting control. This new shareholders agreement, which is
+effective upon consummation of the merger, provides, among other things, that:
 
      - subject to certain limitations, these stockholders have the right to
        nominate certain directors, thereby determining the composition of the
        New Westport board of directors and these stockholders are obligated to
        vote in favor of directors so nominated;
-
-     - subject to applicable law, including a Nevada statute requiring the vote
-      of not less than two-thirds of the issued and outstanding voting power to
-      remove an incumbent director, each of these principal stockholders may
-      remove, with or without cause, any director nominated by such stockholder,
-      and to nominate a candidate to replace any director so removed. Each of
-      these stockholders are obligated to vote their shares in favor of such a
-      removal and/or replacement of a director;
 
      - New Westport may take specified actions, including certain issuances of
        common stock, incurrence of additional debt or a sale of New Westport or
@@ -2679,12 +2646,10 @@ statements relating to:
 statement/prospectus may turn out to be wrong. They can be affected by
 inaccurate assumptions we might make or by known or unknown risks and
 uncertainties. Many factors mentioned in our discussion in this joint proxy
-statement/prospectus,
-
-including the risks outlined under "Risk Factors," will be important in
-determining future results. Actual future results may vary materially. Factors
-that could cause our results to differ materially from the results discussed in
-the forward-looking statements include:
+statement/prospectus, including the risks outlined under "Risk Factors," will be
+important in determining future results. Actual future results may vary
+materially. Factors that could cause our results to differ materially from the
+results discussed in the forward-looking statements include:
 
      - the risks associated with exploration;
 
@@ -2748,8 +2713,7 @@ Third Quarter...................................    9.63     8.00          (1)  
 Fourth Quarter..................................   12.44     8.50     22.75(2)   14.88(2)
 
 First Quarter...................................  $12.75    $8.40    $24.30     $19.00
-Second Quarter..................................   10.80     7.90     32.09      19.40
-Third Quarter (through July 20, 2001)...........    9.00     8.28     21.79      19.90
+Second Quarter (through June 28, 2001)..........   10.80     7.90     32.09      19.40
 
 - ---------------
 
@@ -2769,8 +2733,8 @@ Westport common stock on the NYSE were as follows:
 Belco......................................................  $10.80   $10.32   $10.57
 Westport...................................................   24.95    24.42    24.53
 
-     On July 20, 2001, the closing prices per share of Belco common stock and
-Westport common stock as reported on the NYSE were $8.68 and $21.43,
+     On June 28, 2001, the closing prices per share of Belco common stock and
+Westport common stock as reported on the NYSE were $8.12 and $19.65,
 respectively. We urge you to obtain current market quotations before making any
 decision with respect to the merger.
 
@@ -2809,13 +2773,10 @@ special meeting.
 
 TIMES AND PLACES
 
-     The Belco special meeting will be held at 11:00 a.m., local time, on August
-21, 2001, at 522 Fifth Avenue (at 44th Street), 7th Floor, Rooms LPR 1 & 2, New
-York, New York.
+     The Belco special meeting will be held at  -- time, on  -- , 2001, at  -- .
 
-     The Westport special meeting will be held at 9:00 a.m., local time, on
-August 21, 2001, at the Bluebonnet II Room, at the Pinnacle Club, 555
-Seventeenth Street, 37th Floor, Denver, Colorado.
+     The Westport special meeting will be held at  -- time, on  -- , 2001, at
+ -- .
 
 PURPOSE OF THE SPECIAL MEETINGS
 
@@ -2831,7 +2792,7 @@ PURPOSE OF THE SPECIAL MEETINGS
 
      - a proposal to approve an amendment to Belco's articles of incorporation
        to, among other things, change the name of the company to "Westport
-       Resources Corporation";
+       Resources Corporation;"
 
      - a proposal to elect each of Robert A. Belfer, Laurence D. Belfer and nine
        individuals who are currently serving on Westport's board of directors to
@@ -2869,15 +2830,14 @@ OUTSTANDING SHARES HELD ON RECORD DATE
 
   Belco
 
-     As of the record date, July 31, 2001, there were  -- shares of Belco common
-stock outstanding that are entitled to notice of, and to vote at, the special
-meeting.
+     As of the record date, -- 2001, there were  -- shares of Belco common stock
+outstanding that are entitled to notice of, and to vote at, the special meeting.
 
   Westport
 
-     As of the record date, July 31, 2001, there were  -- shares of Westport
-common stock outstanding that are entitled to notice of, and to vote at, the
-special meeting.
+     As of the record date, -- , 2001, there were  -- shares of Westport common
+stock outstanding that are entitled to notice of, and to vote at, the special
+meeting.
 
 SHARES ENTITLED TO VOTE AT THE SPECIAL MEETINGS
 
@@ -3111,7 +3071,7 @@ of your beneficial ownership of the common shares.
      We can provide reasonable assistance to help you participate in your
 special meeting if you tell us about your disability and your plan to attend.
 Please call or write the secretary of your company at least two weeks before
-your special meeting at the number or address provided on page 179.
+your special meeting at the number or address provided on page 175.
 
   Solicitation of Proxies
 
@@ -3141,9 +3101,10 @@ out-of-pocket expenses in doing so.
 
      DO NOT SEND IN BELCO OR WESTPORT STOCK CERTIFICATES WITH YOUR PROXY CARDS.
 THE EXCHANGE AGENT WILL MAIL TRANSMITTAL FORMS WITH INSTRUCTIONS FOR THE
-SURRENDER OF BELCO AND WESTPORT COMMON STOCK CERTIFICATES IN EXCHANGE FOR
-CERTIFICATES FOR NEW WESTPORT COMMON STOCK AS SOON AS PRACTICABLE AFTER THE
-COMPLETION OF THE MERGER.
+SURRENDER OF BELCO AND WESTPORT COMMON STOCK CERTIFI-
+
+CATES IN EXCHANGE FOR CERTIFICATES FOR NEW WESTPORT COMMON STOCK AS SOON AS
+PRACTICABLE AFTER THE COMPLETION OF THE MERGER.
 
 OTHER BUSINESS; ADJOURNMENTS AND POSTPONEMENTS
 
@@ -3544,8 +3505,8 @@ Westport board of directors considered a number of material factors, including:
      - Increased Strength and Critical Mass.  New Westport will have more than
        twice Westport's reserves and 90% more production volumes, positioning it
        to compete aggressively for future growth opportunities. The merger will
-       create a new "top 20" independent, based on pro forma reserves of 1.1
-       Tcfe at June 30, 2001.
+       create a new "top 20" independent, based on pro forma reserves of 1.2
+       Tcfe at December 31, 2000.
 
      - Addition of Long-Life, Stable Reserves.  New Westport's pro forma proved
        reserves will have a reserve life index of approximately nine years,
@@ -4356,7 +4317,7 @@ addition,
 
 analyses relating to the value of businesses or securities do not necessarily
 purport to be appraisals or to reflect the prices at which businesses or
-securities actually may be sold. Accordingly, Credit Suisse First Boston's
+securities actually may besold. Accordingly, Credit Suisse First Boston's
 analyses and estimates are inherently subject to substantial uncertainty.
 
      Credit Suisse First Boston's opinion and financial analyses were only one
@@ -4641,7 +4602,7 @@ assets and liabilities of Belco will be recorded at their estimated fair market
 values. For a presentation of the anticipated effects of the accounting
 treatment on the consolidated financial position and results of operations of
 New Westport after giving effect to the merger, see "Unaudited Pro Forma
-Condensed Consolidated Financial Statements of New Westport."
+Condensed Combined Financial Statements of New Westport."
 
 BOARD OF DIRECTORS AND MANAGEMENT OF NEW WESTPORT FOLLOWING THE MERGER
 
@@ -4700,11 +4661,31 @@ Robert R. McBride............  Vice President and General      Vice President an
 
 GOVERNMENTAL AND REGULATORY APPROVALS
 
-     Belco and Westport have determined that no material governmental or
-regulatory approvals are required for the merger to occur, other than as
-required by applicable federal securities laws. In particular, a filing is not
-required under the HSR Act. We may, however, be required to make various filings
-with U.S. federal and state governmental authorities to complete the merger.
+     Under the HSR Act, the merger may not be consummated unless certain filings
+have been submitted to the Federal Trade Commission and the Antitrust Division
+of the U.S. Department of Justice and certain waiting period requirements have
+been satisfied. On  -- , 2001, Belco and Westport submitted the required filings
+to the Federal Trade Commission and the Antitrust Division. The waiting period
+under the HSR Act is currently scheduled to expire on  -- , 2001. Under the HSR
+Act procedures, the waiting period could also either be terminated prior to this
+date or extended as a result of the issuance of a request for additional
+information by the Federal Trade Commission or the Antitrust Division.
+
+     The Federal Trade Commission and the Antitrust Division frequently
+scrutinize the legality under the antitrust laws of transactions like the
+merger. At any time before or after the completion of the merger, the Federal
+Trade Commission or the Department of Justice could take any action under the
+antitrust laws as it deems necessary or desirable in the public interest,
+including seeking to enjoin the completion of the merger or seeking the
+divestiture of substantial assets of Belco or Westport. Belco and Westport
+believe that the completion of the merger will not violate the antitrust laws.
+We cannot predict, however, whether the merger will be challenged on antitrust
+grounds, or, if such a challenge is made, what the result will be.
+
+     Other than as we describe in this document, the merger does not require the
+approval of any U.S. federal or state agency. We may, however, be required to
+make various filings with U.S. federal and state governmental authorities to
+complete the merger.
 
 INTERESTS OF CERTAIN PERSONS IN THE MERGER
 
@@ -4738,10 +4719,11 @@ employee's aggregate wages earned during a retention period lasting from June 8,
 by New Westport within 30 days of the end of the retention period. The Retention
 and Severance Plan also generally provides that severance benefits will be paid
 to Belco employees whose employment is terminated for any reason other than
-"cause" during the period from June 8, 2001 through the earlier of (1) 18 months
-after the effective date of the merger or (2) the termination of the merger
-agreement. The severance compensation payable under the Retention and Severance
-Plan is as follows:
+"cause" during the period from June 8, 2001 through the earlier of
+
+(1) 18 months after the effective date of the merger or (2) the termination of
+the merger agreement. The severance compensation payable under the Retention and
+Severance Plan is as follows:
 
 TITLE                                                 AMOUNT OF PAYMENT(1)
 - -----                                                 --------------------
@@ -4772,7 +4754,6 @@ benefits.
 Belco's lease of office space in New York through December 31, 2001, after which
 time the lease and obligations thereunder will be assumed by Robert A. Belfer.
 Mr. Belfer will succeed Belco as the owner of all furniture, fixtures and
-
 equipment located in Belco's New York office and will take possession of this
 property on December 31, 2001.
 
@@ -4813,9 +4794,11 @@ part out of actions or omissions in their capacity as such occurring at or prior
 to the effective time of the merger to the full extent permitted under Nevada
 law or New Westport's articles of incorporation and bylaws and Belco's and
 Westport's written indemnification agreements in effect as of June 8, 2001. Any
-determination of whether a person's conduct complies with the required standard
-will be made by independent counsel mutually acceptable to New Westport and the
-indemnified party.
+determination of whether
+
+a person's conduct complies with the required standard will be made by
+independent counsel mutually acceptable to New Westport and the indemnified
+party.
 
      New Westport will maintain Belco's and Westport's existing officers' and
 directors' liability insurance policies for a period of not less than six years
@@ -4949,13 +4932,15 @@ stock upon conversion.
 
      No fractional shares of New Westport common stock will be issued in the
 merger and fractional share interests will not entitle the holder of such
-fractional interests to vote or to any rights of a Belco stockholder. Belco
-stockholders who would otherwise receive fractional shares will instead be
-entitled to receive a cash payment equal to the value of these fractional share
-interests as determined by multiplying the fraction of a share of New Westport
-common stock to which such holder would have otherwise been entitled by the
-closing sales price of a share of Belco common stock on the trading day
-immediately preceding the effective time of the merger.
+fractional interests to vote or to any rights of a Belco stockholder. Belco or
+Westport stockholders who would otherwise receive fractional shares will instead
+be entitled to receive a cash payment equal to the value of these fractional
+share interests as determined by
+
+multiplying the fraction of a share of New Westport common stock to which such
+holder would have otherwise been entitled by the closing sales price of a share
+of Belco common stock on the trading day immediately preceding the effective
+time of the merger.
 
      All shares of Belco common stock that (1) are owned by Belco as treasury
 stock or (2) owned by Westport or its subsidiaries and all shares of Westport
@@ -5166,18 +5151,20 @@ knowingly encourage or facilitate any inquiries relating to or the making of any
 Acquisition Proposal (as hereinafter defined), or (2) directly or indirectly,
 continue, enter into or engage in any negotiations or discussions concerning any
 Acquisition Proposal with or furnish any information relating to Belco or its
-subsidiaries, or provide access to the properties, books and records or any
-confidential information or data of Belco or any of its subsidiaries to, any
-person relating to an Acquisition Proposal. However, Belco and its board of
-directors are permitted to (1) take and disclose to its stockholders a position
-contemplated by Rules 14d-9 and 14e-2(a) promulgated by the SEC under the
-Securities Exchange Act of 1934, as amended, (2) provide access to properties,
-books and records and provide information or data in response to a request by a
-person who has made an unsolicited bona fide Acquisition Proposal if the board
-of directors receives from the person an executed confidentiality agreement, and
-(3) engage in any negotiations or discussions with any person who has made an
-unsolicited bona fide written Acquisition Proposal; if and only to the extent
-that in connection with the foregoing clauses (2) and (3),
+subsidiaries, or provide access
+
+to the properties, books and records or any confidential information or data of
+Belco or any of its subsidiaries to, any person relating to an Acquisition
+Proposal. However, Belco and its board of directors are permitted to (1) take
+and disclose to its stockholders a position contemplated by Rules 14d-9 and
+14e-2(a) promulgated by the SEC under the Securities Exchange Act of 1934, as
+amended, (2) provide access to properties, books and records and provide
+information or data in response to a request by a person who has made an
+unsolicited bona fide Acquisition Proposal if the board of directors receives
+from the person an executed confidentiality agreement, and (3) engage in any
+negotiations or discussions with any person who has made an unsolicited bona
+fide written Acquisition Proposal; if and only to the extent that in connection
+with the foregoing clauses (2) and (3),
 
      - Belco's board of directors, after consultation with its independent legal
        counsel, determines in good faith that such action is legally advisable
@@ -5272,17 +5259,16 @@ which provide for grants of equity-based awards will be amended or converted
 into a similar instrument of New Westport, in each case with such adjustments to
 the terms of such Westport awards as are appropriate to preserve the value
 inherent in such Westport awards with no detrimental effects on the holders
-thereof. The other terms of each Westport award, and
-
-the plans or agreements under which they were issued, will continue to apply in
-accordance with their terms. At the effective time, automatically and without
-any action by any person, each outstanding employee or director stock option of
-Westport and each outstanding employee or director stock option of Belco shall
-be assumed by New Westport with adjustments to the number of shares available
-for purchase pursuant to the option and the exercise price of the option as
-appropriate to reflect the exchange ratio of Westport and Belco common stock
-respectively in the merger. In addition, each outstanding employee or director
-stock option of Belco shall become fully vested and exercisable.
+thereof. The other terms of each Westport award, and the plans or agreements
+under which they were issued, will continue to apply in accordance with their
+terms. At the effective time, automatically and without any action by any
+person, each outstanding employee or director stock option of Westport and each
+outstanding employee or director stock option of Belco shall be assumed by New
+Westport with adjustments to the number of shares available for purchase
+pursuant to the option and the exercise price of the option as appropriate to
+reflect the exchange ratio of Westport and Belco common stock respectively in
+the merger. In addition, each outstanding employee or director stock option of
+Belco shall become fully vested and exercisable.
 
 CONDITIONS TO THE MERGER
 
@@ -5451,10 +5437,12 @@ reason, except as set forth below, Belco and Westport will share equally all
 expenses (including all reasonable fees and expenses of counsel, accountants,
 investment bankers, experts and consultants) incurred by a party related to the
 authorization, preparation, negotiation, execution and performance of the merger
-agreement and the preparation, printing, filing and mailing of the registration
-statement regarding the New Westport common stock, this joint proxy
-statement/prospectus, required filings under the HSR Act and all other matters
-related to the consummation of the merger.
+agreement and the
+
+preparation, printing, filing and mailing of the registration statement
+regarding the New Westport common stock, this joint proxy statement/prospectus,
+required filings under the HSR Act and all other matters related to the
+consummation of the merger.
 
   Termination Fees
 
@@ -5672,7 +5660,7 @@ INTERNAL REVENUE CODE.
 TAX CONSEQUENCES TO WESTPORT AND BELCO
 
      Westport and Belco will not recognize gain or loss as a result of the
-merger. New Westport's aggregate adjusted tax basis in the assets received from
+merger. Belco's aggregate adjusted tax basis in the assets received from
 Westport will be the same as Westport's aggregate adjusted tax basis in its
 assets. The holding period of the assets received by Belco pursuant to the
 merger will include the periods for which Westport held its assets. Further,
@@ -5683,7 +5671,7 @@ Westport common stock to the stockholders of Westport or Belco.
 loss carryforwards of Belco and Westport and the capital loss carryforwards of
 Belco. However, due to the change in Belco ownership that will result from the
 merger, New Westport's utilization of Belco's net operating and capital losses
-will be restricted. Of Belco's estimated net operating and capital loss
+will be restricted. Of Belco's estimated net operating and capital losses
 carryforwards of approximately $181 million and $13 million, respectively, at
 December 31, 2000, we estimate New Westport will be limited to utilization of
 approximately $17 million annually. This $17 million limitation will be
@@ -5790,6 +5778,15 @@ Basic............................................     29,986      31,538      31
                                                    =========   =========   =========   ========   =========   ========   ========
 Diluted..........................................     29,986      31,538      31,529     31,642      31,469     31,200     36,271
                                                    =========   =========   =========   ========   =========   ========   ========
+
+                                                                                                                 THREE MONTHS
+                                                                                                                     ENDED
+                                                                   YEAR ENDED DECEMBER 31,                         MARCH 31,
+                                                   --------------------------------------------------------   -------------------
+                                                     1996        1997        1998        1999       2000        2000       2001
+                                                   ---------   ---------   ---------   --------   ---------   --------   --------
+                                                                      (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
 PER SHARE DATA:
 Basic:
  Net income (loss) before cumulative effect of
@@ -5810,15 +5807,6 @@ Net cash used in investing activities............   (143,826)   (363,136)   (138
 Net cash provided by (used in) financing
  activities......................................     77,684     230,400      42,356     (3,832)     89,145     45,237      6,951
 Capital expenditures (net).......................    142,712     564,459     126,506     73,183     175,328     60,033     26,833
-
-                                                                                                                 THREE MONTHS
-                                                                                                                     ENDED
-                                                                   YEAR ENDED DECEMBER 31,                         MARCH 31,
-                                                   --------------------------------------------------------   -------------------
-                                                     1996        1997        1998        1999       2000        2000       2001
-                                                   ---------   ---------   ---------   --------   ---------   --------   --------
-                                                                      (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
-
 BALANCE SHEET DATA:
 Cash.............................................  $  43,473   $  12,260   $   2,435   $  2,105   $   2,666   $  5,539   $    490
 Working capital (deficit)(2).....................     48,667      36,757      14,823     (8,389)   (101,729)   (14,156)   (77,217)
@@ -5966,26 +5954,22 @@ Stockholders' equity...............    80,471     131,098     126,737    140,011
     capital requirements, certain functional or legal requirements of its
     business may require it to utilize its available funds for other purposes.
 
-            NEW WESTPORT UNAUDITED PRO FORMA CONDENSED CONSOLIDATED
-
+              NEW WESTPORT UNAUDITED PRO FORMA CONDENSED COMBINED
                               FINANCIAL STATEMENTS
 
-     The merger of Westport into Belco will be accounted for as a purchase
-transaction for financial accounting purposes. Because Westport stockholders
-will own a majority of the New Westport common stock, the merger will be
-accounted for as a reverse acquisition in which Westport is the purchaser of
-Belco. The unaudited pro forma condensed consolidated statements of operations
-of New Westport for the year ended December 31, 2000 and the three months ended
-March 31, 2001 give effect to the merger of Westport into Belco as if it had
-occurred on January 1, 2000. The unaudited pro forma condensed consolidated
-statements of operations of New Westport for the year ended December 31, 2000
-also reflect the merger of Westport Oil and Gas with Equitable Production (Gulf)
-Company, which was consummated on April 7, 2000. The unaudited pro forma
-condensed consolidated balance sheet of New Westport as of March 31, 2001 gives
-effect to the merger of Westport into Belco as if it had occurred on March 31,
-2001. The pro forma adjustments are based on estimates and assumptions explained
-in further detail in the accompanying notes to unaudited pro forma condensed
-consolidated financial statements.
+     The unaudited pro forma condensed consolidated statements of operations of
+New Westport for the year ended December 31, 2000 and the three months ended
+March 31, 2001 give effect to the merger of Westport into Belco, using the
+purchase method of accounting, as if it had occurred on January 1, 2000. The
+unaudited pro forma condensed consolidated statements of operations of New
+Westport for the year ended December 31, 2000 also reflect the merger of
+Westport Oil and Gas with Equitable Production (Gulf) Company, which was
+consummated on April 7, 2000. The unaudited pro forma condensed consolidated
+balance sheet of New Westport as of March 31, 2001 gives effect to the merger of
+Westport into Belco, using the purchase method of accounting, as if it had
+occurred on March 31, 2001. The pro forma adjustments are based on estimates and
+assumptions explained in further detail in the accompanying notes to unaudited
+pro forma condensed consolidated financial statements.
 
      The unaudited pro forma financial statements should be read in conjunction
 with the accompanying notes to unaudited pro forma condensed consolidated
@@ -6008,6 +5992,7 @@ consummated on the dates indicated or which may occur in the future.
                                                 ----------   ----------   -----------     ----------
 
 ASSETS
+
 Cash..........................................   $    490     $ 73,565     $     --       $   74,055
 Other current assets..........................     61,121       51,834           --          112,955
 Oil and gas properties, net...................    592,444      474,535      224,372(a)     1,291,351
@@ -6018,6 +6003,7 @@ Other assets, net.............................     10,392        1,633       (4,
                                                  ========     ========     ========       ==========
 
 LIABILITIES AND STOCKHOLDERS' EQUITY
+
 Liabilities from commodity price risk
   management activities.......................   $ 98,418     $     --     $     --       $   98,418
 Other current liabilities.....................     40,410       50,518        8,800(a)        99,728
@@ -6046,14 +6032,7 @@ financial statements are an integral part of this balance sheet.
                                                   HISTORICAL    HISTORICAL   ADJUSTMENTS     PRO FORMA
                                                   ----------    ----------   -----------     ---------
 
-Operating revenues:
-  Oil and natural gas sales.....................   $ 73,230      $ 95,006     $     --       $168,236
-  Commodity price risk management activities:
-     Non-hedge cash settlements.................    (31,959)           --           --        (31,959)
-     Non-hedge non-cash change in fair value of
-       derivatives..............................     46,761         2,097           --         48,858
-                                                   --------      --------     --------       --------
-          Net revenues..........................     88,032        97,103           --        185,135
+Revenues........................................   $ 73,230      $ 95,006     $     --       $168,236
                                                    --------      --------     --------       --------
 Operating costs and expenses:
   Lease operating expense.......................      9,058        10,473           --         19,531
@@ -6067,11 +6046,11 @@ Operating costs and expenses:
                                                    --------      --------     --------       --------
           Total operating expenses..............     31,404        43,309        2,974         77,687
                                                    --------      --------     --------       --------
-          Operating income (loss)...............     56,628        53,794       (2,974)       107,448
+          Operating income (loss)...............     41,826        51,697       (2,974)        90,549
 Other income (expense):
   Interest expense..............................     (6,990)         (290)          --         (7,280)
   Interest income...............................        124           363           --            487
-  Other.........................................         --          (274)          --           (274)
+  Derivative gain (loss) and other..............     14,802         1,823           --         16,625
                                                    --------      --------     --------       --------
 Income (loss) before income taxes...............     49,762        53,593       (2,974)       100,381
 Benefit (provision) for income taxes............    (17,416)      (19,561)       1,022(f)     (35,955)
@@ -6086,8 +6065,8 @@ Weighted average number of common shares
 Net income available to common stockholders
   before cumulative effect of change in
   accounting principle per common share:
-  Basic.........................................   $   0.95(i)   $   0.89           --       $   1.21(i)
-  Diluted.......................................   $   0.89      $   0.87           --       $   1.19
+  Basic.........................................   $   0.95(i)   $   0.89                    $   1.21(i)
+  Diluted.......................................   $   0.89      $   0.87                    $   1.19(i)
 
 The accompanying notes to the unaudited pro forma condensed consolidated
 financial statements are an integral part of these statements.
@@ -6096,72 +6075,56 @@ financial statements are an integral part of these statements.
                OF OPERATIONS FOR THE YEAR ENDED DECEMBER 31, 2000
                      (IN THOUSANDS, EXCEPT PER SHARE DATA)
 
-                                                                   PRO FORMA     PRO FORMA
-                                          BELCO       WESTPORT       EPGC         MERGER
-                                        HISTORICAL   HISTORICAL   ADJUSTMENTS   ADJUSTMENTS    PRO FORMA
-                                        ----------   ----------   -----------   -----------    ---------
+                                                   BELCO       WESTPORT     PRO FORMA
+                                                 HISTORICAL   HISTORICAL   ADJUSTMENTS     PRO FORMA
+                                                 ----------   ----------   -----------     ---------
 
-Operating revenues:
-  Oil and natural gas sales...........   $199,387     $220,042      $18,932(j)         --      $ 438,361
-  Commodity price risk management
-     activities:
-     Non-hedge cash settlements.......    (33,953)          --           --            --        (33,953)
-     Non-hedge non-cash change in fair
-       value of derivatives...........   (103,610)        (739)          --            --       (104,349)
-  Gain on sale of operating
-     assets -- net....................         --        3,130           --            --          3,130
-                                         --------     --------      -------      --------      ---------
-          Net revenues................     61,824      222,433       18,932            --        303,189
-                                         --------     --------      -------      --------      ---------
+Revenues.......................................   $199,387     $220,042      $18,932(j)    $ 438,361
+                                                  --------     --------      -------       ---------
 Operating costs and expenses:
-  Lease operating expense.............     33,290       34,397        1,215(j)         --         68,902
-  Production taxes....................     14,464       10,631           --            --         25,095
-  Transportation costs................         --        3,034           --            --          3,034
-  Exploration.........................         --       12,790           --         5,968(g)      18,758
-  Depletion, depreciation and
-     amortization.....................     56,721       64,856       10,126(j)      5,083(c)     136,786
-  Impairment of proved properties.....         --        2,911           --            --          2,911
-  Impairment of unproved properties...         --        5,124           --            --          5,124
-  Stock compensation expense..........         --        5,539           --            --          5,539
-  General and administrative..........      6,538        7,542          702(j)      3,464(h)      18,246
-                                         --------     --------      -------      --------      ---------
-          Total operating expenses....    111,013      146,824       12,043        14,515        284,395
-                                         --------     --------      -------      --------      ---------
-          Operating income (loss).....    (49,189)      75,609        6,889       (14,515)        18,794
+  Lease operating expense......................     33,290       34,397        1,215(j)       68,902
+  Production taxes.............................     14,464       10,631           --          25,095
+  Transportation costs.........................         --        3,034           --           3,034
+  Exploration..................................         --       12,790        5,968(f)       18,758
+  Depletion, depreciation and amortization.....     56,721       64,856       10,126(j)      136,786
+                                                                               5,083(c)
+  Impairment of proved properties..............         --        2,911           --           2,911
+  Impairment of unproved properties............         --        5,124           --           5,124
+  Stock compensation expense...................         --        5,539           --           5,539
+  General and administrative...................      6,538        7,542        3,464(h)       18,246
+                                                                                 702(j)
+                                                  --------     --------      -------       ---------
+          Total operating expenses.............    111,013      146,824       26,558         284,395
+                                                  --------     --------      -------       ---------
+          Operating income (loss)..............     88,374       73,218       (7,626)        153,966
 Other income (expense):
-  Interest expense....................    (25,253)      (9,731)      (1,023)(j)        --        (36,007)
-  Interest income.....................        951        1,230           --            --          2,181
-  Other...............................         --          152           --            --            152
-                                         --------     --------      -------      --------      ---------
-Income (loss) before income taxes.....    (73,491)      67,260        5,866       (14,515)       (14,880)
-Benefit (provision) for income
-  taxes...............................     25,722      (23,724)      (2,542)(j)     5,752(f)       5,208
-                                         --------     --------      -------      --------      ---------
-Net income (loss).....................    (47,769)      43,536        3,324        (8,763)        (9,672)
-Preferred stock dividends.............     (6,022)          --           --            --         (6,022)
-                                         --------     --------      -------      --------      ---------
-Net income (loss) available to common
-  stock...............................   $(53,791)    $ 43,536      $ 3,324      $ (8,763)     $ (15,694)
-                                         ========     ========      =======      ========      =========
-Weighted average number of common
-  shares outstanding:
-  Basic...............................     31,469       28,296        4,007(k)    (17,938)(e)     45,834
-  Diluted.............................     31,469       28,645        4,007(k)    (18,287)(e)     45,834
+  Interest expense.............................    (25,253)      (9,731)      (1,023)(j)     (36,007)
+  Interest income..............................        951        1,230                        2,181
+  Gain on sale of assets -- net................         --        3,130                        3,130
+  Derivative gain (loss) and other.............   (137,563)        (587)                    (138,150)
+                                                  --------     --------      -------       ---------
+Income (loss) before income taxes..............    (73,491)      67,260       (8,649)        (14,880)
+Benefit (provision) for income taxes...........     25,722      (23,724)      (2,542)(j)       5,208
+                                                                               5,752(f)
+                                                  --------     --------      -------       ---------
+Net income (loss)..............................    (47,769)      43,536       (5,439)         (9,672)
+Preferred stock dividends......................     (6,022)          --           --          (6,022)
+                                                  --------     --------      -------       ---------
+Net income (loss) available to common stock....   $(53,791)    $ 43,536      $(5,439)      $ (15,694)
+                                                  ========     ========      =======       =========
+Weighted average number of common shares
+  outstanding:
+  Basic........................................     31,469       28,296      (17,938)(e)      41,827
+  Diluted......................................     31,469       28,645      (18,287)(e)      41,827
 Net loss per common share:
-  Basic...............................   $  (1.71)    $   1.54           --            --      $   (0.34)
-  Diluted.............................   $  (1.71)    $   1.52           --            --      $   (0.34)
+  Basic........................................   $  (1.71)    $   1.54                    $   (0.38)
+  Diluted......................................   $  (1.71)    $   1.52                    $   (0.38)
 
 The accompanying notes to the unaudited pro forma condensed consolidated
 financial statements are an integral part of these statements.
 
    NEW WESTPORT NOTES TO UNAUDITED PRO FORMA CONDENSED CONSOLIDATED FINANCIAL
                                    STATEMENTS
-
-NOTE 1:
-
-     The following notes discuss the pro forma adjustments related to the
-proposed merger of Westport into Belco, and for the 2000 Pro Forma Statement of
-Operations, Westport's acquisition of EPGC on April 7, 2000.
 
 (a) Adjust the historical book value of Belco's assets and liabilities to
     reflect the estimated fair values as of March 31, 2001. The calculation and
@@ -6194,27 +6157,6 @@ Operations, Westport's acquisition of EPGC on April 7, 2000.
                Total allocation.............................   $1,075,659
                                                                ==========
 
-     The purchase price allocation above is subject to change resulting from
-changes between March 31, 2001 and the closing date of the merger in the
-following items:
-
-     - The fair value of New Westport stock options to be issued for outstanding
-      Belco stock options.
-
-     - The fair value of Belco's working capital, including liabilities from
-      commodity price risk management.
-
-     - The fair value of Belco's subordinated debt and preferred stock.
-
-     - The actual merger costs incurred.
-
-     Estimated merger costs include estimated financial advisory, legal and
-accounting fees, as well as employee relocation and involuntary termination
-costs associated with Belco employees.
-
-     We expect to be able to finalize the purchase price adjustment within one
-year from the consummation date of the merger.
-
 - ---------------
 
      (1) Reflects the issuance of approximately 13.6 million shares of Westport
@@ -6238,25 +6180,19 @@ year from the consummation date of the merger.
          $82,457,000 reflects estimated total deferred taxes of $95,947,000 less
          Belco deferred tax balance at March 31, 2001 of $13,490,000.
 
-     (5) Reflects the fair value of Belco's 3,013,700 shares of 6 1/2%
-         convertible preferred stock at March 31, 2001 based on the quoted
-         market price of $15.70 per share on March 31, 2001. Belco's 6 1/2%
-         convertible preferred stock has a liquidation preference of $25 per
-         share and will be convertible at the option of the holder into shares
-         of New Westport common stock at an initial pro forma conversion rate of
-         0.465795 shares of New Westport common stock for each share of
-         preferred stock.
+     (5) Reflects the fair value of Belco's 3,013,700 shares of preferred stock
+         at March 31, 2001 based on the quoted market price of $15.70 per share
+         on March 31, 2001.
 
-     (6) For financial accounting purposes, Westport allocated $750.6 million of
-         the purchase price to proved oil and gas properties, $66.2 million to
-         unproved oil and gas properties and $190.9 million to goodwill. The
-         allocation to property and equipment was made based on the present
-         value, discounted at 15% per year, of future net revenues attributable
-         to the estimated net proved reserves. Oil and natural gas prices used
-         were the averages of those projected by the equity research analysts
-         covering Westport and its peers as of March 30, 2001.
+     (6) For financial accounting purposes, Westport allocated $816.8 million of
+         the purchase price to properties and equipment and $190.9 million to
+         goodwill. The allocation to property and equipment was made based on
+         the present value, discounted at 15% per year, of future net revenues
+         attributable to the estimated net proved reserves. Oil and natural gas
+         prices used were the averages of those projected by the equity research
+         analysts covering Westport and its peers as of March 30, 2001.
 
-AVERAGE PRICES:          OIL $/BBL              GAS $/MMBTU
+AVERAGE PRICES:          0IL $/BBL              GAS $/MMBTU
 - ---------------          ---------              -----------
 
      2001                  24.42                    4.90
@@ -6267,21 +6203,12 @@ AVERAGE PRICES:          OIL $/BBL              GAS $/MMBTU
 
         Lease operating expenses and capital expenditures escalate at 2.5% per
         year starting in 2002.
+- ---------------
 
          The balance of the $190.9 million allocated to goodwill reflects the
          value of the anticipated benefits to Westport as a result of the
-         merger. These benefits, which are described further under "The
-         Merger -- Reasons for the Merger," include: (1) increasing the size of
-         our asset base and the scope of our operations in our core operating
-         areas which will allow us to operate more efficiently and compete more
-         aggressively for business opportunities in these areas, (2) improving
-         our cost structure through economies of scale, (3) improving our
-         financial flexibility as a result of our increased size thereby
-         allowing us to access additional segments of the capital markets and
-         through the moderate use of leverage to lower our overall cost of
-         capital, and (4) expanding the public float of our common stock which
-         should lead to improved market liquidity and therefore greater access
-         to capital through the public markets.
+         merger. These benefits are described under "the Merger -- Reasons for
+         the Merger."
 
      (7) The book value of Belco's other noncurrent assets was assumed to
          represent fair value at March 31, 2001. Pro forma adjustment of
@@ -6332,113 +6259,6 @@ AVERAGE PRICES:          OIL $/BBL              GAS $/MMBTU
     revenues and expenses of the EPGC properties for the period prior to
     acquisition.
 
-(k)Adjustment to reflect the issuance of 15,236,152 shares of Westport common
-   stock on April 7, 2000 in connection with Westport's acquisition of EPGC.
-
-NOTE 2:
-
-     Gains and losses related to derivatives that do not qualify as hedges for
-accounting purposes and gains on the sale of operating assets have been
-classified as revenues in the accompanying Pro Forma Statements of Operations.
-Such amounts are classified as non-operating Other Income (Expense) in
-Westport's historical Statements of Operations.
-
-                                  NEW WESTPORT
-
-(UNAUDITED) SUPPLEMENTAL PRO FORMA INFORMATION RELATED TO OIL AND GAS ACTIVITIES
-
-     Estimates of proved oil and gas reserve quantities and the related
-discounted future net cash flows for Westport at December 31, 2000 were prepared
-by Ryder Scott Company, L.P. and Netherland, Sewell and Associates, Inc.
-Estimates of proved oil and gas reserve quantities and the related discounted
-future net cash flows of Belco as of December 31, 2000 are based on internal
-estimates and audited by Miller & Lents, independent petroleum engineers.
-
-PRO FORMA QUANTITIES OF OIL AND NATURAL GAS RESERVES (UNAUDITED)
-
-     The following table presents estimates of net proved and proved developed
-oil and natural gas reserves as of December 31, 2000 for Westport, Belco and pro
-forma for the merger:
-
-                                  BELCO                     WESTPORT                  PRO FORMA
-                         ------------------------   ------------------------   ------------------------
-                         OIL (MBBLS)   GAS (MMCF)   OIL (MBBLS)   GAS (MMCF)   OIL (MBBLS)   GAS (MMCF)
-                         -----------   ----------   -----------   ----------   -----------   ----------
-
-Total proved reserves
-  Beginning of year....    53,076       322,148       32,750       119,338       85,826       441,486
-  Production...........    (3,922)      (40,847)      (3,584)      (34,316)      (7,506)      (75,163)
-  Revisions of previous
-    estimates..........    (1,316)      (33,128)       1,417        10,662          101       (22,466)
-  Extensions,
-    discoveries and
-    other additions....     4,289        76,433        3,135        33,445        7,424       109,878
-  Purchases of reserves
-    in place...........     8,346        57,726        3,249       116,783       11,595       174,509
-  Sales of reserves in
-    place..............    (2,982)       (1,009)      (2,167)         (447)      (5,149)       (1,456)
-                           ------       -------       ------       -------       ------       -------
-  End of year..........    57,491       381,323       34,800       245,465       92,291       626,788
-                           ======       =======       ======       =======       ======       =======
-Proved developed
-  reserves.............    40,642       231,380       28,673       185,354       69,315       416,734
-                           ======       =======       ======       =======       ======       =======
-
-STANDARDIZED MEASURE OF DISCOUNTED PRO FORMA FUTURE NET CASH FLOWS RELATING TO
-PROVED OIL AND NATURAL GAS RESERVES (UNAUDITED)
-
-     The following table presents the standardized measure of discounted future
-net cash flows as of December 31, 2000 for Westport, Belco and pro forma for the
-merger:
-
-                                                    BELCO       WESTPORT     PRO FORMA
-                                                 -----------   ----------   -----------
-                                                             (IN THOUSANDS)
-
-Future cash flows..............................  $ 5,139,439   $2,993,022   $ 8,132,461
-Future production costs........................     (977,369)    (546,358)   (1,523,727)
-Future development costs.......................     (184,305)    (119,415)     (303,720)
-                                                 -----------   ----------   -----------
-Future net cash flows before tax...............    3,977,765    2,327,249     6,305,014
-Future income taxes............................   (1,309,197)    (691,048)   (2,000,245)
-                                                 -----------   ----------   -----------
-Future net cash flows after tax................    2,668,568    1,636,201     4,304,769
-Annual discount at 10%.........................   (1,002,564)    (537,802)   (1,540,366)
-                                                 -----------   ----------   -----------
-Standardized measure of discounted future net
-  cash flows...................................  $ 1,666,004   $1,098,399   $ 2,764,403
-                                                 ===========   ==========   ===========
-
-                                  NEW WESTPORT
-
-(UNAUDITED) SUPPLEMENTAL PRO FORMA INFORMATION RELATED TO OIL AND GAS ACTIVITIES
-
- CHANGES IN STANDARDIZED MEASURE OF PRO FORMA DISCOUNTED FUTURE NET CASH FLOWS
-                                  (UNAUDITED)
-
-     The following table presents changes in the standardized measure of
-discounted future net cash flows for the year ended December 31, 2000 for
-Westport, Belco and pro forma for the merger.
-
-                                                              BELCO      WESTPORT    PRO FORMA
-                                                            ----------   ---------   ----------
-                                                                      (IN THOUSANDS)
-
-Oil and natural gas sales, net of production costs........  $ (209,916)  $(196,608)  $ (406,524)
-Net changes in anticipated prices and production cost.....   1,430,220     369,244    1,799,464
-Extensions and discoveries, less related costs............     101,596     228,685      330,281
-Changes in estimated future development costs.............      24,303     (15,807)       8,496
-Previously estimated development costs incurred...........          --      16,827       16,827
-Net change in income taxes................................    (429,170)   (445,830)    (875,000)
-Purchase of minerals in place.............................     118,390     748,854      867,244
-Sales of minerals in place................................     (13,633)     (3,205)     (16,838)
-Accretion of discount.....................................      62,654      34,910       97,564
-Revision of quantity estimates............................    (147,218)     48,384      (98,834)
-Changes in production rates and other.....................     263,449      (9,490)     253,959
-                                                            ----------   ---------   ----------
-          Changes in standardized measure.................  $1,200,675   $ 775,964   $1,976,639
-                                                            ==========   =========   ==========
-
    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
                       OPERATIONS OF BELCO OIL & GAS CORP.
 
@@ -6466,9 +6286,9 @@ investment.
 in the Green River, which includes the Moxa Arch Trend, Wind River and Big Horn
 Basins of Wyoming, the Permian Basin in West Texas, the Mid-Continent region in
 Oklahoma and North Texas, and the Gulf Coast, primarily in Texas. These areas
-accounted for approximately 99% of Belco's proved reserves at June 30, 2001.
-Belco's reserve base was 637 Bcfe at June 30, 2001 with a reserve life index of
-10 years, based on 2000 production. During the calendar year 2000, Belco
+accounted for approximately 99% of Belco's proved reserves at December 31, 2000.
+Belco's reserve base was 726 Bcfe at December 31, 2000 with a reserve life index
+of 11.3 years, based on 2000 production. During the calendar year 2000, Belco
 acquired approximately 104 Bcfe of proved reserves for approximately $79.5
 million.
 
@@ -6973,7 +6793,7 @@ Oil -- Barrels per day......................................  2001*   6,100     
                                                               2003    2,100     $19.93
 Gas -- Mmbtu per day........................................  2001*  70,000     $ 2.09
                                                               2002   37,000     $ 3.09
-                                                              2003    7,500     $ 3.78
+                                                              2003    7,500     $ 3,78
 
 - ---------------
 
@@ -7111,23 +6931,22 @@ efficiencies and technical expertise.
 
      Belco has achieved substantial growth in reserves, production, revenues and
 EBITDA since 1992. Belco's estimated proved reserves have increased at a
-compound annual growth rate of 30%, from 67 Bcfe as of December 31, 1992 to 637
-Bcfe as of June 30, 2001, with a reserve life index of approximately 10 years
-based on 2000 production. Average daily production has increased from four Mmcfe
-per day in 1992 to approximately 176 Mmcfe/d in 2000. Similarly, the growth in
-Belco's EBITDA has been substantial, increasing from $2.9 million for the year
-ended December 31, 1992 to $112.1 million for the year ended December 31, 2000.
-Belco's low cost structure is evidenced by its general and administrative
-expenses of $0.10 per Mcfe and lease operating expenses and production taxes of
-$0.74 per Mcfe in 2000.
+compound annual growth rate of 35%, from 67 Bcfe as of December 31, 1992 to 726
+Bcfe as of December 31, 2000, with a reserve life index of approximately 11.3
+years based on 2000 production. Average daily production has increased from four
+Mmcfe per day in 1992 to approximately 176 Mmcfe/d in 2000. Similarly, the
+growth in Belco's EBITDA has been substantial, increasing from $2.9 million for
+the year ended December 31, 1992 to $112.1 million for the year ended December
+31, 2000. Belco's low cost structure is evidenced by its general and
+administrative expenses of $0.10 per Mcfe and lease operating expenses and
+production taxes of $0.74 per Mcfe in 2000.
 
-     At June 30, 2001, Belco had estimated proved reserves of 637 Bcfe with a
-pre-tax future net revenues discounted at 10% of $837 million based on NYMEX
-prices of $26.23 per barrel of oil and $3.22 per Mmbtu of natural gas. As of
-June 30, 2001, Belco held or controlled approximately 1.6 million gross (648,377
-net) undeveloped acres. As of December 31, 2000, Belco had an interest in
-approximately 2,460 gross (1,068 net) oil and natural gas wells of which Belco
-operated 1,167.
+     At December 31, 2000, Belco had estimated proved reserves of 726 Bcfe with
+a pre-tax future net revenues discounted at 10% of $2,256 million based on NYMEX
+prices of $25.50 per barrel of oil and $9.53 per Mmbtu of natural gas. As of
+December 31, 2000, Belco held or controlled approximately 1.8 million gross
+(703,000 net) undeveloped acres and had an interest in approximately 2,460 gross
+(1,068 net) oil and natural gas wells of which Belco operated 1,167.
 
 PRIMARY OPERATING AREAS
 
@@ -7149,26 +6968,26 @@ areas:
        ongoing secondary recovery/infill drilling programs on many of the
        properties within these two core areas.
 
-     The following table sets forth information, as of June 30, 2001, with
+     The following table sets forth information, as of December 31, 2000, with
 respect to Belco's estimated net proved reserves by operating area. Miller and
 Lents, Ltd., its independent petroleum engineers, made independent estimates
-covering approximately 88% of Belco's net equivalent Mcf reserves and confirmed
+covering approximately 84% of Belco's net equivalent Mcf reserves and confirmed
 Belco's estimates are in accordance with SEC's guidelines.
 
-                   ESTIMATED PROVED RESERVES AT JUNE 30, 2001
+                 ESTIMATED PROVED RESERVES AT DECEMBER 31, 2000
 
                                                                                GAS       PERCENT OF
                                                         OIL        GAS      EQUIVALENT     PROVED
-                                                      (MBBLS)   (MMCF)(1)    (MMCFE)      RESERVES
+                                                      (Mbbls)   (Mmcf)(1)    (Mmcfe)      RESERVES
                                                       -------   ---------   ----------   ----------
 
-Rocky Mountains.....................................   6,122     122,519     159,251         25%
-Gulf Coast..........................................   1,197     152,649     159,831         25%
-Permian Basin.......................................  29,583      43,310     220,808         35%
-Mid-Continent.......................................  10,562      33,609      96,981         15%
-                                                      ------     -------     -------        ---
-          Total.....................................  47,464     352,087     636,871        100%
-                                                      ======     =======     =======        ===
+Rocky Mountains.....................................   6,668     108,382     148,390         20%
+Gulf Coast..........................................   1,786     184,451     195,167         27%
+Permian Basin.......................................  37,646      50,698     276,574         38%
+Mid-Continent.......................................  11,391      37,792     106,138         15%
+                                                      ------     -------     -------        ----
+          Total.....................................  57,491     381,323     726,269        100%
+                                                      ======     =======     =======        ====
 
 - ---------------
 
@@ -7176,7 +6995,7 @@ Mid-Continent.......................................  10,562      33,609      96
 
 ROCKY MOUNTAINS
 
-     Approximately 25% of Belco's estimated proved reserves at June 30, 2001
+     Approximately 20% of Belco's estimated proved reserves at December 31, 2000
 were located in its Rocky Mountains core area.
 
      Wyoming.  Belco maintains a significant acreage position where it conducts
@@ -7191,8 +7010,8 @@ in these three basins.
 
      - Moxa Arch Trend.  One of Belco's primary operating areas is the Moxa Arch
        Trend located in the Green River Basin in southwestern Wyoming,
-       principally in Lincoln, Sweetwater and Uinta Counties. Approximately 16%
-       of Belco's estimated proved reserves at June 30, 2001 were located in
+       principally in Lincoln, Sweetwater and Uinta Counties. Approximately 13%
+       of Belco's estimated proved reserves at December 31, 2000 were located in
        this trend. Belco participates in vertical gas wells in this area, which
        target the Frontier and/or Dakota formations at depths that range from
        approximately 10,000 to 12,500 feet. The Frontier formation is a
@@ -7286,11 +7105,11 @@ development will continue in 2001 on the four discoveries made to date.
 
 GULF COAST
 
-     Approximately 25% of Belco's estimated proved reserves at December 31, 2000
+     Approximately 27% of Belco's estimated proved reserves at December 31, 2000
 were located in its Gulf Coast core area.
 
-     Giddings Field.  Approximately 15% of Belco's estimated total proved
-reserves at June 30, 2001 were located in the Giddings field of east central
+     Giddings Field.  Approximately 17% of Belco's estimated total proved
+reserves at December 31, 2000 were located in the Giddings field of east central
 Texas, principally in Grimes, Washington and Fayette Counties. To date, the
 primary producing zone in the Giddings field has been the Austin Chalk
 formation, a fractured carbonate formation that has been highly conducive to the
@@ -7369,7 +7188,7 @@ wells drilled in 2000 were drilled with Hosston objectives.
 
 PERMIAN BASIN
 
-     Approximately 35% of Belco's estimated proved reserves at June 30, 2001
+     Approximately 38% of Belco's estimated proved reserves at December 31, 2000
 were located in its Permian Basin core area. These reserves are concentrated in
 the Andrews Unit, the Shafter Lake San Andres Unit and the Nolley Wolfcamp Unit.
 
@@ -7429,9 +7248,9 @@ MID-CONTINENT REGION
 
      Belco's Mid-Continent operations are currently focused in Oklahoma and
 Kansas and represent approximately 15% of its total estimated proved reserves at
-June 30, 2001. The oil production is concentrated in Belco operated waterfloods
-in Oklahoma while the gas production is in Belco operated wells in Kansas and
-mainly outside operated wells in Oklahoma.
+December 31, 2000. The oil production is concentrated in Belco operated
+waterfloods in Oklahoma while the gas production is in Belco operated wells in
+Kansas and mainly outside operated wells in Oklahoma.
 
      Oklahoma.  Three waterfloods represent a majority of Belco's estimated
 proved oil reserves in the region. These waterfloods are identified as the
@@ -7555,7 +7374,7 @@ Property Sales........................................    (6,292)     (215)   (1
 
 ACREAGE
 
-     The following table sets forth, as of June 30, 2001, the gross and net
+     The following table sets forth, as of December 31, 2000, the gross and net
 acres that Belco owned, controlled or had the right to acquire interests in both
 developed and undeveloped acreage. Developed acreage refers to acreage within
 producing units and undeveloped acreage refers to acreage that has not
@@ -7570,9 +7389,201 @@ multiplied by Belco's fractional working interest.
                                                -------   -------   ---------   -------
 
 Rocky Mountains:
-  Green River Basin..........................    5,726       604     538,891   141,575
+  Green River Basin..........................    5,443       533     539,762   141,793
   Moxa Arch Trend............................   33,413    19,632      27,414    16,426
-  Wind River Basin...........................    1,917       718     273,883   102,844
-  Big Horn Basin.............................   11,198    10,876     310,351   144,185
-  Denver-Julesburg Basin.....................  207,365     2,298      76,524    36,689
-  Montana....................................   
+  Wind River Basin...........................    1,917       718     275,016   103,007
+  Big Horn Basin.............................      643       321     322,625   102,043
+  Denver-Julesburg Basin.....................  207,365     2,298     110,074    57,927
+Permian Basin................................  100,191    51,817          20        20
+Mid-Continent Region:
+  Oklahoma...................................  119,957    39,687      37,895    12,012
+  North Texas................................   23,093    10,302         640       320
+  Kansas.....................................   37,649    31,628       8,256     7,693
+  North Dakota...............................   10,973     4,391      37,571    25,343
+  Michigan...................................    2,411       734      13,263     2,382
+Gulf Coast/Other:
+  Texas-Giddings Field.......................  106,626    41,831     203,171    60,515
+  Louisiana..................................   18,133     8,172     183,339   147,248
+  Arkansas...................................      345       345       4,264     2,952
+  Gulf Coast.................................   11,999     9,030      41,027    23,762
+  New Mexico.................................      320       160          --        --
+                                               -------   -------   ---------   -------
+          Totals.............................  680,478   221,599   1,804,337   703,443
+                                               =======   =======   =========   =======
+
+- ---------------
+
+(1) Leases covering less than half of the undeveloped acreage will expire within
+    the next three years. However, we expect to evaluate this acreage prior to
+    its expiration. Our leases generally provide that the leases will continue
+    past their primary terms if oil or gas in commercial quantities is being
+    produced from a well on such leases.
+
+PRODUCTIVE WELL SUMMARY
+
+     The following table sets forth Belco's ownership in productive wells at
+December 31, 2000. Gross oil and gas wells include multiple completions. Wells
+with multiple completions are counted only once for purposes of the following
+table. Production from various formations in wells without multiple completions
+is commingled.
+
+                                                               PRODUCTIVE WELLS
+                                                               -----------------
+                                                                GROSS      NET
+                                                               -------   -------
+
+Gas.........................................................     842.0     368.9
+Oil.........................................................   1,618.0     699.5
+                                                               -------   -------
+          Total.............................................   2,460.0   1,068.4
+                                                               =======   =======
+
+MARKETING
+
+     There are a variety of factors which affect the market for oil and natural
+gas, including the extent of domestic production and imports of oil and natural
+gas, the proximity and capacity of natural gas pipelines and other
+transportation facilities, demand for oil and natural gas, the marketing of
+competitive fuels and the effects of state and federal regulations on oil and
+natural gas production and sales. Historically Belco has not experienced any
+difficulties in marketing its oil or natural gas. The oil and natural gas
+industry also competes with other industries in supplying the energy and fuel
+requirements of industrial, commercial and individual customers.
+
+     Although Belco seeks to moderate the impact of price volatility through its
+commodity price risk management activities, it remains subject to price
+fluctuations for natural gas sold in the spot market due primarily to
+seasonality of demand and other factors beyond Belco's control. Domestic oil
+prices generally follow worldwide oil prices, which are subject to price
+fluctuations resulting from changes in world supply and demand.
+
+PRODUCTION SALES CONTRACTS
+
+     In Wyoming, Belco sells all of its natural gas, natural gas liquids and
+condensate from its Moxa Arch wells under a market sensitive long term sales
+contract with Amoco Energy Trading Corporation, or the Amoco Gas Contract. The
+price payable to Belco under the Amoco Gas Contract for gas is the Northwest
+Pipeline Rocky Mountain Index, plus $0.03 per Mmbtu, less fuel charges and
+gathering fees and adjustments for Btu content. The Amoco Gas Contract was
+renewed effective January 1, 1999 for an additional three year period on the
+same terms.
+
+     All of Belco's current Moxa Arch Wyoming oil and condensate production is
+sold at market sensitive prices pursuant to an option held by Amoco.
+
+     Belco's Moxa Arch wells are subject to various gathering agreements with
+third parties. Wells drilled under the Amoco Farmout Agreement in the Cow
+Hollow, Wilson Ranch, Seven Mile Gulch and Bruff areas are subject to the Gas
+Gathering and Processing Agreement dated March 20, 1992 with Northwest Pipeline.
+
+     In Texas, Louisiana and Oklahoma, Belco sells its gas to purchasers under
+percentage of proceeds or index-based contracts. Under the percentage of
+proceeds contract, Belco receives a fixed percentage of the resale price
+received by the purchaser for sales of residue gas and natural gas liquids
+recovered after gathering and processing its gas. Belco receives between 85% and
+92% of the proceeds from residue gas sales and from 85% to 90% of the proceeds
+from natural gas liquids sales received by its purchasers when the products are
+resold. The residue gas and natural gas liquids sold by these purchasers are
+sold primarily based on spot market prices. The revenue received by Belco from
+the sale of natural gas liquids is included in natural gas sales. Under
+indexed-based contracts, the price per Mmbtu Belco receives for its gas at the
+wellhead is tied to indexes published in Inside FERC or Gas Daily, and in most
+cases is subject to a discount to the relevant index in lieu of a gathering fee.
+
+     All of Belco's oil production is sold under market sensitive or spot price
+contracts to various purchasers.
+
+     Sales to individual customers constituting 10% or more of total revenues in
+2000 were made to:
+
+     - Aquila Southwest Pipeline (26%);
+
+     - Amoco Energy Trading (17%);
+
+     - EOTT Energy Operating LP (14%);
+
+     - Duke Energy Field Services (11%);
+
+     - Enron Reserve Acquisition Corp. (11%); and
+
+     - Eighty-Eight Oil, LLC (10%).
+
+Belco believes that the loss of any one of the above customers would not have a
+material adverse effect on its results of operations or its financial condition.
+
+PRICE RISK MANAGEMENT TRANSACTIONS
+
+     Commodity Price Risk Management.  With the objective of achieving more
+predictable revenues and cash flows and reducing the exposure to fluctuations in
+gas and oil prices, Belco has entered into price risk management transactions of
+various types with respect to both natural gas and oil, as described below.
+
+While the use of these arrangements limits the downside risk of adverse price
+movements to a certain extent, it may also limit future revenues from favorable
+price movements. Belco entered into price risk management transactions with
+respect to a substantial portion of its estimated oil production and
+approximately 60% of its estimated gas production for 2000 and lesser amounts of
+its estimated production for 2001 and beyond. Belco continues to evaluate
+whether to enter into additional such transactions for 2001 and beyond. Belco
+expects to reduce the current amount of price risk management contracts to
+largely phase out such transactions that it has in place over the next 12 to 18
+months in an effort to limit future exposure to the mark-to-market accounting
+rules requiring the immediate recognition of non-cash unrealized gains and
+losses that cause large unpredictable swings in reported results of operations,
+related earnings per share and shareholder equity. In addition, Belco may
+determine from time to time to terminate its then existing hedging and other
+risk management positions.
+
+     All of Belco's price risk management transactions are carried out in the
+over-the-counter market and not on the NYMEX. These financial counterparties all
+have at least an investment grade credit rating. All of these transactions
+provide solely for financial settlements relating to closing prices on the
+NYMEX.
+
+     The following is a summary of the types of price risk management
+transactions in effect as of December 31, 2000.
+
+     Swaps.  Since all of Belco's natural gas and oil is sold on "floating" or
+market related prices, Belco has entered into financial swap transactions that
+convert a floating price into a fixed price for a future month. For any
+particular swap transaction, the counterparty is required to make a payment to
+Belco in the event that the NYMEX Reference Price for any settlement period is
+less than the swap price for such hedge, and Belco is required to make a payment
+to the counterparty in the event that the NYMEX Reference Price for any
+settlement period is greater than the swap price for such hedge.
+
+     Reverse Swaps.  When Belco determines it desires to reduce the amount of
+swaps because of an assumed favorable outlook for prices, it enters into a
+reverse swap. Under such a transaction, Belco's role and the role of the
+counterparty are reversed.
+
+     Collars.  A collar provides for an average floor price and an average
+ceiling price. For any particular collar transaction, the counterparty is
+required to make a payment to Belco if the average NYMEX Reference Price for the
+reference period is below the floor price for such transaction, and Belco is
+required to make payment to the counterparty if the average NYMEX Reference
+Price is above the ceiling price for such transaction.
+
+     Options, Puts and Straddles.  When Belco believes that it will receive a
+sufficiently high cash premium or other consideration for granting the
+counterparty a call or put option, it may enter into such a transaction. If
+Belco sold a $20.00 call on oil for $0.40 a barrel in a given month and prices
+averaged $19.00 a barrel for such month, it would receive a net realization per
+barrel of $19.40 ($19.00 plus the $0.40 premium). However, if for that month the
+price of oil averaged $20.00 or higher per barrel, Belco would receive a net
+realization of $20.40 (the call price, $20.00, plus $0.40).
+
+     A limited number of these transactions contain negotiated knockout,
+extendable or leverage provisions. These provisions either limit price
+protection beyond a specific level, contain tiered pricing provisions, allow the
+option to be extended for a period of time, or provide for payment based upon a
+multiple of the underlying notional volume. The transactions described in this
+paragraph and any sold options are non-hedge instruments and required to be
+marked to market as to their value on the last day of the accounting period.
+
+     Belco sells Wyoming natural gas at prices based on the Northwest Pipeline
+Rocky Mountain Index, or NPRMI, and the Colorado Interstate Gas Co.-Rocky
+Mountain Index, or CIGCo.-RMI (indices of prices for gas delivered at various
+delivery points on the Northwest Pipeline and the CIGCo. pipeline in the
+Northern Rocky Mountain area). For a portion of the natural gas sold against
+these indices, Belco has e

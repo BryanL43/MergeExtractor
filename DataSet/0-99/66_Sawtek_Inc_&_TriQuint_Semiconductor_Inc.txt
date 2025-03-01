@@ -1,6 +1,6 @@
-URL: https://www.sec.gov/Archives/edgar/data/913885/000091205701518276/0000912057-01-518276.txt
+URL: https://www.sec.gov/Archives/edgar/data/913885/000091205701519567/0000912057-01-519567.txt
 
-KWOOD PARKWAY
+BROOKWOOD PARKWAY
 		CITY:			HILLSBORO
 		STATE:			OR
 		ZIP:			97124
@@ -13,11 +13,11 @@ KWOOD PARKWAY
 		STATE:			OR
 		ZIP:			97124
 
-S-4
+S-4/A
 
-a2050388zs-4.htm
+a2051501zs-4a.htm
 
-S-4
+S-4/A
 
  Prepared by MERRILL CORPORATION
 
@@ -25,13 +25,17 @@ QuickLinks
 
  -- Click here to rapidly navigate through this document
 
-As filed with the Securities and Exchange Commission on June 1, 2001  
+As filed with the Securities and Exchange Commission on June 12, 2001
 
- Registration No. 333-     
+Registration No. 333-62062
 
 SECURITIES AND EXCHANGE COMMISSION
 
 Washington, D.C. 20549  
+
+Amendment No. 1
+
+to
 
 FORM S-4
 
@@ -39,7 +43,7 @@ REGISTRATION STATEMENT
 
 Under
 
-The Securities Act of 1933  
+The Securities Act of 1933
 
 TRIQUINT SEMICONDUCTOR, INC.
 
@@ -152,34 +156,56 @@ Proposed Maximum
 
 Aggregate Offering
 
-Price(2)
+Price
 
 Amount of
 
 Registration Fee
 
-Common stock, par value $0.001 per share(3)
+Common stock, par value $0.001 per share(2)
 
 48,791,918
 
 $17.33
 
-$845,563,939
+$845,563,939(3)
 
-$211,391
+$211,391(4)
+
+Common stock, par value $0.001 per share(3)
+
+121,418
+
+$18.88
+
+$2,292,884(5)
+
+$573
 
 (1)
 Based
-upon the maximum number of shares of common stock, par value $0.001 per share, of TriQuint Semiconductor, Inc. that may be issued pursuant to the merger. 
+upon the maximum number of shares of common stock, par value $0.001 per share, of TriQuint Semiconductor, Inc. that may be issued pursuant to the merger.
+
 (2)
+Includes
+Preferred Share Purchase Rights which, prior to the occurrence of certain events, will not be exercisable or evidenced separately from the Common Stock.
+
+(3)
 Estimated
 solely for purposes of calculating the registration fee required by the Securities Act of 1933, as amended, and computed pursuant to Rules 457(f) and
 (c) under the Securities Act based on (i) $19.9450, the average of the high and low per share prices of common stock, par value $0.0005 per share, of Sawtek Inc. on the Nasdaq
-National Market on May 30, 2001 divided by the exchange ratio of 1.1507 and (ii) the maximum number of shares of Sawtek Inc. common stock to be acquired by TriQuint pursuant to
-the merger. 
-(3)
-Includes
-Preferred Share Purchase Rights which, prior to the occurrence of certain events, will not be exercisable or evidenced separately from the Common Stock. 
+National Market on May 30, 2001 divided by the exchange ratio of 1.1507 and (ii) 48,791,918 shares of Sawtek Inc. common stock to be acquired by TriQuint pursuant to the
+merger.
+
+(4)
+Previously
+paid.
+
+(5)
+Estimated
+solely for purposes of calculating the registration fee required by the Securities Act of 1933, as amended, and computed pursuant to Rules 457(f) and (c) under the
+Securities Act based on (i) $21.73, the average of the high and low per share prices of the common stock of Sawtek Inc. on the Nasdaq National Market on June 6, 2001 divided by
+the exchange ratio of 1.1507 and (ii) 105,517 additional shares of Sawtek Inc. common stock that may be acquired by TriQuint pursuant to the merger.
 
 The Registrant hereby amends this Registration Statement on such date or dates as may be necessary to delay its effective date until the
 Registrant shall file a further amendment which specifically states that this Registration Statement shall thereafter become effective in accordance with Section 8(a) of the Securities Act of 1933 or
@@ -189,16 +215,15 @@ The Information in this prospectus is not complete and may be changed. We may no
 with the Securities and Exchange Commission is effective. This prospectus is not an offer to sell these securities and it is not soliciting an offer to buy these securities in any state where the
 offer or sale is not permitted.  
 
-Subject to Completion, Dated June 1, 2001  
+Subject to Completion, Dated June 12, 2001
 
 To the shareholders of Sawtek Inc. and the stockholders of TriQuint Semiconductor, Inc.: 
 
     After
 careful consideration, the boards of directors of Sawtek and TriQuint have unanimously approved a merger between TriQuint and Sawtek. 
 
-    In
-the merger, each share of Sawtek common stock will be exchanged for 1.1507 shares of TriQuint common stock. TriQuint common stock is traded on the Nasdaq National Market System
-under the trading symbol "TQNT," and on May 29, 2001, the closing price of TriQuint common stock was $19.01 per share. 
+    In the merger, each share of Sawtek common stock will be exchanged for 1.1507 shares of TriQuint common stock. TriQuint common stock is traded on the Nasdaq National Market System
+under the trading symbol "TQNT," and on June 8, 2001, the closing price of TriQuint common stock was $18.26 per share.
 
     Following
 the merger, TriQuint's board of directors will be composed of nine members: seven will be from the current TriQuint board and two will be from the current Sawtek board. The
@@ -219,12 +244,11 @@ statement/prospectus.
     Shareholders
 of Sawtek and stockholders of TriQuint are cordially invited to attend one of two special meetings to vote on the merger: 
 
-    The
-special meeting of 
+    The special meeting of 
 Sawtek shareholders
  will be held on July 19, 2001 at 10:00 a.m. local time at Sawtek's
-headquarters at 1818 South Highway 441, Apopka, Florida 32703. Only shareholders who hold shares of Sawtek at the close of business on June 8, 2001 will be entitled to vote at this special
-meeting. 
+headquarters at 1818 South Highway 441, Apopka, Florida 32703. Only shareholders who hold shares of Sawtek at the close of business on June 12, 2001 will be entitled to vote at this special
+meeting.
 
     The
 special meeting of 
@@ -256,9 +280,8 @@ TriQuint Semiconductor, Inc.
 Neither the Securities and Exchange Commission nor any state securities commission has approved or disapproved of these securities or passed upon the adequacy
 or accuracy of this joint proxy statement/prospectus. Any representation to the contrary is a criminal offense.  
 
-    This joint proxy statement/prospectus is dated            , 2001 and was first mailed to holders of Sawtek common stock and TriQuint common stock on
-or
-about June  , 2001. 
+    This joint proxy statement/prospectus is dated            , 2001 and was first mailed to holders of Sawtek common stock and TriQuint common stock on or
+about June 18, 2001.
 
 Where to Obtain Additional Information    
 
@@ -303,9 +326,9 @@ If you would like to request any information, please do so by July 5, 2001, in o
 
 Preliminary Copy
 
-June 1, 2001  
+June 12, 2001
 
- Sawtek Inc.
+Sawtek Inc.
 
 1818 South Highway 441
 
@@ -333,11 +356,10 @@ therein, as described in more detail in the joint proxy statement/prospectus tha
 To
 transact any other business that may properly come before the meeting or any adjournment or postponement thereof. 
 
-    Shareholders
-of record at the close of business on June 8, 2001 are entitled to notice of, and to vote at, the special meeting and any adjournment or postponement thereof.
-Holders of shares of Sawtek Inc.
-common stock on the record date will be entitled to one vote for each share of Sawtek common stock held on each matter submitted to a vote at the special meeting. The affirmative vote of at least a
-majority of the votes entitled to be cast by holders of shares of Sawtek common stock outstanding and entitled to vote is required to approve and adopt the merger agreement and approve the merger. 
+    Shareholders of record at the close of business on June 12, 2001 are entitled to notice of, and to vote at, the special meeting and any adjournment or postponement thereof.
+Holders of shares of Sawtek Inc. common stock on the record date will be entitled to one vote for each share of Sawtek common stock held on each matter submitted to a vote at the special
+meeting. The affirmative vote of at least a majority of the votes entitled to be cast by holders of shares of Sawtek common stock outstanding and entitled to vote is required to approve and adopt the
+merger agreement and approve the merger.
 
     Certain
 shareholders of Sawtek, who, as of April 30, 2001, beneficially own and have voting control over approximately 5.2% of the outstanding shares of Sawtek common stock
@@ -347,13 +369,11 @@ The board of directors of Sawtek Inc. has carefully considered the terms of the 
 are in the best interests of Sawtek Inc. and its shareholders, and unanimously recommends that you vote FOR approval and adoption of the merger agreement and approval of the
 merger.
 
-By
-Order of the Board of Directors
+By Order of the Board of Directors
 
-of Sawtek Inc. 
+of Sawtek Inc.
 
-William
-A. Grimm, Esq.
+William A. Grimm, Esq.
 
 Secretary
 
@@ -367,7 +387,7 @@ provided, whether or not you plan to attend the meeting. You can revoke your pro
 
 Preliminary Copy
 
-June 1, 2001
+June 12, 2001
 
 TriQuint Semiconductor, Inc.
 
@@ -400,8 +420,7 @@ amend TriQuint's certificate of incorporation to increase the number of shares o
 3.
 To
 approve and adopt the 2001 Stock Option Plan and to reserve 2,400,000 shares of common stock that may be optioned and sold under the plan, plus an annual increase of the
-lesser of (i) 15,000,000
-shares, (ii) 5% of the outstanding shares on the last day of TriQuint's prior fiscal year or (iii) an amount determined by the board.
+lesser of (i) 15,000,000 shares, (ii) 5% of the outstanding shares on the last day of TriQuint's prior fiscal year or (iii) an amount determined by the board.
 
 4.
 To
@@ -803,7 +822,7 @@ Yes.
 In evaluating the merger, you should carefully consider the factors discussed in the section of the joint proxy statement/prospectus entitled "
 Risk
 Factors
-" beginning on page [23].
+" beginning on page 23.
 
 Q:
 Are there conditions to completion of the merger? (see page 90)
@@ -1073,15 +1092,15 @@ per share of TriQuint common stock, and
 $26.01
 per share of Sawtek common stock. 
 
-On May 29, 2001 the last reported sale prices were:
+On June 11, 2001 the last reported sale prices were:
 
 
-$19.01
+$17.35
 per share of TriQuint common stock, and
 
 
-$21.49
-per share of Sawtek common stock. 
+$19.66
+per share of Sawtek common stock.
 
 TriQuint
 and Sawtek urge you to obtain current market quotations. 
@@ -1508,12 +1527,12 @@ approximately 4% and net income per share of approximately $0.03. TriQuint also 
 December 31, 2001 may be consistent with TriQuint's revised forecast for the three months ended June 30, 2001. TriQuint cited the general economic slowdown, soft bookings and delays and
 rescheduling of orders as primary factors affecting its outlook and anticipated operating results. 
 
-    On
-May 23, 2001 Sawtek also announced that it was revising its guidance regarding its expected revenues, gross profit margin and earnings per share for the three months ending
-June 30, 2001. Sawtek projected its revenues to be between $17 million to $19 million, gross profit margin of 33% to 39% and earnings per share of $0.06 to $0.08 for the three
+    On May 23, 2001 Sawtek also announced that it was revising its guidance regarding its expected revenues, gross profit margin and earnings per share for the three months ending
+June 30, 2001. Sawtek projected its revenues to be between $17 million and $19 million, gross profit margin of 33% to 39% and earnings per share of $0.06 to $0.08 for the three
 months ending June 30, 2001. Sawtek attributed the
+
 downward revision in its guidance to a slowdown in the economy, significant reduction in demand for components for wireless phones, lower unit prices for its products in the current quarter, a
-reduction in network spending by wireless phone operators, a delay in roll-out of next generation equipment and excess inventories held by its broadband customers. 
+reduction in network spending by wireless phone operators, a delay in roll-out of next generation equipment and excess inventories held by its broadband customers.
 
 SUMMARY SELECTED FINANCIAL DATA    
 
@@ -2312,10 +2331,10 @@ combined statements of operations as they are non-recurring in nature. These cha
 You should read these summary pro forma financial statements with the historical financial statements  
 
     The TriQuint summary unaudited pro forma combined condensed financial data should be read in conjunction with the TriQuint unaudited pro forma combined
-condensed financial statements and the related notes, which begin on page  . They should also be read in conjunction with the audited and unaudited financial statements of TriQuint and
-Sawtek which are incorporated by reference in this document. The TriQuint summary unaudited pro forma combined condensed financial data are not necessarily indicative of what the actual results of
-operations and financial position would have been had the merger taken place on January 1, 2001, 2000, 1999 and 1998 or March 31, 2001, and do not indicate future results of operations
-or financial position. 
+condensed financial statements and the related notes, which begin on page 98. They should also be read in conjunction with the audited and unaudited financial statements of TriQuint and Sawtek which
+are incorporated by reference in this document. The TriQuint summary unaudited pro forma combined condensed financial data are not necessarily indicative of what the actual results of operations and
+financial position would have been had the merger taken place on January 1, 2001, 2000, 1999 and 1998 or March 31, 2001, and do not indicate future results of operations or financial
+position.
 
 TriQuint and Sawtek    
 
@@ -2839,7 +2858,7 @@ $
 
 14.25
 
-Quarter Ending June 30, 2001 (through May 29, 2001)
+Quarter Ending June 30, 2001 (through June 11, 2001)
 
 32.98
 
@@ -2945,10 +2964,9 @@ Quarter Ended December 31, 1999
 
 13.58
 
-    The
-following table sets forth the closing prices per share of TriQuint common stock as reported on the Nasdaq National Market and the closing prices per share of Sawtek common stock
+    The following table sets forth the closing prices per share of TriQuint common stock as reported on the Nasdaq National Market and the closing prices per share of Sawtek common stock
 as reported on the Nasdaq National Market on (a) May 15, 2001, the last full trading day preceding public announcement that TriQuint and Sawtek had entered into the merger agreement and
-(b) May 29, 2001, the last full trading day for which it was practicable to obtain closing prices at the time of the printing of this joint proxy statement/prospectus. 
+(b) June 11, 2001, the last full trading day for which it was practicable to obtain closing prices at the time of the printing of this joint proxy statement/prospectus.
 
 Sawtek
 
@@ -2968,11 +2986,15 @@ $
 
 26.00
 
-May 29, 2001
+June 11, 2001
 
-21.49
+$
 
-19.01
+19.66
+
+$
+
+17.35
 
 Because the market price of TriQuint common stock that a Sawtek shareholder will receive in the merger may increase or decrease before completion of the
 merger, Sawtek shareholders are urged to obtain current market quotations.  
@@ -3051,7 +3073,7 @@ Sawtek executive officers and directors have interests that may influence them t
 employment offers that provide them with interests in the merger that are different from, or are in addition to, your interests in the merger. In addition, upon the completion of the merger, if
 terminated or constructively terminated, Messrs. Anemogiannis and Link will also be entitled to continue to participate in the Sawtek employee stock ownership plan and will be entitled to
 receive severance payments. As a result, these directors and officers may be more likely to vote to adopt and approve the merger agreement and approve the merger than if they did not have these
-interests. See the section entitled "The MergerInterests of Sawtek Directors and Officers in the Merger" beginning on page 79 of this document. 
+interests. See the section entitled "The MergerInterests of Sawtek Directors and Officers in the Merger" beginning on page 78 of this document.
 
 TriQuint will face significant challenges in integrating TriQuint and Sawtek and, as a result, may not realize the expected benefits of the merger.  
 
@@ -4113,7 +4135,7 @@ THE SPECIAL MEETING OF SAWTEK SHAREHOLDERS
 Joint proxy statement/prospectus  
 
     This joint proxy statement/prospectus is being furnished to you in connection with the solicitation of proxies by Sawtek's board of directors in connection
-with the proposed merger. This joint proxy statement/prospectus is first being furnished to shareholders of Sawtek on or about June  , 2001. 
+with the proposed merger. This joint proxy statement/prospectus is first being furnished to shareholders of Sawtek on or about June 18, 2001.
 
 Date, time and place of the special meeting  
 
@@ -4147,9 +4169,8 @@ unanimously recommends that the shareholders vote FOR the proposal to approve an
 
 Shareholder record date for the special meeting  
 
-    Sawtek's board of directors has fixed the close of business on June 8, 2001 as the record date for determination of Sawtek shareholders entitled to
-notice of, and to vote at, the special meeting. On the record date, there were            shares of Sawtek common stock outstanding, held by
-approximately      holders of record. 
+    Sawtek's board of directors has fixed the close of business on June 12, 2001 as the record date for determination of Sawtek shareholders entitled to
+notice of, and to vote at, the special meeting. On the record date, there were 42,386,711 shares of Sawtek common stock outstanding, held by approximately 208 holders of record.
 
 Majority vote of Sawtek shareholders required for adoption of the merger agreement  
 
@@ -4161,12 +4182,12 @@ treat shares that abstain from voting as shares that are present and entitled to
     The affirmative vote of the holders of at least a majority of the shares of Sawtek common stock outstanding on the record date is required to adopt the merger agreement and approve
 the merger. 
 
-    Some
-Sawtek executive officers and directors, including Kimon Anemogiannis, Brian P. Balut, John K. Bitzer, Raymond A. Link, Steven P. Miller and his affiliates, Robert C. Strandberg,
+    Some Sawtek executive officers and directors, including Kimon Anemogiannis, Brian P. Balut, John K. Bitzer, Raymond A. Link, Steven P. Miller and his affiliates, Robert C. Strandberg,
 Neal Jay Tolar and
+
 his affiliates, Azhar Waseem, Bruce S. White and Willis C. Young, in their capacity as shareholders, have agreed, subject to the terms and conditions of a voting agreement with TriQuint, to vote their
-shares of Sawtek common stock in favor of the adoption of the merger agreement. As of the record date these shareholders held approximately         shares of Sawtek common stock representing
-approximately    % of the outstanding shares of Sawtek common stock as of the record date. 
+shares of Sawtek common stock in favor of the adoption of the merger agreement. As of the record date these shareholders held approximately 2,215,484 shares of Sawtek common stock representing
+approximately 5.2% of the outstanding shares of Sawtek common stock as of the record date.
 
 Proxies  
 
@@ -4232,7 +4253,7 @@ THE SPECIAL MEETING OF TRIQUINT STOCKHOLDERS
 Joint proxy statement/prospectus  
 
     This joint proxy statement/prospectus is being furnished to you in connection with the solicitation of proxies by TriQuint's board of directors in connection
-with the proposed merger. This joint proxy statement/prospectus is first being furnished to stockholders of TriQuint on or about June  , 2001. 
+with the proposed merger. This joint proxy statement/prospectus is first being furnished to stockholders of TriQuint on or about June 18, 2001.
 
 Date, time and place of the special meeting  
 
@@ -4267,7 +4288,7 @@ merger, the increase in the number of authorized shares of common stock and the 
 Stockholder record date for the special meeting  
 
     TriQuint's board of directors has fixed the close of business on June 8, 2001 as the record date for determination of TriQuint stockholders entitled to
-notice of, and to vote at, the special meeting. On the record date, there were        shares of TriQuint common stock outstanding, held by approximately      holders of record.
+notice of, and to vote at, the special meeting. On the record date, there were 80,959,501 shares of TriQuint common stock outstanding, held by approximately 326 holders of record.
 
 Majority vote of TriQuint stockholders required to approve the issuance of shares of TriQuint common stock in the merger  
 
@@ -4278,14 +4299,12 @@ outstanding on the record date is required to approve the increase in authorized
 
 share of TriQuint common stock held by you on the record date on each proposal to be presented to stockholders at the special meeting. 
 
-    On
-the record date for the special meeting, directors and executive officers of TriQuint and their affiliates held approximately            shares of TriQuint common stock
-representing approximately      % of all outstanding shares of TriQuint common stock as of the record date. 
+    On the record date for the special meeting, directors and executive officers of TriQuint and their affiliates held approximately 487,384 shares of TriQuint common stock representing
+approximately 0.6% of all outstanding shares of TriQuint common stock as of the record date.
 
-    Some
-TriQuint executive officers and directors, in their capacity as stockholders, have agreed, subject to the terms and conditions of a voting agreement with TriQuint, to vote their
-shares of TriQuint common stock in favor of the adoption of the merger agreement. As of the record date these stockholders held approximately            shares of TriQuint common stock
-representing approximately      % of the outstanding shares of TriQuint common stock as of the record date. 
+    Some TriQuint executive officers and directors, in their capacity as stockholders, have agreed, subject to the terms and conditions of a voting agreement with TriQuint, to vote their
+shares of TriQuint common stock in favor of the adoption of the merger agreement. As of the record date these stockholders held approximately 487,384 shares of TriQuint common stock representing
+approximately 0.6% of the outstanding shares of TriQuint common stock as of the record date.
 
 Other Proposals  
 
@@ -4351,35 +4370,22 @@ at the special meeting will not in and of itself constitute the revocation of a 
     You
 should not send in any stock certificates with your proxies. You do not need to exchange your TriQuint stock certificates. 
 
-Voting electronically or by telephone  
+Voting electronically or by telephone
 
-For Shares Directly Registered in the Name of the Stockholder:
- If you are registered on TriQuint's stock
-transfer books as the holder of record of your shares, you can vote your shares in one of three ways: 
-
-
-By
-calling 1-800-   -    on a touch-tone phone. This number is toll free in the United States and is available 24 hours
-a day. Be sure to have your proxy card available to enter your control number.
-
-
-By
-visiting the internet site at http:/www.proxyvoting.com/tqnt/.
-
-
-By
-marking, signing, dating and promptly returning the proxy card. We have enclosed a postage-paid envelope (if mailed in the United States) for your
-convenience. 
+    For Shares Directly Registered in the Name of the Stockholder and Held in Certificate Form:
+  TriQuint is not offering
+electronic voting at this time. TriQuint stockholders whose shares are registered in their own name must mark, sign, date and return the enclosed proxy card. A prepaid return envelope is provided for
+this purpose.
 
     For Shares Registered in the Name of Certain Brokerage Firms or Banks:
   A number of brokerage firms and banks currently
 participate in a program provided through ADP Investor Communication Services that offers internet and telephone voting options. If your shares are held in an account at such a brokerage firm or bank,
 you will already have been offered the opportunity to elect to vote via the internet and you may vote these shares telephonically by calling the telephone number referenced on your proxy card. Votes
-submitted via the internet through the ADP program must be received by 12:00 a.m. midnight (EST) on July  , 2001. The giving of such proxy will not affect your right to vote in
-person should you decide to attend the special meeting. The telephone and internet voting procedures are designed to authenticate stockholder identities, to allow stockholders to give their voting
-instructions and to confirm that stockholders' instructions have been recorded properly. TriQuint believes that the telephone and internet voting procedures that have been made available through ADP
-Investor Communications Services are consistent with the requirements of applicable law. Stockholders voting via the internet through ADP Investor Communication Services should understand that there
-might be certain costs associated with electronic access, such as usage charges from internet access providers and telephone companies, that must be borne by the stockholder. 
+submitted via the internet through the ADP program must be received by 12:00 a.m. midnight (EST) on July 17, 2001. The giving of such proxy will not affect your right to vote in person should
+you decide to attend the special meeting. The telephone and internet voting procedures are designed to authenticate stockholder identities, to allow stockholders to give their voting instructions and
+to confirm that stockholders' instructions have been recorded properly. TriQuint believes that the telephone and internet voting procedures that have been made available through ADP Investor
+Communications Services are consistent with the requirements of applicable law. Stockholders voting via the internet through ADP Investor Communication Services should understand that there might be
+certain costs associated with electronic access, such as usage charges from internet access providers and telephone companies, that must be borne by the stockholder.
 
 Solicitation of proxies  
 
@@ -6805,8 +6811,8 @@ unallocated shares of TriQuint common stock held in the Sawtek KSOP after the me
 Assumption of Sawtek Stock Options  
 
     In connection with the merger, TriQuint will assume any outstanding options to purchase Sawtek common stock and those options will be converted to options to
-purchase TriQuint common stock. As of June 8, 2001, the directors and officers of Sawtek held options to purchase      shares of Sawtek common stock. The remaining options held by
-the officers and directors of TriQuint will continue to vest on their original schedules. 
+purchase TriQuint common stock. As of June 12, 2001, the directors and officers of Sawtek held options to purchase 979,234 shares of Sawtek common stock. The remaining options held by the
+officers and directors of TriQuint will continue to vest on their original schedules.
 
  Sawtek Health and Welfare Plans  
 
@@ -6963,9 +6969,8 @@ TriQuint common stock. However, any shares owned by Sawtek, TriQuint or any of t
 exchange ratio to reflect any reclassification, stock split, stock dividend, reorganization or other similar change with respect to TriQuint common stock or Sawtek common stock occurring before the
 effective time of the merger. 
 
-    Based
-on the exchange ratio of 1.1507, and based on the number of shares of Sawtek common stock and options to purchase Sawtek common stock outstanding as of May 25, 2001, a
-total of approximately 44,777,000 shares of TriQuint common stock and options to purchase TriQuint common stock will be issued or granted in the merger. 
+    Based on the exchange ratio of 1.1507, and based on the number of shares of Sawtek common stock and options to purchase Sawtek common stock outstanding as of June 8, 2001, a
+total of approximately 51,664,170 shares of TriQuint common stock and options to purchase TriQuint common stock will be issued or granted in the merger.
 
 Treatment of restricted stock of Sawtek  
 
@@ -9038,9 +9043,8 @@ to TriQuint's shareholder rights plan, each share of common stock currently outs
 convertible notes due 2007 and all shares of TriQuint common stock issued in connection with the Sawtek merger has received or will receive, as the case may be, one preferred share purchase right per
 share of common stock, which until such right becomes exercisable, trades with the shares of TriQuint common stock. 
 
-    At
-June 8, 2001,            shares of TriQuint common stock were outstanding. There were  stockholders of record at June 8, 2001. At
-June 8, 2001, options to purchase an aggregate of            shares of TriQuint common stock were also outstanding. 
+    At June 8, 2001, 80,959,501 shares of TriQuint common stock were outstanding. There were 326 stockholders of record at June 8, 2001. At June 8, 2001, options to
+purchase an aggregate of 14,530,102 shares of TriQuint common stock were also outstanding.
 
 Preferred Stock  
 
@@ -9181,9 +9185,9 @@ Shareholder Rights Plan
 
     In June 1998, TriQuint's board of directors adopted the shareholder rights plan (the "rights plan"). Pursuant to the rights plan, TriQuint declared a
 dividend of one preferred share purchase right (a "right") for each outstanding share of TriQuint common stock and each share of TriQuint common stock issued thereafter. Initially, each right entitles
-the holder thereof to purchase from TriQuint one share of TriQuint common stock at an exercise price of [$400.00], subject to adjustment for stock splits, stock dividends and
-similar events. The rights are not exercisable until the occurrence of certain triggering events. The rights will become exercisable only if a person or group acquires 15% or more of TriQuint's common
-stock or announces a tender offer or exchange offer that would result in their ownership of 15% or more of TriQuint's common stock. 
+the holder thereof to purchase from TriQuint one share of TriQuint common stock at an exercise price of $400.00, subject to adjustment for stock splits, stock dividends and similar events. The rights
+are not exercisable until the occurrence of certain triggering events. The rights will become exercisable only if a person or group acquires 15% or more of TriQuint's common stock or announces a
+tender offer or exchange offer that would result in their ownership of 15% or more of TriQuint's common stock.
 
     Ten
 days after an acquisition or offer by a person or group for 15% or more of TriQuint's common stock, each right becomes exercisable at the right's then current exercise price, for
@@ -9257,11 +9261,11 @@ and agreements are necessary to attract and retain qualified persons as its dire
 present TriQuint is not aware of any pending litigation or proceeding involving any director, officer, employee or agent of TriQuint where indemnification will be required or
 permitted. Nor is TriQuint aware of any threatened litigation or proceeding that might result in a claim for indemnification. 
 
-Transfer Agent And Registrar  
+Transfer Agent And Registrar
 
-    ChaseMellon Shareholder Services LLC serves as the transfer agent and registrar for the TriQuint common stock. ChaseMellon's address is 85 Challenger Road,
-Ridgefield Park, New Jersey 07660 and its telephone number is 1-800-522-6645. State Street Bank & Trust Company of California, N.A. serves as the transfer
-agent and registrar for the TriQuint 4% convertible subordinated notes due 2007. 
+    Mellon Shareholder Services LLC serves as the transfer agent and registrar for the TriQuint common stock. Mellon's address is 85 Challenger Road, Ridgefield
+Park, New Jersey 07660 and its telephone number is 1-800-522-6645. State Street Bank and Trust Company of California, N.A. serves as the transfer agent and
+registrar for the TriQuint 4% convertible subordinated notes due 2007.
 
 COMPARISON OF RIGHTS OF
   HOLDERS OF SAWTEK COMMON STOCK AND TRIQUINT COMMON STOCK    
@@ -9275,13 +9279,13 @@ Authorized Capital
 
     TriQuint.
   TriQuint is authorized to issue 200,000,000 shares of common stock, par value of $0.001 per share, and
-5,000,000 shares of preferred stock, par value of $0.001 per share. As of the TriQuint record date            shares of TriQuint common stock were issued and outstanding and no shares of
-TriQuint preferred stock were issued or outstanding. 
+5,000,000 shares of preferred stock, par value of $0.001 per share. As of the TriQuint record date, June 8, 2001, 80,959,501 shares of TriQuint common stock were issued and outstanding and no
+shares of TriQuint preferred stock were issued or outstanding.
 
     Sawtek.
   Sawtek is authorized to issue 120,000,000 shares of common stock, par value of $0.0005 per share, and 1,000,000
-shares of preferred stock, par value of $0.01 per share. As of the Sawtek record date,            shares of Sawtek common stock were issued and outstanding and no shares of Sawtek preferred
-stock were issued or outstanding. 
+shares of preferred stock, par value of $0.01 per share. As of the Sawtek record date, June 12, 2001, 42,386,711 shares of Sawtek common stock were issued and outstanding and no shares
+of Sawtek preferred stock were issued or outstanding.
 
 Amendment of Charter documents  
 
@@ -9542,17 +9546,14 @@ Proposal Two
     TriQuint's board of directors has approved an amendment to Article FOURTH of the Certificate of Incorporation to increase the number of shares of its common
 stock authorized for issuance from 200,000,000 to 600,000,000 shares. Article FOURTH of TriQuint's Certificate of Incorporation, as amended, currently authorizes TriQuint to issue up to 200,000,000
 shares of its common stock, par value $0.001 per share, and 5,000,000 shares of undesignated preferred stock, par value $0.001 per share. TriQuint's authorized common stock is all of a single class,
-with equal voting, distribution, liquidation, and other rights. As of June 8, 2001,      shares of TriQuint's common stock were issued and outstanding, and no shares of its
-authorized preferred stock were outstanding. In addition, options to acquire an additional            shares of TriQuint common stock were issued and outstanding
-and      shares
-of TriQuint common stock were reserved for future issuance under its stock option and purchase plans. TriQuint had also reserved 5,088,509 shares of its common stock for issuance upon the conversion
-of its outstanding 4% subordinated convertible notes due 2007. 
+with equal voting, distribution, liquidation, and other rights. As of June 8, 2001, 80,959,501 shares of TriQuint's common stock were issued and outstanding, and no shares of its authorized
+preferred stock were outstanding. In addition, options to acquire an additional 14,530,102 shares of TriQuint common stock were issued and outstanding and 6,948,732 shares of TriQuint common stock
+were reserved for future issuance under its stock option and purchase plans. TriQuint had also reserved 5,088,509 shares of its common stock for issuance upon the conversion of its outstanding 4%
+subordinated convertible notes due 2007.
 
-    In
-connection with the proposed acquisition of Sawtek, TriQuint expects to issue approximately  million shares of its common stock and assumed options and warrants to
-acquire an additional      shares of TriQuint common stock. Although TriQuint has no immediate plans to issue additional shares of its common stock (other than upon exercise of
-outstanding options or conversion of the outstanding subordinated convertible notes), TriQuint anticipates that it may issue additional shares in the future in connection with one or more of the
-following: 
+    In connection with the proposed acquisition of Sawtek, TriQuint expects to issue approximately 48,913,336 shares of its common stock and assumed options to acquire an additional
+2,750,833 shares of TriQuint common stock. Although TriQuint has no immediate plans to issue additional shares of its common stock (other than upon exercise of outstanding options or conversion of the
+outstanding subordinated convertible notes), TriQuint anticipates that it may issue additional shares in the future in connection with one or more of the following:
 
 
 other
@@ -9578,12 +9579,10 @@ stock incentive plans, and
 otherwise
 for corporate purposes that have not yet been identified. 
 
-    In
-order to provide TriQuint's board of directors with certainty and flexibility to undertake such transactions to support its future business growth, the TriQuint board deems it
-appropriate at this time to increase the number of authorized shares of its common stock. As of June 8, 2001, TriQuint has approximately            shares of authorized, but unissued,
-common stock, approximately      shares of outstanding common stock,            shares reserved for issuance to holders of stock awards under all of our stock
-incentive plans, and
-      shares reserved for issuance upon exercise of warrants expected to be assumed in connection with the merger. 
+    In order to provide TriQuint's board of directors with certainty and flexibility to undertake such transactions to support its future business growth, the TriQuint board deems it
+appropriate at this time to increase the number of authorized shares of its common stock. On a preliminary basis using data as of June 8, 2001, TriQuint expects to have approximately 40,808,987
+shares of authorized, but unissued, common stock, approximately 129,872,837 shares of outstanding common stock, 24,229,667 shares reserved for issuance to holders of stock grants under all of
+TriQuint's stock incentive plans and 5,088,509 shares reserved for issuance upon conversion of TriQuint's 4% subordinated convertible notes due 2007 after completing the proposed Sawtek merger.
 
     The
 current number of authorized, but unissued, shares is insufficient to permit the TriQuint board of directors flexibility to continue its future growth. For example, the TriQuint
@@ -9607,12 +9606,12 @@ has been prompted by business and financial considerations and not by the threat
 stockholders should be aware that approval of this proposal could facilitate future efforts by TriQuint's board of directors to deter or prevent changes in control of TriQuint, including transactions
 in which the stockholders might otherwise receive a premium for their shares over then-current market prices. Some provisions of TriQuint's charter documents already provide
 anti-takeover protections to TriQuint by eliminating the right of stockholders to act by written consent without a meeting and specifying procedures for nominating directors and submitting
-proposals for consideration at stockholder meetings. See "Description of TriQuint Capital Stock" on page   of this joint proxy statement/prospectus. TriQuint adopted these
+proposals for consideration at stockholder meetings. See "Description of TriQuint Capital Stock" on page 106 of this joint proxy statement/prospectus. TriQuint adopted these
 anti-takeover provisions in order to increase the likelihood of continuity and stability in the composition of the board of directors and in the policies set by the board, to discourage
 certain types of transactions which may involve an actual or threatened change of control, and to reduce the vulnerability of TriQuint to an unsolicited acquisition proposal. These provisions are also
 intended to discourage hostile tactics that may be used in proxy fights. The anti-takeover provisions in TriQuint's charter documents could discourage potential acquisition proposals,
 could delay or prevent a change in control transaction, and could have the effect of discouraging others from making tender offers for TriQuint's shares. As a result, these provisions may prevent the
-market price of TriQuint common stock from reflecting the effects of actual or rumored takeover attempts and could prevent changes in TriQuint's management. 
+market price of TriQuint common stock from reflecting the effects of actual or rumored takeover attempts and could prevent changes in TriQuint's management.
 
     TriQuint's
 board of directors has the authority to issue up to 5,000,000 shares of preferred stock and to fix the price, rights, preferences, privileges and restrictions of its
@@ -9835,10 +9834,12 @@ Amendment and Termination
     The TriQuint board of directors may amend the 2001 plan at any time or from time to time or may terminate it without approval of the stockholders, 
 
 provided, however,
- that stockholder approval is
+
+that stockholder approval is
+
 required to the extent necessary and desirable to comply with Rule 16b-3 of the Exchange Act or with Section 422 of the Internal Revenue Code. However, no action by the
 TriQuint board of directors or stockholders may alter or impair any option previously granted under the 2001 plan without the consent of the optionee. In any event, the 2001 plan will terminate in
-May 2011. 
+July 2011.
 
 Tax Information  
 
@@ -10946,12 +10947,4 @@ ARTICLE II
   REPRESENTATIONS AND WARRANTIES OF COMPANY    
 
     Company represents and warrants to Parent and Merger Sub, subject to such exceptions as are specifically disclosed in writing in the disclosure letter
-(referencing the appropriate section and paragraph numbers) delivered by Company to Parent on or prior to the date of this Agreement and certified by a duly authorized officer of Company (the
-"
-Company Disclosure Letter
-"), as follows: 
-
-    2.1 
-Organization and Qualification; Subsidiaries.
- Each of Company and its subsidiaries is a corporation duly organized,
-validly existing and in good standing under the laws of the jurisdiction of its incorporation and has the requisite corporate power and authority to ow
+(referencing the appropriate section and paragraph numbers) delivered by Company

@@ -37,7 +37,7 @@ class Processor:
 
     def __extractAllButLastWord(self, companyName) -> str:
         cleanName = re.sub(r"\(.*?\)", "", companyName);  # Remove parentheses content
-        words = re.split(r"[\s\-_]+", cleanName.strip());  # Split by space, hyphen, or underscore
+        words = re.split(r"[\s\_]+", cleanName.strip());  # Split by space or underscore
 
         # Domain-like terms to merge
         mergeWords = {"net", "com", "org", "co"};

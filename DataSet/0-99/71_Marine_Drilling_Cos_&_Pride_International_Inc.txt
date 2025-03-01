@@ -1,107 +1,92 @@
-URL: https://www.sec.gov/Archives/edgar/data/833081/000095012901501803/0000950129-01-501803.txt
+URL: https://www.sec.gov/Archives/edgar/data/860521/000095012901501804/0000950129-01-501804.txt
 
-S ADDRESS:	
-		STREET 1:		5847 SAN FELIPE ST ST 3300
-		CITY:			HOUSTON
+ONE SUGAR CREEK CENTER BLVD
+		STREET 2:		SUITE 600
+		CITY:			SUGAR LAND
 		STATE:			TX
-		ZIP:			77057
-		BUSINESS PHONE:		7137891400
-
-	MAIL ADDRESS:	
-		STREET 1:		1500 CITY WEST BLVD
-		STREET 2:		SUITE 400
-		CITY:			HOUSTON
-		STATE:			TX
-		ZIP:			77042
+		ZIP:			77478-3556
+		BUSINESS PHONE:		7132433000
 
 	FORMER COMPANY:	
-		FORMER CONFORMED NAME:	PRIDE PETROLEUM SERVICES INC
-		DATE OF NAME CHANGE:	19920703
+		FORMER CONFORMED NAME:	MARINE HOLDING CO
+		DATE OF NAME CHANGE:	19910707
 
 PREM14A
 
-h88527prem14a.txt
+h88527bprem14a.txt
 
-PRIDE INTERNATIONAL, INC.
+MARINE DRILLING COMPANIES, INC.
 
                             SCHEDULE 14A INFORMATION
 
-          PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE SECURITIES
-                              EXCHANGE ACT OF 1934
+                PROXY STATEMENT PURSUANT TO SECTION 14(a) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
 
 Filed by the Registrant [X]
-
 Filed by a Party other than the Registrant [ ]
-
 Check the appropriate box:
+[X] Preliminary Proxy Statement
+[ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2))
+[ ] Definitive Proxy Statement
+[ ] Definitive Additional Materials
+[ ] Soliciting Material Under Rule 14a-12
 
-[X]  Preliminary Proxy Statement
-[ ]  CONFIDENTIAL, FOR USE OF THE COMMISSION ONLY (AS PERMITTED BY RULE 14A-6(E)(2))
-[ ]  Definitive Proxy Statement
-[ ]  Definitive Additional Materials
-[ ]  Soliciting Material under sec.240.14a-12
+                        MARINE DRILLING COMPANIES, INC.
+- - --------------------------------------------------------------------------------
+                (Name of Registrant as Specified In Its Charter)
 
-                           PRIDE INTERNATIONAL, INC.
-- --------------------------------------------------------------------------------
-                (Name of Registrant as Specified in its Charter)
+- - --------------------------------------------------------------------------------
 
-- --------------------------------------------------------------------------------
-    (Name of Person(s) Filing Proxy Statement, if other than the Registrant)
-
+      (Name of Person(s) Filing Proxy Statement if Other Than Registrant)
 Payment of Filing Fee (Check the appropriate box):
 
-[ ]  No fee required.
+[ ] No fee required
 
-[X]  Fee computed on table below per Exchange Act Rules 14a-6(i) and 0-11.
+[X] Fee computed on table below per Exchange Act Rules 14a-6(i)(1) and 0-11.
 
-     (1)  Title of each class of securities to which transaction applies:
+     1) Title of each class of securities to which transaction applies:
+        Common Stock
+- - --------------------------------------------------------------------------------
 
-          Common Stock
-        ------------------------------------------------------------------------
+     2) Aggregate number of securities to which transaction applies:
+        63,000,000
+- - --------------------------------------------------------------------------------
+     3) Per unit price or other underlying value of transaction computed
+        pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
+        filing fee is calculated and state how it was determined):
 
-     (2)  Aggregate number of securities to which transaction applies:
+- - --------------------------------------------------------------------------------
 
-          63,000,000
-        ------------------------------------------------------------------------
+     4) Proposed maximum aggregate value of transaction:
+        $1,186,290,000
+- - --------------------------------------------------------------------------------
 
-     (3)  Per unit price or other underlying value of transaction computed
-          pursuant to Exchange Act Rule 0-11 (set forth the amount on which the
-          filing fee is calculated and state how it was determined):
+     5) Total fee paid:
+        $237,258
+- - --------------------------------------------------------------------------------
 
-        ------------------------------------------------------------------------
+[ ] Fee paid previously with preliminary materials.
 
-     (4)  Proposed maximum aggregate value of transaction:
+[X] Check box if any part of the fee is offset as provided by Exchange Act Rule
+    0-11(a)(2) and identify the filing for which the offsetting fee was paid
+    previously. Identify the previous filing by registration statement number,
+    or the form or schedule and the date of its filing.
 
-          $1,186,290,000
-        ------------------------------------------------------------------------
+     1) Amount Previously Paid:
+        $
+- - --------------------------------------------------------------------------------
 
-     (5)  Total fee paid:
+     2) Form, Schedule or Registration Statement No.:
+        Preliminary Schedule 14A
+- - --------------------------------------------------------------------------------
 
-          $237,258
-        ------------------------------------------------------------------------
+     3) Filing Party:
+        Pride International, Inc.
+- - --------------------------------------------------------------------------------
 
-[ ]  Fee paid previously with preliminary materials.
-
-[ ]  Check box if any part of the fee is offset as provided by Exchange Act Rule
-     0-11(a)(2) and identify the filing for which the offsetting fee was paid
-     previously. Identify the previous filing by registration statement number,
-     or the Form or Schedule and the date of its filing.
-
-     (1)  Amount Previously Paid:
-
-        ------------------------------------------------------------------------
-
-     (2)  Form, Schedule or Registration Statement No.:
-
-        ------------------------------------------------------------------------
-
-     (3)  Filing Party:
-
-        ------------------------------------------------------------------------
-
-     (4)  Date Filed:
-
-        ------------------------------------------------------------------------
+     4) Date Filed:
+        July 9, 2001
+- - --------------------------------------------------------------------------------
 
 [PRIDE LOGO]                                              [MARINE DRILLING LOGO]
 
@@ -165,41 +150,39 @@ COMPLETE. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE.
      This joint proxy statement/prospectus is dated      , 2001 and is intended
 to be mailed to shareholders of Pride and Marine on or about      , 2001.
 
-                           PRIDE INTERNATIONAL, INC.
+                        MARINE DRILLING COMPANIES, INC.
 
                    NOTICE OF SPECIAL MEETING OF SHAREHOLDERS
+                          TO BE HELD ON        , 2001
 
-                           TO BE HELD ON      , 2001
-
-     We will hold a special meeting of the shareholders of Pride International,
-Inc. on      , 2001 at 9:00 a.m., Houston time, at        , Houston, Texas, to
-consider and vote upon a proposal to approve an Agreement and Plan of Merger,
-dated as of May 23, 2001, including the issuance of Pride common stock to the
-shareholders of Marine Drilling Companies, Inc. Pursuant to the merger
-agreement, which is attached as Annex A to the accompanying joint proxy
+     We will hold a special meeting of the shareholders of Marine Drilling
+Companies, Inc. on        , 2001 at 9:00 a.m., Houston time, at the        ,
+Houston, Texas, to consider and vote upon a proposal to approve an Agreement and
+Plan of Merger, dated as of May 23, 2001. Pursuant to the merger agreement,
+which is attached as Annex A to the accompanying joint proxy
 statement/prospectus, Marine will merge with and into a wholly owned subsidiary
-of Pride and each share of Marine's common stock will be converted into one
-share of common stock of Pride. Immediately thereafter, Pride will merge into a
-newly organized Delaware corporation ("New Pride") to be renamed "Pride
-International, Inc." and each outstanding share of Pride common stock (including
-each Pride share issued in the Marine merger) will be converted into one share
-of common stock of New Pride. The merger agreement is more fully described in
-the accompanying joint proxy statement/prospectus.
+of Pride International, Inc. and each share of Marine's common stock will be
+converted into one share of common stock of Pride. Immediately thereafter, Pride
+will merge into a newly organized Delaware corporation ("New Pride") to be
+renamed "Pride International, Inc." and each outstanding share of Pride common
+stock (including each Pride share issued in the Marine merger) will be converted
+into one share of common stock of New Pride. The merger agreement is more fully
+described in the accompanying joint proxy statement/prospectus.
 
-     Holders of record of Pride common stock at the close of business on      ,
-2001 are entitled to notice of, and to vote at, the special meeting and any
-adjournment or postponement thereof. The approval of the merger agreement will
-require the affirmative vote of the holders of at least a majority of the shares
-of Pride common stock present, in person or by proxy, at the special meeting. If
-your shares are held in an account at a brokerage firm or bank, you must
-instruct them on how to vote your shares in order for them to be voted.
+     Holders of record of Marine common stock at the close of business on
+       , 2001 are entitled to notice of, and to vote at, the special meeting and
+any adjournment or postponement thereof. The approval of the merger agreement
+will require the affirmative vote of at least a majority of Marine's outstanding
+common stock. If your shares are held in an account at a brokerage firm or bank,
+you must instruct them on how to vote your shares. If you do not vote or do not
+instruct your broker or bank how to vote, it will have the same effect as voting
+against the merger.
 
      YOUR BOARD OF DIRECTORS HAS CAREFULLY REVIEWED AND CONSIDERED THE TERMS AND
 CONDITIONS OF THE MERGER AGREEMENT AND HAS RESOLVED THAT THE MERGER AGREEMENT
-AND THE MERGERS ARE ADVISABLE TO AND IN THE BEST INTERESTS OF PRIDE AND ITS
+AND THE MERGERS ARE ADVISABLE TO AND IN THE BEST INTERESTS OF MARINE AND ITS
 SHAREHOLDERS. YOUR BOARD OF DIRECTORS HAS UNANIMOUSLY APPROVED THE MERGER
-AGREEMENT AND RECOMMENDS YOU VOTE FOR APPROVAL OF THE MERGER AGREEMENT,
-INCLUDING THE ISSUANCE OF PRIDE COMMON STOCK TO THE SHAREHOLDERS OF MARINE.
+AGREEMENT AND RECOMMENDS YOU VOTE FOR APPROVAL OF THE MERGER AGREEMENT.
 
      YOUR VOTE IS IMPORTANT. WHETHER OR NOT YOU PLAN TO ATTEND THE SPECIAL
 MEETING, PLEASE COMPLETE, DATE AND RETURN YOUR PROXY CARD IN THE ENCLOSED
@@ -208,13 +191,13 @@ YOUR SHARES.
 
                                             By order of the Board of Directors,
 
-                                            /s/ ROBERT RANDALL
-                                            ROBERT W. RANDALL
+                                            /s/ T. SCOTT OKEEFE
+                                            T. SCOTT O'KEEFE
                                             Secretary
 
-     , 2001
-5847 San Felipe, Suite 3300
-Houston, Texas 77057
+       , 2001
+One Sugar Creek Center Blvd., Suite 600
+Sugar Land, Texas 77479
 
            JOINT PROXY STATEMENT/PROSPECTUS DATED             , 2001
 
@@ -2704,7 +2687,7 @@ to NAV and equity value to RVA:
                                   TO      TO      TO      TO     VALUE TO   VALUE TO   VALUE    VALUE
                                  2001    2002    2001    2002      2001       2002       TO       TO
 COMPARABLE COMPANIES              EPS     EPS    CFPS    CFPS     EBITDA     EBITDA     NAV      RVA
-- --------------------             -----   -----   -----   -----   --------   --------   ------   ------
+- - --------------------             -----   -----   -----   -----   --------   --------   ------   ------
 
 Transocean Sedco Forex Inc. ...   40.7x   17.9x   16.6x   10.4x     16.1x      10.0x   289.6%   112.2%
 Noble Drilling Corporation.....   21.1x   14.0x   14.5x   10.3x     12.3x       8.8x   161.5%   131.0%
@@ -2752,7 +2735,7 @@ Marine merger.
                                                                AVERAGE       EXCHANGE RATIO OF
                                                               HISTORICAL    1.0 V. THE AVERAGE
 TRADING PERIOD ENDED MAY 22, 2001                               RATIO        HISTORICAL RATIO
-- ---------------------------------                             ----------    -------------------
+- - ---------------------------------                             ----------    -------------------
 
 Last 2 years................................................    0.871              (14.8)%
 Last 1 year.................................................    0.913               (9.5)%
@@ -4453,7 +4436,7 @@ common stock and           holders of record of Marine common stock.
                                                                   PRIDE            MARINE
                                                              ---------------   ---------------
 CALENDAR YEAR                                                 HIGH     LOW      HIGH     LOW
-- -------------                                                ------   ------   ------   ------
+- - -------------                                                ------   ------   ------   ------
 
   First quarter............................................  $ 9.75   $ 4.81   $11.75   $ 5.94
   Second quarter...........................................   12.25     7.06    17.75     9.69
@@ -5538,7 +5521,7 @@ period of three years           of the votes entitled to be     does not apply i
 following the time that the     cast by outstanding shares of   -- before the date a person
 person became an interested     the corporation's voting stock  became an affiliated
 stockholder, unless:            and (ii) two- thirds of the        shareholder, the board of
-- -- prior to the time the        votes entitled to be cast by       directors of the
+- - -- prior to the time the        votes entitled to be cast by       directors of the
    stockholder became an        holders of voting stock other      corporation approves the
    interested stockholder, the  than the interested share-         business combination or the
    board of directors of the    holder and its affiliates.         acquisition of shares made
@@ -5548,7 +5531,7 @@ stockholder, unless:            and (ii) two- thirds of the        shareholder, 
    in the stockholder's         not alter the contract rights   -- not less than six months
    becoming an interested       of the stock or change or       after the date a person became
    stockholder,                 convert, in whole or in part,      an affiliated shareholder,
-- -- upon completion of the       the outstanding shares of the      the business combination is
+- - -- upon completion of the       the outstanding shares of the      the business combination is
    transaction that resulted    corporation or (ii) satisfies      approved by the affirmative
    in the stockholder's         certain requirements with          vote of holders of at least
    becoming an interested       regard to the consideration to     two-thirds of the
@@ -5560,7 +5543,7 @@ stockholder, unless:            and (ii) two- thirds of the        shareholder, 
    transaction commenced,       no business combination shall      associates.
    subject to specified         be effected unless it is
    adjustments, or              approved at the shareholders'   An "affiliated shareholder" is
-- -- on or after the date of the  meeting called for that         defined generally as a person
+- - -- on or after the date of the  meeting called for that         defined generally as a person
    business combination, the    purpose by the affirmative      that is or was within the
    board of directors and the   vote of 80% of the total        preceding three-year period
    holders of at least 66 2/3%  voting power of the holders of  the beneficial owner of 20% or
@@ -5573,14 +5556,14 @@ stockholder, unless:            and (ii) two- thirds of the        shareholder, 
 Delaware law defines a          the voting requirements, no     -- mergers or share exchanges,
 "business combination"          business combination may be     -- dispositions of assets
 generally as:                   effected without first          having an aggregate value
-- -- a merger or consolidation    satisfying "fair price"            equal to 10% or more of the
+- - -- a merger or consolidation    satisfying "fair price"            equal to 10% or more of the
    with the interested          substantive conditions with        market value of the assets
    stockholder or with any      regard to: (i) the                 or of the outstanding
    other corporation or other   consideration to be received       common shares or
    entity if the merger or      by shareholders; (ii) certain      representing 10% or more of
    consolidation is caused by   restrictions prohibiting the       the market value of the
    the interested stockholder,  acquiring entity from purchas-     assets or of the
-- -- a sale or other disposition  ing voting securities or           outstanding common shares
+- - -- a sale or other disposition  ing voting securities or           outstanding common shares
    to or with the interested    obligations with voting power      or representing 10% or more
    stockholder of assets with   subsequent to becoming an          of the earning power or net
    an aggregate market value    acquiring entity but prior to      income of the corporation,
@@ -5591,7 +5574,7 @@ generally as:                   effected without first          having an aggreg
    aggregate market value of    prohibiting the acquiring          shareholder's proportion-
    all of the outstanding       entity from receiving the          ate interest in the
    stock of the corporation,    benefit of any Pride financial     corporation,
-- -- with some exceptions, any    assistance or making any major  -- specified liquidations or
+- - -- with some exceptions, any    assistance or making any major  -- specified liquidations or
    transaction resulting in     change in Pride's business or   dissolutions, and
    the is-                      equity capital structure
                                 without
@@ -5605,7 +5588,7 @@ generally as:                   effected without first          having an aggreg
    corporation or subsidiary    recommendations by the             other than proportionately
    to the interested stock-     directors and the opinion of a     as a stockholder of the
    holder,                      reputable investment banking       corporation. Texas law does
-- -- any transaction involving    firm as to the fairness of the     not apply to a business
+- - -- any transaction involving    firm as to the fairness of the     not apply to a business
    the corporation or a         terms of the business              combination with an
    majority-owned subsidiary    combination.                       affiliated shareholder that
    that has the effect of                                          was the beneficial owner of
@@ -5614,7 +5597,7 @@ generally as:                   effected without first          having an aggreg
    stock of the corporation or  combination that (i) is            of the corporation on
    subsidiary owned by the      approved by a majority of          [December 31, 1996], and
    interested stockholder, or   directors unaffiliated with        has continued to own those
-- -- any receipt by the           the acquiring entity who were      voting shares until the an-
+- - -- any receipt by the           the acquiring entity who were      voting shares until the an-
    interested stockholder of    directors prior to an              nouncement date of the
    the benefit of any loans or  acquiring entity's becoming        business combination.
    other financial benefits     such (or certain succes-
@@ -5794,7 +5777,7 @@ provides that any of the        provides that any of the        provides that an
 following can determine that    following can determine that    following can determine that
 indemnification is appropriate  indemnification is appropriate  indemnification is appropriate
 under Delaware law:             under Louisiana law:            under Texas law:
-- -- a majority vote of           -- by a majority vote of a      -- a majority vote of a quorum
+- - -- a majority vote of           -- by a majority vote of a      -- a majority vote of a quorum
    directors who are not party  quorum consisting of directors     consisting of directors who
    to the proceeding, or a         who were not parties to the     are not party to the
    committee of those              action;                         proceeding,
@@ -5803,13 +5786,13 @@ under Delaware law:             under Louisiana law:            under Texas law:
    directors, even though, in      directors so directs, by        of the board of directors
    both cases, less than a         independent legal counsel,      consisting of at least two
    quorum,                         or                              directors not party to the
-- -- if there are no directors    -- by the shareholders.            proceeding,
+- - -- if there are no directors    -- by the shareholders.            proceeding,
    who are not a party to the                                   -- special legal counsel, or
    proceeding, or if those                                      -- a shareholder vote
    directors so direct,                                         excluding shares held by
    independent legal counsel,                                      directors party to the
    or                                                              proceeding.
-- -- a stockholder vote
+- - -- a stockholder vote
 New Pride's bylaws provide
 that if there has not been a
 change of control of New Pride
@@ -5858,20 +5841,20 @@ director. However, Delaware     directors' fiduciary duties,    permit any limit
 law does not have any           except for:                     liability of a director for:
 limitation of liability of a    -- any breach of the officer's  -- breaching the duty of
 director for:                   or director's duty of loyalty   loyalty to the corporation or
-- -- any breach of the               to the corporation or its       its shareholders,
+- - -- any breach of the               to the corporation or its       its shareholders,
    director's duty of loyalty      shareholders,                -- failing to act in good
    to the corporation or its    -- acts or omissions not in     faith,
    stockholders,                good faith or which involve     -- engaging in intentional
-- -- acts or omissions not in        intentional misconduct or a  misconduct or a known
+- - -- acts or omissions not in        intentional misconduct or a  misconduct or a known
    good faith or that involve      knowing violation of law,       violation of law,
    intentional misconduct or a  -- unlawful payments of divi-   -- obtaining an improper per-
    knowing violation of the        dends or unlawful stock         sonal benefit from the
    law,                            repurchases or redemptions      corporation, or
-- -- paying a dividend or            as provided in Section 92D   -- violating applicable
+- - -- paying a dividend or            as provided in Section 92D   -- violating applicable
    approving a stock               of the Louisiana Business    statutes that expressly
    repurchase that was illegal     Corporation Law, or             provide for the liability
    under applicable law, or     -- any transaction from which      of a director.
-- -- any transaction from which      the officer or director
+- - -- any transaction from which      the officer or director
    the director derived an im-     derived an improper          The Marine articles eliminate
    proper personal benefit.        personal benefit.            the monetary liability of
                                                                 Marine's directors to the
@@ -5896,16 +5879,16 @@ determined by the Delaware      or disposition of all or        disposition of a
 Chancery Court. Appraisal       substantially all of the        substantially all of the
 rights are not available,       corporation's assets if a vote  corporation's assets if Texas
 however, to holders of shares:  of the corporation's            law requires a shareholder
-- -- listed on a national         shareholders approved the       vote. However, a shareholder
+- - -- listed on a national         shareholders approved the       vote. However, a shareholder
    securities exchange;         action, unless such action was  does not have the right to
-- -- designated as a national     approved by at least 80% of     dissent from any plan of
+- - -- designated as a national     approved by at least 80% of     dissent from any plan of
    market system security on    the total voting power.         merger in which there is a
    an interdealer quotation                                     single surviving or new
    system operated by the       However, a stockholder does     domestic or foreign
    National Association of      not have the right to dissent   corporation, or from any plan
    Securities Dealers, Inc.;    from any plan of merger in      of exchange, if:
    or                           which there is a single         -- the shares held by the
-- -- held of record by more than  surviving or new domestic or    shareholder are listed on a
+- - -- held of record by more than  surviving or new domestic or    shareholder are listed on a
    2,000 shareholders;          foreign corporation, or from       national securities
                                 any plan of exchange, if:          exchange, listed on the
                                                                    Nasdaq Stock Market,
@@ -5916,10 +5899,10 @@ unless the holders are          -- the shares held by the          designated a 
 required to accept in the       stockholder are listed on a        market security by the NASD
 merger anything other than any     national securities             or held of record by not
 combination of:                    exchange, listed on the         less than 2,000 holders,
-- -- shares or depositary            Nasdaq Stock Market,         -- the shareholder is not
+- - -- shares or depositary            Nasdaq Stock Market,         -- the shareholder is not
    receipts of the surviving       designated a national        required by the terms of the
    corporation in the merger;      market security by the NASD     plan of merger or exchange
-- -- shares or depositary            or held of record by not        to accept for his shares
+- - -- shares or depositary            or held of record by not        to accept for his shares
    receipts of another             less than 2,000 holders,        any consideration that is
    corporation that, at the     -- the stockholder is not          different than the
    effective date of the        required by the terms of the       consideration to be
@@ -5936,7 +5919,7 @@ combination of:                    exchange, listed on the         less than 2,0
    or                           required by the terms of the       corporation that, immedi-
    (3) held of record by more      plan of merger or exchange          ately after the
        than 2,000 holders; or          to accept for his               effective date of the
-- -- cash instead of fractional          shares any considera-           merger, will be listed
+- - -- cash instead of fractional          shares any considera-           merger, will be listed
    shares or depositary            tion other than (1) shares          or authorized for
    receipts received.              of the corporation that,        listing upon official
                                    immediately after the           notice of issuance, on a
@@ -6215,8 +6198,8 @@ that another date applies.
 
                                                                          ANNEX A
 
-- --------------------------------------------------------------------------------
-- --------------------------------------------------------------------------------
+- - --------------------------------------------------------------------------------
+- - --------------------------------------------------------------------------------
 
                           AGREEMENT AND PLAN OF MERGER
 
@@ -6234,8 +6217,8 @@ that another date applies.
 
                             DATED AS OF MAY 23, 2001
 
-- --------------------------------------------------------------------------------
-- --------------------------------------------------------------------------------
+- - --------------------------------------------------------------------------------
+- - --------------------------------------------------------------------------------
 
                                
 
@@ -6411,7 +6394,7 @@ ARTICLE 10         GENERAL PROVISIONS.......................................... 
                            GLOSSARY OF DEFINED TERMS
 
 DEFINED TERMS                                                      WHERE DEFINED
-- -------------                                                  ----------------------
+- - -------------                                                  ----------------------
 
 Action......................................................   Section 7.15(a)
 Affiliate...................................................   Section 5.10(q)
@@ -6466,7 +6449,7 @@ Marine Permits..............................................   Section 5.5(b)
                                        A-v
 
 DEFINED TERMS                                                      WHERE DEFINED
-- -------------                                                  ----------------------
+- - -------------                                                  ----------------------
 
 Marine Permitted Liens......................................   Section 5.20
 Marine Real Property........................................   Section 5.5(d)
@@ -6523,7 +6506,7 @@ Series A Preferred Stock....................................   Section 6.3
                                        A-vi
 
 DEFINED TERMS                                                      WHERE DEFINED
-- -------------                                                  ----------------------
+- - -------------                                                  ----------------------
 
 Significant Subsidiary......................................   Section 5.4
 Subsidiary..................................................   Section 10.9(d)
@@ -7513,4 +7496,5 @@ mandated by applicable law, (ii) death benefits under any "pension plan" or
 terminated by Marine without liability, except as to benefits accrued or awarded
 thereunder prior to amendment or termination.
 
-     SECTION 5.12  Labor Matters.  (a) As of the date of this Ag
+     SECTION 5.12  Labor Matters.  (a) As of the date of this Agreement, (i)
+neither Marine nor any of its Subsidiaries is a 

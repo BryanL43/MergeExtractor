@@ -1,6 +1,6 @@
-URL: https://www.sec.gov/Archives/edgar/data/822416/000095012401501709/0000950124-01-501709.txt
+URL: https://www.sec.gov/Archives/edgar/data/822416/000095012401502064/0000950124-01-502064.txt
 
-	BLOOMFIELD HILLS
+Y:			BLOOMFIELD HILLS
 		STATE:			MI
 		ZIP:			48304
 		BUSINESS PHONE:		2486472750
@@ -9,23 +9,28 @@ URL: https://www.sec.gov/Archives/edgar/data/822416/000095012401501709/000095012
 		FORMER CONFORMED NAME:	PHM CORP
 		DATE OF NAME CHANGE:	19920703
 
-S-4
+S-4/A
 
-k63086s-4.htm
+k63086a1s-4a.htm
 
-FORM S-4
+AMENDMENT NO. 1 TO FORM S-4
 
-s-4
+Amendment No. 1 to Form S-4 for Plute Corporation
 
 As filed with the Securities and Exchange Commission on
-June   , 2001
+June 25, 2001
 
-Registration
-No. 333-            
+Registration No. 333-62518
 
 SECURITIES AND EXCHANGE COMMISSION
 
 Washington D.C. 20549
+
+AMENDMENT
+
+NO. 1
+
+to
 
 FORM S-4
 
@@ -165,13 +170,13 @@ Registration Fee(2)
 
 Common Stock, $0.01 par value
 
-20,577,146 shares
+21,752,277 shares
 
 (2)
 
-$702,522,495
+$742,284,621
 
-$175,631.00
+$185,571(3)
 
 (1) 
 
@@ -188,7 +193,15 @@ Represents the maximum number of shares of Common
 
 Determined pursuant to Rules 457(f)(1) and
 	457(c) on the basis of the average of the high and low sale
-	prices of Del Webb Common Stock on May 31, 2001.
+	prices of Del Webb Common Stock on May 31, 2001, and
+	June 18, 2001.
+
+(3) 
+
+Includes (a) $175,631.00 previously paid for
+	the 20,577,146 shares included in the Registration Statement
+	filed on June 7, 2001, and (b) $9,940.00 for an
+	additional 1,175,131 shares included herein.
 
 The Registrant hereby
 amends this Registration Statement on such date or dates as may
@@ -200,18 +213,15 @@ or until the Registration Statement shall become effective on
 such date as the Securities and Exchange Commission, acting
 pursuant to said Section 8(a), may determine.
 
-[PULTE LETTERHEAD]
-
-            ,
+June 28, 2001
 
 Dear Pulte Shareholder:
 
 You are cordially invited to attend a special meeting of the
-shareholders of Pulte Homes, Inc. to be held at
-[       ], on
-[       ], 2001, at
-[       ] a.m. local
-time.
+shareholders of Pulte Homes, Inc. to be held at the Michigan
+State University Management Education Center, Room 104,
+811 West Square Lake Road, Troy, Michigan, on Friday,
+July 27, 2001, at 9 a.m. local time.
 
 Pulte has entered into a merger agreement with Del Webb
 Corporation, pursuant to which Pulte will acquire all of the
@@ -245,18 +255,14 @@ meeting.
 
 	Chairman and Chief Executive Officer
 
-[DEL WEBB LETTERHEAD]
-
-            ,
+June 28, 2001
 
 Dear Fellow Stockholder:
 
 You are cordially invited to attend a special meeting of
-stockholders of Del Webb Corporation to be held at
-[       ], on
-[       ], 2001, at
-[       ] a.m. local
-time.
+stockholders of Del Webb Corporation to be held at the Arizona
+Biltmore Resort Hotel, 2400 East Missouri, Phoenix, Arizona
+85016, on Friday, July 27, 2001, at 9 a.m. local time.
 
 At the special meeting, we will ask you to vote on the
 acquisition of the outstanding shares of Del Webb common stock
@@ -343,19 +349,15 @@ PULTE HOMES, INC.
 
 NOTICE OF SPECIAL MEETING OF SHAREHOLDERS
 
-To be held on
-            ,
+To be held on July 27, 2001
 
 To Our Shareholders:
 
 Notice is hereby given that Pulte Homes, Inc. is holding a
-special meeting of its shareholders at
-               ,
- local time, on
-            ,
- 2001, at
-                         ,
- for the following purposes:
+special meeting of its shareholders at 9 a.m. local time,
+on Friday, July 27, 2001, at the Michigan State University
+Management Education Center, Room 104, 811 West Square
+Lake Road, Troy, Michigan, for the following purposes:
 
 1.  To consider and vote on a proposal to approve the
 issuance of common shares, par value $0.01 per share, of Pulte:
@@ -375,9 +377,8 @@ before the meeting or any adjournment or postponement of the
 meeting.
 
 Only shareholders of record at the close of business on
-            ,
- 2001, will be entitled to notice of or to vote at the meeting
-or any adjournment or postponement of the meeting.
+June 27, 2001, will be entitled to notice of or to vote at
+the meeting or any adjournment or postponement of the meeting.
 
 	By Order of the Board of Directors
 
@@ -387,7 +388,7 @@ or any adjournment or postponement of the meeting.
 
 	and Secretary
 
-               ,
+June 28, 2001
 
 Important:  To ensure that your shares are represented
 at the special meeting, please fill in, date and sign the
@@ -399,19 +400,15 @@ DEL WEBB CORPORATION
 
 NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
 
-To be held on
-            ,
+To be held on July 27, 2001
 
 To Our Stockholders:
 
 Notice is hereby given that Del Webb Corporation is holding a
-special meeting of its stockholders at
-               ,
- local time, on
-            ,
- 2001, at
-                         ,
- for the following purposes:
+special meeting of its stockholders at 9 a.m. local time,
+on Friday, July 27, 2001, at the Arizona Biltmore Resort
+Hotel, 2400 East Missouri, Phoenix, Arizona 85016, for the
+following purposes:
 
 1.  To consider and vote on a proposal to approve and adopt
 the Plan and Agreement of Merger dated as of April 30,
@@ -424,9 +421,8 @@ before the meeting or any adjournment or postponement of the
 meeting.
 
 Only stockholders of record at the close of business on
-            ,
- 2001, will be entitled to notice of or to vote at the meeting
-or any adjournment or postponement of that meeting.
+June 27, 2001, will be entitled to notice of or to vote at
+the meeting or any adjournment or postponement of that meeting.
 
 	By Order of the Board of Directors
 
@@ -434,7 +430,7 @@ or any adjournment or postponement of that meeting.
 
 	Vice President, Secretary and Treasurer
 
-               ,
+June 28, 2001
 
 Important:  To ensure that your stock is represented at
 the special meeting, please fill in, date and sign the enclosed
@@ -512,9 +508,8 @@ remain outstanding after completion of the merger and
 (2) Del Webbs stockholders approve and adopt the
 merger agreement and the transactions contemplated by the merger
 agreement. Special meetings of the shareholders of Pulte and Del
-Webb will be held on
-            ,
- 2001, to vote on these matters.
+Webb will be held on Friday, July 27, 2001, to vote on
+these matters.
 
 The Pulte board of directors has approved the merger and the
 issuance of Pulte common shares in connection with the merger
@@ -538,15 +533,15 @@ quorum exists.
 Approval of the merger agreement and the transactions
 contemplated by the merger agreement by Del Webb stockholders
 requires the affirmative vote of the holders of a majority of
-the outstanding shares
+the outstanding shares of Del Webb common stock. 
+Because
+approval requires the affirmative vote of a majority of the
 
-of Del Webb common stock. 
-Because approval requires the
-affirmative vote of a majority of the outstanding Del Webb
-shares, failure to vote is the same as a vote against the
+outstanding Del Webb shares, failure to vote is the same
+as a vote against the merger.
+ Therefore, it is very
+important that all Del Webb stockholders vote with regard to the
 merger.
- Therefore, it is very important that all Del Webb
-stockholders vote with regard to the merger.
 
 This Joint Proxy Statement/ Prospectus provides Pulte
 shareholders and Del Webb stockholders with detailed information
@@ -561,14 +556,11 @@ common shares, which are traded on the New York Stock Exchange
 under the symbol PHM, was $46.78. On the same day,
 the last sale price of Del Webb common stock, which is traded on
 the New York Stock Exchange under the symbol WBB,
-was $33.80. On
-               ,
- 2001, the last sale price of Pulte common shares reported on
-the New York Stock Exchange composite tape was
-$      per share, and the last
-sale price of Del Webb common stock reported on the New York
-Stock Exchange composite tape was
-$      per share.
+was $33.80. On June 22, 2001, the last sale price of Pulte
+common shares reported on the New York Stock Exchange composite
+tape was $40.56 per share, and the last sale price of Del
+Webb common stock reported on the New York Stock Exchange
+composite tape was $37.80 per share.
 
 All information contained in this Joint Proxy Statement/
 Prospectus with respect to Pulte has been provided by Pulte. All
@@ -588,12 +580,9 @@ Commission or any state securities commission passed upon the
 accuracy or adequacy of this Joint Proxy Statement/ Prospectus.
 Any representation to the contrary is a criminal offense.
 
-This Joint Proxy Statement/ Prospectus is dated
-            ,
- 2001, and is first being mailed to holders of Del Webb common
-stock and Pulte common shares on or about
-            ,
- 2001.
+This Joint Proxy Statement/ Prospectus is dated June 25,
+2001, and is first being mailed to holders of Del Webb common
+stock and Pulte common shares on or about June 28, 2001.
 
 
 
@@ -643,6 +632,8 @@ PART II
 
 Exhibit Index
 
+PLAN AND AGREEMENT OF MERGER
+
 
 
 ARTICLE I MERGER OF ACQUISITION AND THE COMPANY
@@ -655,7 +646,7 @@ ARTICLE IV ACTIONS PRIOR TO THE MERGER
 
 ARTICLE V CONDITIONS PRECEDENT TO MERGER
 
-ARTICLE VI
+ARTICLE VI TERMINATION
 
 ARTICLE VII ABSENCE OF BROKERS
 
@@ -663,59 +654,25 @@ ARTICLE VIII OTHER AGREEMENTS
 
 ARTICLE IX GENERAL
 
-Articles of Incorporation
+ANNEX II
 
-By-Laws
+ANNEX III
 
-Specimen Common Stock Certificate
+Amendment No. 1 to Form S-4
 
-Opinion of Honigman Miller Schwartz and Cohn LLP
+EX-8.1 Opinion/Consent Skadden Arps Slate Meagher
 
-Second Amendment to Employment Agreement
+EX-23.1 Consent of Ernst & Young LLP
 
-Second Amendment to Employment Agreement
+EX-23.2 Consent of KPMG LLP
 
-First Amendment to Employment Agreement
+EX-99.3 Form of Del Webb Corporation Proxy Card
 
-First Amendment to Employment Agreement
+EX-99.6 Consent of D Kent Anderson
 
-First Amendment to Employment Agreement
+EX-99.7 Consent of Michael E Rossi
 
-Amendment to Employment Agreement
-
-Amendment to Employment Agreement
-
-Amendment to Change in Control Agreement
-
-Amendment to Employment Agreement
-
-Amendment to Employment Agreement
-
-Amendment to Employment Agreement
-
-Amendment to Employment Agreement
-
-Employment Separation Agreement
-
-Del Webb Corporation Supplemental Executive
-
-Del Webb Corporation Supplemental Executive
-
-Consent of Ernst & Young LLP
-
-Consent of KPMG LLP
-
-Consent of Skadden, Arps, Slate, Meagher & Flom
-
-Voting Agreement
-
-Form of Pulte Homes Inc. Proxy Card
-
-Form of Del Webb Corporation Proxy Card
-
-Consent of Salomon Smith Barney Inc.
-
-Consent of Credit Suisse First Boston Corporation
+EX-99.8 Consent of Glenn W Schaeffer
 
 
 
@@ -855,15 +812,6 @@ COMPARATIVE RIGHTS OF SHAREHOLDERS
 
 UNITED STATES FEDERAL INCOME TAX CONSEQUENCES OF
 	THE MERGER
-
-Federal Income Tax Consequences to Del Webb
-	Stockholders
-
-Federal Income Tax Consequences to Pulte
-	Shareholders
-
-Federal Income Tax Consequences to Del Webb,
-	Pulte and Pulte Acquisition Corporation
 
 LEGAL MATTERS
 
@@ -1193,8 +1141,6 @@ A:
 
 For Pulte shareholders:
 
-For Del Webb stockholders:
-
 Pulte Homes, Inc.
 
 	33 Bloomfield Hills Parkway
@@ -1216,6 +1162,8 @@ Pulte Homes, Inc.
 	Carlstadt, NJ 07072
 
 	Telephone No.: (888) 382-8964
+
+For Del Webb stockholders:
 
 Del Webb Corporation
 
@@ -1440,18 +1388,15 @@ the issuance of Pulte common shares in connection with the
 merger.
 
 On the record date, Pultes directors, executive officers
-and their affiliates beneficially owned
-               Pulte
- common shares. Of those shares, Pultes directors,
+and their affiliates beneficially owned approximately 12,888,759
+Pulte common shares. Of those shares, Pultes directors,
 executive officers and their affiliates were entitled to vote
-       Pulte common shares,
-which represented approximately      %
-of the total amount of Pulte
+approximately 10,988,785 Pulte common shares, which represented
 
-common shares outstanding and entitled to vote on that date.
-There is no agreement or arrangement regarding voting by
-Pultes directors or executive officers other than
-William J. Pulte.
+approximately 26% of the total amount of Pulte common shares
+outstanding and entitled to vote on that date. There is no
+agreement or arrangement regarding voting by Pultes
+directors or executive officers other than William J. Pulte.
 
 Del Webb.  
 The affirmative vote, in person or by
@@ -1462,15 +1407,14 @@ transactions contemplated by the merger agreement.
 
 On the record date, Del Webbs directors, executive
 officers and their affiliates beneficially owned
-           shares
- of Del Webb common stock. Of those shares, Del Webbs
-directors, executive officers and their affiliates were entitled
-to vote        shares of Del
-Webb common stock, which represented approximately
-     % of the total amount of Del Webb
-common stock outstanding and entitled to vote on that date.
-There is no agreement or arrangement regarding voting by Del
-Webbs directors or executive officers.
+1,871,339 shares of Del Webb common stock. Of those shares,
+Del Webbs directors, executive officers and their
+affiliates were entitled to vote 1,002,333 shares of Del
+Webb common stock, which represented approximately 5% of the
+total amount of Del Webb common stock outstanding and entitled
+to vote on that date. There is no agreement or arrangement
+regarding voting by Del Webbs directors or executive
+officers.
 
 Opinion of Pultes Financial Advisor 
 (see page 26)
@@ -1501,14 +1445,15 @@ financial point of view, to the Del Webb stockholders of the
 exchange ratio provided for in the merger agreement. The full
 text of Credit Suisse First Bostons written opinion, dated
 April 30, 2001, is attached to this Joint Proxy Statement/
-Prospectus as Annex III. We encourage you to read this opinion
-carefully in its entirety for a description of the procedures
-followed, assumptions made, matters considered and limitations
-on the review undertaken. 
-Credit Suisse First Bostons
-opinion is addressed to the Del Webb board of directors and does
-not constitute a recommendation to any stockholder with respect
-to any matter relating to the merger.
+Prospectus as Annex III. We encourage you to read this
+opinion carefully in its entirety for a description of the
+procedures followed, assumptions made, matters considered and
+limitations on the review undertaken. 
+Credit Suisse First
+Bostons opinion is addressed to the Del Webb board of
+directors and does not constitute a recommendation to any
+stockholder with respect to any matter relating to the
+merger.
 
 Ownership and Board Composition of Pulte After the Merger
 
@@ -3345,8 +3290,19 @@ March 31
 
 0.00
 
-Through
-	               ,
+Through June 22, 2001
+
+50.24
+
+37.30
+
+0.04
+
+41.58
+
+27.40
+
+0.00
 
 On April 30, 2001, the last trading day prior to public
 announcement of the merger, the last sale price of Pulte common
@@ -3355,14 +3311,11 @@ was $46.78 per share, and the last sale price of Del Webb common
 stock reported on the New York Stock Exchange composite tape was
 $33.80 per share.
 
-On
-            ,
- 2001, the last sale price of Pulte common shares reported on
-the New York Stock Exchange composite tape was
-$      per share, and the last
-sale price of Del Webb common stock reported on the New York
-Stock Exchange composite tape was
-$      per share.
+On June 22, 2001, the last sale price of Pulte common
+shares reported on the New York Stock Exchange composite tape
+was $40.56 per share, and the last sale price of Del Webb
+common stock reported on the New York Stock Exchange composite
+tape was $37.80 per share.
 
 RISK FACTORS
 
@@ -3493,13 +3446,12 @@ The Pulte Special Meeting
 
 Time, Place and Purpose of the Meeting.  
 The Pulte
-meeting is scheduled to be held on
-            ,
- 2001, at      , local time,
-at                .
- The only matter scheduled to come before the meeting is the
-proposal to approve the issuance of Pulte common shares in
-connection with the merger.
+meeting is scheduled to be held on Friday, July 27, 2001,
+at 9 a.m. local time, at the Michigan State University
+Management Education Center, Room 104, 811 West Square
+Lake Road, Troy, Michigan. The only matter scheduled to come
+before the meeting is the proposal to approve the issuance of
+Pulte common shares in connection with the merger.
 
 Pulte knows of no other matter to be brought before the Pulte
 special meeting. If any other business should properly come
@@ -3514,15 +3466,14 @@ the holders of Pulte common shares vote FOR the share issuance.
 
 Record Date.  
 The board of directors of Pulte has
-fixed the close of business on
-            ,
- 2001, as the record date for the determination of shareholders
-entitled to vote at the special meeting or any adjournments or
-postponements of the special meeting. Only holders of record of
-Pulte common shares on the record date are entitled to notice of
-and to vote at the special meeting. On the record date,
-     Pulte common shares were
-outstanding and entitled to vote at the special meeting.
+fixed the close of business on June 27, 2001, as the record
+date for the determination of shareholders entitled to vote at
+the special meeting or any adjournments or postponements of the
+special meeting. Only holders of record of Pulte common shares
+on the record date are entitled to notice of and to vote at the
+special meeting. On the record date, 42,043,320 Pulte common
+shares were outstanding and entitled to vote at the special
+meeting.
 
 Quorum.  
 The presence, in person or by proxy, of the
@@ -3569,28 +3520,27 @@ common shares in connection with the merger.
 Shareholdings.  
 On the record date, Pultes
 directors, executive officers and their affiliates beneficially
-owned        Pulte common
-shares. Of those shares, Pultes directors, executive
-officers and their affiliates were entitled to vote
-[     ] Pulte common shares, which
-represented approximately [  ]% of
+owned approximately 12,888,759 Pulte common shares. Of those
+shares, Pultes directors, executive officers and their
+affiliates were entitled to vote approximately 10,988,785 Pulte
+common shares, which represented
 
-the total amount of Pulte common shares outstanding and entitled
-to vote on that date. There is no agreement regarding voting by
-Pultes executive officers and directors other than
-William J. Pulte.
+approximately 26% of the total amount of Pulte common shares
+outstanding and entitled to vote on that date. There is no
+agreement regarding voting by Pultes executive officers
+and directors other than William J. Pulte.
 
 The Del Webb Special Meeting
 
 Time, Place and Purpose of the Meeting.  
 The Del
 Webb special meeting of stockholders is scheduled to be held on
-            ,
- 2001, at      , local time,
-at                .
- The only business scheduled to come before the meeting is the
-proposal to approve and adopt the merger agreement and the
-transactions contemplated by the merger agreement.
+Friday, July 27, 2001, at 9 a.m. local time, at the
+Arizona Biltmore Resort Hotel, 2400 East Missouri, Phoenix,
+Arizona 85016. The only business scheduled to come before the
+meeting is the proposal to approve and adopt the merger
+agreement and the transactions contemplated by the merger
+agreement.
 
 Del Webb knows of no other matter to be brought before the Del
 Webb special meeting. If any other business should properly come
@@ -3608,14 +3558,13 @@ transactions contemplated by the merger agreement.
 
 Record Date.  
 The Del Webb board of directors has
-fixed the close of business on
-            ,
- 2001, as the record date for determining the stockholders
-entitled to vote at the Del Webb special meeting. Only holders
-of record of shares of Del Webb common stock on the record date
-are entitled to notice of and to vote at the special meeting. On
-the record date,  shares of Del Webb common stock were
-outstanding and entitled to vote at the Del Webb special meeting.
+fixed the close of business on June 27, 2001, as the record
+date for determining the stockholders entitled to vote at the
+Del Webb special meeting. Only holders of record of shares of
+Del Webb common stock on the record date are entitled to notice
+of and to vote at the special meeting. On the record date,
+18,924,979 shares of Del Webb common stock were outstanding
+and entitled to vote at the Del Webb special meeting.
 
 Quorum.  
 The presence, in person or by proxy, of the
@@ -3658,14 +3607,14 @@ vote for each share of Del Webb common stock they hold.
 Stockholdings.  
 On the record date, Del Webbs
 directors, executive officers and their affiliates beneficially
-owned        shares of Del
-Webb common stock. Of those shares, Del Webbs directors,
-executive officers and their affiliates were entitled to vote
-[  ] shares of Del Webb common stock, which
-represented approximately [  ]% of the total amount of
-shares of Del Webb common stock outstanding and entitled to vote
-on that date. There is no agreement or arrangement regarding
-voting by Del Webbs executive officers and directors.
+owned 1,871,339 shares of Del Webb common stock. Of those
+shares, Del Webbs directors, executive officers and their
+affiliates were entitled to vote 1,002,333 shares of Del
+Webb common stock, which represented approximately 5% of the
+total amount of shares of Del Webb common stock outstanding and
+entitled to vote on that date. There is no agreement or
+arrangement regarding voting by Del Webbs executive
+officers and directors.
 
 PROXIES
 
@@ -5524,14 +5473,13 @@ the merger, to appoint to the Pulte board to serve until the
 next annual meeting of Pulte shareholders three persons
 designated by Del Webb who are reasonably acceptable to Pulte.
 Del Webb has designated three members of its board of directors,
-          ,
-          and
-          ,
-who have been accepted by Pulte. Pursuant to Pultes
-Articles of Incorporation, Pulte directors serve in classes for
-staggered, three-year terms, and directors who are appointed by
-the board must be elected to a class at the next annual meeting
-of Pulte shareholders for the election of directors.
+D. Kent Anderson, Michael E. Rossi and Glenn W.
+Schaeffer, who have been accepted by Pulte. Pursuant to
+Pultes Articles of Incorporation, Pulte directors serve in
+classes for staggered, three-year terms, and directors who are
+appointed by the board must be elected to a class at the next
+annual meeting of Pulte shareholders for the election of
+directors.
 
 Stock Options and Shares of Restricted Stock. 
 
@@ -5811,18 +5759,16 @@ Commission and the Antitrust Division of the Department of
 Justice and observe a statutory waiting period requirement.
 Pulte and Del Webb filed the required notification and report
 forms with the Federal Trade Commission and the Antitrust
-Division on
-[               ],
- 2001, and the waiting period [was terminated] on
-[               ],
- 2001. At any time before or after the effective time of the
-merger, and notwithstanding that the waiting period has
-terminated or the merger may have been completed, the Federal
-Trade Commission, the Antitrust Division or any state could take
-any action under the applicable antitrust or competition laws as
-it deems necessary or desirable. Private parties may also
-institute legal actions under the antitrust laws under some
-circumstances.
+Division on June 15, 2001, and the waiting period will
+expire on July 16, 2001, unless early termination is
+granted. At any time before or after the effective time of the
+merger, and notwithstanding that the waiting period may have
+expired or been terminated or the merger may have been
+completed, the Federal Trade Commission, the Antitrust Division
+or any state could take any action under the applicable
+antitrust or competition laws as it deems necessary or
+desirable. Private parties may also institute legal actions
+under the antitrust laws under some circumstances.
 
 No Dissenters or Appraisal Rights
 
@@ -5855,10 +5801,8 @@ Webb to repurchase, Pulte intends to cause Del Webb to call the
 debt as soon as is possible pursuant to its terms. In addition,
 as a result of the merger, the outstanding balances under Del
 Webbs principal credit agreement will become due. On
-            ,
- 2001, the outstanding balance under this credit agreement was
-$[               ]
- million.
+June 22, 2001, the outstanding balance under this credit
+agreement was approximately $261 million.
 
 Pulte expects to receive commitments from financial institutions
 which Pulte believes will provide, together with its existing
@@ -5873,6 +5817,13 @@ Webb to guarantee such indebtedness. In exchange for such
 guarantee, Pulte intends to guarantee Del Webbs remaining
 outstanding indebtedness after the contemplated transactions
 above, as permitted under Pultes existing indebtedness.
+
+In addition, to the extent necessary, Pulte intends to
+contribute sufficient equity capital to Del Webb at the
+effective time of the merger such that Del Webbs
+consolidated tangible net worth (as defined in its outstanding
+indentures) will not decrease as a result of the merger, as
+required by such indentures.
 
 Forward-Looking Statements
 
@@ -6811,24 +6762,34 @@ Pursuant to the merger agreement, the Pulte board has agreed
 that upon completion of the merger, it will appoint three
 persons designated by Del Webb to the Pulte board to serve until
 the next annual meeting of Pulte shareholders. Del Webb has
-designated three members of its board,
-[          ],
-[          ]
-and
-[          ]
-to be appointed to the Pulte board. Information regarding
-[          ]
-is incorporated by reference to Del Webbs proxy statement
-for its 2000 Annual Meeting of Stockholders which is
-incorporated into this Joint Proxy Statement/ Prospectus by
-reference. On the record date, the Del Webb directors who will
-be appointed to the Pulte board effective as of the completion
-of the merger beneficially owned [no] Pulte common shares. Pulte
-also agreed to cause two of the Del Webb designees to be
-nominated for election to the Pulte board at Pultes next
-annual shareholders meeting, one in the class the term of which
-expires in 2003 and the other in the class the term of which
-expires in 2004.
+designated three members of its board, D. Kent Anderson,
+Michael E. Rossi and Glenn W. Schaeffer, to be
+appointed to the Pulte board. Pulte also agreed to cause two of
+the Del Webb designees to be nominated for election to the Pulte
+board at Pultes next annual shareholders meeting, one in
+the class the term of which expires in 2003 and the other in the
+class the term of which expires in 2004.
+
+Following is information with regard to Messrs. Anderson,
+Rossi and Schaeffer:
+
+D. Kent Anderson, age 60, has served as Chairman and President
+of D. Kent Anderson, Investments, since 1995. He served as
+Executive Banking Officer of Compass Bank from 1996 until April
+2001. Mr. Anderson is a director of Sam Houston Race Park
+and has served as a director of Del Webb since 1994.
+
+Michael E. Rossi, age 57, was Vice Chairman of Bank America
+Corporation from 1991 until his retirement in 1997. He has
+served as a director of Del Webb since 1994.
+
+Glenn W. Schaeffer, age 47, has served as President and Chief
+Financial Officer of Mandalay Resort Group since 1995.
+Mr. Schaeffer is a director of Mandalay Resort Group and
+has served as a director of Del Webb since 1997.
+
+On the record date, Messrs. Anderson, Rossi and Schaeffer
+beneficially owned no Pulte common shares.
 
 The executive officers of Pulte will not change as a result of
 the merger. For information regarding the ages and business
@@ -6837,11 +6798,9 @@ the caption Directors and Executive Officers of the
 Registrant in Part III of Pultes Annual Report
 on Form 10-K for the fiscal year ended December 31,
 2000. Similar information regarding Pultes directors
-appears in Pultes proxy
-
-statement for its 2001 Annual Meeting of Shareholders, which is
-incorporated into this Joint Proxy Statement/ Prospectus by
-reference.
+appears in Pultes proxy statement for its 2001 Annual
+Meeting of Shareholders, which is incorporated into this Joint
+Proxy Statement/ Prospectus by reference.
 
 VOTING AGREEMENT
 
@@ -8447,8 +8406,8 @@ including those contained in certificates of officers of Del
 Webb and Pulte expected to be executed as of the completion of
 the merger. This summary does not address all United States
 federal income tax consequences that may be relevant to
-particular shareholders in light of their individual
-circumstances or to shareholders that are subject to special
+particular stockholders in light of their individual
+circumstances or to stockholders that are subject to special
 rules, such as rules relating to:
 
  
@@ -8474,37 +8433,14 @@ rules, such as rules relating to:
  
 
 	stockholders who hold Del Webb common stock as part of a
-	straddle, hedge, or conversion transaction; and
+	straddle, hedge, constructive sale, or conversion transaction;
+	and
 
  
 
 	stockholders who acquired their Del Webb common stock pursuant
 	to the exercise of employee stock options or otherwise as
 	compensation.
-
-It is a condition to the obligation of Del Webb to complete the
-merger that Del Webb receive an opinion from it counsel,
-Skadden, Arps, Slate, Meagher & Flom LLP, substantially
-to the effect that, based upon certain facts, representations,
-and assumptions, the merger will constitute a
-reorganization within the meaning of
-section 368(a) of the Internal Revenue Code of 1986, as
-amended. The issuance of such opinion is conditioned on, among
-other things, the receipt by Skadden, Arps, Slate,
-Meagher & Flom LLP of representation letters from each
-of Pulte and Del Webb, in each case, in form and substance
-reasonably satisfactory to Skadden, Arps, Slate,
-Meagher & Flom LLP. The legal opinion will assume the
-absence of certain changes in the existing facts and may rely on
-assumptions, representations, and covenants made by Del Webb,
-Pulte and others, including those contained in certificates of
-officers of Del Webb and Pulte. If any of these factual
-assumptions is inaccurate, the tax consequences of the merger
-could differ from those described here. The opinion regarding
-the tax-free nature of the merger neither binds the IRS nor
-precludes the IRS from adopting a contrary position. Neither Del
-Webb nor Pulte intends to obtain a ruling from the IRS with
-respect to the tax consequences of the merger.
 
 For purposes of this discussion, the term U.S.
 holder means a holder of Del Webb common stock that is:
@@ -8529,7 +8465,7 @@ holder means a holder of Del Webb common stock that is:
 	primary supervision over administration of the trust and one or
 	more United States persons have authority to control all
 	substantial decisions of the trust or (2) the trust was in
-	existence on August 20, 1996 and properly elected to be
+	existence on August 20, 1996, and properly elected to be
 	treated as a United States person.
 
 A non-U.S. holder is a holder of Del Webb common
@@ -8546,48 +8482,98 @@ are strongly urged to consult with your tax advisor to determine
 the particular United States federal, state, local or foreign
 income or other tax consequences to you of the merger.
 
-The following summary assumes that the merger will constitute a
-reorganization within the meaning of
-section 368(a) of the Internal Revenue Code of 1986, as
-amended.
+Del Webb has received an opinion from its special counsel,
+Skadden, Arps, Slate, Meagher & Flom LLP, a copy of
+which has been filed with the SEC as an exhibit to the
+registration statement related
 
-Federal Income Tax Consequences to Del Webb Stockholders
+to this Joint Proxy Statement/ Prospectus. Such opinion provides
+to the effect that, for United States federal income tax
+purposes:
 
-Except as discussed below, you will not recognize gain or loss
-for United States federal income tax purposes when you exchange
-your Del Webb common stock for Pulte common shares pursuant to
-the merger. The aggregate tax basis of the Pulte common shares
-you receive as a result of the merger will be the same as your
-aggregate tax basis in the Del Webb common stock you surrender
-in the exchange, reduced by the tax basis of any shares of Del
-Webb common stock for which you receive cash instead of a
-fractional Pulte common share. The holding period of the Pulte
-common shares you receive as a result of the exchange will
-include the period during which you held the Del Webb common
-stock you exchange in the merger. You will recognize gain or
-loss for United States federal income tax purposes with respect
-to the cash you receive instead of a fractional share interest
-in Pulte common shares. Your gain or loss will be measured by
-the difference between the amount of cash you receive and the
-portion of the tax basis of your shares of Del Webb common stock
-that is allocable to such fractional share interest. This gain
-or loss will be capital gain or loss and will be a long-term
-capital gain or loss if your shares of Del Webb common stock
-have been held for more than one year at the time the merger is
-completed.
+ 
 
-Federal Income Tax Consequences to Pulte Shareholders
+	The merger will constitute a reorganization within
+	the meaning of section  368(a) of the Internal Revenue Code
+	of 1986, as amended;
 
-No gain or loss will be recognized for United States federal
-income tax purposes by current shareholders of Pulte as a result
-of the merger.
+ 
 
-Federal Income Tax Consequences to Del Webb, Pulte and Pulte
-Acquisition Corporation
+	No gain or loss will be recognized by holders of Pulte common
+	shares as a result of the merger;
 
-None of Del Webb, Pulte or Pulte Acquisition Corporation will
-recognize gain or loss for United States federal income tax
-purposes as a result of the merger.
+ 
+
+	No gain or loss will be recognized by a holder of Del Webb
+	common stock who exchanges all of his, her or its shares of Del
+	Webb common stock solely for Pulte common shares pursuant to the
+	merger (except with respect to cash received in lieu of a
+	fractional share interest);
+
+ 
+
+	The aggregate tax basis of the Pulte common shares received by a
+	holder of Del Webb common stock pursuant to the merger will be
+	equal to the aggregate tax basis of the Del Webb common stock
+	surrendered in the merger (other than the tax basis allocable to
+	a fractional Pulte common share for which cash is received);
+
+ 
+
+	The holding period of the Pulte common shares received by a
+	holder of Del Webb common stock pursuant to the merger will
+	include the holding period of the Del Webb common stock
+	surrendered in the merger;
+
+ 
+
+	A holder of Del Webb common stock will be required to recognize
+	gain or loss with respect to cash received in lieu of a
+	fractional Pulte common share, measured by the difference
+	between the amount of cash received and the portion of the tax
+	basis of the holders shares of Del Webb common stock
+	allocable to the fractional share, which gain or loss will be
+	capital gain or loss if the holder of the Del Webb common stock
+	holds such stock as a capital asset within the meaning of
+	section 1221 of the Internal Revenue Code of 1986, as
+	amended and will be long-term capital gain or loss if the shares
+	of Del Webb common stock exchanged for the fractional share were
+	held for more than one year at the effective time of the merger;
+	and
+
+ 
+
+	No gain or loss will be recognized by Del Webb, Pulte or Pulte
+	Acquisition Corporation as a result of the merger.
+
+It is a condition to the obligation of Del Webb to complete the
+merger that Del Webb receive an additional opinion from its
+special counsel, Skadden, Arps, Slate, Meagher &
+Flom LLP, at the closing of the merger, to the effect that,
+based upon certain facts, representations, and assumptions, the
+merger will constitute a reorganization within the
+meaning of section 368(a) of the Internal Revenue Code of
+1986, as amended. The opinions delivered and to be delivered
+have assumed and will assume the absence of certain changes in
+the existing facts and relies on assumptions, representations,
+and covenants made by Del Webb, Pulte and others, including
+those contained in certificates of officers of Del Webb and
+Pulte. If any of these factual assumptions is inaccurate, the
+tax consequences of the merger could differ from those described
+here. The opinions regarding the tax-free nature of the merger
+neither bind the IRS nor preclude the IRS from adopting a
+contrary position. Neither Del Webb nor Pulte intends to obtain
+a ruling from the IRS with respect to the tax consequences of
+the merger.
+
+If the merger is not treated as a reorganization
+within the meaning of section 368(a) of the Internal
+Revenue Code of 1986, as amended, then each holder of Del Webb
+common stock would recognize gain or loss equal to the
+difference between the fair market value of the Pulte common
+shares received (including any cash in lieu of a fractional
+share) and such holders tax basis in the Del Webb common
+stock surrendered in exchange therefor.
 
 LEGAL MATTERS
 
@@ -8614,12 +8600,11 @@ accounting and auditing.
 The consolidated financial statements of Del Webb Corporation
 and subsidiaries as of June 30, 2000 and 1999, and for each
 of the years in the three-year period ended June 30, 2000,
-have been incorporated
-
-by reference herein and in the registration statement in
-reliance upon the report of KPMG LLP, independent certified
-public accountants, incorporated herein by reference, and upon
-the authority of said firm as experts in accounting and auditing.
+have been incorporated by reference herein and in the
+registration statement in reliance upon the report of KPMG LLP,
+independent certified public accountants, incorporated herein by
+reference, and upon the authority of said firm as experts in
+accounting and auditing.
 
 SHAREHOLDER PROPOSALS AND NOMINEES
 
@@ -8683,15 +8668,16 @@ the operation of the public reference room by calling the SEC at
 reports, proxy and information statements and other information
 regarding registrants (including each of us) that file
 electronically with the SEC (including each of us). The
-SECs web site can be accessed at http://www.sec.gov. Del
-Webb common stock and Pulte common shares are both listed on the
-New York Stock Exchange (NYSE). Reports, proxy statements and
-other information we file can also be inspected at the offices
-of the NYSE, 20 Broad Street, New York, New York 10005. In
-making any requests for information with regard to Pulte, please
-note that Pultes corporate name changed to Pulte
-Homes, Inc. from Pulte Corporation in
-May 2001.
+SECs web site
+
+can be accessed at http://www.sec.gov. Del Webb common stock and
+Pulte common shares are both listed on the New York Stock
+Exchange (NYSE). Reports, proxy statements and other information
+we file can also be inspected at the offices of the NYSE,
+20 Broad Street, New York, New York 10005. In making any
+requests for information with regard to Pulte, please note that
+Pultes corporate name changed to Pulte Homes,
+Inc. from Pulte Corporation in May 2001.
 
 Pulte has filed with the SEC a Registration Statement on
 Form S-4 under the Securities Act of 1933, as amended, of
@@ -8699,11 +8685,10 @@ which this Joint Proxy Statement/ Prospectus is a part, with
 respect to the Pulte common shares to be issued to Del Webb
 stockholders as a result of the merger. This Joint Proxy
 Statement/ Prospectus does not contain all the information set
-forth in that registration statement. For further
-
-information, please refer to the registration statement, which
-may be inspected and copied, or obtained from, the SEC or the
-NYSE in the manner described above.
+forth in that registration statement. For further information,
+please refer to the registration statement, which may be
+inspected and copied, or obtained from, the SEC or the NYSE in
+the manner described above.
 
 The following documents previously filed by Del Webb with the
 SEC under the File Number 1-4785 are incorporated by reference
@@ -8798,16 +8783,15 @@ Street, Phoenix, AZ 85016-2021, Attention: Corporate Secretary
 (telephone: (602) 808-8004), in the case of Del Webb. 
 To
 ensure timely delivery, we suggest you request the information
-at least five business days before the deadline for returning
-your proxy card
-(          ,
-2001).
+by July 20, 2001.
 
 No one has been authorized to give any information or to make
 any representations other than those contained in this Joint
 Proxy Statement/ Prospectus in connection with the solicitation
 of proxies or the offering of securities made by this Joint
-Proxy Statement/ Prospectus. If given or made, such information
+Proxy Statement/ Prospectus. If given or made, such
+information
+
 or representations must not be relied upon as having been
 authorized by Del Webb, Pulte or any other person on their
 behalf. This Joint Proxy Statement/ Prospectus does not
@@ -8884,119 +8868,125 @@ Plan and Agreement of Merger dated as of
 3.1
 
 Articles of Incorporation, as amended, of Pulte
-	Homes, Inc.
+	Homes, Inc.*
 
 3.2
 
-By-Laws, as amended, of Pulte Homes, Inc.
+By-Laws, as amended, of Pulte Homes, Inc.*
 
 4.1
 
 Specimen Common Stock Certificate of Pulte Homes,
-	Inc.
+	Inc.*
 
 5.1
 
 Opinion of Honigman Miller Schwartz and Cohn LLP
-	regarding the validity of the securities being registered
+	regarding the validity of the securities being registered*
+
+8.1
+
+Opinion of Skadden, Arps, Slate,
+	Meagher & Flom LLP regarding tax consequences of the
+	merger**
 
 10.1
 
 Second Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	John H. Gleason
+	John H. Gleason*
 
 10.2
 
 Second Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	Anne L. Mariucci
+	Anne L. Mariucci*
 
 10.3
 
 First Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	Frank D. Pankratz
+	Frank D. Pankratz*
 
 10.4
 
 First Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	David G. Schreiner
+	David G. Schreiner*
 
 10.5
 
 First Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	John A. Spencer
+	John A. Spencer*
+
+II-1
 
 10.6
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	John H. Gleason
-
-II-1
+	John H. Gleason*
 
 10.7
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and LeRoy
-	Hanneman
+	Hanneman*
 
 10.8
 
 Amendment to Change in Control Agreement, dated
-	as of April  30, 2001, between Del Webb Corporation and
-	Robertson C. Jones
+	as of April 30, 2001, between Del Webb Corporation and
+	Robertson C. Jones*
 
 10.9
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	Anne L. Mariucci
+	Anne L. Mariucci*
 
 10.10
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	Frank D. Pankratz
+	Frank D. Pankratz*
 
 10.11
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	David G. Schreiner
+	David G. Schreiner*
 
 10.12
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	John A. Spencer
+	John A. Spencer*
 
 10.13
 
 Employment Separation Agreement and Release of
 	All Liability, dated May 11, 2001, between Pulte
-	Corporation and Robert K. Burgess
+	Corporation and Robert K. Burgess*
 
 10.14
 
 Del Webb Corporation Supplemental Executive
-	Retirement Plan No. 1, as amended
+	Retirement Plan No. 1, as amended*
 
 10.15
 
 Del Webb Corporation Supplemental Executive
-	Retirement Plan No. 2, as amended
+	Retirement Plan No. 2, as amended*
 
 23.1
 
-Consent of Ernst & Young LLP
+Consent of Ernst & Young LLP**
 
 23.2
 
-Consent of KPMG LLP
+Consent of KPMG LLP**
 
 23.3
 
@@ -9007,7 +8997,8 @@ Consent of Honigman Miller Schwartz and Cohn LLP
 23.4
 
 Consent of Skadden, Arps, Slate, Meagher &
-	Flom LLP
+	Flom LLP (included in the opinion filed as Exhibit 8.1 to
+	this Registration Statement)
 
 24.1
 
@@ -9018,23 +9009,39 @@ Powers of Attorney (included after the signature
 
 Voting Agreement, dated as of April 30,
 	2001, by and among Del Webb Corporation, William J. Pulte
-	and certain affiliated trusts
+	and certain affiliated trusts*
 
 99.2
 
-Form of Pulte Homes, Inc. Proxy Card
+Form of Pulte Homes, Inc. Proxy Card*
 
 99.3
 
-Form of Del Webb Corporation Proxy Card
+Form of Del Webb Corporation Proxy Card**
 
 99.4
 
-Consent of Salomon Smith Barney Inc.
+Consent of Salomon Smith Barney Inc.*
 
 99.5
 
-Consent of Credit Suisse First Boston Corporation
+Consent of Credit Suisse First Boston Corporation*
+
+99.6
+
+Consent of D. Kent Anderson**
+
+99.7
+
+Consent of Michael E. Rossi**
+
+99.8
+
+Consent of Glenn W. Schaeffer**
+
+ *  Previously filed
+
+**  Filed herewith
 
 Item 22.  Undertakings
 
@@ -9048,6 +9055,8 @@ Item 22.  Undertakings
 	new registration statement relating to the securities offered
 	therein, and the offering of such securities at that time shall
 	be deemed to be the initial bona fide offering thereof.
+
+II-2
 
 	(2)  That prior to any public reoffering of the securities
 	registered hereunder through use of a prospectus which is a part
@@ -9065,12 +9074,9 @@ Item 22.  Undertakings
 	the Act and is used in connection with an offering of securities
 	subject to Rule 415, will be filed as a part of an
 	amendment to the registration statement and will not be used
-	until such amendment is effective, and that, for purposes
-
-II-2
-
-	of determining any liability under the Securities Act of 1933,
-	each such post-effective amendment shall be deemed to be a new
+	until such amendment is effective, and that, for purposes of
+	determining any liability under the Securities Act of 1933, each
+	such post-effective amendment shall be deemed to be a new
 	registration statement relating to the securities offered
 	therein, and the offering of such securities at that time shall
 	be deemed to be the initial bona fide offering thereof.
@@ -9120,19 +9126,19 @@ Pursuant to the requirements of the Securities Act of 1933, the
 registrant has duly caused this registration statement to be
 signed on its behalf by the undersigned, thereunto duly
 authorized, in the City of Bloomfield Hills, State of Michigan,
-on June   , 2001.
+on June 25, 2001.
 
 	PULTE HOMES, INC.
 
 By: 
 
-	/s/ ROGER A. CREGG
+	/s/ JOHN R. STOLLER
 
-	Roger A. Cregg
+	John R. Stoller
 
 	Senior Vice President
 
-	and Chief Financial Officer
+	General Counsel and Secretary
 
 Each of the undersigned officers and directors of Pulte Homes,
 Inc. does hereby severally constitute and appoint Roger A.
@@ -9167,33 +9173,33 @@ Title
 
 Date
 
-/s/ WILLIAM J. PULTE
+*
 
 William J. Pulte
 
-Chairman of the Executive and Nominating
-	Committee of the Board of Directors
+Chairman of the Executive Committee of the Board
+	of Directors
 
-June 7, 2001
+June 25, 2001
 
-/s/ ROBERT K. BURGESS
+*
 
 Robert K. Burgess
 
 Chairman of the Board of Directors and Chief
 	Executive Officer and Director (Principal Executive Officer)
 
-June 7, 2001
+June 25, 2001
 
-/s/ MARK J. OBRIEN
+*
 
 Mark J. OBrien
 
 President and Chief Operating Officer
 
-June 7, 2001
+June 25, 2001
 
-/s/ MICHAEL A. OBRIEN
+*
 
 Michael A. OBrien
 
@@ -9201,9 +9207,9 @@ Senior Vice President-
 
 	Corporate Development
 
-June 7, 2001
+June 25, 2001
 
-/s/ ROGER A. CREGG
+*
 
 Roger A. Cregg
 
@@ -9213,24 +9219,24 @@ Senior Vice President
 
 	(Principal Financial Officer)
 
-June 7, 2001
+June 25, 2001
 
-/s/ VINCENT J. FREES
+*
 
 Vincent J. Frees
 
 Vice President and Controller (Principal 
 	Accounting Officer)
 
-June 7, 2001
+June 25, 2001
 
-/s/ DEBRA J. KELLY-ENNIS
+*
 
 Debra J. Kelly-Ennis
 
 Director
 
-June 7, 2001
+June 25, 2001
 
 Signature
 
@@ -9238,53 +9244,61 @@ Title
 
 Date
 
-/s/ DAVID N. MCCAMMON
+*
 
 David N. McCammon
 
 Director
 
-June 7, 2001
+June 25, 2001
 
-/s/ PATRICK J. OMEARA
+*
 
 Patrick J. OMeara
 
 Director
 
-June 7, 2001
+June 25, 2001
 
-/s/ ALAN E. SCHWARTZ
+*
 
 Alan E. Schwartz
 
 Director
 
-June 7, 2001
+June 25, 2001
 
-/s/ FRANCIS J. SEHN
+*
 
 Francis J. Sehn
 
 Director
 
-June 7, 2001
+June 25, 2001
 
-/s/ JOHN J. SHEA
+*
 
 John J. Shea
 
 Director
 
-June 7, 2001
+June 25, 2001
 
-/s/ WILLIAM B. SMITH
+*
 
 William B. Smith
 
 Director
 
-June 7, 2001
+June 25, 2001
+
+*By: /s/ JOHN R. STOLLER
+
+John R. Stoller
+
+	Attorney in Fact
+
+June 25, 2001
 
 Exhibit Index
 
@@ -9305,117 +9319,122 @@ Plan and Agreement of Merger dated as of
 3.1
 
 Articles of Incorporation, as amended, of Pulte
-	Homes, Inc.
+	Homes, Inc.*
 
 3.2
 
-By-Laws, as amended, of Pulte Homes, Inc.
+By-Laws, as amended, of Pulte Homes, Inc.*
 
 4.1
 
 Specimen Common Stock Certificate of Pulte Homes,
-	Inc.
+	Inc.*
 
 5.1
 
 Opinion of Honigman Miller Schwartz and Cohn LLP
-	regarding the validity of the securities being registered
+	regarding the validity of the securities being registered*
+
+8.1
+
+Opinion of Skadden, Arps, Slate, Meagher &
+	Flom LLP regarding tax consequences of the merger**
 
 10.1
 
 Second Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	John H. Gleason
+	John H. Gleason *
 
 10.2
 
 Second Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	Anne L. Mariucci
+	Anne L. Mariucci*
 
 10.3
 
 First Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	Frank D. Pankratz
+	Frank D. Pankratz*
 
 10.4
 
 First Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	David G. Schreiner
+	David G. Schreiner*
 
 10.5
 
 First Amendment to Employment Agreement, dated
 	April 27, 2001, between Del Webb Corporation and
-	John A. Spencer
+	John A. Spencer*
 
 10.6
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	John H. Gleason
+	John H. Gleason*
 
 10.7
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and LeRoy
-	Hanneman
+	Hanneman*
 
 10.8
 
 Amendment to Change in Control Agreement, dated
 	as of April  30, 2001, between Del Webb Corporation and
-	Robertson C. Jones
+	Robertson C. Jones*
 
 10.9
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	Anne L. Mariucci
+	Anne L. Mariucci*
 
 10.10
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	Frank D. Pankratz
+	Frank D. Pankratz*
 
 10.11
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	David G. Schreiner
+	David G. Schreiner*
 
 10.12
 
 Amendment to Employment Agreement, dated as of
 	April 30, 2001, between Del Webb Corporation and
-	John A. Spencer
+	John A. Spencer*
 
 10.13
 
 Employment Separation Agreement and Release of
 	All Liability, dated May 11, 2001, between Pulte
-	Corporation and Robert K. Burgess
+	Corporation and Robert K. Burgess*
 
 10.14
 
 Del Webb Corporation Supplemental Executive
-	Retirement Plan No. 1, as amended
+	Retirement Plan No. 1, as amended*
 
 10.15
 
 Del Webb Corporation Supplemental Executive
-	Retirement Plan No. 2, as amended
+	Retirement Plan No. 2, as amended*
 
 23.1
 
-Consent of Ernst & Young LLP
+Consent of Ernst & Young LLP**
 
 23.2
 
-Consent of KPMG LLP
+Consent of KPMG LLP**
 
 23.3
 
@@ -9423,43 +9442,60 @@ Consent of Honigman Miller Schwartz and Cohn LLP
 	(included in the opinion filed as Exhibit 5.1 to this
 	Registration Statement)
 
-23.4
-
-Consent of Skadden, Arps, Slate, Meagher &
-	Flom LLP
-
-24.1
-
-Powers of Attorney (included after the signature
-	of the Registrant on this Registration Statement)
-
 Exhibit
 
 Number
 
 Description
 
+23.4
+
+Consent of Skadden, Arps, Slate, Meagher &
+	Flom LLP (included in the opinion filed as Exhibit 8.1 to
+	this Registration Statement)
+
+24.1
+
+Powers of Attorney (included after the signature
+	of the Registrant on this Registration Statement)
+
 99.1
 
 Voting Agreement, dated as of April 30,
 	2001, by and among Del Webb Corporation, William J. Pulte
-	and certain affiliated trusts
+	and certain affiliated trusts*
 
 99.2
 
-Form of Pulte Homes, Inc. Proxy Card
+Form of Pulte Homes, Inc. Proxy Card*
 
 99.3
 
-Form of Del Webb Corporation Proxy Card
+Form of Del Webb Corporation Proxy Card**
 
 99.4
 
-Consent of Salomon Smith Barney Inc.
+Consent of Salomon Smith Barney Inc.*
 
 99.5
 
-Consent of Credit Suisse First Boston Corporation
+Consent of Credit Suisse First Boston Corporation*
+
+99.6
+
+Consent of D. Kent Anderson**
+
+99.7
+
+Consent of Michael E. Rossi**
+
+99.8
+
+Consent of Glenn W. Schaeffer**
+
+ * Previously filed
+
+** Filed herewith
 
 ANNEX I
 
@@ -13339,7 +13375,7 @@ SALOMON SMITH BARNEY INC.
 
 ANNEX III
 
-[CREDIT SUISSE LETTERHEAD]
+[CREDIT SUISSE FIRST BOSTON LETTERHEAD]
 
 April 30, 2001
 
@@ -13472,217 +13508,208 @@ as of the date hereof, the Exchange Ratio pursuant to the Merger
 Agreement is fair to the stockholders of the Company from a
 financial point of view.
 
-	Very truly yours,
+        Very truly yours,
 
-	/s/ CREDIT SUISSE FIRST BOSTON CORPORATION
+        /s/ CREDIT SUISSE FIRST BOSTON CORPORATION
 
-	CREDIT SUISSE FIRST BOSTON CORPORATION
+        CREDIT SUISSE FIRST BOSTON CORPORATION
 
-EX-3.1
+EX-8.1
 
-k63086ex3-1.txt
+k63086a1ex8-1.txt
 
-ARTICLES OF INCORPORATION
+EX-8.1 OPINION/CONSENT SKADDEN ARPS SLATE MEAGHER
 
-                                                                     EXHIBIT 3.1
+                                                                     Exhibit 8.1
 
-                            ARTICLES OF INCORPORATION
-                              OF PULTE HOMES, INC.
-                                  (AS AMENDED)
+              [SKADDEN, ARPS, SLATE, MEAGHER & FLOM LLP LETTERHEAD]
 
-         Pursuant to the provisions of Act 284, Public Acts of 1972, the
-undersigned corporation has executed the following Articles:
+                                  June 22, 2001
 
-ARTICLE I
-  The name of the corporation is:  Pulte Homes, Inc.
+Del Webb Corporation
+6001 N. 24(th) Street
+Phoenix, AZ 85016-2021
 
-ARTICLE II
-  The purpose or purposes for which the corporation is formed are: The purpose
-  or purposes for which the Corporation is organized is to engage in any
-  activity within the purposes for which Corporations may be organized under the
-  Michigan Business Corporation Act.
+                  Re:  Registration Statement on Form S-4 (File No. 333-62518)
 
-ARTICLE III
-The total authorized shares:
+Ladies and Gentlemen:
 
-1.   Common Shares         100,000,000      Par Value Per Share        $0.01
-     Preferred Shares       25,000,000      Par Value Per Share        $0.01
+                  We have acted as special counsel to Del Webb Corporation, a
+Delaware corporation (the "Company"), in connection with the preparation of a
+Registration Statement on Form S-4 (File No. 333-62518) filed with the
+Securities and Exchange Commission (the "Commission") on June 7, 2001, as
+amended (the "Registration Statement"), with respect to the Plan and Agreement
+of Merger dated as of April 30, 2001 (the "Agreement"), among Pulte Homes, Inc.,
+a Michigan corporation ("Pulte"), Pulte Acquisition Corporation, a Delaware
+corporation and a direct wholly-owned subsidiary of Pulte ("Sub"), and the
+Company. All capitalized terms used herein, unless otherwise specified herein,
+shall have the meanings ascribed to them in the Agreement.
 
-2.   A statement of all or any of the relative rights, preferences and
-     limitations of the shares of each class is as follows:
+                  In rendering the opinion set forth herein, we have examined
+and relied on originals or copies, certified or otherwise identified to our
+satisfaction, of (i) the Agreement, (ii) the Registration Statement, and (iii)
+such other documents, certificates, and records as we have deemed necessary or
+appropriate as a basis for the
 
-         Provisions Relating to Preferred Stock
+Del Webb Corporation
+June 22, 2001
+Page 2
 
-The Board of Directors may cause the Corporation to issue Preferred Stock in one
-or more series, each series to bear a distinctive designation and to have such
-relative rights and preferences as shall be prescribed by resolution of the
-Board; such resolutions, when filed, shall constitute amendments to these
-Articles of Incorporation. Without limiting the generality of the grant of
-authority contained in the preceding sentence, the Board of Directors is
-authorized to determine any or all of the following, and the shares of each
-series may vary from the shares of any other series in any or all of the
-following respects:
+opinion set forth herein. We have assumed that the Merger will be consummated in
+accordance with the Agreement.
 
-         a. The number of shares of such series (which may subsequently be
-         increased, except as otherwise provided by the resolutions of the Board
-         of Directors providing for the issue of such series, or decreased to a
-         number not less than the number of shares then outstanding) and the
-         distinctive designation thereof;
+                  For purposes of our opinion, we have assumed the legal
+capacity of all natural persons, the genuineness of all signatures, the
+authenticity of all documents submitted to us as originals, the conformity to
+original documents of all documents submitted to us as certified, conformed or
+photostatic copies, and the authenticity of the originals of such latter
+documents. We have assumed that the Agreement and such other documents,
+certificates, and records are duly authorized, valid, and enforceable.
 
-         b. The dividend rights, if any, of such series; the dividend
-         preferences, if any, as between such series and any other class or
-         series of stock; whether and the extent to which shares of such series
-         shall be entitled to participate in dividends with shares of any other
-         series or class of stock; whether and the extent to which dividends on
-         such series shall be cumulative; and any limitations, restrictions or
-         conditions on the payment of such dividends;
+                  In rendering our opinion, we have relied upon statements and
+representations of officers and other representatives of Pulte, Sub, and the
+Company, and we have assumed that such statements and representations are and
+will continue to be correct without regard to any qualification as to knowledge
+or belief. In addition, our opinion is subject to the qualifications,
+conditions, and assumptions in the discussion set forth under the heading
+"United States Federal Income Tax Consequences of the Merger" in the
+Registration Statement.
 
-         c. The time or times during which, the price or prices at which, and
-         any other terms or conditions on which the shares of such series may be
-         redeemed, if redeemable;
+                  Our opinion is based on the Internal Revenue Code of 1986, as
+amended (the "Code"), Treasury regulations promulgated thereunder, judicial
+decisions, published positions of the Internal Revenue Service, and such other
+authorities as we have considered relevant, all as in effect on the date of this
+opinion and all of which are subject to change or differing interpretations
+(possibly with retroactive effect). A change in the authorities upon which our
+opinion is based could affect the conclusions expressed herein. There can be no
+assurance, moreover, that our opinion will be accepted by the Internal Revenue
+Service or, if challenged, by a court. This opinion may not apply to Del Webb
+common stock received pursuant to the exercise of an employee stock option, or
+otherwise as compensation.
 
-         d. The rights of such series, and the preferences, if any, as between
-         such series and any other class or series of stock, in the event of any
-         voluntary or involuntary liquidation, dissolution or winding up of the
-         Corporation and whether and the extent to which shares of any such
-         series shall be entitled to participate in such event with any other
-         class or series of stock;
+                  Based upon and subject to the foregoing, we are of the opinion
+that for United States federal income tax purposes:
 
-         e. The voting powers, if any, in addition to the voting powers
-         prescribed by law, of shares of such series, and the terms of exercise
-         of such voting powers;
+                  1. The Merger will constitute a "reorganization" within the
+meaning of section 368(a) of the Code.
 
-         f. Whether shares of such series shall be convertible into or
-         exchangeable for shares of other series or class of stock, or of any
-         series of the same class, or any other securities, and the terms and
-         conditions, if any, applicable to such right;
+                  2. No gain or loss will be recognized by holders of Pulte
+common shares as a result of the Merger.
 
-         g. The terms and conditions, if any, of any purchase, retirement or
-         sinking fund which may be provided for the shares of such series; and
+Del Webb Corporation
+June 22, 2001
+Page 3
 
-         h. Any other preferences and relative, participating, optional or other
-         special rights, and qualifications, limitations or restrictions
-         thereof, in relation to stock of any other class or series thereof or
-         of any other series of the same class, as shall not be inconsistent
-         with law or the provisions of this Article III.
+                  3. No gain or loss will be recognized by a holder of Del Webb
+common stock who exchanges all of his, her or its shares of Del Webb common
+stock solely for Pulte common shares pursuant to the Merger (except with respect
+to cash received in lieu of a fractional share interest).
 
-ARTICLE IV
-1.       The address of the registered office is:
+                  4. The aggregate tax basis of the Pulte common shares received
+by a holder of Del Webb common stock pursuant to the Merger will be equal to the
+aggregate tax basis of the Del Webb common stock surrendered in the Merger
+(other than tax basis allocable to a fractional share of Pulte common shares for
+which cash is received).
 
-         33 Bloomfield Hills Parkway, Suite 200, Bloomfield Hills,
-         Michigan 48304
+                  5. The holding period of the Pulte common shares received
+pursuant to the Merger will include the holding period of the Del Webb common
+stock surrendered in the Merger.
 
-2.       The mailing address of the registered office, if different than above:
-         N/A
+                  6. A holder of Del Webb common stock will be required to
+recognize gain or loss with respect to cash received in lieu of a fractional
+Pulte common share, measured by the difference between the amount of cash
+received and the portion of the tax basis of the holder's shares of Del Webb
+common stock allocable to the fractional share, which gain or loss will be
+capital gain or loss if the holder of the Del Webb common stock holds such stock
+as a capital asset within the meaning of section 1221 of the Code and will be
+long-term capital gain or loss if the shares of Del Webb common stock exchanged
+for the fractional share were held for more than one year at the Effective Time.
 
-3.       The name of the resident agent at the registered office is:
-         John R. Stoller
+                  7. No gain or loss will be recognized by Del Webb, Pulte or
+Sub as a result of the Merger.
 
-ARTICLE V
-  Any action required or permitted by the Act to be taken at an annual or
-  special meeting of shareholders may be taken without a meeting, without prior
-  notice, and without a vote, if a consent in writing, setting forth the action
-  so taken, is signed by the holders of outstanding stock having not less than
-  the minimum number of votes that would be necessary to authorize or take the
-  action at a meeting at which all shares entitled to vote thereof were present
-  and voted.
+                  Except as set forth above, we express no other opinion. This
+opinion is expressed as of the date hereof, and we disclaim any undertaking to
+advise you of subsequent changes relating to matters considered herein or of any
+subsequent changes in applicable law.
 
-  Prompt notice of the taking of the corporate action without a meeting by less
-  than unanimous written consent shall be given to the shareholders who have not
-  consented in writing.
+                  We hereby consent to the filing of this opinion as Exhibit 8.1
+to the Registration Statement. We also consent to the use of our name under the
+headings "United States Federal Income Tax Consequences of the Merger" and
+"Legal Matters" in the Registration Statement. In giving this consent, we do not
+thereby
 
-ARTICLE VI
-  Pursuant to Section 784(1)(b) of the Michigan Business Corporation Act, the
-  Corporation expressly elects not be governed by Chapter 7A of the Michigan
-  Business Corporation Act, being Sections 775 through 784 of the Michigan
-  Business Corporation Act; provided that the Corporation's Board of Directors
-  may terminate this election in whole or in part by action of the majority of
-  directors then in office.
+Del Webb Corporation
+June 22, 2001
+Page 4
 
-ARTICLE VII
-A director of the Corporation shall not be personally liable to the Corporation
-or its shareholders for monetary damages for breach of the director's fiduciary
-duty. However, this Article VII shall not eliminate or limit the liability of a
-director for any of the following:
+admit that we are within the category of persons whose consent is required under
+Section 7 of the Securities Act, or the rules and regulations of the Commission
+promulgated thereunder.
 
-         1. A breach of the director's duty of loyalty to the Corporation or its
-         shareholders.
+                                  Very truly yours,
 
-         2. Acts or omissions not in good faith or that involve intentional
-         misconduct or knowing violation of law.
+                                  /s/ Skadden, Arps, Slate, Meagher & Flom LLP
 
-         3. A violation of Section 551(1) of the Michigan Business Corporation
-         Act.
+EX-23.1
 
-         4. A transaction from which the director derived an improper personal
-         benefit.
+k63086a1ex23-1.txt
 
-         5. An act or omission occurring before the effective date of this
-         Article.
+EX-23.1 CONSENT OF ERNST & YOUNG LLP
 
-  Any repeal or modification of this Article by the shareholders of the
-  Corporation shall not adversely affect any right or protection of any director
-  of the Corporation existing at the time of, or for or with respect to, any
-  acts or omissions occurring before such repeal or modification.
+                                                                    EXHIBIT 23.1
 
-ARTICLE VIII
-The business and affairs of the Corporation shall be managed by or under the
-direction of a Board of Directors consisting of not less than three (3), or more
-than fifteen (15) directors, the exact number of directors to be determined from
-time to time solely by a resolution adopted by an affirmative vote of a majority
-of the entire Board of Directors. The directors shall be divided into three (3)
-classes, designated Class I, Class II and Class III. Each class shall consist,
-as nearly as may be possible, of one-third (1/3) of the total number of
-directors constituting the entire Board of Directors. At the 1988 Annual Meeting
-of Shareholders, Class I directors shall be elected for a one-year term. Class
-II directors for a two-year term and Class III directors for a three-year term.
-At each succeeding annual meeting of shareholders, commencing in 1989,
-successors to the class of directors whose term expires at that annual meeting
-shall be elected for a three-year term.
+                           [ERNST & YOUNG LETTERHEAD]
 
-If the number of directors is changed, any increase or decrease shall be
-apportioned among the classes of directors so as to maintain the number of
-directors in each class as nearly equal as possible, but in no case shall a
-decrease in the number of directors shorten the term of any incumbent director.
-When the number of directors is increased by the Board of Directors and any
-newly created directorships are filled by the Board, there shall be no
-classification of the additional directors until the next annual meeting of
-shareholders.
+                         Consent of Independent Auditors
 
-A director shall hold office until the meeting for the year in which his or her
-term expires and until his or her successor shall be elected and shall qualify,
-subject, however, to prior death, resignation, retirement, disqualification or
-removal from office. Newly created directorships resulting from an increase in
-the number of directors and any vacancy on the Board of Directors for any reason
-whatsoever shall be filled only by an affirmative vote of a majority of the
-Board of Directors then in office. If the number of directors then in office is
-less than a quorum, such newly created directorships and vacancies shall be
-filled by a majority of the directors then in office, although less than a
-quorum, or by the sole remaining director. A director elected by the Board of
-Directors to fill a vacancy shall hold office until the next meeting of
-shareholders called for the election of directors and until his or her successor
-shall be elected and shall qualify.
+We consent to the reference to our firm under the captions "Selected Historical
+Financial Data of Pulte" and "Experts" and to the use of our report dated
+January 22, 2001, incorporated by reference in the Proxy Statement of Pulte
+Homes, Inc. that is made a part of the Registration Statement (Form S-4 No.
+333-62518) and Prospectus of Pulte Homes, Inc. for the registration of shares of
+its common stock.
 
-Nominations for the election of directors shall be made as set forth in the
-Bylaws of the Corporation.
+Detroit, Michigan                                    /s/ ERNST & YOUNG LLP
+June 21, 2001
 
-  Notwithstanding the foregoing, whenever the holders of any one or more classes
-  of preferred stock or series thereof issued by the Corporation shall have the
-  right, voting separately by class or series, to elect directors at an annual
-  or special meeting of shareholders, the election, term of office, filling of
-  vacancies and other features of such directorship shall be governed by the
-  terms of these Articles of Incorporation applicable thereto, and such
-  directors so elected shall not be divided into classes pursuant to this
-  Article VIII.
+EX-23.2
 
-ARTICLE IX
+k63086a1ex23-2.txt
 
-A.       In addition to any affirmative vote required by law or these Articles
-of Incorporation, and except as provided in Section B of this Article IX:
+EX-23.2 CONSENT OF KPMG LLP
 
-              1. Any merger or consolidation of the Corporation or any
-         subsidiary with either;
+                                                                    EXHIBIT 23.2
 
-                 (i)  Any Interested Shareholder;
+                                [KPMG LETTERHEAD]
 
-                 (ii) Any othe
+                         Independent Auditors' Consent
+
+The Board of Directors
+Del Webb Corporation:
+
+We consent to incorporation by reference in the amended registration statement
+on Form S-4 of Pulte Homes, Inc., of our report dated August 18, 2000, relating
+to the consolidated balance sheets of Del Webb Corporation and subsidiaries as
+of June 30, 2000 and 1999, and the related consolidated statement of earnings,
+shareholders' equity and cash flows for each of the years in the three-year
+period ended June 30, 2000, which report appears in the June 30, 2000 annual
+report on Form 10-K of Del Webb Corporation.
+
+We also consent to the reference to our firm under the heading "Experts" in the
+registration statement.
+
+                                  /s/ KPMG LLP
+
+Phoenix, Arizona
+June 22, 2001
+
+EX-99.3
+
+k63086a1ex99-3.txt
+
+EX-99.3 FORM OF DEL WEBB CORPORATION PROXY CARD
+
+                                                                    EXHIBIT 99.3
+
+ 
