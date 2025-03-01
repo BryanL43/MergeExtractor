@@ -1,20 +1,20 @@
 INDEX,DATE,TMANAMES,AMANAMES,URL
 index_0,1/8/2001,Prime Response Inc,Chordiant Software Inc,https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
-index_2,1/10/2001,Mediconsult.com Inc,CyBear Inc(Andryx Corp),https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+index_2,1/10/2001,Mediconsult.com Inc,CyBear Inc(Andryx Corp),https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
 index_3,1/15/2001,Xircom Inc,Intel Corp,https://www.sec.gov/Archives/edgar/data/50863/000109581101000469/0001095811-01-000469.txt
 index_4,1/16/2001,Allaire Corp,Macromedia Inc,https://www.sec.gov/Archives/edgar/data/913949/000089161801000108/0000891618-01-000108.txt
-index_5,1/17/2001,WebTrends Corp,NetIQ Corp,https://www.sec.gov/Archives/edgar/data/1084827/000089843001000748/0000898430-01-000748.txt
+index_5,1/17/2001,WebTrends Corp,NetIQ Corp,https://www.sec.gov/Archives/edgar/data/1084827/000101287001000336/0001012870-01-000336.txt
 index_6,1/18/2001,Texoil Inc,Ocean Energy Inc,https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
-index_7,1/22/2001,Guest Supply Inc,Sysco Corp,https://www.sec.gov/Archives/edgar/data/96021/000095012901001213/0000950129-01-001213.txt
+index_7,1/22/2001,Guest Supply Inc,Sysco Corp,https://www.sec.gov/Archives/edgar/data/96021/000095012901000484/0000950129-01-000484.txt
 index_9,1/23/2001,Centennial Technologies Inc,Solectron Corp,https://www.sec.gov/Archives/edgar/data/835541/000095014901500291/0000950149-01-500291.txt
 index_10,1/26/2001,Heartport Inc,Johnson & Johnson,https://www.sec.gov/Archives/edgar/data/200406/000095012301001665/0000950123-01-001665.txt
-index_11,1/29/2001,Dallas-Semiconductor Corp,Maxim Integrated Products Inc,https://www.sec.gov/Archives/edgar/data/743316/000109581101500299/0001095811-01-500299.txt
+index_11,1/29/2001,Dallas-Semiconductor Corp,Maxim Integrated Products Inc,https://www.sec.gov/Archives/edgar/data/743316/000109581101500103/0001095811-01-500103.txt
 index_14,2/4/2001,Tosco Corp,Phillips Petroleum Co Inc,https://www.sec.gov/Archives/edgar/data/78214/000095013001001162/0000950130-01-001162.txt
 index_15,2/5/2001,UTI Energy Corp,Patterson Energy Inc,https://www.sec.gov/Archives/edgar/data/889900/000095013401001956/0000950134-01-001956.txt
 index_16,2/5/2001,Women.com Networks,iVillage Inc,https://www.sec.gov/Archives/edgar/data/1074767/000112528201000713/0001125282-01-000713.txt
 index_17,2/12/2001,Conectiv Inc,Potomac Electric Power Company,https://www.sec.gov/Archives/edgar/data/1135971/000092838501000837/0000928385-01-000837.txt
-index_18,2/20/2001,New Era of Networks Inc,Sybase Inc,https://www.sec.gov/Archives/edgar/data/768262/000095014901500403/0000950149-01-500403.txt
-index_19,2/20/2001,RGS Energy Group,Energy East Corp,https://www.sec.gov/Archives/edgar/data/1073353/000091205701007680/0000912057-01-007680.txt
+index_18,2/20/2001,New Era of Networks Inc,Sybase Inc,https://www.sec.gov/Archives/edgar/data/768262/000095014901500234/0000950149-01-500234.txt
+index_19,2/20/2001,RGS Energy Group,Energy East Corp,https://www.sec.gov/Archives/edgar/data/1046861/000091205701509743/0000912057-01-509743.txt
 index_21,2/22/2001,Oshman's Sporting Goods Inc,Gart Sports Co,https://www.sec.gov/Archives/edgar/data/912262/000104596901500057/0001045969-01-500057.txt
 index_22,2/23/2001,ASI Solutions Inc,Aon Corp,https://www.sec.gov/Archives/edgar/data/315293/000091205701008518/0000912057-01-008518.txt
 index_23,2/23/2001,Spieker Properties Inc,Equity Office Properties Trust,https://www.sec.gov/Archives/edgar/data/1038339/000095013301001023/0000950133-01-001023.txt
@@ -24,15 +24,52 @@ index_26,3/12/2001,Cambridge Technology Partners,Novell Inc,https://www.sec.gov/
 index_28,3/13/2001,Towne Services Inc,Private Business Inc,https://www.sec.gov/Archives/edgar/data/1069469/000095014401501389/0000950144-01-501389.txt
 index_29,3/13/2001,VitalCom Inc,Data Critical Corp,https://www.sec.gov/Archives/edgar/data/941775/000103221001500353/0001032210-01-500353.txt
 index_33,3/21/2001,Sequoia Software Corp,Citrix Systems Inc,https://www.sec.gov/Archives/edgar/data/877890/000092701601001538/0000927016-01-001538.txt
-index_34,3/22/2001,CUseeMe Networks Inc,First Virtual Communications,https://www.sec.gov/Archives/edgar/data/920317/000091205701516536/0000912057-01-516536.txt
-index_35,3/22/2001,Kent Electronics Corp,Avnet Inc,https://www.sec.gov/Archives/edgar/data/8858/000095012301500734/0000950123-01-500734.txt
+index_34,3/22/2001,CUseeMe Networks Inc,First Virtual Communications,https://www.sec.gov/Archives/edgar/data/920317/000091205701510287/0000912057-01-510287.txt
+index_35,3/22/2001,Kent Electronics Corp,Avnet Inc,https://www.sec.gov/Archives/edgar/data/8858/000095012301501125/0000950123-01-501125.txt
 index_36,3/23/2001,Interland Inc,Micron Electronics Inc,https://www.sec.gov/Archives/edgar/data/854460/000089161801500850/0000891618-01-500850.txt
-index_37,3/27/2001,ALZA Corp,Johnson & Johnson,https://www.sec.gov/Archives/edgar/data/200406/000095012301501039/0000950123-01-501039.txt
+index_37,3/27/2001,ALZA Corp,Johnson & Johnson,https://www.sec.gov/Archives/edgar/data/200406/000095012301502411/0000950123-01-502411.txt
 index_38,3/30/2001,Franchise Finance Corp of Amer,General Electric Capital Corp,https://www.sec.gov/Archives/edgar/data/908527/000095014701500823/0000950147-01-500823.txt
-index_40,4/2/2001,USA Detergents Inc,Church & Dwight Co Inc,https://www.sec.gov/Archives/edgar/data/313927/000109581101501545/0001095811-01-501545.txt
+index_40,4/2/2001,USA Detergents Inc,Church & Dwight Co Inc,https://www.sec.gov/Archives/edgar/data/313927/000089256901500218/0000892569-01-500218.txt
 index_41,4/3/2001,DTM Corp,3D Systems Corp,https://www.sec.gov/Archives/edgar/data/910638/000095014801500497/0000950148-01-500497.txt
 index_42,4/3/2001,Exigent International Inc,Harris Corp,https://www.sec.gov/Archives/edgar/data/202058/000095015201500865/0000950152-01-500865.txt
-index_44,4/9/2001,Broadbase Software Inc,Kana Communications Inc,https://www.sec.gov/Archives/edgar/data/1089907/000101287001500925/0001012870-01-500925.txt
+index_44,4/9/2001,Broadbase Software Inc,Kana Communications Inc,https://www.sec.gov/Archives/edgar/data/1089907/000101287001500495/0001012870-01-500495.txt
 index_46,4/11/2001,Autoweb.com Inc,Autobytel.com Inc,https://www.sec.gov/Archives/edgar/data/1023364/000089256901500295/0000892569-01-500295.txt
 index_47,4/11/2001,Foilmark Inc,Illinois Tool Works Inc,https://www.sec.gov/Archives/edgar/data/49826/000091205701509641/0000912057-01-509641.txt
 index_48,4/13/2001,McNaughton Apparel Group Inc,Jones Apparel Group Inc,https://www.sec.gov/Archives/edgar/data/874016/000091205701513750/0000912057-01-513750.txt
+index_50,4/19/2001,Mainspring Inc,IBM,https://www.sec.gov/Archives/edgar/data/1017174/000092701601500602/0000927016-01-500602.txt
+index_51,4/20/2001,Learn2.com Inc,E-Stamp Corp,https://www.sec.gov/Archives/edgar/data/1092917/000089161801500594/0000891618-01-500594.txt
+index_52,4/24/2001,Aronex Pharmaceuticals Inc,Antigenics Inc,https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+index_53,4/26/2001,Focal Inc,Genzyme Corp,https://www.sec.gov/Archives/edgar/data/732485/000091205701516905/0000912057-01-516905.txt
+index_54,4/26/2001,MedPlus Inc,Quest Diagnostics Inc,https://www.sec.gov/Archives/edgar/data/922723/000090631801500064/0000906318-01-500064.txt
+index_55,4/29/2001,Aurora Biosciences Corp,Vertex Pharmaceuticals Inc,https://www.sec.gov/Archives/edgar/data/875320/000091205701517350/0000912057-01-517350.txt
+index_56,5/1/2001,Del Webb Corp,Pulte Homes Inc,https://www.sec.gov/Archives/edgar/data/822416/000095012401502064/0000950124-01-502064.txt
+index_57,5/3/2001,Telescan Inc,Ziasun Technologies Inc,https://www.sec.gov/Archives/edgar/data/1085705/000089375001500141/0000893750-01-500141.txt
+index_62,5/11/2001,Rosetta Inpharmatics Inc,Merck & Co Inc,https://www.sec.gov/Archives/edgar/data/64978/000095012301503377/0000950123-01-503377.txt
+index_63,5/14/2001,HS Resources Inc,Kerr-McGee Corp,https://www.sec.gov/Archives/edgar/data/1141185/000095012301503935/0000950123-01-503935.txt
+index_64,5/14/2001,Healthcare.com Corp,Xcare Net Inc,https://www.sec.gov/Archives/edgar/data/1094561/000103570401500219/0001035704-01-500219.txt
+index_66,5/15/2001,Sawtek Inc,TriQuint Semiconductor Inc,https://www.sec.gov/Archives/edgar/data/913885/000091205701519567/0000912057-01-519567.txt
+index_67,5/16/2001,Integrated Measurement Systems,Credence Systems Corp,https://www.sec.gov/Archives/edgar/data/893162/000101287001501230/0001012870-01-501230.txt
+index_69,5/23/2001,C-bridge Internet Solutions,Excelon Corp,https://www.sec.gov/Archives/edgar/data/1014955/000091205701519936/0000912057-01-519936.txt
+index_70,5/23/2001,Energy Search Inc,EOG Resources Inc,https://www.sec.gov/Archives/edgar/data/932181/000090572901500143/0000905729-01-500143.txt
+index_71,5/23/2001,Marine Drilling Cos,Pride International Inc,https://www.sec.gov/Archives/edgar/data/860521/000095012901501804/0000950129-01-501804.txt
+index_72,5/23/2001,Structural Dynamics Research,Electronic Data Systems Corp,https://www.sec.gov/Archives/edgar/data/820235/000095015201502412/0000950152-01-502412.txt
+index_73,5/24/2001,PictureTel Corp,Polycom Inc,https://www.sec.gov/Archives/edgar/data/1010552/000091205701520246/0000912057-01-520246.txt
+index_74,5/24/2001,York Group Inc,Matthews International Corp,https://www.sec.gov/Archives/edgar/data/1007084/000091205701522144/0000912057-01-522144.txt
+index_76,5/30/2001,MiniMed Inc,Medtronic Inc,https://www.sec.gov/Archives/edgar/data/945801/000089256901500507/0000892569-01-500507.txt
+index_77,5/30/2001,Richton International Corp,Deere & Co,https://www.sec.gov/Archives/edgar/data/315189/000095013001503016/0000950130-01-503016.txt
+index_78,5/31/2001,Minntech Corp,Cantel Medical Corp,https://www.sec.gov/Archives/edgar/data/19446/000091205701522524/0000912057-01-522524.txt
+index_79,5/31/2001,United Investors Realty Trust,Equity One Inc,https://www.sec.gov/Archives/edgar/data/1042810/000114413201500003/0001144132-01-500003.txt
+index_80,6/1/2001,MessageMedia Inc,DoubleClick Inc,https://www.sec.gov/Archives/edgar/data/1049480/000095011701500640/0000950117-01-500640.txt
+index_82,6/7/2001,Juno Online Services Inc,Netzero Inc,https://www.sec.gov/Archives/edgar/data/1142701/000091205701526013/0000912057-01-526013.txt
+index_84,6/9/2001,Belco Oil & Gas Corp,Westport Resources Cforp,https://www.sec.gov/Archives/edgar/data/889005/000095013401503781/0000950134-01-503781.txt
+index_85,6/11/2001,Remedy Corp,Peregrine Systems Inc,https://www.sec.gov/Archives/edgar/data/1031107/000091205701524759/0000912057-01-524759.txt
+index_86,6/13/2001,AXYS Pharmaceuticals Inc,Celera Genomics Corp,https://www.sec.gov/Archives/edgar/data/77551/000091205701523143/0000912057-01-523143.txt
+index_87,6/14/2001,Aris Corp,Ciber Inc,https://www.sec.gov/Archives/edgar/data/1037186/000091205701522373/0000912057-01-522373.txt
+index_88,6/18/2001,Avert Inc,Automatic Data Processing Inc,https://www.sec.gov/Archives/edgar/data/920909/000095013101502168/0000950131-01-502168.txt
+index_89,6/18/2001,Galileo International Inc,Cendant Corp,https://www.sec.gov/Archives/edgar/data/723612/000095013001502903/0000950130-01-502903.txt
+index_90,6/25/2001,Datron Systems Inc,Titan Corp,https://www.sec.gov/Archives/edgar/data/32258/000091205701523089/0000912057-01-523089.txt
+index_91,6/25/2001,SMC Corp,Monaco Coach Corp,https://www.sec.gov/Archives/edgar/data/910619/000091205701522766/0000912057-01-522766.txt
+index_94,6/28/2001,UroCor Inc,Dianon Systems Inc,https://www.sec.gov/Archives/edgar/data/779282/000091412101500406/0000914121-01-500406.txt
+index_95,6/29/2001,Cardiac Pathways Corp,Boston Scientific Corp,https://www.sec.gov/Archives/edgar/data/885725/000095012301504225/0000950123-01-504225.txt
+index_98,7/2/2001,Earthgrains Co,Sara Lee Corp,https://www.sec.gov/Archives/edgar/data/1004985/000095013101502134/0000950131-01-502134.txt
+index_99,7/2/2001,Mediaplex Inc,ValueClick Inc,https://www.sec.gov/Archives/edgar/data/1080034/000091205701530104/0000912057-01-530104.txt

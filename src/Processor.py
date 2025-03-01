@@ -9,6 +9,8 @@ import os
 import shutil
 import random
 import time
+import unicodedata
+from lxml import etree
 
 from Assistant import Assistant
 from Logger import Logger
@@ -34,8 +36,18 @@ class Processor:
         print("Successfully initialized Processor");
 
     def __extractAllButLastWord(self, companyName) -> str:
-        clean_name = re.sub(r"\(.*?\)", "", companyName);  # Remove parentheses content
-        words = re.split(r"[\s\-_]+", clean_name.strip());  # Split by space, hyphen, or underscore
+        cleanName = re.sub(r"\(.*?\)", "", companyName);  # Remove parentheses content
+        words = re.split(r"[\s\_]+", cleanName.strip());  # Split by space or underscore
+
+        # Domain-like terms to merge
+        mergeWords = {"net", "com", "org", "co"};
+
+        # Merge domain-like words
+        for i in range(len(words) - 1):
+            if words[i].lower() in mergeWords:
+                words[i] = words[i] + "." + words[i + 1];
+                words.pop(i + 1);
+                break;
 
         if len(words) > 1:
             if words[-2] == "&":
@@ -60,8 +72,17 @@ class Processor:
             sys.exit(response.status_code);
 
     def __preProcessText(self, content) -> str:
-        soup = BeautifulSoup(content, "html.parser");
-        text = soup.get_text(separator="\n");
+        # Ensure content is in UTF-8
+        if isinstance(content, bytes):
+            content = content.decode('utf-8', errors='ignore');
+        
+        # HTMLParser to handle bad HTML
+        parser = etree.HTMLParser(recover=True, encoding='utf-8');
+        try:
+            tree = etree.fromstring(content.encode('utf-8'), parser);
+            text = '\n'.join(tree.xpath('.//text()'));  # Extract all text nodes
+        except Exception as e:
+            raise RuntimeError(f"HTML parsing error: {e}") from e;
 
         # Remove standalone page numbers
         pageNumPattern = re.compile(r'^\s*\d+\s*$', re.MULTILINE);
@@ -72,47 +93,33 @@ class Processor:
 
         return text.strip();
 
+    def __normalizeText(self, text) -> str:
+        # Remove table of contents references and normalize the text
+        text = unicodedata.normalize("NFKC", text);  # Normalize Unicode
+        text = text.encode("ascii", "ignore").decode("ascii");
+        cleanedText = re.sub(r'\btable\s*of\s*contents?\b|\btableofcontents?\b', '', text, flags=re.IGNORECASE);
+        cleanedText = re.sub(r'(?i)table\s*of\s*contents?|tableofcontents?', '', cleanedText);
+
+        return cleanedText.strip();
+
     def __checkCompaniesInDocument(self, url, companyNames) -> tuple[str, bool]:
         # Open the url and acquire the document content.
         # Error = Fatal, force exit from load function.
         rawText = self.__loadFileFromURL(url);
 
+        # Clean and truncate text
         cleanedText = self.__preProcessText(rawText);
-        lowerText = cleanedText.lower()[:10000]; # Truncate to header to ensure accurate document
+        cleanedText = self.__normalizeText(cleanedText);
+        cleanedText = cleanedText[1000:450000]; # Reduce data load
+
+        # Truncate to header to validate that we have the correct document
+        lowerText = cleanedText.lower()[:10000];
 
         # Check if both company names are present as whole words
         foundCompanies = [name for name in companyNames if re.search(r'\b' + re.escape(name) + r'\b', lowerText)];
         
         # Return the cleanedText if both company names are found, else False
         return cleanedText, len(foundCompanies) == len(companyNames);
-
-    def __removeTableOfContents(self, text) -> str:
-        # Regular expression patterns for table of contents
-        tocStartPattern = re.compile(r'(Table of Contents|Contents|TABLE OF CONTENT|CONTENTS)', re.IGNORECASE);
-        tocEndPattern = re.compile(r'(Introduction|Chapter \d+|Section \d+|Part \d+|Page \d+)', re.IGNORECASE);
-
-        # Find the start of the table of contents
-        tocStartMatch = tocStartPattern.search(text);
-        if (not tocStartMatch):  # No table of contents found
-            return text;
-
-        tocStartIndex = tocStartMatch.start();
-
-        # Find the end of the table of contents
-        tocEndMatch = tocEndPattern.search(text, tocStartIndex);
-        if (not tocEndMatch):  # No end of table of contents found
-            return text;
-
-        tocEndIndex = tocEndMatch.start();
-
-        # Remove the table of contents section
-        cleanedText = text[:tocStartIndex] + text[tocEndIndex:];
-
-        # Remove any remaining table of contents references
-        cleanedText = re.sub(r'\btable\s*of\s*contents?\b|\btableofcontents?\b', '', cleanedText, flags=re.IGNORECASE);
-        cleanedText = re.sub(r'(?i)table\s*of\s*contents?|tableofcontents?', '', cleanedText);
-
-        return cleanedText.strip();
 
     def getDocuments(self, sourceLinks: list, companyNames: list) -> list[Document]:
         # Acquire company name's first word
@@ -139,9 +146,8 @@ class Processor:
 
     def __findSection(self, doc: Document, startCandidates: list[str]) -> bool:
         # Clean and truncate text for spaCy
-        cleanedText = self.__removeTableOfContents(doc.getContent());
-        doc.setContent(cleanedText[1000:500000]); # Preserve some content for assistant back-up parsing
-        cleanedText = cleanedText[50000:500000];  # Shrink to manageable size for spaCy
+        cleanedText = doc.getContent();
+        cleanedText = cleanedText[50000:450000];  # Cut some unnecessary data for spaCy
 
         # Break the text into sentences
         doc = self.nlp(cleanedText);
