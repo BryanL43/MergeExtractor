@@ -4,7 +4,7 @@ import os
 import spacy
 import torch
 
-from Assistant import Assistant
+from FileAnalyzerAssistant import FileAnalyzerAssistant
 from Crawler import Crawler
 from Cognition import Cognition
 
@@ -68,7 +68,7 @@ def main():
         "If the section is found, return [Found]. If not, return [None]."
     );
     
-    prompt = (
+    query = (
         "Locate the 'Background of the Merger' section (which may be titled differently, such as "
         "'Background of the Transaction', 'Background of the Acquisition', 'Background of the Consolidation', or 'Background of the Offer'). "
         "This section provides a chronological timeline of events leading to the merger. "
@@ -77,11 +77,11 @@ def main():
         "If you cannot find the section, strictly return [None]. Do not return anything else. "
     );
     
-    filterAssistant = Assistant(api_key, "Filter Assistant", instructions, prompt, "gpt-4o-mini");
+    filterAssistant = FileAnalyzerAssistant(api_key, "Filter Assistant", instructions, query, "gpt-4o-mini");
 
     crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
-    crawler.runCrawler(startIndex=250, endIndex=299); # True to literal index: i.e., 0 to 99 is 0 to 99
-    # crawler.runCrawler(index=233);
+    # crawler.runCrawler(startIndex=250, endIndex=299); # True to literal index: i.e., 0 to 99 is 0 to 99
+    crawler.runCrawler(index=300);
 
     # Find the company that had the intention of selling/buying the other company
     instructions = (
