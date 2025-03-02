@@ -4,6 +4,17 @@ import os
 import csv
 import re
 import sys
+from sentence_transformers import SentenceTransformer
+import nltk
+
+# Install the required NLTK data
+for token in ["punkt", "punkt_tab"]:
+    try:
+        nltk.data.find(f"tokenizers/{token}");
+    except LookupError:
+        nltk.download(token);
+
+from nltk.tokenize import sent_tokenize
 
 from Assistant import Assistant
 from Logger import Logger

@@ -1,9 +1,8 @@
 import re
-from concurrent.futures import ThreadPoolExecutor, as_completed, Future, wait, ALL_COMPLETED
+from concurrent.futures import ThreadPoolExecutor, as_completed, wait, ALL_COMPLETED
 from threading import Event, Lock
 import sys
 import requests
-from bs4 import BeautifulSoup
 from fuzzywuzzy import fuzz
 import os
 import shutil

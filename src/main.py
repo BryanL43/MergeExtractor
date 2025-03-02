@@ -80,7 +80,7 @@ def main():
     
     filterAssistant = FileAnalyzerAssistant(api_key, "Filter Assistant", instructions, query, "gpt-4o-mini");
 
-    # crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
+    crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
     # crawler.runCrawler(startIndex=250, endIndex=299); # True to literal index: i.e., 0 to 99 is 0 to 99
     # crawler.runCrawler(index=300);
 
@@ -104,7 +104,7 @@ def main():
 
     analystAssistant = TextAnalyzerAssistant(api_key, "Analyst Assistant", instructions, query, "gpt-4o-mini");
 
-    # cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
+    cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
     # cognition.findInitiator(startIndex=0, endIndex=19); # Index literal; 0 is 0
     # cognition.findInitiator(index=0);
 
