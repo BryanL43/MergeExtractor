@@ -5,6 +5,7 @@ import spacy
 import torch
 
 from FileAnalyzerAssistant import FileAnalyzerAssistant
+from TextAnalyzerAssistant import TextAnalyzerAssistant
 from Crawler import Crawler
 from Cognition import Cognition
 
@@ -79,9 +80,9 @@ def main():
     
     filterAssistant = FileAnalyzerAssistant(api_key, "Filter Assistant", instructions, query, "gpt-4o-mini");
 
-    crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
+    # crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
     # crawler.runCrawler(startIndex=250, endIndex=299); # True to literal index: i.e., 0 to 99 is 0 to 99
-    crawler.runCrawler(index=300);
+    # crawler.runCrawler(index=300);
 
     # Find the company that had the intention of selling/buying the other company
     instructions = (
@@ -92,7 +93,7 @@ def main():
         "If you identify this company, return its name strictly in the format: [Company Name]. If you cannot determine the initiating company, return [None]."
     );
 
-    prompt = (
+    query = (
         "Analyze the document to determine which company first expressed intent to either sell itself or acquire another company. "
         "Look for initial merger discussions, acquisition proposals, or sell-off considerations. "
         "If a third party (e.g., an advisor or investor) suggested the deal, extract the company that took action on it. "
@@ -101,7 +102,7 @@ def main():
         "Do return why said company is the first to express intent. "
     );
 
-    # analystAssistant = Assistant(api_key, "Analyst Assistant", instructions, prompt, "gpt-4o-mini");
+    analystAssistant = TextAnalyzerAssistant(api_key, "Analyst Assistant", instructions, query, "gpt-4o-mini");
 
     # cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
     # cognition.findInitiator(startIndex=0, endIndex=19); # Index literal; 0 is 0
