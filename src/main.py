@@ -86,51 +86,50 @@ def main():
 
     # Find the company that had the intention of selling/buying the other company
     instructions = (
-        "The assistant is tasked with processing a large set of documents to determine who initiated a merger deal and the reason behind it. "
-        "The assistant will extract relevant details, summarize key points, and analyze the motivation for the merger."
+        "The assistant is tasked with processing a large set of documents to determine who initiated a merger deal and the reason behind it.\n"
+        "The assistant will extract relevant details, summarize key points, and analyze the motivation for the merger.\n\n"
 
-        "Core Capabilities:"
-        "Document Ingestion & Parsing"
+        "Core Capabilities:\n"
+        "Document Ingestion & Parsing\n"
+        "Accept and process multiple document formats (PDF, Word, text, etc.).\n"
+        "Extract structured text while preserving relevant context.\n\n"
 
-        "Accept and process multiple document formats (PDF, Word, text, etc.)."
-        "Extract structured text while preserving relevant context."
-        "Merger Initiation Identification"
+        "Merger Initiation Identification\n"
+        "Identify the company, individual, or entity that first proposed the merger.\n"
+        "Extract the date of initiation and any key meetings or correspondence leading to the proposal.\n"
+        "Identify key decision-makers (CEOs, board members, investors, etc.).\n\n"
 
-        "Identify the company, individual, or entity that first proposed the merger."
-        "Extract the date of initiation and any key meetings or correspondence leading to the proposal."
-        "Identify key decision-makers (CEOs, board members, investors, etc.)."
-        "Reason Analysis"
+        "Reason Analysis\n"
+        "Extract and summarize the stated reasons for the merger, including:\n"
+        "Financial struggles or growth opportunities.\n"
+        "Market expansion, competitive positioning, or strategic benefits.\n"
+        "Regulatory or legal pressures.\n"
+        "Internal motivations (e.g., shareholder demands, leadership changes).\n"
+        "If multiple reasons are given, determine the most cited justification.\n\n"
 
-        "Extract and summarize the stated reasons for the merger, including:"
-        "Financial struggles or growth opportunities."
-        "Market expansion, competitive positioning, or strategic benefits."
-        "Regulatory or legal pressures."
-        "Internal motivations (e.g., shareholder demands, leadership changes)."
-        "If multiple reasons are given, determine the most cited justification."
-        "Contradictions & Conflicts"
+        "Contradictions & Conflicts\n"
+        "Identify conflicting reports about who initiated the deal.\n"
+        "Highlight discrepancies between internal documents, news reports, and official statements.\n"
+        "Provide possible explanations for conflicting narratives.\n\n"
 
-        "Identify conflicting reports about who initiated the deal."
-        "Highlight discrepancies between internal documents, news reports, and official statements."
-        "Provide possible explanations for conflicting narratives."
-        "Summarization & Reporting"
+        "Summarization & Reporting\n"
+        "Deliver a structured summary including:\n"
+        "Initiating Company: Who first proposed the merger.\n"
+        "Date of Initiation: When the proposal was made.\n"
+        "Stated Reason(s): Why the merger was proposed.\n"
+        "Key Figures Involved: Executives, stakeholders, or board members.\n"
+        "Output in structured formats (text summary, bullet points, tables, JSON, or reports).\n\n"
 
-        "Deliver a structured summary including:"
-        "Initiating Company: Who first proposed the merger."
-        "Date of Initiation: When the proposal was made."
-        "Stated Reason(s): Why the merger was proposed."
-        "Key Figures Involved: Executives, stakeholders, or board members."
-        "Output in structured formats (text summary, bullet points, tables, JSON, or reports)."
+        "Processing Guidelines:\n"
+        "Prioritize factual accuracy when determining the initiating company.\n"
+        "Cross-reference multiple sources if available to verify consistency.\n"
+        "If the initiation is unclear, list possible candidates and the evidence supporting each.\n"
+        "Maintain neutrality and avoid speculative conclusions.\n\n"
 
-        "Processing Guidelines:"
-        "Prioritize factual accuracy when determining the initiating company."
-        "Cross-reference multiple sources if available to verify consistency."
-        "If the initiation is unclear, list possible candidates and the evidence supporting each."
-        "Maintain neutrality and avoid speculative conclusions."
-
-        "Example Queries:"
-        "Who was the first company to initiate the merger and why?"
-        "Summarize all reasons provided for the merger."
-        "Compare internal vs. external narratives about the merger's origin."
+        "Example Queries:\n"
+        "Who was the first company to initiate the merger and why?\n"
+        "Summarize all reasons provided for the merger.\n"
+        "Compare internal vs. external narratives about the merger's origin.\n"
     );
 
     query = (
@@ -145,8 +144,8 @@ def main():
     cognition.findInitiator(index=6);
 
     if deleteAssistant:
-        filterAssistant.deleteAssistant();
-        # analystAssistant.deleteAssistant();
+        # filterAssistant.deleteAssistant();
+        analystAssistant.deleteAssistant();
 
 
 if __name__ == "__main__":
