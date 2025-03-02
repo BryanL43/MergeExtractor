@@ -11,7 +11,7 @@ import time
 import unicodedata
 from lxml import etree
 
-from Assistant import Assistant
+from FileAnalyzerAssistant import FileAnalyzerAssistant
 from Logger import Logger
 from Document import Document
 
@@ -24,7 +24,7 @@ TEMP_DIRECTORY = "merge_extractor_temp";
         - Extracting the background section
 """
 class Processor:
-    def __init__(self, assistant: Assistant, nlp: any, startPhrases: list, executor: ThreadPoolExecutor):
+    def __init__(self, assistant: FileAnalyzerAssistant, nlp: any, startPhrases: list, executor: ThreadPoolExecutor):
         self.assistant = assistant;
         self.nlp = nlp;
         self.startPhrases = startPhrases;

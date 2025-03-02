@@ -39,7 +39,7 @@ class TextAnalyzerAssistant(Assistant):
             messages= [
                 {
                     "role": "user",
-                    "content": text + "\n\n" + self.__query
+                    "content": text
                 }
             ]
         );
@@ -56,3 +56,6 @@ class TextAnalyzerAssistant(Assistant):
 
         result = messages[0].content[0].text.value;
         return result;
+
+    def getQuery(self) -> str:
+        return self.__query;

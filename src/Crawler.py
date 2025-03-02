@@ -12,7 +12,7 @@ import gc
 import torch
 
 from Logger import Logger
-from Assistant import Assistant
+from FileAnalyzerAssistant import FileAnalyzerAssistant
 from Processor import Processor
 from Document import Document
 
@@ -25,7 +25,7 @@ class Crawler:
             startPhrases: list,
             threadCount: int,
             nlp: any,
-            assistant: Assistant
+            assistant: FileAnalyzerAssistant
         ):
         
         self.filedDate = filedDate;
