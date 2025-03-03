@@ -53,6 +53,17 @@ class Assistant:
         """Save assistant data back to JSON"""
         with open("assistantData.json", "w") as json_file:
             json.dump(self._assistants_data, json_file, indent=4);
+    
+    def clearVectorStores(self):
+        """
+            Since we are using thread directly, the vector is created automatically.
+            API doesn't specify how to acquire a specific one, so I'm just flushing it out.
+            This saves on any additional storage costs.
+        """
+        vector_stores = self._client.beta.vector_stores.list();
+        for vector in vector_stores.data:
+            if vector.status != "expired":
+                self._client.beta.vector_stores.delete(vector_store_id=str(vector.id));
 
     def deleteAssistant(self):
         """Deletes the assistant and updates JSON file"""

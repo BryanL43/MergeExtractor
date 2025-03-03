@@ -76,11 +76,3 @@ class FileAnalyzerAssistant(Assistant):
             return result;
         else:
             raise RuntimeError(f"Assistant failed with status: {run.status}");
-
-    def clearVectorStores(self):
-        # Since we are using thread directly, the vector is created automatically.
-        # API doesn't specify how to acquire a specific one, so I'm just flushing it out.
-        vector_stores = self._client.beta.vector_stores.list();
-        for vector in vector_stores.data:
-            if vector.status != "expired":
-                self._client.beta.vector_stores.delete(vector_store_id=str(vector.id));

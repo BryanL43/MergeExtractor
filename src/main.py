@@ -5,7 +5,7 @@ import spacy
 import torch
 
 from FileAnalyzerAssistant import FileAnalyzerAssistant
-from TextAnalyzerAssistant import TextAnalyzerAssistant
+from ContextAssistant import ContextAssistant
 from Crawler import Crawler
 from Cognition import Cognition
 
@@ -99,6 +99,16 @@ def main():
         "Extract the date of initiation and any key meetings or correspondence leading to the proposal.\n"
         "Identify key decision-makers (CEOs, board members, investors, etc.).\n\n"
 
+        "Handling Parent & Subsidiary Companies\n"
+        "Resolve cases where the merger is initiated through a subsidiary (e.g., Offeror) on behalf of a parent company.\n"
+        "If an entity like 'Offeror' or a similar term is used, verify whether it is acting on behalf of another company.\n"
+        "Explicitly state the full legal name of the **actual** initiating entity, avoiding vague terms like 'Parent' or 'Offeror' unless no further information is provided.\n\n"
+
+        "Abbreviation & Name Resolution\n"
+        "Expand company abbreviations and acronyms when possible to ensure clarity.\n"
+        "Cross-reference context to distinguish between common names and corporate entities (e.g., 'GE' as 'General Electric').\n"
+        "If ambiguity exists, provide a list of possible interpretations along with supporting evidence from the text.\n\n"
+
         "Reason Analysis\n"
         "Extract and summarize the stated reasons for the merger, including:\n"
         "Financial struggles or growth opportunities.\n"
@@ -134,14 +144,15 @@ def main():
 
     query = (
         "Locate the 'Background' section of the merger agreement. "
-        "The section is a chronological timeline of events leading up to the merger. Who initiated the merger agreement? "
+        "The section is a chronological timeline of events leading up to the merger. "
+        "Who initiated the merger agreement? "
     );
 
-    analystAssistant = TextAnalyzerAssistant(api_key, "Analyst Assistant", instructions, query, "gpt-4o-mini");
+    analystAssistant = ContextAssistant(api_key, "Analyst Assistant", instructions, query, "gpt-4o-mini");
 
-    cognition = Cognition(companyAList, companyBList, analystAssistant, threadCount=5, chunkSize=20, modelName="all-MiniLM-L6-v2");
-    # cognition.findInitiator(startIndex=0, endIndex=19); # Index literal; 0 is 0
-    cognition.findInitiator(index=6);
+    cognition = Cognition(companyAList, companyBList, analystAssistant, threadCount=5);
+    # cognition.findInitiator(startIndex=0, endIndex=10); # Index literal; 0 is 0
+    cognition.findInitiator(index=3);
 
     if deleteAssistant:
         # filterAssistant.deleteAssistant();
