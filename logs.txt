@@ -332,3 +332,217 @@
 [2025-03-01 02:56:49] [+] Successfully created document for: Horizon Organic Holding Corp & Dean Foods Co
 [2025-03-01 02:57:03] [-] No relevant document found for index 298: PetroCorp Inc & Unit Corp
 [2025-03-01 02:57:13] [+] Successfully created document for: Nautica Enterprises Inc & VF Corp
+[2025-03-30 05:43:54] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:43:54] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:44:03] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 05:50:08] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:50:08] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:50:17] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+[2025-03-30 05:50:49] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:50:49] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:50:58] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 05:55:55] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:55:55] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:56:05] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 05:56:39] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:56:39] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:56:44] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+[2025-03-30 05:58:13] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:58:13] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 05:58:23] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 06:02:59] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:02:59] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:03:09] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+[2025-03-30 06:03:55] [-] Error in future for https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: Can't pickle local object 'Processor.locateDocument.<locals>.process_with_result_tracking'
+[2025-03-30 06:03:55] [-] Error in future for https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: Can't pickle local object 'Processor.locateDocument.<locals>.process_with_result_tracking'
+[2025-03-30 06:04:04] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+[2025-03-30 06:06:29] [-] Error in future for https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:06:29] [-] Error in future for https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:06:38] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 06:20:03] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:20:03] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:20:13] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 06:40:13] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:40:13] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:40:22] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+[2025-03-30 06:41:07] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:41:07] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:41:16] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 06:42:09] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:42:09] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:42:19] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 06:57:59] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:57:59] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:58:08] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 06:58:31] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:58:31] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 06:58:39] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 07:00:01] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 07:00:01] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: cannot pickle '_thread.RLock' object
+[2025-03-30 07:00:09] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+[2025-03-30 07:02:01] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: Can't pickle <function Processor.__process_document at 0x0000026F48DC8040>: attribute lookup Processor.__process_document on Processor failed
+[2025-03-30 07:02:01] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: Can't pickle <function Processor.__process_document at 0x0000026F48DC8040>: attribute lookup Processor.__process_document on Processor failed
+[2025-03-30 07:02:10] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 07:02:55] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 07:02:55] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 07:03:03] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 07:06:23] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 07:06:23] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 07:06:31] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+[2025-03-30 07:08:02] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-03-30 07:08:02] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-03-30 07:10:41] [-] Confirmed no background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+[2025-03-30 16:56:37] [-] Confirmed no background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+[2025-03-30 17:47:22] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 17:47:22] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 18:02:34] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 18:02:34] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 18:07:03] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: Lock objects should only be shared between processes through inheritance
+[2025-03-30 18:07:03] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: Lock objects should only be shared between processes through inheritance
+[2025-03-30 18:07:12] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-03-30 18:15:09] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 18:28:21] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 18:47:46] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 18:47:46] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 18:47:56] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-03-30 18:58:02] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 18:58:02] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 18:58:11] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-03-30 18:58:48] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 18:58:48] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 18:58:58] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-03-30 19:00:01] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 19:00:02] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: Cannot convert non-numpy from base Ops class
+[2025-03-30 19:00:12] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-03-30 19:50:18] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: 'str' object is not callable
+[2025-03-30 19:50:18] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 'str' object is not callable
+[2025-03-30 19:50:21] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-03-30 19:57:21] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 19:57:22] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 
+[2025-03-30 19:58:58] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 19:58:59] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 
+[2025-03-30 20:02:51] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 20:02:52] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: 
+[2025-03-30 20:05:49] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-30 20:57:29] [-] Confirmed no background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+[2025-03-30 20:59:20] [-] Confirmed no background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+[2025-03-30 21:09:55] [-] Confirmed no background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+[2025-03-30 21:11:48] [-] Confirmed no background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+[2025-03-30 21:14:57] [-] Confirmed no background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+[2025-03-30 21:17:54] [-] Error processing https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt: 'str' object cannot be interpreted as an integer
+[2025-03-30 21:17:55] [-] Confirmed no background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+[2025-03-30 21:20:07] [-] Confirmed no background section found for index 52: Aronex Pharmaceuticals Inc & Antigenics Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1098972/000095013501501373/0000950135-01-501373.txt
+[2025-03-31 00:26:19] [+] Successfully created document for: Aronex Pharmaceuticals Inc & Antigenics Inc
+[2025-03-31 00:27:41] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-31 00:27:42] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 
+[2025-03-31 00:40:55] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-31 00:40:56] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 
+[2025-03-31 00:56:15] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-31 00:56:16] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 
+[2025-03-31 01:02:21] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-31 01:02:22] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 
+[2025-03-31 01:04:22] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-31 01:04:23] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 
+[2025-03-31 01:08:28] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-31 01:08:29] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 
+[2025-03-31 01:16:57] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-31 01:16:58] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: 
+[2025-03-31 01:26:38] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-31 01:34:56] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-03-31 01:37:19] [+] Successfully created document for: Aronex Pharmaceuticals Inc & Antigenics Inc
+[2025-03-31 01:57:12] [-] Confirmed no background section found for index 192: Intelligent Controls Inc & Franklin Electric Co Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/762953/000091064702000102/0000910647-02-000102.txt
+[2025-03-31 02:03:31] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-03-31 02:05:52] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-03-31 02:06:30] [-] No relevant document found for index 12: Credit Management Solutions & First American Corp

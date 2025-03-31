@@ -1,4 +1,5 @@
 import json
+import time
 
 from Assistant import Assistant
 
@@ -96,10 +97,14 @@ class ContextAssistant(Assistant):
             ]
         );
 
+        time.sleep(2);
+
         run = self._client.beta.threads.runs.create_and_poll(
             thread_id=thread.id,
             assistant_id=self._assistant_id
         );
+
+        print(run);
 
         # Extract the json object from the function in a hacky manner.
         # This avoids openai messy APIs.
@@ -108,6 +113,8 @@ class ContextAssistant(Assistant):
                 # Delete the thread, file, & message but not the assistant (can reuse)
                 self._client.files.delete(msg_file.id);
                 self._client.beta.threads.delete(thread_id=thread.id);
+
+                # print(tool)
 
                 return json.loads(tool.function.arguments);
 

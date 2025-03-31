@@ -7,7 +7,7 @@ import sys
 from ContextAssistant import ContextAssistant
 from Logger import Logger
 
-class Cognition:
+class InitiatorClassifier:
     def __init__(self, companyAList: list, companyBList: list, assistant: ContextAssistant, threadCount: int = 5):
         self.companyAList = companyAList;
         self.companyBList = companyBList;

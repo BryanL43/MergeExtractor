@@ -4,16 +4,7 @@ import os
 import sys
 
 class Assistant:
-    def __init__(
-            self, 
-            api_key: str, 
-            name: str, 
-            instructions: str, 
-            model: str, 
-            temp: float = 1.00, 
-            top_p: float = 1.00
-        ):
-        
+    def __init__(self, api_key: str, name: str, instructions: str, model: str, temp: float = 1.00, top_p: float = 1.00):
         self._client = OpenAI(api_key=api_key);
         self._name = name;
         self._instructions = instructions;
