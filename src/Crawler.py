@@ -8,7 +8,6 @@ import csv
 from tqdm import tqdm
 import time
 import gc
-import torch
 from spacy.language import Language
 
 from Logger import Logger
@@ -19,10 +18,10 @@ from Processor import Processor
 class Crawler:
     def __init__(
             self,
-            filed_date: list,
-            company_A_list: list,
-            company_B_list: list,
-            start_phrases: list,
+            filed_date: list[str],
+            company_A_list: list[str],
+            company_B_list: list[str],
+            start_phrases: list[str],
             thread_pool: ThreadPoolExecutor,
             nlp: Language,
             assistant: BackupAssistant
@@ -40,8 +39,6 @@ class Crawler:
 
         # Instantiate the Processor to clean & analzye documents
         self._processor = Processor(self.assistant, self.nlp, self.start_phrases, self.thread_pool);
-
-        print("Successfully initialized Crawler");
 
     # Acquire the constraint of a given date.
     # Pad 2 months backward and forward for constraint.
@@ -381,20 +378,14 @@ class Crawler:
             acquired_documents : list[tuple[int, str]]
                 A list of the acquired document's url in the tuple of (associated index, url).
         """
+        print("Writing results to CSV...");
         with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
             writer = csv.writer(file);
             if file.tell() == 0:
-                writer.writerow(["INDEX", "DATE", "TMANAMES", "AMANAMES", "URL"]);
+                writer.writerow(["INDEX", "SEARCHDATE", "TMANAMES", "AMANAMES", "URL"]);
 
-            for main_index, url in tqdm(
-                acquired_documents,
-                total=len(acquired_documents),
-                desc="\033[33mWriting to CSV\033[0m",
-                unit="items",
-                ncols=80,
-                bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
-            ):
-                try:   
+            for main_index, url in acquired_documents:
+                try:
                     # Write to the output CSV
                     writer.writerow(
                         [f"index_{main_index}", self.filed_date[main_index], self.company_A_list[main_index], self.company_B_list[main_index], url]
@@ -403,14 +394,8 @@ class Crawler:
                     Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error writing to output for index {main_index}: {e}");
 
     def __resetResources(self):
-        """Garbage collection and memory freeing"""
+        """Garbage collection"""
         gc.collect(); # CPU flush
-
-        if torch.cuda.is_available():
-            torch.cuda.empty_cache(); # GPU flush
-            torch.cuda.synchronize();
-            torch.cuda.ipc_collect();
-        
         time.sleep(2);
 
     def runCrawler(self, start_index: int = None, end_index: int = None, index: int = None, date_margin: int = None):
@@ -426,7 +411,8 @@ class Crawler:
             index: int, Optional
                 Single case index of the truncated data.
             date_margin: int, Optional
-                The margin padding for the date range to search.
+                The margin padding for the date range to search. Pads both LHS and RHS by margin starting at the given date.
+                Example: If the date is 5/16/2001 and margin is 2, then the date range will be 3/16/2001 to 7/16/2001.
             
             Raises
             ----------
@@ -489,7 +475,7 @@ class Crawler:
                 self.__resetResources();
                 continue;
             
-            print("Number of documents: " + len(documents));
+            print(f"Number of documents: {len(documents)}");
 
             # Acquire the specific document with the "Background of the Merger" section
             doc_url = self._processor.locateDocument(documents, company_names, main_index);
@@ -508,7 +494,7 @@ class Crawler:
 
             self.__resetResources();
 
-        # self.__write_output_urls(acquired_documents);
+        self.__write_output_urls(acquired_documents);
 
         # Clean up the vector store at the end as we can't clear while in parallel processing
         # self.assistant.clearVectorStores();

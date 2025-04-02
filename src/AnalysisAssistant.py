@@ -1,3 +1,4 @@
+import json
 from Assistant import Assistant
 
 CONFIG_FILE = "./config/ClassifierInstr.txt";
@@ -88,47 +89,30 @@ class AnalysisAssistant(Assistant):
 
         print(f"Successfully created Assistant: {self._name} (ID: {self._assistant_id})");
 
-    def analyzeDocument(self, file_path: str):
+    def analyzeDocument(self, text: str):
         """Analyzes an attached document using the assistant."""
-        # msg_file = self._client.files.create(
-        #     file=open(file_path, "rb"),
-        #     purpose="assistants"
-        # );
+        thread = self._client.beta.threads.create(
+            messages = [
+                {
+                    "role": "user",
+                    "content": text
+                }
+            ]
+        );
 
-        # thread = self._client.beta.threads.create(
-        #     messages = [
-        #         {
-        #             "role": "user",
-        #             "content": self.__query,
-        #             "attachments": [
-        #                 {
-        #                     "file_id": msg_file.id,
-        #                     "tools": [{"type": "file_search"}]
-        #                 },
-        #             ]
-        #         }
-        #     ]
-        # );
+        run = self._client.beta.threads.runs.create_and_poll(
+            thread_id=thread.id,
+            assistant_id=self._assistant_id
+        );
 
-        # time.sleep(2);
+        # Extract the json object from the function in a hacky manner.
+        # This avoids openai messy APIs.
+        result = None;
+        for tool in run.required_action.submit_tool_outputs.tool_calls:
+            if tool.function.name == "summarization_reporting":
+                result = json.loads(tool.function.arguments);
+                break;
+        
+        self._client.beta.threads.delete(thread_id=thread.id);
 
-        # run = self._client.beta.threads.runs.create_and_poll(
-        #     thread_id=thread.id,
-        #     assistant_id=self._assistant_id
-        # );
-
-        # print(run);
-
-        # # Extract the json object from the function in a hacky manner.
-        # # This avoids openai messy APIs.
-        # for tool in run.required_action.submit_tool_outputs.tool_calls:
-        #     if tool.function.name == "summarization_reporting":
-        #         # Delete the thread, file, & message but not the assistant (can reuse)
-        #         self._client.files.delete(msg_file.id);
-        #         self._client.beta.threads.delete(thread_id=thread.id);
-
-        #         # print(tool)
-
-        #         return json.loads(tool.function.arguments);
-
-        # raise Exception("Context Assistant failed to generate a report.");
+        return result;

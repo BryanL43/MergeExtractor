@@ -1,0 +1,282 @@
+URL: https://www.sec.gov/Archives/edgar/data/96021/000095012901000486/0000950129-01-000486.txt
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ OGkeAm56FeCFroHMHWaqpymKFX+IaXslx7eTX2HdvT6fM8n7pVQsUP8Nr4GrEcUx
+ 9KL79iNZvIGMyYEIaoT4Cw==
+
+0000950129-01-000486.txt : 20010206
+
+0000950129-01-000486.hdr.sgml : 20010206
+ACCESSION NUMBER:		0000950129-01-000486
+CONFORMED SUBMISSION TYPE:	SC TO-T
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20010205
+GROUP MEMBERS:		SYSCO CORP
+GROUP MEMBERS:		SYSCO FOOD SERVICES OF NEW JERSEY, INC.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GUEST SUPPLY INC
+		CENTRAL INDEX KEY:			0000722642
+		STANDARD INDUSTRIAL CLASSIFICATION:	PERFUMES, COSMETICS & OTHER TOILET PREPARATIONS [2844]
+		IRS NUMBER:				222320483
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-T
+		SEC ACT:		
+		SEC FILE NUMBER:	005-35627
+		FILM NUMBER:		1524413
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4301 U.S. HWY ONE
+		CITY:			MONMOUTH JUNCTION
+		STATE:			NJ
+		ZIP:			08852
+		BUSINESS PHONE:		9082463011
+
+	MAIL ADDRESS:	
+		STREET 1:		P.O. BOX 902
+		STREET 2:		720 U S HIGHWAY ONE
+		CITY:			MONMOUTH JUNCTION
+		STATE:			NJ
+		ZIP:			08852
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYSCO CORP
+		CENTRAL INDEX KEY:			0000096021
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-GROCERIES & RELATED PRODUCTS [5140]
+		IRS NUMBER:				741648137
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-T
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1390 ENCLAVE PKWY
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77077
+		BUSINESS PHONE:		2815841390
+
+SC TO-T
+
+h83513scto-t.txt
+
+SYSCO CORPORATION FOR GUEST SUPPLY, INC.
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+                             ---------------------
+
+                                  SCHEDULE TO
+           TENDER OFFER STATEMENT UNDER SECTION 14(d)(1) OR 13(e)(1)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+                             ---------------------
+
+                               GUEST SUPPLY, INC.
+                           (Name of Subject Company)
+                             ---------------------
+
+                    SYSCO FOOD SERVICES OF NEW JERSEY, INC.
+                               SYSCO CORPORATION
+                     (Names of Filing Persons -- Offerors)
+                             ---------------------
+
+            COMMON STOCK, NO PAR VALUE                                  401630 10 8
+          (TITLE OF CLASS OF SECURITIES)                   (CUSIP Number of Class of Securities)
+
+                            MICHAEL C. NICHOLS, ESQ.
+            VICE PRESIDENT, GENERAL COUNSEL AND ASSISTANT SECRETARY
+                               SYSCO CORPORATION
+                              1390 ENCLAVE PARKWAY
+                              HOUSTON, TEXAS 77077
+                                 (281) 584-1390
+                 (Name, Address and Telephone Number of Person
+  Authorized to Receive Notices and Communications on Behalf of Filing Person)
+                             ---------------------
+
+                                   COPIES TO:
+
+                           B. JOSEPH ALLEY, JR., ESQ.
+                           ARNALL GOLDEN GREGORY LLP
+                            2800 ONE ATLANTIC CENTER
+                           1201 WEST PEACHTREE STREET
+                             ATLANTA, GEORGE 30309
+                                 (404) 873-8500
+                             ---------------------
+
+                           CALCULATION OF FILING FEE
+
+             TRANSACTION VALUATION*                       AMOUNT OF FILING FEE**
+             ----------------------                       ----------------------
+
+                $200,479,396.56                                  $40,095.88
+
+- ---------------
+
+*    Estimated solely for the purpose of calculating the registration fee
+     pursuant to Rule 457(f)(1) and Rule 457(c) of the Securities Act of 1933,
+     based on the product of (i) $25.23, the average of the high and low sales
+     prices of Guest Supply common stock on January 29, 2001, as reported by The
+     New York Stock Exchange, and (ii) 7,946,072 shares of Guest Supply common
+     stock outstanding at the close of business on January 30, 2001, including
+     the number of shares of Guest Supply common stock subject to outstanding
+     options and other convertible securities on such date.
+
+**   One-fiftieth of 1% of the value of the transaction.
+
+[X]  Check the box if any part of the fee is offset as provided by Rule
+     0-11(a)(2) and identify the filing with which the offsetting fee was
+     previously paid. Identify the previous filing by registration statement
+     number, or the Form or Schedule and the date of its filing.
+
+   Amount Previously Paid: $50,119.85                      Filing Party: Sysco Corporation
+   Form or Registration No.: Form S-4                      Date Filed: February 5, 2001
+
+[ ]  Check the box if the filing relates solely to preliminary communications
+     made before the commencement of a tender offer.
+
+Check the appropriate boxes below to designate any transactions to which the
+statement relates:
+
+[X]  third-party tender offer subject to Rule 14d-1.
+
+[ ]  issuer tender offer subject to Rule 13e-4.
+
+[ ]  going-private transaction subject to Rule 13e-3.
+
+[ ]  amendment to Schedule 13D under Rule 13d-2.
+
+Check the following box if the filing is a final amendment reporting the results
+of the tender offer: [ ]
+- --------------------------------------------------------------------------------
+
+- --------------------------------------------------------------------------------
+
+     This Tender Offer Statement on Schedule TO (this "Schedule TO"), is filed
+by Sysco Corporation, a Delaware corporation ("SYSCO"), and Sysco Food Services
+of New Jersey, Inc., a Delaware corporation ("SFS New Jersey") and a wholly
+owned subsidiary of SYSCO. This Schedule TO relates to the offer by SFS New
+Jersey to exchange shares of common stock, par value $1.00 per share (the "SYSCO
+Shares"), of SYSCO for the outstanding shares of common stock, no par value (the
+"Guest Supply Shares"), of Guest Supply, Inc., a New Jersey corporation ("Guest
+Supply"), based on an exchange ratio described below and upon the terms and
+subject to the adjustments and conditions set forth in the preliminary
+prospectus dated February 5, 2001 (the "Prospectus") and in the related Letter
+of Transmittal, copies of which are attached hereto as exhibits (a)(1) and
+(a)(2) (which, together with any amendments or supplements thereto, collectively
+constitute the "Offer").
+
+     All of the information in the Prospectus and the related Letter of
+Transmittal, and any prospectus supplement or other supplement thereto related
+to the Offer hereafter filed with the Securities and Exchange Commission by
+SYSCO, is hereby incorporated by reference in answer to Items 2 through 11 of
+this Schedule TO. The Merger Agreement and Plan of Reorganization, dated as of
+January 22, 2001, among SYSCO, SFS New Jersey and Guest Supply, a copy of which
+is attached as exhibit (d)(1) hereto and the Tender Agreements among SYSCO and
+certain stockholders of Guest Supply, the form of which is attached as exhibit
+(d)(2) hereto, are incorporated by reference with respect to Items 5 and 11 of
+this Schedule TO.
+
+ITEM 1. SUMMARY TERM SHEET.
+
+     Information is disclosed to security holders in a prospectus meeting the
+requirements Rule 421(d) of the Securities Act of 1933.
+
+ITEM 3. IDENTITY AND BACKGROUND OF FILING PERSON.
+
+     (c) During the last five years, none of SYSCO, SFS New Jersey or, to the
+best of their knowledge, any of the persons listed on Schedule I to the Schedule
+13D filed by SYSCO and SFS New Jersey on January 31, 2001 with respect to the
+common stock of Guest Supply, Inc. (1) has been convicted in a criminal
+proceeding (excluding traffic violations or similar misdemeanors) or (2) was a
+party to any judicial or administrative proceeding (except for matters that were
+dismissed without sanction or settlement) that resulted in a judgment, decree or
+final order enjoining the person from future violations of, or prohibiting
+activities subject to, federal or state securities laws, or a finding of any
+violation of federal or state securities laws.
+
+ITEM 12. EXHIBITS.
+
+(a)(1)  Prospectus relating to the SYSCO Shares to be issued in the
+        Offer and the Merger (Incorporated by reference to the
+        prospectus included in SYSCO's Registration Statement on
+        Form S-4 filed on February 5, 2001).
+(a)(2)  Form of Letter of Transmittal (Incorporated by reference to
+        exhibit 99.1 to SYSCO's Registration Statement on Form S-4
+        filed on February 5, 2001).
+(a)(3)  Form of Notice of Guaranteed Delivery (Incorporated by
+        reference to exhibit 99.2 to SYSCO's Registration Statement
+        on Form S-4 filed on February 5, 2001).
+(a)(4)  Form of Letter to Brokers, Dealers, Commercial Banks, Trust
+        Companies and Other Nominees (Incorporated by reference to
+        exhibit 99.3 to SYSCO's Registration Statement on Form S-4
+        filed on February 5, 2001).
+(a)(5)  Form of Letter to Clients for use by Brokers, Dealers,
+        Commercial Banks, Trust Companies and Other Nominees
+        (Incorporated by reference to exhibit 99.4 to SYSCO's
+        Registration Statement on Form S-4 filed on February 5,
+        2001).
+(a)(7)  Guidelines for Certification of Taxpayer Identification
+        Number on Substitute Form W-9 (Incorporated by reference to
+        exhibit 99.5 to SYSCO's Registration Statement on Form S-4
+        filed on February 5, 2001).
+
+(d)(1)     Merger Agreement and Plan of Reorganization dated as of January 22, 2001, among SYSCO, SFS New Jersey
+           and Guest Supply (Incorporated by reference to exhibit 1 to the Schedule 13D filed by SYSCO and SFS New
+           Jersey on February 1, 2001).
+(d)(2)     Form of Tender Agreement, dated as of January 22, 2001, among SYSCO and certain stockholders of Guest
+           Supply (Incorporated by reference to exhibit 2 to the Schedule 13D filed by SYSCO and SFS New Jersey on
+           February 1, 2001).
+(d)(3)     Employment Agreement by and among Clifford W. Stanley, Guest Supply, Inc. and Sysco Corporation dated
+           January 22, 2001, and related Waiver Agreement and Noncompetition Agreement (Incorporated by reference
+           to exhibit 99.6 to SYSCO's registration statement on Form S-4 filed on February 5, 2001).
+(d)(4)     Employment Agreement by and among Paul T. Xenis, Guest Supply, Inc. and Sysco Corporation dated January
+           22, 2001, and related Waiver Agreement and Noncompetition Agreement (Incorporated by reference to
+           exhibit 99.7 to SYSCO's registration statement on Form S-4 filed on February 5, 2001).
+(d)(5)     Employment Agreement by and among R. Eugene Biber, Guest Supply, Inc. and Sysco Corporation dated
+           January 22, 2001, and related Waiver Agreement (Incorporated by reference to exhibit 99.8 to SYSCO's
+           registration statement on Form S-4 filed February 5, 2001).
+(d)(6)     Employment Agreement Amendment and Acknowledgement by and among Teri E. Unsworth, Guest Supply, Inc. and
+           Sysco Corporation (Incorporated by reference to exhibit 99.9 to SYSCO's registration statement on Form
+           S-4 filed February 5, 2001).
+(d)(7)     Amendment No. 2 dated January 22, 2001 to General Counsel Agreement between Guest Supply, Inc. and
+           Thomas M. Haythe (Incorporated by reference to exhibit 99.11 to SYSCO's registration statement on Form
+           S-4 filed February 5, 2001).
+
+                                   SIGNATURE
+
+     After due inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+Dated: February 2, 2001                 SYSCO FOOD SERVICES OF NEW JERSEY, INC.
+
+                                        By:      /s/ MICHAEL C. NICHOLS
+                                           -------------------------------------
+                                           Name: Michael C. Nichols
+                                           Title:  President
+
+                                        SYSCO CORPORATION
+
+                                        By:  /s/ JOHN K. STUBBLEFIELD, JR.
+                                           -------------------------------------
+                                           Name: John K. Stubblefield, Jr.
+                                           Title:  Executive Vice President,
+                                               Finance and Administration
+
+-----END PRIVACY-ENHANCED MESSAGE-----

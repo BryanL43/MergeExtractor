@@ -2,9 +2,7 @@ import pandas as pd
 from dotenv import load_dotenv
 import os
 import spacy
-import torch
 from concurrent.futures import ThreadPoolExecutor
-import sys
 
 from BackupAssistant import BackupAssistant
 from AnalysisAssistant import AnalysisAssistant
@@ -24,11 +22,6 @@ def main():
     openai_api_key = os.getenv("OPENAI_API_KEY");
     if not openai_api_key:
         raise RuntimeError("OPENAI_API_KEY not found in .env file.");
-
-    # Load spaCy model
-    if torch.cuda.is_available():
-        print("spaCy is using GPU.");
-        spacy.prefer_gpu();
 
     nlp = spacy.load("en_core_web_sm");
 
@@ -73,12 +66,22 @@ def main():
     
     backup_assistant = BackupAssistant(openai_api_key, "Backup Assistant", "gpt-4o-mini");
 
-    crawler = Crawler(filed_date, company_A_list, company_B_list, start_phrases, thread_pool, nlp, backup_assistant);
-    crawler.runCrawler(index=0);
+    # crawler = Crawler(filed_date, company_A_list, company_B_list, start_phrases, thread_pool, nlp, backup_assistant);
+    # crawler.runCrawler(index=0);
+    # crawler.runCrawler(start_index=0, end_index=9, date_margin=4);
 
-    # analysisAssistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
+    analysisAssistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
+
+    initiatorClassifier = InitiatorClassifier(openai_api_key, company_A_list, company_B_list, start_phrases, thread_pool, nlp, analysisAssistant);
+    # initiatorClassifier.findInitiator(index=0);
+    initiatorClassifier.findInitiator(start_index=2, end_index=9);
 
     thread_pool.shutdown(wait=True);
+
+    if DELETE_ASSISTANT_MODE:
+        print("Delete mode");
+        # filterAssistant.deleteAssistant();
+        # analystAssistant.deleteAssistant();
 
 
 if __name__ == "__main__":

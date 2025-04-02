@@ -1,0 +1,483 @@
+URL: https://www.sec.gov/Archives/edgar/data/50863/000089161801500099/0000891618-01-500099.txt
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Jx0zVAP3G00nlgATGGdgD6xQizS/L8DRHZ8EXCLIN35akUt/9zUZYI2q4u8mi+qQ
+ RtK98LmoDn/o6aP00TG8eg==
+
+0000891618-01-500099.txt : 20010307
+
+0000891618-01-500099.hdr.sgml : 20010307
+ACCESSION NUMBER:		0000891618-01-500099
+CONFORMED SUBMISSION TYPE:	SC TO-T/A
+PUBLIC DOCUMENT COUNT:		3
+FILED AS OF DATE:		20010301
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			XIRCOM INC
+		CENTRAL INDEX KEY:			0000883905
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		IRS NUMBER:				954221884
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-T/A
+		SEC ACT:		
+		SEC FILE NUMBER:	005-42620
+		FILM NUMBER:		1559628
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2300 CORPORATE CENTER DR
+		CITY:			THOUSAND OAKS
+		STATE:			CA
+		ZIP:			91320-1420
+		BUSINESS PHONE:		8053769300
+
+	MAIL ADDRESS:	
+		STREET 1:		2300 CORPORATE CENTER DRIVE
+		CITY:			THOUSAND OAKS
+		STATE:			CA
+		ZIP:			91320-1420
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INTEL CORP
+		CENTRAL INDEX KEY:			0000050863
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				941672743
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-T/A
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052
+		BUSINESS PHONE:		4087658080
+
+	MAIL ADDRESS:	
+		STREET 1:		2200 MISSION COLLEGE BLVD
+		STREET 2:		RN6-27
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95052-8119
+
+SC TO-T/A
+
+f68556a2scto-ta.txt
+
+AMENDMENT NO.2 TO SCHEDULE TO
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+
+                                  SCHEDULE TO
+
+                                 (RULE 14D-100)
+
+          TENDER OFFER STATEMENT UNDER SECTION 14(D) (1) OR 13(E) (1)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                               (AMENDMENT NO. 2)
+
+                                  XIRCOM, INC.
+                       (NAME OF SUBJECT COMPANY (ISSUER))
+
+                          ESR ACQUISITION CORPORATION
+                                   (OFFEROR)
+                      A DIRECT WHOLLY-OWNED SUBSIDIARY OF
+
+                               INTEL CORPORATION
+                            (NAMES OF FILING PERSONS
+            (IDENTIFYING STATUS AS OFFEROR, ISSUER OR OTHER PERSON))
+
+                    COMMON STOCK, PAR VALUE $0.001 PER SHARE
+                         (TITLE OF CLASS OF SECURITIES)
+
+                     (CUSIP NUMBER OF CLASS OF SECURITIES)
+
+                             F. THOMAS DUNLAP, JR.
+              SENIOR VICE PRESIDENT, GENERAL COUNSEL AND SECRETARY
+                               INTEL CORPORATION
+                           2200 MISSION COLLEGE BLVD.
+                       SANTA CLARA, CALIFORNIA 95052-8119
+                                 (408) 765-8080
+
+                                    COPY TO:
+
+                            RICHARD S. MILLARD, ESQ.
+                           WEIL, GOTSHAL & MANGES LLP
+                         2882 SAND HILL ROAD, SUITE 280
+                          MENLO PARK, CALIFORNIA 94025
+                                 (650) 926-6200
+                 (NAME, ADDRESS AND TELEPHONE NUMBERS OF PERSON
+ AUTHORIZED TO RECEIVE NOTICES AND COMMUNICATIONS ON BEHALF OF FILING PERSONS)
+
+                           CALCULATION OF FILING FEE
+
+- -------------------------------------------------------------------------------------------------------
+- -------------------------------------------------------------------------------------------------------
+              TRANSACTION VALUATION*                               AMOUNT OF FILING FEE
+- -------------------------------------------------------------------------------------------------------
+                   $701,317,550                                          $140,264
+- -------------------------------------------------------------------------------------------------------
+- -------------------------------------------------------------------------------------------------------
+
+* Estimated for purposes of calculating the amount of the filing fee only. The
+  amount assumes the purchase of 29,921,232 shares of common stock, par value
+  $0.001 per share (the "Common Stock"), of Xircom, Inc. outstanding as of
+  January 12, 2001 (less 1,868,530 shares of Common Stock owned by the parent
+  corporation of the Offeror), at a price per share of $25.00 in cash. The
+  amount of the filing fee, calculated in accordance with Rule 0-11 of the
+  Securities Exchange Act of 1934, as amended, equals 1/50 of 1% of the
+  transaction value.
+
+[X]  Check the box if any part of the fee is offset as provided by Rule
+     0-11(a)(2) and identify the filing with which the offsetting fee was
+     previously paid. Identify the previous filing by registration statement
+     number, or the Form or Schedule and the date of its filing.
+
+Amount Previously Paid:    $140,264                           Filing Party:  Intel Corporation
+Form or Registration No.:  Schedule TO - T                    Date Filed:    January 29, 2001
+
+[ ]  Check the box if the filing relates solely to preliminary communications
+     made before the commencement of a tender offer:
+
+     Check the appropriate boxes below to designate any transactions to which
+     the statement relates:
+
+     [X]  third-party tender offer subject to Rule 14d-1.
+
+     [ ]  issuer tender offer subject to Rule 13e-4.
+
+     [ ]  going-private transaction subject to Rule 13e-3.
+
+     [ ]  amendment to Schedule 13D under Rule 13d-2.
+
+          Check the following box if the filing is a final amendment reporting
+          the results of the tender offer:  [ ]
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                         AMENDMENT NO. 2 TO SCHEDULE TO
+
+     This Amendment No. 2 amends and supplements the Tender Offer Statement on
+Schedule TO ("Schedule TO") filed with the SEC on January 29, 2001, as amended
+and supplemented by Amendment No. 1 filed with the SEC on February 8, 2001,
+relating to the offer by ESR Acquisition Corporation, a Delaware corporation
+("Purchaser") and direct wholly-owned subsidiary of Intel Corporation, a
+Delaware corporation ("Intel"), to purchase all of the outstanding shares (the
+"Shares") of common stock, par value $0.001 per share (the "Common Stock"), of
+Xircom, Inc., a California corporation (the "Company"), at a purchase price of
+$25 per Share, net to the seller in cash, without interest thereon, upon the
+terms and subject to the conditions set forth in the Offer to Purchase, dated
+January 29, 2001 (the "Offer to Purchase"), and in the related Letter of
+Transmittal (which, together with any supplements or amendments, collectively
+constitute the "Offer").
+
+ITEM 11.  ADDITIONAL INFORMATION.
+
+     Item 11 of the Schedule TO is hereby amended and supplemented by including
+the following:
+
+          Intel and Purchaser have obtained all necessary U.S. and German
+     antitrust clearances relating to the Offer.
+
+ITEM 12.  EXHIBITS.
+
+     EXHIBIT
+     NUMBER                             DESCRIPTION
+     -------                            -----------
+
+    (a)(1)(A)   Offer to Purchase, dated January 29, 2001.*
+    (a)(1)(B)   Letter of Transmittal.*
+    (a)(1)(C)   Notice of Guaranteed Delivery.*
+    (a)(1)(D)   Form of letter from D.F. King & Co., Inc. to Brokers,
+                Dealers, Commercial Banks, Trust Companies and Nominees.*
+    (a)(1)(E)   Form of letter to Clients for use by Brokers, Dealers,
+                Commercial Banks, Trust Companies and Nominees.*
+    (a)(1)(F)   Guidelines for Certification of Taxpayer Identification
+                Number on Substitute Form W-9.*
+    (a)(1)(G)   Joint Press Release issued by Intel Corporation and Xircom,
+                Inc. on January 15, 2001, announcing the intent of Purchaser
+                to commence the Offer (incorporated by reference to the
+                Schedule TO-C filed by Intel and Purchaser on January 16,
+                2001).
+    (a)(1)(H)   Summary Advertisement appearing in the Wall Street Journal
+                on January 29, 2001.*
+    (a)(1)(I)   Press Release issued by Intel Corporation on March 1, 2001,
+                announcing the clearance of certain regulatory
+                requirements.+
+    (a)(1)(J)   Q&A prepared by Intel Corporation on March 1, 2001.+
+    (b)         Not Applicable.
+    (d)(1)      Agreement and Plan of Merger, dated January 15, 2001, by and
+                among Intel Corporation, ESR Acquisition Corporation and
+                Xircom, Inc. (incorporated by reference to Amendment No. 2
+                to Intel's Schedule 13D filed on January 22, 2001).
+    (d)(2)      Stock Option Agreement, dated January 15, 2001, by and
+                between Intel Corporation and Xircom, Inc. (incorporated by
+                reference to Amendment No. 2 to Intel's Schedule 13D filed
+                on January 22, 2001).
+    (d)(3)      Tender and Voting Agreement, dated January 15, 2001, by and
+                among Intel Corporation, ESR Acquisition Corporation and
+                Dirk Gates.*
+    (d)(4)      Non-Competition Agreement, dated January 15, 2001, by and
+                among Intel, Xircom, Inc. and Dirk Gates.*
+    (d)(5)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Dirk Gates.*
+    (d)(6)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Sam Bass.*
+    (d)(7)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Steven DeGennaro.*
+
+     EXHIBIT
+     NUMBER                             DESCRIPTION
+     -------                            -----------
+
+    (d)(8)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Marc Devis.*
+    (d)(9)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Jeffery Tang.*
+    (d)(10)     Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Boguslaw Piekarski.*
+    (d)(11)     Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Mick Conley.*
+    (d)(12)     Corporate Non-Disclosure Agreement, dated August 1, 1991,
+                between Intel Corporation and Xircom, Inc.*
+    (d)(13)     Confidential Information Transmittal Record dated October
+                30, 2000.*
+    (d)(14)     Confidential Information Transmittal Record dated December
+                19, 2000.*
+    (d)(15)     Letter, dated January 26, 2001, among Intel Corporation, ESR
+                Acquisition Corporation and Xircom, Inc., extending the
+                initial expiration date of the Offer to March 2, 2001.*
+    (d)(16)     Investor Rights Agreement, dated February 28, 1997, between
+                Xircom, Inc. and Intel Corporation (incorporated by
+                reference to Intel's Schedule 13D filed on March 10, 1997).
+    (g)         Not applicable.
+    (h)         Not applicable.
+
+- ------------------------
+
+* Previously filed.
+
++ Filed herewith.
+
+                                   SIGNATURES
+
+     After due inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+                                          ESR ACQUISITION CORPORATION
+
+                                          By:      /s/ SUZAN A. MILLER
+                                            ------------------------------------
+                                          Name: Suzan A. Miller
+                                          Title:  President
+
+                                          INTEL CORPORATION
+
+                                          By:   /s/ F. THOMAS DUNLAP, JR.
+                                            ------------------------------------
+                                          Name: F. Thomas Dunlap, Jr.
+                                          Title:  Senior Vice President, General
+                                              Counsel and Secretary
+
+Dated: March 1, 2001
+
+                                 EXHIBIT INDEX
+
+     EXHIBIT
+     NUMBER                             DESCRIPTION
+     -------                            -----------
+
+    (a)(1)(A)   Offer to Purchase, dated January 29, 2001.*
+    (a)(1)(B)   Letter of Transmittal.*
+    (a)(1)(C)   Notice of Guaranteed Delivery.*
+    (a)(1)(D)   Form of letter from D.F. King & Co., Inc. to Brokers,
+                Dealers, Commercial Banks, Trust Companies and Nominees.*
+    (a)(1)(E)   Form of letter to Clients for use by Brokers, Dealers,
+                Commercial Banks, Trust Companies and Nominees.*
+    (a)(1)(F)   Guidelines for Certification of Taxpayer Identification
+                Number on Substitute Form W-9.*
+    (a)(1)(G)   Press Release issued by Intel Corporation and Xircom, Inc.
+                on January 15, 2001, announcing the intent of Purchaser to
+                commence of the Offer (incorporated by reference to the
+                Schedule TO-C filed by Intel and Purchaser on January 16,
+                2001).
+    (a)(1)(H)   Summary Advertisement appearing in the Wall Street Journal
+                on January 29, 2001.*
+    (a)(1)(I)   Press Release issued by Intel Corporation on March 1, 2001,
+                announcing the clearance of certain regulatory
+                requirements.+
+    (a)(1)(J)   Q&A prepared by Intel Corporation on March 1, 2001.+
+    (b)         Not Applicable.
+    (d)(1)      Agreement and Plan of Merger, dated January 15, 2001, by and
+                among Intel Corporation, ESR Acquisition Corporation and
+                Xircom, Inc. (incorporated by reference to Amendment No. 2
+                to Intel's Schedule 13D filed on January 22, 2001).
+    (d)(2)      Stock Option Agreement, dated January 15, 2001, by and
+                between Intel Corporation and Xircom, Inc. (incorporated by
+                reference to Amendment No. 2 to Intel's Schedule 13D filed
+                on January 22, 2001).
+    (d)(3)      Tender and Voting Agreement, dated January 15, 2001, by and
+                among Intel Corporation, ESR Acquisition Corporation and
+                Dirk Gates.*
+    (d)(4)      Non-Competition Agreement, dated January 15, 2001, by and
+                among Intel, Xircom, Inc. and Dirk Gates.*
+    (d)(5)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Dirk Gates.*
+    (d)(6)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Sam Bass.*
+    (d)(7)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Steven DeGennaro.*
+    (d)(8)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Marc Devis.*
+    (d)(9)      Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Jeffery Tang.*
+    (d)(10)     Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Boguslaw Piekarski.*
+    (d)(11)     Employment Agreement, dated January 15, 2001, between Intel
+                Corporation and Mick Conley.*
+    (d)(12)     Corporate Non-Disclosure Agreement, dated August 1, 1991,
+                between Intel Corporation and Xircom, Inc.*
+
+     EXHIBIT
+     NUMBER                             DESCRIPTION
+     -------                            -----------
+
+    (d)(13)     Confidential Information Transmittal Record dated October
+                30, 2000.*
+    (d)(14)     Confidential Information Transmittal Record dated December
+                19, 2000.*
+    (d)(15)     Letter, dated January 26, 2001, among Intel Corporation, ESR
+                Acquisition Corporation and Xircom, Inc., extending the
+                initial expiration date of the Offer to March 2, 2001.*
+    (d)(16)     Investor Rights Agreement, dated February 28, 1997, between
+                Xircom, Inc. and Intel Corporation (incorporated by
+                reference to Intel's Schedule 13D filed on March 10, 1997).
+    (g)         Not applicable.
+    (h)         Not applicable.
+
+- ------------------------
+
+* Previously filed.
+
++ Filed herewith.
+
+EX-99.(A)(1)(I)
+
+f68556a2ex99-a1i.txt
+
+EXHIBIT (A)(1)(I)
+
+                                                               Exhibit (a)(1)(I)
+
+INTEL CORPORATION
+2200 Mission College Blvd.
+P.O. Box 58119
+Santa Clara, CA
+95052-8119
+
+[Intel Logo]                                         News Release
+
+CONTACT: Tom Beermann                                Doug Lusk
+         Press Relations                             Investor Relations
+         (408) 765-6855                              (408) 765-1679
+         tom.beermann@intel.com                      doug.lusk@intel.com
+
+                       INTEL RECEIVES REGULATORY APPROVALS
+                         FOR ACQUISITION OF XIRCOM, INC.
+
+SANTA CLARA, Calif., March 1, 2001 - Intel Corporation today announced that all
+necessary U.S. and German antitrust clearances have been obtained regarding
+Intel's proposed acquisition of Xircom, Inc.
+
+     The tender offer for all of the outstanding shares of Xircom common stock
+by ESR Acquisition Corporation, a wholly-owned subsidiary of Intel, is scheduled
+to expire at 5 p.m. (EST) on Friday, March 2.
+
+     Intel, the world's largest chip maker, is also a leading manufacturer of
+computer, networking and communications products. Additional information about
+Intel is available at www.intel.com.
+
+                                      -30-
+
+EX-99.(A)(1)(J)
+
+f68556a2ex99-a1j.txt
+
+EXHIBIT (A)(1)(J)
+
+                                                               EXHIBIT (a)(1)(J)
+
+INTEL CONFIDENTIAL
+GOVERNMENT APPROVALS FOR XIRCOM ACQUISITION
+QUESTIONS AND ANSWERS
+PREPARED BY TOM BEERMANN
+MARCH 1, 2001
+
+BACKGROUND: On January 15, Intel announced a definitive agreement under which
+Intel, through a wholly owned subsidiary, would acquire Xircom, Inc., for $25
+per share in an all-cash tender offer valued at approximately $748 million. The
+acquisition complements Intel's existing desktop PC and server-based network
+access businesses by enabling Intel to provide new products for notebook and
+mobile computing uses.
+
+Intel has now received the necessary U.S. and German antitrust clearances in
+order to proceed with closing its acquisition of Xircom.
+
+KEY MESSAGE:
+
+- -- Intel has now received the necessary U.S. and German antitrust clearances in
+order to proceed with closing its acquisition of Xircom.
+
+QUESTIONS AND ANSWERS:
+
+Q1.  NOW THAT INTEL HAS RECEIVED THE NECESSARY GOVERNMENT CLEARANCES, HAS XIRCOM
+ALSO MET THE FINANCIAL CONDITIONS NECESSARY TO CLOSE THE AGREEMENT?
+A1.  Under terms of the agreement, Xircom is required to meet certain financial
+closing conditions through the close of the tender offer. Please refer to the
+Offer materials for more information on the tender offer.
+
+Q2.  WHEN DOES THE TENDER OFFER CLOSE?
+A2.  The tender offer is scheduled to expire Friday, March 2 at 5 p.m. EST.
+
+Q3.  HOW WILL WE KNOW IF THE FINANCIAL CONDITIONS HAVE BEEN MET AT THAT TIME?
+A3.  We plan to announce the results of the tender offer by 9 a.m. EST Monday,
+March 5th.
+
+Q4.  WHAT ARE THE FINANCIAL CONDITIONS?
+A4.  All of the various closing conditions are contained in the Offer materials.
+All shareholders are urged to read this information.
+
+Q5.  WHAT ARE THE OTHER TERMS AND CONDITIONS OF THE AGREEMENT?
+A5.  Please read the Offer materials for more information on the various closing
+conditions.
+
+Q6.  HOW DO I TENDER MY SHARES?
+A6.  For further information, please contact D.F. King at 1-800-628-8528.
+
+Q7.  WHAT HAPPENS IF XIRCOM DOESN'T MEET THE FINANCIAL CONDITIONS OUTLINED IN
+THE ACQUISITION AGREEMENT?
+A7.  Information regarding the tender offer conditions are contained in the
+Offer materials.
+
+                                    # # # # #
+
+-----END PRIVACY-ENHANCED MESSAGE-----

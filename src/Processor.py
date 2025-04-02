@@ -29,7 +29,7 @@ class Processor:
             self, 
             assistant: BackupAssistant, 
             nlp: Language, 
-            start_phrases: list, 
+            start_phrases: list[str], 
             thread_pool: ThreadPoolExecutor
         ):
 
@@ -37,8 +37,6 @@ class Processor:
         self.nlp = nlp;
         self.start_phrases = start_phrases;
         self.thread_pool = thread_pool;
-    
-        print("Successfully initialized Processor");
 
     def __extract_all_but_last_word(self, company_name: str) -> str:
         """
@@ -182,12 +180,12 @@ class Processor:
         # Clean and truncate text
         cleaned_text = self.__preprocess_text(raw_text);
         cleaned_text = self.__normalize_text(cleaned_text);
-        cleaned_text = cleaned_text[1000:450000]; # Reduce data load
+        cleaned_text = cleaned_text[:450000]; # Reduce data load
 
         # Truncate to header to validate that we have the correct document
-        lower_text = cleaned_text.lower()[:10000];
+        lower_text = cleaned_text.lower()[:11000];
 
-        # Check if both company names are present as whole words
+        # Check if both company names are present in the document headers
         found_companies = [name for name in company_names if re.search(r'\b' + re.escape(name) + r'\b', lower_text)];
         
         # Return the cleanedText if both company names are found, else False
@@ -298,8 +296,8 @@ class Processor:
                 The document url that contains the 'Background of the Merger' section.
         """
         try:
-            approx_indices = ChunkProcessor.locateBackgroundChunk(doc.getContent(), start_phrases, nlp_model);
-            if len(approx_indices) > 0:
+            _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), start_phrases, nlp_model);
+            if len(approx_chunks) > 0:
                 if found_data.value: # Prevent race condition
                     return None;
             
@@ -318,7 +316,6 @@ class Processor:
                         Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {company_names[0]} & {company_names[1]}");
                         return doc.getUrl();
         except Exception as e:
-            print(type(e))
             Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {doc.getUrl()}: {e}");
         
         return None;
@@ -346,9 +343,20 @@ class Processor:
         # Extract nlp model name as multi-processing requires a seperate instaniation
         nlp_model = self.nlp.meta["lang"] + "_" + self.nlp.meta["name"];
 
+        # Handle processing with and without multi-processing
         with Manager() as manager:
             found_data = manager.Value("b", False); # Shared boolean to only allow 1 final result
             lock = manager.Lock();
+
+            # If only one document, process it directly without multiprocessing
+            if len(documents) == 1:
+                try:
+                    return Processor.process_document(
+                        documents[0], company_names, main_index, start_phrases, found_data, nlp_model, lock
+                    );
+                except Exception as e:
+                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {documents[0].getUrl()}: {e}");
+                    return None;
 
             # Locate valid document with the 'Background of the Merger' section via multi-processing
             with ProcessPoolExecutor() as executor:
