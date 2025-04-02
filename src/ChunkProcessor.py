@@ -1,5 +1,5 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, ALL_COMPLETED, wait, as_completed
 from spacy.language import Language
 import re
 from fuzzywuzzy import fuzz
@@ -9,14 +9,17 @@ from openai import OpenAI
 import json
 import torch
 
+from Logger import Logger
+
 QUERY_EMBEDDING_FILE = "./config/query_embedding.json";
 
 class ChunkProcessor:
     nlp: Language = None;
 
-    def __init__(self, nlp: Language, client: OpenAI):
+    def __init__(self, nlp: Language, client: OpenAI, thread_pool: ThreadPoolExecutor):
         ChunkProcessor.nlp = nlp;
         self.client = client;
+        self.thread_pool = thread_pool;
     
     @staticmethod
     def extract_chunks_with_dates(
@@ -282,18 +285,29 @@ class ChunkProcessor:
             chunks: list[str], 
             approx_chunks: list[tuple[int, str]], 
             start_phrases: list[str],
-            company_names: list[str],
-            thread_pool: ThreadPoolExecutor
+            company_names: list[str]
         ):
         # Load query embeddings
         with open(QUERY_EMBEDDING_FILE, "r") as f:
             query_embedding = torch.tensor(json.load(f), dtype=torch.float32);
+        
+        # Create multiple threads to embed each chunk in parallel
+        futures = {
+            self.thread_pool.submit(self.__get_embedding, chunk):
+            chunk for _, chunk in approx_chunks
+        };
 
-        # Compute chunk embeddings
-        with thread_pool as executor:
-            chunk_embeddings = list(
-                executor.map(self.__get_embedding, [chunk for _, chunk in approx_chunks])
-            );
+        # Ensure all futures are completed before proceeding
+        wait([future for future in futures], return_when=ALL_COMPLETED);
+
+        # Compile the embeddings from the futures
+        chunk_embeddings = [];
+        for future in as_completed(futures):
+            try:
+                embeddings = future.result();
+                chunk_embeddings.append(embeddings);
+            except Exception as e:
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error retrieving embeddings: {e}");
 
         # Stack embeddings into a tensor
         chunk_embeddings = torch.stack(chunk_embeddings);

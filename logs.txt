@@ -8,4 +8,3 @@
 [2025-04-02 00:56:04] [+] Successfully created document for: Guest Supply Inc & Sysco Corp
 [2025-04-02 00:57:12] [+] Successfully created document for: Pontotoc Production Inc & Ascent Energy Inc
 [2025-04-02 00:57:56] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
-[2025-04-02 00:58:52] [-] Error: cannot schedule new futures after shutdown

@@ -31,7 +31,7 @@ class InitiatorClassifier:
         self.assistant = assistant;
     
         # Instantiate the ChunkProcessor to locate relevant chunk
-        self._chunk_processor = ChunkProcessor(self.nlp, self.client);
+        self._chunk_processor = ChunkProcessor(self.nlp, self.client, self.thread_pool);
     
     def __write_result(self, main_index: int, result: dict):
         file_exists = os.path.isfile("outputUnion.csv");
@@ -95,7 +95,7 @@ class InitiatorClassifier:
                     print("FATAL: Failed to locate a background chunk for index: ", main_index, "; Companies: ", self.company_A_list[main_index], " & ", self.company_B_list[main_index]);
                     sys.exit(1);
                 
-                section_passage = self._chunk_processor.getSectionPassage(chunks, approx_chunks, self.start_phrases, company_names, self.thread_pool);
+                section_passage = self._chunk_processor.getSectionPassage(chunks, approx_chunks, self.start_phrases, company_names);
                 if section_passage is None:
                     print("FATAL: Failed to acquire a section passage for index: ", main_index, "; Companies: ", self.company_A_list[main_index], " & ", self.company_B_list[main_index]);
                     sys.exit(1);
