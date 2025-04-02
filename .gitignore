@@ -174,3 +174,4 @@ cython_debug/
 MergeExtractorEnv/
 
 assistantData.json
+merge_extractor_temp/

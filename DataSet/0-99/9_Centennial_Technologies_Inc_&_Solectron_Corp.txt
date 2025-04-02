@@ -1,6 +1,42 @@
-URL: https://www.sec.gov/Archives/edgar/data/835541/000095014901500291/0000950149-01-500291.txt
+URL: https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
 
-ITAS
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JMatUF9DqQVD4XP3GUSpzTxGRhjfxrkwP6YZWZIlbb8h/WJf8O4R5zT8WKWOdaQ1
+ 9nTT1ueXXoCRbxGY379NAg==
+
+0000950149-01-500102.txt : 20010228
+
+0000950149-01-500102.hdr.sgml : 20010228
+ACCESSION NUMBER:		0000950149-01-500102
+CONFORMED SUBMISSION TYPE:	S-4
+PUBLIC DOCUMENT COUNT:		9
+FILED AS OF DATE:		20010226
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOLECTRON CORP
+		CENTRAL INDEX KEY:			0000835541
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRINTED CIRCUIT BOARDS [3672]
+		IRS NUMBER:				942447045
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		S-4
+		SEC ACT:		
+		SEC FILE NUMBER:	333-56220
+		FILM NUMBER:		1554617
+
+	BUSINESS ADDRESS:	
+		STREET 1:		777 GIBRALTAR DR
+		CITY:			MILPITAS
 		STATE:			CA
 		ZIP:			95035
 		BUSINESS PHONE:		4089578500
@@ -11,26 +47,20 @@ ITAS
 		STATE:			CA
 		ZIP:			95035
 
-S-4/A
+S-4
 
-f68809a1s-4a.txt
+f68809s-4.txt
 
-AMENDMENT NO. 1 TO REGISTRATION STATEMENT
+FORM S-4 FOR SOLECTRON CORPORATION
 
-          AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON MARCH 22, 2001
-
-                                                      REGISTRATION NO. 333-56220
-
+       AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON FEBRUARY 26, 2001
+                                                     REGISTRATION NO. 333-
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
                        SECURITIES AND EXCHANGE COMMISSION
                              WASHINGTON, D.C. 20549
                             ------------------------
-
-                                AMENDMENT NO. 1
-
-                                       TO
 
                                     FORM S-4
                              REGISTRATION STATEMENT
@@ -79,21 +109,47 @@ AMENDMENT NO. 1 TO REGISTRATION STATEMENT
      Approximate date of commencement of proposed sale to the public: Upon
 consummation of the merger described herein.
 
-     If the securities being registered on this form are being offered in
+    If the securities being registered on this form are being offered in
 connection with the formation of a holding company and there is compliance with
 General Instruction G, check the following box.  [ ]
 
-     If this form is filed to register additional securities for an offering
+    If this form is filed to register additional securities for an offering
 pursuant to Rule 462(b) under the Securities Act, check the following box and
 list the Securities Act registration statement number of the earlier effective
 registration statement number for the same offering.  [ ] ________
 
-     If this form is a post-effective amendment filed pursuant to Rule 462(d)
+    If this form is a post-effective amendment filed pursuant to Rule 462(d)
 under the Securities Act, check the following box and list the Securities Act
 registration statement number of the earlier effective registration statement
 for the same offering.  [ ] ________
 
-     THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR
+                        CALCULATION OF REGISTRATION FEE
+
+- ------------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------------
+    TITLE OF EACH CLASS OF                                 PROPOSED MAXIMUM        PROPOSED MAXIMUM
+          SECURITIES                 AMOUNT TO BE         OFFERING PRICE PER      AGGREGATE OFFERING          AMOUNT OF
+       TO BE REGISTERED             REGISTERED(1)              SHARE(2)                PRICE(2)            REGISTRATION FEE
+- ------------------------------------------------------------------------------------------------------------------------------
+Common Stock, par value $0.001
+  per share...................        2,960,000                 $15.78               $85,550,986               $21,388
+- ------------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------------
+
+(1) Based upon the estimated maximum number of shares of common stock, par value
+    $0.001 per share, of the registrant that may be issued pursuant to the
+    merger.
+
+(2) Estimated solely for purposes of calculating the registration fee required
+    by the Securities Act of 1933, as amended, and computed pursuant to Rules
+    457(f) and (c) under the Securities Act based on (i) $15.78, the average of
+    the high and low per share prices of common stock, par value $0.01 per
+    share, of Centennial Technologies, Inc. ("Centennial common stock") as
+    reported on the Nasdaq National Market on February 23, 2001 and (ii) the
+    maximum number of shares of Centennial common stock to be received by the
+    registrant or canceled pursuant to the merger.
+
+    THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR
 DATES AS MAY BE NECESSARY TO DELAY ITS EFFECTIVE DATE UNTIL THE REGISTRANT SHALL
 FILE A FURTHER AMENDMENT WHICH SPECIFICALLY STATES THAT THIS REGISTRATION
 STATEMENT SHALL THEREAFTER BECOME EFFECTIVE IN ACCORDANCE WITH SECTION 8(a) OF
@@ -108,17 +164,19 @@ PURSUANT TO SAID SECTION 8(a), MAY DETERMINE.
                                   7 LOPEZ ROAD
                         WILMINGTON, MASSACHUSETTS 01887
 
+                                    -, 2001
+
 Dear Stockholders:
 
     You are cordially invited to attend the special meeting of stockholders of
-Centennial Technologies, Inc. to be held at 9:30 a.m., local time, on April 30,
-2001 at the Conference Center of Goodwin Procter LLP, located on the second
-floor at Exchange Place, Boston, Massachusetts 02109-2881. At the special
-meeting you will be asked to consider and vote upon a proposal to adopt and
-approve an Agreement and Plan of Merger and Reorganization, dated as of January
-22, 2001, pursuant to which Centers Acquisition Corporation, a wholly owned
-subsidiary of Solectron Corporation, will be merged with and into Centennial and
-Centennial will become a wholly-owned subsidiary of Solectron.
+Centennial Technologies, Inc. to be held at -, local time, on - at the offices
+of Goodwin Procter LLP, located at Exchange Place, Boston, Massachusetts
+02109-2881. At the special meeting you will be asked to consider and vote upon a
+proposal to adopt and approve an Agreement and Plan of Merger and
+Reorganization, dated as of January 22, 2001, pursuant to which Centers
+Acquisition Corporation, a wholly owned subsidiary of Solectron Corporation,
+will be merged with and into Centennial and Centennial will become a
+wholly-owned subsidiary of Solectron.
 
     If the merger agreement is adopted and approved, and the merger is
 subsequently completed, each outstanding share of Centennial common stock will
@@ -136,17 +194,17 @@ of a share of Solectron common stock. In the event that none of the outstanding
 shares of Centennial series B convertible preferred stock are converted into
 Centennial common stock prior to the completion of the merger, and assuming that
 the average closing price of Solectron common stock during the five trading day
-period ending on the trading day prior to the completion of the merger is $18.92
+period ending on the trading day prior to the completion of the merger is $29.50
 (i.e., the market price of Solectron common stock on the day prior to the date
 of this document), each share of Centennial common stock would be exchanged for
-approximately 0.550 of a share of Solectron common stock. These exchange ratios
+approximately 0.569 of a share of Solectron common stock. These exchange ratios
 are estimates, however, and may change at the completion of the merger. You will
 receive cash, without interest, rather than a fractional share of Solectron
 common stock that you otherwise would be entitled to receive in the merger.
 
     Solectron common stock is traded on the New York Stock Exchange under the
-trading symbol "SLR," and on March 21, 2001, the closing price of Solectron
-common stock was $18.92 per share.
+trading symbol "SLR," and on February 23, 2001, the closing price of Solectron
+common stock was $29.50 per share.
 
     Before we can complete the merger, at the special meeting of Centennial
 stockholders at which the merger agreement is considered and voted upon, the
@@ -159,8 +217,8 @@ holders of Centennial's series B convertible preferred stock are entitled to one
 vote for each share of common stock which would be issuable upon conversion of
 the series B convertible preferred stock (currently 10 votes per share). Only
 stockholders who hold shares of Centennial common stock or series B convertible
-preferred stock at the close of business on March 19, 2001 will be entitled to
-vote at the special meeting.
+preferred stock at the close of business on -, 2001 will be entitled to vote at
+the special meeting.
 
     YOUR BOARD OF DIRECTORS HAS CAREFULLY CONSIDERED THE TERMS AND CONDITIONS OF
 THE MERGER AND HAS UNANIMOUSLY DETERMINED THAT THE MERGER IS ADVISABLE, IN THE
@@ -201,8 +259,8 @@ COMMISSION HAS APPROVED OR DISAPPROVED OF THE MERGER OR THE SHARES OF SOLECTRON
 COMMON STOCK TO BE ISSUED IN THE MERGER, OR DETERMINED IF THIS DOCUMENT IS
 ACCURATE OR ADEQUATE. ANY REPRESENTATION TO THE CONTRARY IS UNLAWFUL.
 
-    This document is dated March 22, 2001 and was first mailed to Centennial
-stockholders on or about March 27, 2001.
+    This document is dated -, 2001 and was first mailed to Centennial
+stockholders on or about -, 2001.
 
                          CENTENNIAL TECHNOLOGIES, INC.
                                   7 LOPEZ ROAD
@@ -211,17 +269,15 @@ stockholders on or about March 27, 2001.
                            -------------------------
 
                    NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
-
-                          TO BE HELD ON APRIL 30, 2001
-
+                             TO BE HELD ON -, 2001
                            -------------------------
 
 To the Stockholders of Centennial Technologies, Inc.:
 
      A special meeting of stockholders of Centennial Technologies, Inc. will be
-held on April 30, 2001, at 9:30 a.m., local time, at the Conference Center of
-Goodwin Procter LLP, located on the second floor at Exchange Place, Boston,
-Massachusetts 02109-2881, for the following purposes:
+held on -, 2001, at -, local time, at the offices of Goodwin Procter LLP,
+located at Exchange Place, Boston, Massachusetts 02109-2881, for the following
+purposes:
 
      1. To consider and vote on a proposal to adopt and approve the Agreement
         and Plan of Merger and Reorganization, dated as of January 22, 2001, by
@@ -235,9 +291,9 @@ Massachusetts 02109-2881, for the following purposes:
         meeting and any adjournment or postponement of the special meeting.
 
      All stockholders are invited to attend the special meeting. Stockholders of
-record at the close of business on March 19, 2001, the record date fixed by the
-Board of Directors, are entitled to notice of and to vote at the special meeting
-or any adjournment or postponement thereof. Holders of common stock and series B
+record at the close of business on -, 2001, the record date fixed by the Board
+of Directors, are entitled to notice of and to vote at the special meeting or
+any adjournment or postponement thereof. Holders of common stock and series B
 convertible preferred stock (on the basis of one vote for each share of common
 stock which would be issuable upon conversion of the series B convertible
 preferred stock) as of the record date will have the right to vote on the above
@@ -257,14 +313,13 @@ MAY VOTE THEIR STOCK PERSONALLY EVEN THOUGH THEY HAVE SENT THEIR PROXIES.
 
                                           BY ORDER OF THE BOARD OF DIRECTORS
 
-                                          /s/ Richard J. Pulsifer
+                                          LOGO
                                           Richard J. Pulsifer
                                           Vice President, Chief Financial
                                           Officer and Secretary
 
 Wilmington, Massachusetts
-
-March 22, 2001
+- -, 2001
 
      PLEASE DO NOT SEND YOUR STOCK CERTIFICATES AT THIS TIME. IF THE MERGER IS
 COMPLETED, YOU WILL BE SENT INSTRUCTIONS REGARDING THE SURRENDER OF YOUR STOCK
@@ -284,8 +339,8 @@ following addresses and telephone numbers:
           Milpitas, California 95035                  Wilmington, Massachusetts 01887
                 (408) 957-8500                                 (978) 988-8848
 
-     IF YOU WOULD LIKE TO REQUEST DOCUMENTS, YOU MUST DO SO BY APRIL 23, 2001 IN
-ORDER TO RECEIVE THEM BEFORE THE SPECIAL MEETING.
+     IF YOU WOULD LIKE TO REQUEST DOCUMENTS, YOU MUST DO SO BY -, 2001 IN ORDER
+TO RECEIVE THEM BEFORE THE SPECIAL MEETING.
 
      For additional information regarding where you can find information about
 Solectron and Centennial, please see the section entitled "Where You Can Find
@@ -367,12 +422,12 @@ The Merger and Related Transactions.........................   37
      Definition of Material Adverse Effect..................   65
      Expenses...............................................   65
   Material United States Federal Income Tax Consequences of
-     the Merger.............................................   65
+     the Merger.............................................   66
   Accounting Treatment of the Merger........................   67
   Regulatory Filings and Approvals Required to Complete the
      Merger.................................................   67
   Restrictions on Sales of Solectron Common Stock by
-     Affiliates of Centennial...............................   67
+     Affiliates of Centennial...............................   68
   Listing on the New York Stock Exchange of Solectron Common
      Stock to be Issued in the Merger.......................   68
   Delisting and Deregistration of Centennial Common Stock
@@ -420,7 +475,7 @@ A -- Agreement and Plan of Merger and Reorganization........  A-1
 B -- Form of Voting Agreement...............................  B-1
 C -- Opinion of H.C. Wainwright & Co., Inc..................  C-1
 
-                                       (ii)
+                                      (ii)
 
                      QUESTIONS AND ANSWERS ABOUT THE MERGER
 
@@ -462,9 +517,9 @@ A:  Each outstanding share of Centennial common stock will be converted into the
     stock are converted into Centennial common stock prior to the completion of
     the merger, and assuming that the average closing price of Solectron common
     stock during the five trading day period ending on the trading day prior to
-    the completion of the merger is $18.92 (i.e., the market price of Solectron
+    the completion of the merger is $29.50 (i.e., the market price of Solectron
     common stock on the day prior to the date of this document), each share of
-    Centennial common stock would be exchanged for approximately 0.550 of a
+    Centennial common stock would be exchanged for approximately 0.569 of a
     share of Solectron common stock. These exchange ratios are estimates,
     however, and may change at the completion of the merger. Solectron will not
     issue fractional shares in connection with the merger. You will receive
@@ -482,7 +537,7 @@ A:  Options to purchase shares of Centennial common stock will be assumed by
     stock in connection with the merger.
 
 Q:  WILL CENTENNIAL STOCKHOLDERS BE ABLE TO TRADE THE SOLECTRON COMMON STOCK
-    THAT THEY RECEIVE IN THE MERGER? (SEE PAGE 67)
+    THAT THEY RECEIVE IN THE MERGER? (SEE PAGE 68)
 
 A:  Yes. The Solectron common stock will be listed on the New York Stock
     Exchange under the symbol "SLR." Persons who are deemed to be an affiliate
@@ -492,19 +547,15 @@ A:  Yes. The Solectron common stock will be listed on the New York Stock
     otherwise transfer the shares of Solectron common stock they receive in the
     merger.
 
-Q:  WHEN DO SOLECTRON AND CENTENNIAL EXPECT TO COMPLETE THE MERGER?
+Q:  WHEN DO YOU EXPECT TO COMPLETE THE MERGER?
 
-A:  Solectron and Centennial expect to complete the merger when all of the
-    conditions to completion of the merger contained in the merger agreement
-    have been satisfied or waived. Solectron and Centennial are working toward
-    satisfying these conditions and completing the merger as quickly as
-    possible. Solectron and Centennial currently plan to complete the merger on
-    April 30, 2001 following the special meeting of Centennial stockholders,
-    assuming the Centennial stockholders approve the merger and the merger
-    agreement and the other merger conditions are satisfied. However, because
-    the merger is subject to governmental and regulatory approvals and other
-    conditions, some of which are beyond Solectron's and Centennial's control,
-    the exact timing cannot be predicted.
+A:  We will complete the merger when all of the conditions to completion of the
+    merger contained in the merger agreement have been satisfied or waived. We
+    are working toward satisfying these conditions and completing the merger as
+    quickly as possible. We currently plan to complete the merger during the
+    second calendar quarter of 2001. However, because the merger is subject to
+    governmental and regulatory approvals and other conditions, some of which
+    are beyond our control, we cannot predict the exact timing.
 
 Q:  WHAT HAPPENS IF THE MERGER IS NOT COMPLETED? (SEE PAGE 64)
 
@@ -575,8 +626,7 @@ A:  If you are a registered stockholder (that is, if you hold your stock in
     contact your broker or nominee to determine whether you will be able to vote
     by telephone or electronically.
 
-    The deadline for voting by telephone or electronically is 11:59 p.m. Boston
-    time on April 29, 2001.
+    The deadline for voting by telephone or electronically is - on -.
 
 Q:  IF MY BROKER HOLDS MY SHARES IN "STREET NAME," WILL MY BROKER VOTE MY SHARES
     FOR ME? (SEE PAGE 35)
@@ -593,8 +643,8 @@ A:  No. Your broker will not be able to vote your shares without instructions
 
 Q:  SHOULD I SEND MY STOCK CERTIFICATES NOW? (SEE PAGE 55)
 
-A:  No. If the merger is completed, Solectron will send you written instructions
-    for exchanging your Centennial stock certificates for Solectron stock
+A:  No. If the merger is completed, we will send you written instructions for
+    exchanging your Centennial stock certificates for Solectron stock
     certificates. In the meantime, you should retain your certificates as the
     Centennial stock certificates are still valid. Please do not send in your
     stock certificates with your proxy.
@@ -603,12 +653,13 @@ Q:  AM I ENTITLED TO APPRAISAL RIGHTS? (SEE PAGE 35)
 
 A:  No. Under applicable law, you are not entitled to dissenters or appraisal
     rights in connection with the merger.
+
 Q:  ARE THERE RISKS I SHOULD CONSIDER IN DECIDING WHETHER TO VOTE FOR THE
     MERGER?
 
 A:  Yes. In the section entitled "Risk Factors" beginning on page 17 of this
-    document, Centennial and Solectron have described a number of risk factors
-    that you should consider in connection with the merger.
+    document, we have described a number of risk factors that you should
+    consider in connection with the merger.
 
 Q:  WHO CAN HELP ANSWER MY QUESTIONS ABOUT THE MERGER?
 
@@ -731,9 +782,8 @@ Centennial common stock will be entitled to one vote per share and each share of
 series B convertible preferred stock will be entitled to 10 votes per share. As
 a result, you will be entitled to cast one vote per share of Centennial common
 stock and 10 votes per share of Centennial series B convertible preferred stock
-you owned as of March 19, 2001, the record date for the Centennial special
-meeting at which the merger agreement and the merger will be presented and voted
-upon.
+you owned as of -, 2001, the record date for the Centennial special meeting at
+which the merger agreement and the merger will be presented and voted upon.
 
      Solectron stockholders are not required to vote on the merger agreement or
 the merger.
@@ -864,10 +914,10 @@ Solectron common stock. In the event that none of the outstanding shares of
 Centennial series B convertible preferred stock are converted into Centennial
 common stock prior to the completion of the merger, and assuming that the
 average closing price of Solectron common stock during the five trading day
-period ending on the trading day prior to the completion of the merger is $18.92
+period ending on the trading day prior to the completion of the merger is $29.50
 (i.e., the market price of Solectron common stock on the day prior to the date
 of this document), each share of Centennial common stock would be exchanged for
-approximately 0.550 of a share of Solectron common stock. These exchange ratios
+approximately 0.569 of a share of Solectron common stock. These exchange ratios
 are estimates, however, and may change at the completion of the merger.
 
      At the completion of the merger, former holders of Centennial common stock
@@ -885,22 +935,18 @@ for Centennial common stock used in the merger.
 
 COMPLETION AND EFFECTIVENESS OF THE MERGER (SEE PAGE 53)
 
-     Solectron and Centennial expect to complete the merger when all of the
-conditions to completion of the merger contained in the merger agreement have
-been satisfied or waived. The merger will become effective upon the filing of a
-certificate of merger with the State of Delaware. Centennial and Solectron
-expect to file the certificate of merger shortly following the special meeting
-of Centennial stockholders at which the merger agreement and the merger will be
-presented and voted upon.
+     We will complete the merger when all of the conditions to completion of the
+merger contained in the merger agreement have been satisfied or waived. The
+merger will become effective upon the filing of a certificate of merger with the
+State of Delaware. Centennial and Solectron expect to file the certificate of
+merger shortly following the special meeting of Centennial stockholders at which
+the merger agreement and the merger will be presented and voted upon.
 
-     Solectron and Centennial are working toward satisfying these conditions and
-completing the merger as quickly as possible. Solectron and Centennial currently
-plan to complete the merger on April 30, 2001 following the special meeting of
-Centennial stockholders, assuming the Centennial stockholders approve the merger
-and the merger agreement and the other merger conditions are satisfied. However,
-because the merger is subject to governmental and regulatory approvals and other
-conditions, some of which are beyond Solectron's and Centennial's control, the
-exact timing cannot be predicted.
+     We are working toward satisfying these conditions and completing the merger
+as quickly as possible. We currently plan to complete the merger during the
+second calendar quarter of 2001. However, because the merger is subject to
+governmental and regulatory approvals and other conditions, some of which are
+beyond our control, we cannot predict the exact timing.
 
 CENTENNIAL PROHIBITED FROM SOLICITING OTHER OFFERS (SEE PAGE 58)
 
@@ -947,7 +993,10 @@ agreement without completing the merger. In addition, either Centennial or
 Solectron may terminate the merger agreement under any of the following
 circumstances:
 
-     - if Solectron and Centennial do not complete the merger by April 30, 2001;
+     - if Solectron and Centennial do not complete the merger by April 30, 2001
+       (or June 30, 2001 if the registration statement of which this document
+       forms a part has been reviewed by the Securities and Exchange
+       Commission);
 
      - if a court or other governmental authority issues a final order
        prohibiting the merger and such order is not appealable;
@@ -997,7 +1046,7 @@ PAYMENT OF TERMINATION FEE (SEE PAGE 64)
 agreement is terminated under some circumstances.
 
 MATERIAL UNITED STATES FEDERAL INCOME TAX CONSEQUENCES OF THE MERGER (SEE PAGE
-65)
+66)
 
      In general, Centennial common stockholders will not recognize gain or loss
 for United States federal income tax purposes in connection with the merger,
@@ -1016,7 +1065,7 @@ each share.
 
      You should carefully read the discussion under "The Merger and Related
 Transactions -- Material United States Federal Income Tax Consequences of the
-Merger" beginning on page 65 of this document for a more detailed description of
+Merger" beginning on page 66 of this document for a more detailed description of
 the tax consequences of the merger.
 
 IN ADDITION, YOU ARE ENCOURAGED TO CONSULT YOUR OWN TAX ADVISOR BECAUSE TAX
@@ -1033,18 +1082,16 @@ REGULATORY APPROVALS REQUIRED TO COMPLETE THE MERGER (SEE PAGE 67)
 Centennial and Solectron have made required filings under applicable United
 States antitrust laws with the Department of Justice and the Federal Trade
 Commission, and received early termination of the applicable waiting periods
-under the Hart-Scott-Rodino Antitrust Improvements Act on February 13, 2001. In
-addition, Centennial and Solectron have made a notification with the Federal
-Cartel Office in Germany as required by applicable German competition law.
-Centennial and Solectron believe no other notifications are required within any
-other jurisdiction with competition notification requirements. Centennial and
-Solectron are not permitted to complete the merger until all material foreign
-antitrust approvals that may be required in connection with the merger have been
-obtained. A governmental authority or any private person may challenge the
-merger on antitrust grounds at any time before or after the merger is completed.
+under the Hart-Scott-Rodino Antitrust Improvements Act on February 13, 2001.
+Each of Centennial and Solectron also intend to make some additional required
+filings under applicable foreign antitrust laws. Centennial and Solectron are
+not permitted to complete the merger until all material foreign antitrust
+approvals that may be required in connection with the merger have been obtained.
+A governmental authority or any private person may challenge the merger on
+antitrust grounds at any time before the merger is completed.
 
 RESTRICTIONS ON THE ABILITY TO SELL SOLECTRON COMMON STOCK RECEIVED IN THE
-MERGER (SEE PAGE 67)
+MERGER (SEE PAGE 68)
 
      All shares of Solectron common stock that you receive in connection with
 the merger will be freely transferable unless you are deemed to be an affiliate
@@ -1114,19 +1161,6 @@ Stockholders' equity.......    3,802.1    3,166.9    1,475.4    1,150.2      787
 - -------------------------
 (1) All net income per share amounts have been adjusted to reflect stock splits
     to date.
-
-RECENT DEVELOPMENTS
-
-     In March 2001, Solectron announced several measures to restructure the
-company. The measures, which include consolidating some facilities, relocating
-certain capabilities and changing the strategic focus of a number of sites, are
-largely intended to adjust Solectron's business in light of current and
-anticipated reductions in customer demand. In connection with the restructuring,
-Solectron plans to reduce its workforce and expects to record a restructuring
-charge of $300 million to $400 million in its third fiscal quarter. The
-restructuring charge will cover costs resulting from the payment of employee
-severance, closure of facilities and disposal of equipment, the write-off of any
-goodwill related thereto, and any other costs associated with the restructure.
 
             CENTENNIAL SUMMARY SELECTED CONSOLIDATED FINANCIAL DATA
 
@@ -1226,23 +1260,22 @@ BOOK VALUE PER SHARE(1):
                                                        ------------------    ---------------------
 
 NET INCOME PER SHARE (DILUTED)(3):
-  Year ended August 31, 2000.........................        $0.81                   $0.43
-  Three months ended November 30, 2000...............        $0.30                   $0.16
+  Year ended August 31, 2000.........................        $0.80                   $0.43
+  Three months ended November 30, 2000...............        $0.29                   $0.16
 BOOK VALUE PER SHARE(1):
-  August 31, 2000....................................        $6.36                   $3.41
-  November 30, 2000..................................        $8.09                   $4.34
+  August 31, 2000....................................        $6.40                   $3.43
+  November 30, 2000..................................        $8.14                   $4.36
 
 - -------------------------
-
 (1) Historical book value per share is computed by dividing stockholders' equity
     by the number of shares of Solectron or Centennial common stock outstanding
     at the end of each period. Pro forma book value per share is computed by
     dividing pro forma stockholders' equity by the pro forma number of shares of
     Solectron common stock outstanding at the end of each period. Pro forma
-    stockholders' equity is computed using the estimated purchase price of $57
+    stockholders' equity is computed using the estimated purchase price of $84
     million which is based on the average closing price of Solectron's common
-    stock during the five trading day period ended March 16, 2001, or $22.61 per
-    share.
+    stock during the five trading day period ended February 22, 2001, or $31.97
+    per share.
 
 (2) The Centennial equivalent pro forma combined per share amounts are
     calculated by multiplying Solectron combined pro forma share amounts by the
@@ -1257,7 +1290,7 @@ BOOK VALUE PER SHARE(1):
     the three month period ended November 30, 2000 and Centennial's net income
     for the three months ended December 23, 2000.
 
-                      COMPARATIVE PER SHARE MARKET PRICE DATA
+                    COMPARATIVE PER SHARE MARKET PRICE DATA
 
      Centennial common stock is traded on the Nasdaq National Market under the
 symbol "CENL." Solectron common stock is traded on the New York Stock Exchange
@@ -1296,28 +1329,27 @@ internet-based bulletin board information.
   First Quarter.............................................  $12.00     $ 6.63
   Second Quarter............................................   19.47       7.63
   Third Quarter.............................................   22.00      10.25
-  Fourth Quarter (through March 21, 2001)...................   21.75       9.94
+  Fourth Quarter (through -, 2001)..........................       -          -
 
      The following table shows the closing prices per share of Centennial common
 stock and Solectron common stock as reported on the Nasdaq National Market and
 the New York Stock Exchange, respectively, on (1) January 22, 2001, the business
 day preceding the public announcement that Solectron and Centennial had entered
-into the merger agreement and (2) March 21, 2001, the last full trading day for
-which closing prices were available at the time of the printing of this
-document.
+into the merger agreement and (2) -, 2001, the last full trading day for which
+closing prices were available at the time of the printing of this document.
 
      The following table also includes the equivalent price per share of
 Centennial common stock on those dates. This equivalent per share price reflects
 the value of the Solectron common stock you would receive for each share of your
 Centennial common stock if the merger was completed on any of these dates,
-applying the assumed exchange ratios of 0.536 and 0.550 of a share of Solectron
-common stock for each share of Centennial common stock, respectively.
+applying the assumed exchange ratio of 0.536 of a share of Solectron common
+stock for each share of Centennial common stock.
 
-     As of March 19, 2001, there were approximately 9,620 stockholders of record
-of Centennial who held an aggregate of 3,376,899 shares of Centennial common
-stock, and there was one stockholder of record of Centennial who held an
-aggregate of 60,000 shares of Centennial series B convertible preferred stock,
-which were convertible into 600,000 shares of Centennial common stock.
+     As of -, 2001, there were approximately - stockholders of record of
+Centennial who held an aggregate of - shares of Centennial common stock, and
+there was one stockholder of record of Centennial who held an aggregate of
+60,000 shares of Centennial series B convertible preferred stock, which were
+convertible into 600,000 shares of Centennial common stock.
 
                                                               CENTENNIAL    SOLECTRON    EQUIVALENT
                                                                 COMMON       COMMON      PRICE PER
@@ -1325,8 +1357,7 @@ which were convertible into 600,000 shares of Centennial common stock.
                                                               ----------    ---------    ----------
 
 January 22, 2001............................................    $18.38       $40.74        $21.84
-March 21, 2001 (applying exchange ratio of 0.536)...........    $10.19       $18.92        $10.14
-March 21, 2001 (applying exchange ratio of 0.550)...........    $10.19       $18.92        $10.41
+- -, 2001.....................................................    $    -       $    -        $    -
 
      BECAUSE THE MARKET PRICE OF CENTENNIAL COMMON STOCK AND SOLECTRON COMMON
 STOCK MAY INCREASE OR DECREASE BEFORE THE COMPLETION OF THE MERGER, YOU ARE
@@ -1494,17 +1525,19 @@ dollar value of Solectron common stock you will receive upon completion of the
 merger will depend on the market value of Solectron common stock at the time of
 the merger, which may be different than the market value of Solectron common
 stock on January 22, 2001 (the business day preceding the public announcement
-that Solectron and Centennial had entered into the merger agreement), or March
-21, 2001 (the last full trading day for which closing prices were available at
-the time of the printing of this document). In addition, the merger may not be
-completed immediately following the Centennial special meeting at which the
-merger agreement and the merger are presented and voted upon, if all regulatory
+that Solectron and Centennial had entered into the merger agreement), or -, 2001
+(the last full trading day for which closing prices were available at the time
+of the printing of this document). In addition, the merger may not be completed
+immediately following the Centennial special meeting at which the merger
+agreement and the merger are presented and voted upon, if all regulatory
 approvals have not yet been obtained or if other conditions to the merger have
 not been satisfied or waived. We cannot assure you that the value of the
 Solectron common stock you will receive in the merger will not decline prior to
-the merger. Because the market price of Solectron common stock and Centennial
-common stock may increase or decrease before the completion of the merger, you
-are urged to obtain current market quotations.
+the
+
+merger. Because the market price of Solectron common stock and Centennial common
+stock may increase or decrease before the completion of the merger, you are
+urged to obtain current market quotations.
 
   CUSTOMER AND EMPLOYEE UNCERTAINTY ABOUT THE MERGER COULD HARM THE COMBINED
 COMPANY.
@@ -1543,13 +1576,13 @@ intangible assets such as acquired technology, based on their respective fair
 values. Intangible assets, including goodwill, generally will be amortized over
 a ten-year period. Solectron will capitalize and amortize the direct transaction
 costs over a five-year period. The amount of purchase cost allocated to goodwill
-and other intangibles is estimated to be approximately $30 million computed
-using the estimated purchase price of $57 million which is based on the average
+and other intangibles is estimated to be approximately $60 million computed
+using the estimated purchase price of $84 million which is based on the average
 closing price of Solectron's common stock during the five trading day period
-ended March 16, 2001, or $22.61 per share. If goodwill and other intangible
+ended February 22, 2001, or $31.97 per share. If goodwill and other intangible
 assets were amortized in equal quarterly amounts over a ten-year period
 following the completion of the merger, the accounting charge attributable to
-these items would be approximately $0.7 million per quarter and $3 million per
+these items would be approximately $1.5 million per quarter and $6 million per
 fiscal year. As a result, purchase accounting treatment of the merger will
 decrease the net income of Solectron in the foreseeable future, which could have
 a material and adverse effect on the market value of Solectron common stock
@@ -1598,31 +1631,28 @@ Hart-Scott-Rodino Antitrust Improvements Act was terminated without materially
 adverse restrictions or conditions that would have an adverse effect on the
 combined company. The merger is also subject to some foreign antitrust laws, and
 it is a condition to the completion of the merger that Solectron and Centennial
-obtain all requisite approvals under material foreign antitrust laws. In
-addition, Centennial and Solectron have made a notification with the Federal
-Cartel Office in Germany as required by applicable German competition law.
-Centennial and Solectron believe no other notifications are required within any
-other jurisdiction with competition notification requirements. The combined
-company may be required to agree to various operating restrictions, before or
-after receipt of stockholder approval, in order to obtain the necessary
-approvals of the merger under foreign antitrust laws, or to assure that foreign
-governmental authorities do not seek to block the merger. No additional
-stockholder approval is expected to be required or sought for any decision by
-Solectron or Centennial, after the special meeting of Centennial's stockholders,
-to agree to any terms and conditions necessary to resolve any foreign regulatory
-objections to the merger, and stockholder approval will not be sought unless
-such stockholder approval is required to approve such terms and conditions under
-applicable foreign law. Notwithstanding any agreements regarding operating
-restrictions that may be required under applicable foreign law or by foreign
-authorities, under the terms of the merger agreement, Solectron is not required
-to agree to any divestiture of capital stock or of any business, assets or
-property of Solectron or its subsidiaries or affiliates (including Centennial
-and its affiliates), or the imposition of any material limitation on the ability
-of any of these parties to conduct their businesses or to own or exercise
-control of capital stock, business, assets or property. Even if regulatory
-approvals are obtained, any federal, state or foreign governmental entity or any
-private person may challenge the merger at any time before or after its
-completion.
+obtain all requisite approvals under material foreign antitrust laws. Solectron
+and Centennial intend to make required filings under these foreign antitrust
+laws. The combined company may be required to agree to various operating
+restrictions, before or after receipt of stockholder approval, in order to
+obtain the necessary approvals of the merger under foreign antitrust laws, or to
+assure that foreign governmental authorities do not seek to block the merger. No
+additional stockholder approval is expected to be required or sought for any
+decision by Solectron or Centennial, after the special meeting of Centennial's
+stockholders, to agree to any terms and conditions necessary to resolve any
+foreign regulatory objections to the merger, and stockholder approval will not
+be sought unless such stockholder approval is required to approve such terms and
+conditions under applicable foreign law. Notwithstanding any agreements
+regarding operating restrictions that may be required under applicable foreign
+law or by foreign authorities, under the terms of the merger agreement,
+Solectron is not required to agree to any divestiture of capital stock or of any
+business, assets or property of Solectron or its subsidiaries or affiliates
+(including Centennial and its affiliates), or the imposition of any material
+limitation on the ability of any of these parties to conduct their businesses or
+to own or exercise control of capital stock, business, assets or property. Even
+if foreign regulatory approvals are obtained, any federal, state or foreign
+governmental entity or any private person may challenge the merger at any time
+before or after its completion.
 
   IF THE MERGER IS NOT COMPLETED, CENTENNIAL'S STOCK PRICES AND FUTURE BUSINESS
 AND OPERATIONS COULD BE ADVERSELY AFFECTED.
@@ -1654,7 +1684,9 @@ CENTENNIAL.
 prohibited from initiating or engaging in discussions with a third party
 regarding some types of extraordinary transactions, such as a merger, business
 combination or sale of a material amount of assets or capital stock. In
-addition, Centennial agreed to pay a termination fee to Solectron in specified
+addition,
+
+Centennial agreed to pay a termination fee to Solectron in specified
 circumstances. These provisions could discourage other companies from trying to
 acquire Centennial even though those other companies might be willing to offer
 greater value to Centennial stockholders than Solectron has offered in the
@@ -1719,11 +1751,10 @@ customers, including Ericsson, IBM and Nortel, under which these customers are
 obligated to obtain services from Solectron, not all of them are obligated to
 purchase any minimum amount of services. As a result, Solectron cannot guarantee
 that it will receive any net sales from these contracts. In addition, customers
-with whom Solectron has
-
-long-term contracts may materially reduce the level of services ordered at any
-time. This could cause a significant decline in Solectron's net sales, and it
-may not be able to reduce its accompanying expenses at the same time.
+with whom Solectron has long-term contracts may materially reduce the level of
+services ordered at any time. This could cause a significant decline in
+Solectron's net sales, and it may not be able to reduce its accompanying
+expenses at the same time.
 
   POSSIBLE FLUCTUATION OF OPERATING RESULTS FROM QUARTER TO QUARTER COULD AFFECT
 THE MARKET PRICE OF SOLECTRON'S COMMON STOCK.
@@ -1798,21 +1829,22 @@ CAUSE SALES REDUCTIONS.
 source suppliers, to provide key components used in its products. Solectron has
 experienced and may continue to experience delays in component deliveries, which
 could cause delays in product shipments and require the redesign of certain
-
 products. Also, for Solectron's technology solutions business, Solectron depends
 on certain limited or sole source suppliers for critical components used for its
 memory module, communications card and embedded computer products. The
 electronics industry has experienced in the past, and may experience in the
 future, shortages in semiconductor devices, including DRAM, SRAM, flash memory,
-tantalum capacitors and other commodities that may be caused by such conditions
-as overall market demand surges or supplier production capacity constraints.
-Except for certain commodity parts, Solectron generally has no written
-agreements with its suppliers. Solectron cannot ensure that it will receive
-adequate component supplies on a timely basis in the future. The inability to
-continue to obtain sufficient components as required, or to develop alternative
-sources as required, could cause delays, disruptions or reductions in product
-shipments or require product redesigns, which could damage relationships with
-current or prospective customers, thereby causing sales reductions.
+tantalum capacitors and
+
+other commodities that may be caused by such conditions as overall market demand
+surges or supplier production capacity constraints. Except for certain commodity
+parts, Solectron generally has no written agreements with its suppliers.
+Solectron cannot ensure that it will receive adequate component supplies on a
+timely basis in the future. The inability to continue to obtain sufficient
+components as required, or to develop alternative sources as required, could
+cause delays, disruptions or reductions in product shipments or require product
+redesigns, which could damage relationships with current or prospective
+customers, thereby causing sales reductions.
 
   SOLECTRON POTENTIALLY BEARS THE RISK OF PRICE INCREASES ASSOCIATED WITH
 POTENTIAL SHORTAGES IN THE AVAILABILITY OF ELECTRONICS COMPONENTS.
@@ -1874,14 +1906,15 @@ OPERATIONS COST EFFECTIVELY, ITS PROFITABILITY COULD DECLINE.
 
      Solectron has experienced rapid growth over many years. Solectron's
 historical growth may not continue. In recent years Solectron has established
-operations throughout the world. For example, in fiscal 1998, Solectron opened
-offices in Taipei, Taiwan; Norrkoping and Stockholm, Sweden; and commenced
-manufacturing operations in Guadalajara, Mexico; Suzhou, China; and Timisoara,
-Romania. Also in fiscal 1998, Solectron acquired facilities in Sao Paulo, Brazil
-and Dublin, Ireland. Furthermore, through acquisitions in fiscal 1998 and 1999,
-Solectron added facilities in Columbia, South Carolina; Memphis, Tennessee; and
-enhanced its capabilities in Charlotte, North Carolina; Austin, Texas; and
-Milpitas, California.
+operations throughout the world. For example, in fiscal
+
+1998, Solectron opened offices in Taipei, Taiwan; Norrkoping and Stockholm,
+Sweden; and commenced manufacturing operations in Guadalajara, Mexico; Suzhou,
+China; and Timisoara, Romania. Also in fiscal 1998, Solectron acquired
+facilities in Sao Paulo, Brazil and Dublin, Ireland. Furthermore, through
+acquisitions in fiscal 1998 and 1999, Solectron added facilities in Columbia,
+South Carolina; Memphis, Tennessee; and enhanced its capabilities in Charlotte,
+North Carolina; Austin, Texas; and Milpitas, California.
 
      In fiscal 2000, Solectron completed acquisitions of AMERICOM, SMART and
 Bluegum Group, each of which was accounted for as a pooling of interests.
@@ -2018,16 +2051,16 @@ purposes. Solectron's policy is to hedge its foreign currency denominated
 transactions in a manner that substantially offsets the effects of changes in
 foreign currency exchange rates. Presently, Solectron uses foreign currency
 borrowings and foreign currency forward contracts to hedge only those currency
-exposures associated with certain assets
-
-and liabilities denominated in non-functional currencies. Corresponding gains
-and losses on the underlying transaction generally offset the gains and losses
-on these foreign currency hedges.
+exposures associated with certain assets and liabilities denominated in
+non-functional currencies. Corresponding gains and losses on the underlying
+transaction generally offset the gains and losses on these foreign currency
+hedges.
 
      As of November 30, 2000, the majority of Solectron's foreign currency
 hedging contracts were scheduled to mature in less than three months and there
 were no material deferred gains or losses. In addition, Solectron's
 international operations in some instances act as a natural hedge because both
+
 operating expenses and a portion of sales are denominated in local currency. In
 these instances, including Solectron's current experience involving the
 devaluation of the Brazilian real, although an unfavorable change in the
@@ -2103,30 +2136,31 @@ other license rights. These patent and license rights may not provide meaningful
 protection for its manufacturing processes and equipment innovations. On June
 23, 1999, Solectron was served, along with 87 other companies including SMART
 Modular Technologies, Inc., now a wholly owned subsidiary of Solectron, as a
-defendant in a lawsuit brought by the Lemelson Medical, Education & Research
-Foundation. The lawsuit alleges that Solectron and/or SMART has infringed
-certain of the plaintiff's patents relating to LOCOS, beam processing, machine
-vision and bar-code technology. Solectron and SMART believe they have
-meritorious defenses to these allegations and do not expect this litigation to
-materially impact Solectron's financial condition or results of operations. In
-the semiconductor, computer, telecommunications and networking industries,
-companies receive notices from time to time alleging infringement of patents,
-copyrights or other intellectual property rights, and litigation sometimes
-arises out of such notices. For example, in January 2000, SMART filed a lawsuit
-seeking to have declared invalid, and/or not infringed, three patents
-purportedly applicable to industry standard memory products, including those
-manufactured by SMART and the other manufacturers of these industry standard
-memory products. The owner of these patents brought a cross-complaint alleging
-patent infringement against SMART, and has also brought suit against several
-other memory product manufacturers alleging infringement of the three patents.
-Solectron and SMART believe that SMART's memory products do not infringe any
-valid claims of any of the three patents at issue. Moreover, Solectron has been
-and may from time to time continue to be notified of claims that it may be
-infringing patents, copyrights or other intellectual property rights owned by
-other third parties. The current litigation or any other litigation could result
-in substantial costs and diversion of resources and could have a material
-adverse effect on Solectron's business financial condition and results of
-operations.
+defendant in a lawsuit brought by the
+
+Lemelson Medical, Education & Research Foundation. The lawsuit alleges that
+Solectron and/or SMART has infringed certain of the plaintiff's patents relating
+to LOCOS, beam processing, machine vision and bar-code technology. Solectron and
+SMART believe they have meritorious defenses to these allegations and do not
+expect this litigation to materially impact Solectron's financial condition or
+results of operations. In the semiconductor, computer, telecommunications and
+networking industries, companies receive notices from time to time alleging
+infringement of patents, copyrights or other intellectual property rights, and
+litigation sometimes arises out of such notices. For example, in January 2000,
+SMART filed a lawsuit seeking to have declared invalid, and/or not infringed,
+three patents purportedly applicable to industry standard memory products,
+including those manufactured by SMART and the other manufacturers of these
+industry standard memory products. The owner of these patents brought a
+cross-complaint alleging patent infringement against SMART, and has also brought
+suit against several other memory product manufacturers alleging infringement of
+the three patents. Solectron and SMART believe that SMART's memory products do
+not infringe any valid claims of any of the three patents at issue. Moreover,
+Solectron has been and may from time to time continue to be notified of claims
+that it may be infringing patents, copyrights or other intellectual property
+rights owned by other third parties. The current litigation or any other
+litigation could result in substantial costs and diversion of resources and
+could have a material adverse effect on Solectron's business financial condition
+and results of operations.
 
      In the future, third parties may assert infringement claims against
 Solectron or its customers. In the event of an infringement claim, Solectron may
@@ -2167,18 +2201,16 @@ materially disrupted the operations of Solectron's facilities. Should these
 blackouts continue or increase in severity, however, they could materially
 disrupt the operations of one or more of Solectron's facilities. Although
 Solectron currently does not have backup generators or long-term alternate
-sources of power in the event
-
-of a blackout, Solectron does have some flexibility to shift some manufacturing
-volume to other manufacturing sites around the world. If blackouts interrupt
-Solectron's power supply, it would be temporarily unable to continue operations
-at its facilities. Solectron's current insurance does not provide coverage for
-any damages Solectron or its customers may suffer as a result of any
-interruption in its power supply. Consequently, any interruption in Solectron's
-ability to continue operations at its facilities could damage its reputation,
-harm its ability to retain existing customers and to obtain new customers, and
-could result in lost revenue, any of which could substantially harm Solectron's
-business and results of operations.
+sources of power in the event of a blackout, Solectron does have some
+flexibility to shift some manufacturing volume to other manufacturing sites
+around the world. If blackouts interrupt Solectron's power supply, it would be
+temporarily unable to continue operations at its facilities. Solectron's current
+insurance does not provide coverage for any damages Solectron or its customers
+may suffer as a result of any interruption in its power supply. Consequently,
+any interruption in Solectron's ability to continue operations at its facilities
+could damage its reputation, harm its ability to retain existing customers and
+to obtain new customers, and could result in lost revenue, any of which could
+substantially harm Solectron's business and results of operations.
 
      In addition, the utility deregulation program instituted in 1996 by the
 California government deregulated wholesale prices while continuing to regulate
@@ -2315,19 +2347,17 @@ fluctuations in the future. Centennial's business, financial condition and
 results of operations depend in a significant part on its ability to obtain
 orders from existing and new customers, as well as on the financial condition
 and success of these customers. Therefore, any adverse factors affecting any of
-Centennial's customers or
-
-their customers could have a material adverse effect on Centennial's business,
-financial condition and results of operations. Frequent mergers, consolidations,
-acquisitions, corporate restructurings and changes in management characterize
-the industries served by Centennial. From time to time, Centennial has
-experienced reductions in purchase orders from customers as a result of such
-events. Centennial cannot assure you that such events involving its customers
-will not result in a significant reduction in the level of Centennial's sales to
-such customers or the termination of its relationship with such customers. In
-addition, the percentage of Centennial's sales to individual customers can and
-does fluctuate from period to period. Customer orders can be canceled and volume
-levels can be changed or delayed.
+Centennial's customers or their customers could have a material adverse effect
+on Centennial's business, financial condition and results of operations.
+Frequent mergers, consolidations, acquisitions, corporate restructurings and
+changes in management characterize the industries served by Centennial. From
+time to time, Centennial has experienced reductions in purchase orders from
+customers as a result of such events. Centennial cannot assure you that such
+events involving its customers will not result in a significant reduction in the
+level of Centennial's sales to such customers or the termination of its
+relationship with such customers. In addition, the percentage of Centennial's
+sales to individual customers can and does fluctuate from period to period.
+Customer orders can be canceled and volume levels can be changed or delayed.
 
      A majority of Centennial's sales are to customers in the electronics
 industry, which is subject to rapid technological change and product
@@ -2624,17 +2654,16 @@ GENERAL
      Centennial is furnishing this document to all stockholders of record of
 Centennial common stock and Centennial series B convertible preferred stock in
 connection with the solicitation of proxies by the Centennial board of directors
-for use at the special meeting of Centennial stockholders to be held on April
-30, 2001, and at any adjournment or postponement of the special meeting. This
-document also is being furnished by Solectron to Centennial stockholders as a
-prospectus for Solectron common stock to be issued in connection with the
-merger.
+for use at the special meeting of Centennial stockholders to be held on -, 2001,
+and at any adjournment or postponement of the special meeting. This document
+also is being furnished by Solectron to Centennial stockholders as a prospectus
+for Solectron common stock to be issued in connection with the merger.
 
 DATE, TIME AND PLACE
 
-     The special meeting of stockholders of Centennial will be held on April 30,
-2001 at 9:30 a.m. local time, at the Conference Center of Goodwin Procter LLP,
-located on the second floor at Exchange Place, Boston, Massachusetts 02109-2881.
+     The special meeting of stockholders of Centennial will be held on -, 2001
+at -, local time, at the offices of Goodwin Procter LLP, located at Exchange
+Place, Boston, Massachusetts 02109-2881.
 
 PURPOSE OF THE SPECIAL MEETING
 
@@ -2654,9 +2683,9 @@ deciding how to vote.
 
 RECORD DATE FOR THE SPECIAL MEETING
 
-     The Centennial board of directors has fixed the close of business on March
-19, 2001 as the record date for determination of Centennial stockholders
-entitled to notice of and to vote at the special meeting.
+     The Centennial board of directors has fixed the close of business on -,
+2001 as the record date for determination of Centennial stockholders entitled to
+notice of and to vote at the special meeting.
 
 VOTES REQUIRED FOR ADOPTION AND APPROVAL OF THE MERGER AGREEMENT AND APPROVAL OF
 THE MERGER
@@ -2678,10 +2707,10 @@ conversion of Centennial series B convertible preferred stock as Centennial
 voting shares.
 
      As of the close of business on the record date for the special meeting,
-3,376,899 shares of Centennial common stock were outstanding, and held by
-approximately 9,620 stockholders of record. In addition, 60,000 shares of
-Centennial series B convertible preferred stock were outstanding, all of which
-were held by one stockholder.
+approximately - shares of Centennial common stock were outstanding, and held by
+approximately - stockholders of record. In addition, 60,000 shares of Centennial
+series B convertible preferred stock were outstanding, all of which were held by
+one stockholder.
 
      As of the close of business on the record date for the special meeting of
 Centennial stockholders at which the merger agreement and the merger will be
@@ -2689,14 +2718,14 @@ presented and voted upon, directors and executive officers of Centennial (and
 their respective affiliates) collectively owned approximately 2.3% of the
 outstanding shares of Centennial common stock entitled to vote at the special
 meeting on the merger agreement and the merger, or approximately 1.9% of the
-voting shares of Centennial entitled to vote at the
+voting shares of Centennial entitled to vote at the special meeting on the
+merger agreement and the merger. This does not include 1,173,962 shares of
 
-special meeting on the merger agreement and the merger. This does not include
-1,173,962 shares of Centennial common stock issuable upon the exercise of
-presently exercisable options which these directors and officers beneficially
-own. If all of these stock options had been exercised prior to the record date
-for the special meeting, the directors and executive officers of Centennial (and
-their respective affiliates) would collectively own approximately 27.5% of the
+Centennial common stock issuable upon the exercise of presently exercisable
+options which these directors and officers beneficially own. If all of these
+stock options had been exercised prior to the record date for the special
+meeting, the directors and executive officers of Centennial (and their
+respective affiliates) would collectively own approximately 27.5% of the
 outstanding shares of Centennial common stock entitled to vote at the special
 meeting, or approximately 24.3% of the voting shares of Centennial.
 
@@ -2783,13 +2812,12 @@ stockholders generally. For more information regarding these interests, see the
 section entitled "The Merger and Related Transactions -- Consideration of the
 Merger by Centennial's Board of Directors -- Interests of Centennial's Directors
 and Officers in the Merger" beginning on page 50 of this document. Centennial
-may retain outside agencies for the purpose of soliciting proxies, in which case
-Centennial will pay the fees and expenses of those agencies. Record holders such
-as brokerage houses, nominees, fiduciaries and other custodians will be
-requested to forward soliciting materials to beneficial owners and to request
-authority for the exercise of proxies, and, upon the request of such record
-holders, they will be reimbursed for their reasonable expenses incurred in
-sending proxy materials to beneficial owners.
+may retain outside agencies for the purpose of soliciting proxies. Record
+holders such as brokerage houses, nominees, fiduciaries and other custodians
+will be requested to forward soliciting materials to beneficial owners and to
+request authority for the exercise of proxies, and, upon the request of such
+record holders, they will be reimbursed for their reasonable expenses incurred
+in sending proxy materials to beneficial owners.
 
 VOTING OF PROXIES AT THE SPECIAL MEETING AND REVOCATION OF PROXIES
 
@@ -2839,12 +2867,11 @@ DISSENTER'S RIGHTS OF APPRAISAL
 
      Under Delaware corporate law, holders of Centennial common stock and
 holders of Solectron common stock are not entitled to dissenters' rights of
-appraisal in connection with the merger because, on
+appraisal in connection with the merger because, on the record date, Centennial
+common stock was designated and quoted for trading on the Nasdaq National
 
-the record date, Centennial common stock was designated and quoted for trading
-on the Nasdaq National Market and will be converted into shares of Solectron
-common stock which at the effective time of the merger will be listed on the New
-York Stock Exchange.
+Market and will be converted into shares of Solectron common stock which at the
+effective time of the merger will be listed on the New York Stock Exchange.
 
 OTHER MATTERS
 
@@ -4101,22 +4128,18 @@ subsidiary of Solectron.
 
   COMPLETION AND EFFECTIVENESS OF THE MERGER
 
-     Solectron and Centennial expect to complete the merger when all of the
-conditions to completion of the merger contained in the merger agreement have
-been satisfied or waived. The merger will become effective upon the filing of a
-certificate of merger with the State of Delaware. Centennial and Solectron
-expect to file the certificate of merger shortly following the special meeting
-of Centennial stockholders at which the merger agreement and the merger will be
-considered and voted upon.
+     We will complete the merger when all of the conditions to completion of the
+merger contained in the merger agreement have been satisfied or waived. The
+merger will become effective upon the filing of a certificate of merger with the
+State of Delaware. Centennial and Solectron expect to file the certificate of
+merger shortly following the special meeting of Centennial stockholders at which
+the merger agreement and the merger will be considered and voted upon.
 
-     Solectron and Centennial are working toward satisfying these conditions and
-completing the merger as quickly as possible. Solectron and Centennial currently
-plan to complete the merger on April 30, 2001 following the special meeting of
-Centennial stockholders assuming the Centennial stockholders approve the merger
-and the merger agreement and the other merger conditions are satisfied. Because
-the merger is subject to governmental and regulatory approvals and other
-conditions, some of which are beyond Solectron's and Centennial's control, the
-exact timing cannot be predicted.
+     We are working toward satisfying these conditions and completing the merger
+as quickly as possible. We currently plan to complete the merger during the
+second calendar quarter of 2001. Because the merger is subject to governmental
+and regulatory approvals and other conditions, some of which are beyond our
+control, we cannot predict the exact timing.
 
   CONVERSION OF CENTENNIAL SERIES B CONVERTIBLE PREFERRED STOCK IN THE MERGER
 
@@ -4139,18 +4162,18 @@ shares of Centennial common stock into which the preferred stock is then
 convertible, payable in preference and in priority to any payment of any cash
 dividend on common stock or any other class of stock or series thereof.
 
-     As of March 19, 2001 the 60,000 shares of series B convertible preferred
-stock represent 600,000 shares, or approximately 15.1% of Centennial's total
-voting shares.
+     As of -, 2001 the 60,000 shares of series B convertible preferred stock
+represent 600,000 shares, or approximately 15.1% of Centennial's total voting
+shares.
 
      At the effective time of the merger, each such share of Centennial series B
 convertible preferred stock issued and outstanding immediately prior to the
-merger will be canceled and extinguished and
+merger will be canceled and extinguished and automatically converted into the
+right to receive $80.00 in cash (payable in U.S. currency in immediately
 
-automatically converted into the right to receive $80.00 in cash (payable in
-U.S. currency in immediately available funds) pursuant to the terms of the
-merger agreement and Centennial's certificate of designation of rights,
-preferences and terms of the series B convertible preferred stock.
+available funds) pursuant to the terms of the merger agreement and Centennial's
+certificate of designation of rights, preferences and terms of the series B
+convertible preferred stock.
 
      If all of the shares of series B convertible preferred stock were converted
 prior to the merger, they could be converted into 600,000 shares of Centennial
@@ -4207,8 +4230,8 @@ Centennial common stock prior to the effective time of the merger, and further
 assuming that the average closing price of Solectron common stock during the
 five trading days prior to the effective time of the merger is equal to the
 closing price of Solectron common stock on the date prior to the date of this
-document (i.e., $18.92), the exchange ratio for the merger would be
-approximately 0.550. These examples are based upon assumptions that may or may
+document (i.e., $29.50), the exchange ratio for the merger would be
+approximately 0.569. These examples are based upon assumptions that may or may
 not be accurate at the effective time of the merger. The actual exchange ratio
 for Centennial common stock in the merger may differ from these examples.
 
@@ -4769,8 +4792,8 @@ per share exercise price of each such Centennial stock option will be adjusted
 to an exercise price equal to the per share exercise price of such Centennial
 stock option divided by the exchange ratio for the merger, rounded up to the
 nearest whole cent. All other terms of each Centennial stock option will be
-unchanged by the merger. As of March 19, 2001, options to purchase approximately
-1,544,151 shares of Centennial common stock were outstanding in the aggregate
+unchanged by the merger. As of -, 2001, options to purchase approximately
+1,542,968 shares of Centennial common stock were outstanding in the aggregate
 under the various Centennial stock option plans.
 
      Solectron will file a registration statement on Form S-8 to register the
@@ -4984,8 +5007,10 @@ discussions and negotiations with respect to, an Acquisition Proposal.
      Further, under the terms of the merger agreement, Centennial must pay to
 Solectron a termination fee of $4,825,000 if the merger agreement is terminated
 by Solectron or Centennial because the merger is not consummated by April 30,
-2001 or because Centennial's stockholders do not adopt and approve the merger
-agreement and approve the merger, and any of the following have occurred:
+2001 (or June 30, 2001, if the registration statement on Form S-4 of which this
+document forms a part is reviewed by the Securities and Exchange Commission) or
+because Centennial's stockholders do not adopt and approve the merger agreement
+and approve the merger, and any of the following have occurred:
 
      - after January 22, 2001 and prior to the termination of the merger
        agreement, a third party has announced an Acquisition Proposal and within
@@ -5076,14 +5101,13 @@ MATERIAL UNITED STATES FEDERAL INCOME TAX CONSEQUENCES OF THE MERGER
 
      In the opinion of Wilson Sonsini Goodrich & Rosati, Professional
 Corporation, counsel to Solectron, and Goodwin Procter LLP, counsel to
-Centennial, the following is a summary of the material U.S. federal
-
-income tax consequences of the merger generally applicable to Centennial
-stockholders. This discussion is based on existing provisions of the Internal
-Revenue Code, existing treasury regulations and current administrative rulings
-and court decisions, all of which are subject to change. Any such change, which
-may or may not be retroactive, could alter the tax consequences to Solectron,
-Centennial or Centennial stockholders as described herein.
+Centennial, the following is a summary of the material U.S. federal income tax
+consequences of the merger generally applicable to Centennial stockholders. This
+discussion is based on existing provisions of the Internal Revenue Code,
+existing treasury regulations and current administrative rulings and court
+decisions, all of which are subject to change. Any such change, which may or may
+not be retroactive, could alter the tax consequences to Solectron, Centennial or
+Centennial stockholders as described herein.
 
      We do not discuss all U.S. federal income tax considerations that may be
 relevant to you in light of your particular circumstances. Factors that could
@@ -5146,6 +5170,7 @@ retroactive effect.
 Centennial series B convertible preferred stock who converts its series B
 convertible preferred stock into Centennial common stock prior to the effective
 time of the merger, who hold their Centennial common stock as a capital asset,
+
 qualification of the merger as a reorganization within the meaning of Section
 368 of the Internal Revenue Code will result in the following federal income tax
 consequences:
@@ -5161,20 +5186,20 @@ consequences:
 
      - the holding period of the Solectron common stock received by you in the
        merger will include the period for which the Centennial common stock
-       surrendered in exchange therefor was considered to be held; and
+       surrendered in exchange therefor was considered to be held;
 
      - cash payments received by you for a fractional share of Solectron common
        stock will be treated as if such fractional share had been issued in the
        merger and then redeemed by Solectron. You will recognize gain or loss
        with respect to such cash payment, measured by the difference, if any,
        between the amount of cash received and the basis in such fractional
-       share.
+       share; and
 
      With respect to a holder of Centennial series B convertible preferred stock
 (who does not convert to Centennial common stock prior to the effective time of
 the merger), the merger will result in your recognition of taxable gain or loss
 with respect to each share of Centennial series B convertible preferred stock
-surrendered equal to the difference between your basis in such share and the
+surrendered equal to the difference between your basis in such shares and the
 $80.00 cash you receive with respect to such share.
 
      Solectron, Centers and Centennial will not recognize gain or loss solely as
@@ -5200,12 +5225,9 @@ subject to various foreign antitrust laws, some of which may require us to make
 filings with foreign antitrust authorities. We have made the required filings
 with the Department of Justice and the Federal Trade Commission, and received
 early termination of the mandatory waiting period under the Hart-Scott-Rodino
-Antitrust Improvements Act on February 13, 2001. In addition, Centennial and
-Solectron have made a notification with the Federal Cartel Office in Germany as
-required by applicable German competition law. Centennial and Solectron believe
-no other notifications are required within any other jurisdiction with
-competition notification requirements. We will not be permitted to complete the
-merger until we have obtained all necessary approvals from foreign antitrust
+Antitrust Improvements Act on February 13, 2001. We intend to make required
+foreign antitrust filings, and will not be permitted to complete the merger
+until we have obtained all necessary approvals from foreign antitrust
 authorities under all material applicable foreign antitrust laws.
 
      However, the Antitrust Division of the Department of Justice or the Federal
@@ -5229,7 +5251,6 @@ RESTRICTIONS ON SALES OF SOLECTRON COMMON STOCK BY AFFILIATES OF CENTENNIAL
 merger have been registered under the Securities Act and will be freely
 transferable under the Securities Act, except for shares of Solectron common
 stock issued to any person who is deemed to be an "affiliate" of either
-
 Solectron or Centennial. Persons who may be deemed to be affiliates include
 individuals or entities that control, are controlled by, or are under common
 control of either of Solectron or Centennial and may include some of our
@@ -5876,12 +5897,13 @@ DePetrillo in a lawsuit filed against Centennial in July 1998. In October 2000,
 Centennial settled the complaint from Mr. DePetrillo with a cash payment of
 $375,000.
 
-     On February 9, 2001, Centennial received a complaint from Onyx, Inc. Onyx
-served as one of Centennial's exclusive sales representatives for certain
-products in five New England states during the mid-1990's. Onyx alleges that
-Centennial failed to provide it with an appropriate accounting of commissions
-due it and failed to pay all commissions due. Because of the early stage of this
-litigation, Centennial is unable to make an assessment as to its likely outcome.
+     On February 2, 2001, Centennial was notified of a complaint filed against
+it by Onyx, Inc. Onyx served as one of Centennial's exclusive sales
+representatives for certain products in five New England states during the
+mid-1990's. Onyx alleges that Centennial failed to provide it with an
+appropriate accounting of commissions due it and failed to pay all commissions
+due. Because of the early stage of this litigation, Centennial is unable to make
+an assessment as to its likely outcome.
 
 QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
 
@@ -6056,12 +6078,10 @@ options approximately 2.96 million shares of Solectron common stock in exchange
 for all of Centennial's fully diluted equity, including all of Centennial's
 outstanding stock options to be assumed by Solectron in connection with the
 transaction. The transaction will be accounted for as a purchase and is expected
-to close on April 30, 2001 following the special meeting of stockholders,
-assuming the Centennial stockholders approve the merger and the merger agreement
-and the other merger conditions are satisfied. The completion of the transaction
-is subject to governmental approvals, including foreign antitrust clearance,
-approval of the transaction by Centennial stockholders and other customary
-closing conditions.
+to close during the second quarter of calendar year 2001. The completion of the
+transaction is subject to governmental approvals, including foreign antitrust
+clearance, approval of the transaction by Centennial stockholders and other
+customary closing conditions.
 
   ACQUISITION OF THE FLASH MEMORY CARD BUSINESS OF INTEL CORPORATION
 
@@ -6731,12 +6751,13 @@ DePetrillo in a lawsuit filed against Centennial in July 1998. In October 2000,
 Centennial settled the complaint from Mr. DePetrillo with a cash payment of
 $375,000.
 
-     On February 9, 2001, Centennial received a complaint from Onyx, Inc. Onyx
-served as one of Centennial's exclusive sales representatives for certain
-products in five New England states during the mid-1990's. Onyx alleges that
-Centennial failed to provide it with an appropriate accounting of commissions
-due it and failed to pay all commissions due. Because of the early stage of this
-litigation, Centennial is unable to make an assessment as to its likely outcome.
+     On February 2, 2001, Centennial was notified of a complaint filed against
+it by Onyx, Inc. Onyx served as one of Centennial's exclusive sales
+representatives for certain products in five New England states during the
+mid-1990's. Onyx alleges that Centennial failed to provide it with an
+appropriate accounting of commissions due it and failed to pay all commissions
+due. Because of the early stage of this litigation, Centennial is unable to make
+an assessment as to its likely outcome.
 
            COMPARISON OF RIGHTS OF HOLDERS OF CENTENNIAL COMMON STOCK
       AND SERIES B CONVERTIBLE PREFERRED STOCK AND SOLECTRON COMMON STOCK
@@ -7227,7 +7248,7 @@ Corporation, in each case to the effect that, among other things, the merger
 will qualify as a reorganization within the meaning of Section 368(a) under the
 Internal Revenue Code. See the section entitled "The Merger and Related
 Transactions -- Material United States Federal Income Tax Consequences of the
-Merger" beginning on page 65 of this document.
+Merger" beginning on page 66 of this document.
 
                                     EXPERTS
 
@@ -7262,10 +7283,10 @@ the next annual meeting of its stockholders by submitting their proposals to
 Centennial in a timely manner complying with all the requirements of the proxy
 rules established by the Securities and Exchange Commission and Centennial's
 bylaws. Proposals of stockholders of Centennial that are intended to be
-presented by such stockholders at Centennial's 2001 annual meeting must have
-been received by Centennial no later than February 20, 2001 in order that they
-may be considered for inclusion in the document and form of proxy relating to
-that meeting.
+presented by such stockholders at Centennial's 2001 annual meeting must be
+received by Centennial no later than February 20, 2001 in order that they may be
+considered for inclusion in the document and form of proxy relating to that
+meeting.
 
                    WHERE YOU CAN FIND ADDITIONAL INFORMATION
 
@@ -7309,9 +7330,9 @@ information that is incorporated by reference in this document (not including
 exhibits to the information unless those exhibits are specifically incorporated
 by reference into this document) to any person, without charge, upon written or
 oral request to the following address and telephone number. ANY REQUEST FOR
-DOCUMENTS SHOULD BE MADE BY APRIL 23, 2001 TO ENSURE TIMELY DELIVERY PRIOR TO
-THE SPECIAL MEETING OF CENTENNIAL STOCKHOLDERS AT WHICH THE MERGER AGREEMENT AND
-THE MERGER WILL BE CONSIDERED AND VOTED UPON.
+DOCUMENTS SHOULD BE MADE BY -, 2001 TO ENSURE TIMELY DELIVERY PRIOR TO THE
+SPECIAL MEETING OF CENTENNIAL STOCKHOLDERS AT WHICH THE MERGER AGREEMENT AND THE
+MERGER WILL BE CONSIDERED AND VOTED UPON.
 
                              Solectron Corporation
                               777 Gibraltar Drive
@@ -7326,10 +7347,7 @@ officers, Centennial's executive compensation and related matters, transactions
 with Centennial's management, certain business relationships, and indebtedness
 of Centennial's management. You may request a copy of this filing, at no cost,
 by writing or telephoning Centennial at the following address and telephone
-number. ANY REQUEST FOR DOCUMENTS SHOULD BE MADE BY APRIL 23, 2001 TO ENSURE
-TIMELY DELIVERY PRIOR TO THE SPECIAL MEETING OF CENTENNIAL STOCKHOLDERS AT WHICH
-THE MERGER AGREEMENT AND THE MERGER WILL BE CONSIDERED AND VOTED UPON.
-
+number:
                          Centennial Technologies, Inc.
                                   7 Lopez Road
                         Wilmington, Massachusetts 01887
@@ -7337,11 +7355,13 @@ THE MERGER AGREEMENT AND THE MERGER WILL BE CONSIDERED AND VOTED UPON.
 
      Any statement contained herein or in a document incorporated or deemed to
 be incorporated by reference into this document will be deemed to be modified or
-superseded for purposes of this document to the extent that a statement
-contained in this document or any other subsequently filed document that is
-deemed to be incorporated by reference into this document modifies or supersedes
-the statement. Any statement so modified or superseded will not be deemed,
-except as so modified or superseded, to constitute a part of this document.
+superseded for purposes of this document
+
+to the extent that a statement contained in this document or any other
+subsequently filed document that is deemed to be incorporated by reference into
+this document modifies or supersedes the statement. Any statement so modified or
+superseded will not be deemed, except as so modified or superseded, to
+constitute a part of this document.
 
      Solectron and Centennial file reports, proxy statements and other
 information with the Securities and Exchange Commission. Copies of our reports,
@@ -7739,4 +7759,13 @@ Cash flows from investing activities:
   Investment................................................        --          (248)       (248)       --         --
   (Purchase of) proceeds from sale of investment in
     affiliates..............................................        --        (2,898)         --        --      8,983
-                                                               -------       -------     -------   -------
+                                                               -------       -------     -------   -------   --------
+      Net cash (used in) provided by investing activities...      (529)         (309)       (221)   (3,129)     7,718
+Cash flows from financing activities:
+  Net repayments under line-of-credit.......................        --            --          --        --    (10,090)
+  Borrowings from term loans................................        --            --          --        --        938
+  Repayments on term loans and leases.......................    (4,000)           --        (174)      (70)      (938)
+  Payments for fractional shares resulting from split.......        --           (40)        (35)       --         --
+  Proceeds from employee stock purchase plan................        52             7          23        --         --
+  Payments on equipment lease financing.....................      (198)         (128)         --        --       (566)
+  Procee

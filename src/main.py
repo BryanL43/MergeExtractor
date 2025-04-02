@@ -2,113 +2,85 @@ import pandas as pd
 from dotenv import load_dotenv
 import os
 import spacy
-import torch
+from concurrent.futures import ThreadPoolExecutor
 
-from Assistant import Assistant
+from BackupAssistant import BackupAssistant
+from AnalysisAssistant import AnalysisAssistant
 from Crawler import Crawler
-from Cognition import Cognition
+from InitiatorClassifier import InitiatorClassifier
 
-load_dotenv();
-
-# Global variables
-api_key = os.getenv("OPENAI_API_KEY");
-csvFile = "./truncatedData.csv";
-maxNumOfThreads = os.cpu_count();
-deleteAssistant = False;
-
-# Load spaCy model
-if torch.cuda.is_available():
-    print("spaCy is using GPU");
-    spacy.prefer_gpu();
-
-nlp = spacy.load("en_core_web_sm");
-
-# Read the CSV file and extract the date & both merging companies (index base)
-filedDate = pd.read_csv(csvFile, header=None).iloc[:, 1].tolist();
-companyAList = pd.read_csv(csvFile, header=None).iloc[:, 2].tolist();
-companyBList = pd.read_csv(csvFile, header=None).iloc[:, 3].tolist();
-
-# Phrases for locating start point of the background section
-startPhrases = [
-    "Background of the transaction",
-    "Background of the merger",
-    "Background of the offer",
-    "Background of the acquisition",
-    "Background of the consolidation",
-    "Background of the Asset Sale",
-    "Background of the Combination",
-    "Background of the Proposal",
-    "Background of the Offer and the Merger",
-    "Background and negotiation of the merger",
-    "Background to the merger",
-    "Background to the acquisition",
-    "Background to the offer",
-    "Background to the transaction",
-    "Background to the consolidation",
-    "Background to the Asset Sale",
-    "Background to the Combination",
-    "Background to the Proposal",
-    "Background of Offer",
-    "Background of Acquisition",
-    "Background of Transaction",
-    "Background of Merger",
-    "Background of Consolidation",
-    "Background of Asset Sale",
-    "Background of Combination",
-    "Background of Proposal"
-];
+# Config variables
+MAX_NUM_OF_THREADS = min(32, os.cpu_count() + 4); # From docs
+DELETE_ASSISTANT_MODE = False;
+CSV_FILE = "./truncatedData.csv";
 
 def main():
-    # Extract the documents with both company names present and the "Background of the Merger" section
-    instructions = (
-        "Your primary task is to determine whether the given text contains a section that provides a chronological background of a merger. "
-        "This section may be titled differently, such as 'Background of the Transaction', 'Background of the Acquisition', 'Background of the Offer', or 'Background of the Consolidation' and so on. "
-        "Carefully scan the document to check if such a section exists. "
-        "Do not analyze the contents—only confirm whether the section is present. "
-        "If the section is found, return [Found]. If not, return [None]."
-    );
+    local = load_dotenv();
+    if not local:
+        raise RuntimeError("Environment variables not loaded. Please check your .env file.");
+
+    openai_api_key = os.getenv("OPENAI_API_KEY");
+    if not openai_api_key:
+        raise RuntimeError("OPENAI_API_KEY not found in .env file.");
+
+    nlp = spacy.load("en_core_web_sm");
+
+    # Read the CSV file and extract the date & both merging companies (index base)
+    filed_date = pd.read_csv(CSV_FILE, header=None).iloc[:, 1].tolist();
+    company_A_list = pd.read_csv(CSV_FILE, header=None).iloc[:, 2].tolist();
+    company_B_list = pd.read_csv(CSV_FILE, header=None).iloc[:, 3].tolist();
+
+    # Phrases for locating start point of the background section
+    start_phrases = [
+        "Background of the transaction",
+        "Background of the merger",
+        "Background of the offer",
+        "Background of the acquisition",
+        "Background of the consolidation",
+        "Background of the Asset Sale",
+        "Background of the Combination",
+        "Background of the Proposal",
+        "Background of the Offer and the Merger",
+        "Background and negotiation of the merger",
+        "Background to the merger",
+        "Background to the acquisition",
+        "Background to the offer",
+        "Background to the transaction",
+        "Background to the consolidation",
+        "Background to the Asset Sale",
+        "Background to the Combination",
+        "Background to the Proposal",
+        "Background of Offer",
+        "Background of Acquisition",
+        "Background of Transaction",
+        "Background of Merger",
+        "Background of Consolidation",
+        "Background of Asset Sale",
+        "Background of Combination",
+        "Background of Proposal",
+        "Background"
+    ];
+
+    # Instantiating the shared thread pool for shared usage and automatic handling
+    thread_pool = ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS);
     
-    prompt = (
-        "Locate the 'Background of the Merger' section (which may be titled differently, such as "
-        "'Background of the Transaction', 'Background of the Acquisition', 'Background of the Consolidation', or 'Background of the Offer'). "
-        "This section provides a chronological timeline of events leading to the merger. "
-        "For example, the timeline will describe events like: On date X, company A met with company B. "
-        "If and only if you find this section, strictly return [Found]. "
-        "If you cannot find the section, strictly return [None]. Do not return anything else. "
-    );
-    
-    filterAssistant = Assistant(api_key, "Filter Assistant", instructions, prompt, "gpt-4o-mini");
+    backup_assistant = BackupAssistant(openai_api_key, "Backup Assistant", "gpt-4o-mini");
 
-    crawler = Crawler(filedDate, companyAList, companyBList, startPhrases, maxNumOfThreads, nlp, filterAssistant);
-    crawler.runCrawler(startIndex=250, endIndex=299); # True to literal index: i.e., 0 to 99 is 0 to 99
-    # crawler.runCrawler(index=233);
+    # crawler = Crawler(filed_date, company_A_list, company_B_list, start_phrases, thread_pool, nlp, backup_assistant);
+    # crawler.runCrawler(index=0);
+    # crawler.runCrawler(start_index=0, end_index=9, date_margin=4);
 
-    # Find the company that had the intention of selling/buying the other company
-    instructions = (
-        "You specialize in identifying the company that first expressed an intention to sell or buy the other company in a given text file. "
-        "Your primary task is to locate the relevant section that outlines the timeline of merger discussions, acquisitions, or sell-off considerations. "
-        "If a third party (such as an advisor, investor, or regulatory body) initiated the suggestion, extract the company that ultimately acted upon it. "
-        "Ensure that you analyze the sequence of events carefully to determine which company first demonstrated intent—whether by initiating discussions, hiring advisors, or making a formal proposal. "
-        "If you identify this company, return its name strictly in the format: [Company Name]. If you cannot determine the initiating company, return [None]."
-    );
+    analysisAssistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
 
-    prompt = (
-        "Analyze the document to determine which company first expressed intent to either sell itself or acquire another company. "
-        "Look for initial merger discussions, acquisition proposals, or sell-off considerations. "
-        "If a third party (e.g., an advisor or investor) suggested the deal, extract the company that took action on it. "
-        "Return the initiating company's name strictly in the format: [Company Name]. "
-        "If no clear initiating company is found, return [None]. "
-        "Do return why said company is the first to express intent. "
-    );
+    initiatorClassifier = InitiatorClassifier(openai_api_key, company_A_list, company_B_list, start_phrases, thread_pool, nlp, analysisAssistant);
+    # initiatorClassifier.findInitiator(index=0);
+    initiatorClassifier.findInitiator(start_index=2, end_index=9);
 
-    # analystAssistant = Assistant(api_key, "Analyst Assistant", instructions, prompt, "gpt-4o-mini");
+    thread_pool.shutdown(wait=True);
 
-    # cognition = Cognition(companyAList, companyBList, 5, analystAssistant); # 5 threads to not flood openai api
-    # cognition.findInitiator(startIndex=0, endIndex=19); # Index literal; 0 is 0
-    # cognition.findInitiator(index=0);
-
-    if deleteAssistant:
-        filterAssistant.deleteAssistant();
+    if DELETE_ASSISTANT_MODE:
+        print("Delete mode");
+        # filterAssistant.deleteAssistant();
         # analystAssistant.deleteAssistant();
 
 
