@@ -99,6 +99,11 @@ class InitiatorClassifier:
                 if section_passage is None:
                     print("FATAL: Failed to acquire a section passage for index: ", main_index, "; Companies: ", self.company_A_list[main_index], " & ", self.company_B_list[main_index]);
                     sys.exit(1);
+                
+                # Write the section passage for debugging
+                section_file_path = f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt";
+                with open(section_file_path, "w", encoding="utf-8") as file:
+                    file.write(section_passage);
             
                 result = self.assistant.analyzeDocument(section_passage);
                 self.__write_result(main_index, result);

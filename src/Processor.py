@@ -1,6 +1,6 @@
 import re
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed, wait, ALL_COMPLETED, CancelledError
-from multiprocessing import Manager
+from multiprocessing import Manager, get_context
 import sys
 import requests
 import os
@@ -296,7 +296,10 @@ class Processor:
                 The document url that contains the 'Background of the Merger' section.
         """
         try:
-            _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), start_phrases, nlp_model);
+            _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), [phrase for phrase in start_phrases if phrase != "Background"], nlp_model);
+            if len(approx_chunks) == 0: # Fallback with lower confidence in accuracy
+                _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], nlp_model);
+
             if len(approx_chunks) > 0:
                 if found_data.value: # Prevent race condition
                     return None;
@@ -315,6 +318,9 @@ class Processor:
 
                         Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {company_names[0]} & {company_names[1]}");
                         return doc.getUrl();
+        except (CancelledError, EOFError):
+            # Ignore these errors since they occur when processes are being stopped, results can be discarded
+            return None;
         except Exception as e:
             Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {doc.getUrl()}: {e}");
         
@@ -359,7 +365,7 @@ class Processor:
                     return None;
 
             # Locate valid document with the 'Background of the Merger' section via multi-processing
-            with ProcessPoolExecutor() as executor:
+            with ProcessPoolExecutor(mp_context=get_context("spawn")) as executor:
                 futures = {
                     executor.submit(
                         Processor.process_document, doc, company_names, main_index, start_phrases, found_data, nlp_model, lock
@@ -372,12 +378,11 @@ class Processor:
                     try:
                         doc_url = future.result();
                         if doc_url:
-                            # Cancel remaining processes
-                            for f in futures:
-                                f.cancel();
+                            # Cancel remaining processes and force termination
+                            executor.shutdown(wait=False, cancel_futures=True);
                             return doc_url;
                     except Exception as e:
-                        if isinstance(e, CancelledError):
+                        if isinstance(e, (CancelledError, EOFError)):
                             continue;
                         doc = futures[future];
                         Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {doc.getUrl()}: {e}");

@@ -8,6 +8,7 @@ import torch
 from openai import OpenAI
 import json
 import torch
+import sys
 
 from Logger import Logger
 
@@ -81,27 +82,35 @@ class ChunkProcessor:
             sentenceStripped = sentence.strip();
             lines = [line.strip() for line in sentenceStripped.split("\n")];
 
-            # Check for literal match within sentence
-            match = next(
-                (sc for sc in start_phrases if sc.lower() in sentenceStripped.lower()),
-                None
-            )
-            if match:
-                foundStartPhrase = match;
-                break;
+            # Check for literal match within sentence if we are using complete phrases rather than just "Background"
+            if not (len(start_phrases) == 1 and start_phrases[0].lower() == "background"):
+                match = next(
+                    (sc for sc in start_phrases if sc.lower() in sentenceStripped.lower()),
+                    None
+                );
+                if match:
+                    foundStartPhrase = match;
+                    break;
 
             # If no match in the sentence, check each line with additional fuzzy match
             for line in lines:
                 if len(line) == 0:
                     continue;
                 
-                match = next(
-                    (sc for sc in start_phrases if sc.lower() in line.lower() or fuzz.ratio(line.lower(), sc.lower()) > 80),
-                    None
-                )
-                if match:
-                    foundStartPhrase = line;
-                    break;
+                # Special case for only "Background" phrase to check for exact match 
+                if len(start_phrases) == 1 and start_phrases[0].lower() == "background":
+                    if line.strip().lower() == "background":  # Exact match check
+                        foundStartPhrase = line;
+                        break;
+                else:
+                    # Perform fuzzy matching for other start phrases
+                    match = next(
+                        (sc for sc in start_phrases if sc.lower() in line.lower() or fuzz.ratio(line.lower(), sc.lower()) > 80),
+                        None
+                    );
+                    if match:
+                        foundStartPhrase = line;
+                        break;
         
             if foundStartPhrase:
                 break;
@@ -137,7 +146,8 @@ class ChunkProcessor:
                 if found_start_phrase.lower() not in line.lower():
                     continue;
 
-                if "reason" in line.lower() or "industry" in line.lower():
+                # Filter out false positive section titles
+                if any(word in line.lower() for word in ["reason", "industry", "identity", "filing", "corporate"]):
                     continue;
 
                 if ChunkProcessor.has_empty_neighbors(i, lines):
@@ -308,6 +318,7 @@ class ChunkProcessor:
                 chunk_embeddings.append(embeddings);
             except Exception as e:
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error retrieving embeddings: {e}");
+                sys.exit(1);
 
         # Stack embeddings into a tensor
         chunk_embeddings = torch.stack(chunk_embeddings);
