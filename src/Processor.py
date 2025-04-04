@@ -307,6 +307,7 @@ class Processor:
                 with lock:
                     if not found_data.value:
                         found_data.value = True;
+                        time.sleep(1);
 
                         # Write the found document with the 'Background' section into a new file
                         format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";

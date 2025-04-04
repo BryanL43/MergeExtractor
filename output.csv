@@ -1,10 +1,11 @@
-INDEX,DATE,TMANAMES,AMANAMES,URL
-index_0,1/8/2001,Prime Response Inc,Chordiant Software Inc,https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
-index_2,1/10/2001,Mediconsult.com Inc,CyBear Inc(Andryx Corp),https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
-index_3,1/15/2001,Xircom Inc,Intel Corp,https://www.sec.gov/Archives/edgar/data/50863/000109581101000469/0001095811-01-000469.txt
-index_4,1/16/2001,Allaire Corp,Macromedia Inc,https://www.sec.gov/Archives/edgar/data/913949/000089161801000108/0000891618-01-000108.txt
-index_5,1/17/2001,WebTrends Corp,NetIQ Corp,https://www.sec.gov/Archives/edgar/data/1084827/000089843001000748/0000898430-01-000748.txt
-index_6,1/18/2001,Texoil Inc,Ocean Energy Inc,https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
-index_7,1/22/2001,Guest Supply Inc,Sysco Corp,https://www.sec.gov/Archives/edgar/data/96021/000095012901001213/0000950129-01-001213.txt
-index_8,1/22/2001,Pontotoc Production Inc,Ascent Energy Inc,https://www.sec.gov/Archives/edgar/data/1132415/000091205701513097/0000912057-01-513097.txt
-index_9,1/23/2001,Centennial Technologies Inc,Solectron Corp,https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+INDEX,ANNOUNCEMENT_DATE,TMANAMES,AMANAMES,URL
+0,1/8/2001,Prime Response Inc,Chordiant Software Inc,https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+2,1/10/2001,Mediconsult.com Inc,CyBear Inc(Andryx Corp),https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+3,1/15/2001,Xircom Inc,Intel Corp,https://www.sec.gov/Archives/edgar/data/50863/000109581101000469/0001095811-01-000469.txt
+4,1/16/2001,Allaire Corp,Macromedia Inc,https://www.sec.gov/Archives/edgar/data/913949/000089161801000108/0000891618-01-000108.txt
+5,1/17/2001,WebTrends Corp,NetIQ Corp,https://www.sec.gov/Archives/edgar/data/1084827/000089843001000748/0000898430-01-000748.txt
+6,1/18/2001,Texoil Inc,Ocean Energy Inc,https://www.sec.gov/Archives/edgar/data/320321/000095013401000381/0000950134-01-000381.txt
+7,1/22/2001,Guest Supply Inc,Sysco Corp,https://www.sec.gov/Archives/edgar/data/96021/000095012901001213/0000950129-01-001213.txt
+8,1/22/2001,Pontotoc Production Inc,Ascent Energy Inc,https://www.sec.gov/Archives/edgar/data/1132415/000091205701513097/0000912057-01-513097.txt
+9,1/23/2001,Centennial Technologies Inc,Solectron Corp,https://www.sec.gov/Archives/edgar/data/835541/000095014901500102/0000950149-01-500102.txt
+10,1/26/2001,Heartport Inc,Johnson & Johnson,https://www.sec.gov/Archives/edgar/data/200406/000095012301002280/0000950123-01-002280.txt

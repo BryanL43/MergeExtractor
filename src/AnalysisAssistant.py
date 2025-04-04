@@ -105,6 +105,8 @@ class AnalysisAssistant(Assistant):
             assistant_id=self._assistant_id
         );
 
+        # TO DO: Fix syncing
+
         # Extract the json object from the function in a hacky manner.
         # This avoids openai messy APIs.
         result = None;

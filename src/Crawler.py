@@ -382,13 +382,13 @@ class Crawler:
         with open("output.csv", mode="a", newline="", encoding="utf-8") as file:
             writer = csv.writer(file);
             if file.tell() == 0:
-                writer.writerow(["INDEX", "SEARCHDATE", "TMANAMES", "AMANAMES", "URL"]);
+                writer.writerow(["INDEX", "ANNOUNCEMENT_DATE", "TMANAMES", "AMANAMES", "URL"]);
 
             for main_index, url in acquired_documents:
                 try:
                     # Write to the output CSV
                     writer.writerow(
-                        [f"index_{main_index}", self.filed_date[main_index], self.company_A_list[main_index], self.company_B_list[main_index], url]
+                        [main_index, self.filed_date[main_index], self.company_A_list[main_index], self.company_B_list[main_index], url]
                     );
                 except Exception as e:
                     Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error writing to output for index {main_index}: {e}");

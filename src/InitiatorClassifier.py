@@ -38,11 +38,11 @@ class InitiatorClassifier:
         with open("outputUnion.csv", mode="a", newline="", encoding="utf-8") as file:
             writer = csv.writer(file);
             if not file_exists:
-                writer.writerow(["INDEX", "INITIATOR", "DATEOFINITIATION", "TYPEOFINITIATION", "REASON", "KEYFIGURES"]);
+                writer.writerow(["INDEX", "INITIATOR", "DATE_OF_INITIATION", "TYPE_OF_INITIATION", "REASON", "KEY_FIGURES"]);
             
             writer.writerow(
                 [
-                    str(main_index), 
+                    main_index, 
                     result["initiator"], 
                     result["date_of_initiation"], 
                     result["type_of_initiation"], 
