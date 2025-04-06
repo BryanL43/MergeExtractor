@@ -319,7 +319,7 @@ class Processor:
 
                         Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {company_names[0]} & {company_names[1]}");
                         return doc.getUrl();
-        except (CancelledError, EOFError):
+        except (CancelledError, EOFError, FileNotFoundError):
             # Ignore these errors since they occur when processes are being stopped, results can be discarded
             return None;
         except Exception as e:

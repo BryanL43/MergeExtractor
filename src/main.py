@@ -68,13 +68,13 @@ def main():
     backup_assistant = BackupAssistant(openai_api_key, "Backup Assistant", "gpt-4o-mini");
 
     crawler = Crawler(filed_date, company_A_list, company_B_list, start_phrases, thread_pool, nlp, backup_assistant);
-    crawler.runCrawler(index=10, date_margin=4);
+    # crawler.runCrawler(index=91, date_margin=4);
     # crawler.runCrawler(start_index=0, end_index=9, date_margin=4);
 
     analysisAssistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
 
     initiatorClassifier = InitiatorClassifier(openai_api_key, company_A_list, company_B_list, start_phrases, thread_pool, nlp, analysisAssistant);
-    initiatorClassifier.findInitiator(index=10);
+    initiatorClassifier.findInitiator(index=91);
     # initiatorClassifier.findInitiator(start_index=0, end_index=9);
 
     thread_pool.shutdown(wait=True);

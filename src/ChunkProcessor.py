@@ -9,6 +9,7 @@ from openai import OpenAI
 import json
 import torch
 import sys
+from collections import Counter
 
 from Logger import Logger
 
@@ -16,6 +17,8 @@ QUERY_EMBEDDING_FILE = "./config/query_embedding.json";
 
 class ChunkProcessor:
     nlp: Language = None;
+    _nlp_trf = spacy.load("en_core_web_lg"); # Strict model else accuracy for abbreviation is impacted
+    print("Instantiated ChunkProcessor");
 
     def __init__(self, nlp: Language, client: OpenAI, thread_pool: ThreadPoolExecutor):
         ChunkProcessor.nlp = nlp;
@@ -232,63 +235,18 @@ class ChunkProcessor:
         
         return "\n".join(normalized_text);
 
-    def __find_parent_definition(self, chunks: list[str]) -> list[tuple[int, str]]:
-        """
-            Find the chunk that contains the definition of the abbreviation "Parent."
-            It is usually in the format of: Company name ("Parent")
-        """
-        results = [];
-        for i, chunk in enumerate(chunks):
-            # Check if "Parent" is in the chunk
-            if re.search(r'\bParent\b', chunk, re.IGNORECASE) and re.search(r'\(\s*"Parent"\s*\)', chunk):
-                results.append((i, chunk));
+    def __find_definition_paragraph(self, chunks: list[str], org: str) -> (str | None):
+        # Pattern to match the ORG in quotes within parentheses
+        pattern = re.compile(r'\([^)]*?"{}"[^)]*?\)'.format(re.escape(org)), re.IGNORECASE);
         
-        return results;
-
-    def __extract_parent_paragraph(self, text) -> str | None:
-        """Extract the paragraph that contains the word 'Parent'."""
-        paragraphs = re.split(r'\n\s*\n|-{5,}', text);
-
-        for paragraph in paragraphs:
-            if re.search(r'parent', paragraph, re.IGNORECASE):
-                return paragraph.strip();
-
+        for chunk in chunks:
+            # Split chunk into paragraphs
+            paragraphs = re.split(r'\n\s*\n', chunk)
+            for para in paragraphs:
+                if pattern.search(para):
+                    return para.strip();
+                
         return None;
-
-    def __extract_all_but_last_word(self, company_name: str) -> str:
-        """
-            Given a company name, drop the last word and merge domain-like terms.
-
-            Parameters
-            ----------
-            company_name : str
-                The company name to be processed.
-
-            Returns
-            -------
-            str
-                The processed company name.
-        """
-        clean_name = re.sub(r"\(.*?\)", "", company_name);  # Remove parentheses content
-        words = re.split(r"[\s\_]+", clean_name.strip());  # Split by space or underscore
-
-        # Domain-like terms to merge
-        merge_words = {"net", "com", "org", "co"};
-
-        # Merge domain-like words
-        for i in range(len(words) - 1):
-            if words[i].lower() in merge_words:
-                words[i] = words[i] + "." + words[i + 1];
-                words.pop(i + 1);
-                break;
-
-        if len(words) > 1:
-            if words[-2] == "&":
-                words = words[:-2]; # Remove both "&" and the last word
-            else:
-                words = words[:-1];  # Remove only the last word
-
-        return " ".join(words);
 
     def getSectionPassage(
             self, 
@@ -302,17 +260,16 @@ class ChunkProcessor:
             query_embedding = torch.tensor(json.load(f), dtype=torch.float32);
         
         # Create multiple threads to embed each chunk in parallel
-        futures = {
-            self.thread_pool.submit(self.__get_embedding, chunk):
-            chunk for _, chunk in approx_chunks
-        };
+        futures = [];
+        for _, chunk in approx_chunks:
+            futures.append(self.thread_pool.submit(self.__get_embedding, chunk));
 
         # Ensure all futures are completed before proceeding
-        wait([future for future in futures], return_when=ALL_COMPLETED);
+        wait(futures, return_when=ALL_COMPLETED);
 
         # Compile the embeddings from the futures
         chunk_embeddings = [];
-        for future in as_completed(futures):
+        for future in futures:
             try:
                 embeddings = future.result();
                 chunk_embeddings.append(embeddings);
@@ -325,19 +282,18 @@ class ChunkProcessor:
 
         # Compute cosine similarity
         similarities = torch.nn.functional.cosine_similarity(query_embedding.unsqueeze(0), chunk_embeddings);
-
-        # Sort indices by similarity in descending order
-        indices = torch.argsort(similarities, descending=True).tolist();
         
         final_chunks = [
             (approx_chunks[i][0], approx_chunks[i][1], similarities[i].item()) 
-            for i in indices
+            for i in range(len(similarities))
         ];
 
+        final_chunks_sorted = sorted(final_chunks, key=lambda x: x[2], reverse=True);
+
         # Locate the chunk that is the beginning of the "Background of the Merger" section
-        beginning_chunk = self.__get_beginning_chunk(final_chunks, [phrase for phrase in start_phrases if phrase != "Background"]);
+        beginning_chunk = self.__get_beginning_chunk(final_chunks_sorted, [phrase for phrase in start_phrases if phrase != "Background"]);
         if not beginning_chunk:
-            beginning_chunk = self.__get_beginning_chunk(final_chunks, ["Background"]); # Fallback with low confidence
+            beginning_chunk = self.__get_beginning_chunk(final_chunks_sorted, ["Background"]); # Fallback with low confidence
 
         if not beginning_chunk:
             return None;
@@ -348,25 +304,56 @@ class ChunkProcessor:
         extracted_section = truncated_chunk + "\n" + extracted_section;
 
         passage = self.__normalize_chunks(extracted_section);
-        parent_word_count = len(re.findall(r'\bparent\b', passage, re.IGNORECASE));
-        if parent_word_count < 5:
-            return "The following provides details on events leading up to the merger deal:\n" + passage;
-    
-        # Abbreviation is at the top of document so narrow the search
-        parent_def_chunks = [chunk for _, chunk in self.__find_parent_definition(chunks[2:30])];
-        parent_paragraph = self.__extract_parent_paragraph(parent_def_chunks[0]);
-        if parent_paragraph is None:
-            raise Exception("FATAL: Parent paragraph not found");
 
-        # Validate company name are present in parent paragraph
-        parent_paragraph_clean = re.sub(r'\s+', ' ', parent_paragraph.lower().strip());
-        company_names_cut = [self.__extract_all_but_last_word(name).lower() for name in company_names];
-        if not (company_names_cut[0] in parent_paragraph_clean or company_names_cut[1] in parent_paragraph_clean):
-            raise Exception("FATAL: Company names were not found in the parent definition paragraph");
+        # Take the first word of the companies names
+        company_names_cut = [name.lower().split()[0].split(".")[0] for name in company_names];
+        
+        # Validate whether both company names are present in the passage: meaning no abbreviations required
+        passage_clean = re.sub(r'\s+', ' ', passage.lower().strip());
+        if company_names_cut[0] in passage_clean and company_names_cut[1] in passage_clean:
+            return "The following provides details on events leading up to the merger deal:\n" + passage;
+
+        doc = ChunkProcessor._nlp_trf(passage);
+        org_counter = Counter(); # Tracks the frequency of organization words
+
+        # Label all potential Organiation entities
+        for ent in doc.ents:
+            if ent.label_ == "ORG":
+                org_counter[ent.text] += 1;
+        
+        seen_chunks = set();
+        abbreviation_map = {}; # Store abbreviation definitions with associated ORG
+
+        abbreviation_definitions = "Here are some potentially useful abbreviation definitions that could help with analyzing the 'Background' section:\n";
+
+        # Identify all valid paragraphs that defines the top 5 most frequent potential abbreviations
+        # These potential abbreviation may or may not be the expected result but it improves accuracy
+        for org, _ in org_counter.most_common(5):
+            definition_paragraph = self.__find_definition_paragraph(chunks, org);
+            if definition_paragraph:
+                abbreviation_map.setdefault(definition_paragraph, []).append(org);
+        
+        # Format the final output abbreviation definition string to append to passage
+        for definition_paragraph, orgs in abbreviation_map.items():
+            if definition_paragraph not in seen_chunks:
+                seen_chunks.add(definition_paragraph);  # Mark chunk as seen
+
+                # Format the ORG list correctly
+                if len(orgs) > 2:
+                    orgs_text = "', '".join(orgs[:-1]);
+                    orgs_text = f"'{orgs_text}', and '{orgs[-1]}'";
+                elif len(orgs) == 2:
+                    orgs_text = f"'{orgs[0]}' and '{orgs[1]}'";
+                else:
+                    orgs_text = f"'{orgs[0]}'";
+
+                abbreviation_definitions += f"\nPassage that defines the abbreviation {orgs_text}:\n";
+                abbreviation_definitions += definition_paragraph + "\n";
+        
+        abbreviation_definitions += "\n";
 
         finalPassage = (
-            "The Parent abbreviation is defined here:\n\n" 
-            + parent_paragraph + "\n\n"
+            abbreviation_definitions
             + "The following provides details on events leading up to the merger deal:\n\n" 
             + passage
         );

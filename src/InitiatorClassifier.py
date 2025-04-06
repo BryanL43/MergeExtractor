@@ -5,7 +5,6 @@ import csv
 import sys
 from spacy.language import Language
 from openai import OpenAI
-import json
 
 from AnalysisAssistant import AnalysisAssistant
 from Logger import Logger
