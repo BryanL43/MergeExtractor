@@ -497,4 +497,4 @@ class Crawler:
         self.__write_output_urls(acquired_documents);
 
         # Clean up the vector store at the end as we can't clear while in parallel processing
-        # self.assistant.clearVectorStores();
+        self.assistant.clearVectorStores();

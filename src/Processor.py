@@ -1,6 +1,7 @@
 import re
 from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed, wait, ALL_COMPLETED, CancelledError
 from multiprocessing import Manager, get_context
+from threading import Event
 import sys
 import requests
 import os
@@ -233,32 +234,85 @@ class Processor:
 
         return documents;
 
-    # Helper function for fallback method
-    # def __analyzeDocumentWithObj(self, file_path: str, doc: Document):
-    #     result = self.assistant.analyzeDocument(file_path);
-    #     return result, doc;
+    def __fallback_check(self, documents: list[Document], company_names: list[str], main_index: int) -> (str | None):
+        # Create temp directory for creating temp file acceptable by openai
+        os.makedirs(TEMP_DIRECTORY, exist_ok=True);
+        file_doc_pairs = [];
 
-    # def __processFallbackFutures(self, futures: list[tuple[str, Document]]) -> (Document | None):
-    #     sectionFoundEvent = Event(); # Localized event to ttrack section discovery
+        # Create the temp files
+        for doc in documents:
+            file_path = os.path.join(TEMP_DIRECTORY, f"merge_extractor_temp_{random.randint(1000, 99999)}.txt");
+            with open(file_path, "w", encoding="utf-8") as file:
+                file.write(doc.getContent());
+                file.flush();
+            
+            # Wait for the file to be created; prevent race condition
+            while not os.path.exists(file_path):
+                time.sleep(0.1);
+            
+            file_doc_pairs.append((file_path, doc));
 
-    #     for result, doc in futures:
-    #         if sectionFoundEvent.is_set():
-    #             break;
+        # Parallely process the documents via openai
+        futures = [
+            self.thread_pool.submit(
+                lambda pair: (self.assistant.analyzeDocument(pair[0]), pair[1]), # Returns tuple of (result, doc) 
+                pair
+            ) for pair in file_doc_pairs
+        ];
+
+        section_found = Event(); # Tracks first section discovery
+        fallback_result = None;
+
+        # Process the futures as they complete; terminates the moment the first result is found
+        for future in as_completed(futures):
+            if section_found.is_set():
+                future.cancel();
+                continue;
         
-    #         try:
-    #             if result is None:
-    #                 continue;
+            try:
+                result, doc = future.result();
+                if result is None:
+                    continue;
 
-    #             match = re.search(r"\[(.*?)\]", result);
-    #             foundSection = match.group(1) if match else "unknown";
+                # Process the result message
+                match = re.search(r"\[(.*?)\]", result);
+                foundSection = match.group(1) if match else "unknown";
 
-    #             if foundSection == "Found":
-    #                 sectionFoundEvent.set();  # Signal that a section has been found
-    #                 return doc; # Returns the correct document with the detected section
-    #         except Exception as e:
-    #             Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing fallback future: {e}");
+                if foundSection == "Found":
+                    section_found.set();  # Signal that a section has been found
+                    fallback_result = doc;
+                    break;
+            except Exception as e:
+                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing fallback future: {e}");
+        
+        # Terminate all remaining futures
+        if section_found.is_set():
+            for f in futures:
+                f.cancel();
+        
+        if fallback_result:
+            # Write the data to a file
+            format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
+            batchStart = (main_index // 100) * 100;
+            batchEnd = batchStart + 99;
+            with open(f"./DataSet/{batchStart}-{batchEnd}/{format_doc_name}.txt", "w", encoding="utf-8") as file:
+                file.write(f"URL: {fallback_result.getUrl()}\n\n");
+                file.write(fallback_result.getContent());
+            
+            # Delete the temp directory
+            if os.path.exists(TEMP_DIRECTORY):
+                time.sleep(0.5);
+                shutil.rmtree(TEMP_DIRECTORY);
 
-    #     return None;
+            Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Retry attempt successfully created document for: {company_names[0]} & {company_names[1]}");
+            return fallback_result.getUrl();
+    
+        # Delete the temp directory
+        if os.path.exists(TEMP_DIRECTORY):
+            time.sleep(0.5);
+            shutil.rmtree(TEMP_DIRECTORY);
+        
+        return None;
 
     @staticmethod
     def process_document(
@@ -387,52 +441,14 @@ class Processor:
                             continue;
                         doc = futures[future];
                         Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {doc.getUrl()}: {e}");
-
-        return None;
-
+        
         # Fallback method if fuzzy fails. We will use openai to determine if the background section is within any of the documents
-        # if not foundData:
-        #     Logger.logMessage(f"[{Logger.get_current_timestamp()}] [*] No background section found for index {mainIndex}: {companyNames[0]} & {companyNames[1]}. Retrying via fallback...");
+        Logger.logMessage(
+            f"[{Logger.get_current_timestamp()}] [*] No background section found for index {main_index}: {company_names[0]} & {company_names[1]}. Retrying via fallback..."
+        );
 
-        #     # Create temp directory for creating temp file acceptable by openai
-        #     os.makedirs(TEMP_DIRECTORY, exist_ok=True);
-        #     fileDocComposite = [];
-
-        #     # Create a list of async processes to force correct using openai
-        #     for doc in documents:
-        #         filePath = os.path.join(TEMP_DIRECTORY, f"merge_extractor_temp_{random.randint(1000, 99999)}.txt");
-        #         with open(filePath, "w", encoding="utf-8") as file:
-        #             file.write(doc.getContent());
-        #             file.flush();
-                
-        #         # Wait for the file to be created; prevent race condition
-        #         while not os.path.exists(filePath):
-        #             time.sleep(0.1);
-                
-        #         fileDocComposite.append((filePath, doc));
-            
-        #     # Parallelly process all documents to locate "Background of the Merger" section via openai
-        #     fallbackFutures = list(self.executor.map(lambda args: self.__analyzeDocumentWithObj(*args), fileDocComposite));
-
-        #     fallbackResult = self.__processFallbackFutures(fallbackFutures);
-        #     if fallbackResult is not None:
-        #         # Write the data to a file
-        #         batchStart = (mainIndex // 100) * 100;
-        #         batchEnd = batchStart + 99;
-        #         with open(f"./DataSet/{batchStart}-{batchEnd}/{formatDocName}.txt", "w", encoding="utf-8") as file:
-        #             file.write(f"URL: {fallbackResult.getUrl()}\n\n");
-        #             file.write(fallbackResult.getContent());
-                
-        #         if os.path.exists(TEMP_DIRECTORY):
-        #             time.sleep(0.5);
-        #             shutil.rmtree(TEMP_DIRECTORY);
-
-        #         Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {companyNames[0]} & {companyNames[1]}");
-        #         return fallbackResult.getUrl();
-            
-        #     if os.path.exists(TEMP_DIRECTORY):
-        #         time.sleep(0.5);
-        #         shutil.rmtree(TEMP_DIRECTORY);
-        #     return None;
-
-        # return None; # Extreme backup
+        fallback_result = self.__fallback_check(documents, company_names, main_index);
+        if fallback_result is None:
+            return None;
+    
+        return fallback_result;

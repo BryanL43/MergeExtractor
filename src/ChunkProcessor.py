@@ -1,5 +1,5 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from concurrent.futures import ThreadPoolExecutor, ALL_COMPLETED, wait, as_completed
+from concurrent.futures import ThreadPoolExecutor, ALL_COMPLETED, wait
 from spacy.language import Language
 import re
 from fuzzywuzzy import fuzz
@@ -18,7 +18,6 @@ QUERY_EMBEDDING_FILE = "./config/query_embedding.json";
 class ChunkProcessor:
     nlp: Language = None;
     _nlp_trf = spacy.load("en_core_web_lg"); # Strict model else accuracy for abbreviation is impacted
-    print("Instantiated ChunkProcessor");
 
     def __init__(self, nlp: Language, client: OpenAI, thread_pool: ThreadPoolExecutor):
         ChunkProcessor.nlp = nlp;
