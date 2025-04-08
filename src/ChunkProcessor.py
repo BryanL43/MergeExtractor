@@ -10,6 +10,7 @@ import json
 import torch
 import sys
 from collections import Counter
+from sentence_transformers import CrossEncoder
 
 from Logger import Logger
 
@@ -19,8 +20,9 @@ class ChunkProcessor:
     nlp: Language = None;
     _nlp_trf = spacy.load("en_core_web_lg"); # Strict model else accuracy for abbreviation is impacted
 
-    def __init__(self, nlp: Language, client: OpenAI, thread_pool: ThreadPoolExecutor):
+    def __init__(self, nlp: Language, reranker_model: CrossEncoder, client: OpenAI, thread_pool: ThreadPoolExecutor):
         ChunkProcessor.nlp = nlp;
+        self.reranker_model = reranker_model;
         self.client = client;
         self.thread_pool = thread_pool;
     
@@ -79,30 +81,31 @@ class ChunkProcessor:
         doc = nlp(chunk);
         sentences = [sent.text.strip() for sent in doc.sents];
 
-        foundStartPhrase = None
+        found_start_phrase = None
         for sentence in sentences:
-            sentenceStripped = sentence.strip();
-            lines = [line.strip() for line in sentenceStripped.split("\n")];
+            sentence_stripped = sentence.strip();
+            lines = [line.strip() for line in sentence_stripped.split("\n")];
 
             # Check for literal match within sentence if we are using complete phrases rather than just "Background"
             if not (len(start_phrases) == 1 and start_phrases[0].lower() == "background"):
                 match = next(
-                    (sc for sc in start_phrases if sc.lower() in sentenceStripped.lower()),
+                    (sc for sc in start_phrases if sc.lower() in sentence_stripped.lower()),
                     None
                 );
-                if match:
-                    foundStartPhrase = match;
+                if match and "background" in sentence_stripped.lower():
+                    found_start_phrase = match;
                     break;
 
-            # If no match in the sentence, check each line with additional fuzzy match
+            # If no match in the sentence, check each line with additional fuzzy match.
+            # Additionally checks for direct "background" word match.
             for line in lines:
                 if len(line) == 0:
                     continue;
                 
                 # Special case for only "Background" phrase to check for exact match 
                 if len(start_phrases) == 1 and start_phrases[0].lower() == "background":
-                    if line.strip().lower() == "background":  # Exact match check
-                        foundStartPhrase = line;
+                    if line.strip().lower() == "background":
+                        found_start_phrase = line;
                         break;
                 else:
                     # Perform fuzzy matching for other start phrases
@@ -110,14 +113,14 @@ class ChunkProcessor:
                         (sc for sc in start_phrases if sc.lower() in line.lower() or fuzz.ratio(line.lower(), sc.lower()) > 80),
                         None
                     );
-                    if match:
-                        foundStartPhrase = line;
+                    if match and "background" in line.lower():
+                        found_start_phrase = line;
                         break;
         
-            if foundStartPhrase:
+            if found_start_phrase:
                 break;
 
-        return foundStartPhrase;
+        return found_start_phrase;
     
     @staticmethod
     def has_empty_neighbors(i: int, lines: list[str]) -> bool:
@@ -127,13 +130,13 @@ class ChunkProcessor:
         return has_empty_before or has_empty_after;
 
     @staticmethod
-    def get_approx_chunk_indices(
+    def get_approx_chunks(
         chunks_with_dates: list[tuple[int, str]], 
         start_phrases: list[str], 
         nlp: Language
     ):
         
-        approx_indices = [];
+        approx_chunks = [];
         for idx, chunk in chunks_with_dates:
             found_start_phrase = ChunkProcessor.process_chunk(chunk, start_phrases, nlp);
             if not found_start_phrase:
@@ -153,10 +156,10 @@ class ChunkProcessor:
                     continue;
 
                 if ChunkProcessor.has_empty_neighbors(i, lines):
-                    approx_indices.append(idx);
+                    approx_chunks.append((idx, "\n".join(lines[i:])));
                     break;
     
-        return approx_indices;
+        return approx_chunks;
 
     @staticmethod
     def locateBackgroundChunk(
@@ -180,9 +183,12 @@ class ChunkProcessor:
         if len(chunks_with_dates) == 0:
             return None;
 
-        approx_indices = ChunkProcessor.get_approx_chunk_indices(chunks_with_dates, start_phrases, nlp);
-        approx_indices = sorted(approx_indices);
-        approx_chunks = [(i, chunks[i]) for i in approx_indices];
+        approx_chunks = ChunkProcessor.get_approx_chunks(chunks_with_dates, start_phrases, nlp);
+        if len(approx_chunks) == 0: # Edge case where there is no date within the "Background" chunk; toss all the chunks
+            approx_chunks = ChunkProcessor.get_approx_chunks(list(enumerate(chunks)), start_phrases, nlp);
+
+        approx_chunks = sorted(approx_chunks);
+        approx_chunks = [(idx, chunk) for idx, chunk in approx_chunks];
 
         return chunks, approx_chunks;
 
@@ -279,37 +285,72 @@ class ChunkProcessor:
         # Stack embeddings into a tensor
         chunk_embeddings = torch.stack(chunk_embeddings);
 
+        # Normalize query embedding
+        query_embedding_normalized = query_embedding / torch.norm(query_embedding);
+
+        # Normalize chunk embeddings
+        chunk_embeddings_normalized = chunk_embeddings / torch.norm(chunk_embeddings, dim=1, keepdim=True);
+
         # Compute cosine similarity
-        similarities = torch.nn.functional.cosine_similarity(query_embedding.unsqueeze(0), chunk_embeddings);
-        
+        similarities = torch.nn.functional.cosine_similarity(
+            query_embedding_normalized.unsqueeze(0), 
+            chunk_embeddings_normalized
+        );
+
         final_chunks = [
-            (approx_chunks[i][0], approx_chunks[i][1], similarities[i].item()) 
+            (approx_chunks[i][0], similarities[i].item(), approx_chunks[i][1]) 
             for i in range(len(similarities))
         ];
 
         final_chunks_sorted = sorted(final_chunks, key=lambda x: x[2], reverse=True);
 
+        # Rerank the chunks to more accurately fit the "Background" section
+        rerank_query = "Chronological details of merger discussions, including dates, advisors, and negotiation steps";
+
+        pairs = [(rerank_query, chunk) for _, _, chunk in final_chunks_sorted];
+        rerank_scores = self.reranker_model.predict(pairs, activation_fct=torch.sigmoid); # Sigmoid to map prob in the range of [0, 1]
+
+        reranked_chunks = sorted(zip(final_chunks_sorted, rerank_scores), key=lambda x: x[1], reverse=True);
+
+        # for (index, cos_score, chunk), rerank_score in reranked_chunks:
+        #     print("--" * 50);
+        #     print(f"Chunk {index} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
+        #     print(chunk);
+
         # Locate the chunk that is the beginning of the "Background of the Merger" section
-        beginning_chunk = self.__get_beginning_chunk(final_chunks_sorted, [phrase for phrase in start_phrases if phrase != "Background"]);
-        if not beginning_chunk:
-            beginning_chunk = self.__get_beginning_chunk(final_chunks_sorted, ["Background"]); # Fallback with low confidence
+        # beginning_chunk = self.__get_beginning_chunk(final_chunks_sorted, [phrase for phrase in start_phrases if phrase != "Background"]);
+        # if not beginning_chunk:
+        #     beginning_chunk = self.__get_beginning_chunk(final_chunks_sorted, ["Background"]); # Fallback with low confidence
+
+        (index, cos_score, beginning_chunk), rerank_score = reranked_chunks[0];
+        print("Top reranked chunk:")
+        print(f"Chunk {index} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}")
+        print(beginning_chunk);
 
         if not beginning_chunk:
             return None;
 
         # Acquire the background section text (with some margin of other sections)
-        index, truncated_chunk = beginning_chunk;
+        # index, truncated_chunk = beginning_chunk;
         extracted_section = "\n".join(chunks[index + 1:index + 10]);
-        extracted_section = truncated_chunk + "\n" + extracted_section;
+        extracted_section = beginning_chunk + "\n" + extracted_section;
 
         passage = self.__normalize_chunks(extracted_section);
-
-        # Take the first word of the companies names
-        company_names_cut = [name.lower().split()[0].split(".")[0] for name in company_names];
         
         # Validate whether both company names are present in the passage: meaning no abbreviations required
         passage_clean = re.sub(r'\s+', ' ', passage.lower().strip());
-        if company_names_cut[0] in passage_clean and company_names_cut[1] in passage_clean:
+        
+        # Extract the simplified company name tokens (first word)
+        company_tokens = [name.lower().split()[0].split('.')[0] for name in company_names];
+
+        # Case 1: Direct presence (preserve hyphen)
+        if all(token in passage_clean for token in company_tokens):
+            print("Case 1 returned")
+            return "The following provides details on events leading up to the merger deal:\n" + passage;
+
+        # Case 2: Try replacing hyphens with spaces in company names, then check
+        modified_tokens = [token.replace('-', ' ') for token in company_tokens];
+        if all(token in passage_clean for token in modified_tokens):
             return "The following provides details on events leading up to the merger deal:\n" + passage;
 
         doc = ChunkProcessor._nlp_trf(passage);

@@ -1,0 +1,3174 @@
+URL: https://www.sec.gov/Archives/edgar/data/768262/000095014901500236/0000950149-01-500236.txt
+
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MCWablYky5+BGdFWGv5L+gr9csacgSAbj/Mp5MLRMEyLc+hJa02D5iDHd72a22ck
+ ofb3NyIRETTVGLgccqkPMA==
+
+0000950149-01-500236.txt : 20010316
+
+0000950149-01-500236.hdr.sgml : 20010316
+ACCESSION NUMBER:		0000950149-01-500236
+CONFORMED SUBMISSION TYPE:	SC TO-T
+PUBLIC DOCUMENT COUNT:		11
+FILED AS OF DATE:		20010315
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NEW ERA OF NETWORKS INC
+		CENTRAL INDEX KEY:			0001028339
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING SERVICES [7371]
+		IRS NUMBER:				841234845
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-T
+		SEC ACT:		
+		SEC FILE NUMBER:	005-52527
+		FILM NUMBER:		1569668
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6550 GREENWOOD PLAZA BLVD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80111
+		BUSINESS PHONE:		3036943933
+
+	MAIL ADDRESS:	
+		STREET 1:		6550 GREENWOOD PLAZA BLVD
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80111
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SYBASE INC
+		CENTRAL INDEX KEY:			0000768262
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-PREPACKAGED SOFTWARE [7372]
+		IRS NUMBER:				942951005
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-T
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6475 CHRISTIE AVE
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+		BUSINESS PHONE:		5109223500
+
+	MAIL ADDRESS:	
+		STREET 1:		6475 CHRISTIE AVE
+		STREET 2:		6475 CHRISTIE AVE
+		CITY:			EMERYVILLE
+		STATE:			CA
+		ZIP:			94608
+
+SC TO-T
+
+f70243scto-t.txt
+
+SCHEDULE TO FILING
+
+     AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON MARCH 15, 2001
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                                 UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+                            ------------------------
+
+                                  SCHEDULE TO
+           TENDER OFFER STATEMENT UNDER SECTION 14(d)(1) OR 13(e)(1)
+                   UNDER THE SECURITIES EXCHANGE ACT OF 1934
+                            ------------------------
+
+                           NEW ERA OF NETWORKS, INC.
+                           (NAME OF SUBJECT COMPANY)
+
+                            ------------------------
+
+                             NEEL ACQUISITION CORP.
+                          A WHOLLY-OWNED SUBSIDIARY OF
+
+                                  SYBASE, INC.
+                        (NAMES OF FILING PERSON-OFFEROR)
+                            ------------------------
+
+                                 COMMON STOCK,
+                          PAR VALUE $0.0001 PER SHARE
+                (INCLUDING THE ASSOCIATED SHARE PURCHASE RIGHTS)
+                         (TITLE OF CLASS OF SECURITIES)
+
+                                   644312-100
+                          (CUSIP NUMBER OF SECURITIES)
+
+                            ------------------------
+
+                                 DANIEL R. CARL
+                 VICE PRESIDENT, GENERAL COUNSEL AND SECRETARY
+                                  SYBASE, INC.
+                              6475 CHRISTIE AVENUE
+                              EMERYVILLE, CA 94608
+                                 (510) 922-3500
+       (NAME, ADDRESS, INCLUDING ZIP CODE, AND TELEPHONE NUMBER OF PERSON
+  AUTHORIZED TO RECEIVE NOTICES AND COMMUNICATIONS ON BEHALF OF FILING PERSON)
+
+                            ------------------------
+
+                                   COPIES TO:
+                             LARRY W. SONSINI, ESQ.
+                             MICHAEL KENNEDY, ESQ.
+                               MICHAEL DORF, ESQ.
+                        WILSON SONSINI GOODRICH & ROSATI
+                            PROFESSIONAL CORPORATION
+                                   ONE MARKET
+                            SPEAR TOWER, SUITE 3300
+                            SAN FRANCISCO, CA 94105
+                                 (415) 947-2000
+                            ------------------------
+
+                           CALCULATION OF FILING FEE
+
+- ------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------
+TRANSACTION VALUATION*                                 AMOUNT OF FILING FEE**
+- ------------------------------------------------------------------------------------------------------------
+                    $250,775,345.....................  $50,155
+- ------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------
+
+ * Estimated for purposes of calculating the amount of the filing fee only in
+   accordance with Rules 0-11(d) and 0-11(a)(4) under the Securities Exchange
+   Act of 1934, based upon (a) $6.28, the average of the high and low price per
+   share of New Era of Networks, Inc. common stock on March 14, 2001 as reported
+   on the NASDAQ National Market multiplied by (b) the maximum number of shares
+   of New Era of Networks, Inc. common stock estimated to be received by Sybase
+   or cancelled pursuant to the exchange offer and subsequent merger.
+
+** One-fiftieth of 1% of the value of the transaction.
+
+[X]  Check the box if any part of the fee is offset as provided by Rule
+     0-11(a)(2) and identify the filing with which the offsetting fee was
+     previously paid. Identify the previous filing by registration statement
+     number, or the Form or Schedule and the date of its filing.
+
+Amount Previously Paid: $62,694                        Filing Party: Sybase, Inc.
+Form or Registration No.: Form S-4                     Date Filed: March 15, 2001
+
+[ ]  Check the box if the filing relates solely to preliminary communications
+     made before the commencement of the tender offer.
+
+    Check the appropriate boxes below to designate any transactions to which the
+statement relates:
+
+[X]  third-party tender offer subject to Rule 14d-1.
+
+[ ]  issuer tender offer subject to Rule 13e-4.
+
+[ ]  going-private transaction subject to Rule 13e-3.
+
+[ ]  amendment to Schedule 13D under Rule 13d-2.
+
+    Check the following box if the filing is a final amendment reporting the
+results of the tender offer:  [ ]
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+     This Tender Offer Statement on Schedule TO relates to the commencement of
+an offer by Sybase, Inc., a Delaware corporation ("Sybase"), through its
+wholly-owned subsidiary, Neel Acquisition Corp., a Delaware corporation ("Merger
+Sub"), to exchange each issued and outstanding share of common stock, par value
+$0.0001 per share (the "NEON Shares") of New Era of Networks, Inc., a Delaware
+corporation ("NEON"), for shares of common stock, par value $0.001 per share
+(the "Sybase Shares"), of Sybase based on the exchange ratio described in the
+Prospectus referenced below.
+
+     The offer is made pursuant to an Agreement and Plan of Reorganization,
+dated as of February 20, 2001, by and among Sybase, Merger Sub and NEON which
+contemplates the merger of Merger Sub with and into NEON (the "Merger"). Sybase
+has filed a registration statement with the Securities and Exchange Commission
+on Form S-4 relating to the Sybase Shares to be issued to stockholders of NEON
+in the Offer (as defined below) and the Merger (the "Registration Statement").
+The terms and conditions of the Offer and the Merger are set forth in the
+prospectus which is a part of the Registration Statement (the "Prospectus"), and
+the related Letter of Transmittal, which are Exhibits (a)(1) and (a)(2) hereto.
+The Prospectus and the Letter of Transmittal as either may be amended or
+supplemented from time to time, together constitute the "offer."
+
+     All of the information in the Prospectus and the related Letter of
+Transmittal, and any prospectus supplement or other supplement thereto related
+to the Offer hereafter filed with the Securities and Exchange Commission by
+Sybase, is hereby incorporated by reference in answer to Items 2 through 11 of
+this Schedule TO.
+
+ITEM 1. SUMMARY TERM SHEET.
+
+     Information is disclosed to security holders in a prospectus meeting the
+requirements Rule 421(d) of the Securities Act of 1933.
+
+ITEM 12. EXHIBITS.
+
+EXHIBIT
+NUMBER                            DESCRIPTION
+- -------                           -----------
+
+ (a)(1)   Prospectus relating to the Sybase Shares to be issued in the
+          Offer and the Merger (incorporated by reference from
+          Sybase's Registration Statement on Form S-4 filed on March
+          15, 2001).
+ (a)(2)   Form of Letter of Transmittal (incorporated by reference
+          from exhibit 99.1 to Sybase's Registration Statement on Form
+          S-4 filed on March 15, 2001).
+ (a)(3)   Form of Notice of Guaranteed Delivery (incorporated by
+          reference from exhibit 99.2 to Sybase's Registration
+          Statement on Form S-4 filed on March 15, 2001).
+ (a)(4)   Form of Letter to Brokers, Dealers, Commercial Banks, Trust
+          Companies and Other Nominees (incorporated by reference from
+          exhibit 99.3 to Sybase's Registration Statement on Form S-4
+          filed on March 15, 2001).
+ (a)(5)   Form of Letter to Clients for use by Brokers, Dealers,
+          Commercial Banks, Trust Companies and Other Nominees
+          (incorporated by reference from exhibit 99.4 to Sybase's
+          Registration Statement on Form S-4 filed on March 15, 2001).
+ (a)(6)   Guidelines for Certification of Taxpayer Identification
+          Number on Substitute Form W-9 (incorporated by reference
+          from exhibit 99.5 to Sybase's Registration Statement on Form
+          S-4 filed on March 15, 2001).
+ (a)(7)   Press release of Sybase, dated February 21, 2001
+          (incorporated by reference to Sybase's Form 425 filed
+          February 21, 2001).
+ (d)(1)   Agreement and Plan of Reorganization, dated as of February
+          20, 2001, by and among Sybase, NEON and Neel Acquisition
+          Corp. (incorporated by reference from exhibit 2.1 to
+          Sybase's Registration Statement on Form S-4 filed on March
+          15, 2001).
+ (d)(2)   Form of Stockholder Agreement dated as of February 20, 2001,
+          between Sybase and certain NEON stockholders (incorporated
+          by reference from Exhibit 2.2 to Sybase's Registration
+          Statement on Form S-4 filed on March 15, 2001).
+ (d)(3)   Amended New Era of Networks Change of Control Severance
+          Agreement between NEON and George F. Adam, Jr., dated
+          February 20, 2001 (incorporated herein by reference to
+          Exhibit 10.14 to NEON's Annual Report on Form 10-K for the
+          fiscal year ended December 31, 2000).
+
+EXHIBIT
+NUMBER                            DESCRIPTION
+- -------                           -----------
+
+ (d)(4)   Amended New Era of Networks Change of Control Severance
+          Agreement between NEON and Patrick Fortune, dated February
+          16, 2001 (incorporated herein by reference to Exhibit 10.15
+          to NEON's Annual Report on Form 10-K for the fiscal year
+          ended December 31, 2000).
+ (d)(5)   Amended New Era of Networks Change of Control Severance
+          Agreement between NEON and Frederick T. Horn, dated February
+          16, 2001 (incorporated herein by reference to Exhibit 10.17
+          to NEON's Annual Report on Form 10-K for the fiscal year
+          ended December 31, 2000).
+ (d)(6)   Amended New Era of Networks Change of Control Severance
+          Agreement between NEON and Peter Hoversten, dated February
+          19, 2001.
+ (d)(7)   Amendment to New Era of Networks Change of Control Severance
+          Agreement between NEON and Leonard Goldstein, dated February
+          16, 2001.
+ (d)(8)   Amendment to New Era of Networks Change of Control Severance
+          Agreement between NEON and Stephen E. Webb, dated February
+          16, 2001 (incorporated herein by reference to Exhibit 10.16
+          of NEON's Annual Report on Form 10-K for the fiscal year
+          ended December 31, 2000).
+ (d)(9)   Change of Control Severance Agreement between NEON and Franz
+          Koepper, dated January 30, 2001 (incorporated herein by
+          reference to Exhibit 10.18 to NEON's Annual Report on Form
+          10-K for the fiscal year ended December 31, 2000).
+(d)(10)   Employment and Non-Competition Agreement between Sybase and
+          George F. Adam, Jr., dated February 20, 2001.
+(d)(11)   Employment and Non-Competition Agreement between Sybase and
+          Patrick Fortune, dated February 20, 2001.
+(d)(12)   Employment and Non-Competition Agreement between Sybase and
+          Frederick T. Horn, dated February 20, 2001.
+(d)(13)   Employment and Non-Competition Agreement between Sybase and
+          Peter Hoversten, dated February 20, 2001.
+(d)(14)   Amendment 1 to the Sybase Employment and Non-Solicitation
+          Agreement between Sybase and George F. Adam, Jr., dated
+          February 16, 2001.
+(d)(15)   Amendment 1 to the Employment and Non-Solicitation Agreement
+          between Sybase and Patrick Fortune, dated February 16, 2001.
+(d)(16)   Amendment 1 to the Employment and Non-Solicitation Agreement
+          between Sybase and Frederick T. Horn, dated February 16,
+          2001.
+(d)(17)   Amendment 1 to the Employment and Non-Solicitation Agreement
+          between Sybase and Peter Hoversten, dated February 19, 2001.
+(d)(18)   Form of Change of Control Severance Agreement as entered
+          into between NEON and each of George F. (Rick) Adam, Jr.,
+          Patrick J. Fortune, Stephen E. Webb and Frederick T. Horn
+          (incorporated herein by reference to Exhibit 10.13 of NEON's
+          Annual Report on Form 10-K for the fiscal year ended
+          December 31, 2000).
+(d)(19)   Employment Agreement between Dr. Franz Koepper and SCI
+          Consulting AG dated January 1, 1998 (incorporated herein by
+          reference to Exhibit 10.19 of NEON's Annual Report on Form
+          10-K for the fiscal year ended December 31, 2000).
+(d)(20)   Amendment 2000/2001 to the Employment Agreement between Dr.
+          Franz Koepper and SCI Consulting AG dated December 24, 2000
+          (incorporated herein by reference to Exhibit 10.20 of NEON's
+          Annual Report on Form 10-K for the fiscal year ended
+          December 31, 2000).
+
+ITEM 13. INFORMATION REQUIRED BY SCHEDULE 13e-3.
+
+     Not applicable
+
+                                   SIGNATURE
+
+     After due inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+Dated: March 15, 2001                     NEEL ACQUISITION CORP.
+
+                                          By:   /s/ PIETER VAN DER VORST
+                                            ------------------------------------
+                                            Name: Pieter Van der Vorst
+                                            Title: Chief Financial Officer,
+                                              Director
+
+                                          SYBASE, INC.
+
+                                          By:        /s/ TERESA CHUH
+                                            ------------------------------------
+                                            Name: Teresa Chuh
+                                            Title: Assistant Secretary
+
+                                 EXHIBIT INDEX
+
+EXHIBIT
+NUMBER                           DESCRIPTION
+- -------                          -----------
+
+(a)(1)   Prospectus relating to Sybase Shares to be issued in the
+         Offer and the Merger (incorporated by reference from
+         Sybase's Registration Statement on Form S-4 filed on March
+         15, 2001).
+(a)(2)   Form of Letter of Transmittal (incorporated by reference
+         from exhibit 99.1 to Sybase's Registration Statement on Form
+         S-4 filed on March 15, 2001).
+(a)(3)   Form of Notice of Guaranteed Delivery (incorporated by
+         reference to exhibit 99.2 from Sybase's Registration
+         Statement on Form S-4 filed on March 15, 2001).
+(a)(4)   Form of Letter to Brokers, Dealers, Commercial Banks, Trust
+         Companies and Other Nominees (incorporated by reference from
+         exhibit 99.3 to Sybase's Registration Statement on Form S-4
+         filed on March 15, 2001).
+(a)(5)   Form of Letter to Clients for use by Brokers, Dealers,
+         Commercial Banks, Trust Companies and Other Nominees
+         (incorporated by reference from exhibit 99.4 to Sybase's
+         Registration Statement on Form S-4 filed on March 15, 2001).
+(a)(6)   Guidelines for Certification of Taxpayer Identification
+         Number on Substitute Form W-9 (incorporated by reference
+         from exhibit 99.5 to Sybase's Registration Statement on Form
+         S-4 filed on March 15, 2001).
+(a)(7)   Press release of Sybase, dated February 21, 2001
+         (incorporated by reference to Sybase's Form 425 filed
+         February 21, 2001).
+(d)(1)   Agreement and Plan of Reorganization, dated as of February
+         20, 2001, by and among Sybase, NEON and Neel Acquisition
+         Corp. (incorporated by reference from exhibit 2.1 to
+         Sybase's Registration Statement on Form S-4 filed on March
+         15, 2001).
+(d)(2)   Stockholder Agreement dated as of February 20, 2001, between
+         Sybase and the stockholders listed on the signature page
+         thereto (incorporated by reference from Exhibit 2.2 to
+         Sybase's Registration Statement on Form S-4 filed on March
+         15, 2001).
+(d)(3)   Amended New Era of Networks Change of Control Severance
+         Agreement between NEON and George F. Adam, Jr., dated
+         February 20, 2001 (incorporated herein by reference to
+         Exhibit 10.14 to NEON's Annual Report on Form 10-K for the
+         fiscal year ended December 31, 2000).
+(d)(4)   Amended New Era of Networks Change of Control Severance
+         Agreement between NEON and Patrick Fortune, dated February
+         16, 2001 (incorporated herein by reference to Exhibit 10.15
+         to NEON's Annual Report on Form 10-K for the fiscal year
+         ended December 31, 2000).
+(d)(5)   Amended New Era of Networks Change of Control Severance
+         Agreement between NEON and Frederick T. Horn, dated February
+         16, 2001 (incorporated herein by reference to Exhibit 10.17
+         to NEON's Annual Report on Form 10-K for the fiscal year
+         ended December 31, 2000).
+(d)(6)   Amended New Era of Networks Change of Control Severance
+         Agreement between NEON and Peter Hoversten, dated February
+         19, 2001.
+(d)(7)   Amendment to New Era of Networks Change of Control Severance
+         Agreement between NEON and Leonard Goldstein, dated February
+         16, 2001.
+(d)(8)   Amendment to New Era of Networks Change of Control Severance
+         Agreement between NEON and Stephen E. Webb, dated February
+         16, 2001 (incorporated herein by reference to Exhibit 10.16
+         of NEON's Annual Report on Form 10-K for the fiscal year
+         ended December 31, 2000).
+(d)(9)   Change of Control Severance Agreement between NEON and Franz
+         Koepper, dated January 30, 2001 (incorporated herein by
+         reference to Exhibit 10.18 to NEON's Annual Report on Form
+         10-K for the fiscal year ended December 31, 2000).
+(d)(10)  Employment and Non-Competition Agreement between Sybase and
+         George F. Adam, Jr., dated February 20, 2001.
+(d)(11)  Employment and Non-Competition Agreement between Sybase and
+         Patrick Fortune, dated February 20, 2001.
+(d)(12)  Employment and Non-Competition Agreement between Sybase and
+         Frederick T. Horn, dated February 20, 2001.
+
+EXHIBIT
+NUMBER                           DESCRIPTION
+- -------                          -----------
+
+(d)(13)  Employment and Non-Competition Agreement between Sybase and
+         Peter Hoversten, dated February 20, 2001.
+(d)(14)  Amendment 1 to the Sybase Employment and Non-Solicitation
+         Agreement between Sybase and George F. Adam, Jr., dated
+         February 16, 2001.
+(d)(15)  Amendment 1 to the Employment and Non-Solicitation Agreement
+         between Sybase and Patrick Fortune, dated February 16, 2001.
+(d)(16)  Amendment 1 to the Employment and Non-Solicitation Agreement
+         between Sybase and Frederick T. Horn, dated February 16,
+         2001.
+(d)(17)  Amendment 1 to the Employment and Non-Solicitation Agreement
+         between Sybase and Peter Hoversten, dated February 19, 2001.
+(d)(18)  Form of Change of Control Severance Agreement as entered
+         into between NEON and each of George F. (Rick) Adam, Jr.,
+         Patrick J. Fortune, Stephen E. Webb and Frederick T. Horn
+         (incorporated herein by reference to Exhibit 10.13 of NEON's
+         Annual Report on Form 10-K for the fiscal year ended
+         December 31, 2000).
+(d)(19)  Employment Agreement between Dr. Franz Koepper and SCI
+         Consulting AG dated January 1, 1998 (incorporated herein by
+         reference to Exhibit 10.19 of NEON's Annual Report on Form
+         10-K for the fiscal year ended December 31, 2000).
+(d)(20)  Amendment 2000/2001 to the Employment Agreement between Dr.
+         Franz Koepper and SCI Consulting AG dated December 24, 2000
+         (incorporated herein by reference to Exhibit 10.20 of NEON's
+         Annual Report on Form 10-K for the fiscal year ended
+         December 31, 2000).
+
+                                                                      SCHEDULE I
+
+                      INFORMATION CONCERNING DIRECTORS AND
+                       EXECUTIVE OFFICERS OF SYBASE, INC.
+
+     Directors and Executive Officers. The following table sets forth the name,
+age and present principal occupation or employment, and material occupations,
+positions, offices or employments for the past five years, of each director and
+executive officer of Sybase. Except as indicated below, the business address of
+each such person is Sybase, Inc., 6475 Christie Avenue, Emeryville, California
+94608.
+
+                                                    PRESENT PRINCIPAL OCCUPATION OR EMPLOYMENT
+      NAME AND BUSINESS ADDRESS        AGE               AND FIVE-YEAR EMPLOYMENT HISTORY
+      -------------------------        ---    ------------------------------------------------------
+
+John S. Chen.........................   44    Mr. Chen has been Chairman, President and Chief
+                                              Executive officer of Sybase, Inc. since November 1998.
+                                              From February through November 1996, he served as
+                                              co-Chief Executive Officer. Mr. Chen joined Sybase in
+                                              August 1997 as Chief Operating Officer and served in
+                                              that capacity until February 1998. From March 1995 to
+                                              July 1997, Mr. Chen was President of the Open
+                                              Enterprise Computing Division, Siemens Nixdort, a
+                                              computer and electronics company, and Chief Executive
+                                              Officer and Chairman of Siemens Pyramid, a subsidiary
+                                              of Siemens Nixdorf. He has also served as a Board
+                                              member of Beyond. com since March 1999.
+Alan B. Salisbury....................   62    Dr. Salisbury has served as a director since July
+                                              1993. He is also a member of the Audit Committee. From
+                                              April 1993 through August 1998, he served as President
+                                              and General Manager of Learning Tree International
+                                              USA, Inc., a provider of advanced technology and
+                                              technical management training. Since August 1998, he
+                                              has served as Chairman of Learning Tree International
+                                              USA, Inc. Between June 1991 and April 1993, Dr.
+                                              Salisbury served as Executive Vice President and Chief
+                                              Operating Officer of Microelectronics and Computer
+                                              Technology Corp., an information technology research
+                                              and development consortium. From November 1984 through
+                                              September 1987, Dr. Salisbury served as the Commanding
+                                              General of the U.S. Army Information Systems
+                                              Engineering Command. Dr. Salisbury is also a director
+                                              of TelePad Corp., Template Software, Inc. and Learning
+                                              Tree International.
+Linda K. Yates.......................   37    Ms. Yates is a founder of Strategos, an international
+                                              strategy consulting firm, where she served as Chief
+                                              Executive Officer from January 1995 through August
+                                              1999. Ms. Yates currently serves in various advisory
+                                              and board roles with approximately 10 Silicon Valley
+                                              start-ups. Prior to founding Strategos in 1995, Ms.
+                                              Yates spent six years with the Mac Group/Gemini
+                                              Consulting where she served as Vice President and head
+                                              of the West Coast from 1992 to 1994.
+
+                                                    PRESENT PRINCIPAL OCCUPATION OR EMPLOYMENT
+      NAME AND BUSINESS ADDRESS        AGE               AND FIVE-YEAR EMPLOYMENT HISTORY
+      -------------------------        ---    ------------------------------------------------------
+
+Richard C. Alberding.................   69    Mr. Alberding has served as a director since September
+                                              1993. He is also a member of the Compensation
+                                              Committee. Mr. Alberding served as an Executive Vice
+                                              President of Hewlett-Packard Company, an electronics
+                                              and computer manufacturer, before retiring from the
+                                              company in 1991. He had served in various management
+                                              positions with HP beginning in 1958. Mr. Alberding is
+                                              also a director of Digital Microwave Corp, Paging
+                                              Network Inc., JLK Direct Distribution, Inc.,
+                                              Kennametal, Inc., Walker Interactive Systems, and
+                                              PCTEL Inc.
+L. William Krause....................   57    Mr. Krause has served as a director since February
+                                              1995. He is also a member of the Compensation
+                                              Committee. Mr. Krause has been President of LWK
+                                              Ventures, a private investment company, since November
+                                              1998. Prior to that, beginning in October 1991, he
+                                              served as President, Chief Executive Officer and
+                                              director of Storm Technology, Inc., a provider of
+                                              computer peripherals and software for digital imaging
+                                              which filed for protection under the Federal
+                                              Bankruptcy Laws in November 1998. He is also a
+                                              director of Pinnacle Systems, Inc. and Ramp Networks,
+                                              Inc.
+Robert P. Wayman.....................   54    Mr. Wayman has served as a director since July 1995.
+                                              He is also a member of the Audit Committee. Mr. Wayman
+                                              has been Chief Financial Officer of Hewlett-Packard
+                                              Company, a computer and electronics company, since
+                                              1984, and its Executive Vice President, Finance and
+                                              Administration since 1992. He is also a director of HP
+                                              and CNF Inc., and is the current Chairman, Private
+                                              Sector Council and member of the Kellogg Advisory
+                                              Board to Northwestern University School of Business.
+Cecilia Claudio......................   45    Ms. Claudio has served as a director since November
+                                              1999. Ms. Claudio has been Senior Vice President and
+                                              Chief Information Officer of Farmers Group, Inc., a
+                                              large automobile and home insurance company, since
+                                              1998. From 1994 to 1997, she was a faculty member of
+                                              Harvard School of Public Health. Ms. Claudio has also
+                                              held various senior management positions at Anthem
+                                              Blue Cross/Blue Shielf, Harvard Pilgrim Health Care,
+                                              Xerox Corporation, The Gap Inc. and Olivetti
+                                              (Worldwide).
+Eric L. Miles........................   53    Mr. Miles has served as Senior Vice President and
+                                              General Manager of the Business Intelligence Division
+                                              since December 1998. Between December 1997, when he
+                                              joined Sybase, and December 1998, he was Senior Vice
+                                              President, Product Operations. From November 1995
+                                              until he joined Sybase, Mr. Miles served as Vice
+                                              President, Product Development at Informix
+                                              Corporation.
+
+                                                    PRESENT PRINCIPAL OCCUPATION OR EMPLOYMENT
+      NAME AND BUSINESS ADDRESS        AGE               AND FIVE-YEAR EMPLOYMENT HISTORY
+      -------------------------        ---    ------------------------------------------------------
+
+Raj Nathan...........................   46    Dr. Nathan has served as Senior Vice President and
+                                              General Manager of the Internet Applications Division
+                                              since December 1998. Joining Sybase in November 1997,
+                                              he served as Senior Vice President, Corporate Program
+                                              Office until December 1998. From May through November
+                                              1997, he served as President and Chief Executive
+                                              Officer of Siemens Pyramid, and held a number of
+                                              executive positions with Siemens Pyramid prior to
+                                              that.
+Terry Stepien........................   41    Mr. Stepien has served as President of iAnywhere
+                                              Solutions, a wholly-owned subsidiary of Sybase since
+                                              March 1999. From September 1996 to March 1999, he was
+                                              Vice President and General Manager, Mobile and
+                                              Embedded Computing Division. From September 1996 to
+                                              September 1998, he served as Vice President, Marketing
+                                              for Database Products. Mr. Stepien was Vice President,
+                                              Marketing for Workplace Database Products from
+                                              February 1995 to September 1996.
+Pieter van der Vorst.................   45    Mr. Van der Vorst has served as Vice President and
+                                              Chief Financial Officer since January 1999. Between
+                                              November 1997 and January 1999, he served as Corporate
+                                              Controller, and prior to that, he served as Vice
+                                              President, Tax and Corporate Accounting beginning in
+                                              April 1997. Mr. Van der Vorst has held various other
+                                              positions since joining Sybase in 1991.
+Pamela J. George.....................   54    Ms. George has served as Vice President of Corporate
+                                              Marketing since April 1999. Prior to that she was Vice
+                                              President of Corporate Communications at Maxager
+                                              Technology, beginning in December 1997. From October
+                                              1991 through October 1995, Ms. George was Director of
+                                              Corporate Communications for Cisco Systems.
+Daniel R. Carl.......................   47    Mr. Carl has served as Vice President, General Counsel
+                                              and Secretary since April 1999. Immediately prior to
+                                              that, he served as Director of European Legal Affairs,
+                                              beginning in January 1997. Mr. Carl has been a Vice
+                                              President of Sybase since May 1996, and served as
+                                              Associate General Counsel from 1992 to April 1999.
+Martin J. Healy......................   37    Mr. Healy has served as Vice President and Corporate
+                                              Controller since January 1999. Between January 1997
+                                              and January 1999, he served as Vice President,
+                                              Intercontinental Operations. Mr. Healy was Director of
+                                              Finance, Asia (excluding Japan) from January 1994 to
+                                              December 1997, and prior to that held various
+                                              positions within the Company's finance organization.
+                                              Before joining Sybase in 1989, Mr. Healy was Financial
+                                              Reporting Manager at WordStar International.
+Nita C. White-Ivy....................   53    Ms. White-Ivy has served as Vice President of Human
+                                              Resources since March 1998. Prior to that, she was a
+                                              human resources consultant to Sybase beginning in
+                                              January 1998. Before joining Sybase, she was with
+                                              Siemens Pyramid, serving as Vice President of
+                                              Worldwide Human Resources from February 1994 to
+                                              October 1997.
+
+EX-99.(D)(6)
+
+f70243ex99-d6.txt
+
+AMENDED SEVERANCE AGREEMENT
+
+                                                                 EXHIBIT (d)(6)
+
+          Amended New Era of Networks Change of Control Severance Agreement
+
+The following represents the agreement between undersigned employee and New Era
+of Networks, Inc. ("NEON") regarding the Change of Control Severance Agreement
+dated 9/25/00 attached hereto (the "COC Agreement"), and any and all other
+terms of employment that may exist between you and NEON.
+
+1.   If a Change of Control (as defined below) is effected with Sybase, Inc. on
+     or before June 21, 2001, you hereby release NEON (and its successors)
+     from, and you hereby waive all terms, conditions and aspects of, the COC
+     Agreement and any and all other employment arrangements that you have with
+     NEON. "Change of Control" shall mean that Sybase, Inc. acquires a majority
+     of the total voting power represented by NEON's then outstanding voting
+     securities (i.e., Sybase, Inc. accepts under its tender offer at least a
+     majority of the total voting power represented by NEON).
+
+2.   In consideration of your waiving the COC Agreement, you will receive a
+     cash payment of $390,000 (the "COC Payment") provided that you are
+     employed by Sybase, Inc. or one of its subsidiaries at the time of the
+     payment. 5/13 on the 12th month anniversary, 3/13 on the 18th month
+     anniversary and 5/13 on the 24th month anniversary of the date that the
+     Change of Control occurs (the "COC Event"). Notwithstanding the foregoing,
+     if you are terminated by Sybase for any reason except for Cause (as
+     defined below) prior to the second year anniversary of the COC Event, then
+     (a) the balance of the COC Payment which has not been paid will be payable
+     to you at the time of such termination, and (b) you shall be entitled for
+     a period equal to the earlier of 24 months from the date of your
+     termination of the date upon which you and your covered dependents become
+     covered under comparable group health plans of another employer, to
+     payment of applicable premiums under COBRA for group health coverage in
+     order to provide you and your covered dependents equivalent coverage to
+     which they were entitled to while you were an employee of Sybase, Inc. or
+     any of its subsidiaries (together "Sybase").
+
+          As used herein "Cause" shall mean:
+
+          (i)    the continuous failure by you to perform the material duties
+                 and responsibilities that are reasonably consistent with your
+                 position which remain uncured for a period of fifteen (15) days
+                 after receipt of notice thereof from Sybase;
+
+          (ii)   a conviction of, a plea of nolo contendere, a guilty plea or
+                 confession by you to a felony or the committing of an act of
+                 fraud or material dishonesty against, or the embezzlement,
+                 theft or misappropriation of property belonging to, Sybase;
+
+          (iii)  you personally engaging in conduct that you reasonably should
+                 know or that you intend to be seriously injurious to the
+                 business of Sybase (it being understood that business
+                 decisions made by you in good faith are not to be considered
+                 grounds for termination for Cause); or
+
+     (iv) the material breach by you of this Agreement or the Nondisclosure and
+          Assignment of Inventions Agreement attached hereto which is not cured
+          within fifteen (15) days after receipt of notice thereof from Sybase
+          (except for a breach of the Nondisclosure and Assignment of Inventions
+          Agreement for which no cure period is provided).
+
+3.   As further consideration for this release and waiver, all stock options
+     granted to you prior to the date of this Agreement will fully vest upon the
+     COC Event. All restrictions on restricted stock granted or purchased prior
+     to the date of this Agreement will lapse upon the COC Event.
+
+4.   This Agreement will not be effective unless and until the COC Event
+     occurs. If the COC Event does not occur prior to June 21, 2001, the COC
+     Agreement shall remain in full force and effect.
+
+5.   You are solely responsible for all Employee taxes in connection with any
+     payments made to you under this Agreement. Employee's place of employment
+     for the term of this agreement shall be Denver, Colorado.
+
+6.   This Agreement contains the entire agreement between the parties with
+     respect to the subject matter hereof and supercedes the COC Agreement in
+     its entirety, that certain memorandum agreement dated 2/12/2001 between
+     NEON and you, and all other employment arrangements that you have with
+     NEON.
+
+     By accepting this release and waiver to the COC Agreement, you have freely
+     and voluntarily accepted its terms and conditions and have consulted with
+     or had the opportunity to consult advisors of your choice.
+
+     Accepted: /s/ PETER T. HOVERSTEN        NEON
+     February 19, 2001                                By: /s/ PATRICK J. FORTUNE
+
+     --------------------------------                 Patrick J. Fortune
+                                                      President, NEON
+
+EX-99.(D)(7)
+
+f70243ex99-d7.txt
+
+AMENDED SEVERENCE AGREEMENT
+
+                                                                 EXHIBIT (d)(7)
+
+Date: February 16, 2001
+
+To: Leonard Goldstein
+From: Rick Adam
+
+The following represents the agreement between you and New Era of Networks,
+Inc. ("NEON") regarding the Change of Control Severance Agreement between you
+and NEON dated 9/25/00 attached hereto (the "COC Agreement"), and any and all
+other terms of employment that may exist between you and NEON.
+
+1.   If a Change of Control (as defined below) is effected with Sybase, Inc. on
+     or before June 21, 2001, you hereby release NEON (and its successors) from,
+     and you hereby waive all terms, conditions and aspects of, the COC
+     Agreement and any and all other employment arrangements that you have with
+     NEON. "Change of Control" shall mean that Sybase, Inc. acquires a majority
+     of the total voting power represented by NEON's then outstanding voting
+     securities (i.e., Sybase, Inc. accepts under its tender offer at least a
+     majority of the total voting power represented by NEON).
+
+2.   In consideration of your waiving the COC Agreement, you will receive a cash
+     payment of $750,000 (the "COC Payment") upon the "Change of Control."
+
+3.   As further consideration for this release and waiver, all stock options
+     granted to you prior to the date of this Agreement will fully vest upon the
+     COC Event. All restrictions on restricted stock granted or purchased prior
+     to the date of this Agreement will lapse upon the COC Event. Benefits shall
+     be provided as set forth in paragraph 3(a)(iii) of the change of control.
+
+4.   This Agreement will not be effective unless and until the COC Event occurs.
+     If the COC Event does not occur prior to June 21, 2001, the COC Agreement
+     shall remain in full force and effect.
+
+5.   You are solely responsible for all taxes in connection with any payments
+     made to you under this Agreement.
+
+6.   This Agreement contains the entire agreement between the parties with
+     respect to the subject matter hereof and supercedes the COC Agreement in
+     its entirety, that certain memorandum agreement dated 2/12/2001 between
+     NEON and you, and all other employment arrangements that you have with
+     NEON.
+
+By accepting this release and waiver to the COC Agreement, you have freely and
+voluntarily accepted its terms and conditions and have consulted with or had the
+opportunity to consult advisors of your choice.
+
+Accepted: /s/ LEONARD GOLDSTEIN         NEON
+         ----------------------         BY: /s/ PATRICK J. FORTUNE
+                                           -----------------------------
+                                            Patrick J. Fortune
+                                            President, NEON
+
+EX-99.(D)(10)
+
+f70243ex99-d10.txt
+
+EMPLOYMENT AND NON-COMPETITION AGREEMENT
+
+                                                                 EXHIBIT (d)(10)
+
+                    EMPLOYMENT AND NON-COMPETITION AGREEMENT
+
+            This EMPLOYMENT AGREEMENT (this "Agreement") is made as of the 20th
+day of February, 2001 by and between SYBASE, INC., a Delaware corporation
+("Sybase"), and RICK ADAM, an individual residing at Cherry Hills, Co. (the
+"Employee").
+
+                                   BACKGROUND
+
+            The Employee is a shareholder of [NEON] and is employed by [NEON].
+Sybase and [NEON] have entered into an Agreement And Plan of Reorganization
+dated of even date herewith (the "Merger Agreement") which requires, among other
+things, that the Employee enter into this Agreement as part of the merger
+described in the Merger Agreement (the "Merger"). This Agreement is to be
+effective only upon the Effective Date (as defined in the Merger Agreement) at
+which time Sybase will assign all of its rights and obligations under this
+Agreement to the Surviving Corporation (as defined in the Merger Agreement).
+Sybase wishes to secure on behalf of the Surviving Corporation the services of
+the Employee upon the terms and conditions hereinafter set forth, and the
+Employee wishes to render such services to the Surviving Corporation upon the
+terms and conditions hereinafter set forth.
+
+            NOW, THEREFORE, in consideration of the foregoing and the mutual
+covenants herein contained and for other good and valuable consideration, the
+receipt and adequacy of which are hereby acknowledged, the parties agree as
+follows:
+
+1)    EMPLOYMENT BY THE SURVIVING CORPORATION. Sybase agrees to employ the
+      Employee as Division President of the Surviving Corporation, and the
+      Employee accepts such employment and agrees to perform such duties as are
+      consistent with his title and position. Employee's duties shall be those
+      customarily performed by a person holding the same title at a company of
+      similar size and industry as the Surviving Corporation, and he shall
+      report directly to the John Chen of the Surviving Corporation. The
+      Employee agrees to devote his full business time to the business of the
+      Surviving Corporation and/or its Affiliates and to faithfully, diligently
+      and competently perform his duties hereunder.
+
+2)    TERM OF EMPLOYMENT. The Term of this Agreement shall commence on the
+      Effective Date and continue until terminated as set forth herein. The
+      parties agree that Employee's employment will be "at will" employment and
+      may be terminated at any time with or without cause or notice. Employee
+      understands and agrees that neither his job performance nor promotions,
+      commendations, bonuses or the like give rise to or in any way serve as the
+      basis
+
+Page 1
+
+     for modification, amendment or extension, by implication or otherwise, of
+     his employment hereunder.
+
+3)   COMPENSATION. As compensation for all services to be rendered by the
+     Employee to the Surviving Corporation and/or its Affiliates in all
+     capacities during the Term, the Employee shall receive the following
+     compensation and benefits:
+
+     a)  SALARY. An annual base salary of ($400,000) (the "Base Salary"), less
+         required withholdings, which shall be paid on a regular basis in
+         accordance with the Surviving Corporation's normal payroll procedures
+         and policies.
+
+     b)  BONUS. The Employee shall be eligible to receive bonuses in accordance
+         with such bonus plans as are applicable to employees of the Surviving
+         Corporation from time to time. For calendar year 2001, the targeted
+         bonus is $200,000 less required withholdings (which bonus shall only be
+         payable to the extent earned under the terms of the applicable bonus
+         plan).
+
+     c)  PARTICIPATION IN EMPLOYEE BENEFIT PLANS. The Employee shall be
+         permitted during the Term, if and to the extent eligible, to
+         participate in all employee benefit plans, policies and practices now
+         or hereafter maintained by or on behalf of the Surviving Corporation
+         for employees having positions with the Surviving Corporation
+         commensurate with the Employee's position with the Surviving
+         Corporation. Nothing in this Agreement shall preclude the Surviving
+         Corporation from terminating or amending any such plans or coverage so
+         as to eliminate, reduce or otherwise change any benefit payable
+         thereunder, so long as such change similarly affects all Surviving
+         Corporation employees having positions with the Surviving Corporation
+         that are commensurate with the Employee's position with the Surviving
+         Corporation.
+
+     d)  EXPENSES. The Surviving Corporation shall pay or reimburse the Employee
+         for all reasonable expenses actually incurred or paid by the Employee
+         during the Term in the performance of the Employee's duties under this
+         Agreement, upon submission and approval of expense statements, vouchers
+         or other supporting information, in accordance with the then customary
+         practices of the Surviving Corporation.
+
+     e)  VACATION. The Employee shall be entitled to vacation in accordance with
+         Sybase policy.
+
+     f)  WITHHOLDING OF TAXES. The Surviving Corporation may withhold from any
+         compensation payable under this Agreement all federal, state, city and
+         other taxes as shall be required pursuant to any law or governmental
+         regulation or ruling.
+
+     g)  STOCK OPTIONS. The Surviving Corporation shall grant to Employee stock
+         options (the "Employee Option") to acquire up to 155,000 shares of
+         Sybase, Inc common stock. The stock options granted to Employee shall
+         vest such that 1/8th of such option shares shall
+
+Page 2
+
+          vest six months after the Effective Date, and 1/48th of such option
+          shares shall vest each month thereafter through the 48th month after
+          the Effective Date. Otherwise, the stock options granted will be upon
+          the same terms and conditions as are generally provided under the
+          Sybase, Inc. Stock Plans.
+
+4)   TERMINATION
+
+     a)   TERMINATION UPON DEATH. If the Employee dies during the Term, this
+          Agreement shall terminate as of the date of his death.
+
+     b)   TERMINATION UPON DISABILITY. If, during the Term, the Employee
+          becomes physically or mentally disabled, the Surviving Corporation
+          may, by written notice to the Employee, terminate this Agreement, in
+          which event the Term shall terminate 30 days after the date upon
+          which the Surviving Corporation shall have given notice to the
+          Employee of its intention to terminate this Agreement because of such
+          disability. Disability shall be determined in accordance with the
+          terms of the applicable policies and benefit plans of the Surviving
+          Corporation.
+
+     c)   TERMINATION FOR CAUSE. The Surviving Corporation may at any time by
+          written notice to the Employee terminate this Agreement immediately,
+          and the Employee shall have no right to receive any compensation or
+          benefit hereunder on and after the date of such notice, in the event
+          that an event of "Cause" occurs. For purposes of this Agreement
+          "Cause" shall mean:
+
+          (i)   the continuous failure by the Employee to perform the material
+                duties and responsibilities that are reasonably consistent with
+                his position which remain uncured for a period of fifteen (15)
+                days after receipt of notice thereof from the Surviving
+                Corporation;
+
+          (ii)  a conviction of, a plea of nolo contendere, a guilty plea or
+                confession by the Employee to a felony or the committing of an
+                act of fraud or material dishonesty against, or the or
+                embezzlement, theft or misappropriation of property belonging
+                to, the Surviving Corporation or its Affiliates;
+
+          (iii) the Employee personally engaging in conduct that he reasonably
+                should know or that he intends to be seriously injurious to the
+                business of the Surviving Corporation or its Affiliates (it
+                being understood that business decisions made by the Employee
+                in good faith are not to be considered grounds for termination
+                for Cause); or
+
+          (iv)  the material breach by the Employee of this Agreement or the
+                Nondisclosure and Assignment of Inventions Agreement which is
+                not cured within fifteen (15) days after receipt of notice
+                thereof from the Surviving Corporation (except for a breach of
+
+Page 3
+
+                  Section 7 hereof or a breach of the Nondisclosure and
+                  Assignment of Inventions Agreement for which no cure period
+                  is provided).
+
+      d)    TERMINATION WITHOUT CAUSE. The Surviving Corporation may terminate
+            this Agreement at any time, without cause, and the Employee shall
+            have no right to receive any compensation or benefit hereunder
+            after such termination except as set forth in Section 5 below.
+            Employee may terminate this Agreement without cause, and the
+            Employee shall have no right to receive any compensation or benefit
+            hereunder after such termination.
+
+      c)    SURRENDER OF RECORDS AND PROPERTY. Upon termination of his
+            employment with the Surviving Corporation, Employee shall deliver
+            promptly to the Surviving Corporation all property and all tangible
+            forms of Confidential Information in accordance with the terms of
+            the Nondisclosure and Assignment of Inventions Agreement between
+            Sybase and the Employee.
+
+5)    SEVERANCE PAYMENTS AND OTHER RIGHTS.
+
+      a)    CERTAIN SEVERANCE PAYMENTS AND OTHER RIGHTS. If, during the Term,
+            the Surviving Corporation terminates this Agreement pursuant to
+            Section 4(d), all compensation payable to the Employee under
+            Section 3 shall cease as of the date of termination specified in
+            the Surviving Corporation's notice (the "Termination Date"), and
+            the Surviving Corporation shall pay or provide to the Employee the
+            following, provided that the Employee first enters into and does
+            not revoke a binding written agreement releasing all claims, known
+            or unknown, that the Employee has or might have against the
+            Surviving Corporation in connection with this Agreement and other
+            employment arrangements with the Surviving Corporation and its
+            Affiliates and for wrongful discharge, and provided further that
+            the Employee has not violated the terms of Section 7 of this
+            Agreement. (Payment of the severance payments does not constitute
+            an acknowledgement by the Surviving Corporation of the Employee's
+            compliance with the terms of Section 7.) All severance payments
+            shall be subject to applicable tax withholding, and shall be in
+            lieu of any further payments under this Agreement or under any
+            other employment arrangements between the Employee and the
+            Surviving Corporation.
+
+            (i)   a lump sum amount equal to the Employee's Total Targeted
+                  Earnings ("TTE") :i.e., Base Salary plus bonus) in effect on
+                  the Termination Date for a period equal to 18 months;
+
+            (ii)  for a period equal to the earlier of 24 mos or (y) the date
+                  upon which Employee and his covered dependents become covered
+                  under comparable group health, plans of another employer,
+                  payment of applicable premiums under COBRA for group health
+                  coverage in order to provide the Employee and his covered
+                  dependents equivalent
+
+Page 4
+
+                     coverage to that which they were entitled to while Employee
+                     was an employee of the Surviving Corporation immediately
+                     prior to his termination; and
+
+               (iii) all previously accrued vacation pay.
+
+          b)   PAYMENTS UPON TERMINATION FOR CAUSE, DEATH OR DISABILITY. If this
+               Agreement is terminated by the Surviving Corporation pursuant to
+               Sections 4(a), 4(b) or 4(c), the Employee shall receive only the
+               amounts owing through the Termination Date.
+
+     6)   REPRESENTATION AND WARRANTY OF EMPLOYEE. The Employee represents and
+          warrants that neither the execution nor the delivery of this
+          Agreement, nor the employment of the Employee by the Surviving
+          Corporation will result in the breach of any agreement to which the
+          Employee is a party, except where any such breach would not have a
+          material adverse effect on the business, financial condition or
+          operations of the Surviving Corporation.
+
+     7)   COVENANTS. The Employee acknowledges that: (i) he is one of the
+          limited number of persons who will develop the business of the
+          Surviving Corporation; (ii) his work for the Surviving Corporation has
+          brought him and will continue to bring him into close contact with
+          many confidential affairs not readily available to the public; and
+          (iii) the covenants contained in this Section 7 will not involve a
+          substantial hardship upon his future livelihood. In light of such
+          acknowledgement, and in partial consideration of the several
+          agreements made by Sybase with the Employee in the Merger Agreement
+          and in order to induce the Surviving Corporation to enter into this
+          Agreement and the Merger Agreement, the Employee covenants and agrees
+          that:
+
+          a)   NON-COMPETE. During the period of his employment by the Surviving
+               Corporation under this Agreement and for 18 months following the
+               termination of the Employee's employment for any reason, provided
+               the Surviving Corporation is not in breach of its obligations
+               under Section 5, the Employee shall not, directly or indirectly:
+               (i) in any manner whatsoever engage in any capacity with any
+               Restricted Business in a Restricted Territory (as such terms are
+               defined below) for the Employee's own benefit or for the benefit
+               of any Person other than the Surviving Corporation; or (ii) have
+               any interest as owner, sole proprietor, shareholder, partner,
+               lender, director, officer, manager, employee, consultant, agent
+               or otherwise in any Restricted Business in a Restricted
+               Territory; provided, however, that the Employee may hold,
+               directly or indirectly, solely as an investment, not more than
+               two percent (2%) of the outstanding securities of any person or
+               entity which are listed on any national securities exchange or
+               regularly traded in the over-the-counter market notwithstanding
+               the fact that such person or entity is a Restricted Business in a
+               Restricted Territory.
+
+               "Restricted Business" shall mean (A) a business which is
+               competitive with the Surviving Corporation's business engaged in
+               by the Surviving Corporation at the date of his
+
+Page 5
+
+          termination of employment (the "Surviving Corporation's Business")
+          and (B) Oracle Systems Corporation, Informix Corporation, the
+          database product groups or organizations of Computer Associates, the
+          database product groups or organizations of Microsoft Corporation and
+          the database product groups of organizations of IBM. Notwithstanding
+          the above, the Employee may become an employee of or consultant to or
+          have an interest as owner, sole proprietor, shareholder, partner,
+          lender, director, officer, manager, employee, consultant, agent or
+          otherwise in a business unit of a larger enterprise which enterprise
+          then has another business unit engaged in a business competitive with
+          the Surviving Corporation's Business, provided that the business unit
+          of the larger enterprise for which Employee provides services or in
+          which he has an interest is neither (1) in a business competitive
+          with the Surviving Corporation's Business and is located in a
+          geographically separate location from the competitive business unit
+          and the Employee has no responsibility and has no role whatsoever in
+          the competing business unit nor (2) a company or business unit listed
+          in clause B of this paragraph.
+
+          "Restricted Territory" shall mean the larger of (i) the counties,
+          cities and states of the United States of America and each political
+          subdivision of Canada, Australia, Japan, each member of the European
+          Economic Community and any other country in which the Surviving
+          Corporation's products are sold or licensed during the term of the
+          non-compete obligations or (ii) if (i) is found unenforceable, the
+          counties, cities, states and political subdivisions of any country in
+          which the Surviving Corporation's products are sold, distributed or
+          licensed during the term of the non-compete obligations.
+
+          The parties intend that the covenants contained in this Section 7(a)
+          shall be construed as a series of separate covenants, one for each
+          county, city, state and other political subdivision of each country
+          in the Restricted Territory. Except for geographic coverage, each
+          separate covenant shall be deemed identical in terms to the covenant
+          contained in the preceding paragraphs. If, in any judicial
+          proceeding, a court shall refuse to enforce any of the separate
+          covenants (or any part thereof) deemed included in said paragraphs,
+          then such unenforceable covenant (or such part) shall be deemed
+          eliminated from this Agreement for the purpose of those proceedings
+          to the extent necessary to permit the remaining separate covenants
+          (or portions thereof) to be enforced by such court. It is the intent
+          of the parties that the covenants set forth herein be enforced to the
+          maximum degree permitted by applicable law.
+
+          In the event that the provisions of this Section 7(a) should ever be
+          deemed to exceed the scope, time or geographic limitations of
+          applicable law regarding covenants not to compete, then such
+          provisions shall be reformed to the maximum scope, time or geographic
+          limitations, as the case may be, permitted by applicable laws.
+
+     b)   NON-DISCLOSURE OF CONFIDENTIAL INFORMATION. Concurrently with the
+          execution of this Agreement, the Employee shall enter into a
+          Nondisclosure And Assignment of Inventions
+
+Page 6
+
+          Agreement in the form attached hereto.
+
+     c)   NON-SOLICITATION OF EMPLOYEES OF AND CONSULTANTS TO THE SURVIVING
+          CORPORATION. During the period of his employment by the Surviving
+          Corporation under this Agreement and for 18 months following the
+          termination of the Employee's employment for any reason, the Employee
+          shall not, directly or indirectly, initiate communications with,
+          solicit, persuade, entice, induce or encourage any individual who is
+          then or who has been within the preceding 12-month period, an
+          employee of or consultant to the Surviving Corporation to terminate
+          an employment or consulting relationship with the Surviving
+          Corporation, as the case may be, or to become employed by or enter
+          into a contract or other agreement with any other person, and the
+          Employee shall not approach any such employee or consultant for any
+          such purpose or authorize or knowingly approve the taking of any such
+          actions by any other person.
+
+    d)    NON-SOLICITATION OF CUSTOMERS. During the period of his employment by
+          the Surviving Corporation under this Agreement and for 18 months
+          following the termination of the Employee's employment for any
+          reason, the Employee shall not, directly or indirectly, solicit,
+          persuade, entice, induce, encourage (or assist in connection with any
+          of the foregoing) any person who is then or has been within the
+          preceding 24-month period a customer or account of the Surviving
+          Corporation, or any infomediary, affiliate, service provider or
+          fulfillment entity that does  business with the Surviving
+          Corporation, or any actual customer leads whose identity the Employee
+          learned during the course of his employment with the Surviving
+          Corporation, to terminate or to adversely alter its contractual or
+          other relationship with the Surviving Corporation.
+
+     e)   RIGHTS AND REMEDIES UPON BREACH. If the Employee breaches or
+          threatens to commit a breach of, any of the provisions of this
+          Section 7 (collectively, the "Restrictive Covenants"), the Surviving
+          Corporation shall have the right and remedy to seek from any court of
+          competent jurisdiction specific performance of the Restrictive
+          Covenants or injunctive relief against any act which would violate
+          any of the Restrictive Covenants, it being acknowledged and agreed
+          that any such breach or threatened breach will cause irreparable
+          injury to the Surviving Corporation and that money damages will not
+          provide an adequate remedy to the Surviving Corporation.
+
+     f)   REPRESENTATION OF THE EMPLOYEE. The Employee is (i) familiar with the
+          covenants in this Section 7, (ii) is fully aware of his obligations
+          hereunder, (iii) finds the length of time, scope and geographic
+          coverage of these covenants to be reasonable, and (iv) is receiving
+          specified, bargained-for consideration for these covenants.
+
+8)   MISCELLANEOUS.
+
+Page 7
+
+     a)   NOTICES. Any notice or other communication required or which may be
+          given hereunder shall be in writing and shall be delivered
+          personally, telecopied, telegraphed or telexed, or sent by certified,
+          registered or express mail, postage prepaid, to the parties at the
+          following addresses, or at such other addresses as shall be specified
+          by the parties by like notice, and shall be deemed given when so
+          delivered personally, telecopied, telegraphed or telexed, or if
+          mailed, two (2) days after the date of mailing, as follows:
+
+if to the Surviving Corporation, to the officer of the Surviving Corporation
+holding the tile of Secretary, to him or her at the Surviving Corporation's
+Principal Place of Business
+
+with copies to:
+
+               General Counsel
+               Sybase, Inc.
+               6475 Christie Ave.
+               Emeryville, CA 94698
+               Telecopier: (510) 922-4558
+
+if to the Employee, to him at the address set forth on the first page hereof
+
+with copies to:
+
+               Rick Adam
+               6500 Greenwood Place Blvd.
+               Englewood, CA 80111
+               Telecopier: (303) 409-8677
+
+     b)   ENTIRE AGREEMENT. This Agreement contains the entire agreement
+          between the parties with respect to the subject matter hereof and
+          supersedes all prior contracts and other agreements, written or oral,
+          with respect thereto.
+
+     c)   WAIVERS AND AMENDMENTS. This Agreement may be amended, modified,
+          superseded, cancelled, renewed or extended, and the terms and
+          conditions hereof may be waived, only by a written instrument signed
+          by the parties or, in the case of a waiver, by the party waiving
+          compliance.
+
+     d)   GOVERNING LAW. This Agreement shall be governed by, and construed in
+          accordance with and subject to, the laws of the State of California
+          without regard to its conflicts of laws principles.
+
+     e)   ASSIGNMENT. This Agreement, and the Employee's rights and obligations
+          hereunder, may not be assigned by the Employee. The Surviving
+          Corporation may assign this Agreement
+
+Page 8
+
+     and its rights, together with its obligations, hereunder only in connection
+     with any sale, transfer or other disposition of all or substantially all of
+     its assets or business, whether by merger, consolidation or otherwise. This
+     Agreement shall inure to the benefit of and be binding upon the parties
+     hereto and any successors and permitted assigns.
+
+f)   DEFINITIONS. For purposes of this Agreement:
+
+     (i)     "Affiliate" shall mean a Person that, directly or indirectly,
+              controls or is controlled by, or is under common control with the
+              Surviving Corporation;
+
+     (ii)    "Control" as used with respect to any Person, shall mean the
+              possession, directly or indirectly, of the power to direct or
+              cause the direction of the management or policies, whether through
+              ownership of voting securities, by contract or otherwise; and
+
+     (iii)    "Person" means an individual, sole proprietorship, partnership,
+              corporation, association, joint stock Surviving Corporation,
+              trust, joint venture, unincorporated organization, institution,
+              entity or government (whether federal, state, local or otherwise
+              including without limitation, or any department, agency, or
+              political subdivision thereof).
+
+g)   COUNTERPARTS; FACSIMILE EXECUTION. This Agreement may be executed in two or
+     more counterparts, each of which shall be deemed an original but all of
+     which together shall constitute one and the same instrument. Facsimile
+     execution and delivery of this Agreement is legal, valid and binding
+     execution and delivery for all purposes.
+
+h)   HEADINGS. The headings in this Agreement are for reference purposes only
+     and shall in no way affect the meaning or interpretation of this Agreement.
+
+i)   SURVIVAL. Sections 4(c), 5, 6, 7 and this Section 8 shall survive
+     termination of this Agreement for any reason.
+
+j)   SEVERABILITY. To the extent any provision of this Agreement shall be
+     invalid or unenforceable, it shall be considered deleted herefrom and the
+     remainder of such provision and of this Agreement shall be unaffected and
+     shall continue in full force and effect. In furtherance and not in
+     limitation of the foregoing, should the duration of geographical extent of,
+     or business activities covered by any provision of this Agreement be in
+     excess of that which is valid and enforceable under applicable law, then
+     such provision shall be construed to cover only that duration, extent or
+     activities which may validly and enforceably be covered.
+
+k)   ADR. Except as provided herein, no civil action with respect to any
+     dispute, claim or controversy arising out of or relating to this agreement
+     may be commenced until the matter has been submitted to JAMS/ENDISPUTE, or
+     its successor, for mediation. Either
+
+Page 9
+
+     party may commence mediation by providing to JAMS/ENDISPUTE and the other
+     party a written request for mediation, setting forth the subject of the
+     dispute and the relief requested. The parties will cooperate with
+     JAMS/ENDISPUTE and with one another in selecting a mediator from
+     JAMS/ENDISPUTE's panel of neutrals, and in scheduling the mediation
+     proceedings. The parties covenant that they shall participate in the
+     mediation in good faith, and that they shall share equally in its costs.
+     All offers, promises, conduct and statements, whether oral or written, made
+     in the course of the mediation by any of the parties, their agents,
+     employees, experts and attorneys, and by the mediator and any
+     JAMS/ENDISPUTE employees, are confidential, privileged and inadmissible for
+     any purpose, including impeachment, in any litigation or other proceeding
+     involving the parties, provided that evidence that is otherwise admissible
+     or discoverable shall not be rendered inadmissible or non-discoverable as
+     a result of its use in the mediation. Either party may seek equitable
+     relief prior to the mediation to preserve the status quo pending the
+     completion of that process. Except for such an action to obtain equitable
+     relief, neither party may commence a civil action with respect to the
+     matters submitted to mediation until after the completion of the initial
+     mediation session, or 45 days after the date of filing the written request
+     for mediation, whichever occurs first. Mediation may continue after the
+     commencement of a civil action, if the parties so desire. The provisions of
+     this Clause may be enforced by any Court of competent jurisdiction, and the
+     party seeking enforcement shall be entitled to an award of all costs, fees
+     and expenses, including attorneys fees, to be paid by the party against
+     whom enforcement is ordered.
+
+l)   SUPERCEDES OLD AGREEMENTS. Employee agrees that the terms of this Agreement
+     supercede the terms of any and all employment arrangements he may have had
+     with the Surviving Corporation in their entirely (except that that certain
+     Agreement dated 2/16/01, 2001 shall survive). Employee agrees that
+     Employee's decision to terminate such employment arrangements and enter
+     into this Agreement does not constitute constructive termination of any
+     employment arrangement Employee had with [NEON].
+
+m)   COSTS OF ENFORCEMENT OR DEFENSE. In the event of any litigation with
+     respect to this Agreement, the prevailing party shall be entitled to be
+     paid by the other party hereto all costs of enforcement or defense, as the
+     case may be, paid or incurred in connection with the enforcement or
+     defense, including reasonable attorney fees and legal costs.
+
+n)   DELAYS OR OMISSIONS. No delay or omission to exercise any right, power or
+     remedy accruing to either party upon any breach or default of the other
+     party thereto shall impair any such right, power or remedy of such
+     non-defaulting party, nor shall it be construed to be a waiver of any such
+     breach or default or an acquiescence therein, or of or in any similar
+     breach or default thereafter occurring; nor shall any waiver of a breach or
+     default be deemed to be a waiver of any other breach or default.
+
+Page 10
+
+      o)    RULES OF CONSTRUCTION. Sybase and the Employee each acknowledge that
+            they have been represented by competent counsel during the
+            negotiation and execution of this Agreement and therefore waive the
+            application of any law, regulation, holding or rule of construction
+            providing that ambiguities in any agreement will be construed
+            against the party drafting the agreement.
+
+      p)    CLOSING. This Agreement shall become effective at the time of the
+            Closing on the Effective Date.
+
+            IN WITNESS WHEREOF, the parties have executed this Agreement as of
+the date first above written.
+
+                                          SYBASE, INC.
+
+                                          By:___________________________
+                                             Name:
+                                             Title:
+
+                                          EMPLOYEE:
+
+                                          ______________________________
+                                          Name:_________________________
+
+Page 11
+
+EX-99.(D)(11)
+
+f70243ex99-d11.txt
+
+EMPLOYMENT AND NON-COMPETITION AGREEMENT
+
+                                                                 EXHIBIT (d)(11)
+
+                    EMPLOYMENT AND NON-COMPETITION AGREEMENT
+
+      This EMPLOYMENT AGREEMENT (this "Agreement") is made as of the 20th day of
+February 2001 by and between SYBASE, INC., a Delaware corporation ("Sybase"),
+and PAT FORTUNE, an individual residing at Englewood, Co. (the "Employee").
+
+                                   BACKGROUND
+
+      The Employee is a shareholder of [NEON] and is employed by [NEON]. Sybase
+and [NEON] have entered into an Agreement and Plan of Reorganization dated of
+even date herewith (the "Merger Agreement") which requires, among other things,
+that the Employee enter into this Agreement as part of the merger described in
+the Merger Agreement (the "Merger"). This Agreement is to be effective only
+upon the Effective Date (as defined in the Merger Agreement) at which time
+Sybase will assign all of its rights and obligations under this Agreement to
+the Surviving Corporation (as defined in the Merger Agreement). Sybase wishes
+to secure on behalf of the Surviving Corporation the services of the employee
+upon the terms and conditions hereinafter set forth, and the Employee wishes to
+render such services to the Surviving Corporation upon the terms and conditions
+hereinafter set forth.
+
+      NOW, THEREFORE, in consideration of the foregoing and the mutual
+covenants herein contained and for other good and valuable consideration, the
+receipt and adequacy of which are hereby acknowledged, the parties agree as
+follows:
+
+1) EMPLOYMENT BY THE SURVIVING CORPORATION. Sybase agrees to employ the Employee
+   as Senior Vice President of the e-business Platform Division, and the
+   Employee accepts such employment and agrees to perform such duties as are
+   consistent with his title and position. Employee's duties shall be those
+   customarily performed by a person holding the same title at a company of
+   similar size and industry as the Surviving Corporation, and he shall report
+   directly to the Rick Adam of the Surviving Corporation. The Employee agrees
+   to devote his full business time to the business of the Surviving
+   Corporation and/or its Affiliates and to faithfully, diligently and
+   competently perform his duties hereunder.
+
+2) TERM OF EMPLOYMENT. The Term of this Agreement shall commence on the
+   Effective Date and continue until terminated as set forth herein. The
+   parties agree that Employee's employment will be "at will" employment and
+   may be terminated at any time with or without cause or notice. Employee
+   understands and agrees that neither his job performance nor promotions,
+   commendations, bonuses or the like give rise to or in any way serve as the
+   basis
+
+Page 1
+
+     for modification, amendment or extension, by implication or otherwise, of
+     his employment hereunder.
+
+3.   COMPENSATION.  As compensation for all services to be rendered by the
+     Employee to the Surviving Corporation and/or its Affiliates in all
+     capacities during the Term, the Employee shall receive the following
+     compensation and benefits:
+
+     a)   SALARY.  An annual base salary of ($400,000) (the "Base Salary"),
+          less required withholdings, which shall be paid on a regular basis in
+          accordance with the Surviving Corporation's normal payroll procedures
+          and policies.
+
+     b)   BONUS.  The Employee shall be eligible to receive bonuses in
+          accordance with such bonus plans as are applicable to employees of
+          the Surviving Corporation from time to time. For calendar year 2001,
+          the targeted bonus is $200,000 less required withholdings (which
+          bonus shall only be payable to the extent carried under the terms of
+          the applicable bonus plan).
+
+     c)   PARTICIPATION IN EMPLOYEE BENEFIT PLANS.  The Employee shall be
+          permitted during the Term, if and to the extent eligible, to
+          participate in all employee benefit plans, policies and practices now
+          or hereafter maintained by or on behalf of the Surviving Corporation
+          for employees having positions with the Surviving Corporation
+          commensurate with the Employee's position with the Surviving
+          Corporation. Nothing in this Agreement shall preclude the Surviving
+          Corporation from terminating or amending any such plans or coverage
+          so as to eliminate, reduce or otherwise change any benefit payable
+          thereunder, so long as such change similarly affects all Surviving
+          Corporation employees having positions with the Surviving Corporation
+          that are commensurate with the Employee's position with the Surviving
+          Corporation.
+
+     d)   EXPENSES.  The Surviving Corporation shall pay or reimburse the
+          Employee for all reasonable expenses actually incurred or paid by the
+          Employee during the Term in the performance of the Employee's duties
+          under this Agreement, upon submission and approval of expense
+          statements, vouchers or other supporting information, in accordance
+          with the then customary practices of the Surviving Corporation.
+
+     e)   VACATION.  The Employee shall be entitled to vacation in accordance
+          with Sybase policy.
+
+     f)   WITHHOLDING OF TAXES.  The Surviving Corporation may withhold from
+          any compensation payable under this Agreement all federal, state,
+          city and other taxes as shall be required pursuant to any law or
+          governmental regulation or ruling.
+
+     g)   STOCK OPTIONS.  The Surviving Corporation shall grant to Employee
+          stock options (the "Employee Option") to acquire up to 125,000 shares
+          of Sybase, Inc. common stock. The stock options granted to Employee
+          shall vest such that 1/8th of such option shares shall
+
+Page 2
+
+          vest six months after the Effective Date, and 1/48th of such option
+          shares shall vest each month thereafter through the 48th month after
+          the Effective Date. Otherwise, the stock options granted will be upon
+          the same terms and conditions as are generally provided under the
+          Sybase, Inc. Stock Plans.
+
+4)   TERMINATION
+
+     a)   TERMINATION UPON DEATH. If the Employee dies during the Term, this
+          Agreement shall terminate as of the date of his death.
+
+     b)   TERMINATION UPON DISABILITY. If, during the Term, the Employee
+          becomes physically or mentally disabled, the Surviving Corporation
+          may, by written notice to the Employee, terminate this Agreement, in
+          which event the Term shall terminate 30 days after the date upon
+          which the Surviving Corporation shall have given notice to the
+          Employee of its intention to terminate this Agreement because of such
+          disability. Disability shall be determined in accordance with the
+          terms of the applicable policies and benefit plans of the Surviving
+          Corporation.
+
+     c)   TERMINATION FOR CAUSE. The Surviving Corporation may at any time by
+          written notice to the Employee terminate this Agreement immediately,
+          and the Employee shall have no right to receive any compensation or
+          benefit hereunder on and after the date of such notice, in the event
+          that an event of "Cause" occurs. For purposes of this Agreement
+          "Cause" shall mean:
+
+          (i)   the continuous failure by the Employee to perform the material
+                duties and responsibilities that are reasonably consistent with
+                his position which remain uncured for a period of fifteen (15)
+                days after receipt of notice thereof from the Surviving
+                Corporation;
+
+          (ii)  a conviction of, a plea of nolo contendere, a guilty plea or
+                confession by the Employee to a felony or the committing of an
+                act of fraud or material dishonesty against, or the
+                embezzlement, theft or misappropriation of property belonging
+                to, the Surviving Corporation or its Affiliates;
+
+          (iii) the Employee personally engaging in conduct that he reasonably
+                should know or that he intends to be seriously injurious to the
+                business of the Surviving Corporation or its Affiliates (it
+                being understood that business decisions made by the Employee
+                in good faith are not to be considered grounds for termination
+                for Cause); or
+
+          (iv)  the material breach by the Employee of this Agreement or the
+                Nondisclosure and Assignment of Inventions Agreement which is
+                not cured within fifteen (15) days after receipt of notice
+                thereof from the Surviving Corporation (except for a breach of
+
+Page 3
+
+               Section 7 hereof or a breach of the Nondisclosure and Assignment
+               of Inventions Agreement for which no cure period is provided).
+
+     d)   TERMINATION WITHOUT CAUSE. The Surviving Corporation may terminate
+          this Agreement at any time, without cause, and the Employee shall have
+          no right to receive any compensation or benefit hereunder after such
+          termination except as set forth in Section 5 below. Employee may
+          terminate this Agreement without cause, and the Employee shall have no
+          right to receive any compensation or benefit hereunder after such
+          termination.
+
+     e)   SURRENDER OF RECORDS AND PROPERTY. Upon termination of his employment
+          with the Surviving Corporation, Employee shall deliver promptly to the
+          Surviving Corporation all property and all tangible forms of
+          Confidential Information in accordance with the terms of the
+          Nondisclosure and Assignment of Inventions Agreement between Sybase
+          and the Employee.
+
+5)   SEVERANCE PAYMENTS AND OTHER RIGHTS.
+
+     a)   CERTAIN SEVERANCE PAYMENTS AND OTHER RIGHTS. If, during the Term, the
+          Surviving Corporation terminates this Agreement pursuant to Section
+          4(d), all compensation payable to the Employee under Section 3 shall
+          cease as of the date of termination specified in the Surviving
+          Corporation's notice (the "Termination Date"), and the Surviving
+          Corporation shall pay or provide to the Employee the following,
+          provided that the Employee first enters into and does not revoke a
+          binding written agreement releasing all claims, known or unknown, that
+          the Employee has or might have against the Surviving Corporation in
+          connection with this Agreement and other employment arrangements with
+          the Surviving Corporation and its Affiliates and for wrongful
+          discharge, and provided further that the Employee has not violated the
+          terms of Section 7 of this Agreement. (Payment of the severance
+          payments does not constitute an acknowledgement by the Surviving
+          Corporation of the Employee's compliance with the terms of Section 7.)
+          All severance payments shall be subject to applicable tax withholding,
+          and shall be in lieu of any further payments under this Agreement or
+          under any other employment arrangements between the Employee and the
+          Surviving Corporation.
+
+          (i)  a lump sum amount equal to the SVP severance package then
+               applicable to employees.
+
+          (ii) for a period equal to the earlier of 24 mos or (y) the date upon
+               which Employee and his covered dependents become covered under
+               comparable group health, plans of another employer, payment of
+               applicable premiums under COBRA for group health coverage in
+               order to provide the Employee and his covered dependents
+               equivalent
+
+Page 4
+
+                     coverage to that which they were entitled to while Employee
+                     was an employee of the Surviving Corporation immediately
+                     prior to his termination; and
+
+               (iii) all previously accrued vacation pay.
+
+          b)   PAYMENTS UPON TERMINATION FOR CAUSE, DEATH OR DISABILITY. If this
+               Agreement is terminated by the Surviving Corporation pursuant to
+               Sections 4(a), 4(b) or 4(c), the Employee shall receive only the
+               amounts owing through the Termination Date.
+
+     6)   REPRESENTATION AND WARRANTY OF EMPLOYEE. The Employee represents and
+          warrants that neither the execution nor the delivery of this
+          Agreement, nor the employment of the Employee by the Surviving
+          Corporation will result in the breach of any agreement to which the
+          Employee is a party, except where any such breach would not have a
+          material adverse effect on the business, financial condition or
+          operations of the Surviving Corporation.
+
+     7)   COVENANTS. The Employee acknowledges that: (i) he is one of the
+          limited number of persons who will develop the business of the
+          Surviving Corporation; (ii) his work for the Surviving Corporation has
+          brought him and will continue to bring him into close contact with
+          many confidential affairs not readily available to the public; and
+          (iii) the covenants contained in this Section 7 will not involve a
+          substantial hardship upon his future livelihood. In light of such
+          acknowledgement, and in partial consideration of the several
+          agreements made by Sybase with the Employee in the Merger Agreement
+          and in order to induce the Surviving Corporation to enter into this
+          Agreement and the Merger Agreement, the Employee covenants and agrees
+          that:
+
+          a)   NON-COMPETE. During the period of this employment by the
+               Surviving Corporation under this Agreement and for 18 months
+               following the termination of the Employee's employment for any
+               reason, provided the Surviving Corporation is not in breach of
+               its obligations under Section 5, the Employee shall not, directly
+               or indirectly: (i) in any manner whatsoever engage in any
+               capacity with any Restricted Business in a Restricted Territory
+               (as such terms are defined below) for the Employee's own benefit
+               or for the benefit of any Person other than the Surviving
+               Corporation; or (ii) have any interest as owner, sole proprietor,
+               shareholder, partner, lender, director, officer, manager,
+               employee, consultant, agent or otherwise in any Restricted
+               Business in a Restricted Territory; provided, however, that the
+               Employee may hold, directly or indirectly, solely as an
+               investment, not more than two percent (2%) of the outstanding
+               securities of any person or entity which are listed on any
+               national securities exchange or regularly traded in the
+               over-the-counter market notwithstanding the fact that such person
+               or entity is a Restricted Business in a Restricted Territory.
+
+               "Restricted Business" shall mean (A) a business which is
+               competitive with the Surviving Corporation's business engaged in
+               by the Surviving Corporation at the date of his
+
+Page 5
+
+          termination of employment (the "Surviving Corporation's Business")
+          and (B) Oracle Systems Corporation, Informix Corporation, the
+          database product groups or organizations of Computer Associates, the
+          database product groups or organizations of Microsoft Corporation and
+          the database product groups or organizations of IBM. Notwithstanding
+          the above, the Employee may become an employee of or consultant to or
+          have an interest as owner, sole proprietor, shareholder, partner,
+          lender, director, officer, manager, employee, consultant, agent or
+          otherwise in a business unit of a larger enterprise which enterprise
+          then has another business unit engaged in a business competitive with
+          the Surviving Corporation's Business, provided that the business unit
+          of the larger enterprise for which Employee provides services or in
+          which he has an interest is neither (1) in a business competitive
+          with the Surviving Corporation's Business and is located in a
+          geographically separate location from the competitive business unit
+          and the Employee has no responsibility and has no role whatsoever in
+          the competing business unit nor (2) a company or business unit listed
+          in clause B of this paragraph.
+
+          "Restricted Territory" shall mean the larger of (i) the counties,
+          cities and states of the United States of America and each political
+          subdivision of Canada, Australia, Japan, each member of the European
+          Economic Community and any other country in which the Surviving
+          Corporation's products are sold or licensed during the term of the
+          non-compete obligations or (ii) if (i) is found unenforceable, the
+          counties, cities, states and political subdivisions of any country in
+          which the Surviving Corporation's products are sold, distributed or
+          licensed during the term of the non-compete obligations.
+
+          The parties intend that the covenants contained in this Section 7(a)
+          shall be construed as a series of separate covenants, one for each
+          county, city, state and other political subdivision of each country
+          in the Restricted Territory. Except for geographic coverage, each
+          separate covenant shall be deemed identical in terms to the covenant
+          contained in the preceding paragraphs. If, in any judicial
+          proceeding, a court shall refuse to enforce any of the separate
+          covenants (or any part thereof) deemed included in said paragraphs,
+          then such unenforceable covenant (or such part) shall be deemed
+          eliminated from this Agreement for the purpose of those proceedings
+          to the extent necessary to permit the remaining separate covenants
+          (or portions thereof) to be enforced by such court. It is the intent
+          of the parties that the covenants set forth herein be enforced to the
+          maximum degree permitted by applicable law.
+
+          In the event that the provisions of this Section 7(a) should ever be
+          deemed to exceed the scope, time or geographic limitations of
+          applicable law regarding covenants not to compete, then such
+          provisions shall be reformed to the maximum scope, time or geographic
+          limitations, as the case may be, permitted by applicable laws.
+
+     b)   NON-DISCLOSURE OF CONFIDENTIAL INFORMATION. Concurrently with the
+          execution of this Agreement, the Employee shall enter into a
+          Nondisclosure And Assignment of Inventions
+
+Page 6
+
+          Agreement in the form attached hereto.
+
+     c)   NON-SOLICITATION OF EMPLOYEES OF AND CONSULTANTS TO THE SURVIVING
+          CORPORATION. During the period of his employment by the Surviving
+          Corporation under this Agreement and for 18 months following the
+          termination of the Employee's employment for any reason, the Employee
+          shall not, directly or indirectly, initiate communications with,
+          solicit, persuade, entice, induce or encourage any individual who is
+          then or who has been within the preceding 12-month period, an
+          employee of or consultant to the Surviving Corporation to terminate
+          an employment or consulting relationship with the Surviving
+          Corporation, as the case may be, or to become employed by or enter
+          into a contract or other agreement with any other person, and the
+          Employee shall not approach any such employee or consultant for any
+          such purpose or authorize or knowingly approve the taking of any such
+          actions by any other person.
+
+    d)    NON-SOLICITATION OF CUSTOMERS. During the period of his employment by
+          the Surviving Corporation under this Agreement and for 18 months
+          following the termination of the Employee's employment for any
+          reason, the Employee shall not, directly or indirectly, solicit,
+          persuade, entice, induce, encourage (or assist in connection with any
+          of the foregoing) any person who is then or has been within the
+          preceding 24-month period a customer or account of the Surviving
+          Corporation, or any infomediary, affiliate, service provider or
+          fulfillment entity that does business with the Surviving
+          Corporation, or any actual customer leads whose identity the Employee
+          learned during the course of his employment with the Surviving
+          Corporation, to terminate or to adversely alter its contractual or
+          other relationship with the Surviving Corporation.
+
+     e)   RIGHTS AND REMEDIES UPON BREACH. If the Employee breaches or
+          threatens to commit a breach of, any of the provisions of this
+          Section 7 (collectively, the "Restrictive Covenants"), the Surviving
+          Corporation shall have the right and remedy to seek from any court of
+          competent jurisdiction specific performance of the Restrictive
+          Covenants or injunctive relief against any act which would violate
+          any of the Restrictive Covenants, it being acknowledged and agreed
+          that any such breach or threatened breach will cause irreparable
+          injury to the Surviving Corporation and that money damages will not
+          provide an adequate remedy to the Surviving Corporation.
+
+     f)   REPRESENTATION OF THE EMPLOYEE. The Employee is (i) familiar with the
+          covenants in this Section 7, (ii) is fully aware of his obligations
+          hereunder, (iii) finds the length of time, scope and geographic
+          coverage of these covenants to be reasonable, and (iv) is receiving
+          specified, bargained-for consideration for these covenants.
+
+8)   MISCELLANEOUS.
+
+Page 7
+
+      a)    NOTICES. Any notice or other communication required or which may be
+            given hereunder shall be in writing and shall be delivered
+            personally, telecopied, telegraphed or telexed, or sent by
+            certified, registered or express mail, postage prepaid, to the
+            parties at the following addresses, or at such other addresses as
+            shall be specified by the parties by like notice, and shall be
+            deemed given when so delivered personally, telecopied, telegraphed
+            or telexed, or if mailed, two (2) days after the date of mailing,
+            as follows:
+
+if to the Surviving Corporation, to the officer of the Surviving Corporation
+holding the title of Secretary, to him or her at the Surviving Corporation's
+Principal Place of Business
+
+with copies to:
+
+                  General Counsel
+                  Sybase, Inc.
+                  6475 Christie Ave.
+                  Emeryville, CA 94698
+                  Telecopier: (510) 922-4558
+
+if to the Employee, to him at the address set forth on the first page hereof
+
+with copies to:
+
+                  Pat Fortune
+                  6550 Greenwood Plaza Blvd.
+                  Englewood, CO 80111
+
+                  Telecopier:
+
+      b)    ENTIRE AGREEMENT. This Agreement contains the entire agreement
+            between the parties with respect to the subject matter hereof and
+            supersedes all prior contracts and other agreements, written or
+            oral, with respect thereto.
+
+      c)    WAIVERS AND AMENDMENTS. This Agreement may be amended, modified,
+            superseded, cancelled, renewed or extended, and the terms and
+            conditions hereof may be waived, only by a written instrument
+            signed by the parties or, in the case of a waiver, by the party
+            waiving compliance.
+
+      d)    GOVERNING LAW. This Agreement shall be governed by, and construed
+            in accordance with and subject to, the laws of the State of
+            California without regard to its conflicts of laws principles.
+
+      e)    ASSIGNMENT. This Agreement, and the Employee's rights and
+            obligations hereunder, may not be assigned by the Employee. The
+            Surviving Corporation may assign this Agreement
+
+Page 8
+
+          and its rights, together with its obligations, hereunder only in
+          connection with any sale, transfer or other disposition of all or
+          substantially all of its assets or business, whether by merger,
+          consolidation or otherwise. This Agreement shall inure to the benefit
+          of and be binding upon the parties hereto and any successors and
+          permitted assigns.
+
+     f)   DEFINITIONS.  For purposes of this Agreement:
+
+          (i)    "Affiliate" shall mean a Person that, directly or indirectly,
+                 controls or is controlled by, or is under common control with
+                 the Surviving Corporation;
+
+          (ii)   "control" as used with respect to any Person, shall mean the
+                  possession, directly or indirectly, of the power to direct or
+                  cause the direction of the management or policies, whether
+                  through ownership of voting securities, by contract or
+                  otherwise; and
+
+          (iii)   "Person" means an individual, sole proprietorship,
+                  partnership, corporation, association, joint stock Surviving
+                  Corporation, trust, joint venture, unincorporated
+                  organization, institution, entity or government (whether
+                  federal, state, local or otherwise including without
+                  limitation, or any department, agency, or political
+                  subdivision thereof).
+
+     g)   COUNTERPARTS; FACSIMILE EXECUTION.  This Agreement may be executed in
+          two or more counterparts, each of which shall be deemed an original
+          but all of which together shall constitute one and the same
+          instrument. Facsimile execution and delivery of this Agreement is
+          legal, valid and binding execution and delivery for all purposes.
+
+     h)   HEADINGS.  The headings in this Agreement are for reference purposes
+          only and shall in no way affect the meaning or interpretation of this
+          Agreement.
+
+     i)   SURVIVAL.  Sections 4(e), 5, 6, 7 and this Section 8 shall survive
+          termination of this Agreement for any reason.
+
+     j)   SEVERABILITY.  To the extent any provision of this Agreement shall be
+          invalid or unenforceable, it shall be considered deleted herefrom and
+          the remainder of such provision and of this Agreement shall be
+          unaffected and shall continue in full force and effect. In
+          furtherance and not in limitation of the foregoing, should the
+          duration of geographical extent of, or business activities covered by
+          any provision of this Agreement be in excess of that which is valid
+          and enforceable under applicable law, then such provision shall be
+          construed to cover only that duration, extent or activities which may
+          validly and enforceably be covered.
+
+     k)   ADR.  Except as provided herein, no civil action with respect to any
+          dispute, claim or controversy arising out of or relating to this
+          Agreement may be commenced until the matter has been submitted to
+          JAMS/ENDISPUTE, or its successor, for mediation. Either
+
+Page 9
+
+     party may commence mediation by providing to JAMS/ENDISPUTE and the other
+     party a written request for mediation, setting forth the subject of the
+     dispute and the relief requested. The parties will cooperate with
+     JAMS/ENDISPUTE and with one another in selecting a mediator from
+     JAMS/ENDISPUTE's panel of neutrals, and in scheduling the mediation
+     proceedings. The parties covenant that they shall participate in the
+     mediation in good faith, and that they shall share equally in its costs.
+     All offers, promises, conduct and statements, whether oral or written, made
+     in the course of the mediation by any of the parties, their agents,
+     employees, experts and attorneys, and by the mediator and any
+     JAMS/ENDISPUTE employees, are confidential, privileged and inadmissible for
+     any purpose, including impeachment, in any litigation or other proceeding
+     involving the parties, provided that evidence that is otherwise admissible
+     or discoverable shall not be rendered inadmissible or non-discoverable as a
+     result of its use in the mediation. Either party may seek equitable relief
+     prior to the mediation to preserve the status quo pending the completion of
+     that process. Except for such an action to obtain equitable relief,
+     neither party may commence a civil action with respect to the matters
+     submitted to mediation until after the completion of the initial mediation
+     session, or 45 days after the date of filing the written request for
+     mediation, whichever occurs first. Mediation may continue after the
+     commencement of a civil action, if the parties so desire. The provisions of
+     this Clause may be enforced by any Court of competent jurisdiction, and the
+     party seeking enforcement shall be entitled to an award of all costs, fees
+     and expenses, including attorneys fees, to be paid by the party against
+     whom enforcement is ordered.
+
+l)   SUPERCEDES OLD AGREEMENTS. Employee agrees that the terms of this Agreement
+     supercede the terms of any and all employment arrangements he may have had
+     with the Surviving Corporation in their entirety (except that that certain
+     Agreement dated 2/16/01, 2001 shall survive). Employee agrees that
+     Employee's decision to terminate such employment arrangements and enter
+     into this Agreement does not constitute constructive termination of any
+     employment arrangement Employee had with [NEON].
+
+m)   COSTS OF ENFORCEMENT OR DEFENSE. In the event of any litigation with
+     respect to this Agreement, the prevailing party shall be entitled to be
+     paid by the other party hereto all costs of enforcement or defense, as the
+     case may be, paid or incurred in connection with the enforcement or
+     defense, including reasonable attorney fees and legal costs.
+
+n)   DELAYS OR OMISSIONS. No delay or omission to exercise any right, power or
+     remedy accruing to either party upon any breach or default of the other
+     party hereto shall impair any such right, power or remedy of such
+     non-defaulting party, nor shall it be construed to be a waiver of any such
+     breach or default or an acquiescence therein, or of or in any similar
+     breach or default thereafter occurring; nor shall any waiver of a breach or
+     default be deemed to be a waiver of any other breach or default.
+
+Page 10
+
+      o)    RULES OF CONSTRUCTION. Sybase and the Employee each acknowledge that
+            they have been represented by competent counsel during the
+            negotiation and execution of this Agreement and therefore waive the
+            application of any law, regulation, holding or rule of construction
+            providing that ambiguities in any agreement will be construed
+            against the party drafting the agreement.
+
+      p)    CLOSING. This Agreement shall become effective at the time of the
+            Closing on the Effective Date.
+
+            IN WITNESS WHEREOF, the parties have executed this Agreement as of
+the date first above written.
+
+                                          SYBASE, INC.
+
+                                          By: /s/ DANIEL R. CARL
+                                             -------------------------
+                                             Name: Daniel R. Carl
+                                             Title: Vice President,
+                                                    General Counsel
+                                                    and Secretary
+
+                                          EMPLOYEE:
+
+                                          /s/ PATRICK J. FORTUNE
+                                          -------------------------------
+                                          Name: Patrick J. Fortune
+
+Page 11
+
+EX-99.(D)(12)
+
+f70243ex99-d12.txt
+
+EMPLOYMENT AND NON-COMPETITION AGREEMENT
+
+                                                                 EXHIBIT (d)(12)
+
+                    EMPLOYMENT AND NON-COMPETITION AGREEMENT
+
+            This EMPLOYMENT AGREEMENT (this "Agreement") is made as of the 20
+day of February, 2001 by and between SYBASE, INC., a Delaware corporation
+("Sybase"), and FRED HORN, an individual residing at Denver, Co. (the
+"Employee").
+
+                                   BACKGROUND
+
+            The Employee is a shareholder of [NEON] and is employed by [NEON].
+Sybase and [NEON] have entered into an Agreement And Plan of Reorganization
+dated of even date herewith (the "Merger Agreement") which requires, among other
+things, that the Employee enter into this Agreement as part of the merger
+described in the Merger Agreement (the "Merger"). This Agreement is to be
+effective only upon the Effective Date (as defined in the Merger Agreement) at
+which time Sybase will assign all of its rights and obligations under this
+Agreement to the Surviving Corporation (as defined in the Merger Agreement).
+Sybase wishes to secure on behalf of the Surviving Corporation the services of
+the Employee upon the terms and conditions hereinafter set forth, and the
+Employee wishes to render such services to the Surviving Corporation upon the
+terms and conditions hereinafter set forth.
+
+            NOW, THEREFORE, in consideration of the foregoing and the mutual
+covenants herein contained and for other good and valuable consideration, the
+receipt and adequacy of which are hereby acknowledged, the parties agree as
+follows:
+
+1)    EMPLOYMENT BY THE SURVIVING CORPORATION. Sybase agrees to employ the
+      Employee as Vice President of the e-business Platform Division and the
+      Employee accepts such employment and agrees to perform such duties as are
+      consistent with his title and position. Employee's duties shall be those
+      customarily performed by a person holding the same title at a company of
+      similar size and industry as the Surviving Corporation, and he shall
+      report directly to the Pat Fortune of the Surviving Corporation. The
+      Employee agrees to devote his full business time to the business of the
+      Surviving Corporation and/or its Affiliates and to faithfully, diligently
+      and competently perform his duties hereunder.
+
+2)    TERM OF EMPLOYMENT. The Term of this Agreement shall commence on the
+      Effective Date and continue until terminated as set forth herein. The
+      parties agree that Employee's employment will be "at will" employment and
+      may be terminated at any time with or without cause or notice. Employee
+      understands and agrees that neither his job performance nor promotions,
+      commendations, bonuses or the like give rise to or in any way serve as the
+      basis for modification, amendment or extension, by implication or
+      otherwise, of his employment hereunder.
+
+Page 1
+
+3)   COMPENSATION. As compensation for all services to be rendered by the
+     Employee to the Surviving Corporation and/or its Affiliates in all
+     capacities during the Term, the Employee shall receive the following
+     compensation and benefits:
+
+     a)  SALARY. An annual base salary of ($300,000) (the "Base Salary"), less
+         required withholdings, which shall be paid on a regular basis in
+         accordance with the Surviving Corporation's normal payroll procedures
+         and policies.
+
+     b)  BONUS. The Employee shall be eligible to receive bonuses in accordance
+         with such bonus plans as are applicable to employees of the Surviving
+         Corporation from time to time. For calendar year 2001, the targeted
+         bonus is $120,000 less required withholdings (which bonus shall only be
+         payable to the extent earned under the terms of the applicable bonus
+         plan).
+
+     c)  PARTICIPATION IN EMPLOYEE BENEFIT PLANS. The Employee shall be
+         permitted during the Term, if and to the extent eligible, to
+         participate in all employee benefit plans, policies and practices now
+         or hereafter maintained by or on behalf of the Surviving Corporation
+         for employees having positions with the Surviving Corporation
+         commensurate with the Employee's position with the Surviving
+         Corporation. Nothing in this Agreement shall preclude the Surviving
+         Corporation from terminating or amending any such plans or coverage so
+         as to eliminate, reduce or otherwise change any benefit payable
+         thereunder, so long as such change similarly affects all Surviving
+         Corporation employees having positions with the Surviving Corporation
+         that are commensurate with the Employee's position with the Surviving
+         Corporation.
+
+     d)  EXPENSES. The Surviving Corporation shall pay or reimburse the Employee
+         for all reasonable expenses actually incurred or paid by the Employee
+         during the Term in the performance of the Employee's duties under this
+         Agreement, upon submission and approval of expense statements, vouchers
+         or other supporting information, in accordance with the then customary
+         practices of the Surviving Corporation.
+
+     e)  VACATION. The Employee shall be entitled to vacation in accordance with
+         Sybase policy.
+
+     f)  WITHHOLDING OF TAXES. The Surviving Corporation may withhold from any
+         compensation payable under this Agreement all federal, state, city and
+         other taxes as shall be required pursuant to any law or governmental
+         regulation or ruling.
+
+     g)  STOCK OPTIONS. The Surviving Corporation shall grant to Employee stock
+         options (the "Employee Option") to acquire up to 125,000 shares of
+         Sybase, Inc common stock. The stock options granted to Employee shall
+         vest such that 1/8th of such option shares shall vest six months after
+         the Effective Date and 1/48th of such option shares shall vest each
+         month thereafter through the 48th month after the Effective Date.
+         Otherwise, the stock
+
+Page 2
+
+          options granted will be upon the same terms and conditions as are
+          generally provided under the Sybase, Inc. Stock Plans.
+
+4)   TERMINATION.
+
+     a)   TERMINATION UPON DEATH. If the Employee dies during the Term, this
+          Agreement shall terminate as of the date of his death.
+
+     b)   TERMINATION UPON DISABILITY. If, during the Term, the Employee
+          becomes physically or mentally disabled, the Surviving Corporation
+          may, by written notice to the Employee, terminate this Agreement, in
+          which event the Term shall terminate 30 days after the date upon
+          which the Surviving Corporation shall have given notice to the
+          Employee of its intention to terminate this Agreement because of such
+          disability. Disability shall be determined in accordance with the
+          terms of the applicable policies and benefit plans of the Surviving
+          Corporation.
+
+     c)   TERMINATION FOR CAUSE. The Surviving Corporation may at any time by
+          written notice to the Employee terminate this Agreement immediately,
+          and the Employee shall have no right to receive any compensation or
+          benefit hereunder on and after the date of such notice, in the event
+          that an event of "Cause" occurs. For purposes of this Agreement
+          "Cause" shall mean:
+
+          (i)   the continuous failure by the Employee to perform the material
+                duties and responsibilities that are reasonably consistent with
+                his position which remain uncured for a period of fifteen (15)
+                days after receipt of notice thereof from the Surviving
+                Corporation;
+
+          (ii)  a conviction of, a plea of nolo contendere, a guilty plea or
+                confession by the Employee to a felony or the committing of an
+                act of fraud or material dishonesty against, or the or
+                embezzlement, theft or misappropriation of property belonging
+                to, the Surviving Corporation or its Affiliates;
+
+          (iii) the Employee personally engaging in conduct that he reasonably
+                should know or that he intends to be seriously injurious to the
+                business of the Surviving Corporation or its Affiliates (it
+                being understood that business decisions made by the Employee
+                in good faith are not to be considered grounds for termination
+                for Cause); or
+
+          (iv)  the material breach by the Employee of this Agreement or the
+                Nondisclosure and Assignment of Inventions Agreement which is
+                not cured within fifteen (15) days after receipt of notice
+                thereof from the Surviving Corporation (except for a breach of
+                Section 7 hereof or a breach of the Nondisclosure and Assignment
+                of Inventions Agreement for which no cure period is provided).
+
+Page 3
+
+      d)    TERMINATION WITHOUT CAUSE. The Surviving Corporation may terminate
+            this Agreement at any time, without cause, and the Employee shall
+            have no right to receive any compensation or benefit hereunder
+            after such termination except as set forth in Section 5 below.
+            Employee may terminate this Agreement without cause, and the
+            Employee shall have no right to receive any compensation or benefit
+            hereunder after such termination.
+
+      e)    SURRENDER OF RECORDS AND PROPERTY. Upon termination of his
+            employment with the Surviving Corporation, Employee shall deliver
+            promptly to the Surviving Corporation all property and all tangible
+            forms of Confidential Information in accordance with the terms of
+            the Nondisclosure and Assignment of Inventions Agreement between
+            Sybase and the Employee.
+
+5)    SEVERANCE PAYMENTS AND OTHER RIGHTS.
+
+      a)    CERTAIN SEVERANCE PAYMENTS AND OTHER RIGHTS. If, during the Term,
+            the Surviving Corporation terminates this Agreement pursuant to
+            Section 4(d), all compensation payable to the Employee under
+            Section 3 shall cease as of the date of termination specified in
+            the Surviving Corporation's notice (the "Termination Date"), and
+            the Surviving Corporation shall pay or provide to the Employee the
+            following, provided that the Employee first enters into and does
+            not revoke a binding written agreement releasing all claims, known
+            or unknown, that the Employee has or might have against the
+            Surviving Corporation in connection with this Agreement and other
+            employment arrangements with the Surviving Corporation and its
+            Affiliates and for wrongful discharge, and provided further that
+            the Employee has not violated the terms of Section 7 of this
+            Agreement. (Payment of the severance payments does not constitute
+            an acknowledgement by the Surviving Corporation of the Employee's
+            compliance with the terms of Section 7.) All severance payments
+            shall be subject to applicable tax withholding, and shall be in
+            lieu of any further payments under this Agreement or under any
+            other employment arrangements between the Employee and the
+            Surviving Corporation.
+
+            (i)   a lump sum amount equal to the VP severance package then
+                  applicable to employees;
+
+            (ii)  for a period equal to the earlier of 24 mos or (y) the date
+                  upon which Employee and his covered dependents become covered
+                  under comparable group health, plans of another employer,
+                  payment of applicable premiums under COBRA for group health
+                  coverage in order to provide the Employee and his covered
+                  dependents equivalent coverage to that which they were
+                  entitled to while Employee was an employee of the Surviving
+                  Corporation immediately prior to his termination; and
+
+            (iii) all previously accrued vacation pay.
+
+Page 4
+
+     b)   PAYMENTS UPON TERMINATION FOR CAUSE, DEATH OR DISABILITY. If this
+          Agreement is terminated by the Surviving Corporation pursuant to
+          Sections 4(a), 4(b) or 4(c), the Employee shall receive only the
+          amounts owing through the Termination Date.
+
+6)   REPRESENTATION AND WARRANTY OF EMPLOYEE. The Employee represents and
+     warrants that neither the execution nor the delivery of this Agreement, nor
+     the employment of the Employee by the Surviving Corporation will result in
+     the breach of any agreement to which the Employee is a party, except where
+     any such breach would not have a material adverse effect on the business,
+     financial condition or operations of the Surviving Corporation.
+
+7)   COVENANTS. The Employee acknowledges that: (i) he is one of the limited
+     number of persons who will develop the business of the Surviving
+     Corporation; (ii) his work for the Surviving Corporation has brought him
+     and will continue to bring him into close contact with many confidential
+     affairs not readily available to the public; and (iii) the covenants
+     contained in this Section 7 will not involve a substantial hardship upon
+     his future livelihood. In light of such acknowledgement, and in partial
+     consideration of the several agreements made by Sybase with the Employee in
+     the Merger Agreement and in order to induce the Surviving Corporation to
+     enter into this Agreement and the Merger Agreement, the Employee covenants
+     and agrees that:
+
+     a)   NON-COMPETE. During the period of his employment by the Surviving
+          Corporation under this Agreement and for 18 months following the
+          termination, of the Employee's employment for any reason, provided the
+          Surviving Corporation is not in breach of its obligations under
+          Section 5, the Employee shall not, directly or indirectly: (i) in any
+          manner whatsoever engage in any capacity with any Restricted Business
+          in a Restricted Territory (as such terms are defined below) for the
+          Employee's own benefit or for the benefit of any Person other than the
+          Surviving Corporation; or (ii) have any interest as owner, sole
+          proprietor, shareholder, partner, lender, director, officer, manager,
+          employee, consultant, agent or otherwise in any Restricted Business in
+          a Restricted Territory; provided, however, that the Employee may hold,
+          directly or indirectly, solely as an investment, not more than two
+          percent (2%) of the outstanding securities of any person or entity
+          which are listed on any national securities exchange or regularly
+          traded in the over-the-counter market notwithstanding the fact that
+          such person or entity is a Restricted Business in a Restricted
+          Territory.
+
+          "Restricted Business" shall mean (A) a business which is competitive
+          with the Surviving Corporation's business engaged in by the Surviving
+          Corporation at the date of his termination of employment (the
+          "Surviving Corporation's Business") and (B) Oracle Systems
+          Corporation, Informix Corporation, the database product groups or
+          organizations of Computer Associates, the database product groups or
+          organizations of Microsoft Corporation and the database product groups
+          or organizations of IBM. Notwithstanding the above, the Employee may
+          become an employee of or consultant to or have an interest as owner,
+          sole proprietor, shareholder, partner, lender, director, officer,
+          manager,
+
+Page 5
+
+          employee, consultant, agent or otherwise in a business unit of a
+          larger enterprise which enterprise then has another business unit
+          engaged in a business competitive with the Surviving Corporation's
+          Business, provided that the business unit of the larger enterprise for
+          which Employee provides services or in which he has an interest is
+          neither (1) in a business competitive with the Surviving Corporation's
+          Business and is located in a geographically separate location from the
+          competitive business unit and the Employee has no responsibility and
+          has no role whatsoever in the competing business unit nor (2) a
+          company or business unit listed in clause B of this paragraph.
+
+          "Restricted Territory" shall mean the larger of (i) the counties,
+          cities and states of the United States of America and each political
+          subdivision of Canada, Australia, Japan, each member of the European
+          Economic Community and any other country in which the Surviving
+          Corporation's products are sold or licensed during the term of the
+          non-compete obligations or (ii) if (i) is found unenforceable, the
+          counties, cities, states and political subdivisions of any country in
+          which the Surviving Corporation's products are sold, distributed or
+          licensed during the term of the non-compete obligations.
+
+          The parties intend that the covenants contained in this Section 7(a)
+          shall be construed as a series of separate covenants, one for each
+          county, city, state and other political subdivision of each country in
+          the Restricted Territory. Except for geographic coverage, each
+          separate covenant shall be deemed identical in terms to the covenant
+          contained in the preceding paragraphs. If, in any judicial proceeding,
+          a court shall refuse to enforce any of the separate covenants (or any
+          part thereof) deemed included in said paragraphs, then such
+          unenforceable covenant (or such part) shall be deemed eliminated from
+          this Agreement for the purpose of those proceedings to the extent
+          necessary to permit the remaining separate covenants (or portions
+          thereof) to be enforced by such court. It is the intent of the parties
+          that the covenants set forth herein be enforced to the maximum degree
+          permitted by applicable law.
+
+          In the event that the provisions of this Section 7(a) should ever be
+          deemed to exceed the scope, time or geographic limitations of
+          applicable law regarding covenants not to compete, then such
+          provisions shall be reformed to the maximum scope, time or geographic
+          limitations, as the case may be, permitted by applicable laws.
+
+     b)   NON-DISCLOSURE OF CONFIDENTIAL INFORMATION. Concurrently with the
+          execution of this Agreement, the Employee shall enter into a
+          Nondisclosure And Assignment of Inventions Agreement in the form
+          attached hereto.
+
+     c)   NON-SOLICITATION OF EMPLOYEES OF AND CONSULTANTS TO THE SURVIVING
+          CORPORATION. During the period of his employment by the Surviving
+          Corporation under this Agreement and for 18 months following the
+          termination of the Employee's employment for any reason, the Employee
+          shall not, directly or indirectly, initiate communications with,
+          solicit, persuade, entice, induce or encourage any individual who is
+          then or who has been within
+
+Page 6
+
+     the preceding 12-month period, an employee of or consultant to the
+     Surviving Corporation to terminate an employment or consulting relationship
+     with the Surviving Corporation, as the case may be, or to become employed
+     by or enter into a contract or other agreement with any other person, and
+     the Employee shall not approach any such employee or consultant for any
+     such purpose or authorize or knowingly approve the taking of any such
+     actions by any other person.
+
+d)   NON-SOLICITATION OF CUSTOMERS. During the period of his employment by the
+     Surviving Corporation under this Agreement and for 18 months following the
+     termination of the Employee's employment for any reason, the Employee shall
+     not, directly or indirectly, solicit, persuade, entice, induce, encourage
+     (or assist in connection with any of the foregoing) any person who is then
+     or has been within the preceding 24-month period a customer or account of
+     the Surviving Corporation, or any infomediary, affiliate, service provider
+     or fulfillment entity that does business with the Surviving Corporation, or
+     any actual customer leads whose identity the Employee learned during the
+     course of his employment with the Surviving Corporation, to terminate or to
+     adversely alter its contractual or other relationship with the Surviving
+     Corporation.
+
+e)   RIGHTS AND REMEDIES UPON BREACH. If the Employee breaches, or threatens to
+     commit a breach of, any of the provisions of this Section 7 (collectively,
+     the "Restrictive Covenants"), the Surviving Corporation shall have the
+     right and remedy to seek from any court of competent jurisdiction specific
+     performance of the Restrictive Covenants or injunctive relief against any
+     act which would violate any of the Restrictive Covenants, it being
+     acknowledged and agreed that any such breach or threatened breach will
+     cause irreparable injury to the Surviving Corporation and that money
+     damages will not provide an adequate remedy to the Surviving Corporation.
+
+f)   REPRESENTATION OF THE EMPLOYEE. The Employee is (i) familiar with the
+     covenants in this Section 7, (ii) is fully aware of his obligations
+     hereunder, (iii) finds the length of time, scope and geographic coverage of
+     these covenants to be reasonable, and (iv) is receiving specified,
+     bargained-for consideration for these covenants.
+
+8)   MISCELLANEOUS.
+
+     a)   NOTICES. Any notice or other communication required or which may be
+          given hereunder shall be in writing and shall be delivered personally,
+          telecopied, telegraphed or telexed, or sent by certified, registered
+          or express mail, postage prepaid, to the parties at the following
+          addresses, or at such other addresses as shall be specified by the
+          parties by like notice, and shall be deemed given when so delivered
+          personally, telecopied, telegraphed or telexed, or if mailed, two (2)
+          days after the date of mailing, as follows:
+
+if to the Surviving Corporation, to the officer of the Surviving Corporation
+holding the title of Secretary, to him or her at the Surviving Corporation's
+Principal Place of Business
+
+Page 7
+
+with copies to:
+
+                  General Counsel
+                  Sybase, Inc.
+                  6475 Christie Ave.
+                  Emerville CA 94698
+                  Telecopier: (510) 922-4558
+
+if to the Employee, to him at the address set forth on the first page hereof
+
+with copies to:
+
+                  Fred Horn
+                  6550 Greenwood Plaza Blvd.
+                  Englewood CO 80111
+                  Telecopier: 303 409 8677
+
+      b)    ENTIRE AGREEMENT. This Agreement contains the entire agreement
+            between the parties with respect to the subject matter hereof and
+            supersedes all prior contracts and other agreements, written or
+            oral, with respect thereto.
+
+      c)    WAIVERS AND AMENDMENTS. This Agreement may be amended, modified,
+            superseded, cancelled, renewed or extended, and the terms and
+            conditions hereof may be waived, only by a written instrument
+            signed by the parties or, in the case of a waiver, by the party
+            waiving compliance.
+
+      d)    GOVERNING LAW. This Agreement shall be governed by, and construed
+            in accordance with and subject to, the laws of the State of
+            California without regard to its conflicts of laws principles.
+
+      e)    ASSIGNMENT. This Agreement, and the Employee's rights and
+            obligations hereunder, may not be assigned by the Employee. The
+            Surviving Corporation may assign this Agreement and its rights,
+            together with its obligations, hereunder only in connection with
+            any sale, transfer or other disposition of all or substantially all
+            of its assets or business, whether by merger, consolidation or
+            otherwise. This Agreement shall inure to the benefit of and be
+            binding upon the parties hereto and any successors and permitted
+            assigns.
+
+      f)    DEFINITIONS. For purposes of this Agreement:
+
+            (i)   "Affiliate" shall mean a Person that, directly or indirectly,
+                  controls or is controlled by, or is under common control with
+                  the Surviving Corporation;
+
+Page 8
+
+          (ii)  "control" as used with respect to any Person, shall mean the
+                possession, directly or indirectly, of the power to direct or
+                cause the direction of the management or policies, whether
+                through ownership of voting securities, by contract or
+                otherwise; and
+
+          (iii) "Person" means an individual, sole proprietorship, partnership,
+                corporation, association, joint stock Surviving Corporation,
+                trust, joint venture, unincorporated organization, institution,
+                entity or government (whether federal, state, local or otherwise
+                including without limitation, or any department, agency, or
+                political subdivision thereof).
+
+     g)   COUNTERPARTS; FACSIMILE EXECUTION. This Agreement may be executed in
+          two or more counterparts, each of which shall be deemed an original
+          but all of which together shall constitute one and the same
+          instrument. Facsimile execution and delivery of this Agreement is
+          legal, valid and binding execution and delivery for all purposes.
+
+     h)   HEADINGS. The headings in this Agreement are for reference purposes
+          only and shall in no way affect the meaning or interpretation of this
+          Agreement.
+
+     i)   SURVIVAL. Sections 4(e),5,6,7 and this Section 8 shall survive
+          termination of this Agreement for any reason.
+
+     j)   SEVERABILITY. To the extent any provision of this Agreement shall be
+          invalid or unenforceable, it shall be considered deleted herefrom and
+          the remainder of such provision and of this Agreement shall be
+          unaffected and shall continue in full force and effect. In furtherance
+          and not in limitation of the foregoing, should the duration of
+          geographical extent of, or business activities covered by any
+          provision of this Agreement be in excess of that which is valid and
+          enforceable under applicable law, then such provision shall be
+          construed to cover only that duration, extent or activities which may
+          validly and enforceably be covered.
+
+     k)   ADR. Except as provided herein, no civil action with respect to any
+          dispute, claim or controversy arising out of or relating to this
+          agreement may be commenced until the matter has been submitted to
+          JAMS/ENDISPUTE, or its successor, for mediation. Either party may
+          commence mediation by providing to JAMS/ENDISPUTE and the other party
+          a written request for mediation, setting forth the subject of the
+          dispute and the relief requested. The parties will cooperate with
+          JAMS/ENDISPUTE and with one another in selecting a mediator from
+          JAMS/ENDISPUTE's panel of neutrals, and in scheduling the mediation
+          proceedings. The parties covenant that they shall participate in the
+          mediation in good faith, and that they shall share equally in its
+          costs. All offers, promises, conduct and statements, whether oral or
+          written, made in the course of the mediation by any of the parties,
+          their agents, employees, experts and attorneys, and by the mediator
+          and any JAMS/ENDISPUTE employees, are confidential, privileged and
+          inadmissible for any purpose, including impeachment, in any litigation
+          or other proceeding involving the
+
+Page 9
+
+     parties, provided that evidence that is otherwise admissible or
+     discoverable shall not be rendered inadmissible or non-discoverable as a
+     result of its use in the mediation. Either party may seek equitable relief
+     prior to the mediation to preserve the status quo pending the completion of
+     that process. Except for such an action to obtain equitable relief, neither
+     party may commence a civil action with respect to the matters submitted to
+     mediation until after the completion of the initial mediation session, or
+     45 days after the date of filing the written request for mediation,
+     whichever occurs first. Mediation may continue after the commencement of a
+     civil action, if the parties so desire. The provisions of this Clause may
+     be enforced by any Court of competent jurisdiction, and the party seeking
+     enforcement shall be entitled to an award of all costs, fees and expenses,
+     including attorneys fees, to be paid by the party against whom enforcement
+     is ordered.
+
+l)   SUPERCEDES OLD AGREEMENTS. Employee agrees that the terms of this Agreement
+     supercede the terms of any and all employment arrangements he may have had
+     with the Surviving Corporation in their entirety (except that that certain
+     Agreement dated 2/16/01, 2001 shall survive). Employee agrees that
+     Employee's decision to terminate such employment arrangements and enter
+     into this Agreement does not constitute constructive termination of any
+     employment arrangement Employee had with [NEON].
+
+m)   COSTS OF ENFORCEMENT OR DEFENSE. In the event of any litigation with
+     respect to this Agreement, the prevailing party shall be entitled to be
+     paid by the other party hereto all costs of enforcement or defense, as the
+     case may be, paid or incurred in connection with the enforcement or
+     defense, including reasonable attorney fees and legal costs.
+
+n)   DELAYS OR OMISSIONS. No delay or omission to exercise any right, power or
+     remedy accruing to either party upon any breach or default of the other
+     party hereto shall impair any such right, power or remedy of such
+     non-defaulting party, nor shall it be construed to be a waiver of any such
+     breach or default or an acquiescence therein, or of or in any similar
+     breach or default thereafter occurring; nor shall any waiver of a breach or
+     default be deemed to be a waiver of any other breach or default.
+
+o)   RULES OF CONSTRUCTION. Sybase and the Employee each acknowledge that they
+     have been represented by competent counsel during the negotiation and
+     execution of this Agreement and therefore waive the application of any law,
+     regulation, holding or rule of construction providing that ambiguities in
+     any agreement will be construed against the party drafting the agreement.
+
+p)   CLOSING. This Agreement shall become effective at the time of the Closing
+     on the Effective Date.
+
+     IN WITNESS WHEREOF, the parties have executed this Agreement as of the
+date first above written.
+
+Page 10
+
+                                             SYBASE, INC.
+
+                                             By: /s/ DANIEL R. CARL
+                                                --------------------------------
+                                                Name: Daniel R. Carl
+                                                Title: Vice President,
+                                                       General Counsel
+                                                       and Secretary
+
+                                             EMPLOYEE:
+
+                                                 /s/ FRED T. HORN
+                                             -----------------------------------
+                                             Name:   Fred T. Horn
+                                                  ------------------------------
+
+Page 11
+
+EX-99.(D)(13)
+
+f70243ex99-d13.txt
+
+EMPLOYMENT AND NON-COMPETITION AGREEMENT
+
+                                                                 EXHIBIT (d)(13)
+
+                    EMPLOYMENT AND NON-COMPETITION AGREEMENT
+
+            This EMPLOYMENT AGREEMENT (this "Agreement") is made as of the 20th
+day of February 2001 by and between SYBASE, INC., a Delaware corporation
+("Sybase"), and PETER HOVERSTEN an individual residing at Denver, Co. (the
+"Employee").
+
+                                   BACKGROUND
+
+            The Employee is a shareholder of [NEON] and is employed by [NEON].
+Sybase and [NEON] have entered into an Agreement And Plan of Reorganization
+dated of even date herewith (the "Merger Agreement") which requires, among other
+things, that the Employee enter into this Agreement as part of the merger
+described in the Merger Agreement (the "Merger"). This Agreement is to be
+effective only upon the Effective Date (as defined in the Merger Agreement) at
+which time Sybase will assign all of its rights and obligations under this
+Agreement to the Surviving Corporation (as defined in the Merger Agreement).
+Sybase wishes to secure on behalf of the Surviving Corporation the services of
+the Employee upon the terms and conditions hereinafter set forth, and the
+Employee wishes to render such services to the Surviving Corporation upon the
+terms and conditions hereinafter set forth.
+
+            NOW, THEREFORE, in consideration of the foregoing and the mutual
+covenants herein contained and for other good and valuable consideration, the
+receipt and adequacy of which are hereby acknowledged, the parties agree as
+follows:
+
+1)    EMPLOYMENT BY THE SURVIVING CORPORATION. Sybase agrees to employ the
+      Employee as Vice President and CTO of the e-business Platform Division,
+      and the Employee accepts such employment and agrees to perform such duties
+      as are consistent with his title and position. Employee's duties shall be
+      those customarily performed by a person holding the same title at a
+      company of similar size and industry as the Surviving Corporation, and he
+      shall report directly to Pat Fortune of the Surviving Corporation. The
+      Employee agrees to devote his full business time to the business of the
+      Surviving Corporation and/or its Affiliates and to faithfully, diligently
+      and competently perform his duties hereunder.
+
+2)    TERM OF EMPLOYMENT. The Term of this Agreement shall commence on the
+      Effective Date and continue until terminated as set forth herein. The
+      parties agree that Employee's employment will be "at will" employment and
+      may be terminated at any time with or without cause or notice. Employee
+      understands and agrees that neither his job performance nor promotions,
+      commendations, bonuses or the like give rise to or in any way serve as the
+      basis
+
+Page 1
+
+     for modification, amendment or extension, by implication or otherwise, of
+     his employment hereunder.
+
+3.   COMPENSATION.  As compensation for all services to be rendered by the
+     Employee to the Surviving Corporation and/or its Affiliates in all
+     capacities during the Term, the Employee shall receive the following
+     compensation and benefits:
+
+     a)   SALARY.  An annual base salary of ($250,000) (the "Base Salary"),
+          less required withholdings, which shall be paid on a regular basis in
+          accordance with the Surviving Corporation's normal payroll procedures
+          and policies.
+
+     b)   BONUS.  The Employee shall be eligible to receive bonuses in
+          accordance with such bonus plans as are applicable to employees of
+          the Surviving Corporation from time to time. For calendar year 2001,
+          the targeted bonus is $100,000 less required withholdings (which
+          bonus shall only be payable to the extent earned under the terms of
+          the applicable bonus plan).
+
+     c)   PARTICIPATION IN EMPLOYEE BENEFIT PLANS.  The Employee shall be
+          permitted during the Term, if and to the extent eligible, to
+          participate in all employee benefit plans, policies and practices now
+          or hereafter maintained by or on behalf of the Surviving Corporation
+          for employees having positions with the Surviving Corporation
+          commensurate with the Employee's position with the Surviving
+          Corporation. Nothing in this Agreement shall preclude the Surviving
+          Corporation from terminating or amending any such plans or coverage
+          so as to eliminate, reduce or otherwise change any benefit payable
+          thereunder, so long as such change similarly affects all Surviving
+          Corporation employees having positions with the Surviving Corporation
+          that are commensurate with the Employee's position with the Surviving
+          Corporation.
+
+     d)   EXPENSES.  The Surviving Corporation shall pay or reimburse the
+          Employee for all reasonable expenses actually incurred or paid by the
+          Employee during the Term in the performance of the Employee's duties
+          under this Agreement, upon submission and approval of expense
+          statements, vouchers or other supporting information, in accordance
+          with the then customary practices of the Surviving Corporation.
+
+     e)   VACATION.  The Employee shall be entitled to vacation in accordance
+          with Sybase policy.
+
+     f)   WITHHOLDING OF TAXES.  The Surviving Corporation may withhold from
+          any compensation payable under this Agreement all federal, state,
+          city and other taxes as shall be required pursuant to any law or
+          governmental regulation or ruling.
+
+     g)   STOCK OPTIONS.  The Surviving Corporation shall grant to Employee
+          stock options (the "Employee Option") to acquire up to 125,000 shares
+          of Sybase, Inc. common stock. The stock options granted to Employee
+          shall vest such that 1/8th of such option shares shall
+
+Page 2
+
+          vest six months after the Effective Date, and 1/48th of such option
+          shares shall vest each month thereafter through the 48th month after
+          the Effective Date. Otherwise, the stock options granted will be upon
+          the same terms and conditions as are generally provided under the
+          Sybase, Inc. Stock Plans.
+
+4)   TERMINATION.
+
+     a)   TERMINATION UPON DEATH.  If the Employee dies during the Term, this
+          Agreement shall terminate as of the date of his death.
+
+     b)   TERMINATION UPON DISABILITY.  If, during the Term, the Employee
+          becomes physically or mentally disabled, the Surviving Corporation
+          may, by written notice to the Employee, terminate this Agreement, in
+          which event the Term shall terminate 30 days after the date upon
+          which the Surviving Corporation shall have given notice to the
+          Employee of its intention to terminate this Agreement because of such
+          disability. Disability shall be determined in accordance with the
+          terms of the applicable policies and benefit plans of the Surviving
+          Corporation.
+
+     c)   TERMINATION FOR CAUSE.  The Surviving Corporation may at any time by
+          written notice to the Employee terminate this Agreement immediately,
+          and the Employee shall have no right to receive any compensation or
+          benefit hereunder on and after the date of such notice, in the event
+          that an event of "Cause" occurs. For purposes of this Agreement
+          "Cause" shall mean:
+
+          (i)    the continuous failure by the Employee to perform the material
+                 duties and responsibilities that are reasonably consistent with
+                 his position which remain uncured for a period of fifteen (15)
+                 days after receipt of notice thereof from the Surviving
+                 Corporation;
+
+          (ii)   a conviction of, a plea of nolo contendere, a guilty plea or
+                 confession by the Employee to a felony or the committing of an
+                 act of fraud or material dishonesty against, or the or
+                 embezzlement, theft or misappropriation of property belonging
+                 to, the Surviving Corporation or its Affiliates;
+
+          (iii)  the Employee personally engaging in conduct that he reasonably
+                 should know or that he intends to be seriously injurious to the
+                 business of the Surviving Corporation or its Affiliates (it
+                 being understood that business decisions made by the Employee
+                 in good faith are not to be considered grounds for termination
+                 for Cause); or
+
+          (iv)   the material breach by the Employee of this Agreement or the
+                 Nondisclosure and Assignment of Inventions Agreement which is
+                 not cured within fifteen (15) days after receipt of notice
+                 thereof from the Surviving Corporation (except for a breach of
+
+Page 3
+
+                  Section 7 hereof or a breach of the Nondisclosure and
+                  Assignment of Inventions Agreement for which no cure period
+                  is provided).
+
+      d)    TERMINATION WITHOUT CAUSE. The Surviving Corporation may terminate
+            the Agreement at any time, without cause, and the Employee shall
+            have no right to receive any compensation or benefit hereunder
+            after such termination except as set forth in Section 5 below.
+            Employee may terminate this Agreement without cause, and the
+            Employee shall have no right to receive any compensation or benefit
+            hereunder after such termination.
+
+      e)    SURRENDER OF RECORDS AND PROPERTY. Upon termination of his
+            employment with the Surviving Corporation, Employee shall deliver
+            promptly to the Surviving Corporation all property and all tangible
+            forms of Confidential Information in accordance with the terms of
+            the Nondisclosure and Assignment of Inventions Agreement between
+            Sybase and the Employee.
+
+5)    SEVERANCE PAYMENTS AND OTHER RIGHTS.
+
+      a)    CERTAIN SEVERANCE PAYMENTS AND OTHER RIGHTS. If, during the Term,
+            the Surviving Corporation terminates this Agreement pursuant to
+            Section 4(d), all compensation payable to the Employee under
+            Section 3 shall cease as of the date of termination specified in
+            the Surviving Corporation's notice (the "Termination Date"), and
+            the Surviving Corporation shall pay or provide to the Employee the
+            following, provided that the Employee first enters into and does
+            not revoke a binding written agreement releasing all claims, known
+            or unknown, that the Employee has or might have against the
+            Surviving Corporation in connection with this Agreement and other
+            employment arrangements with the Surviving Corporation and its
+            Affiliates and for wrongful discharge, and provided further that
+            the Employee has not violated the terms of Section 7 of this
+            Agreement. (Payment of the severance payments does not constitute
+            an acknowledgement by the Surviving Corporation of the Employee's
+            compliance with the terms of Section 7.) All severance payments
+            shall be subject to applicable tax withholding, and shall be in
+            lieu of any further payments under this Agreement or under any
+            other employment arrangements between the Employee and the
+            Surviving Corporation.
+
+            (i)   a lump sum amount equal to the VP package in effect on the
+                  Termination Date;
+
+            (ii)  for a period equal to the earlier of 24 mos. or (y) the date
+                  upon which Employee and his covered dependents become covered
+                  under comparable group health, plans of another employer,
+                  payment of applicable premiums under COBRA for group health
+                  coverage in order to provide the Employee and his covered
+                  dependents equivalent
+
+Page 4
+
+                     coverage to that which they were entitled to while Employee
+                     was an employee of the Surviving Corporation immediately to
+                     his termination; and
+
+               (iii) all previously accrued vacation pay.
+
+          b)   PAYMENTS UPON TERMINATION FOR CAUSE, DEATH OR DISABILITY. If
+               this Agreement is terminated by the Surviving Corporation
+               pursuant to Section 4(a), 4(b) or 4(c), the Employee shall
+               receive only the amounts owing through the Termination Date.
+
+     6)   REPRESENTATION AND WARRANTY OF EMPLOYEE. The Employee represents and
+          warrants that neither the execution nor the delivery of this
+          Agreement, nor the employment of the Employee by the Surviving
+          Corporation will result in the breach of any agreement to which the
+          Employee is a party, except where any such breach would not have a
+          material adverse effect on the business, financial condition or
+          operations of the Surviving Corporation.
+
+     7)   COVENANTS. The Employee acknowledges that: (i) he is one of the
+          limited number of persons who will develop the business of the
+          Surviving Corporation; (ii) his work for the Surviving Corporation has
+          brought him and will continue to bring him into close contact with
+          many confidential affairs not readily available to the public; and
+          (iii) the covenants contained in this Section 7 will not involve a
+          substantial hardship upon his future livelihood. In light of such
+          acknowledgement, and in partial consideration of the several
+          agreements made by Sybase with the Employee in the Merger Agreement
+          and in order to induce the Surviving Corporation to enter into this
+          Agreement and the Merger Agreement, the Employee covenants and agrees
+          that:
+
+          a)   NON-COMPETE. During the period of this employment by the
+               Surviving Corporation under this Agreement and for 18 months
+               following the termination of the Employee's employment for any
+               reason, provided the Surviving Corporation is not in breach of
+               its obligations under Section 5, the Employee shall not, directly
+               or indirectly: (i) in any manner whatsoever engage in any
+               capacity with any Restricted Business in a Restricted Territory
+               (as such terms are defined below) for the Employee's own benefit
+               or for the benefit of any Person other than the Surviving
+               Corporation; or (ii) have any interest as owner, sole proprietor,
+               shareholder, partner, lender, director, officer, manager,
+               employee, consultant, agent or otherwise in any Restricted
+               Business in a Restricted Territory; provided, however, that the
+               Employee may hold, directly or indirectly, solely as an
+               investment, not more than two percent (2%) of the outstanding
+               securities of any person or entity which are listed on any
+               national securities exchange or regularly traded in the
+               over-the-counter market notwithstanding the fact that such person
+               or entity is a Restricted Business in a Restricted Territory.
+
+               "Restricted Business" shall mean (A) a business which is
+               competitive with the Surviving Corporation's business engaged in
+               by the Surviving Corporation at the date of his
+
+Page 5
+
+          termination of employment (the "Surviving Corporation's Business")
+          and (B) Oracle Systems Corporation, Informix Corporation, the
+          database product groups or organizations of Computer Associates, the
+          database products groups or organizations of Microsoft Corporation
+          and the database product groups or organizations of IBM.
+          Notwithstanding the above, the Employee may become an employee of or
+          consultant to or have an interest as owner, sole proprietor,
+          shareholder, partner, lender, director, officer, manager, employee,
+          consultant, agent or otherwise in a business unit of a larger
+          enterprise which enterprise then has another business unit engaged
+          in a business competitive with the Surviving Corporation's Business,
+          provided that the business unit of the larger enterprise for which
+          Employee provides services or in which he has an interest in neither
+          (1) in a business competitive with the Surviving Corporation's
+          Business and is located in a geographically separate location from
+          the competitive business unit and the Employee has no responsibility
+          and has no role whatsoever in the competing business unit nor (2) a
+          company or business unit listed in clause B of this paragraph.
+
+          "Restricted Territory" shall mean the larger of (i) the counties,
+          cities and states of the United States of America and each political
+          subdivision of Canada, Australia, Japan, each member of the European
+          Economic Community and any other country in which the Surviving
+          Corporation's products are sold or licensed during the term of the
+          non-compete obligations or (ii) if (i) is found unenforceable, the
+          countries, cities, states and political subdivisions of any country
+          in which the Surviving Corporation's products are sold, distributed
+          or licensed during the term of the non-compete obligations.
+
+          The parties intend that the covenants contained in this Section 7(a)
+          shall be construed as a series of separate covenants, one for each
+          county, city, state and other political subdivision of each country
+          in the Restricted Territory. Except for geographic coverage, each
+          separate covenant shall be deemed identical in terms to the covenant
+          contained in the preceding paragraphs. If, in any judicial
+          proceeding, a court shall refuse to enforce any of the separate
+          covenants (or any part thereof) deemed included in said paragraphs,
+          then such unenforceable covenant (or such part) shall be deemed
+          eliminated from this Agreement for the purpose of those proceedings
+          to the extent necessary to permit the remaining separate covenants
+          (or portions thereof) to be enforced by such court. It is the intent
+          of the parties that the covenants set forth herein be enforced to the
+          maximum degree permitted by applicable law.
+
+          In the event that the provisions of this Section 7(a) should ever be
+          deemed to exceed the scope, time or geographic limitations of
+          applicable law regarding covenants not to compete, then such
+          provisions shall be reformed to the maximum scope, time or geographic
+          limitations, as the case may be, permitted by applicable laws.
+
+     b)   NON-DISCLOSURE OF CONFIDENTIAL INFORMATION.  Concurrently with the
+          exception of this Agreement, the Employee shall enter into a
+          Nondisclosure And Assignment of Inventions
+
+Page 6
+
+          Agreement in the form attached hereto.
+
+     c)   NON-SOLICITATION OF EMPLOYEES OF AND CONSULTANTS TO THE SURVIVING
+          CORPORATION. During the period of his employment by the Surviving
+          Corporation under this Agreement and for 18 months following the
+          termination of the Employee's employment for any reason, the Employee
+          shall not, directly or indirectly, initiate communications with,
+          solicit, persuade, entice, induce or encourage any individual who is
+          then or who has been within the preceding 12-month period, an
+          employee of or consultant to the Surviving Corporation to terminate
+          an employment or consulting relationship with the Surviving
+          Corporation, as the case may be, or to become employed by or enter
+          into a contract or other agreement with any other person, and the
+          Employee shall not approach any such employee or consultant for any
+          such purpose or authorize or knowingly approve the taking of any such
+          actions by any other person.
+
+     d)   NON-SOLICITATION OF CUSTOMERS. During the period of his employment by
+          the Surviving Corporation under this Agreement and for 18 months
+          following the termination of the Employee's employment for any
+          reason, the Employee shall not, directly or indirectly, solicit,
+          persuade, entice, induce, encourage (or assist in connection with any
+          of the foregoing) any person who is then or has been within the
+          preceding 24-month period a customer or account of the Surviving
+          Corporation, or any infomediary, affiliate, service provider or
+          fulfillment entity that does business with the Surviving Corporation,
+          or any actual customer leads whose identity the Employee learned
+          during the course of his employment with the Surviving Corporation,
+          to terminate or to adversely alter its contractual or other
+          relationship with the Surviving Corporation.
+
+     e)   RIGHTS AND REMEDIES UPON BREACH. If the Employee breaches, or
+          threatens to commit a breach of, any of the provisions of this
+          Section 7 (collectively, the "Restrictive Covenants"), the Surviving
+          Corporation shall have the right and remedy to seek from any court of
+          competent jurisdiction specific performance of the Restrictive
+          Covenants or injunctive relief against any act which would violate
+          any of the Restrictive Covenants, it being acknowledged and agreed
+          that any such breach or threatened breach will cause irreparable
+          injury to the Surviving Corporation and that money damages will not
+          provide an adequate remedy to the Surviving Corporation.
+
+     f)   REPRESENTATION OF THE EMPLOYEE. The Employee is (i) familiar with
+          the covenants in this Section 7, (ii) is fully aware of his
+          obligations hereunder, (iii) finds the length of time, scope and
+          geographic coverage of these covenants to be reasonable, and (iv) is
+          receiving specified, bargained-for consideration for these covenants.
+
+8)   MISCELLANEOUS.
+
+Page 7
+
+     a)   NOTICES. Any notice or other communication required or which may be
+          given hereunder shall be in writing and shall be delivered
+          personally, telecopied, telegraphed or telexed, or sent by certified,
+          registered or express mail, postage prepaid, to the parties at the
+          following addresses, or at such other addresses as shall be specified
+          by the parties by like notice, and shall be deemed given when so
+          delivered personally, telecopied, telegraphed or telexed, or if
+          mailed, two (2) days after the date of mailing, as follows:
+
+if to the Surviving Corporation, to the officer of the Surviving Corporation
+holding the tile of Secretary, to him or her at the Surviving Corporation's
+Principal Place of Business
+
+with copies to:
+
+               General Counsel
+               Sybase, Inc.
+               6475 Christie Ave.
+               Emeryville, CA 94698
+               Telecopier: (510) 922-4558
+
+if to the Employee, to him at the address set forth on the first page hereof
+
+with copies to:
+
+               Peter T. Hoversten
+               6550 Greenwood Plaza Blvd.
+               Englewood, CO 80110
+               Telecopier: 303-409-8677
+
+     b)   ENTIRE AGREEMENT. This Agreement contains the entire agreement
+          between the parties with respect to the subject matter hereof and
+          supersedes all prior contracts and other agreements, written or oral,
+          with respect thereto.
+
+     c)   WAIVERS AND AMENDMENTS. This Agreement may be amended, modified,
+          superseded, cancelled, renewed or extended, and the terms and
+          conditions hereof may be waived, only by a written instrument signed
+          by the parties or, in the case of a waiver, by the party waiving
+          compliance.
+
+     d)   GOVERNING LAW. This Agreement shall be governed by, and construed in
+          accordance with and subject to, the laws of the State of California
+          without regard to its conflicts of laws principles.
+
+     e)   ASSIGNMENT. This Agreement, and the Employee's rights and obligations
+          hereunder, may not be assigned by the Employee. The Surviving
+          Corporation may assign this Agreement
+
+Page 8
+
+          and its rights, together with its obligations, hereunder only in
+          connection with any sale, transfer or other disposition of all or
+          substantially all of its assets or business, whether by merger,
+          consolidation or otherwise. This Agreement shall inure to the benefit
+          of and be binding upon the parties hereto and any successors and
+          permitted assigns.
+
+     f)   DEFINITIONS. For purposes of this Agreement:
+
+          (i)   "Affiliate" shall mean a Person that, directly or indirectly,
+                controls or is controlled by, or is under common control with
+                the Surviving Corporation;
+
+          (ii)  "control" as used with respect to any Person, shall mean the
+                possession, directly or indirectly, of the power to direct or
+                cause the direction of the management or policies, whether
+                through ownership of voting securities, by contract or
+                otherwise; and
+
+          (iii) "Person" means an individual, sole proprietorship, partnership,
+                corporation, association, joint stock Surviving Corporation,
+                trust, joint venture, unincorporated organization, institution,
+                entity or government (whether federal, state, local or otherwise
+                including without limitation, or any department, agency, or
+                political subdivision thereof).
+
+     g)   COUNTERPARTS; FACSIMILE EXECUTION. This Agreement may be executed in
+          two or more counterparts, each of which shall be deemed an original
+          but all of which together shall constitute one and the same
+          instrument. Facsimile execution and delivery of this Agreement is
+          legal, valid and binding execution and delivery for all purposes.
+
+     h)   HEADINGS. The headings in this Agreement are for reference purposes
+          only and shall in no way affect the meaning or interpretation of this
+          Agreement.
+
+     i)   SURVIVAL. Sections 4(c), 5, 6, 7 and this Section 8 shall survive
+          termination of this Agreement for any reason.
+
+     j)   SEVERABILITY. To the extent any provision of this Agreement shall be
+          invalid or unenforceable, it shall be considered deleted herefrom and
+          the remainder of such provision and of this Agreement shall be
+          unaffected and shall continue in full force and effect. In furtherance
+          and not in limitation of the foregoing, should the duration of
+          geographical extent of, or business activities covered by any
+          provision of this Agreement be in excess of that which is valid and
+          enforceable under applicable law, then such provision shall be
+          construed to cover only that duration, extent or activities which may
+          validly and enforceably be covered.
+
+     k)   ADR. Except as provided herein, no civil action with respect to any
+          dispute, claim or controversy arising out of or relating to this
+          agreement may be commenced until the matter has been submitted to
+          JAMS/ENDISPUTE, or its successor, for mediation. Either
+
+Page 9
+
+          party may commence mediation by providing to JAMS/ENDISPUTE and the
+          other party a written request for mediation, setting forth the subject
+          of the dispute and the relief requested. The parties will cooperate
+          with JAMS/ENDISPUTE and with one another in selecting a mediator from
+          JAMS/ENDISPUTE's panel of neutrals, and in scheduling the mediation
+          proceedings. The parties covenant that they shall participate in the
+          mediation in good faith, and that they shall share equally in its
+          costs. All offers, promises, conduct and statements, whether oral or
+          written, made in the course of the mediation by any of the parties,
+          their agents, employees, experts and attorneys, and by the mediator
+          and any JAMS/ENDISPUTE employees, are confidential, privileged and
+          inadmissible for any purpose, including impeachment, in any litigation
+          or other proceeding involving the parties, provided that evidence that
+          is otherwise admissible or discoverable shall not be rendered
+          inadmissible or non-discoverable as a result of its use in the
+          mediation. Either party may seek equitable relief prior to the
+          mediation to preserve the status quo pending the completion of that
+          process. Except for such an action to obtain equitable relief, neither
+          party may commence a civil action with respect to the matters
+          submitted to mediation until after the completion of the initial
+          mediation session, or 45 days after the date of filing the written
+          request for mediation, whichever occurs first. Mediation may continue
+          after the commencement of a civil action, if the parties so desire.
+          The provisions of this Clause may be enforced by any Court of
+          competent jurisdiction, and the party seeking enforcement shall be
+          entitled to an award of all costs, fees and expenses, including
+          attorneys fees, to be paid by the party against whom enforcement is
+          ordered.
+
+     l)   SUPERCEDES OLD AGREEMENTS. Employee agrees that the terms of this
+          Agreement supercede the terms of any and all employment arrangements
+          he may have had with the Surviving Corporation in their entirety
+          (except that that certain Agreement dated 2/19/01, 2001 shall
+          survive). Employee agrees that Employee's decision to terminate such
+          employment arrangements and enter into this Agreement does not
+          constitute constructive termination of any employment arrangement
+          Employee had with [NEON].
+
+     m)   COSTS OF ENFORCEMENT OR DEFENSE. In the event of any litigation with
+          respect to this Agreement, the prevailing party shall be entitled to
+          be paid by the other party hereto all costs of enforcement or defense,
+          as the case may be, paid or incurred in connection with the
+          enforcement or defense, including reasonable attorneys fees and legal
+          costs.
+
+     n)   DELAYS OR OMISSIONS. No delay or omission to exercise any right, power
+          or remedy accruing to either party upon any breach or default of the
+          other party hereto shall impair any such right, power or remedy of
+          such non-defaulting party, nor shall it be construed to be a waiver of
+          any such breach or default or an acquiescence therein, or of or in any
+          similar breach or default thereafter occurring; nor shall any waiver
+          of a breach or default be deemed to be a waiver of any other breach or
+          default.
+
+Page 10
+
+     o)   RULES OF CONSTRUCTION. Sybase and the Employee each acknowledge that
+          they have been represented by competent counsel during the
+          negotiation and execution of this Agreement and therefore waive the
+          application of any law, regulation, holding or rule of construction
+          providing that ambiguities in any agreement will be construed against
+          the party drafting the agreement.
+
+     p)   CLOSING. This Agreement shall become effective at the time of the
+          Closing on the Effective Date.
+
+          IN WITNESS WHEREOF, the parties have executed this Agreement as of
+the date first above written.
+
+SYBASE, INC.
+
+By: /s/ DANIEL R. CARL
+    ---------------------------------------
+     Name: Daniel R. Carl
+     Title: Vice President, General Counsel and Secretary
+
+EMPLOYEE:
+
+      /s/ PETER T. HOVERSTEN
+    ---------------------------------------
+     Name:  Peter T. Hoversten
+
+Page 11
+
+EX-99.(D)(14)
+
+f70243ex99-d14.txt
+
+AMENDMENT NO. 1 TO EMPLOYMENT AGREEMENT
+
+                                                                EXHIBIT (d)(14)
+
+Amendment 1 to the Sybase Employment and Non Solicitation Agreement
+
+This Amendment is made the 16th day of February 2001, pursuant to paragraph 8.c)
+of the Employment and Non Solicitation Agreement by and between Sybase Inc., a
+Delaware corporation ("Sybase"), and Rick Adam, an individual residing at
+Cherry Hills Village, Colorado. (The "Employee").
+
+Sybase acknowledges and accepts that Employee has entered into the Amended New
+Era of Networks, Inc Change of Control Severance Agreement dated February 16,
+2001 ("NEON Amendment"). The NEON Amendment is attached and incorporated
+herein. Where there is conflict in the terms or effects between the Sybase
+Employment and Non Solicitation Agreement and the NEON Amendment the provisions
+of the NEON Amendment shall prevail.
+
+/s/ RICK ADAM
+    Rick Adam                        Dated February 20, 2001
+
+EX-99.(D)(15)
+
+f70243ex99-d15.txt
+
+AMENDMENT NO. 1 TO EMPLOYMENT AGREEMENT
+
+                                                                EXHIBIT (d)(15)
+
+Amendment 1 to the Sybase Employment and Non Solicitation Agreement
+
+This Amendment is made the 16th day of February 2001, pursuant to paragraph 8.c)
+of the Employment and Non Solicitation Agreement by and between Sybase Inc., a
+Delaware corporation ("Sybase"), and Pat Fortune, an individual residing at
+Englewood, Colorado. (The "Employee").
+
+Sybase acknowledges and accepts that Employee has entered into the Amended New
+Era of Networks, Inc Change of Control Severance Agreement dated February 16,
+2001 ("NEON Amendment"). The NEON Amendment is attached and incorporated
+herein. Where there is conflict in the terms or effects between the Sybase
+Employment and Non Solicitation Agreement and the NEON Amendment the provisions
+of the NEON Amendment shall prevail.
+
+/s/ PAT FORTUNE
+    Pat Fortune                        Dated February 20, 2001
+
+EX-99.(D)(16)
+
+f70243ex99-d16.txt
+
+AMENDMENT NO. 1 TO EMPLOYMENT AGREEMENT
+
+                                                                 EXHIBIT (d)(16)
+
+Amendment 1 to the Sybase Employment and Non Solicitation Agreement
+
+This Amendment is made the 16th day of February 2001, pursuant to paragraph 8.c)
+of the Employment and Non Solicitation Agreement by and between Sybase Inc., a
+Delaware corporation ("Sybase"), and Fred Horn, an individual residing at
+Denver, Colorado. (The "Employee").
+
+Sybase acknowledges and accepts that Employee has entered into the Amended New
+Era of Networks, Inc Change of Control Severance Agreement dated February 16,
+2001 ("NEON Amendment"). The NEON Amendment is attached and incorporated
+herein. Where there is conflict in the terms or effects between the Sybase
+Employment and Non Solicitation Agreement and the NEON Amendment the provisions
+of the NEON Amendment shall prevail.
+
+/s/ FRED HORN
+- ----------------------
+Fred Horn                     Dated: February 20, 2001
+
+EX-99.(D)(17)
+
+f70243ex99-d17.txt
+
+AMENDMENT NO. 1 TO EMPLOYMENT AGREEMENT
+
+                                                                 EXHIBIT (d)(17)
+
+Amendment 1 to the Sybase Employment and Non Solicitation Agreement
+
+This Amendment is made the 16th day of February 2001, pursuant to paragraph 8.c)
+of the Employment and Non Solicitation Agreement by and between Sybase Inc., a
+Delaware corporation ("Sybase"), and Peter Hoversten, an individual residing at
+Cherry Hills Village, Colorado. (The "Employee").
+
+Sybase acknowledges and accepts that Employee has entered into the Amended New
+Era of Networks, Inc Change of Control Severance Agreement dated February 19,
+2001 ("NEON Amendment"). The NEON Amendment is attached and incorporated
+herein. Where there is conflict in the terms or effects between the Sybase
+Employment and Non Solicitation Agreement and the NEON Amendment the provisions
+of the NEON Amendment shall prevail.
+
+/s/ PETER HOVERSTEN
+- ----------------------
+Peter Hoversten               Dated: February 20, 2001
+
+-----END PRIVACY-ENHANCED MESSAGE-----

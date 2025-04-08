@@ -468,6 +468,16 @@ class Crawler:
             # Filter the documents and keep the ones with the existence of both company names
             company_names = [self.company_A_list[main_index], self.company_B_list[main_index]];
             documents = self._processor.getDocuments(source_links, company_names);
+
+            # Retry if no documents found and any company name has a hyphen (Edge case)
+            if not documents and any("-" in name for name in company_names):
+                modified_names = [
+                    name.replace('-', ' ') if '-' in name else name
+                    for name in company_names
+                ];
+                documents = self._processor.getDocuments(source_links, modified_names);
+
+            # No documents found, including the edge case
             if not documents:
                 Logger.logMessage(
                     f"[{Logger.get_current_timestamp()}] [-] No relevant document found for index {main_index}: {self.company_A_list[main_index]} & {self.company_B_list[main_index]}"

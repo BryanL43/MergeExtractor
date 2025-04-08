@@ -5,6 +5,8 @@ import csv
 import sys
 from spacy.language import Language
 from openai import OpenAI
+from sentence_transformers import CrossEncoder
+import traceback
 
 from AnalysisAssistant import AnalysisAssistant
 from Logger import Logger
@@ -19,6 +21,7 @@ class InitiatorClassifier:
             start_phrases: list[str],
             thread_pool: ThreadPoolExecutor, 
             nlp: Language, 
+            reranker_model: CrossEncoder,
             assistant: AnalysisAssistant
         ):
         self.client = OpenAI(api_key=api_key);
@@ -27,10 +30,11 @@ class InitiatorClassifier:
         self.start_phrases = start_phrases;
         self.thread_pool = thread_pool;
         self.nlp = nlp;
+        self.reranker_model = reranker_model;
         self.assistant = assistant;
     
         # Instantiate the ChunkProcessor to locate relevant chunk
-        self._chunk_processor = ChunkProcessor(self.nlp, self.client, self.thread_pool);
+        self._chunk_processor = ChunkProcessor(self.nlp, self.reranker_model, self.client, self.thread_pool);
     
     def __write_result(self, main_index: int, result: dict):
         file_exists = os.path.isfile("outputUnion.csv");
@@ -104,9 +108,10 @@ class InitiatorClassifier:
                 with open(section_file_path, "w", encoding="utf-8") as file:
                     file.write(section_passage);
             
-                result = self.assistant.analyzeDocument(section_passage);
-                self.__write_result(main_index, result);
+                # result = self.assistant.analyzeDocument(section_passage);
+                # self.__write_result(main_index, result);
                 
             except Exception as e:
                 Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error: {e}");
+                Logger.logMessage(traceback.format_exc())
                 sys.exit(1);
