@@ -1,4 +1,4 @@
-The following provides details on events leading up to the merger deal:
+The following provides details about the events leading up to the merger deal between Mediconsult.com Inc & CyBear Inc(Andryx Corp):
 Background of the Merger
 
      During the last several years, Mediconsult has held conversations with a
@@ -7,25 +7,25 @@ alliances. In the third quarter of 2000, the Mediconsult board of directors
 began considering alternatives to maximize stockholder value and raise
 additional capital.
 
-      Mediconsult's advisors contacted a number of companies that they and
+     Mediconsult's advisors contacted a number of companies that they and
 Mediconsult had identified as candidates for a possible business combination or
 strategic alliance with Mediconsult. In the last week of August 2000, Robert A.
 Jennings, the then Chairman of Mediconsult, received an indication of interest
 from a third party regarding a possible strategic transaction or business
 combination between the two companies.
 
-      Beginning the first week in September 2000, Ian Sutcliffe, Chief Executive
+     Beginning the first week in September 2000, Ian Sutcliffe, Chief Executive
 Officer of Mediconsult, and E. Michael Ingram, Chief Financial Officer of
 Mediconsult, had several telephone conversations with the senior management of
 the third party who had expressed an interest in Mediconsult to explore the
 possibility of a strategic transaction between the companies.
 
-      An initial meeting with senior management of this third party was held on
+     An initial meeting with senior management of this third party was held on
 Monday, September 18, 2000, to discuss potential terms for a transaction
 between the two companies. Meetings between the two parties continued through
 the balance of September and into October 2000.
 
-      On October 4, 2000, the Mediconsult board of directors held a special
+     On October 4, 2000, the Mediconsult board of directors held a special
 meeting to discuss possible strategic transactions. At the meeting, Mr. Ingram
 disclosed that Mediconsult had been approached by a third party about a
 possible transaction between the two companies, a nondisclosure agreement had
@@ -260,3 +260,63 @@ Mediconsult or Cybear or been furnished with any such evaluation or appraisal.
 
    o that the final form of the merger agreement would be substantially
      similar to the last draft reviewed by McFarland Dewey.
+
+
+     The McFarland Dewey opinion is necessarily based upon market, economic and
+other conditions as they existed on, and could be evaluated as of, the date of
+such opinion. Other than as set forth in the draft merger agreement reviewed by
+McFarland Dewey, McFarland Dewey assumed that no material third party approvals
+regarding Mediconsult or Cybear with respect to any contracts or otherwise will
+be necessary.
+
+     McFarland Dewey reviewed and analyzed the proposed terms of the merger,
+and observed that:
+
+     o Following the merger, Mediconsult would be a wholly-owned subsidiary of
+Andrx Corporation;
+
+   o As a result of the merger, each issued and outstanding share of common
+     stock of Mediconsult would be converted into the right to receive 0.1430
+     shares of Cybear tracking stock, subject to the adjustment provided for in
+     the merger agreement. If the maximum adjustment was made, the exchange
+     ratio would be reduced to 0.1144.
+
+     o Mediconsult had negative working capital of approximately $7,179,000 as
+     of December 31, 2000;
+
+   o Upon signing of the merger agreement, Cybear agreed to loan Mediconsult
+     up to $2,000,000 with a maturity date of July 15, 2001;
+
+   o Mediconsult's shares of common stock outstanding as of the consummation
+     of the merger will increase to approximately 82,056,000 shares due to the
+     conversion of existing Mediconsult liabilities to common stock; and
+
+   o Total transaction value, based on 82,056,000 shares of outstanding
+     Mediconsult common stock, was approximately $6,556,000.
+
+
+     The following is a brief summary of the material analyses prepared by
+McFarland Dewey in connection with the rendering of the McFarland Dewey
+opinion.
+
+     Stock Price History. To provide contextual data and comparative market
+data, McFarland Dewey examined the history of the trading prices for both
+Cybear tracking stock and Mediconsult common stock and their relative
+relationships to each other for the latest twelve months and compared the
+results to the NASDAQ Index and S & P 500 Index. This information was prepared
+solely to provide background information regarding the stock prices of
+Mediconsult and Cybear over the periods indicated below as both companies
+similarly under-performed the two indices.
+
+     Comparison of Selected Comparable Companies. McFarland Dewey compared the
+trading multiples for Mediconsult to corresponding multiples of a select group
+of e-health companies
+
+consisting of Allscripts Inc, drkoop.com Inc., Drugstore.com Inc,
+HealthCentral.com, HealthGate Data Corporation, Healthstream Inc,
+Medicalogic/Medscape Inc, PlanetRX.com, Sciquest.com Inc, WebMD Corporation,
+and Cybear. Based on its analysis, McFarland Dewey derived a summary reference
+range of implied enterprise values of Mediconsult.
+
+     The following table summarizes the results of McFarland Dewey's company
+comparable analyses.

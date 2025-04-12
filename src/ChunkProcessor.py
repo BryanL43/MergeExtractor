@@ -15,10 +15,12 @@ from sentence_transformers import CrossEncoder
 from Logger import Logger
 
 QUERY_EMBEDDING_FILE = "./config/query_embedding.json";
+RERANK_QUERY_FILE = "./config/rerank_query.txt";
 
 class ChunkProcessor:
     nlp: Language = None;
-    _nlp_trf = spacy.load("en_core_web_lg"); # Strict model else accuracy for abbreviation is impacted
+    # Strict model else accuracy for abbreviation is impacted; isolated due to significant performance impact
+    _nlp_ent_model = spacy.load("en_core_web_lg");
 
     def __init__(self, nlp: Language, reranker_model: CrossEncoder, client: OpenAI, thread_pool: ThreadPoolExecutor):
         ChunkProcessor.nlp = nlp;
@@ -123,11 +125,41 @@ class ChunkProcessor:
         return found_start_phrase;
     
     @staticmethod
-    def has_empty_neighbors(i: int, lines: list[str]) -> bool:
-        """Check if the line has empty neighbors."""
-        has_empty_before = (i == 0) or not lines[i - 1].strip();
-        has_empty_after = (i == len(lines) - 1) or not lines[i + 1].strip();
-        return has_empty_before or has_empty_after;
+    def has_section_title(chunk: str, phrase: str) -> bool:
+        """Check if the section contains the header as a title"""
+        lines = chunk.splitlines();
+        paragraphs = [];
+        buffer = [];
+
+        # Split the text into paragraphs
+        for idx, line in enumerate(lines):
+            if line.strip() == "":
+                # Detected a empty line; flush the buffer & stash paragraph
+                if buffer:
+                    paragraphs.append(buffer);
+                    buffer = [];
+            else: # Non-empty line
+                buffer.append(line);
+
+        # Flush the last paragraph
+        if buffer:
+            paragraphs.append(buffer);
+
+        # with open("WFJWAHFWBAFJ.txt", "a", encoding="utf-8") as file:
+        #     for para_lines, idxs in paragraphs:
+        #         file.write("\n");
+        #         file.write("--" * 50);
+        #         file.write("\n");
+        #         file.write("\n".join(para_lines));
+
+        # Find the paragraph containing the phrase.
+        # If it has a lenght of 2 or less line then it's likely a section title.
+        for para_lines in paragraphs:
+            joined = "\n".join(para_lines);
+            if phrase.lower() in joined.lower() and len(joined.split("\n")) <= 2:
+                return True;
+            
+        return False;
 
     @staticmethod
     def get_approx_chunks(
@@ -142,23 +174,28 @@ class ChunkProcessor:
             if not found_start_phrase:
                 continue;
 
-            lines = chunk.split("\n");
+            has_title = ChunkProcessor.has_section_title(chunk, found_start_phrase);
+            if not has_title:
+                continue;
+
+            lines = chunk.splitlines();
+            lower_phrase = found_start_phrase.lower();
+
             for i, line in enumerate(lines):
                 line = line.strip();
-                if len(line) == 0:
-                    continue;
-                
-                if found_start_phrase.lower() not in line.lower():
+                if not line or lower_phrase not in line.lower():
                     continue;
 
                 # Filter out false positive section titles
-                if any(word in line.lower() for word in ["reason", "industry", "identity", "filing", "corporate"]):
+                if any(term in line.lower() for term in ["reason", "industry", "identity", "filing", "corporate"]):
                     continue;
 
-                if ChunkProcessor.has_empty_neighbors(i, lines):
-                    approx_chunks.append((idx, "\n".join(lines[i:])));
+                # Ensure passage is not too short (noise sections)
+                passage = "\n".join(lines[i:]);
+                if len(passage) > 200:
+                    approx_chunks.append((idx, passage));
                     break;
-    
+
         return approx_chunks;
 
     @staticmethod
@@ -198,30 +235,6 @@ class ChunkProcessor:
             input=text
         );
         return torch.tensor(response.data[0].embedding, dtype=torch.float32);
-
-    def __get_beginning_chunk(self, finalChunks, startPhrases):
-        for i, (index, chunk, _) in enumerate(finalChunks, start=1):
-            doc = ChunkProcessor.nlp(chunk);
-            sentences = [sent.text for sent in doc.sents];
-
-            idx = -1;
-            for j, sentence in enumerate(sentences):
-                sentenceStripped = sentence.strip();
-
-                # Check if the sentence starts with one of the phrases
-                match = next(
-                    (sc for sc in startPhrases if sc.lower() in sentenceStripped.lower()),
-                    None
-                );
-
-                if match:
-                    idx = j;
-                    break;
-
-            if idx != -1:
-                return (index, " ".join(sentences[idx:]));
-
-        return None;
 
     def __normalize_chunks(self, text: str) -> str:
         """ Remove overlapping lines """
@@ -305,34 +318,73 @@ class ChunkProcessor:
         final_chunks_sorted = sorted(final_chunks, key=lambda x: x[2], reverse=True);
 
         # Rerank the chunks to more accurately fit the "Background" section
-        rerank_query = "Chronological details of merger discussions, including dates, advisors, and negotiation steps";
+        # rerank_query = (
+        #     "Detailed chronological account of merger negotiations including: "
+        #     "specific dates, financial advisors involved, board meeting details, "
+        #     "and progression of deal terms"
+        # );
+
+        with open(RERANK_QUERY_FILE, "r", encoding="utf-8") as f:
+            rerank_query = f.read();
 
         pairs = [(rerank_query, chunk) for _, _, chunk in final_chunks_sorted];
         rerank_scores = self.reranker_model.predict(pairs, activation_fct=torch.sigmoid); # Sigmoid to map prob in the range of [0, 1]
 
-        reranked_chunks = sorted(zip(final_chunks_sorted, rerank_scores), key=lambda x: x[1], reverse=True);
+        COSINE_WEIGHT = 0.4;
+        RERANK_WEIGHT = 0.6;
+
+        # Combine scores and sort
+        hybrid_chunks = []
+        for (index, cos_score, chunk), rerank_score in zip(final_chunks_sorted, rerank_scores):
+            hybrid_score = (COSINE_WEIGHT * cos_score) + (RERANK_WEIGHT * rerank_score)
+            hybrid_chunks.append((
+                index,
+                hybrid_score,
+                cos_score,
+                rerank_score,
+                chunk
+            ));
+
+        # Sort by hybrid score descending
+        hybrid_chunks_sorted = sorted(hybrid_chunks, key=lambda x: x[1], reverse=True);
+
+        # Print results with hybrid scores
+        for entry in hybrid_chunks_sorted:
+            index, hybrid_score, cos_score, rerank_score, chunk = entry
+            print("--" * 50);
+            print(f"Chunk {index} | Hybrid: {hybrid_score:.3f} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
+            print(chunk);
+
+        # Select top result
+        if hybrid_chunks_sorted:
+            best_entry = hybrid_chunks_sorted[0];
+            index, hybrid_score, cos_score, rerank_score, beginning_chunk = best_entry;
+            print("==" * 50);
+            print(f"Top hybrid-scored chunk: {index}");
+            print(f"Hybrid: {hybrid_score:.3f} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
+            print(beginning_chunk);
+        else:
+            beginning_chunk = None;
+
+        # reranked_chunks = sorted(zip(final_chunks_sorted, rerank_scores), key=lambda x: x[1], reverse=True);
 
         # for (index, cos_score, chunk), rerank_score in reranked_chunks:
         #     print("--" * 50);
         #     print(f"Chunk {index} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
         #     print(chunk);
 
-        # Locate the chunk that is the beginning of the "Background of the Merger" section
-        # beginning_chunk = self.__get_beginning_chunk(final_chunks_sorted, [phrase for phrase in start_phrases if phrase != "Background"]);
-        # if not beginning_chunk:
-        #     beginning_chunk = self.__get_beginning_chunk(final_chunks_sorted, ["Background"]); # Fallback with low confidence
-
-        (index, cos_score, beginning_chunk), rerank_score = reranked_chunks[0];
-        print("Top reranked chunk:")
-        print(f"Chunk {index} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}")
-        print(beginning_chunk);
+        # (index, cos_score, beginning_chunk), rerank_score = reranked_chunks[0];
+        # print("==" * 50);
+        # print("Top reranked chunk:");
+        # print(f"Chunk {index} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
+        # print(beginning_chunk);
 
         if not beginning_chunk:
             return None;
 
         # Acquire the background section text (with some margin of other sections)
         # index, truncated_chunk = beginning_chunk;
-        extracted_section = "\n".join(chunks[index + 1:index + 10]);
+        extracted_section = "\n".join(chunks[index + 1:index + 12]);
         extracted_section = beginning_chunk + "\n" + extracted_section;
 
         passage = self.__normalize_chunks(extracted_section);
@@ -345,15 +397,14 @@ class ChunkProcessor:
 
         # Case 1: Direct presence (preserve hyphen)
         if all(token in passage_clean for token in company_tokens):
-            print("Case 1 returned")
-            return "The following provides details on events leading up to the merger deal:\n" + passage;
+            return f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n" + passage;
 
         # Case 2: Try replacing hyphens with spaces in company names, then check
         modified_tokens = [token.replace('-', ' ') for token in company_tokens];
         if all(token in passage_clean for token in modified_tokens):
-            return "The following provides details on events leading up to the merger deal:\n" + passage;
+            return f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n" + passage;
 
-        doc = ChunkProcessor._nlp_trf(passage);
+        doc = ChunkProcessor._nlp_ent_model(passage);
         org_counter = Counter(); # Tracks the frequency of organization words
 
         # Label all potential Organiation entities
@@ -372,6 +423,11 @@ class ChunkProcessor:
             definition_paragraph = self.__find_definition_paragraph(chunks, org);
             if definition_paragraph:
                 abbreviation_map.setdefault(definition_paragraph, []).append(org);
+        
+        # No definition paragraphs found, most likely due to acronym company names.
+        # Directly return with the expanded company names in the header.
+        if len(abbreviation_map) == 0:
+            return f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n" + passage;
         
         # Format the final output abbreviation definition string to append to passage
         for definition_paragraph, orgs in abbreviation_map.items():
@@ -394,7 +450,7 @@ class ChunkProcessor:
 
         finalPassage = (
             abbreviation_definitions
-            + "The following provides details on events leading up to the merger deal:\n\n" 
+            + f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n\n" 
             + passage
         );
 

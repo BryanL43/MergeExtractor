@@ -1,4 +1,4 @@
-The following provides details on events leading up to the merger deal:
+The following provides details about the events leading up to the merger deal between Fourth Shift Corp & AremisSoft Corp:
 Background of the Merger    
 
     The past several years have witnessed significant changes in the software applications industry and particularly the portion of that industry that provides
@@ -7,7 +7,7 @@ this part of the software industry, was negatively impacted in 1999 by the reluc
 during 2000, sales by virtually all enterprise software providers during the past fiscal year were sluggish. In addition to slow sales, participants in the enterprise software industry have been
 negatively impacted by the decline in securities markets for technology oriented companies. 
 
-     These
+    These
 market forces have caused significant consolidation in the enterprise software industry. Like many of its competitors, Fourth Shift has been contacted during the past
 18 months by a number of companies regarding its interest in being an acquiror or its interest in combining with another company. Although Fourth Shift has not actively solicited bids, it has
 had informal discussions with a number of entities during this period.
@@ -107,3 +107,51 @@ Fourth Shift's Reasons for the Merger
     Fourth Shift's board of directors consulted with executive officers and with its financial and legal advisors and considered a number of factors, including
 those set forth below, in reaching its decision to approve the merger agreement and the transactions contemplated by the merger agreement, and to recommend that Fourth Shift's shareholders vote "FOR"
 adoption of the merger agreement.
+
+
+Background.
+ Fourth Shift's board of directors was aware of consolidation that has occurred
+during the past eighteen months among suppliers of enterprise software to mid-sized manufacturing concerns. Fourth Shift's board was aware through numerous discussions with participants in
+this industry of other comparable transactions that had occurred in the industry. Fourth Shift's management held numerous
+meetings, and reported the substance of these meetings to the board, with other participants in the industry interested in pursuing combination discussions.
+
+
+Market for Securities.
+ Fourth Shift's board of directors was aware of the substantial
+decline in market value for its securities and for the securities of other companies that develop and sell enterprise software for manufacturing concerns during the past twelve months. The board of
+directors considered the prospects of obtaining new institutional coverage and interest given Fourth Shift's market capitalization and the decreased coverage afforded by investment banking concerns.
+
+
+Recent results of operations and financial position.
+ Fourth Shift's board of directors was
+knowledgeable about the decline in its software license revenue during the past two years and the losses incurred by Fourth Shift during the 1999 and 2000 fiscal years. The board of directors
+considered the proposed budget presented by management for the current fiscal year and its likely impact on market price and its ability to expand operations. Fourth Shift's board of directors also
+considered and was knowledgeable about the risks inherent in achieving the budget.
+Review of Prospects in Remaining Independent.
+ Fourth Shift's board of directors considered
+Fourth Shift's financial condition, results of operations and business and earnings, including its prospects, if it were to remain independent in light of the consolidation and other developments
+occurring in the software industry.
+
+
+Alternative Transactions.
+ Fourth Shift's board of directors considered several alternative
+business combination transactions that were being negotiated and both the pricing of those transactions and potential risks to completion posed by lack of apparent funding and complexity presented by
+those transactions. 
+
+
+Absence of Redundant Operations for the Benefit of Employees.
+ Fourth Shift's board of
+directors considered the absence of significant U.S. operations of AremisSoft for sale of enterprise software solutions and the need for substantial operations. The board of directors considered the
+likelihood that most of Fourth Shift's personnel would be retained.
+
+
+Effect on Customers.
+ Fourth Shift's board of directors considered the effect that the merger
+would have on its customers and the likelihood that AremisSoft would be able to serve Fourth Shift's customers.
+
+
+Extended Distribution and Development.
+ The board of directors of Fourth Shift considered the
+distribution capability established by AremisSoft in countries in which Fourth Shift had little sales, including Central and Eastern Europe, the increased distribution that could be generated through
+cross-selling with AremisSoft's other enterprise systems for healthcare and specific industries, and the low cost software development that could be facilitated through AremisSoft's Indian operations.
+The board of directors considered the increased sales and higher industry visibility the combination of these features with its robust software and considerable U.S. presence.

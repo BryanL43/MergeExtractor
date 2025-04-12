@@ -57,22 +57,23 @@ rights under the California Corporations Code (the "CCC") (collectively, the
 "Excluded Shares")) will be converted into the right to receive the Offer Price,
 net to the holder in cash.
 
-The following provides details on events leading up to the merger deal:
+The following provides details about the events leading up to the merger deal between Xircom Inc & Intel Corp:
 
-CONTACTS WITH THE COMPANY; BACKGROUND OF THE OFFER AND THE MERGER
+11. CONTACTS WITH THE COMPANY; BACKGROUND OF THE OFFER AND THE MERGER
 
      In late October 2000, representatives of Intel decided to designate a small
 internal team to investigate the feasibility of entering into a possible
 transaction with the Company.
 
-      On October 23, 2000, representatives of Intel contacted representatives of
+
+     On October 23, 2000, representatives of Intel contacted representatives of
 the Company to discuss strategic opportunities to further the relationship
 between the parties. A meeting was arranged for October 30.
 
-      On October 27, 2000, representatives of Intel presented the Company with a
+     On October 27, 2000, representatives of Intel presented the Company with a
 high-level list requesting additional information about the Company.
 
-      On October 30, 2000, representatives of Intel met with representatives of
+     On October 30, 2000, representatives of Intel met with representatives of
 the Company to discuss possible strategic relationships between Intel and the
 Company at the offices of the Company in Thousand Oaks, California. The
 representatives of the Company presented an overview of the Company and its
@@ -82,17 +83,17 @@ responses to Intel's October 27th request. Additionally, during this meeting
 Intel entered into a Confidential Information Transmittal Record with the
 Company.
 
-      During November and early December 2000, representatives of Intel held
+     During November and early December 2000, representatives of Intel held
 several internal meetings to discuss various possible strategic relationships
 between Intel and the Company, including the purchase of the Company's PC Card
 businesses and the spin-off of the Company's wireless wide area network ("WAN")
 business to the Company's management and shareholders.
 
-      Between November 3 and November 17, 2000, representatives of Intel
+     Between November 3 and November 17, 2000, representatives of Intel
 telephoned representatives of the Company to discuss the Company's business and
 financial position.
 
-      On November 17, 2000, Intel representatives held an internal management
+     On November 17, 2000, Intel representatives held an internal management
 review meeting to discuss the possible transactions with the Company, including
 potential deal structures and issues related to a transaction.
 
@@ -322,3 +323,12 @@ Conditions of the Offer" below to broaden their scope, (6) amend any other term
 of the Offer in a manner adverse to the holders of the Shares, (7) extend the
 Offer except as permitted by the terms of the Merger Agreement or (8) amend or
 waive the Minimum Condition.
+Notwithstanding the foregoing, Purchaser may, without the consent of the
+Company Board, (1) from time to time extend the Offer if at the scheduled
+Expiration Date any conditions of the Offer have not been satisfied or waived,
+(2) extend the Offer for any period required by any rule, regulation,
+interpretation or position of the Commission or the staff thereof applicable to
+the Offer, (3) if the first purchase of Shares under the Offer shall not have
+occurred prior to March 31, 2001, extend the Offer to the later of April 10,
+2001 and the date on which all conditions to the offer have been satisfied, or
+(4) extend the Offer for any reason on
