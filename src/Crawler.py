@@ -3,7 +3,7 @@ import re
 import requests
 import sys
 from concurrent.futures import ThreadPoolExecutor
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 import csv
 from tqdm import tqdm
 import time
@@ -364,7 +364,7 @@ class Crawler:
                     source_links.append(url)
                 
             except KeyError as e:
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Missing key in document: {e}, result: {document}");
+                Logger.logMessage(f"[-] Missing key in document: {e}, result: {document}");
                 continue; # Skip the document if there is a missing key; logged for further investigation
 
         return source_links;
@@ -391,7 +391,7 @@ class Crawler:
                         [main_index, self.filed_date[main_index], self.company_A_list[main_index], self.company_B_list[main_index], url]
                     );
                 except Exception as e:
-                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error writing to output for index {main_index}: {e}");
+                    Logger.logMessage(f"[-] Error writing to output for index {main_index}: {e}");
 
     def __resetResources(self):
         """Garbage collection"""
@@ -458,7 +458,7 @@ class Crawler:
 
             # No documents found for our 2 companies
             if (results == None):
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No document found for: {self.company_A_list[main_index]} & {self.company_B_list[main_index]}");
+                Logger.logMessage(f"[-] No document found for: {self.company_A_list[main_index]} & {self.company_B_list[main_index]}");
                 self.__resetResources();
                 continue;
             
@@ -480,7 +480,7 @@ class Crawler:
             # No documents found, including the edge case
             if not documents:
                 Logger.logMessage(
-                    f"[{Logger.get_current_timestamp()}] [-] No relevant document found for index {main_index}: {self.company_A_list[main_index]} & {self.company_B_list[main_index]}"
+                    f"[-] No relevant document found for index {main_index}: {self.company_A_list[main_index]} & {self.company_B_list[main_index]}"
                 );
                 self.__resetResources();
                 continue;
@@ -491,11 +491,11 @@ class Crawler:
             doc_url = self._processor.locateDocument(documents, company_names, main_index);
             if doc_url is None:
                 Logger.logMessage(
-                    f"[{Logger.get_current_timestamp()}] [-] Confirmed no background section found for index {main_index}: {company_names[0]} & {company_names[1]}."
+                    f"[-] Confirmed no background section found for index {main_index}: {company_names[0]} & {company_names[1]}."
                 );
-                Logger.logMessage(f"\tDumping its document links:");
+                Logger.logMessage(f"\tDumping its document links:", time_stamp=False);
                 for doc in documents:
-                    Logger.logMessage(f"\t\t{doc.getUrl()}");
+                    Logger.logMessage(f"\t\t{doc.getUrl()}", time_stamp=False);
                 self.__resetResources();
                 continue;
             

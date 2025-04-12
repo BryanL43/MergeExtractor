@@ -2,12 +2,13 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from concurrent.futures import ThreadPoolExecutor, ALL_COMPLETED, wait
 from spacy.language import Language
 import re
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 import spacy
 import torch
 from openai import OpenAI
 import json
 import torch
+import torch.nn as nn
 import sys
 from collections import Counter
 from sentence_transformers import CrossEncoder
@@ -292,7 +293,7 @@ class ChunkProcessor:
                 embeddings = future.result();
                 chunk_embeddings.append(embeddings);
             except Exception as e:
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error retrieving embeddings: {e}");
+                Logger.logMessage(f"[-] Error retrieving embeddings: {e}");
                 sys.exit(1);
 
         # Stack embeddings into a tensor
@@ -328,7 +329,7 @@ class ChunkProcessor:
             rerank_query = f.read();
 
         pairs = [(rerank_query, chunk) for _, _, chunk in final_chunks_sorted];
-        rerank_scores = self.reranker_model.predict(pairs, activation_fct=torch.sigmoid); # Sigmoid to map prob in the range of [0, 1]
+        rerank_scores = self.reranker_model.predict(pairs, activation_fn=nn.Sigmoid()); # Sigmoid to map prob in the range of [0, 1]
 
         COSINE_WEIGHT = 0.4;
         RERANK_WEIGHT = 0.6;

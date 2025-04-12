@@ -119,6 +119,6 @@ class InitiatorClassifier:
                 # self.__write_result(main_index, result);
                 
             except Exception as e:
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error: {e}");
-                Logger.logMessage(traceback.format_exc())
+                Logger.logMessage(f"[-] Error: {e}");
+                Logger.logMessage(traceback.format_exc(), time_stamp=False);
                 sys.exit(1);
