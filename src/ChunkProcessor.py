@@ -80,7 +80,7 @@ class ChunkProcessor:
         return chunks_with_dates;
 
     @staticmethod
-    def process_chunk(chunk: str, start_phrases: list[str], nlp: Language) -> tuple[str, int]:
+    def locate_chunk_header(chunk: str, start_phrases: list[str], nlp: Language) -> tuple[str, int]:
         doc = nlp(chunk);
         sentences = [sent.text.strip() for sent in doc.sents];
 
@@ -133,7 +133,7 @@ class ChunkProcessor:
         buffer = [];
 
         # Split the text into paragraphs
-        for idx, line in enumerate(lines):
+        for line in lines:
             if line.strip() == "":
                 # Detected a empty line; flush the buffer & stash paragraph
                 if buffer:
@@ -146,13 +146,6 @@ class ChunkProcessor:
         if buffer:
             paragraphs.append(buffer);
 
-        # with open("WFJWAHFWBAFJ.txt", "a", encoding="utf-8") as file:
-        #     for para_lines, idxs in paragraphs:
-        #         file.write("\n");
-        #         file.write("--" * 50);
-        #         file.write("\n");
-        #         file.write("\n".join(para_lines));
-
         # Find the paragraph containing the phrase.
         # If it has a lenght of 2 or less line then it's likely a section title.
         for para_lines in paragraphs:
@@ -163,6 +156,43 @@ class ChunkProcessor:
         return False;
 
     @staticmethod
+    def is_not_toc(chunk: str, phrase: str) -> bool:
+        lines = chunk.splitlines();
+        stripped_lines = [line.strip() for line in lines];
+
+        # Find the starting index where the phrase appears
+        start_index = 0;
+        for idx, line in enumerate(stripped_lines):
+            if phrase.lower() in line.lower():
+                start_index = idx;
+                break;
+
+        # Heuristic 1: Count "text followed by empty line" pairs (TOC-like pattern)
+        toc_like_count = 0;
+        i = start_index;
+        while i < len(stripped_lines) - 1:
+            if stripped_lines[i] and not stripped_lines[i + 1]:
+                toc_like_count += 1;
+                i += 2;
+            else:
+                i += 1;
+
+        # Heuristic 2: Count "two or more consecutive non-empty lines" (paragraph-like pattern)
+        paragraph_like_count = 0;
+        i = start_index;
+        while i < len(stripped_lines) - 1:
+            if stripped_lines[i] and stripped_lines[i + 1]:
+                paragraph_like_count += 1;
+                i += 2;  # move past the pair
+            else:
+                i += 1;
+
+        # Decision: flag as TOC if TOC-like count >= 3 & paragraph-like count < 3
+        is_toc = toc_like_count >= 3 and paragraph_like_count < 3;
+
+        return not is_toc;  # Return True if it's NOT a TOC
+
+    @staticmethod
     def get_approx_chunks(
         chunks_with_dates: list[tuple[int, str]], 
         start_phrases: list[str], 
@@ -171,12 +201,16 @@ class ChunkProcessor:
         
         approx_chunks = [];
         for idx, chunk in chunks_with_dates:
-            found_start_phrase = ChunkProcessor.process_chunk(chunk, start_phrases, nlp);
+            found_start_phrase = ChunkProcessor.locate_chunk_header(chunk, start_phrases, nlp);
             if not found_start_phrase:
                 continue;
 
             has_title = ChunkProcessor.has_section_title(chunk, found_start_phrase);
             if not has_title:
+                continue;
+            
+            is_not_toc_chunk = ChunkProcessor.is_not_toc(chunk, found_start_phrase);
+            if not is_not_toc_chunk:
                 continue;
 
             lines = chunk.splitlines();
@@ -352,18 +386,18 @@ class ChunkProcessor:
         # Print results with hybrid scores
         for entry in hybrid_chunks_sorted:
             index, hybrid_score, cos_score, rerank_score, chunk = entry
-            print("--" * 50);
-            print(f"Chunk {index} | Hybrid: {hybrid_score:.3f} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
-            print(chunk);
+            # print("--" * 50);
+            # print(f"Chunk {index} | Hybrid: {hybrid_score:.3f} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
+            # print(chunk);
 
         # Select top result
         if hybrid_chunks_sorted:
             best_entry = hybrid_chunks_sorted[0];
             index, hybrid_score, cos_score, rerank_score, beginning_chunk = best_entry;
-            print("==" * 50);
-            print(f"Top hybrid-scored chunk: {index}");
-            print(f"Hybrid: {hybrid_score:.3f} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
-            print(beginning_chunk);
+            # print("==" * 50);
+            # print(f"Top hybrid-scored chunk: {index}");
+            # print(f"Hybrid: {hybrid_score:.3f} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
+            # print(beginning_chunk);
         else:
             beginning_chunk = None;
 

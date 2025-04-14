@@ -115,8 +115,8 @@ class InitiatorClassifier:
                 with open(section_file_path, "w", encoding="utf-8") as file:
                     file.write(section_passage);
             
-                # result = self.assistant.analyzeDocument(section_passage);
-                # self.__write_result(main_index, result);
+                result = self.assistant.analyzeDocument(section_passage);
+                self.__write_result(main_index, result);
                 
             except Exception as e:
                 Logger.logMessage(f"[-] Error: {e}");

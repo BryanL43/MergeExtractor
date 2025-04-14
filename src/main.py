@@ -70,7 +70,7 @@ def main():
     backup_assistant = BackupAssistant(openai_api_key, "Backup Assistant", "gpt-4o-mini");
 
     # crawler = Crawler(filed_date, company_A_list, company_B_list, start_phrases, thread_pool, nlp, backup_assistant);
-    # crawler.runCrawler(index=0, date_margin=4);
+    # crawler.runCrawler(index=796, date_margin=4);
     # crawler.runCrawler(start_index=0, end_index=49, date_margin=4);
 
     analysis_assistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
@@ -85,7 +85,7 @@ def main():
         reranker_model, 
         analysis_assistant
     );
-    initiatorClassifier.findInitiator(index=8);
+    initiatorClassifier.findInitiator(index=796);
     # initiatorClassifier.findInitiator(start_index=0, end_index=49);
 
     thread_pool.shutdown(wait=True);

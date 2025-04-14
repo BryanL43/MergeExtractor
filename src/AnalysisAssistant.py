@@ -105,6 +105,11 @@ class AnalysisAssistant(Assistant):
             assistant_id=self._assistant_id
         );
 
+        if run.status == "completed":
+            messages = self._client.beta.threads.messages.list(thread_id=thread.id)
+            for message in messages.data:
+                print(message.content)
+
         # TO DO: Fix syncing
 
         # Extract the json object from the function in a hacky manner.
