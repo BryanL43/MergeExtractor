@@ -88,6 +88,12 @@ class InitiatorClassifier:
             if not os.path.isfile(file_path):
                 print("Skipping: Document does not exist...");
                 continue;
+            
+            # Check if the extracted file exists
+            extracted_path = f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt";
+            if os.path.isfile(extracted_path):
+                print("Skipping: Already processed and extracted...");
+                continue;
         
             with open(file_path, "r", encoding="utf-8") as file:
                 text = file.read();
@@ -105,8 +111,7 @@ class InitiatorClassifier:
                     sys.exit(1);
                 
                 # Write the section passage for debugging
-                section_file_path = f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt";
-                with open(section_file_path, "w", encoding="utf-8") as file:
+                with open(extracted_path, "w", encoding="utf-8") as file:
                     file.write(section_passage);
             
                 # result = self.assistant.analyzeDocument(section_passage);

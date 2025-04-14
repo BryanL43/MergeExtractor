@@ -338,12 +338,6 @@ class ChunkProcessor:
         for (index, cos_score, chunk), rerank_score in zip(final_chunks_sorted, rerank_scores):
             hybrid_score = (COSINE_WEIGHT * cos_score) + (RERANK_WEIGHT * rerank_score);
             hybrid_chunks.append((index, hybrid_score, cos_score, rerank_score, chunk));
-    
-        # Debug print
-        for index, hybrid, cos, rerank, chunk in sorted(hybrid_chunks, key=lambda x: x[1], reverse=True):
-            print("--" * 50);
-            print(f"Chunk {index} | Hybrid: {hybrid:.3f} | Cosine: {cos:.3f} | Rerank: {rerank:.3f}");
-            print(chunk);
 
         # Sort by hybrid score descending
         return sorted(hybrid_chunks, key=lambda x: x[1], reverse=True);

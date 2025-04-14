@@ -9,11 +9,11 @@ from tqdm import tqdm
 import time
 import gc
 from spacy.language import Language
+import os
 
 from Logger import Logger
 from BackupAssistant import BackupAssistant
 from Processor import Processor
-# from Document import Document
 
 class Crawler:
     def __init__(
@@ -439,6 +439,19 @@ class Crawler:
             bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"
         ):
             print("Processing index: ", main_index, "; Companies: ", self.company_A_list[main_index], " & ", self.company_B_list[main_index]);
+
+            # Construct document file name & construct the folder constraint
+            company_names = [self.company_A_list[main_index], self.company_B_list[main_index]];
+            format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
+
+            batch_start = (main_index // 100) * 100;
+            batch_end = batch_start + 99;
+            
+            # Check if the file exists
+            file_path = f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt";
+            if os.path.isfile(file_path):
+                print("Skipping: Document already exist exist...");
+                continue;
 
             # Construct the constraint of a given date & prep for url-parsing
             kwargs = {'date': self.filed_date[main_index]};
