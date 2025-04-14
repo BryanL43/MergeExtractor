@@ -80,24 +80,21 @@ class ChunkProcessor:
         return chunks_with_dates;
 
     @staticmethod
-    def locate_chunk_header(chunk: str, start_phrases: list[str], nlp: Language) -> tuple[str, int]:
+    def locate_chunk_header(chunk: str, start_phrases: list[str], nlp: Language) -> str:
         doc = nlp(chunk);
-        sentences = [sent.text.strip() for sent in doc.sents];
+        start_phrases_lower = [p.lower() for p in start_phrases];
+        background_only = len(start_phrases) == 1 and start_phrases_lower[0] == "background";
 
-        found_start_phrase = None
-        for sentence in sentences:
-            sentence_stripped = sentence.strip();
-            lines = [line.strip() for line in sentence_stripped.split("\n")];
+        # Fragment the chunk into sentences and then check their lines for potential start phrases headers
+        for sent in doc.sents:
+            sentence_text = sent.text.strip();
+            lines = [line.strip() for line in sentence_text.splitlines() if line.strip()];
 
             # Check for literal match within sentence if we are using complete phrases rather than just "Background"
-            if not (len(start_phrases) == 1 and start_phrases[0].lower() == "background"):
-                match = next(
-                    (sc for sc in start_phrases if sc.lower() in sentence_stripped.lower()),
-                    None
-                );
-                if match and "background" in sentence_stripped.lower():
-                    found_start_phrase = match;
-                    break;
+            if not background_only:
+                for phrase in start_phrases_lower:
+                    if phrase in sentence_text.lower() and "background" in sentence_text.lower():
+                        return phrase;
 
             # If no match in the sentence, check each line with additional fuzzy match.
             # Additionally checks for direct "background" word match.
@@ -105,37 +102,31 @@ class ChunkProcessor:
                 if len(line) == 0:
                     continue;
                 
+                line_lower = line.lower();
                 # Special case for only "Background" phrase to check for exact match 
-                if len(start_phrases) == 1 and start_phrases[0].lower() == "background":
-                    if line.strip().lower() == "background":
-                        found_start_phrase = line;
-                        break;
-                else:
-                    # Perform fuzzy matching for other start phrases
-                    match = next(
-                        (sc for sc in start_phrases if sc.lower() in line.lower() or fuzz.ratio(line.lower(), sc.lower()) > 80),
-                        None
-                    );
-                    if match and "background" in line.lower():
-                        found_start_phrase = line;
-                        break;
-        
-            if found_start_phrase:
-                break;
+                if background_only:
+                    if line_lower == "background":
+                        return line;
+                else: # Perform fuzzy matching for other start phrases
+                    for phrase in start_phrases_lower:
+                        if phrase in line_lower or fuzz.ratio(line_lower, phrase) > 80:
+                            if "background" in line_lower:
+                                return line;
 
-        return found_start_phrase;
+        return None;
     
     @staticmethod
     def has_section_title(chunk: str, phrase: str) -> bool:
         """Check if the section contains the header as a title"""
-        lines = chunk.splitlines();
         paragraphs = [];
         buffer = [];
 
         # Split the text into paragraphs
-        for line in lines:
-            if line.strip() == "":
-                # Detected a empty line; flush the buffer & stash paragraph
+        for line in chunk.splitlines():
+            line = line.strip();
+
+            # Detected a empty line; flush the buffer & stash paragraph
+            if line == "":
                 if buffer:
                     paragraphs.append(buffer);
                     buffer = [];
@@ -150,47 +141,36 @@ class ChunkProcessor:
         # If it has a lenght of 2 or less line then it's likely a section title.
         for para_lines in paragraphs:
             joined = "\n".join(para_lines);
-            if phrase.lower() in joined.lower() and len(joined.split("\n")) <= 2:
+            if phrase.lower() in joined.lower() and len(para_lines) <= 2:
                 return True;
             
         return False;
 
     @staticmethod
     def is_not_toc(chunk: str, phrase: str) -> bool:
-        lines = chunk.splitlines();
-        stripped_lines = [line.strip() for line in lines];
+        lines = [line.strip() for line in chunk.splitlines()];
+        start_index = next((i for i, line in enumerate(lines) if phrase.lower() in line.lower()), 0);
 
-        # Find the starting index where the phrase appears
-        start_index = 0;
-        for idx, line in enumerate(stripped_lines):
-            if phrase.lower() in line.lower():
-                start_index = idx;
-                break;
-
-        # Heuristic 1: Count "text followed by empty line" pairs (TOC-like pattern)
         toc_like_count = 0;
-        i = start_index;
-        while i < len(stripped_lines) - 1:
-            if stripped_lines[i] and not stripped_lines[i + 1]:
-                toc_like_count += 1;
-                i += 2;
-            else:
-                i += 1;
-
-        # Heuristic 2: Count "two or more consecutive non-empty lines" (paragraph-like pattern)
         paragraph_like_count = 0;
         i = start_index;
-        while i < len(stripped_lines) - 1:
-            if stripped_lines[i] and stripped_lines[i + 1]:
+
+        # Iterate through the lines to count "TOC-like" and "paragraph-like" patterns
+        while i < len(lines) - 1:
+            # Heuristic 1: Count "text followed by empty line" pairs (TOC-like pattern)
+            if lines[i] and not lines[i + 1]:
+                toc_like_count += 1;
+                i += 2;
+            # Heuristic 2: Count "two or more consecutive non-empty lines" (paragraph-like pattern)
+            elif lines[i] and lines[i + 1]:
                 paragraph_like_count += 1;
-                i += 2;  # move past the pair
+                i += 2;
+            # Default increment
             else:
                 i += 1;
 
         # Decision: flag as TOC if TOC-like count >= 3 & paragraph-like count < 3
-        is_toc = toc_like_count >= 3 and paragraph_like_count < 3;
-
-        return not is_toc;  # Return True if it's NOT a TOC
+        return not (toc_like_count >= 3 and paragraph_like_count < 3);
 
     @staticmethod
     def get_approx_chunks(
@@ -205,12 +185,10 @@ class ChunkProcessor:
             if not found_start_phrase:
                 continue;
 
-            has_title = ChunkProcessor.has_section_title(chunk, found_start_phrase);
-            if not has_title:
+            if not ChunkProcessor.has_section_title(chunk, found_start_phrase):
                 continue;
             
-            is_not_toc_chunk = ChunkProcessor.is_not_toc(chunk, found_start_phrase);
-            if not is_not_toc_chunk:
+            if not ChunkProcessor.is_not_toc(chunk, found_start_phrase):
                 continue;
 
             lines = chunk.splitlines();
@@ -288,30 +266,24 @@ class ChunkProcessor:
         
         return "\n".join(normalized_text);
 
-    def __find_definition_paragraph(self, chunks: list[str], org: str) -> (str | None):
+    def _find_definition_paragraph(self, chunks: list[str], org: str) -> (str | None):
         # Pattern to match the ORG in quotes within parentheses
         pattern = re.compile(r'\([^)]*?"{}"[^)]*?\)'.format(re.escape(org)), re.IGNORECASE);
         
         for chunk in chunks:
             # Split chunk into paragraphs
-            paragraphs = re.split(r'\n\s*\n', chunk)
+            paragraphs = re.split(r'\n\s*\n', chunk);
             for para in paragraphs:
                 if pattern.search(para):
                     return para.strip();
                 
         return None;
 
-    def getSectionPassage(
-            self, 
-            chunks: list[str], 
-            approx_chunks: list[tuple[int, str]], 
-            start_phrases: list[str],
-            company_names: list[str]
-        ):
-        # Load query embeddings
+    def _compute_cosine_similarity(self, approx_chunks: list[tuple[int, str]]) -> list[tuple[int, float, str]]:
+        # Load locally saved query embedding
         with open(QUERY_EMBEDDING_FILE, "r") as f:
             query_embedding = torch.tensor(json.load(f), dtype=torch.float32);
-        
+
         # Create multiple threads to embed each chunk in parallel
         futures = [];
         for _, chunk in approx_chunks:
@@ -329,11 +301,11 @@ class ChunkProcessor:
             except Exception as e:
                 Logger.logMessage(f"[-] Error retrieving embeddings: {e}");
                 sys.exit(1);
-
+        
         # Stack embeddings into a tensor
         chunk_embeddings = torch.stack(chunk_embeddings);
 
-        # Normalize query embedding
+        # Normalize query embeddings
         query_embedding_normalized = query_embedding / torch.norm(query_embedding);
 
         # Normalize chunk embeddings
@@ -345,91 +317,109 @@ class ChunkProcessor:
             chunk_embeddings_normalized
         );
 
-        final_chunks = [
-            (approx_chunks[i][0], similarities[i].item(), approx_chunks[i][1]) 
-            for i in range(len(similarities))
-        ];
+        return [(approx_chunks[i][0], similarities[i].item(), approx_chunks[i][1]) for i in range(len(similarities))];
 
-        final_chunks_sorted = sorted(final_chunks, key=lambda x: x[2], reverse=True);
-
-        # Rerank the chunks to more accurately fit the "Background" section
-        # rerank_query = (
-        #     "Detailed chronological account of merger negotiations including: "
-        #     "specific dates, financial advisors involved, board meeting details, "
-        #     "and progression of deal terms"
-        # );
-
+    def _rerank_with_hybrid_score(
+        self,
+        final_chunks_sorted: list[tuple[int, float, str]]
+    ) -> list[tuple[int, float, float, float, str]]:
+        # Load locally saved rerank query
         with open(RERANK_QUERY_FILE, "r", encoding="utf-8") as f:
             rerank_query = f.read();
-
+        
         pairs = [(rerank_query, chunk) for _, _, chunk in final_chunks_sorted];
         rerank_scores = self.reranker_model.predict(pairs, activation_fn=nn.Sigmoid()); # Sigmoid to map prob in the range of [0, 1]
-
+    
         COSINE_WEIGHT = 0.4;
         RERANK_WEIGHT = 0.6;
 
-        # Combine scores and sort
-        hybrid_chunks = []
+        # Compute the hybrid score based on desire weights
+        hybrid_chunks = [];
         for (index, cos_score, chunk), rerank_score in zip(final_chunks_sorted, rerank_scores):
-            hybrid_score = (COSINE_WEIGHT * cos_score) + (RERANK_WEIGHT * rerank_score)
-            hybrid_chunks.append((
-                index,
-                hybrid_score,
-                cos_score,
-                rerank_score,
-                chunk
-            ));
+            hybrid_score = (COSINE_WEIGHT * cos_score) + (RERANK_WEIGHT * rerank_score);
+            hybrid_chunks.append((index, hybrid_score, cos_score, rerank_score, chunk));
+    
+        # Debug print
+        for index, hybrid, cos, rerank, chunk in sorted(hybrid_chunks, key=lambda x: x[1], reverse=True):
+            print("--" * 50);
+            print(f"Chunk {index} | Hybrid: {hybrid:.3f} | Cosine: {cos:.3f} | Rerank: {rerank:.3f}");
+            print(chunk);
 
         # Sort by hybrid score descending
-        hybrid_chunks_sorted = sorted(hybrid_chunks, key=lambda x: x[1], reverse=True);
+        return sorted(hybrid_chunks, key=lambda x: x[1], reverse=True);
 
-        # Print results with hybrid scores
-        for entry in hybrid_chunks_sorted:
-            index, hybrid_score, cos_score, rerank_score, chunk = entry
-            # print("--" * 50);
-            # print(f"Chunk {index} | Hybrid: {hybrid_score:.3f} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
-            # print(chunk);
+    def _generate_abbreviation_definitions(self, passage: str, chunks: list[str], company_names: list[str]) -> str:
+        doc = ChunkProcessor._nlp_ent_model(passage);
+        # Tracks the frequency of organization entities
+        org_counter = Counter(ent.text for ent in doc.ents if ent.label_ == "ORG");
 
-        # Select top result
-        if hybrid_chunks_sorted:
-            best_entry = hybrid_chunks_sorted[0];
-            index, hybrid_score, cos_score, rerank_score, beginning_chunk = best_entry;
-            # print("==" * 50);
-            # print(f"Top hybrid-scored chunk: {index}");
-            # print(f"Hybrid: {hybrid_score:.3f} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
-            # print(beginning_chunk);
-        else:
-            beginning_chunk = None;
+        # Identify all valid paragraphs that defines the top 5 most frequent potential abbreviations
+        # These potential abbreviation may or may not be the expected result but it improves accuracy
+        abbreviation_map = {};
+        for org, _ in org_counter.most_common(5):
+            definition_paragraph = self._find_definition_paragraph(chunks, org);
+            if definition_paragraph:
+                abbreviation_map.setdefault(definition_paragraph, []).append(org);
+        
+        # No definition paragraphs found, most likely due to acronym company names.
+        # Directly return with the expanded company names in the header.
+        header = f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n";
+        if len(abbreviation_map) == 0:
+            return header + passage;
+        
+        output = "Here are some potentially useful abbreviation definitions that could help with analyzing the 'Background' section:\n";
+        seen = set();
 
-        # reranked_chunks = sorted(zip(final_chunks_sorted, rerank_scores), key=lambda x: x[1], reverse=True);
+        # Format the final output abbreviation definition string to append to passage
+        for definition, orgs in abbreviation_map.items():
+            if definition in seen:
+                continue;
+            seen.add(definition);
 
-        # for (index, cos_score, chunk), rerank_score in reranked_chunks:
-        #     print("--" * 50);
-        #     print(f"Chunk {index} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
-        #     print(chunk);
+            # Format the ORG list correctly
+            if len(orgs) == 1:
+                orgs_str = f"'{orgs[0]}'";
+            elif len(orgs) == 2:
+                orgs_str = f"'{orgs[0]}' and '{orgs[1]}'";
+            else:
+                orgs_str = "', '".join(orgs[:-1]);
+                orgs_str = f"'{orgs_str}', and '{orgs[-1]}'";
 
-        # (index, cos_score, beginning_chunk), rerank_score = reranked_chunks[0];
-        # print("==" * 50);
-        # print("Top reranked chunk:");
-        # print(f"Chunk {index} | Cosine: {cos_score:.3f} | Rerank: {rerank_score:.3f}");
-        # print(beginning_chunk);
+            output += f"\nPassage that defines the abbreviation {orgs_str}:\n{definition}\n";
 
-        if not beginning_chunk:
+        return output + "\n" + header + "\n" + passage;
+
+    def getSectionPassage(
+        self, 
+        chunks: list[str], 
+        approx_chunks: list[tuple[int, str]], 
+        company_names: list[str]
+    ):
+        if not approx_chunks:
             return None;
 
-        # Acquire the background section text (with some margin of other sections)
-        # index, truncated_chunk = beginning_chunk;
-        extracted_section = "\n".join(chunks[index + 1:index + 12]);
-        extracted_section = beginning_chunk + "\n" + extracted_section;
+        # Case 1: Only one approximate chunk in list, so use the chunk directly
+        if len(approx_chunks) == 1:
+            index, beginning_chunk = approx_chunks[0];
+        else: # Case 2: Multiple approximate chunks in list; use cosine similarity & reranker to rank chunks
+            final_chunks = self._compute_cosine_similarity(approx_chunks);
+            hybrid_chunks = self._rerank_with_hybrid_score(final_chunks);
 
-        passage = self.__normalize_chunks(extracted_section);
+            if not hybrid_chunks:
+                return None;
+
+            index, _, _, _, beginning_chunk = hybrid_chunks[0];
         
+        # Acquire the background section text (with some margin of other sections)
+        extracted_section = beginning_chunk + "\n" + "\n".join(chunks[index + 1:index + 12]);
+        passage = self.__normalize_chunks(extracted_section);
+
         # Validate whether both company names are present in the passage: meaning no abbreviations required
         passage_clean = re.sub(r'\s+', ' ', passage.lower().strip());
-        
+
         # Extract the simplified company name tokens (first word)
         company_tokens = [name.lower().split()[0].split('.')[0] for name in company_names];
-
+        
         # Case 1: Direct presence (preserve hyphen)
         if all(token in passage_clean for token in company_tokens):
             return f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n" + passage;
@@ -439,54 +429,5 @@ class ChunkProcessor:
         if all(token in passage_clean for token in modified_tokens):
             return f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n" + passage;
 
-        doc = ChunkProcessor._nlp_ent_model(passage);
-        org_counter = Counter(); # Tracks the frequency of organization words
-
-        # Label all potential Organiation entities
-        for ent in doc.ents:
-            if ent.label_ == "ORG":
-                org_counter[ent.text] += 1;
-        
-        seen_chunks = set();
-        abbreviation_map = {}; # Store abbreviation definitions with associated ORG
-
-        abbreviation_definitions = "Here are some potentially useful abbreviation definitions that could help with analyzing the 'Background' section:\n";
-
-        # Identify all valid paragraphs that defines the top 5 most frequent potential abbreviations
-        # These potential abbreviation may or may not be the expected result but it improves accuracy
-        for org, _ in org_counter.most_common(5):
-            definition_paragraph = self.__find_definition_paragraph(chunks, org);
-            if definition_paragraph:
-                abbreviation_map.setdefault(definition_paragraph, []).append(org);
-        
-        # No definition paragraphs found, most likely due to acronym company names.
-        # Directly return with the expanded company names in the header.
-        if len(abbreviation_map) == 0:
-            return f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n" + passage;
-        
-        # Format the final output abbreviation definition string to append to passage
-        for definition_paragraph, orgs in abbreviation_map.items():
-            if definition_paragraph not in seen_chunks:
-                seen_chunks.add(definition_paragraph);  # Mark chunk as seen
-
-                # Format the ORG list correctly
-                if len(orgs) > 2:
-                    orgs_text = "', '".join(orgs[:-1]);
-                    orgs_text = f"'{orgs_text}', and '{orgs[-1]}'";
-                elif len(orgs) == 2:
-                    orgs_text = f"'{orgs[0]}' and '{orgs[1]}'";
-                else:
-                    orgs_text = f"'{orgs[0]}'";
-
-                abbreviation_definitions += f"\nPassage that defines the abbreviation {orgs_text}:\n";
-                abbreviation_definitions += definition_paragraph + "\n";
-        
-        abbreviation_definitions += "\n";
-
-        finalPassage = (
-            abbreviation_definitions
-            + f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n\n" 
-            + passage
-        );
-
-        return finalPassage; 
+        # If abbreviation defs are needed
+        return self._generate_abbreviation_definitions(passage, chunks, company_names);

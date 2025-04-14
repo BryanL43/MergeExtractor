@@ -98,14 +98,8 @@ class InitiatorClassifier:
                     print("FATAL: Failed to locate a background chunk for index: ", main_index, "; Companies: ", self.company_A_list[main_index], " & ", self.company_B_list[main_index]);
                     sys.exit(1);
                 
-                # with open("debugging.txt", "w", encoding="utf-8") as file:
-                #     for _, chunk in approx_chunks:
-                #         file.write("\n");
-                #         file.write("--" * 50);
-                #         file.write("\n");
-                #         file.write(chunk);
-                
-                section_passage = self._chunk_processor.getSectionPassage(chunks, approx_chunks, self.start_phrases, company_names);
+                # Acquire ranked chunks according the the "Background" section
+                section_passage = self._chunk_processor.getSectionPassage(chunks, approx_chunks, company_names);
                 if section_passage is None:
                     print("FATAL: Failed to acquire a section passage for index: ", main_index, "; Companies: ", self.company_A_list[main_index], " & ", self.company_B_list[main_index]);
                     sys.exit(1);
@@ -115,8 +109,8 @@ class InitiatorClassifier:
                 with open(section_file_path, "w", encoding="utf-8") as file:
                     file.write(section_passage);
             
-                result = self.assistant.analyzeDocument(section_passage);
-                self.__write_result(main_index, result);
+                # result = self.assistant.analyzeDocument(section_passage);
+                # self.__write_result(main_index, result);
                 
             except Exception as e:
                 Logger.logMessage(f"[-] Error: {e}");
