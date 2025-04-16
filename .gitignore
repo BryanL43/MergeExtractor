@@ -173,3 +173,6 @@ cython_debug/
 # Runtime Environment
 assistantData.json
 merge_extractor_temp/
+
+# Profiler Output
+profile_output.txt

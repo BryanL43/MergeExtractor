@@ -12,11 +12,14 @@ import torch.nn as nn
 import sys
 from collections import Counter
 from sentence_transformers import CrossEncoder
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import time
 
 from Logger import Logger
 
 QUERY_EMBEDDING_FILE = "./config/query_embedding.json";
 RERANK_QUERY_FILE = "./config/rerank_query.txt";
+BATCH_SIZE = 128; # Computing power specific. Tune for your device.
 
 class ChunkProcessor:
     nlp: Language = None;
@@ -28,55 +31,72 @@ class ChunkProcessor:
         self.reranker_model = reranker_model;
         self.client = client;
         self.thread_pool = thread_pool;
-    
+
     @staticmethod
-    def extract_chunks_with_dates(
-            chunks: list[str], 
-            nlp: Language
-        ) -> list[tuple[int, str]]:
+    def extract_chunks_with_dates(chunks: list[str], nlp: Language) -> list[tuple[int, str]]:
+        # Subroutine speeds up runtime slightly
+        def get_chunks_with_date(batch_chunks):
+            docs = list(nlp.pipe(batch_chunks));
+            results = [];
 
-        chunks_with_dates = [];
-        for i, chunk in enumerate(chunks):
-            doc = nlp(chunk);
-            date_entities = [ent for ent in doc.ents if ent.label_ == "DATE"];
-            
-            filtered_dates = [];
-            for ent in date_entities:
-                text = ent.text.lower();
+            for i, doc in enumerate(docs):
+                chunk = batch_chunks[i];  # Get the corresponding chunk from the batch
+                date_entities = [ent for ent in doc.ents if ent.label_ == "DATE"];
+                filtered_dates = [];
 
-                # Exclude entries with hyphens (often IDs or codes)
-                if '-' in text:
-                    continue;
+                for ent in date_entities:
+                    text = ent.text.lower();
 
-                # For purely numeric entries, check if they exceed possible date ranges
-                if text.replace('/', '').replace(' ', '').isdigit():
-                    components = re.split(r'[/\s]+', text);
-
-                    # Check if any component exceeds possible date values (4-digit integers)
-                    if any(len(component) > 4 for component in components):
+                    # Exclude entries with hyphens (often IDs or codes)
+                    if '-' in text:
                         continue;
 
-                    # If it's a single number, make sure it's in a reasonable year range
-                    if len(components) == 1 and text.isdigit():
-                        num = int(text);
-                        if num < 1900 or num > 2030:
+                    # For purely numeric entries, check if they exceed possible date ranges
+                    if text.replace('/', '').replace(' ', '').isdigit():
+                        components = re.split(r'[/\s]+', text);
+
+                        # Check if any component exceeds possible date values (4-digit integers)
+                        if any(len(component) > 4 for component in components):
                             continue;
 
-                filtered_dates.append(ent.text);
+                        # If it's a single number, make sure it's in a reasonable year range
+                        if len(components) == 1 and text.isdigit():
+                            num = int(text);
+                            if num < 1900 or num > 2030:
+                                continue;
 
-            # Context-based date detection for years
-            year_mentions = re.findall(r'\b((?:19|20)\d{2})\b', chunk);
-            for year in year_mentions:
-                if year not in [date.lower() for date in filtered_dates]:
-                    filtered_dates.append(year);
-            
-            # Remove duplicates while preserving order
-            seen = set();
-            filtered_dates = [x for x in filtered_dates if not (x in seen or seen.add(x))];
-            
-            if filtered_dates:
-                chunks_with_dates.append((i, chunk));
-        
+                    filtered_dates.append(ent.text);
+
+                # Context-based date detection for years
+                year_mentions = re.findall(r'\b((?:19|20)\d{2})\b', chunk);
+                for year in year_mentions:
+                    if year not in [date.lower() for date in filtered_dates]:
+                        filtered_dates.append(year);
+
+                # Remove duplicates while preserving order
+                seen = set();
+                filtered_dates = [x for x in filtered_dates if not (x in seen or seen.add(x))];
+
+                if filtered_dates:
+                    results.append((i, chunk));
+
+            return results;
+
+        chunks_with_dates = [];
+
+        # Using ThreadPoolExecutor to process chunks in parallel
+        with ThreadPoolExecutor() as executor:
+            futures = [];
+            for i in range(0, len(chunks), BATCH_SIZE):
+                batch = chunks[i:i + BATCH_SIZE];  # Create a batch of chunks
+                futures.append(executor.submit(get_chunks_with_date, batch));  # Submit the batch for processing
+
+            # Collect the results as they complete
+            for future in as_completed(futures):
+                result = future.result();
+                if result:
+                    chunks_with_dates.extend(result);
+
         return chunks_with_dates;
 
     @staticmethod
@@ -173,6 +193,36 @@ class ChunkProcessor:
         return not (toc_like_count >= 3 and paragraph_like_count < 3);
 
     @staticmethod
+    def _process_single_chunk(idx, chunk, start_phrases, nlp):
+        found_start_phrase = ChunkProcessor.locate_chunk_header(chunk, start_phrases, nlp);
+        if not found_start_phrase:
+            return None;
+
+        if not ChunkProcessor.has_section_title(chunk, found_start_phrase):
+            return None;
+        
+        if not ChunkProcessor.is_not_toc(chunk, found_start_phrase):
+            return None;
+
+        lines = chunk.splitlines();
+        lower_phrase = found_start_phrase.lower();
+
+        for i, line in enumerate(lines):
+            line = line.strip();
+            if not line or lower_phrase not in line.lower():
+                continue;
+
+            # Filter out false positive section titles
+            if any(term in line.lower() for term in ["reason", "industry", "identity", "filing", "corporate"]):
+                continue;
+
+            # Ensure passage is not too short (noise sections)
+            passage = "\n".join(lines[i:]);
+            if len(passage) > 200:
+                return (idx, passage);
+                break;
+
+    @staticmethod
     def get_approx_chunks(
         chunks_with_dates: list[tuple[int, str]], 
         start_phrases: list[str], 
@@ -180,34 +230,18 @@ class ChunkProcessor:
     ):
         
         approx_chunks = [];
-        for idx, chunk in chunks_with_dates:
-            found_start_phrase = ChunkProcessor.locate_chunk_header(chunk, start_phrases, nlp);
-            if not found_start_phrase:
-                continue;
+        with ThreadPoolExecutor() as executor:
+            futures = [
+                executor.submit(
+                    lambda idx=idx, chunk=chunk: ChunkProcessor._process_single_chunk(idx, chunk, start_phrases, nlp),
+                )
+                for idx, chunk in chunks_with_dates
+            ];
 
-            if not ChunkProcessor.has_section_title(chunk, found_start_phrase):
-                continue;
-            
-            if not ChunkProcessor.is_not_toc(chunk, found_start_phrase):
-                continue;
-
-            lines = chunk.splitlines();
-            lower_phrase = found_start_phrase.lower();
-
-            for i, line in enumerate(lines):
-                line = line.strip();
-                if not line or lower_phrase not in line.lower():
-                    continue;
-
-                # Filter out false positive section titles
-                if any(term in line.lower() for term in ["reason", "industry", "identity", "filing", "corporate"]):
-                    continue;
-
-                # Ensure passage is not too short (noise sections)
-                passage = "\n".join(lines[i:]);
-                if len(passage) > 200:
-                    approx_chunks.append((idx, passage));
-                    break;
+            for future in as_completed(futures):
+                result = future.result();
+                if result:
+                    approx_chunks.append(result);
 
         return approx_chunks;
 

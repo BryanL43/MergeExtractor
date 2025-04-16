@@ -16,6 +16,7 @@ from BackupAssistant import BackupAssistant
 from Logger import Logger
 from Document import Document
 from ChunkProcessor import ChunkProcessor
+from RateLimiter import RateLimiter
 
 TEMP_DIRECTORY = "merge_extractor_temp";
 
@@ -31,13 +32,19 @@ class Processor:
             assistant: BackupAssistant, 
             nlp: Language, 
             start_phrases: list[str], 
-            thread_pool: ThreadPoolExecutor
+            thread_pool: ThreadPoolExecutor,
+            rate_limiter: RateLimiter
         ):
 
         self.assistant = assistant;
         self.nlp = nlp;
         self.start_phrases = start_phrases;
         self.thread_pool = thread_pool;
+        self.rate_limiter = rate_limiter;
+    
+    def _rate_limited_get(self, url, headers):
+        self.rate_limiter.wait();
+        return requests.get(url, headers=headers);
 
     def __extract_all_but_last_word(self, company_name: str) -> str:
         """
@@ -94,7 +101,7 @@ class Processor:
             "Accept-Language": "en-US,en;q=0.9"
         }
 
-        response = requests.get(url, headers=headers);
+        response = self._rate_limited_get(url, headers);
         if (response.text):
             return response.text;
         else:

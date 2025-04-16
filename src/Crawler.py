@@ -14,6 +14,7 @@ import os
 from Logger import Logger
 from BackupAssistant import BackupAssistant
 from Processor import Processor
+from RateLimiter import RateLimiter
 
 class Crawler:
     def __init__(
@@ -24,7 +25,8 @@ class Crawler:
             start_phrases: list[str],
             thread_pool: ThreadPoolExecutor,
             nlp: Language,
-            assistant: BackupAssistant
+            assistant: BackupAssistant,
+            rate_limiter: RateLimiter
         ):
         
         self.filed_date = filed_date;
@@ -34,11 +36,16 @@ class Crawler:
         self.thread_pool = thread_pool;
         self.nlp = nlp;
         self.assistant = assistant;
+        self.rate_limiter = rate_limiter;
 
         self.__form_types = ["PREM14A", "S-4", "SC 14D9", "SC TO-T"];
 
         # Instantiate the Processor to clean & analzye documents
-        self._processor = Processor(self.assistant, self.nlp, self.start_phrases, self.thread_pool);
+        self._processor = Processor(self.assistant, self.nlp, self.start_phrases, self.thread_pool, self.rate_limiter);
+    
+    def _rate_limited_get(self, url, headers):
+        self.rate_limiter.wait();
+        return requests.get(url, headers=headers);
 
     # Acquire the constraint of a given date.
     # Pad 2 months backward and forward for constraint.
@@ -144,7 +151,7 @@ class Crawler:
         }
 
         # Request the search query & acquire the DOM elements
-        response = requests.get(url, headers=headers);
+        response = self._rate_limited_get(url, headers=headers);
         if (response.status_code != 200):
             print("FATAL: getDocumentJson response yielded an error!");
             sys.exit(response.status_code);
@@ -237,7 +244,8 @@ class Crawler:
 
         # Fetch the json data for each CIK
         if len(urls) == 1: # Case: Single URL; no threads required
-            response = requests.get(urls[0], headers=headers);
+            self.rate_limiter.wait();
+            response = self._rate_limited_get(urls[0], headers=headers);
             if (response.status_code != 200):
                 print("FATAL: getDocumentJson response yielded an error!");
                 sys.exit(response.status_code);
@@ -245,7 +253,7 @@ class Crawler:
             result = response.json();
             merged_hits = result["hits"]["hits"] if result and "hits" in result and "hits" in result["hits"] else [];
         else: # Case: Multiple URLs; use threads for concurrent fetching
-            results = list(self.thread_pool.map(lambda url: requests.get(url, headers=headers), urls));
+            results = list(self.thread_pool.map(lambda url: self._rate_limited_get(url, headers), urls))
             
             # Merge the results into a single list
             merged_hits = [];
@@ -311,7 +319,7 @@ class Crawler:
         }
 
         # Fetch the json data for each company using threads for concurrent fetching
-        results = list(self.thread_pool.map(lambda url: requests.get(url, headers=headers), urls));
+        results = list(self.thread_pool.map(lambda url: self._rate_limited_get(url, headers), urls));
         
         # Merge the results into a single list
         merged_hits = [];
