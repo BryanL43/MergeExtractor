@@ -16,6 +16,7 @@ from BackupAssistant import BackupAssistant
 from Logger import Logger
 from Document import Document
 from ChunkProcessor import ChunkProcessor
+from RateLimiter import RateLimiter
 
 TEMP_DIRECTORY = "merge_extractor_temp";
 
@@ -31,13 +32,19 @@ class Processor:
             assistant: BackupAssistant, 
             nlp: Language, 
             start_phrases: list[str], 
-            thread_pool: ThreadPoolExecutor
+            thread_pool: ThreadPoolExecutor,
+            rate_limiter: RateLimiter
         ):
 
         self.assistant = assistant;
         self.nlp = nlp;
         self.start_phrases = start_phrases;
         self.thread_pool = thread_pool;
+        self.rate_limiter = rate_limiter;
+    
+    def _rate_limited_get(self, url, headers):
+        self.rate_limiter.wait();
+        return requests.get(url, headers=headers);
 
     def __extract_all_but_last_word(self, company_name: str) -> str:
         """
@@ -94,7 +101,7 @@ class Processor:
             "Accept-Language": "en-US,en;q=0.9"
         }
 
-        response = requests.get(url, headers=headers);
+        response = self._rate_limited_get(url, headers);
         if (response.text):
             return response.text;
         else:
@@ -230,7 +237,7 @@ class Processor:
                 if both_found:
                     documents.append(Document(url, cleaned_text));
             except Exception as e:
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error retrieving document for URL {url}: {e}");
+                Logger.logMessage(f"[-] Error retrieving document for URL {url}: {e}");
 
         return documents;
 
@@ -283,7 +290,7 @@ class Processor:
                     fallback_result = doc;
                     break;
             except Exception as e:
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing fallback future: {e}");
+                Logger.logMessage(f"[-] Error processing fallback future: {e}");
         
         # Terminate all remaining futures
         if section_found.is_set():
@@ -304,7 +311,7 @@ class Processor:
                 time.sleep(0.5);
                 shutil.rmtree(TEMP_DIRECTORY);
 
-            Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Retry attempt successfully created document for: {company_names[0]} & {company_names[1]}");
+            Logger.logMessage(f"[+] Retry attempt successfully created document for: {company_names[0]} & {company_names[1]}");
             return fallback_result.getUrl();
     
         # Delete the temp directory
@@ -371,13 +378,13 @@ class Processor:
                             file.write(f"URL: {doc.getUrl()}\n\n");
                             file.write(doc.getContent());
 
-                        Logger.logMessage(f"[{Logger.get_current_timestamp()}] [+] Successfully created document for: {company_names[0]} & {company_names[1]}");
+                        Logger.logMessage(f"[+] Successfully created document for: {company_names[0]} & {company_names[1]}");
                         return doc.getUrl();
         except (CancelledError, EOFError, FileNotFoundError):
             # Ignore these errors since they occur when processes are being stopped, results can be discarded
             return None;
         except Exception as e:
-            Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {doc.getUrl()}: {e}");
+            Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
         
         return None;
 
@@ -416,7 +423,7 @@ class Processor:
                         documents[0], company_names, main_index, start_phrases, found_data, nlp_model, lock
                     );
                 except Exception as e:
-                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {documents[0].getUrl()}: {e}");
+                    Logger.logMessage(f"[-] Error processing {documents[0].getUrl()}: {e}");
                     return None;
 
             # Locate valid document with the 'Background of the Merger' section via multi-processing
@@ -440,11 +447,11 @@ class Processor:
                         if isinstance(e, (CancelledError, EOFError)):
                             continue;
                         doc = futures[future];
-                        Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error processing {doc.getUrl()}: {e}");
+                        Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
         
         # Fallback method if fuzzy fails. We will use openai to determine if the background section is within any of the documents
         Logger.logMessage(
-            f"[{Logger.get_current_timestamp()}] [*] No background section found for index {main_index}: {company_names[0]} & {company_names[1]}. Retrying via fallback..."
+            f"[*] No background section found for index {main_index}: {company_names[0]} & {company_names[1]}. Retrying via fallback..."
         );
 
         fallback_result = self.__fallback_check(documents, company_names, main_index);

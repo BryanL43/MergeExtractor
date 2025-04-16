@@ -1,0 +1,22 @@
+# Core packages
+pandas
+python-dotenv
+sentence-transformers>=3.4.0
+openai>=1.72.0
+langchain
+rapidfuzz
+tqdm
+requests
+lxml
+
+# Dependencies
+six>=1.17.0
+
+# PyTorch with CUDA 12.6
+--extra-index-url https://download.pytorch.org/whl/cu126
+torch>=2.6.0
+
+# spaCy and models
+spacy>=3.8.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
+https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.8.0/en_core_web_lg-3.8.0-py3-none-any.whl

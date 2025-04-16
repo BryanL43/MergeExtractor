@@ -1,0 +1,283 @@
+Here are some potentially useful abbreviation definitions that could help with analyzing the 'Background' section:
+
+Passage that defines the abbreviation 'FFCA':
+NOTICE IS HEREBY GIVEN that a special meeting of shareholders (the
+"Meeting") of Franchise Finance Corporation of America, a Maryland corporation
+("FFCA"), will be held on ________, ______, 2001 at 10:00 a.m. local time, at
+The Fairmont Scottsdale Princess, 7575 East Princess Drive, Scottsdale, Arizona
+for the following purposes:
+
+Passage that defines the abbreviation 'REIT':
+*    the receipt by GE Capital of an opinion of counsel as to the status of
+          FFCA as a real estate investment trust ("REIT") under the Internal
+          Revenue Code of 1986 (the "Tax Code") and the tax status of specified
+          subsidiaries;
+
+Passage that defines the abbreviation 'GE Capital':
+1. To consider and vote upon a proposal to approve a merger and the related
+amendment to FFCA's charter, as contemplated by the Agreement and Plan of
+Merger, dated as of March 30, 2001, among General Electric Capital Corporation
+("GE Capital"), Galahad Acquisition Corp., an indirect wholly-owned subsidiary
+of GE Capital ("Merger Sub") and FFCA that will result in:
+
+Passage that defines the abbreviation 'FFO':
+*    WHOLE LOAN SALES. In 2000, FFCA commenced a whole loan sale program as
+          a result of the execution of a loan sale agreement and servicing
+          agreement with Washington Mutual Bank, FA. Under this program, a
+          taxable REIT subsidiary of FFCA receives income from the origination
+          and sale of loans, as well as continuing revenue from FFCA's servicing
+          of the loans after they are sold. Under the loan sale agreement, which
+          is scheduled to expire on December 31, 2002, Washington Mutual is not
+          obligated to and does not purchase all loans originated by FFCA.
+          During 2000, Washington Mutual purchased approximately half of the
+          loans FFCA originated. In addition, the purchase of loans under the
+          loan sale agreement is subject to borrower credit concentration
+          limits. Washington Mutual has recently informally indicated to FFCA
+          that it intends to reduce these concentration limits. This recent
+          indication by Washington Mutual will require FFCA to continue to
+          develop the use of other capital sources to fund new investments.
+          Although whole loan sales permit FFCA to conduct business without the
+          need for additional capital, FFCA believes there are risks in
+          substantially relying on whole loan sales as a source of capital in
+          the future since the sale of loans to Washington Mutual or other
+          institutional investors is not under FFCA's complete control. In
+          addition, FFCA believes that whole loan sales have increased the
+          volatility of FFCA's funds from operations ("FFO"), making FFCA's
+          future growth more difficult for investors to evaluate. As a result,
+          FFCA believes that investors may discount FFCA's ability to originate
+          and sell loans in the future in amounts sufficient to achieve
+          acceptable increases in FFO, which may negatively affect the market
+
+The following provides details about the events leading up to the merger deal between Franchise Finance Corp of Amer & General Electric Capital Corp:
+
+BACKGROUND OF THE MERGER
+
+     Beginning in early 1999, FFCA's senior management commenced a strategic
+review of its then current method of operations. At that time, FFCA's method of
+operations had been changing with a greater emphasis on loan securitizations and
+fee-based services. In addition, new business opportunities were being
+identified which were not related to the passive ownership of real estate. The
+Tax Code limits FFCA's ability to pursue many of these future growth
+opportunities because of FFCA's status as a REIT. At the same time, FFCA was
+facing competition from existing and new sources. In addition, the capital
+markets that FFCA participated in for funding new financings were undergoing
+changes. The effects on
+
+FFCA's operations of these changes in the capital markets, competition and REIT
+provisions of the Tax Code are discussed in more detail below.
+
+     CAPITAL MARKETS. Since FFCA's organization as a REIT in 1994, FFCA has
+relied principally on four external sources of capital to fund new investments:
+loan securitizations, whole loan sales, corporate borrowings and the sale of
+common stock. As described below, each of these capital sources presented, and
+continues to present, unique challenges that FFCA believes may limit FFCA's
+operating results and stock market performance in the future.
+*    LOAN SECURITIZATIONS. Since 1994, FFCA's largest source of capital has
+          been through the securitization of loans. In these securitizations,
+          FFCA's loans are transferred to a trust that issues trust certificates
+          or other securities that are then sold to institutional investors.
+          FFCA believes that the securitization markets may not be a reliable
+          and competitive source of capital for FFCA in the future since the
+          number of purchasers for securities issued in this type of transaction
+          is becoming more limited and there have been recent loan delinquencies
+          in comparable securitizations that were sponsored by parties other
+          than FFCA. In addition, future reliance on loan securitizations to
+          fund substantial investments by FFCA will likely result in a greater
+          percentage of FFCA's assets being comprised of subordinated
+          securitization securities that FFCA retains when it enters into a
+          securitization transaction. The cash flows from, and value of, these
+          subordinated securitization securities can be volatile. FFCA also
+          believes that further material increases in the amount of subordinated
+          securitization securities it holds may negatively affect FFCA's
+          corporate debt ratings in the future, making it more difficult to
+          raise capital through the issuance of debt.
+*    WHOLE LOAN SALES. In 2000, FFCA commenced a whole loan sale program as
+          a result of the execution of a loan sale agreement and servicing
+          agreement with Washington Mutual Bank, FA. Under this program, a
+          taxable REIT subsidiary of FFCA receives income from the origination
+          and sale of loans, as well as continuing revenue from FFCA's servicing
+          of the loans after they are sold. Under the loan sale agreement, which
+          is scheduled to expire on December 31, 2002, Washington Mutual is not
+          obligated to and does not purchase all loans originated by FFCA.
+          During 2000, Washington Mutual purchased approximately half of the
+          loans FFCA originated. In addition, the purchase of loans under the
+          loan sale agreement is subject to borrower credit concentration
+          limits. Washington Mutual has recently informally indicated to FFCA
+          that it intends to reduce these concentration limits. This recent
+          indication by Washington Mutual will require FFCA to continue to
+          develop the use of other capital sources to fund new investments.
+          Although whole loan sales permit FFCA to conduct business without the
+          need for additional capital, FFCA believes there are risks in
+          substantially relying on whole loan sales as a source of capital in
+          the future since the sale of loans to Washington Mutual or other
+          institutional investors is not under FFCA's complete control. In
+          addition, FFCA believes that whole loan sales have increased the
+          volatility of FFCA's funds from operations ("FFO"), making FFCA's
+          future growth more difficult for investors to evaluate. As a result,
+          FFCA believes that investors may discount FFCA's ability to originate
+          and sell loans in the future in amounts sufficient to achieve
+          acceptable increases in FFO, which may negatively affect the market
+          price of FFCA's stock. In addition, governmentally regulated financial
+          institutions may be subject to regulations which may restrict or limit
+          their ability to purchase franchise loans. These restrictions, if
+          increased, could negatively affect FFCA's ability to sell loans in the
+          future.
+*    CORPORATE BORROWINGS. As of March 31, 2001, FFCA had investment-grade
+          debt ratings of BBB, Baa2 and BBB- from Fitch, Moody's and Standard
+          and Poor's, respectively. FFCA believes that favorable credit ratings
+          are essential to make additional borrowings at favorable rates in the
+          future and strongly influence FFCA's costs of shorter-term credit
+          lines. FFCA also believes a material
+
+          increase in the amount of subordinated securitization securities it
+          holds from entering into securitization transactions as described
+          above could negatively affect FFCA's corporate credit ratings and
+          result in reduced financial flexibility and greater shareholder risk
+          in the future. Incurring debt to fund increasing origination volumes
+          without accessing new equity capital presents difficulties for FFCA
+          because FFCA is required to maintain specified debt-to-equity ratios
+          under various agreements.
+
+     *    COMMON STOCK. Since January 1997, the market price of FFCA's common
+          stock has declined as a multiple of the estimate of FFCA's projected
+          FFO by security analysts that follow FFCA's stock. As a result of
+          FFCA's lower FFO trading multiples, FFCA currently believes that the
+          issuance of its common stock would result in the dilution of its
+          shareholders or would not achieve an acceptable rate of return. Since
+          the amount of corporate debt which FFCA may issue is limited by
+          covenants relating to FFCA's debt-to-equity ratio, FFCA's inability to
+          issue common stock at appropriate prices effectively limits its
+          ability to issue debt to fund financing activities, thereby reducing
+          corporate financial flexibility and competitiveness in the future.
+COMPETITIVE ENVIRONMENT. Over the past several years, FFCA has encountered
+competition in FFCA's principal business of financing chain stores from large,
+diversified financial institutions competing in FFCA's market. FFCA believes
+that these diversified financial institutions have competitive advantages over
+FFCA because of their lower cost and greater availability of capital as compared
+to FFCA. Higher capital costs limit FFCA's ability to offer financing at rates
+similar to those offered by diversified financial institutions and could
+restrict FFCA's growth.
+
+     REIT STATUS. In order to maintain FFCA's status as a REIT under the Tax
+Code, a substantial majority of FFCA's income and assets must be derived from
+passive real estate activities. Income from whole loan sales, servicing third
+parties' loan portfolios and the sale of products and services to chain store
+operators (such as insurance products and personnel services) are not qualifying
+income under the REIT provisions of the Tax Code. As a result, FFCA believes
+that the REIT provisions of the Tax Code could limit its business opportunities
+in the future.
+
+     CHRONOLOGY. In light of these business issues, FFCA's senior management,
+with the concurrence of its board of directors, retained Merrill Lynch & Co. and
+Bear, Stearns & Co., Inc. during the first quarter of 1999 to act as FFCA's
+financial advisors. The financial advisors were retained to review FFCA's
+position in its industry and strategic alternatives, and to identify companies
+which would potentially be interested in a merger, consolidation, reorganization
+or other strategic business transaction with FFCA.
+On April 7, 1999, at a special meeting of FFCA's board of directors,
+representatives of Merrill Lynch and Bear Stearns discussed the state of the
+commercial finance industry and the valuation of commercial finance companies,
+and reviewed their process for identifying strategic alternatives for FFCA. At
+that meeting, the law firm of Simpson Thacher & Bartlett was retained as special
+counsel to FFCA and representatives of that firm reviewed with the board its
+legal duties in connection with the exploration of strategic alternatives.
+Representatives of Simpson Thacher & Bartlett also reviewed the terms of a
+proposed shareholders' rights agreement for FFCA, which was adopted by the board
+of directors at that meeting. At that meeting, the board also authorized the
+compensation committee of the board to consider the adoption of
+change-in-control or similar agreements to provide appropriate protection and
+incentives for FFCA's senior management and other key employees of FFCA to
+continue their employment with FFCA in light of FFCA's exploration of strategic
+alternatives. The board of directors also authorized the financial advisors to
+solicit indications of interest from third parties for a possible transaction
+with FFCA.
+Following the April 7, 1999 meeting, Merrill Lynch and Bear Stearns
+identified potential purchasers and joint venture partners to be contacted.
+Initially, approximately 25 companies were identified and contacted. These
+companies were selected based upon their market capitalization, cost of and
+access to capital and interest and/or participation in FFCA's targeted industry.
+These companies included diversified finance companies, foreign and domestic
+depository institutions and insurance companies. Of these 25 companies, 14
+companies signed confidentiality and standstill agreements, following which
+information regarding FFCA was provided to them. Following the initial review of
+FFCA's confidential material, only two of these 14 interested companies
+expressed non-binding indications of interest to continue discussions with FFCA
+relating to the purchase of all of the common stock of FFCA. FFCA believes,
+based on the various discussions held with the interested companies and with the
+other contacted parties, that the limited number of interested parties was
+primarily a result of FFCA's large size and its unique mix of assets. In
+addition, FFCA believes that many of the potential purchasers did not pursue an
+acquisition of FFCA because FFCA's assets were limited to a single asset class
+or loan type which exceeded the loan concentration policies of the potential
+purchasers or exceeded limits placed on those entities by federal and state
+regulators. FFCA's direct ownership of real estate creates obstacles for
+financial institutions in acquiring FFCA because those institutions are subject
+to regulation by federal and state banking authorities that prevent the
+institutions from acquiring real estate asset portfolios like FFCA's portfolio.
+On April 29, 1999 and May 7, 1999, the compensation committee of the board
+of directors held meetings and received advice from representatives of Hewitt
+Associates, independent compensation consultants to FFCA, and representatives of
+Simpson Thacher & Bartlett regarding proposals for continuity
+(change-in-control) agreements to be entered into with FFCA's executive officers
+and other senior managers. No action was taken by the compensation committee at
+these meetings.
+
+     At a regularly scheduled meeting held on May 12, 1999, the board of
+directors, upon the recommendation of the compensation committee which met
+earlier on the same date, approved and adopted the proposed change-in-control
+program for FFCA's management in order to provide management with appropriate
+protection and incentives to continue their employment with FFCA. At that
+meeting, Morton H. Fleischer, Chairman and Chief Executive Officer of FFCA,
+reviewed with and updated the board of directors as to the status of the
+financial advisors' and management's efforts regarding a strategic transaction,
+including the number of parties contacted and the difficulties the contacted
+parties expressed in pursuing a possible transaction with FFCA.
+
+     On May 19 and May 26, 1999, FFCA received separate written non-binding
+indications of interest from GE Capital and another party expressing preliminary
+interest in pursuing a transaction with FFCA. In order to complete a transaction
+with FFCA, the other potential acquiror indicated that additional parties would
+be required to participate with it in the transaction. The other potential
+acquiror did not continue negotiations with FFCA with respect to the
+acquisition.
+
+     During May and June of 1999, GE Capital conducted its initial due diligence
+review of FFCA's operations in Scottsdale, Arizona.
+
+     After further due diligence, on July 12, 1999, FFCA received a subsequent
+non-binding indication of interest from GE Capital to purchase all of FFCA's
+outstanding common stock, identifying a number of significant conditions to the
+signing and completion of a transaction, including continued due diligence
+review, negotiation of a mutually satisfactory merger agreement, receipt of a
+private letter ruling from the Internal Revenue Service as to FFCA's retention
+of its REIT status for the year in which the then proposed GE Capital
+acquisition would occur in a form satisfactory to GE Capital, execution of
+employment agreements with various members of FFCA's management and defeasance
+or repayment of FFCA's then outstanding debt. At the same time that this
+expression of interest was made, Weil,
+
+Gotshal & Manges LLP, GE Capital's legal counsel, distributed written comments,
+reflecting GE Capital's proposal including the conditions listed above, to the
+form of merger agreement prepared by FFCA's counsel. Mr. Fleischer individually
+advised the members of the board of FFCA's receipt of and terms of this
+indication of interest. FFCA, with the concurrence of its board, decided to
+further pursue this indication of interest and directed its financial and legal
+advisors to continue negotiations and due diligence activities with GE Capital
+and its advisors.
+
+     During July through September 1999, FFCA and its advisors continued the
+diligence and negotiation efforts with GE Capital and its advisors, attempting
+to resolve the various open issues between the parties, including the purchase
+price and the conditions contained in GE Capital's proposal.
+
+     On July 30 and August 9, 1999, at meetings of the board of directors, Mr.
+Fleischer advised the board on the current status of the proposed transaction
+with GE Capital, and representatives of the financial advisors reviewed with the
+board the results of their efforts to solicit interest in a strategic
+transaction, including the fact that an initial list of approximately 25
+companies was contacted, 14 companies signed confidentiality and standstill
+agreements and received confidential materials and two companies had submitted
+non-binding indications of interest and conducted further due diligence. Except
+for the July 12, 1999 subsequent non-binding indication from GE Capital, no
+other subsequent indications of interest were received. The board of directors
+instructed the company and its advisors to continue their efforts.

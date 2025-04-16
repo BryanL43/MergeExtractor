@@ -47,7 +47,7 @@ class AnalysisAssistant(Assistant):
                             "properties": {
                                 "initiator": {
                                     "type": "string",
-                                    "description": "Who first proposed the merger."
+                                    "description": "Which company first proposed the merger. This could be mutual."
                                 },
                                 "date_of_initiation": {
                                     "type": "string",
@@ -105,16 +105,28 @@ class AnalysisAssistant(Assistant):
             assistant_id=self._assistant_id
         );
 
-        # TO DO: Fix syncing
+        # TO DO: OUTPUT EXCEEDING 1 LINE CAUSES OVERFLOW IN CSV
 
-        # Extract the json object from the function in a hacky manner.
-        # This avoids openai messy APIs.
         result = None;
-        for tool in run.required_action.submit_tool_outputs.tool_calls:
-            if tool.function.name == "summarization_reporting":
-                result = json.loads(tool.function.arguments);
-                break;
-        
+        # Sync case 1: run is completed, no action required to decouple the result
+        if run.status == "completed":
+            messages = self._client.beta.threads.messages.list(thread_id=thread.id);
+            for message in messages.data:
+                for content_block in message.content:
+                    if content_block.type == "text":
+                        result = json.loads(content_block.text.value);
+                        break;
+                
+                # Early break out
+                if result is not None:
+                    break;
+        # Sync case 2: run requires action but is actually completed. Requires an hacky workaround to openai API.
+        elif run.status == "requires_action":
+            for tool in run.required_action.submit_tool_outputs.tool_calls:
+                if tool.function.name == "summarization_reporting":
+                    result = json.loads(tool.function.arguments);
+                    break;
+
         self._client.beta.threads.delete(thread_id=thread.id);
 
         return result;

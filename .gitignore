@@ -170,8 +170,9 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Environment Directory
-MergeExtractorEnv/
-
+# Runtime Environment
 assistantData.json
 merge_extractor_temp/
+
+# Profiler Output
+profile_output.txt

@@ -5,6 +5,8 @@ import csv
 import sys
 from spacy.language import Language
 from openai import OpenAI
+from sentence_transformers import CrossEncoder
+import traceback
 
 from AnalysisAssistant import AnalysisAssistant
 from Logger import Logger
@@ -19,6 +21,7 @@ class InitiatorClassifier:
             start_phrases: list[str],
             thread_pool: ThreadPoolExecutor, 
             nlp: Language, 
+            reranker_model: CrossEncoder,
             assistant: AnalysisAssistant
         ):
         self.client = OpenAI(api_key=api_key);
@@ -27,10 +30,11 @@ class InitiatorClassifier:
         self.start_phrases = start_phrases;
         self.thread_pool = thread_pool;
         self.nlp = nlp;
+        self.reranker_model = reranker_model;
         self.assistant = assistant;
     
         # Instantiate the ChunkProcessor to locate relevant chunk
-        self._chunk_processor = ChunkProcessor(self.nlp, self.client, self.thread_pool);
+        self._chunk_processor = ChunkProcessor(self.nlp, self.reranker_model, self.client, self.thread_pool);
     
     def __write_result(self, main_index: int, result: dict):
         file_exists = os.path.isfile("outputUnion.csv");
@@ -84,6 +88,12 @@ class InitiatorClassifier:
             if not os.path.isfile(file_path):
                 print("Skipping: Document does not exist...");
                 continue;
+            
+            # Check if the extracted file exists
+            extracted_path = f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt";
+            if os.path.isfile(extracted_path):
+                print("Skipping: Already processed and extracted...");
+                continue;
         
             with open(file_path, "r", encoding="utf-8") as file:
                 text = file.read();
@@ -94,19 +104,20 @@ class InitiatorClassifier:
                     print("FATAL: Failed to locate a background chunk for index: ", main_index, "; Companies: ", self.company_A_list[main_index], " & ", self.company_B_list[main_index]);
                     sys.exit(1);
                 
-                section_passage = self._chunk_processor.getSectionPassage(chunks, approx_chunks, self.start_phrases, company_names);
+                # Acquire ranked chunks according the the "Background" section
+                section_passage = self._chunk_processor.getSectionPassage(chunks, approx_chunks, company_names);
                 if section_passage is None:
                     print("FATAL: Failed to acquire a section passage for index: ", main_index, "; Companies: ", self.company_A_list[main_index], " & ", self.company_B_list[main_index]);
                     sys.exit(1);
                 
                 # Write the section passage for debugging
-                section_file_path = f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt";
-                with open(section_file_path, "w", encoding="utf-8") as file:
+                with open(extracted_path, "w", encoding="utf-8") as file:
                     file.write(section_passage);
             
-                result = self.assistant.analyzeDocument(section_passage);
-                self.__write_result(main_index, result);
+                # result = self.assistant.analyzeDocument(section_passage);
+                # self.__write_result(main_index, result);
                 
             except Exception as e:
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error: {e}");
+                Logger.logMessage(f"[-] Error: {e}");
+                Logger.logMessage(traceback.format_exc(), time_stamp=False);
                 sys.exit(1);

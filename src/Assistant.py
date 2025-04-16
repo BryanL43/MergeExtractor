@@ -1,7 +1,6 @@
 from openai import OpenAI
 import json
 import os
-import sys
 
 class Assistant:
     def __init__(
@@ -69,10 +68,10 @@ class Assistant:
             API doesn't specify how to acquire a specific one, so I'm just flushing it out.
             This saves on any additional storage costs.
         """
-        vector_stores = self._client.beta.vector_stores.list();
+        vector_stores = self._client.vector_stores.list();
         for vector in vector_stores.data:
             if vector.status != "expired":
-                self._client.beta.vector_stores.delete(vector_store_id=str(vector.id));
+                self._client.vector_stores.delete(vector_store_id=str(vector.id));
 
     def deleteAssistant(self):
         """Deletes the assistant and updates JSON file"""

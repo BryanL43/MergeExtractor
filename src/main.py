@@ -3,11 +3,13 @@ from dotenv import load_dotenv
 import os
 import spacy
 from concurrent.futures import ThreadPoolExecutor
+from sentence_transformers import CrossEncoder
 
 from BackupAssistant import BackupAssistant
 from AnalysisAssistant import AnalysisAssistant
 from Crawler import Crawler
 from InitiatorClassifier import InitiatorClassifier
+from RateLimiter import RateLimiter
 
 # Config variables
 MAX_NUM_OF_THREADS = min(32, os.cpu_count() + 4); # From docs
@@ -24,6 +26,7 @@ def main():
         raise RuntimeError("OPENAI_API_KEY not found in .env file.");
 
     nlp = spacy.load("en_core_web_sm");
+    reranker_model = CrossEncoder("BAAI/bge-reranker-v2-m3");
 
     # Read the CSV file and extract the date & both merging companies (index base)
     filed_date = pd.read_csv(CSV_FILE, header=None).iloc[:, 1].tolist();
@@ -64,17 +67,38 @@ def main():
 
     # Instantiating the shared thread pool for shared usage and automatic handling
     thread_pool = ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS);
+
+    # Rate limiter (SEC EDGAR only allows 10 requests per second)
+    rate_limiter = RateLimiter(max_calls_per_sec=9);
     
     backup_assistant = BackupAssistant(openai_api_key, "Backup Assistant", "gpt-4o-mini");
 
-    crawler = Crawler(filed_date, company_A_list, company_B_list, start_phrases, thread_pool, nlp, backup_assistant);
-    crawler.runCrawler(index=192, date_margin=4);
+    crawler = Crawler(
+        filed_date, 
+        company_A_list, 
+        company_B_list, 
+        start_phrases, 
+        thread_pool, 
+        nlp, 
+        backup_assistant, 
+        rate_limiter
+    );
+    crawler.runCrawler(index=19, date_margin=4);
     # crawler.runCrawler(start_index=0, end_index=49, date_margin=4);
 
-    analysisAssistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
+    analysis_assistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
 
-    initiatorClassifier = InitiatorClassifier(openai_api_key, company_A_list, company_B_list, start_phrases, thread_pool, nlp, analysisAssistant);
-    # initiatorClassifier.findInitiator(index=91);
+    # initiatorClassifier = InitiatorClassifier(
+    #     openai_api_key, 
+    #     company_A_list, 
+    #     company_B_list, 
+    #     start_phrases, 
+    #     thread_pool, 
+    #     nlp, 
+    #     reranker_model, 
+    #     analysis_assistant
+    # );
+    # initiatorClassifier.findInitiator(index=11);
     # initiatorClassifier.findInitiator(start_index=0, end_index=49);
 
     thread_pool.shutdown(wait=True);
@@ -82,7 +106,7 @@ def main():
     if DELETE_ASSISTANT_MODE:
         print("Deleting assistants...");
         backup_assistant.deleteAssistant();
-        initiatorClassifier.deleteAssistant();
+        analysis_assistant.deleteAssistant();
 
 
 if __name__ == "__main__":

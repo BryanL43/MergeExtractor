@@ -3,17 +3,18 @@ import re
 import requests
 import sys
 from concurrent.futures import ThreadPoolExecutor
-from fuzzywuzzy import fuzz
+from rapidfuzz import fuzz
 import csv
 from tqdm import tqdm
 import time
 import gc
 from spacy.language import Language
+import os
 
 from Logger import Logger
 from BackupAssistant import BackupAssistant
 from Processor import Processor
-# from Document import Document
+from RateLimiter import RateLimiter
 
 class Crawler:
     def __init__(
@@ -24,7 +25,8 @@ class Crawler:
             start_phrases: list[str],
             thread_pool: ThreadPoolExecutor,
             nlp: Language,
-            assistant: BackupAssistant
+            assistant: BackupAssistant,
+            rate_limiter: RateLimiter
         ):
         
         self.filed_date = filed_date;
@@ -34,11 +36,16 @@ class Crawler:
         self.thread_pool = thread_pool;
         self.nlp = nlp;
         self.assistant = assistant;
+        self.rate_limiter = rate_limiter;
 
         self.__form_types = ["PREM14A", "S-4", "SC 14D9", "SC TO-T"];
 
         # Instantiate the Processor to clean & analzye documents
-        self._processor = Processor(self.assistant, self.nlp, self.start_phrases, self.thread_pool);
+        self._processor = Processor(self.assistant, self.nlp, self.start_phrases, self.thread_pool, self.rate_limiter);
+    
+    def _rate_limited_get(self, url, headers):
+        self.rate_limiter.wait();
+        return requests.get(url, headers=headers);
 
     # Acquire the constraint of a given date.
     # Pad 2 months backward and forward for constraint.
@@ -144,7 +151,7 @@ class Crawler:
         }
 
         # Request the search query & acquire the DOM elements
-        response = requests.get(url, headers=headers);
+        response = self._rate_limited_get(url, headers=headers);
         if (response.status_code != 200):
             print("FATAL: getDocumentJson response yielded an error!");
             sys.exit(response.status_code);
@@ -237,7 +244,8 @@ class Crawler:
 
         # Fetch the json data for each CIK
         if len(urls) == 1: # Case: Single URL; no threads required
-            response = requests.get(urls[0], headers=headers);
+            self.rate_limiter.wait();
+            response = self._rate_limited_get(urls[0], headers=headers);
             if (response.status_code != 200):
                 print("FATAL: getDocumentJson response yielded an error!");
                 sys.exit(response.status_code);
@@ -245,7 +253,7 @@ class Crawler:
             result = response.json();
             merged_hits = result["hits"]["hits"] if result and "hits" in result and "hits" in result["hits"] else [];
         else: # Case: Multiple URLs; use threads for concurrent fetching
-            results = list(self.thread_pool.map(lambda url: requests.get(url, headers=headers), urls));
+            results = list(self.thread_pool.map(lambda url: self._rate_limited_get(url, headers), urls))
             
             # Merge the results into a single list
             merged_hits = [];
@@ -311,7 +319,7 @@ class Crawler:
         }
 
         # Fetch the json data for each company using threads for concurrent fetching
-        results = list(self.thread_pool.map(lambda url: requests.get(url, headers=headers), urls));
+        results = list(self.thread_pool.map(lambda url: self._rate_limited_get(url, headers), urls));
         
         # Merge the results into a single list
         merged_hits = [];
@@ -364,7 +372,7 @@ class Crawler:
                     source_links.append(url)
                 
             except KeyError as e:
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Missing key in document: {e}, result: {document}");
+                Logger.logMessage(f"[-] Missing key in document: {e}, result: {document}");
                 continue; # Skip the document if there is a missing key; logged for further investigation
 
         return source_links;
@@ -391,7 +399,7 @@ class Crawler:
                         [main_index, self.filed_date[main_index], self.company_A_list[main_index], self.company_B_list[main_index], url]
                     );
                 except Exception as e:
-                    Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] Error writing to output for index {main_index}: {e}");
+                    Logger.logMessage(f"[-] Error writing to output for index {main_index}: {e}");
 
     def __resetResources(self):
         """Garbage collection"""
@@ -440,6 +448,19 @@ class Crawler:
         ):
             print("Processing index: ", main_index, "; Companies: ", self.company_A_list[main_index], " & ", self.company_B_list[main_index]);
 
+            # Construct document file name & construct the folder constraint
+            company_names = [self.company_A_list[main_index], self.company_B_list[main_index]];
+            format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
+
+            batch_start = (main_index // 100) * 100;
+            batch_end = batch_start + 99;
+            
+            # Check if the file exists
+            file_path = f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt";
+            if os.path.isfile(file_path):
+                print("Skipping: Document already exist exist...");
+                continue;
+
             # Construct the constraint of a given date & prep for url-parsing
             kwargs = {'date': self.filed_date[main_index]};
             if date_margin is not None:
@@ -458,7 +479,7 @@ class Crawler:
 
             # No documents found for our 2 companies
             if (results == None):
-                Logger.logMessage(f"[{Logger.get_current_timestamp()}] [-] No document found for: {self.company_A_list[main_index]} & {self.company_B_list[main_index]}");
+                Logger.logMessage(f"[-] No document found for: {self.company_A_list[main_index]} & {self.company_B_list[main_index]}");
                 self.__resetResources();
                 continue;
             
@@ -468,9 +489,19 @@ class Crawler:
             # Filter the documents and keep the ones with the existence of both company names
             company_names = [self.company_A_list[main_index], self.company_B_list[main_index]];
             documents = self._processor.getDocuments(source_links, company_names);
+
+            # Retry if no documents found and any company name has a hyphen (Edge case)
+            if not documents and any("-" in name for name in company_names):
+                modified_names = [
+                    name.replace('-', ' ') if '-' in name else name
+                    for name in company_names
+                ];
+                documents = self._processor.getDocuments(source_links, modified_names);
+
+            # No documents found, including the edge case
             if not documents:
                 Logger.logMessage(
-                    f"[{Logger.get_current_timestamp()}] [-] No relevant document found for index {main_index}: {self.company_A_list[main_index]} & {self.company_B_list[main_index]}"
+                    f"[-] No relevant document found for index {main_index}: {self.company_A_list[main_index]} & {self.company_B_list[main_index]}"
                 );
                 self.__resetResources();
                 continue;
@@ -481,11 +512,11 @@ class Crawler:
             doc_url = self._processor.locateDocument(documents, company_names, main_index);
             if doc_url is None:
                 Logger.logMessage(
-                    f"[{Logger.get_current_timestamp()}] [-] Confirmed no background section found for index {main_index}: {company_names[0]} & {company_names[1]}."
+                    f"[-] Confirmed no background section found for index {main_index}: {company_names[0]} & {company_names[1]}."
                 );
-                Logger.logMessage(f"\tDumping its document links:");
+                Logger.logMessage(f"\tDumping its document links:", time_stamp=False);
                 for doc in documents:
-                    Logger.logMessage(f"\t\t{doc.getUrl()}");
+                    Logger.logMessage(f"\t\t{doc.getUrl()}", time_stamp=False);
                 self.__resetResources();
                 continue;
             
