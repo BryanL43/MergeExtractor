@@ -15,7 +15,7 @@ from spacy.language import Language
 from BackupAssistant import BackupAssistant
 from Logger import Logger
 from Document import Document
-from ChunkProcessor import ChunkProcessor
+# from ChunkProcessor import ChunkProcessor
 from RateLimiter import RateLimiter
 
 TEMP_DIRECTORY = "merge_extractor_temp";
@@ -25,28 +25,11 @@ TEMP_DIRECTORY = "merge_extractor_temp";
         - Cleaning the data
         - Verifying the existence of both companies are present
         - Extracting the background section
+    - Static methods to accomodate multiprocessing task
 """
 class Processor:
-    def __init__(
-            self, 
-            assistant: BackupAssistant, 
-            nlp: Language, 
-            start_phrases: list[str], 
-            thread_pool: ThreadPoolExecutor,
-            rate_limiter: RateLimiter
-        ):
-
-        self.assistant = assistant;
-        self.nlp = nlp;
-        self.start_phrases = start_phrases;
-        self.thread_pool = thread_pool;
-        self.rate_limiter = rate_limiter;
-    
-    def _rate_limited_get(self, url, headers):
-        self.rate_limiter.wait();
-        return requests.get(url, headers=headers);
-
-    def __extract_all_but_last_word(self, company_name: str) -> str:
+    @staticmethod
+    def extract_all_but_last_word(company_name: str) -> str:
         """
             Given a company name, drop the last word and merge domain-like terms.
 
@@ -81,7 +64,8 @@ class Processor:
 
         return " ".join(words);
 
-    def __load_file_from_url(self, url: str) -> str:
+    @staticmethod
+    def load_file_from_url(url: str, rate_limiter_resources: dict[str, any]) -> str:
         """
             Acquire the document's text from the given url.
 
@@ -89,6 +73,8 @@ class Processor:
             ----------
             url : str
                 The document source url.
+            rate_limiter_resources : dict[str, any]
+                Request wait limiter to stop flooding.
 
             Returns
             -------
@@ -101,14 +87,16 @@ class Processor:
             "Accept-Language": "en-US,en;q=0.9"
         }
 
-        response = self._rate_limited_get(url, headers);
+        RateLimiter.wait(rate_limiter_resources);
+        response = requests.get(url, headers=headers);
         if (response.text):
             return response.text;
         else:
             print(f"FATAL: Failed to load document via url. Err_Code: {response.status_code}");
             sys.exit(response.status_code);
-
-    def __preprocess_text(self, content: str) -> str:
+    
+    @staticmethod
+    def preprocess_text(content: str) -> str:
         """
             Initial document text sanitizing.
             Parse the content as utf-8, roughly remove page numbers, and remove large consecutive newlines.
@@ -144,7 +132,8 @@ class Processor:
 
         return text.strip();
 
-    def __normalize_text(self, text: str) -> str:
+    @staticmethod
+    def normalize_text(text: str) -> str:
         """
             Remove table of contents references and normalize the text
 
@@ -165,7 +154,8 @@ class Processor:
 
         return cleanedText.strip();
 
-    def __check_companies_in_document(self, url: str, company_names: list[str]) -> tuple[str, bool]:
+    @staticmethod
+    def check_companies_in_document(url: str, company_names: list[str], rate_limiter_resources: dict[str, any]) -> tuple[str, bool]:
         """
             Validate the presence of both companys' name in the document.
 
@@ -175,6 +165,8 @@ class Processor:
                 The document source url.
             company_names : list[str]
                 The list of sanitized company names.
+            rate_limiter_resources : dict[str, any]
+                Request wait limiter to stop flooding.
 
             Returns
             -------
@@ -183,11 +175,11 @@ class Processor:
         """
         # Open the url and acquire the document content.
         # Error = Fatal, force exit from load function.
-        raw_text = self.__load_file_from_url(url);
+        raw_text = Processor.load_file_from_url(url, rate_limiter_resources);
 
         # Clean and truncate text
-        cleaned_text = self.__preprocess_text(raw_text);
-        cleaned_text = self.__normalize_text(cleaned_text);
+        cleaned_text = Processor.preprocess_text(raw_text);
+        cleaned_text = Processor.normalize_text(cleaned_text);
         cleaned_text = cleaned_text[:450000]; # Reduce data load
 
         # Truncate to header to validate that we have the correct document
@@ -199,7 +191,13 @@ class Processor:
         # Return the cleanedText if both company names are found, else False
         return cleaned_text, len(found_companies) == len(company_names);
 
-    def getDocuments(self, source_links: list[str], company_names: list[str]) -> list[Document]:
+    @staticmethod
+    def getDocuments(
+        source_links: list[str], 
+        company_names: list[str],
+        max_num_of_threads: int,
+        rate_limiter_resources: dict[str, any] 
+    ) -> list[Document]:
         """
             Acquire the document's text content from the source urls
             and validate the existence of both companies.
@@ -210,6 +208,10 @@ class Processor:
                 The list of documents source url.
             company_names : list[str]
                 The list of company names.
+            max_num_of_threads : int
+                The defined maximum number of threads per thread pool.
+            rate_limiter_resources : dict[str, any]
+                Request wait limiter to stop flooding.
 
             Returns
             -------
@@ -217,245 +219,27 @@ class Processor:
                 The list of document objects that contains the url and processed text content.
         """
         # Acquire company name's first word
-        company_names_cut = [self.__extract_all_but_last_word(name).lower() for name in company_names];
+        company_names_cut = [Processor.extract_all_but_last_word(name).lower() for name in company_names];
 
         # Create multiple threads to open & verify document
-        futures = {
-            self.thread_pool.submit(self.__check_companies_in_document, url, company_names_cut):
-            url for url in source_links
-        };
+        with ThreadPoolExecutor(max_workers=max_num_of_threads) as thread_pool:
+            futures = {
+                thread_pool.submit(Processor.check_companies_in_document, url, company_names_cut, rate_limiter_resources): url
+                for url in source_links
+            };
 
-        # Wait to fix race conditions causing no results for ones that should have results
-        wait([future for future in futures], return_when=ALL_COMPLETED);
+            # Wait to fix race conditions causing no results for ones that should have results
+            wait([future for future in futures], return_when=ALL_COMPLETED);
 
-        # Wait for thread to finish processing and create new Document object
-        documents = [];
-        for future in as_completed(futures):
-            url = futures[future];
-            try:
-                cleaned_text, both_found = future.result();
-                if both_found:
-                    documents.append(Document(url, cleaned_text));
-            except Exception as e:
-                Logger.logMessage(f"[-] Error retrieving document for URL {url}: {e}");
+            # Wait for thread to finish processing and create new Document object
+            documents = [];
+            for future in as_completed(futures):
+                url = futures[future];
+                try:
+                    cleaned_text, both_found = future.result();
+                    if both_found:
+                        documents.append(Document(url, cleaned_text));
+                except Exception as e:
+                    Logger.logMessage(f"[-] Error retrieving document for URL {url}: {e}");
 
         return documents;
-
-    def __fallback_check(self, documents: list[Document], company_names: list[str], main_index: int) -> (str | None):
-        # Create temp directory for creating temp file acceptable by openai
-        os.makedirs(TEMP_DIRECTORY, exist_ok=True);
-        file_doc_pairs = [];
-
-        # Create the temp files
-        for doc in documents:
-            file_path = os.path.join(TEMP_DIRECTORY, f"merge_extractor_temp_{random.randint(1000, 99999)}.txt");
-            with open(file_path, "w", encoding="utf-8") as file:
-                file.write(doc.getContent());
-                file.flush();
-            
-            # Wait for the file to be created; prevent race condition
-            while not os.path.exists(file_path):
-                time.sleep(0.1);
-            
-            file_doc_pairs.append((file_path, doc));
-
-        # Parallely process the documents via openai
-        futures = [
-            self.thread_pool.submit(
-                lambda pair: (self.assistant.analyzeDocument(pair[0]), pair[1]), # Returns tuple of (result, doc) 
-                pair
-            ) for pair in file_doc_pairs
-        ];
-
-        section_found = Event(); # Tracks first section discovery
-        fallback_result = None;
-
-        # Process the futures as they complete; terminates the moment the first result is found
-        for future in as_completed(futures):
-            if section_found.is_set():
-                future.cancel();
-                continue;
-        
-            try:
-                result, doc = future.result();
-                if result is None:
-                    continue;
-
-                # Process the result message
-                match = re.search(r"\[(.*?)\]", result);
-                foundSection = match.group(1) if match else "unknown";
-
-                if foundSection == "Found":
-                    section_found.set();  # Signal that a section has been found
-                    fallback_result = doc;
-                    break;
-            except Exception as e:
-                Logger.logMessage(f"[-] Error processing fallback future: {e}");
-        
-        # Terminate all remaining futures
-        if section_found.is_set():
-            for f in futures:
-                f.cancel();
-        
-        if fallback_result:
-            # Write the data to a file
-            format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
-            batchStart = (main_index // 100) * 100;
-            batchEnd = batchStart + 99;
-            with open(f"./DataSet/{batchStart}-{batchEnd}/{format_doc_name}.txt", "w", encoding="utf-8") as file:
-                file.write(f"URL: {fallback_result.getUrl()}\n\n");
-                file.write(fallback_result.getContent());
-            
-            # Delete the temp directory
-            if os.path.exists(TEMP_DIRECTORY):
-                time.sleep(0.5);
-                shutil.rmtree(TEMP_DIRECTORY);
-
-            Logger.logMessage(f"[+] Retry attempt successfully created document for: {company_names[0]} & {company_names[1]}");
-            return fallback_result.getUrl();
-    
-        # Delete the temp directory
-        if os.path.exists(TEMP_DIRECTORY):
-            time.sleep(0.5);
-            shutil.rmtree(TEMP_DIRECTORY);
-        
-        return None;
-
-    @staticmethod
-    def process_document(
-        doc: Document, 
-        company_names: list[str], 
-        main_index: int, 
-        start_phrases: list, 
-        found_data: bool, 
-        nlp_model: str, 
-        lock: any
-    ) -> str | None:
-        """
-            Process a single document to locate 'Background of the Merger' section and write it to a file.
-
-            Parameters
-            ----------
-            doc : Document
-                The document object containing the url and its content.
-            company_names : list[str]
-                The list of company names.
-            main_index : int
-                The current index of the data we are processing.
-            start_phrases: list[str]
-                The list of title variations for 'Background of the Merger' section.
-            found_data : bool
-                State that tracks whether we have located a document with the 'Background of the Merger' section.
-            nlp_model : str
-                The nlp model's name that'll be instantiated seperately for multi-processing.
-            lock : Lock
-                The lock that only permits one final result.
-
-            Returns
-            -------
-            str
-                The document url that contains the 'Background of the Merger' section.
-        """
-        try:
-            _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), [phrase for phrase in start_phrases if phrase != "Background"], nlp_model);
-            if len(approx_chunks) == 0: # Fallback with lower confidence in accuracy
-                _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], nlp_model);
-
-            if len(approx_chunks) > 0:
-                if found_data.value: # Prevent race condition
-                    return None;
-            
-                with lock:
-                    if not found_data.value:
-                        found_data.value = True;
-                        time.sleep(1);
-
-                        # Write the found document with the 'Background' section into a new file
-                        format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
-                        batch_start = (main_index // 100) * 100;
-                        batch_end = batch_start + 99;
-                        with open(f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt", "w", encoding="utf-8") as file:
-                            file.write(f"URL: {doc.getUrl()}\n\n");
-                            file.write(doc.getContent());
-
-                        Logger.logMessage(f"[+] Successfully created document for: {company_names[0]} & {company_names[1]}");
-                        return doc.getUrl();
-        except (CancelledError, EOFError, FileNotFoundError):
-            # Ignore these errors since they occur when processes are being stopped, results can be discarded
-            return None;
-        except Exception as e:
-            Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
-        
-        return None;
-
-    def locateDocument(self, documents: list[Document], company_names: list[str], main_index: int) -> str | None:
-        """
-            Acquires the document with the 'Background of the Merger' section and returns its url.
-
-            Parameters
-            ----------
-            documents : list[Document]
-                The list of document object containing the url and its content.
-            company_names : list[str]
-                The list of company names.
-            main_index : int
-                The current index of the data we are processing.
-
-            Returns
-            -------
-            str
-                The document url that contains the 'Background of the Merger' section.
-        """
-        start_phrases = self.start_phrases; # extracted for multi-process safety
-        
-        # Extract nlp model name as multi-processing requires a seperate instaniation
-        nlp_model = self.nlp.meta["lang"] + "_" + self.nlp.meta["name"];
-
-        # Handle processing with and without multi-processing
-        with Manager() as manager:
-            found_data = manager.Value("b", False); # Shared boolean to only allow 1 final result
-            lock = manager.Lock();
-
-            # If only one document, process it directly without multiprocessing
-            if len(documents) == 1:
-                try:
-                    return Processor.process_document(
-                        documents[0], company_names, main_index, start_phrases, found_data, nlp_model, lock
-                    );
-                except Exception as e:
-                    Logger.logMessage(f"[-] Error processing {documents[0].getUrl()}: {e}");
-                    return None;
-
-            # Locate valid document with the 'Background of the Merger' section via multi-processing
-            with ProcessPoolExecutor(mp_context=get_context("spawn")) as executor:
-                futures = {
-                    executor.submit(
-                        Processor.process_document, doc, company_names, main_index, start_phrases, found_data, nlp_model, lock
-                    ): doc
-                    for doc in documents
-                };
-
-                # Catches the process_document results on the fly and validate result
-                for future in as_completed(futures):
-                    try:
-                        doc_url = future.result();
-                        if doc_url:
-                            # Cancel remaining processes and force termination
-                            executor.shutdown(wait=False, cancel_futures=True);
-                            return doc_url;
-                    except Exception as e:
-                        if isinstance(e, (CancelledError, EOFError)):
-                            continue;
-                        doc = futures[future];
-                        Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
-        
-        # Fallback method if fuzzy fails. We will use openai to determine if the background section is within any of the documents
-        Logger.logMessage(
-            f"[*] No background section found for index {main_index}: {company_names[0]} & {company_names[1]}. Retrying via fallback..."
-        );
-
-        fallback_result = self.__fallback_check(documents, company_names, main_index);
-        if fallback_result is None:
-            return None;
-    
-        return fallback_result;

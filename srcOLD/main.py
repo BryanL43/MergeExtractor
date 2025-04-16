@@ -8,11 +8,11 @@ from sentence_transformers import CrossEncoder
 from BackupAssistant import BackupAssistant
 from AnalysisAssistant import AnalysisAssistant
 from Crawler import Crawler
-# from InitiatorClassifier import InitiatorClassifier
+from InitiatorClassifier import InitiatorClassifier
+from RateLimiter import RateLimiter
 
 # Config variables
 MAX_NUM_OF_THREADS = min(32, os.cpu_count() + 4); # From docs
-NLP_MODEL = "en_core_web_sm";
 DELETE_ASSISTANT_MODE = False;
 CSV_FILE = "./truncatedData.csv";
 
@@ -24,11 +24,12 @@ def main():
     openai_api_key = os.getenv("OPENAI_API_KEY");
     if not openai_api_key:
         raise RuntimeError("OPENAI_API_KEY not found in .env file.");
-    
+
+    nlp = spacy.load("en_core_web_sm");
     reranker_model = CrossEncoder("BAAI/bge-reranker-v2-m3");
 
     # Read the CSV file and extract the date & both merging companies (index base)
-    announcement_date = pd.read_csv(CSV_FILE, header=None).iloc[:, 1].tolist();
+    filed_date = pd.read_csv(CSV_FILE, header=None).iloc[:, 1].tolist();
     company_A_list = pd.read_csv(CSV_FILE, header=None).iloc[:, 2].tolist();
     company_B_list = pd.read_csv(CSV_FILE, header=None).iloc[:, 3].tolist();
 
@@ -63,20 +64,27 @@ def main():
         "Background of the Proposed Transaction",
         "Background"
     ];
+
+    # Instantiating the shared thread pool for shared usage and automatic handling
+    thread_pool = ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS);
+
+    # Rate limiter (SEC EDGAR only allows 10 requests per second)
+    rate_limiter = RateLimiter(max_calls_per_sec=9);
     
     backup_assistant = BackupAssistant(openai_api_key, "Backup Assistant", "gpt-4o-mini");
 
     crawler = Crawler(
-        announcement_date, 
+        filed_date, 
         company_A_list, 
         company_B_list, 
         start_phrases, 
-        NLP_MODEL, 
-        MAX_NUM_OF_THREADS,
-        # backup_assistant, 
+        thread_pool, 
+        nlp, 
+        backup_assistant, 
+        rate_limiter
     );
-    # crawler.runCrawler(index=2, date_margin=4);
-    crawler.runCrawler(start_index=0, end_index=5, date_margin=4, batch_size=5);
+    crawler.runCrawler(index=19, date_margin=4);
+    # crawler.runCrawler(start_index=0, end_index=49, date_margin=4);
 
     analysis_assistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
 
@@ -92,6 +100,8 @@ def main():
     # );
     # initiatorClassifier.findInitiator(index=11);
     # initiatorClassifier.findInitiator(start_index=0, end_index=49);
+
+    thread_pool.shutdown(wait=True);
 
     if DELETE_ASSISTANT_MODE:
         print("Deleting assistants...");

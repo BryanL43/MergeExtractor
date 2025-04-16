@@ -56,3 +56,138 @@
 [2025-04-13 05:31:31] [+] Retry attempt successfully created document for: Millennium Chemicals Inc & Lyondell Chemical Co
 [2025-04-13 05:34:33] [+] Successfully created document for: Millennium Chemicals Inc & Lyondell Chemical Co
 [2025-04-13 05:38:08] [+] Successfully created document for: Buca Inc & Planet Hollywood International
+[2025-04-16 06:39:11] [-] Process failed with error: None
+[2025-04-16 06:45:08] [-] Process failed with error: None
+[2025-04-16 06:54:07] [-] Process failed with error: None
+[2025-04-16 06:55:38] [-] Process failed with error: None
+[2025-04-16 06:56:28] [-] Process failed with error: None
+[2025-04-16 06:57:51] [-] Process failed with error: None
+[2025-04-16 06:58:26] [-] Process failed with error: None
+[2025-04-16 07:01:33] [-] Process failed with error: None
+[2025-04-16 07:04:29] [-] Process failed with error: None
+[2025-04-16 07:08:30] [-] Process failed with error: None
+[2025-04-16 07:09:00] [-] Process failed with error: None
+[2025-04-16 07:09:38] [-] Process failed with error: None
+[2025-04-16 07:10:38] [-] Process failed with error: None
+[2025-04-16 07:11:26] [-] Process failed with error: None
+[2025-04-16 07:11:58] [-] Process failed with error: None
+[2025-04-16 07:13:08] [-] Process failed with error: None
+[2025-04-16 07:13:30] [-] Process failed with error: None
+[2025-04-16 07:14:29] [-] Process failed with error: None
+[2025-04-16 07:17:48] [-] Process failed with error: None
+[2025-04-16 07:20:39] [-] Process failed with error: None
+[2025-04-16 07:21:34] [-] Process failed with error: None
+[2025-04-16 07:22:38] [-] Process failed with error: None
+[2025-04-16 07:23:28] [-] Process failed with error: None
+[2025-04-16 07:24:38] [-] Process failed with error: None
+[2025-04-16 07:25:51] [-] Process failed with error: None
+[2025-04-16 07:54:15] [-] No document found for: Fritz Cos Inc & United Parcel Service Inc
+[2025-04-16 07:54:50] [-] No document found for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-04-16 07:54:51] [-] No document found for: Fritz Cos Inc & United Parcel Service Inc
+[2025-04-16 07:55:57] [-] No document found for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-04-16 07:55:57] [-] No document found for: Fritz Cos Inc & United Parcel Service Inc
+[2025-04-16 07:59:15] [-] No document found for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-04-16 08:00:15] [-] No document found for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-04-16 08:01:15] [-] No document found for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-04-16 08:02:55] [-] No document found for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-04-16 08:15:20] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\anaconda3\Lib\concurrent\futures\process.py", line 263, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Documents\Scripts\MergeExtractor\src\CrawlerSupport.py", line 421, in process_single_job
+    results = CrawlerSupport.get_cik_document_json(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Documents\Scripts\MergeExtractor\src\CrawlerSupport.py", line 209, in get_cik_document_json
+    cik_list = CrawlerSupport.get_ciks(search_company, pair_company, date_LB, date_UB, form_types, rate_limiter_resources);
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Documents\Scripts\MergeExtractor\src\CrawlerSupport.py", line 137, in get_ciks
+    response = CrawlerSupport.rate_limited_get(url, any, rate_limiter_resources)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Documents\Scripts\MergeExtractor\src\CrawlerSupport.py", line 33, in rate_limited_get
+    response = requests.get(url, headers=headers);
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\sessions.py", line 484, in prepare_request
+    p.prepare(
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\models.py", line 368, in prepare
+    self.prepare_headers(headers)
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\models.py", line 488, in prepare_headers
+    for header in headers.items():
+                  ^^^^^^^^^^^^^
+AttributeError: 'builtin_function_or_method' object has no attribute 'items'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "e:\Documents\Scripts\MergeExtractor\src\Crawler.py", line 122, in runCrawler
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\anaconda3\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\anaconda3\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+AttributeError: 'builtin_function_or_method' object has no attribute 'items'
+
+[2025-04-16 08:16:15] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\anaconda3\Lib\concurrent\futures\process.py", line 263, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Documents\Scripts\MergeExtractor\src\CrawlerSupport.py", line 421, in process_single_job
+    results = CrawlerSupport.get_cik_document_json(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Documents\Scripts\MergeExtractor\src\CrawlerSupport.py", line 209, in get_cik_document_json
+    cik_list = CrawlerSupport.get_ciks(search_company, pair_company, date_LB, date_UB, form_types, rate_limiter_resources);
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Documents\Scripts\MergeExtractor\src\CrawlerSupport.py", line 137, in get_ciks
+    response = CrawlerSupport.rate_limited_get(url, any, rate_limiter_resources)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "e:\Documents\Scripts\MergeExtractor\src\CrawlerSupport.py", line 33, in rate_limited_get
+    response = requests.get(url, headers=headers);
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\sessions.py", line 575, in request
+    prep = self.prepare_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\sessions.py", line 484, in prepare_request
+    p.prepare(
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\models.py", line 368, in prepare
+    self.prepare_headers(headers)
+  File "E:\Documents\Scripts\MergeExtractor\venv\Lib\site-packages\requests\models.py", line 488, in prepare_headers
+    for header in headers.items():
+                  ^^^^^^^^^^^^^
+AttributeError: 'builtin_function_or_method' object has no attribute 'items'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "e:\Documents\Scripts\MergeExtractor\src\Crawler.py", line 122, in runCrawler
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\anaconda3\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\anaconda3\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+AttributeError: 'builtin_function_or_method' object has no attribute 'items'
+
+[2025-04-16 08:19:33] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
