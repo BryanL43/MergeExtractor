@@ -34,7 +34,6 @@ class Assistant:
             # Validate assistant existence
             try:
                 self._client.beta.assistants.retrieve(self._assistant_id);
-                print(f"Using existing Assistant: {self._name} (ID: {self._assistant_id})");
                 return;
             except Exception:
                 print(f"Assistant {self._name} found in JSON but does not exist. Creating a new one...");

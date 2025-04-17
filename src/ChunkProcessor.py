@@ -13,6 +13,7 @@ import sys
 from collections import Counter
 from sentence_transformers import CrossEncoder
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from sentence_transformers import CrossEncoder
 import time
 
 from Logger import Logger
@@ -20,20 +21,15 @@ from Logger import Logger
 QUERY_EMBEDDING_FILE = "./config/query_embedding.json";
 RERANK_QUERY_FILE = "./config/rerank_query.txt";
 BATCH_SIZE = 128; # Computing power specific. Tune for your device.
+EMBEDDING_MODEL = "text-embedding-3-small";
 
 class ChunkProcessor:
-    nlp: Language = None;
-    # Strict model else accuracy for abbreviation is impacted; isolated due to significant performance impact
-    _nlp_ent_model = spacy.load("en_core_web_lg");
-
-    def __init__(self, nlp: Language, reranker_model: CrossEncoder, client: OpenAI, thread_pool: ThreadPoolExecutor):
-        ChunkProcessor.nlp = nlp;
+    def __init__(self, reranker_model: CrossEncoder, client: OpenAI):
         self.reranker_model = reranker_model;
         self.client = client;
-        self.thread_pool = thread_pool;
 
     @staticmethod
-    def extract_chunks_with_dates(chunks: list[str], nlp: Language) -> list[tuple[int, str]]:
+    def extract_chunks_with_dates(chunks: list[str], nlp: Language, max_num_of_threads: int) -> list[tuple[int, str]]:
         # Subroutine speeds up runtime slightly
         def get_chunks_with_date(batch_chunks):
             docs = list(nlp.pipe(batch_chunks));
@@ -85,7 +81,7 @@ class ChunkProcessor:
         chunks_with_dates = [];
 
         # Using ThreadPoolExecutor to process chunks in parallel
-        with ThreadPoolExecutor() as executor:
+        with ThreadPoolExecutor(max_workers=max_num_of_threads) as executor:
             futures = [];
             for i in range(0, len(chunks), BATCH_SIZE):
                 batch = chunks[i:i + BATCH_SIZE];  # Create a batch of chunks
@@ -193,7 +189,7 @@ class ChunkProcessor:
         return not (toc_like_count >= 3 and paragraph_like_count < 3);
 
     @staticmethod
-    def _process_single_chunk(idx, chunk, start_phrases, nlp):
+    def __process_single_chunk(idx, chunk, start_phrases, nlp):
         found_start_phrase = ChunkProcessor.locate_chunk_header(chunk, start_phrases, nlp);
         if not found_start_phrase:
             return None;
@@ -226,14 +222,15 @@ class ChunkProcessor:
     def get_approx_chunks(
         chunks_with_dates: list[tuple[int, str]], 
         start_phrases: list[str], 
-        nlp: Language
+        nlp: Language,
+        max_num_of_threads: int
     ):
         
         approx_chunks = [];
-        with ThreadPoolExecutor() as executor:
+        with ThreadPoolExecutor(max_workers=max_num_of_threads) as executor:
             futures = [
                 executor.submit(
-                    lambda idx=idx, chunk=chunk: ChunkProcessor._process_single_chunk(idx, chunk, start_phrases, nlp),
+                    lambda idx=idx, chunk=chunk: ChunkProcessor.__process_single_chunk(idx, chunk, start_phrases, nlp),
                 )
                 for idx, chunk in chunks_with_dates
             ];
@@ -249,11 +246,12 @@ class ChunkProcessor:
     def locateBackgroundChunk(
         text: str, 
         start_phrases: list[str],
-        nlp_model: Language = None,
+        max_num_of_threads: int,
+        nlp_model: str,
         chunk_size: int = 2048, 
         chunk_overlap: int = 400, 
     ) -> list[tuple[int, str]] | None:
-        nlp = spacy.load(nlp_model) if isinstance(nlp_model, str) else nlp_model or ChunkProcessor.nlp;
+        nlp = spacy.load(nlp_model);
         if nlp is None:
             raise RuntimeError("ERROR: You did not pass a nlp model into ChunkProcessor.locateBackgroundChunk");
 
@@ -263,13 +261,13 @@ class ChunkProcessor:
         );
         chunks = text_splitter.split_text(text);
 
-        chunks_with_dates = ChunkProcessor.extract_chunks_with_dates(chunks, nlp);
+        chunks_with_dates = ChunkProcessor.extract_chunks_with_dates(chunks, nlp, max_num_of_threads);
         if len(chunks_with_dates) == 0:
             return None;
 
-        approx_chunks = ChunkProcessor.get_approx_chunks(chunks_with_dates, start_phrases, nlp);
+        approx_chunks = ChunkProcessor.get_approx_chunks(chunks_with_dates, start_phrases, nlp, max_num_of_threads);
         if len(approx_chunks) == 0: # Edge case where there is no date within the "Background" chunk; toss all the chunks
-            approx_chunks = ChunkProcessor.get_approx_chunks(list(enumerate(chunks)), start_phrases, nlp);
+            approx_chunks = ChunkProcessor.get_approx_chunks(list(enumerate(chunks)), start_phrases, nlp, max_num_of_threads);
 
         approx_chunks = sorted(approx_chunks);
         approx_chunks = [(idx, chunk) for idx, chunk in approx_chunks];
@@ -278,7 +276,7 @@ class ChunkProcessor:
 
     def __get_embedding(self, text: str) -> torch.Tensor:
         response = self.client.embeddings.create(
-            model="text-embedding-3-small",
+            model=EMBEDDING_MODEL,
             input=text
         );
         return torch.tensor(response.data[0].embedding, dtype=torch.float32);
@@ -300,7 +298,7 @@ class ChunkProcessor:
         
         return "\n".join(normalized_text);
 
-    def _find_definition_paragraph(self, chunks: list[str], org: str) -> (str | None):
+    def __find_definition_paragraph(self, chunks: list[str], org: str) -> (str | None):
         # Pattern to match the ORG in quotes within parentheses
         pattern = re.compile(r'\([^)]*?"{}"[^)]*?\)'.format(re.escape(org)), re.IGNORECASE);
         
@@ -313,28 +311,27 @@ class ChunkProcessor:
                 
         return None;
 
-    def _compute_cosine_similarity(self, approx_chunks: list[tuple[int, str]]) -> list[tuple[int, float, str]]:
+    def __compute_cosine_similarity(self, approx_chunks: list[tuple[int, str]], max_num_of_threads: int) -> list[tuple[int, float, str]]:
         # Load locally saved query embedding
         with open(QUERY_EMBEDDING_FILE, "r") as f:
             query_embedding = torch.tensor(json.load(f), dtype=torch.float32);
 
         # Create multiple threads to embed each chunk in parallel
-        futures = [];
-        for _, chunk in approx_chunks:
-            futures.append(self.thread_pool.submit(self.__get_embedding, chunk));
+        with ThreadPoolExecutor(max_workers=max_num_of_threads) as thread_pool:
+            futures = [thread_pool.submit(self.__get_embedding, chunk) for _, chunk in approx_chunks];
 
-        # Ensure all futures are completed before proceeding
-        wait(futures, return_when=ALL_COMPLETED);
+            # Wait for all futures to be completed before proceeding
+            wait(futures, return_when=ALL_COMPLETED);
 
-        # Compile the embeddings from the futures
-        chunk_embeddings = [];
-        for future in futures:
-            try:
-                embeddings = future.result();
-                chunk_embeddings.append(embeddings);
-            except Exception as e:
-                Logger.logMessage(f"[-] Error retrieving embeddings: {e}");
-                sys.exit(1);
+            # Compile the embeddings from the futures
+            chunk_embeddings = [];
+            for future in futures:
+                try:
+                    embeddings = future.result();
+                    chunk_embeddings.append(embeddings);
+                except Exception as e:
+                    Logger.logMessage(f"[-] Error retrieving embeddings: {e}");
+                    sys.exit(1);
         
         # Stack embeddings into a tensor
         chunk_embeddings = torch.stack(chunk_embeddings);
@@ -353,7 +350,7 @@ class ChunkProcessor:
 
         return [(approx_chunks[i][0], similarities[i].item(), approx_chunks[i][1]) for i in range(len(similarities))];
 
-    def _rerank_with_hybrid_score(
+    def __rerank_with_hybrid_score(
         self,
         final_chunks_sorted: list[tuple[int, float, str]]
     ) -> list[tuple[int, float, float, float, str]]:
@@ -363,7 +360,8 @@ class ChunkProcessor:
         
         pairs = [(rerank_query, chunk) for _, _, chunk in final_chunks_sorted];
         rerank_scores = self.reranker_model.predict(pairs, activation_fn=nn.Sigmoid()); # Sigmoid to map prob in the range of [0, 1]
-    
+
+        # Hybrid score weights
         COSINE_WEIGHT = 0.4;
         RERANK_WEIGHT = 0.6;
 
@@ -376,8 +374,11 @@ class ChunkProcessor:
         # Sort by hybrid score descending
         return sorted(hybrid_chunks, key=lambda x: x[1], reverse=True);
 
-    def _generate_abbreviation_definitions(self, passage: str, chunks: list[str], company_names: list[str]) -> str:
-        doc = ChunkProcessor._nlp_ent_model(passage);
+    def __generate_abbreviation_definitions(self, passage: str, chunks: list[str], company_names: list[str]) -> str:
+        # Strict model else accuracy for abbreviation is impacted; isolated due to significant performance impact
+        _nlp_ent_model = spacy.load("en_core_web_lg");
+        doc = _nlp_ent_model(passage);
+
         # Tracks the frequency of organization entities
         org_counter = Counter(ent.text for ent in doc.ents if ent.label_ == "ORG");
 
@@ -385,7 +386,7 @@ class ChunkProcessor:
         # These potential abbreviation may or may not be the expected result but it improves accuracy
         abbreviation_map = {};
         for org, _ in org_counter.most_common(5):
-            definition_paragraph = self._find_definition_paragraph(chunks, org);
+            definition_paragraph = self.__find_definition_paragraph(chunks, org);
             if definition_paragraph:
                 abbreviation_map.setdefault(definition_paragraph, []).append(org);
         
@@ -421,7 +422,8 @@ class ChunkProcessor:
         self, 
         chunks: list[str], 
         approx_chunks: list[tuple[int, str]], 
-        company_names: list[str]
+        company_names: list[str],
+        max_num_of_threads: int
     ):
         if not approx_chunks:
             return None;
@@ -430,8 +432,8 @@ class ChunkProcessor:
         if len(approx_chunks) == 1:
             index, beginning_chunk = approx_chunks[0];
         else: # Case 2: Multiple approximate chunks in list; use cosine similarity & reranker to rank chunks
-            final_chunks = self._compute_cosine_similarity(approx_chunks);
-            hybrid_chunks = self._rerank_with_hybrid_score(final_chunks);
+            final_chunks = self.__compute_cosine_similarity(approx_chunks, max_num_of_threads);
+            hybrid_chunks = self.__rerank_with_hybrid_score(final_chunks);
 
             if not hybrid_chunks:
                 return None;
@@ -458,4 +460,4 @@ class ChunkProcessor:
             return f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n" + passage;
 
         # If abbreviation defs are needed
-        return self._generate_abbreviation_definitions(passage, chunks, company_names);
+        return self.__generate_abbreviation_definitions(passage, chunks, company_names);

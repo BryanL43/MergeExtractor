@@ -1,25 +1,40 @@
 import time
-import threading
 
 class RateLimiter:
-    def __init__(self, max_calls_per_sec: int = 9):
-        self.max_calls = max_calls_per_sec;
-        self.lock = threading.Lock();
-        self.timestamps = [];
+    @staticmethod
+    def create_resources(manager, max_calls_per_sec=9):
+        """Create and return shared resources for rate limiting"""
+        timestamps = manager.list();  # Shared list for timestamps
 
-    def wait(self):
-        with self.lock:
-            current_time = time.time();
+        return {
+            'timestamps': timestamps,
+            'max_calls': max_calls_per_sec
+        };
 
-            # Remove timestamps older than 1 second
-            self.timestamps = [t for t in self.timestamps if current_time - t < 1];
+    @staticmethod
+    def wait(rate_limiter_resources):
+        """Wait if necessary to maintain the rate limit"""
+        timestamps = rate_limiter_resources['timestamps'];
+        max_calls = rate_limiter_resources['max_calls'];
+        
+        current_time = time.time();
+        
+        # Filter out old timestamps
+        valid_timestamps = [t for t in timestamps if current_time - t < 1];
+        
+        # Update the shared list with only valid timestamps
+        timestamps[:] = valid_timestamps;
+        
+        # Check if we need to wait
+        if len(timestamps) >= max_calls:
+            wait_time = 1 - (current_time - timestamps[0]);
+            if wait_time > 0:
+                # print(f"Rate limit triggered, waiting for {wait_time:.3f} seconds");
+                time.sleep(wait_time);
 
-            if len(self.timestamps) >= self.max_calls:
-                wait_time = 1 - (current_time - self.timestamps[0]);
-                if wait_time > 0:
-                    print("We have triggered rate limiter wait")
-                    time.sleep(wait_time);
+                # Recalculate after waiting
                 current_time = time.time();
-                self.timestamps = [t for t in self.timestamps if current_time - t < 1];
-
-            self.timestamps.append(time.time());
+                timestamps[:] = [t for t in timestamps if current_time - t < 1];
+        
+        # Add the current timestamp
+        timestamps.append(current_time);
