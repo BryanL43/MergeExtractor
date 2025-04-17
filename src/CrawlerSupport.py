@@ -1,6 +1,4 @@
 from concurrent.futures import ThreadPoolExecutor
-import multiprocessing
-from multiprocessing import get_context
 import os
 from datetime import datetime
 import sys
@@ -20,12 +18,6 @@ from Processor import Processor
     - Intermediator to multiprocessing tasks.
 """
 class CrawlerSupport:
-    @staticmethod
-    def resetResources():
-        """Garbage collection"""
-        gc.collect(); # CPU flush
-        time.sleep(2);
-    
     @staticmethod
     def rate_limited_get(url: str, headers: any, rate_limiter_resources: dict[str, any]):
         """Wrapper for GET request with rate limiting"""
@@ -380,18 +372,17 @@ class CrawlerSupport:
 
     @staticmethod
     def process_single_job(
-            job_data: tuple[int, str, str, str], 
-            date_margin: int,
-            form_types: list[str],
-            max_num_of_threads: int, 
-            # assistant: BackupAssistant,
-            nlp_model: str,
-            rate_limiter_resources: dict[str, any] 
-        ):
+        job_data: tuple[int, str, str, str], 
+        date_margin: int,
+        form_types: list[str],
+        start_phrases: list[str],
+        max_num_of_threads: int, 
+        assistant: BackupAssistant,
+        nlp_model: str,
+        rate_limiter_resources: dict[str, any] 
+    ):
         main_index, company_A, company_B, announcement_date = job_data;
         print("Processing index: ", main_index, "; Companies: ", company_A, " & ", company_B);
-
-        acquired_documents = []; # Stores all successfully located documents to write at the end
 
         # Construct document file name & construct the folder constraint
         company_names = [company_A, company_B];
@@ -441,7 +432,6 @@ class CrawlerSupport:
         # No documents found for our 2 companies
         if (results == None):
             Logger.logMessage(f"[-] No document found for: {company_A} & {company_B}");
-            CrawlerSupport.resetResources();
             return None;
     
         # Extract the source document links
@@ -464,9 +454,20 @@ class CrawlerSupport:
             Logger.logMessage(
                 f"[-] No relevant document found for index {main_index}: {company_A} & {company_B}"
             );
-            CrawlerSupport.resetResources();
             return None;
         
         print(f"Number of documents: {len(documents)}");
 
-        return;
+        # Acquire the specific document with the "Background of the Merger" section
+        doc_url = Processor.locateDocument(documents, company_names, main_index, start_phrases, nlp_model, max_num_of_threads, assistant);
+        if doc_url is None:
+            Logger.logMessage(
+                f"[-] Confirmed no background section found for index {main_index}: {company_names[0]} & {company_names[1]}."
+            );
+            Logger.logMessage(f"\tDumping its document links:", time_stamp=False);
+            for doc in documents:
+                Logger.logMessage(f"\t\t{doc.getUrl()}", time_stamp=False);
+            return None;
+        
+        # Save the document for writing at the end
+        return (main_index, doc_url);

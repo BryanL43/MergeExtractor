@@ -1,18 +1,16 @@
 import pandas as pd
 from dotenv import load_dotenv
 import os
-import spacy
-from concurrent.futures import ThreadPoolExecutor
-from sentence_transformers import CrossEncoder
 
 from BackupAssistant import BackupAssistant
 from AnalysisAssistant import AnalysisAssistant
 from Crawler import Crawler
-# from InitiatorClassifier import InitiatorClassifier
+from InitiatorClassifier import InitiatorClassifier
 
 # Config variables
 MAX_NUM_OF_THREADS = min(32, os.cpu_count() + 4); # From docs
 NLP_MODEL = "en_core_web_sm";
+RERANKER_MODEL = "BAAI/bge-reranker-v2-m3";
 DELETE_ASSISTANT_MODE = False;
 CSV_FILE = "./truncatedData.csv";
 
@@ -24,8 +22,6 @@ def main():
     openai_api_key = os.getenv("OPENAI_API_KEY");
     if not openai_api_key:
         raise RuntimeError("OPENAI_API_KEY not found in .env file.");
-    
-    reranker_model = CrossEncoder("BAAI/bge-reranker-v2-m3");
 
     # Read the CSV file and extract the date & both merging companies (index base)
     announcement_date = pd.read_csv(CSV_FILE, header=None).iloc[:, 1].tolist();
@@ -66,32 +62,32 @@ def main():
     
     backup_assistant = BackupAssistant(openai_api_key, "Backup Assistant", "gpt-4o-mini");
 
-    crawler = Crawler(
-        announcement_date, 
+    # crawler = Crawler(
+    #     announcement_date, 
+    #     company_A_list, 
+    #     company_B_list, 
+    #     start_phrases, 
+    #     NLP_MODEL, 
+    #     MAX_NUM_OF_THREADS,
+    #     backup_assistant, 
+    # );
+    # crawler.runCrawler(index=2, date_margin=4);
+    # crawler.runCrawler(start_index=0, end_index=4, date_margin=4, batch_size=5);
+
+    analysis_assistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
+
+    initiatorClassifier = InitiatorClassifier(
+        openai_api_key, 
         company_A_list, 
         company_B_list, 
         start_phrases, 
         NLP_MODEL, 
-        MAX_NUM_OF_THREADS,
-        # backup_assistant, 
+        MAX_NUM_OF_THREADS, 
+        RERANKER_MODEL, 
+        analysis_assistant
     );
-    # crawler.runCrawler(index=2, date_margin=4);
-    crawler.runCrawler(start_index=0, end_index=5, date_margin=4, batch_size=5);
-
-    analysis_assistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
-
-    # initiatorClassifier = InitiatorClassifier(
-    #     openai_api_key, 
-    #     company_A_list, 
-    #     company_B_list, 
-    #     start_phrases, 
-    #     thread_pool, 
-    #     nlp, 
-    #     reranker_model, 
-    #     analysis_assistant
-    # );
-    # initiatorClassifier.findInitiator(index=11);
-    # initiatorClassifier.findInitiator(start_index=0, end_index=49);
+    # initiatorClassifier.findInitiator(index=0);
+    initiatorClassifier.findInitiator(start_index=0, end_index=2, batch_size=3);
 
     if DELETE_ASSISTANT_MODE:
         print("Deleting assistants...");

@@ -1,5 +1,5 @@
 import re
-from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor, as_completed, wait, ALL_COMPLETED, CancelledError
+from concurrent.futures import ThreadPoolExecutor, as_completed, wait, ALL_COMPLETED, CancelledError
 from multiprocessing import Manager, get_context
 from threading import Event
 import sys
@@ -10,12 +10,11 @@ import random
 import time
 import unicodedata
 from lxml import etree
-from spacy.language import Language
 
 from BackupAssistant import BackupAssistant
 from Logger import Logger
 from Document import Document
-# from ChunkProcessor import ChunkProcessor
+from ChunkProcessor import ChunkProcessor
 from RateLimiter import RateLimiter
 
 TEMP_DIRECTORY = "merge_extractor_temp";
@@ -243,3 +242,241 @@ class Processor:
                     Logger.logMessage(f"[-] Error retrieving document for URL {url}: {e}");
 
         return documents;
+
+    @staticmethod
+    def process_document(
+        doc: Document, 
+        company_names: list[str], 
+        main_index: int, 
+        start_phrases: list, 
+        found_data: bool, 
+        nlp_model: str, 
+        lock: any,
+        max_num_of_threads: int
+    ) -> str | None:
+        """
+            Process a single document to locate 'Background of the Merger' section and write it to a file.
+
+            Parameters
+            ----------
+            doc : Document
+                The document object containing the url and its content.
+            company_names : list[str]
+                The list of company names.
+            main_index : int
+                The current index of the data we are processing.
+            start_phrases: list[str]
+                The list of title variations for 'Background of the Merger' section.
+            found_data : bool
+                State that tracks whether we have located a document with the 'Background of the Merger' section.
+            nlp_model : str
+                The nlp model's name that'll be instantiated seperately for multi-processing.
+            lock : Lock
+                The lock that only permits one final result.
+
+            Returns
+            -------
+            str
+                The document url that contains the 'Background of the Merger' section.
+        """
+        try:
+            _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), [phrase for phrase in start_phrases if phrase != "Background"], max_num_of_threads, nlp_model);
+            if len(approx_chunks) == 0: # Fallback with lower confidence in accuracy
+                _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], max_num_of_threads, nlp_model);
+
+            if len(approx_chunks) > 0:
+                if found_data.value: # Prevent race condition
+                    return None;
+            
+                with lock:
+                    if not found_data.value:
+                        found_data.value = True;
+                        time.sleep(1);
+
+                        # Write the found document with the 'Background' section into a new file
+                        format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
+                        batch_start = (main_index // 100) * 100;
+                        batch_end = batch_start + 99;
+                        with open(f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt", "w", encoding="utf-8") as file:
+                            file.write(f"URL: {doc.getUrl()}\n\n");
+                            file.write(doc.getContent());
+
+                        Logger.logMessage(f"[+] Successfully created document for: {company_names[0]} & {company_names[1]}");
+                        return doc.getUrl();
+        except (CancelledError, EOFError, FileNotFoundError):
+            # Ignore these errors since they occur when processes are being stopped, results can be discarded
+            return None;
+        except Exception as e:
+            Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
+        
+        return None;
+
+    @staticmethod
+    def fallback_check(
+        documents: list[Document], 
+        company_names: list[str], 
+        main_index: int, 
+        max_num_of_threads: int, 
+        assistant: BackupAssistant
+    ) -> (str | None):
+        # Create temp directory for creating temp file acceptable by openai
+        os.makedirs(TEMP_DIRECTORY, exist_ok=True);
+        file_doc_pairs = [];
+
+        # Create the temp files
+        for doc in documents:
+            file_path = os.path.join(TEMP_DIRECTORY, f"merge_extractor_temp_{random.randint(1000, 99999)}.txt");
+            with open(file_path, "w", encoding="utf-8") as file:
+                file.write(doc.getContent());
+                file.flush();
+            
+            # Wait for the file to be created; prevent race condition
+            while not os.path.exists(file_path):
+                time.sleep(0.1);
+            
+            file_doc_pairs.append((file_path, doc));
+
+        # Parallely process the documents via openai
+        with ThreadPoolExecutor(max_workers=max_num_of_threads) as thread_pool:
+            futures = [
+                thread_pool.submit(
+                    lambda pair: (assistant.analyzeDocument(pair[0]), pair[1]),  # Returns tuple of (result, doc)
+                    pair
+                ) for pair in file_doc_pairs
+            ]
+
+            section_found = Event();  # Tracks first section discovery
+            fallback_result = None;
+
+            # Process the futures as they complete; terminates the moment the first result is found
+            for future in as_completed(futures):
+                if section_found.is_set():
+                    future.cancel();
+                    continue;
+            
+                try:
+                    result, doc = future.result();
+                    if result is None:
+                        continue;
+
+                    # Process the result message
+                    match = re.search(r"\[(.*?)\]", result);
+                    foundSection = match.group(1) if match else "unknown";
+
+                    if foundSection == "Found":
+                        section_found.set();  # Signal that a section has been found
+                        fallback_result = doc;
+                        break;
+                except Exception as e:
+                    Logger.logMessage(f"[-] Error processing fallback future: {e}");
+
+            # Terminate all remaining futures
+            if section_found.is_set():
+                for f in futures:
+                    f.cancel();
+            
+            if fallback_result:
+                # Write the data to a file
+                format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
+                batchStart = (main_index // 100) * 100;
+                batchEnd = batchStart + 99;
+                with open(f"./DataSet/{batchStart}-{batchEnd}/{format_doc_name}.txt", "w", encoding="utf-8") as file:
+                    file.write(f"URL: {fallback_result.getUrl()}\n\n");
+                    file.write(fallback_result.getContent());
+                
+                # Delete the temp directory
+                if os.path.exists(TEMP_DIRECTORY):
+                    time.sleep(0.5);
+                    shutil.rmtree(TEMP_DIRECTORY);
+
+                Logger.logMessage(f"[+] Retry attempt successfully created document for: {company_names[0]} & {company_names[1]}");
+                return fallback_result.getUrl();
+
+        # Delete the temp directory
+        if os.path.exists(TEMP_DIRECTORY):
+            time.sleep(0.5);
+            shutil.rmtree(TEMP_DIRECTORY);
+        
+        return None;
+
+    @staticmethod
+    def locateDocument(
+        documents: list[Document], 
+        company_names: list[str], 
+        main_index: int, 
+        start_phrases: list[str], 
+        nlp_model: str,
+        max_num_of_threads: int,
+        assistant: BackupAssistant
+    ) -> str | None:
+        """
+            Acquires the document with the 'Background of the Merger' section and returns its url.
+
+            Parameters
+            ----------
+            documents : list[Document]
+                The list of document object containing the url and its content.
+            company_names : list[str]
+                The list of company names.
+            main_index : int
+                The current index of the data we are processing.
+            start_phrases: list[str]
+                The list of title variations for 'Background of the Merger' section.
+            nlp_model : str
+                The nlp model's name that'll be instantiated seperately for multi-processing.
+            max_num_of_threads : int
+                The defined maximum number of threads per thread pool.
+
+            Returns
+            -------
+            str
+                The document url that contains the 'Background of the Merger' section.
+        """
+        # Handle processing with and without multi-processing
+        with Manager() as manager:
+            found_data = manager.Value("b", False); # Shared boolean to only allow 1 final result
+            lock = manager.Lock();
+
+            # If only one document, process it directly without multiprocessing
+            if len(documents) == 1:
+                try:
+                    return Processor.process_document(
+                        documents[0], company_names, main_index, start_phrases, found_data, nlp_model, lock, max_num_of_threads
+                    );
+                except Exception as e:
+                    Logger.logMessage(f"[-] Error processing {documents[0].getUrl()}: {e}");
+                    return None;
+
+            # Locate valid document with the 'Background of the Merger' section via multi-processing
+            with ThreadPoolExecutor(max_workers=max_num_of_threads) as executor:
+                futures = {
+                    executor.submit(
+                        Processor.process_document, doc, company_names, main_index, start_phrases, found_data, nlp_model, lock, max_num_of_threads
+                    ): doc
+                    for doc in documents
+                };
+
+                # Catches the process_document results on the fly and validate result
+                for future in as_completed(futures):
+                    try:
+                        doc_url = future.result();
+                        if doc_url:
+                            # Cancel remaining processes and force termination
+                            executor.shutdown(wait=False, cancel_futures=True);
+                            return doc_url;
+                    except Exception as e:
+                        if isinstance(e, (CancelledError, EOFError)):
+                            continue;
+                        doc = futures[future];
+                        Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
+        
+        # Fallback method if fuzzy fails. We will use openai to determine if the background section is within any of the documents
+        Logger.logMessage(
+            f"[*] No background section found for index {main_index}: {company_names[0]} & {company_names[1]}. Retrying via fallback..."
+        );
+
+        fallback_result = Processor.fallback_check(documents, company_names, main_index, max_num_of_threads, assistant);
+        if fallback_result is None:
+            return None;
+    
+        return fallback_result;
