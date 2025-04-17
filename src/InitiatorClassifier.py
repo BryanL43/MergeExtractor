@@ -16,16 +16,15 @@ from ChunkProcessor import ChunkProcessor
 
 class InitiatorClassifier:
     def __init__(
-            self, 
-            api_key: str,
-            company_A_list: list[str], 
-            company_B_list: list[str], 
-            start_phrases: list[str],
-            nlp_model: str, 
-            max_num_of_threads: int, 
-            reranker_model: str,
-            assistant: AnalysisAssistant
-        ):
+        self, 
+        api_key: str,
+        company_A_list: list[str], 
+        company_B_list: list[str], 
+        start_phrases: list[str],
+        nlp_model: str, 
+        max_num_of_threads: int, 
+        reranker_model: str,
+    ):
         self.api_key = api_key
         self.company_A_list = company_A_list;
         self.company_B_list = company_B_list;
@@ -33,26 +32,33 @@ class InitiatorClassifier:
         self.max_num_of_threads = max_num_of_threads;
         self.nlp_model = nlp_model;
         self.reranker_model = reranker_model;
-        self.assistant = assistant;
     
-    @staticmethod
-    def write_result(main_index: int, result: dict):
+    def __write_result(self, acquired_results: list[tuple[int, dict]]):
+        print("Writing results to CSV...");
+
+        # Check if the file exists (to write headers if it's the first time)
         file_exists = os.path.isfile("outputUnion.csv");
+
         with open("outputUnion.csv", mode="a", newline="", encoding="utf-8") as file:
             writer = csv.writer(file);
+
+            # Write the header row if the file doesn't exist
             if not file_exists:
                 writer.writerow(["INDEX", "INITIATOR", "DATE_OF_INITIATION", "TYPE_OF_INITIATION", "REASON", "KEY_FIGURES"]);
             
-            writer.writerow(
-                [
-                    main_index, 
-                    result["initiator"], 
-                    result["date_of_initiation"], 
-                    result["type_of_initiation"], 
-                    result["stated_reasons"], 
-                    result["key_figures"]
-                ]
-            );
+            for main_index, json_result in acquired_results:
+                try:
+                    initiator = json_result.get("initiator", "");
+                    date_of_initiation = json_result.get("date_of_initiation", "");
+                    type_of_initiation = json_result.get("type_of_initiation", "");
+                    reason = json_result.get("stated_reasons", "");
+                    key_figures = json_result.get("key_figures", "");
+
+                    # Write the row for this result
+                    writer.writerow([main_index, initiator, date_of_initiation, type_of_initiation, reason, key_figures]);
+
+                except Exception as e:
+                    print(f"Error extracting or writing result for index {main_index}: {e}");
     
     @staticmethod
     def process_single_doc(
@@ -64,7 +70,6 @@ class InitiatorClassifier:
         nlp_model: str,
         reranker_model: str,
         api_key: str,
-        assistant: AnalysisAssistant
     ):
         print("Reading index: ", main_index, "; Companies: ", company_A, " & ", company_B);
 
@@ -72,6 +77,7 @@ class InitiatorClassifier:
         client = OpenAI(api_key=api_key);
         reranker = CrossEncoder(reranker_model);
         chunk_processor = ChunkProcessor(reranker, client);
+        analysis_assistant = AnalysisAssistant(api_key, "Analysis Assistant", "gpt-4o-mini");
 
         # Construct document file name & construct the folder constraint
         company_names = [company_A, company_B];
@@ -84,13 +90,13 @@ class InitiatorClassifier:
         file_path = f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt";
         if not os.path.isfile(file_path):
             print(f"Skipping {main_index}: Document does not exist...");
-            return;
+            return None;
         
         # Check if the extracted file exists
         extracted_path = f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt";
         if os.path.isfile(extracted_path):
             print(f"Skipping {extracted_path}: Already processed and extracted...");
-            return;
+            return None;
     
         with open(file_path, "r", encoding="utf-8") as file:
             text = file.read();
@@ -111,9 +117,8 @@ class InitiatorClassifier:
             with open(extracted_path, "w", encoding="utf-8") as file:
                 file.write(section_passage);
         
-            result = assistant.analyzeDocument(section_passage);
-            InitiatorClassifier.write_result(main_index, result);
-            
+            result = analysis_assistant.analyzeDocument(section_passage);
+            return (main_index, result);
         except Exception as e:
             Logger.logMessage(f"[-] Error: {e}");
             Logger.logMessage(traceback.format_exc(), time_stamp=False);
@@ -147,6 +152,7 @@ class InitiatorClassifier:
         indices_to_process = list(range(self.__start_index, self.__end_index));
         total_tasks = len(indices_to_process);
 
+        acquired_results = [];
         with tqdm(
             total=total_tasks, 
             desc = "\033[36mReading\033[0m",
@@ -162,7 +168,7 @@ class InitiatorClassifier:
                 if len(batch_jobs) == 1:
                     # Process the single job without multiprocessing
                     try:
-                        InitiatorClassifier.process_single_doc(
+                        main_index, result = InitiatorClassifier.process_single_doc(
                             batch_jobs[0],
                             self.company_A_list[batch_jobs[0]],
                             self.company_B_list[batch_jobs[0]],
@@ -171,8 +177,10 @@ class InitiatorClassifier:
                             self.nlp_model,
                             self.reranker_model,
                             self.api_key,
-                            self.assistant
                         );
+                        if result is not None:
+                            acquired_results.append((main_index, result));
+
                         pbar.update(1);
                     except Exception as e:
                         print(f"Error processing single job: {e}");
@@ -191,7 +199,6 @@ class InitiatorClassifier:
                                 self.nlp_model,
                                 self.reranker_model,
                                 self.api_key,
-                                self.assistant
                             ): job
                             for job in batch_jobs
                         };
@@ -199,7 +206,11 @@ class InitiatorClassifier:
                         # Track progress by waiting for task completion
                         for future in as_completed(futures):
                             try:
-                                future.result();
+                                result = future.result();
+                                if result is not None:
+                                    main_index, assistant_result = result;
+                                    acquired_results.append((main_index, assistant_result));
+
                                 pbar.update(1);
                             except Exception as e:
                                 print(f"Error processing future: {e}");
@@ -208,6 +219,9 @@ class InitiatorClassifier:
                 # Cooldown and resource flush after every batch
                 if len(batch_jobs) > 1:
                     print(f"Completed batch {i // self.__batch_size + 1}, waiting for cooldown...");
-                    gc.collect()  # CPU flush
+                    gc.collect();  # CPU flush
                     time.sleep(2);
                     print("Cooldown complete, proceeding to next batch...");
+
+        acquired_results.sort(key=lambda x: x[0]);
+        self.__write_result(acquired_results);

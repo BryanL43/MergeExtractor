@@ -60,21 +60,25 @@ def main():
         "Background"
     ];
     
+    # Proxy objects to access assistant methods (cannot be passed due to multiprocessing)
+    # Instantiate new ones within child processes
     backup_assistant = BackupAssistant(openai_api_key, "Backup Assistant", "gpt-4o-mini");
-
-    # crawler = Crawler(
-    #     announcement_date, 
-    #     company_A_list, 
-    #     company_B_list, 
-    #     start_phrases, 
-    #     NLP_MODEL, 
-    #     MAX_NUM_OF_THREADS,
-    #     backup_assistant, 
-    # );
-    # crawler.runCrawler(index=2, date_margin=4);
-    # crawler.runCrawler(start_index=0, end_index=4, date_margin=4, batch_size=5);
-
     analysis_assistant = AnalysisAssistant(openai_api_key, "Analysis Assistant", "gpt-4o-mini");
+
+    crawler = Crawler(
+        openai_api_key,
+        announcement_date, 
+        company_A_list, 
+        company_B_list, 
+        start_phrases, 
+        NLP_MODEL, 
+        MAX_NUM_OF_THREADS,
+    );
+    # crawler.runCrawler(index=5, date_margin=4);
+    crawler.runCrawler(start_index=0, end_index=4, date_margin=4, batch_size=5);
+
+    # Clean up the vector store at the end as we can't clear while in parallel processing
+    backup_assistant.clearVectorStores();
 
     initiatorClassifier = InitiatorClassifier(
         openai_api_key, 
@@ -84,10 +88,9 @@ def main():
         NLP_MODEL, 
         MAX_NUM_OF_THREADS, 
         RERANKER_MODEL, 
-        analysis_assistant
     );
     # initiatorClassifier.findInitiator(index=0);
-    initiatorClassifier.findInitiator(start_index=0, end_index=2, batch_size=3);
+    initiatorClassifier.findInitiator(start_index=0, end_index=4, batch_size=3);
 
     if DELETE_ASSISTANT_MODE:
         print("Deleting assistants...");

@@ -16,26 +16,25 @@ from RateLimiter import RateLimiter
 class Crawler:
     def __init__(
         self,
+        api_key: str,
         announcement_date: list[str],
         company_A_list: list[str],
         company_B_list: list[str],
         start_phrases: list[str],
         nlp_model: str,
         max_num_of_threads: int,
-        assistant: BackupAssistant,
     ):
+        self.api_key = api_key;
         self.announcement_date = announcement_date;
         self.company_A_list = company_A_list;
         self.company_B_list = company_B_list;
         self.start_phrases = start_phrases;
         self.nlp_model = nlp_model;
         self.max_num_of_threads = max_num_of_threads;
-        self.assistant = assistant;
 
         self.__form_types = ["PREM14A", "S-4", "SC 14D9", "SC TO-T"];
     
-    @staticmethod
-    def write_output_urls(self, acquired_documents: list[tuple[int, str]]):
+    def __write_output_urls(self, acquired_documents: list[tuple[int, str]]):
         """
             Writes the output urls to the csv file.
 
@@ -54,7 +53,13 @@ class Crawler:
                 try:
                     # Write to the output CSV
                     writer.writerow(
-                        [main_index, self.announcement_date[main_index], self.company_A_list[main_index], self.company_B_list[main_index], url]
+                        [
+                            main_index, 
+                            self.announcement_date[main_index], 
+                            self.company_A_list[main_index], 
+                            self.company_B_list[main_index], 
+                            url
+                        ]
                     );
                 except Exception as e:
                     Logger.logMessage(f"[-] Error writing to output for index {main_index}: {e}");
@@ -127,8 +132,8 @@ class Crawler:
                             self.__form_types,
                             self.start_phrases,
                             self.max_num_of_threads,
-                            self.assistant,
                             self.nlp_model,
+                            self.api_key,
                             rate_limiter_resources,
                         );
                         if doc_url is not None:
@@ -149,8 +154,8 @@ class Crawler:
                                 self.__form_types,
                                 self.start_phrases,
                                 self.max_num_of_threads,
-                                self.assistant,
                                 self.nlp_model,
+                                self.api_key,
                                 rate_limiter_resources
                             ): job
                             for job in batch_jobs
@@ -159,10 +164,10 @@ class Crawler:
                         # Track progress by waiting for task completion
                         for future in as_completed(futures):
                             try:
-                                future.result();
-                                # main_index, doc_url = future.result();
-                                # if doc_url is not None:
-                                #     acquired_documents.append((main_index, doc_url));
+                                result = future.result();
+                                if result is not None:
+                                    main_index, doc_url = result;
+                                    acquired_documents.append((main_index, doc_url));
                                 
                                 pbar.update(1);
                             except Exception as e:
@@ -176,8 +181,5 @@ class Crawler:
                     time.sleep(2);
                     print("Cooldown complete, proceeding to next batch...");
         
-        # acquired_documents.sort(key=lambda x: x[0]);
-        # Crawler.write_output_urls(acquired_documents);
-
-        # Clean up the vector store at the end as we can't clear while in parallel processing
-        self.assistant.clearVectorStores();
+        acquired_documents.sort(key=lambda x: x[0]);
+        self.__write_output_urls(acquired_documents);

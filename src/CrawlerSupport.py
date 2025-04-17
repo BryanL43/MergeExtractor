@@ -377,8 +377,8 @@ class CrawlerSupport:
         form_types: list[str],
         start_phrases: list[str],
         max_num_of_threads: int, 
-        assistant: BackupAssistant,
         nlp_model: str,
+        api_key: str,
         rate_limiter_resources: dict[str, any] 
     ):
         main_index, company_A, company_B, announcement_date = job_data;
@@ -459,7 +459,7 @@ class CrawlerSupport:
         print(f"Number of documents: {len(documents)}");
 
         # Acquire the specific document with the "Background of the Merger" section
-        doc_url = Processor.locateDocument(documents, company_names, main_index, start_phrases, nlp_model, max_num_of_threads, assistant);
+        doc_url = Processor.locateDocument(documents, company_names, main_index, start_phrases, nlp_model, max_num_of_threads, api_key);
         if doc_url is None:
             Logger.logMessage(
                 f"[-] Confirmed no background section found for index {main_index}: {company_names[0]} & {company_names[1]}."

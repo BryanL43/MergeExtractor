@@ -407,7 +407,7 @@ class Processor:
         start_phrases: list[str], 
         nlp_model: str,
         max_num_of_threads: int,
-        assistant: BackupAssistant
+        api_key: str
     ) -> str | None:
         """
             Acquires the document with the 'Background of the Merger' section and returns its url.
@@ -475,6 +475,8 @@ class Processor:
             f"[*] No background section found for index {main_index}: {company_names[0]} & {company_names[1]}. Retrying via fallback..."
         );
 
+        # Instantiate backup assistant only when necessary
+        assistant = BackupAssistant(api_key, "Backup Assistant", "gpt-4o-mini");
         fallback_result = Processor.fallback_check(documents, company_names, main_index, max_num_of_threads, assistant);
         if fallback_result is None:
             return None;

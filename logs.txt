@@ -1,0 +1,27 @@
+[2025-04-17 03:11:18] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-04-17 03:11:18] [-] Process failed with error: Traceback (most recent call last):
+  File "e:\Documents\Scripts\MergeExtractor\src\Crawler.py", line 169, in runCrawler
+    main_index, doc_url = future.result();
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-04-17 03:14:03] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-04-17 03:14:18] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-04-17 03:14:24] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-04-17 03:14:26] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-04-17 03:14:32] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-04-17 03:15:50] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-04-17 03:16:06] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-04-17 03:16:13] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-04-17 03:16:15] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-04-17 03:16:19] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-04-17 03:16:23] [-] Error writing to output for index 0: type object 'Crawler' has no attribute 'announcement_date'
+[2025-04-17 03:16:23] [-] Error writing to output for index 2: type object 'Crawler' has no attribute 'announcement_date'
+[2025-04-17 03:16:23] [-] Error writing to output for index 3: type object 'Crawler' has no attribute 'announcement_date'
+[2025-04-17 03:16:23] [-] Error writing to output for index 4: type object 'Crawler' has no attribute 'announcement_date'
+[2025-04-17 03:17:22] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-04-17 03:17:38] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-04-17 03:17:45] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-04-17 03:17:46] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-04-17 03:17:52] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-04-17 03:19:51] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
