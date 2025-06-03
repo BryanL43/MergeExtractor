@@ -25,3 +25,223 @@ TypeError: cannot unpack non-iterable NoneType object
 [2025-04-17 03:17:46] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
 [2025-04-17 03:17:52] [+] Successfully created document for: Xircom Inc & Intel Corp
 [2025-04-17 03:19:51] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-06-01 05:52:15] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\process.py", line 264, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerSupport.py", line 440, in process_single_job
+    documents = Processor.getDocuments(source_links, company_names, max_num_of_threads, rate_limiter_resources);
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Processor.getDocuments() takes 3 positional arguments but 4 were given
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 154, in runCrawler
+    result = future.result();
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+TypeError: Processor.getDocuments() takes 3 positional arguments but 4 were given
+
+[2025-06-01 06:00:40] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\process.py", line 264, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerSupport.py", line 460, in process_single_job
+    doc_url = Processor.locateDocument(documents, company_names, main_index, START_PHRASES, nlp_model, max_num_of_threads);
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Processor.locateDocument() missing 1 required positional argument: 'api_key'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 154, in runCrawler
+    result = future.result();
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+TypeError: Processor.locateDocument() missing 1 required positional argument: 'api_key'
+
+[2025-06-01 06:00:40] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\process.py", line 264, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerSupport.py", line 460, in process_single_job
+    doc_url = Processor.locateDocument(documents, company_names, main_index, START_PHRASES, nlp_model, max_num_of_threads);
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Processor.locateDocument() missing 1 required positional argument: 'api_key'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 154, in runCrawler
+    result = future.result();
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+TypeError: Processor.locateDocument() missing 1 required positional argument: 'api_key'
+
+[2025-06-01 06:00:54] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-06-01 06:04:46] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-06-01 06:05:34] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:05:34] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:05:34] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:05:34] [-] Error processing https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:05:36] [*] No background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp). Retrying via fallback...
+[2025-06-01 06:05:36] [-] Confirmed no background section found for index 2: Mediconsult.com Inc & CyBear Inc(Andryx Corp).
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000170/0000950170-01-000170.txt
+		https://www.sec.gov/Archives/edgar/data/1123337/000095017001000120/0000950170-01-000120.txt
+[2025-06-01 06:05:36] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-01 06:05:36] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-01 06:11:07] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:11:07] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:11:08] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-01 06:11:08] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-01 06:11:08] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 122, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-01 06:19:53] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:19:53] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:19:54] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-01 06:19:54] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-01 06:19:55] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 122, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-01 06:29:19] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:29:21] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-01 06:29:21] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-01 06:29:21] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 122, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-01 06:39:43] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:39:43] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:39:45] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-01 06:39:45] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-06-01 06:39:45] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 122, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-01 06:45:44] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:45:44] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-01 06:45:45] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-01 06:45:45] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-01 06:45:45] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 122, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-02 21:52:34] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-02 21:52:34] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-02 21:52:36] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-02 21:52:36] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-02 21:52:36] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 122, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-02 22:08:20] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-02 22:08:22] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-02 22:08:22] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-02 22:08:22] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 117, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-02 22:22:14] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-02 22:22:15] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-02 22:22:15] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-06-02 22:22:15] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 117, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-02 22:27:00] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-02 22:27:00] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-02 22:27:01] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-02 22:27:01] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-06-02 22:27:01] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 117, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-02 22:32:12] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-02 22:32:12] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: '>' not supported between instances of 'int' and 'str'
+[2025-06-02 22:32:13] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-02 22:32:13] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-06-02 22:32:13] [-] Process failed with error: Traceback (most recent call last):
+  File "C:\Users\bryan\Documents\Scripts\MergeExtractor\src\crawler\CrawlerHandler.py", line 117, in runCrawler
+    main_index, doc_url = CrawlerSupport.process_single_job(
+    ^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-02 22:43:48] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-06-02 23:09:18] [+] Successfully created document for: Fourth Shift Corp & AremisSoft Corp
