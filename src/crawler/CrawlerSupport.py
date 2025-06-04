@@ -88,7 +88,7 @@ class CrawlerSupport:
         pair_company: str, 
         date_LB: str, 
         date_UB: str, 
-        form_types: list[str],
+        restruct_forms: list[str],
         rate_limiter_resources: dict[str, any] 
     ) -> list[int] | None:
         """
@@ -104,7 +104,7 @@ class CrawlerSupport:
                 The lower-bound date, in the format of "%Y-M-%D"
             date_UB : str
                 The upper-bound date, in the format of "%Y-M-%D"
-            form_types : list[str]
+            restruct_forms : list[str]
                 The form types to search for.
             rate_limiter_resources : dict[str, any]
                 Request wait limiter to stop flooding.
@@ -118,7 +118,7 @@ class CrawlerSupport:
         """
         restruct_name = search_company.replace(" ", "%20");
         
-        url = f"https://efts.sec.gov/LATEST/search-index?q={restruct_name}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={form_types}";
+        url = f"https://efts.sec.gov/LATEST/search-index?q={restruct_name}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={restruct_forms}";
 
         # Create a request that mimics browser activity
         headers = {
@@ -162,7 +162,7 @@ class CrawlerSupport:
         pair_company: str, 
         date_LB: str, 
         date_UB: str, 
-        form_types: list[str], 
+        restruct_forms: list[str], 
         rate_limiter_resources: dict[str, any] 
     ) -> list[dict] | None:
         """
@@ -178,7 +178,7 @@ class CrawlerSupport:
                 The lower-bound date, in the format of "%Y-M-%D"
             date_UB : str
                 The upper-bound date, in the format of "%Y-M-%D"
-            form_types : list[str]
+            restruct_forms : list[str]
                 The form types to search for.
                 The defined maximum number of threads per thread pool.
             rate_limiter_resources : dict[str, any]
@@ -197,9 +197,9 @@ class CrawlerSupport:
 
         # We will try and acquire the cik_list for the first company;
         # If the cik_list is None, we will try and acquire the cik_list for the second company.
-        cik_list = CrawlerSupport.get_ciks(search_company, pair_company, date_LB, date_UB, form_types, rate_limiter_resources);
+        cik_list = CrawlerSupport.get_ciks(search_company, pair_company, date_LB, date_UB, restruct_forms, rate_limiter_resources);
         if (cik_list == None):
-            cik_list = CrawlerSupport.get_ciks(pair_company, search_company, date_LB, date_UB, form_types, rate_limiter_resources);
+            cik_list = CrawlerSupport.get_ciks(pair_company, search_company, date_LB, date_UB, restruct_forms, rate_limiter_resources);
         
         if (cik_list == None):
             return None;
@@ -212,7 +212,7 @@ class CrawlerSupport:
         restruct_name = search_company.replace(" ", "%20");
 
         urls = [
-            f"https://efts.sec.gov/LATEST/search-index?q={restruct_name}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={form_types}&filter_ciks={cik}"
+            f"https://efts.sec.gov/LATEST/search-index?q={restruct_name}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={restruct_forms}&filter_ciks={cik}"
             for cik in cik_list
         ];
         
@@ -256,7 +256,7 @@ class CrawlerSupport:
         pair_company: str, 
         date_LB: str, 
         date_UB: str, 
-        form_types: list[str],
+        restruct_forms: list[str],
         rate_limiter_resources: dict[str, any] 
     ) -> list[dict] | None:
         """
@@ -273,7 +273,7 @@ class CrawlerSupport:
                 The lower-bound date, in the format of "%Y-M-%D"
             date_UB : str
                 The upper-bound date, in the format of "%Y-M-%D"
-            form_types : list[str]
+            restruct_forms : list[str]
                 The form types to search for.
             rate_limiter_resources : dict[str, any]
                 Request wait limiter to stop flooding.
@@ -293,8 +293,8 @@ class CrawlerSupport:
         restruct_pair = pair_company.replace(" ", "%20");
 
         urls = [
-            f"https://efts.sec.gov/LATEST/search-index?q={restruct_search}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={form_types}",
-            f"https://efts.sec.gov/LATEST/search-index?q={restruct_pair}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={form_types}"
+            f"https://efts.sec.gov/LATEST/search-index?q={restruct_search}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={restruct_forms}",
+            f"https://efts.sec.gov/LATEST/search-index?q={restruct_pair}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={restruct_forms}"
         ];
         
         # Create a request that mimics browser activity

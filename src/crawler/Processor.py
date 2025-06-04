@@ -275,9 +275,9 @@ class Processor:
                 The document url that contains the 'Background of the Merger' section.
         """
         try:
-            _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), [phrase for phrase in START_PHRASES if phrase != "Background"], nlp_model);
+            _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), [phrase for phrase in START_PHRASES if phrase != "Background"]);
             if len(approx_chunks) == 0: # Fallback with lower confidence in accuracy
-                _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], nlp_model);
+                _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"]);
 
             if len(approx_chunks) > 0:
                 if found_data.value: # Prevent race condition
@@ -426,7 +426,7 @@ class Processor:
             if len(documents) == 1:
                 try:
                     return Processor.process_document(
-                        documents[0], company_names, main_index, found_data, nlp_model, lock, max_num_of_threads
+                        documents[0], company_names, main_index, found_data, nlp_model, lock
                     );
                 except Exception as e:
                     Logger.logMessage(f"[-] Error processing {documents[0].getUrl()}: {e}");
