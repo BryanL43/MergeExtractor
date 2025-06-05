@@ -248,8 +248,8 @@ class Processor:
         company_names: list[str], 
         main_index: int, 
         found_data: bool, 
-        nlp_model: str, 
-        lock: any
+        lock: any,
+        executor: ThreadPoolExecutor
     ) -> str | None:
         """
             Process a single document to locate 'Background of the Merger' section and write it to a file.
@@ -264,8 +264,6 @@ class Processor:
                 The current index of the data we are processing.
             found_data : bool
                 State that tracks whether we have located a document with the 'Background of the Merger' section.
-            nlp_model : str
-                The nlp model's name that'll be instantiated seperately for multi-processing.
             lock : Lock
                 The lock that only permits one final result.
 
@@ -275,36 +273,43 @@ class Processor:
                 The document url that contains the 'Background of the Merger' section.
         """
         try:
-            _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), [phrase for phrase in START_PHRASES if phrase != "Background"]);
-            if len(approx_chunks) == 0: # Fallback with lower confidence in accuracy
-                _, approx_chunks = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"]);
+            result = (
+                ChunkProcessor.locateBackgroundChunk(doc.getContent(), [p for p in START_PHRASES if p != "Background"], executor)
+                or ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], executor)
+            );
+
+            if result:
+                _, approx_chunks = result;
+            else:
+                approx_chunks = [];
 
             if len(approx_chunks) > 0:
-                if found_data.value: # Prevent race condition
-                    return None;
-            
                 with lock:
-                    if not found_data.value:
-                        found_data.value = True;
-                        time.sleep(1);
+                    if found_data.value:
+                        return;
+                    found_data.value = True;
 
-                        # Write the found document with the 'Background' section into a new file
-                        format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
-                        batch_start = (main_index // 100) * 100;
-                        batch_end = batch_start + 99;
-                        with open(f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt", "w", encoding="utf-8") as file:
-                            file.write(f"URL: {doc.getUrl()}\n\n");
-                            file.write(doc.getContent());
+                # Write the found document with the 'Background' section into a new file
+                format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
+                batch_start = (main_index // 100) * 100;
+                batch_end = batch_start + 99;
 
-                        Logger.logMessage(f"[+] Successfully created document for: {company_names[0]} & {company_names[1]}");
-                        return doc.getUrl();
+                output_path = os.path.abspath(f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt");
+                os.makedirs(os.path.dirname(output_path), exist_ok=True);
+
+                with open(output_path, "w", encoding="utf-8") as file:
+                    file.write(f"URL: {doc.getUrl()}\n\n");
+                    file.write(doc.getContent());
+
+                Logger.logMessage(f"[+] Successfully created document for: {company_names[0]} & {company_names[1]}");
+                return doc.getUrl();
         except (CancelledError, EOFError, FileNotFoundError):
             # Ignore these errors since they occur when processes are being stopped, results can be discarded
             return None;
         except Exception as e:
             Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
         
-        return None;
+        return;
 
     # @staticmethod
     # def fallback_check(
@@ -422,23 +427,25 @@ class Processor:
             found_data = manager.Value("b", False); # Shared boolean to only allow 1 final result
             lock = manager.Lock();
 
-            # If only one document, process it directly without multiprocessing
-            if len(documents) == 1:
-                try:
-                    return Processor.process_document(
-                        documents[0], company_names, main_index, found_data, nlp_model, lock
-                    );
-                except Exception as e:
-                    Logger.logMessage(f"[-] Error processing {documents[0].getUrl()}: {e}");
-                    return None;
-
-            # Locate valid document with the 'Background of the Merger' section via multi-processing
             with ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS) as executor:
+                # Direct processing if only one document
+                if len(documents) == 1:
+                    try:
+                        return Processor.process_document(
+                            documents[0], company_names, main_index, found_data, lock, executor
+                        );
+                    except Exception as e:
+                        Logger.logMessage(f"[-] Error processing {documents[0].getUrl()}: {e}");
+                        return None;
+
+                # Process multiple documents in parallel
                 futures = {
                     executor.submit(
-                        Processor.process_document, doc, company_names, main_index, found_data, nlp_model, lock, max_num_of_threads
+                        Processor.process_document,
+                        doc, company_names, main_index, found_data, lock, executor
                     ): doc
                     for doc in documents
+                    if not executor._shutdown
                 };
 
                 # Catches the process_document results on the fly and validate result
@@ -446,8 +453,7 @@ class Processor:
                     try:
                         doc_url = future.result();
                         if doc_url:
-                            # Cancel remaining processes and force termination
-                            executor.shutdown(wait=False, cancel_futures=True);
+                            executor.shutdown();
                             return doc_url;
                     except Exception as e:
                         if isinstance(e, (CancelledError, EOFError)):

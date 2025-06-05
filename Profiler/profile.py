@@ -3,6 +3,7 @@ import pstats
 import runpy
 import os
 import sys
+import argparse
 
 # Get absolute path to the project and src directory
 file_dir = os.path.dirname(__file__);
@@ -16,12 +17,16 @@ def is_user_code(file_path: str) -> bool:
     normalized = os.path.abspath(file_path).replace("\\", "/").lower();
     return src_dir.replace("\\", "/").lower() in normalized;
 
-if __name__ == "__main__":
+def main():
+    parser = argparse.ArgumentParser(description="Profile a Python module using cProfile.");
+    parser.add_argument("--module", required=True, help="The module to run, e.g. src.crawler.crawl");
+    args = parser.parse_args();
+
     profiler = cProfile.Profile();
     profiler.enable();
 
-    # Run src/main.py as if from command line
-    runpy.run_module("main", run_name="__main__");
+    # Run the mpdule as if from command line
+    runpy.run_module(args.module, run_name="__main__");
 
     profiler.disable();
 
@@ -43,6 +48,10 @@ if __name__ == "__main__":
                 file.write(f"{funcname:40} {cumtime:.4f}s @ {filename}:{lineno}\n");
 
         if count == 0:
-            print("\n⚠️ No user-defined functions exceeded 0.1s cumulative time.\n");
+            print("\nWARNING: No user-defined functions exceeded 0.1s cumulative time.\n");
 
-    print(f"\n✅ Profiling complete! Results saved to: {output_path}");
+    print(f"\nProfiling complete! Results saved to: {output_path}");
+
+
+if __name__ == "__main__":
+    main();

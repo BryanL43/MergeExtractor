@@ -2,7 +2,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from concurrent.futures import ThreadPoolExecutor, ALL_COMPLETED, wait
 from spacy.language import Language
 import re
-from rapidfuzz import fuzz
+from rapidfuzz.fuzz import ratio as fuzz_ratio
 import spacy
 import torch
 from openai import OpenAI
@@ -16,7 +16,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 
 from src.utils.Logger import Logger
-from src.dependencies.config import BATCH_SIZE, QUERY_EMBEDDING_FILE, RERANK_QUERY_FILE
+from src.dependencies.config import BATCH_SIZE, QUERY_EMBEDDING_FILE, RERANK_QUERY_FILE, BASE_NLP_MODEL
 
 class ChunkProcessor:
     nlp: Language = None;
@@ -31,8 +31,8 @@ class ChunkProcessor:
         self.thread_pool = thread_pool;
 
     @staticmethod
-    def extract_chunks_with_dates(chunks: list[str], nlp: Language) -> list[tuple[int, str]]:
-        # Subroutine speeds up runtime slightly
+    def extract_chunks_with_dates(chunks: list[str], nlp: Language, executor: ThreadPoolExecutor) -> list[tuple[int, str]]:
+        # Subroutine speeds up runtime slightly due to static nature
         def get_chunks_with_date(batch_chunks):
             docs = list(nlp.pipe(batch_chunks));
             results = [];
@@ -83,17 +83,17 @@ class ChunkProcessor:
         chunks_with_dates = [];
 
         # Using ThreadPoolExecutor to process chunks in parallel
-        with ThreadPoolExecutor() as executor:
-            futures = [];
-            for i in range(0, len(chunks), BATCH_SIZE):
+        futures = [];
+        for i in range(0, len(chunks), BATCH_SIZE):
+            if not executor._shutdown:
                 batch = chunks[i:i + BATCH_SIZE];  # Create a batch of chunks
-                futures.append(executor.submit(get_chunks_with_date, batch));  # Submit the batch for processing
+                futures.append(executor.submit(get_chunks_with_date, batch)); # Submit the batch for processing
 
-            # Collect the results as they complete
-            for future in as_completed(futures):
-                result = future.result();
-                if result:
-                    chunks_with_dates.extend(result);
+        # Collect the results as they complete
+        for future in as_completed(futures):
+            result = future.result();
+            if result:
+                chunks_with_dates.extend(result);
 
         return chunks_with_dates;
 
@@ -127,7 +127,7 @@ class ChunkProcessor:
                         return line;
                 else: # Perform fuzzy matching for other start phrases
                     for phrase in start_phrases_lower:
-                        if phrase in line_lower or fuzz.ratio(line_lower, phrase) > 80:
+                        if phrase in line_lower or fuzz_ratio(line_lower, phrase) > 80:
                             if "background" in line_lower:
                                 return line;
 
@@ -218,28 +218,28 @@ class ChunkProcessor:
             passage = "\n".join(lines[i:]);
             if len(passage) > 200:
                 return (idx, passage);
-                break;
 
     @staticmethod
     def get_approx_chunks(
         chunks_with_dates: list[tuple[int, str]], 
         start_phrases: list[str], 
-        nlp: Language
+        nlp: Language,
+        executor: ThreadPoolExecutor
     ):
-        
         approx_chunks = [];
-        with ThreadPoolExecutor() as executor:
-            futures = [
-                executor.submit(
-                    lambda idx=idx, chunk=chunk: ChunkProcessor._process_single_chunk(idx, chunk, start_phrases, nlp),
-                )
-                for idx, chunk in chunks_with_dates
-            ];
 
-            for future in as_completed(futures):
-                result = future.result();
-                if result:
-                    approx_chunks.append(result);
+        futures = [
+            executor.submit(
+                lambda idx=idx, chunk=chunk: ChunkProcessor._process_single_chunk(idx, chunk, start_phrases, nlp),
+            )
+            for idx, chunk in chunks_with_dates
+            if not executor._shutdown
+        ];
+
+        for future in as_completed(futures):
+            result = future.result();
+            if result:
+                approx_chunks.append(result);
 
         return approx_chunks;
 
@@ -247,13 +247,13 @@ class ChunkProcessor:
     def locateBackgroundChunk(
         text: str, 
         start_phrases: list[str],
-        nlp_model: Language = None,
+        executor: ThreadPoolExecutor,
         chunk_size: int = 2048, 
         chunk_overlap: int = 400, 
     ) -> list[tuple[int, str]] | None:
-        nlp = spacy.load(nlp_model) if isinstance(nlp_model, str) else nlp_model or ChunkProcessor.nlp;
+        nlp = spacy.load(BASE_NLP_MODEL);
         if nlp is None:
-            raise RuntimeError("ERROR: You did not pass a nlp model into ChunkProcessor.locateBackgroundChunk");
+            raise RuntimeError("ERROR: You did not declare the BASE_NLP_MODEL config variable.");
 
         text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=chunk_size,
@@ -261,13 +261,13 @@ class ChunkProcessor:
         );
         chunks = text_splitter.split_text(text);
 
-        chunks_with_dates = ChunkProcessor.extract_chunks_with_dates(chunks, nlp);
+        chunks_with_dates = ChunkProcessor.extract_chunks_with_dates(chunks, nlp, executor);
         if len(chunks_with_dates) == 0:
             return None;
 
-        approx_chunks = ChunkProcessor.get_approx_chunks(chunks_with_dates, start_phrases, nlp);
+        approx_chunks = ChunkProcessor.get_approx_chunks(chunks_with_dates, start_phrases, nlp, executor);
         if len(approx_chunks) == 0: # Edge case where there is no date within the "Background" chunk; toss all the chunks
-            approx_chunks = ChunkProcessor.get_approx_chunks(list(enumerate(chunks)), start_phrases, nlp);
+            approx_chunks = ChunkProcessor.get_approx_chunks(list(enumerate(chunks)), start_phrases, nlp, executor);
 
         approx_chunks = sorted(approx_chunks);
         approx_chunks = [(idx, chunk) for idx, chunk in approx_chunks];

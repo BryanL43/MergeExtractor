@@ -12,11 +12,7 @@ from src.crawler.CrawlerSupport import CrawlerSupport
 from src.utils.Logger import Logger
 from src.dependencies.RateLimiter import RateLimiter
 
-from src.dependencies.config import (
-    ANNOUNCEMENT_DATES,
-    COMPANY_A_LIST,
-    COMPANY_B_LIST
-)
+from src.dependencies.config import ANNOUNCEMENT_DATES, COMPANY_A_LIST, COMPANY_B_LIST
 
 class CrawlerHandler:
     def __init__(self):
@@ -114,12 +110,13 @@ class CrawlerHandler:
                 if len(batch_jobs) == 1:
                     # Process the single job without multiprocessing
                     try:
-                        main_index, doc_url = CrawlerSupport.process_single_job(
+                        result = CrawlerSupport.process_single_job(
                             batch_jobs[0],
                             date_margin,
-                            rate_limiter_resources,
+                            rate_limiter_resources
                         );
-                        if doc_url is not None:
+                        if result is not None:
+                            main_index, doc_url = result;
                             acquired_documents.append((main_index, doc_url));
                             
                         pbar.update(1);

@@ -383,7 +383,7 @@ class CrawlerSupport:
         batch_end = batch_start + 99;
         
         # Check if the file exists
-        file_path = f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt";
+        file_path = os.path.abspath(f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt");
         if os.path.isfile(file_path):
             print("Skipping: Document already exist...");
             return None;
@@ -456,6 +456,7 @@ class CrawlerSupport:
             Logger.logMessage(f"\tDumping its document links:", time_stamp=False);
             for doc in documents:
                 Logger.logMessage(f"\t\t{doc.getUrl()}", time_stamp=False);
+            
             return None;
         
         # Save the document for writing at the end

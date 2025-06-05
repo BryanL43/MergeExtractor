@@ -11,9 +11,7 @@ MAX_NUM_OF_THREADS = min(32, os.cpu_count() + 4);
 BASE_NLP_MODEL = "en_core_web_sm"; # String format to be instantiated in each process generated via multi-processing
 RERANKER_MODEL = "BAAI/bge-reranker-v2-m3";
 DELETE_ASSISTANT_MODE = False;
-CSV_FILE = "./truncatedData.csv";
-
-OPENAPI_API_KEY = os.getenv("OPENAI_API_KEY");
+CSV_FILE = os.path.abspath("./truncatedData.csv");
 
 # Read the CSV file and extract the date & both merging companies (index base)
 ANNOUNCEMENT_DATES = pd.read_csv(CSV_FILE, header=None).iloc[:, 1].tolist();
@@ -55,8 +53,8 @@ START_PHRASES = [
 ];
 
 # Configuration for similarity search and re-ranking
-QUERY_EMBEDDING_FILE = "./config/query_embedding.json";
-RERANK_QUERY_FILE = "./config/rerank_query.txt";
+QUERY_EMBEDDING_FILE = os.path.abspath("./config/query_embedding.json");
+RERANK_QUERY_FILE = os.path.abspath("./config/rerank_query.txt");
 BATCH_SIZE = 128; # Computing power specific. Tune for your device.
 
-LOG_FILE_PATH = "./logs.txt";
+LOG_FILE_PATH = os.path.abspath("./logs.txt");
