@@ -4,6 +4,8 @@ import pandas as pd
 
 load_dotenv();
 
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY");
+
 # Program configuration variables
 MAX_NUM_OF_THREADS = min(32, os.cpu_count() + 4);
 

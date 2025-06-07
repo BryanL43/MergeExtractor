@@ -29,7 +29,7 @@ class RateLimiter:
         if len(timestamps) >= max_calls:
             wait_time = 1 - (current_time - timestamps[0]);
             if wait_time > 0:
-                # print(f"Rate limit triggered, waiting for {wait_time:.3f} seconds");
+                print(f"Rate limit triggered, waiting for {wait_time:.3f} seconds");
                 time.sleep(wait_time);
 
                 # Recalculate after waiting

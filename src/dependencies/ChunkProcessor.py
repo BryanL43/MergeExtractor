@@ -16,29 +16,27 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import time
 
 from src.utils.Logger import Logger
+from src.dependencies.RateLimiter import RateLimiter
 from src.dependencies.config import BATCH_SIZE, QUERY_EMBEDDING_FILE, RERANK_QUERY_FILE, BASE_NLP_MODEL
 
 class ChunkProcessor:
-    nlp: Language = None;
     # Strict model else accuracy for abbreviation is impacted; non-param due to significant performance impact
     _nlp_ent_model = spacy.load("en_core_web_lg");
 
     # Optional instantiation parameters for classification
-    def __init__(self, nlp: Language, reranker_model: CrossEncoder, client: OpenAI, thread_pool: ThreadPoolExecutor):
-        ChunkProcessor.nlp = nlp;
+    def __init__(self, reranker_model: CrossEncoder, client: OpenAI):
         self.reranker_model = reranker_model;
         self.client = client;
-        self.thread_pool = thread_pool;
 
     @staticmethod
     def extract_chunks_with_dates(chunks: list[str], nlp: Language, executor: ThreadPoolExecutor) -> list[tuple[int, str]]:
         # Subroutine speeds up runtime slightly due to static nature
-        def get_chunks_with_date(batch_chunks):
-            docs = list(nlp.pipe(batch_chunks));
+        def get_chunks_with_date(batch_chunks_with_indices):
+            indices, texts = zip(*batch_chunks_with_indices);
+            docs = list(nlp.pipe(texts));
             results = [];
 
-            for i, doc in enumerate(docs):
-                chunk = batch_chunks[i];  # Get the corresponding chunk from the batch
+            for idx, doc, chunk in zip(indices, docs, texts):
                 date_entities = [ent for ent in doc.ents if ent.label_ == "DATE"];
                 filtered_dates = [];
 
@@ -76,18 +74,18 @@ class ChunkProcessor:
                 filtered_dates = [x for x in filtered_dates if not (x in seen or seen.add(x))];
 
                 if filtered_dates:
-                    results.append((i, chunk));
+                    results.append((idx, chunk));
 
             return results;
 
         chunks_with_dates = [];
-
-        # Using ThreadPoolExecutor to process chunks in parallel
         futures = [];
+
+        # Prepare batches as (index, chunk) pairs
         for i in range(0, len(chunks), BATCH_SIZE):
             if not executor._shutdown:
-                batch = chunks[i:i + BATCH_SIZE];  # Create a batch of chunks
-                futures.append(executor.submit(get_chunks_with_date, batch)); # Submit the batch for processing
+                batch = list(enumerate(chunks))[i:i + BATCH_SIZE]  # List of (global_index, chunk)
+                futures.append(executor.submit(get_chunks_with_date, batch))
 
         # Collect the results as they complete
         for future in as_completed(futures):
@@ -120,7 +118,7 @@ class ChunkProcessor:
                 if len(line) == 0:
                     continue;
                 
-                line_lower = line.lower();
+                line_lower = line.lower().strip();
                 # Special case for only "Background" phrase to check for exact match 
                 if background_only:
                     if line_lower == "background":
@@ -263,7 +261,7 @@ class ChunkProcessor:
 
         chunks_with_dates = ChunkProcessor.extract_chunks_with_dates(chunks, nlp, executor);
         if len(chunks_with_dates) == 0:
-            return None;
+            return None; # FATAL; no chunks with dates
 
         approx_chunks = ChunkProcessor.get_approx_chunks(chunks_with_dates, start_phrases, nlp, executor);
         if len(approx_chunks) == 0: # Edge case where there is no date within the "Background" chunk; toss all the chunks
@@ -311,17 +309,18 @@ class ChunkProcessor:
                 
         return None;
 
-    def _compute_cosine_similarity(self, approx_chunks: list[tuple[int, str]]) -> list[tuple[int, float, str]]:
+    def _compute_cosine_similarity(
+        self, approx_chunks: list[tuple[int, str]], 
+        executor: ThreadPoolExecutor
+    ) -> list[tuple[int, float, str]]:
         # Load locally saved query embedding
         with open(QUERY_EMBEDDING_FILE, "r") as f:
             query_embedding = torch.tensor(json.load(f), dtype=torch.float32);
 
         # Create multiple threads to embed each chunk in parallel
-        futures = [];
-        for _, chunk in approx_chunks:
-            futures.append(self.thread_pool.submit(self.__get_embedding, chunk));
+        futures = [executor.submit(self.__get_embedding, chunk) for _, chunk in approx_chunks];
 
-        # Ensure all futures are completed before proceeding
+        # Wait for all futures to be completed before proceeding
         wait(futures, return_when=ALL_COMPLETED);
 
         # Compile the embeddings from the futures
@@ -419,7 +418,8 @@ class ChunkProcessor:
         self, 
         chunks: list[str], 
         approx_chunks: list[tuple[int, str]], 
-        company_names: list[str]
+        company_names: list[str],
+        executor: ThreadPoolExecutor
     ):
         if not approx_chunks:
             return None;
@@ -428,7 +428,7 @@ class ChunkProcessor:
         if len(approx_chunks) == 1:
             index, beginning_chunk = approx_chunks[0];
         else: # Case 2: Multiple approximate chunks in list; use cosine similarity & reranker to rank chunks
-            final_chunks = self._compute_cosine_similarity(approx_chunks);
+            final_chunks = self._compute_cosine_similarity(approx_chunks, executor);
             hybrid_chunks = self._rerank_with_hybrid_score(final_chunks);
 
             if not hybrid_chunks:

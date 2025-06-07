@@ -273,15 +273,15 @@ class Processor:
                 The document url that contains the 'Background of the Merger' section.
         """
         try:
-            result = (
-                ChunkProcessor.locateBackgroundChunk(doc.getContent(), [p for p in START_PHRASES if p != "Background"], executor)
-                or ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], executor)
-            );
-
-            if result:
-                _, approx_chunks = result;
-            else:
-                approx_chunks = [];
+            result = ChunkProcessor.locateBackgroundChunk(doc.getContent(), [phrase for phrase in START_PHRASES if phrase != "Background"], executor);
+            if result is None or len(result[1]) == 0:
+                result = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], executor);
+            
+            if result is None:
+                print("Error in process_document; ChunkProcessor.locateBackgroundChunk returning None is unexpected FATAL! No chunks with dates found.");
+                sys.exit(1);
+            
+            _, approx_chunks = result;
 
             if len(approx_chunks) > 0:
                 with lock:
@@ -309,7 +309,7 @@ class Processor:
         except Exception as e:
             Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
         
-        return;
+        return None;
 
     # @staticmethod
     # def fallback_check(
@@ -449,17 +449,27 @@ class Processor:
                 };
 
                 # Catches the process_document results on the fly and validate result
-                for future in as_completed(futures):
-                    try:
-                        doc_url = future.result();
-                        if doc_url:
-                            executor.shutdown();
-                            return doc_url;
-                    except Exception as e:
-                        if isinstance(e, (CancelledError, EOFError)):
-                            continue;
-                        doc = futures[future];
-                        Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
+                result = None;
+                try:
+                    for future in as_completed(futures):
+                        try:
+                            doc_url = future.result();
+                            if doc_url:
+                                result = doc_url;
+                                break;
+                        except Exception as e:
+                            if isinstance(e, (CancelledError, EOFError)):
+                                continue;
+                            doc = futures[future];
+                            Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
+                finally:
+                    # Attempt to cancel all other unfinished futures
+                    for future in futures:
+                        if not future.done():
+                            future.cancel();
+
+                if result is not None:
+                    return result;
         
         # Fallback method if fuzzy fails. We will use openai to determine if the background section is within any of the documents
         Logger.logMessage(

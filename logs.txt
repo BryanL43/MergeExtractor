@@ -56,3 +56,285 @@
 [2025-06-05 02:28:26] [+] Successfully created document for: Foilmark Inc & Illinois Tool Works Inc
 [2025-06-05 02:28:28] [+] Successfully created document for: McNaughton Apparel Group Inc & Jones Apparel Group Inc
 [2025-06-05 02:28:34] [+] Successfully created document for: Autoweb.com Inc & Autobytel.com Inc
+[2025-06-06 01:31:32] [+] Successfully created document for: Blue Wave Systems Inc & Motorola Inc
+[2025-06-06 01:33:42] [+] Successfully created document for: RGS Energy Group & Energy East Corp
+[2025-06-06 01:38:17] [+] Successfully created document for: RGS Energy Group & Energy East Corp
+[2025-06-06 02:29:35] [-] Process failed with error: Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 157, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+
+[2025-06-06 02:29:35] [-] Process failed with error: Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 157, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 157, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+
+[2025-06-06 02:29:35] [-] Process failed with error: Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 157, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 157, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 157, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+concurrent.futures.process.BrokenProcessPool: A process in the process pool was terminated abruptly while the future was running or pending.
+
+[2025-06-06 18:19:08] [-] Error: cannot unpack non-iterable NoneType object
+Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 66, in process_single_doc
+    chunks, approx_chunks = chunk_processor.locateBackgroundChunk(text, START_PHRASES, executor);
+    ^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+
+[2025-06-06 18:22:08] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:22:12] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:22:12] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-06 18:22:12] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-06-06 18:23:14] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: Error in process_document; ChunkProcessor.locateBackgroundChunk returning None is unexpected FATAL! No chunks with dates found.
+[2025-06-06 18:23:14] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: Error in process_document; ChunkProcessor.locateBackgroundChunk returning None is unexpected FATAL! No chunks with dates found.
+[2025-06-06 18:23:14] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-06 18:23:14] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-06 18:30:19] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:30:23] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:30:23] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-06 18:30:23] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-06 18:31:54] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:31:58] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:31:58] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-06 18:31:58] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-06 18:33:47] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:33:51] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:33:51] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-06 18:33:51] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-06 18:36:34] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:36:38] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:36:38] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-06 18:36:38] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-06-06 18:37:30] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:37:34] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:37:34] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-06 18:37:34] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-06-06 18:38:51] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:38:55] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:38:55] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-06 18:38:55] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+[2025-06-06 18:41:33] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:41:37] [-] Error processing https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt: cannot access local variable 'result' where it is not associated with a value
+[2025-06-06 18:41:37] [*] No background section found for index 0: Prime Response Inc & Chordiant Software Inc. Retrying via fallback...
+[2025-06-06 18:41:37] [-] Confirmed no background section found for index 0: Prime Response Inc & Chordiant Software Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000987/0001012870-01-000987.txt
+		https://www.sec.gov/Archives/edgar/data/1042134/000101287001000359/0001012870-01-000359.txt
+[2025-06-06 18:43:26] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-06-06 18:49:16] [+] Successfully created document for: Focal Inc & Genzyme Corp
+[2025-06-06 18:49:17] [+] Successfully created document for: MedPlus Inc & Quest Diagnostics Inc
+[2025-06-06 18:49:21] [+] Successfully created document for: Mainspring Inc & IBM
+[2025-06-06 18:49:33] [+] Successfully created document for: Learn2.com Inc & E-Stamp Corp
+[2025-06-06 18:49:35] [+] Successfully created document for: Aronex Pharmaceuticals Inc & Antigenics Inc
+[2025-06-06 20:01:29] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\process.py", line 264, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 154, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+
+[2025-06-06 20:01:29] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\process.py", line 264, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 154, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+
+[2025-06-06 20:01:29] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\process.py", line 264, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 154, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+
+[2025-06-06 20:01:38] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\process.py", line 264, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 154, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+
+[2025-06-06 20:01:38] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\process.py", line 264, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 154, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+
+[2025-06-06 20:01:38] [-] Process failed with error: concurrent.futures.process._RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\process.py", line 264, in _process_worker
+    r = call_item.fn(*call_item.args, **call_item.kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 154, in runSeperator
+    future.result();
+    ^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\bryan\AppData\Local\Programs\Python\Python312\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+TypeError: SeperatorHandler.process_single_doc() missing 1 required positional argument: 'rate_limiter_resources'
+
+[2025-06-06 20:02:13] [-] Error: name 'rate_limiter_resources' is not defined
+Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 72, in process_single_doc
+    section_passage = chunk_processor.getSectionPassage(chunks, approx_chunks, company_names, executor, rate_limiter_resources);
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'rate_limiter_resources' is not defined
+
+[2025-06-06 20:02:14] [-] Error: name 'rate_limiter_resources' is not defined
+Traceback (most recent call last):
+  File "D:\Documents\Scripts\MergeExtractor\src\seperator\SeperatorHandler.py", line 72, in process_single_doc
+    section_passage = chunk_processor.getSectionPassage(chunks, approx_chunks, company_names, executor, rate_limiter_resources);
+                                                                                                        ^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'rate_limiter_resources' is not defined
+
