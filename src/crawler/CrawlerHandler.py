@@ -98,7 +98,7 @@ class CrawlerHandler:
         acquired_documents = [];
         with tqdm(
             total=total_tasks,
-            desc="\033[35mProcessing\033[0m",
+            desc="\033[35mScraping\033[0m",
             unit="items",
             ncols=80,
             bar_format="\033[92m{desc}: {percentage:3.0f}%|\033[92m{bar}\033[0m| {n_fmt}/{total_fmt} [elapsed: {elapsed}]\n"

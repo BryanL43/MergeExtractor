@@ -13,7 +13,6 @@ import sys
 from collections import Counter
 from sentence_transformers import CrossEncoder
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import time
 
 from src.utils.Logger import Logger
 from src.dependencies.RateLimiter import RateLimiter

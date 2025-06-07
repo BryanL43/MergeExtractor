@@ -3,16 +3,15 @@ import os
 from datetime import datetime
 import sys
 import re
+from openai import OpenAI
 from rapidfuzz import fuzz
 import requests
-import gc
-import time
 
 from src.dependencies.RateLimiter import RateLimiter
 from src.utils.Logger import Logger
 from src.crawler.Processor import Processor
 
-from src.dependencies.config import FORM_TYPES, MAX_NUM_OF_THREADS
+from src.dependencies.config import FORM_TYPES, MAX_NUM_OF_THREADS, OPENAI_API_KEY
 
 """
     - This object houses static helper methods for the Crawler.
@@ -388,6 +387,9 @@ class CrawlerSupport:
             print("Skipping: Document already exist...");
             return None;
     
+        # Instantiate utility objects in child process
+        client = OpenAI(api_key=OPENAI_API_KEY);
+    
         # Construct the constraint of a given date & prep for url-parsing
         kwargs = {'date': announcement_date};
         if date_margin is not None:
@@ -448,7 +450,7 @@ class CrawlerSupport:
         print(f"Number of documents: {len(documents)}");
 
         # Acquire the specific document with the "Background of the Merger" section
-        doc_url = Processor.locateDocument(documents, company_names, main_index);
+        doc_url = Processor.locateDocument(documents, company_names, main_index, client);
         if doc_url is None:
             Logger.logMessage(
                 f"[-] Confirmed no background section found for index {main_index}: {company_names[0]} & {company_names[1]}."

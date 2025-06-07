@@ -2,7 +2,6 @@ from concurrent.futures import ProcessPoolExecutor, ThreadPoolExecutor, as_compl
 from multiprocessing import get_context
 from tqdm import tqdm
 import os
-import sys
 from openai import OpenAI
 from sentence_transformers import CrossEncoder
 import traceback

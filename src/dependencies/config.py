@@ -60,3 +60,54 @@ RERANK_QUERY_FILE = os.path.abspath("./config/rerank_query.txt");
 BATCH_SIZE = 128; # Computing power specific. Tune for your device.
 
 LOG_FILE_PATH = os.path.abspath("./logs.txt");
+
+# Fallback tools and queries
+FALLBACK_MODEL = "gpt-4o-mini";
+FALLBACK_TOOLS = [{
+    "type": "function",
+    "function": {
+        "name": "determine_background_section",
+        "description": (
+            "Analyze the given text and determine if a section exists that serves the same role as the "
+            "'background of the merger' section. This section may appear under alternative titles, including but not limited to "
+            "'Background of the Transaction', 'Background of the Acquisition', 'Background of the Offer', "
+            "'Background of the Consolidation', or simply 'Background'. You should infer the presence of the section "
+            "based on contextual and structural cues, even if the exact phrase is not used.\n\n"
+
+            "The 'background of the merger' section typically provides a **chronological narrative** of the events, meetings, decisions, "
+            "and negotiations that led to the merger agreement. It often includes **dates**, names of involved companies, and summaries "
+            "of board discussions or strategic rationales.\n\n"
+
+            "Be cautious of false positives. Do not match if the phrase appears only in citations, references (e.g., 'see Background of the Merger'), "
+            "table of contents, or mentions without section content.\n\n"
+
+            "**Your task is to identify whether such a section is truly present, and return:**\n"
+            "- hasSection: True or False\n"
+            "- matchHeader: the exact header string only (e.g., 'Background', or 'Background of the Offer')\n"
+            "- confidence: your certainty score (0 to 1)"
+        ),
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "hasSection": {
+                    "type": "boolean",
+                    "description": "Whether the 'background of the merger' section is present in the given text."
+                },
+                "matchHeader": {
+                    "type": "string",
+                    "description": "The exact header or phrase matched (if any). Reply with the exact header string only."
+                },
+                "confidence": {
+                    "type": "number",
+                    "description": "A confidence score between 0 and 1 indicating how certain the model is"
+                }
+            },
+            "required": [
+                "hasSection",
+                "matchHeader",
+                "confidence"
+            ],
+            "additionalProperties": False
+        }
+    }
+}];
