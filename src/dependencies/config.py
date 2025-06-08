@@ -111,3 +111,73 @@ FALLBACK_TOOLS = [{
         }
     }
 }];
+
+# Initiator identifier tools and queries
+IDENTIFIER_MODEL = "o4-mini-2025-04-16";
+IDENTIFIER_TOOLS = [{
+    "type": "function",
+    "function": {
+        "name": "identify_initiator",
+        "description": (
+            "Analyze the provided merger-related text to determine who initiated the deal and why. "
+            "Classify the initiation as one of four types:\n"
+            "- 'Acquirer-Initiated Deal' — the acquiring company proposed the transaction\n"
+            "- 'Target-Initiated Deal' — the company being acquired proposed the transaction\n"
+            "- 'Third-Party-Initiated Deal' — an external party such as an investor, advisor, or regulator initiated the process\n"
+            "- 'Mutual' — both companies jointly pursued the deal without a clearly dominant initiator\n\n"
+
+            "Extract the full legal name of the initiating entity (avoid vague references like 'Offeror' or 'Parent' unless unavoidable), "
+            "the approximate date of the first meaningful contact, and the primary reasons cited for the merger.\n\n"
+
+            "Also resolve ambiguous initiator names (e.g., Offeror) to the parent company if possible, and expand abbreviated company names. "
+            "Note that the potential abbreviations for company names will be provided."
+            "Do also note any conflicting or contradictory sources, and provide reasoned interpretations when ambiguity exists.\n\n"
+
+            "Remain neutral and factual—avoid speculation."
+
+            "**The information accuracy is important in determining whether price manipulation is present depending on who is initiating the merger.** \n\n"
+        ),
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "initiator": {
+                    "type": "string",
+                    "description": (
+                        "The full legal name of the company that first initiated or proposed the merger."
+                        "If the deal was mutually initiated, return 'Mutual'. "
+                        "If the deal was initiated by a third party, return 'Third-Party'. "
+                        "Avoid vague terms like 'Parent' or 'Offeror' unless no other information is available."
+                    )
+                },
+                "date_of_initiation": {
+                    "type": "string",
+                    "description": (
+                        "The date of first meaningful contact between the companies or their representatives regarding the merger or acquisition." 
+                        "This includes emails, meetings, letters of intent, or informal discussions leading to a formal proposal."
+                    )
+                },
+                "type_of_initiation": {
+                    "type": "string",
+                    "enum": [
+                        "Acquirer-Initiated Deal",
+                        "Target-Initiated Deal",
+                        "Third-Party-Initiated Deal",
+                        "Mutual"
+                    ],
+                    "description": "The classification of who initiated the deal: the acquiring company, the target company, a third party (such as an investor or advisor arranging the merger), or both parties jointly."
+                },
+                "stated_reasons": {
+                    "type": "string",
+                    "description": "A concise summary of the stated or implied motivations for the merger, including strategic, financial, legal, or operational factors."
+                }
+            },
+            "required": [
+                "initiator",
+                "date_of_initiation",
+                "type_of_initiation",
+                "stated_reasons"
+            ],
+            "additionalProperties": False
+        }
+    }
+}];

@@ -338,6 +338,14 @@ class Processor:
             for future in as_completed(futures):
                 try:
                     response, doc = future.result();
+
+                    # Log token usage
+                    usage = response.usage;
+                    Logger.logMessage(f"[i] Used approximately {usage.total_tokens} tokens per document"
+                          f"(prompt: {usage.prompt_tokens}, completion: {usage.completion_tokens})");
+                    
+                    Logger.logMessage(f"[i] Number of documents: {len(documents)}");
+        
                     tool_calls = response.choices[0].message.tool_calls;
                     if tool_calls:
                         args = json.loads(tool_calls[0].function.arguments);

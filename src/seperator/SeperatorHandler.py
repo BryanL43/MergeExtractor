@@ -10,7 +10,6 @@ import time
 
 from src.utils.Logger import Logger
 from src.dependencies.ChunkProcessor import ChunkProcessor
-from src.dependencies.RateLimiter import RateLimiter
 
 from src.dependencies.config import (
     OPENAI_API_KEY, 
@@ -52,7 +51,7 @@ class SeperatorHandler:
             return;
 
         # Check if the extracted file exists
-        extracted_path = f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt";
+        extracted_path = os.path.abspath(f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt");
         if os.path.isfile(extracted_path):
             print(f"Skipping {extracted_path}: Already processed and extracted...");
             return;

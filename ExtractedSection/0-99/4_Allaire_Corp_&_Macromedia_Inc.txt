@@ -1,0 +1,304 @@
+The following provides details about the events leading up to the merger deal between Allaire Corp & Macromedia Inc:
+BACKGROUND OF THE MERGER
+
+     Macromedia and Allaire have had commercial relationships with each other
+since September 1997, and as a result, a number of senior officers of the
+companies had regular business dealings and communications with each other.
+During the week of May 22, 2000, David Orfao, chief executive officer of
+Allaire, and Rob Burgess, chairman and chief executive officer of Macromedia,
+discussed potential business relationships between the companies, including a
+business combination. On June 12, 2000 in San Francisco, and then on June 15,
+2000 in Boston, officers of Allaire, including Mr. Orfao, J.J. Allaire, chairman
+of the board, Jeremy Allaire, chief technology officer, and Simeon Simeonov,
+chief architect, met with officers of Macromedia, including Kevin Lynch,
+executive vice president and president of products, Ian Richmond, senior vice
+president and general manager, embedded systems group, Paul Madar, senior vice
+president, engineering, David Mendels, senior vice president, business
+development, and Stephen Elop, senior vice president, worldwide field
+operations, to discuss a possible business combination. Subsequent meetings to
+discuss potential strategy and products for a combined company were held in
+Boston on June 26 and 27, 2000, and included, in addition to many of the
+foregoing persons, Mr. Burgess, Betsey Nelson, executive vice president and
+chief financial officer of Macromedia, and David Gerth, chief financial officer
+of Allaire. On July 7, 2000, the Macromedia board of directors held a meeting by
+teleconference during which they discussed the potential Allaire transaction.
+On July 14, 2000, in San Francisco, Messrs. Orfao and Gerth and
+representatives of Credit Suisse First Boston Corporation, financial advisor to
+Allaire, met with Mr. Burgess, Ms. Nelson, Margaret McCarthy, senior vice
+president, corporate development, of Macromedia, Tom Hale, senior vice
+president, marketing, of Macromedia, and representatives of Morgan Stanley &
+Co., Inc., financial advisor to Macromedia, to discuss the terms for a potential
+business combination between Allaire and Macromedia. This meeting concluded
+without agreement between the parties with respect to price or other financial
+terms. On July 22, 2000, the Allaire board of directors held a regularly
+scheduled meeting and discussed the previous meetings between Allaire and
+Macromedia. On August 2, 2000, Messrs. Orfao and Jeremy Allaire again met with
+Mr. Burgess and Ms. McCarthy in Boston to discuss the terms of a potential
+transaction; this meeting also concluded without agreement between the parties
+with respect to price or other financial terms.
+In early November, Messrs. Orfao and Burgess discussed possible strategic
+relationships between Allaire and Macromedia, including resuming discussions
+between the parties regarding a potential business combination. On November 6,
+2000, Mr. Lynch presented at the Allaire Developers Conference in Washington,
+D.C., and met that day with Jeremy Allaire to discuss a potential business
+combination between Allaire and Macromedia. On November 14, 2000, Mr. Allaire
+met with Mr. Lynch and Phillip Mazzie, director of corporate development, of
+Macromedia, in San Francisco to discuss a potential product roadmap for the
+combined company. Additional meetings were held on December 6, 2000 among
+Messrs. Orfao, Gerth, Mendels and Mazzie, and on December 7 and 8, 2000 between
+Mr. Allaire and Mr. Lynch, at which the product and financial plans of the
+respective companies were discussed. On December 15, 2000, Macromedia's internal
+strategy team met to review the potential transaction with Allaire, including
+discussions regarding the appropriate valuation ranges of Allaire. From December
+26 through 30, 2000, Mr. Burgess and Mr. Orfao and representatives from Morgan
+Stanley and Credit Suisse First Boston held numerous telephone calls to discuss
+the financial aspects and terms of a potential transaction.
+
+     On January 4, 2001, the Macromedia board of directors met and received an
+update on the strategic purposes of the proposed business combination and the
+status of negotiations regarding a potential transaction with Allaire. The board
+authorized Macromedia management to continue discussions with Allaire. On
+January 4, 2001, Allaire and Macromedia entered into an exclusivity agreement,
+expiring January 17, 2001, providing for a period of exclusive negotiations
+regarding a potential business combination involving Allaire and Macromedia.
+From January 3 through 8, 2001, Macromedia engineering and legal personnel,
+representatives of Fenwick & West LLP, legal counsel to Macromedia, and
+PricewaterhouseCoopers, LLP, accounting advisor to Macromedia, and
+representatives of Morgan Stanley, conducted a due diligence investigation of
+Allaire in Boston.
+
+     On January 6, 2001, Fenwick & West LLP sent Foley, Hoag & Eliot LLP, legal
+counsel to Allaire, drafts of transaction documents which were negotiated by
+Allaire and Macromedia and their respective counsels over the following ten
+days. During this period, Macromedia's due diligence investigation of Allaire
+continued and Allaire conducted a due diligence inquiry of Macromedia. On
+January 11, 2001, in San Francisco, the principal financial officers of each
+company and representatives of Credit Suisse First Boston and Morgan Stanley
+held financial due diligence meetings regarding the respective companies.
+
+     On January 13, 2001, the Allaire board of directors met to discuss the
+status of the proposed transaction with Macromedia and to consider the principal
+transaction terms, including the proposed exchange ratio. The Allaire board
+authorized Allaire management to continue negotiations with Macromedia.
+
+     The Macromedia board of directors met on January 14, 2001, discussed the
+principal transaction terms and those issues as yet unresolved, reviewed
+management's and counsel's due diligence reports on Allaire, received a
+presentation from Morgan Stanley on the financial aspects of the proposed
+transaction, and authorized Macromedia management to propose to Allaire a
+purchase price for Allaire shares consisting of a combination of cash and
+Macromedia common stock. The parties and their respective legal representatives
+continued to negotiate over the next two days to resolve open issues, including
+the transaction price and the terms of the Allaire stock option requested by
+Macromedia. Also during this period, Macromedia and several Allaire executives
+negotiated the terms of employment agreements to become effective if the merger
+closes.
+On January 16, 2001, the Allaire board met to consider the proposed
+transaction with Macromedia. Credit Suisse First Boston made a presentation to
+the Allaire board on the financial aspects of the proposed transaction. After
+the presentation, Credit Suisse First Boston rendered to the Allaire board an
+oral opinion, which opinion was confirmed by delivery of a written opinion dated
+January 16, 2001, to the effect that, as of that date and based on and subject
+to the matters described in its opinion, the merger consideration provided for
+in the merger with Macromedia was fair, from a financial point of view, to the
+holders of Allaire common stock. Allaire's board then approved the merger
+agreement and the related transaction agreements. Later that day, the Macromedia
+board met to approve the merger agreement and the related transaction
+agreements. Allaire and Macromedia executed the merger agreement and the related
+agreements at approximately 4:30 p.m. Eastern time, and shortly thereafter
+publicly announced the proposed transaction. The merger agreement was amended
+and restated on January 29, 2001.
+
+ALLAIRE'S REASONS FOR THE MERGER
+
+     Allaire's board has determined that the terms of the merger agreement and
+the merger are fair to, and in the best interests of, Allaire and its
+stockholders. In reaching its unanimous decision to approve the merger
+agreement, Allaire's board consulted Allaire's management, financial advisors
+and legal counsel, and identified and considered several factors which, when
+taken as a whole, supported its decision. The board considered the following
+material factors:
+- The board considered the complementary nature of each company's products
+       and the potential for a combined product offering to address all aspects
+       of web development and design. The board believed the combined company
+       will offer a suite of tools and application servers that will allow web
+       professionals to more efficiently build both the look of a web site and
+       the application logic behind the web site and to deliver a web site on
+       multiple devices and in multiple formats.
+
+     - The board considered that the combined company might be able to create
+       significant product sales and distribution synergies. In particular, the
+       board recognized that the combined company will have the opportunity to
+       capitalize on each company's strong customer and partner relationships
+       and established reputations to provide additional products and services
+       to each company's existing
+
+       customers. The board considered that the combined company will have a
+       substantially larger customer base.
+
+     - The board considered the ability of the combined company to take
+       advantage of the product development and deployment expertise of both
+       companies in order to bring new products to market in a timely fashion.
+
+     - The board considered that the merger consideration to be received by
+       Allaire stockholders represented premiums of approximately 51.8% and
+       111.9% to the closing prices of Allaire common stock on January 12, 2001,
+       the last trading day before the meeting at which the Allaire board of
+       directors approved the merger, and November 30, 2000, respectively. The
+       board also considered current financial market conditions and the
+       historical volatility and trading prices of the Allaire common stock and
+       the Macromedia common stock, as well as the board's expectations
+       regarding the potential for future increases in the trading prices of the
+       two stocks.
+- The board considered that a portion of the merger consideration to be
+       received by Allaire stockholders will be paid in cash and therefore will
+       not be adjusted downward in the event of a decline in the trading price
+       of Macromedia common stock or Allaire common stock after the announcement
+       of the merger.
+
+     - The board considered the risks and potential rewards associated with
+       continuing to operate as an independent company as an alternative to the
+       merger, including, among others, risks associated with remaining
+       independent in light of increasing consolidation and competition in the
+       application server and tools markets. The board also considered potential
+       rewards associated with the opportunity for stockholders to participate
+       in the future growth of Macromedia.
+
+     - The board considered the possibility, as an alternative to the merger, of
+       seeking to acquire another company, seeking to engage in one or more
+       joint ventures or seeking to engage in a combination with a company other
+       than Macromedia, and the Allaire board's conclusion that a transaction
+       with Macromedia is more feasible.
+
+     - The board considered the larger market capitalization of Macromedia and
+       the corresponding increase in trading liquidity for former Allaire
+       stockholders as a result of the merger.
+
+     - The board considered favorably the financial presentation of Credit
+       Suisse First Boston including its opinion to Allaire's board of directors
+       as to the fairness, from a financial point of view, of the merger
+       consideration to the holders of Allaire common stock.
+
+     - The board considered the financial strength of Macromedia and the
+       likelihood that it would be able to complete the merger, including its
+       ability to obtain necessary regulatory approvals.
+
+     - The board considered the complementary corporate cultures of the two
+       companies.
+
+
+     - The board considered the economic effects of the merger on the customers,
+       employees, suppliers and other constituents of Allaire and on the
+       communities in which Allaire does business.
+
+     - The board considered the limited rights that Macromedia has to terminate
+       the merger agreement, including the fact that Macromedia may not
+       terminate the merger agreement on the basis of changes in the price of
+       the Allaire common stock.
+
+     - The board considered its right under the merger agreement to consider
+       superior acquisition proposals, alter its recommendation of the merger
+       and, in the event the stockholders do not approve the merger, pursue
+       superior acquisition proposals.
+
+     In reaching its decision to approve the merger and recommend approval to
+Allaire's stockholders, Allaire's board of directors also considered a number of
+potentially negative factors concerning the merger. These factors included the
+following:
+
+     - The board considered the volatility of the trading price of Macromedia
+       common stock, including the fact that the exchange ratio for the share
+       consideration to be received by Allaire stockholders is
+
+       fixed and will not increase in the event of a decline in the trading
+       price of Macromedia common stock.
+
+     - The board considered the risk that Macromedia will not successfully
+       integrate the operations of the two companies or achieve the anticipated
+       synergies of the combination, which might adversely affect the trading
+       price of the Macromedia common stock received in the merger.
+
+     - The board considered the possible effects of the public announcement of
+       the merger on Allaire's sales and its relationships with its employees,
+       suppliers and strategic partners.
+
+     - The board considered that the termination fee and the stock option
+       agreement negotiated by Macromedia could have the effect of deterring
+       other potential acquirors from proposing an alternative transaction that
+       might be more advantageous to Allaire stockholders. In determining the
+       fairness of the merger to Allaire stockholders, the board took into
+       account the size of the termination fee, the conditions to the exercise
+       of the stock option agreement and the board's evaluation of the
+       likelihood that another company would propose an alternative transaction
+       even in the absence of the termination fee and the stock option
+       agreement.
+
+     In addition, Allaire's board of directors considered the interests that its
+officers and directors may have with respect to the merger in addition to their
+interests as Allaire stockholders. See " -- Interests of certain persons in the
+merger" on page 38 for a more complete discussion of these interests.
+
+     Allaire's board of directors evaluated these factors in light of their
+knowledge of Allaire's business, Allaire's customers and partners, the market
+for web design and development products, and their business judgment. In view of
+the variety of factors and the amount of information considered, Allaire's board
+of directors did not find it practicable to, and did not, quantify, rank or
+otherwise assign relative weights to the specific factors it considered in
+reaching its decision. The determination was made after consideration of all of
+the factors taken as a whole. In addition, individual members of Allaire's board
+of directors may have given different weights to different factors. The
+foregoing discussions of the information and factors considered by Allaire's
+board of directors are not intended to be exhaustive but are believed to include
+all of the material factors considered by Allaire's board.
+
+RECOMMENDATION OF ALLAIRE'S BOARD OF DIRECTORS
+
+     ALLAIRE'S BOARD OF DIRECTORS HAS UNANIMOUSLY APPROVED THE MERGER AGREEMENT,
+THE MERGER AND THE OTHER TRANSACTIONS CONTEMPLATED BY THE MERGER AGREEMENT.
+ALLAIRE'S BOARD OF DIRECTORS BELIEVES THAT THE MERGER AGREEMENT AND THE MERGER
+ARE ADVISABLE, FAIR TO AND IN THE BEST INTERESTS OF ALLAIRE AND ITS STOCKHOLDERS
+AND RECOMMENDS THAT ITS STOCKHOLDERS VOTE FOR THE APPROVAL AND ADOPTION OF THE
+MERGER AGREEMENT AND THE MERGER.
+
+     If the merger is not completed, Allaire intends to continue as an
+independent public company and will continue to evaluate other strategic
+transactions or alternatives to realize value for its stockholders.
+
+OPINION OF ALLAIRE'S FINANCIAL ADVISOR
+
+
+     Credit Suisse First Boston has acted as Allaire's financial advisor in
+connection with the merger. Allaire selected Credit Suisse First Boston based on
+Credit Suisse First Boston's experience, expertise and reputation. Credit Suisse
+First Boston is an internationally recognized investment banking firm and is
+regularly engaged in the valuation of businesses and securities in connection
+with mergers and acquisitions, leveraged buyouts, negotiated underwritings,
+competitive biddings, secondary distributions of listed and unlisted securities,
+private placements and valuations for corporate and other purposes.
+
+     In connection with Credit Suisse First Boston's engagement, Allaire
+requested that Credit Suisse First Boston evaluate the fairness, from a
+financial point of view, to the holders of Allaire common stock of the merger
+consideration provided for in the merger. On January 16, 2001, at a meeting of
+the Allaire board of directors held to evaluate the merger, Credit Suisse First
+Boston rendered to the Allaire board of directors an oral opinion, which opinion
+was confirmed by delivery of a written opinion dated January 16, 2001, the
+
+date of the merger agreement, to the effect that, as of that date and based on
+and subject to the matters described in its opinion, the merger consideration
+provided for in the merger was fair, from a financial point of view, to the
+holders of Allaire common stock.
+
+     THE FULL TEXT OF CREDIT SUISSE FIRST BOSTON'S WRITTEN OPINION, DATED
+JANUARY 16, 2001, TO THE ALLAIRE BOARD OF DIRECTORS, WHICH SETS FORTH, AMONG
+OTHER THINGS, THE PROCEDURES FOLLOWED, ASSUMPTIONS MADE, MATTERS CONSIDERED AND
+LIMITATIONS ON THE REVIEW UNDERTAKEN, IS ATTACHED AS ANNEX D AND IS INCORPORATED
+INTO THIS DOCUMENT BY REFERENCE. HOLDERS OF ALLAIRE COMMON STOCK ARE URGED TO,
+AND SHOULD, READ THIS OPINION CAREFULLY AND IN ITS ENTIRETY. CREDIT SUISSE FIRST
+BOSTON'S OPINION IS ADDRESSED TO THE ALLAIRE BOARD OF DIRECTORS AND RELATES ONLY
+TO THE FAIRNESS OF THE MERGER CONSIDERATION FROM A FINANCIAL POINT OF VIEW, DOES
+NOT ADDRESS ANY OTHER ASPECT OF THE PROPOSED MERGER OR ANY RELATED TRANSACTION
+AND DOES NOT CONSTITUTE A RECOMMENDATION TO ANY STOCKHOLDER AS TO ANY MATTER
+RELATING TO THE MERGER. THE SUMMARY OF CREDIT SUISSE FIRST BOSTON'S OPINION IN
+THIS DOCUMENT IS QUALIFIED IN ITS ENTIRETY BY REFERENCE TO THE FULL TEXT OF THE
+OPINION.
