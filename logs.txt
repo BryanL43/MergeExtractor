@@ -1,27 +1,59 @@
-[2025-04-17 03:11:18] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
-[2025-04-17 03:11:18] [-] Process failed with error: Traceback (most recent call last):
-  File "e:\Documents\Scripts\MergeExtractor\src\Crawler.py", line 169, in runCrawler
-    main_index, doc_url = future.result();
-    ^^^^^^^^^^^^^^^^^^^
-TypeError: cannot unpack non-iterable NoneType object
-
-[2025-04-17 03:14:03] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
-[2025-04-17 03:14:18] [+] Successfully created document for: Allaire Corp & Macromedia Inc
-[2025-04-17 03:14:24] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
-[2025-04-17 03:14:26] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
-[2025-04-17 03:14:32] [+] Successfully created document for: Xircom Inc & Intel Corp
-[2025-04-17 03:15:50] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
-[2025-04-17 03:16:06] [+] Successfully created document for: Allaire Corp & Macromedia Inc
-[2025-04-17 03:16:13] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
-[2025-04-17 03:16:15] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
-[2025-04-17 03:16:19] [+] Successfully created document for: Xircom Inc & Intel Corp
-[2025-04-17 03:16:23] [-] Error writing to output for index 0: type object 'Crawler' has no attribute 'announcement_date'
-[2025-04-17 03:16:23] [-] Error writing to output for index 2: type object 'Crawler' has no attribute 'announcement_date'
-[2025-04-17 03:16:23] [-] Error writing to output for index 3: type object 'Crawler' has no attribute 'announcement_date'
-[2025-04-17 03:16:23] [-] Error writing to output for index 4: type object 'Crawler' has no attribute 'announcement_date'
-[2025-04-17 03:17:22] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
-[2025-04-17 03:17:38] [+] Successfully created document for: Allaire Corp & Macromedia Inc
-[2025-04-17 03:17:45] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
-[2025-04-17 03:17:46] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
-[2025-04-17 03:17:52] [+] Successfully created document for: Xircom Inc & Intel Corp
-[2025-04-17 03:19:51] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-06-05 02:21:12] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-06-05 02:21:21] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-06-05 02:21:24] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-06-05 02:21:25] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-06-05 02:21:26] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-06-05 02:21:56] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-06-05 02:22:00] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-06-05 02:22:00] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
+[2025-06-05 02:22:01] [+] Successfully created document for: Pontotoc Production Inc & Ascent Energy Inc
+[2025-06-05 02:22:04] [+] Successfully created document for: Guest Supply Inc & Sysco Corp
+[2025-06-05 02:22:36] [+] Successfully created document for: Heartport Inc & Johnson & Johnson
+[2025-06-05 02:22:36] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
+[2025-06-05 02:22:37] [+] Successfully created document for: Tosco Corp & Phillips Petroleum Co Inc
+[2025-06-05 02:22:39] [+] Successfully created document for: Sensory Science Corp & SONICBlue Inc
+[2025-06-05 02:22:45] [+] Successfully created document for: Credit Management Solutions & First American Corp
+[2025-06-05 02:23:14] [+] Successfully created document for: UTI Energy Corp & Patterson Energy Inc
+[2025-06-05 02:23:26] [+] Successfully created document for: Women.com Networks & iVillage Inc
+[2025-06-05 02:23:29] [+] Successfully created document for: New Era of Networks Inc & Sybase Inc
+[2025-06-05 02:23:33] [+] Successfully created document for: Conectiv Inc & Potomac Electric Power Company
+[2025-06-05 02:23:42] [*] No background section found for index 19: RGS Energy Group & Energy East Corp. Retrying via fallback...
+[2025-06-05 02:23:42] [-] Confirmed no background section found for index 19: RGS Energy Group & Energy East Corp.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1073353/000091205701007680/0000912057-01-007680.txt
+		https://www.sec.gov/Archives/edgar/data/1046861/000091205701509743/0000912057-01-509743.txt
+[2025-06-05 02:24:10] [+] Successfully created document for: Fourth Shift Corp & AremisSoft Corp
+[2025-06-05 02:24:18] [+] Successfully created document for: ASI Solutions Inc & Aon Corp
+[2025-06-05 02:24:18] [+] Successfully created document for: Oshman's Sporting Goods Inc & Gart Sports Co
+[2025-06-05 02:24:37] [*] No background section found for index 20: Blue Wave Systems Inc & Motorola Inc. Retrying via fallback...
+[2025-06-05 02:24:37] [-] Confirmed no background section found for index 20: Blue Wave Systems Inc & Motorola Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/68505/000091205701516258/0000912057-01-516258.txt
+		https://www.sec.gov/Archives/edgar/data/68505/000091205701518301/0000912057-01-518301.txt
+[2025-06-05 02:24:50] [+] Successfully created document for: Spieker Properties Inc & Equity Office Properties Trust
+[2025-06-05 02:25:41] [-] No relevant document found for index 27: United Dominion Industries Ltd & SPX Corp
+[2025-06-05 02:25:51] [+] Successfully created document for: Towne Services Inc & Private Business Inc
+[2025-06-05 02:25:53] [+] Successfully created document for: Cambridge Technology Partners & Novell Inc
+[2025-06-05 02:25:54] [+] Successfully created document for: Data Dimensions Inc & Lionbridge Technologies Inc
+[2025-06-05 02:25:56] [+] Successfully created document for: VitalCom Inc & Data Critical Corp
+[2025-06-05 02:26:11] [-] No relevant document found for index 31: True North Communications Inc & Interpublic Group of Cos Inc
+[2025-06-05 02:26:23] [+] Successfully created document for: Sequoia Software Corp & Citrix Systems Inc
+[2025-06-05 02:26:24] [+] Successfully created document for: Huntway Refining Co & Valero Energy Corp
+[2025-06-05 02:26:28] [+] Successfully created document for: CUseeMe Networks Inc & First Virtual Communications
+[2025-06-05 02:26:38] [+] Successfully created document for: Bergen Brunswig Corp & AmeriSource Health Corp
+[2025-06-05 02:26:57] [-] No relevant document found for index 39: General Semiconductor Inc & Vishay Intertechnology Inc
+[2025-06-05 02:27:11] [+] Successfully created document for: Interland Inc & Micron Electronics Inc
+[2025-06-05 02:27:12] [+] Successfully created document for: ALZA Corp & Johnson & Johnson
+[2025-06-05 02:27:14] [+] Successfully created document for: Franchise Finance Corp of Amer & General Electric Capital Corp
+[2025-06-05 02:27:14] [+] Successfully created document for: Kent Electronics Corp & Avnet Inc
+[2025-06-05 02:27:43] [+] Successfully created document for: Dean Foods Co & Suiza Foods Corp
+[2025-06-05 02:27:44] [+] Successfully created document for: Exigent International Inc & Harris Corp
+[2025-06-05 02:27:47] [+] Successfully created document for: Broadbase Software Inc & Kana Communications Inc
+[2025-06-05 02:27:52] [+] Successfully created document for: DTM Corp & 3D Systems Corp
+[2025-06-05 02:27:54] [+] Successfully created document for: USA Detergents Inc & Church & Dwight Co Inc
+[2025-06-05 02:28:13] [-] No relevant document found for index 45: Ravenswood Winery Inc & Constellation Brands Inc
+[2025-06-05 02:28:14] [-] No relevant document found for index 49: Allergan Specialty & Allergan Inc
+[2025-06-05 02:28:26] [+] Successfully created document for: Foilmark Inc & Illinois Tool Works Inc
+[2025-06-05 02:28:28] [+] Successfully created document for: McNaughton Apparel Group Inc & Jones Apparel Group Inc
+[2025-06-05 02:28:34] [+] Successfully created document for: Autoweb.com Inc & Autobytel.com Inc
+[2025-06-06 01:31:32] [+] Successfully created document for: Blue Wave Systems Inc & Motorola Inc

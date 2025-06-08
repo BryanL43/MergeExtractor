@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/1084827/000089843001000748/0000898430-01-000748.txt
+URL: https://www.sec.gov/Archives/edgar/data/1084827/000101287001000336/0001012870-01-000336.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- QQ+vCZ4IRKAXvg5ls/q+F7kHH5N0xBc191LHLTI6ROKNmUF9FCg1Gy2cKIzq6KUZ
- 3PNoY4t99e4vaz7e9/Ui+Q==
+ OJgKbNuv3zDaw507ddbHEmbgTDZ4zgu2grATiUkvv0MlvGVO1IlMxx71bpAp1xsD
+ NwuohjETC/VD+GWcmInwYg==
 
-0000898430-01-000748.txt : 20010226
+0001012870-01-000336.txt : 20010205
 
-0000898430-01-000748.hdr.sgml : 20010226
-ACCESSION NUMBER:		0000898430-01-000748
-CONFORMED SUBMISSION TYPE:	S-4/A
-PUBLIC DOCUMENT COUNT:		9
-FILED AS OF DATE:		20010223
+0001012870-01-000336.hdr.sgml : 20010205
+ACCESSION NUMBER:		0001012870-01-000336
+CONFORMED SUBMISSION TYPE:	S-4
+PUBLIC DOCUMENT COUNT:		14
+FILED AS OF DATE:		20010201
 
 FILER:
 
@@ -28,10 +28,10 @@ FILER:
 		FISCAL YEAR END:			0630
 
 	FILING VALUES:
-		FORM TYPE:		S-4/A
+		FORM TYPE:		S-4
 		SEC ACT:		
 		SEC FILE NUMBER:	333-54746
-		FILM NUMBER:		1552530
+		FILM NUMBER:		1520985
 
 	BUSINESS ADDRESS:	
 		STREET 1:		5410 BETSY ROSS DR
@@ -40,31 +40,24 @@ FILER:
 		ZIP:			95054
 		BUSINESS PHONE:		4083307000
 
-S-4/A
+S-4
 
 0001.txt
 
-AMENDMENT NO. 1 TO THE FORM S-4
+FORM S-4
 
- As filed with the Securities and Exchange Commission on February 23, 2001
-
-                                                 Registration No. 333-54746
+    As filed with the Securities and Exchange Commission on February 1, 2001
+                                                       Registration No. 333-
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
                        SECURITIES AND EXCHANGE COMMISSION
                              Washington, D.C. 20549
-
                                ----------------
-
-                              AMENDMENT NO. 1
-
-                                    TO
                                     FORM S-4
                              REGISTRATION STATEMENT
                                      Under
                            The Securities Act of 1933
-
                                ----------------
                                NetIQ Corporation
              (Exact name of Registrant as specified in its charter)
@@ -81,9 +74,7 @@ AMENDMENT NO. 1 TO THE FORM S-4
                                  (408) 856-3000
   (Address, including zip code, and telephone number, including area code, of
                    Registrant's principal executive offices)
-
                                ----------------
-
                                  Ching-Fa Hwang
                      President and Chief Executive Officer
                                NetIQ Corporation
@@ -92,9 +83,7 @@ AMENDMENT NO. 1 TO THE FORM S-4
                                  (408) 856-3000
  (Name, address, including zip code, and telephone number, including area code,
                              of agent for service)
-
                                ----------------
-
                                    Copies to:
          William M. Kelly, Esq.                   Roy W. Tucker, Esq.
          Davis Polk & Wardwell                      Perkins Coie LLP
@@ -102,9 +91,7 @@ AMENDMENT NO. 1 TO THE FORM S-4
           Menlo Park, CA 94025                         Suite 1500
              (650) 752-2000                        Portland, OR 97204
                                                      (503) 727-2000
-
                                ----------------
-
    Approximate date of commencement of proposed sale to the public: Upon
 consummation of the merger described herein.
    If the securities being registered on this Form are to be offered in
@@ -118,9 +105,32 @@ registration statement for the same offering. [_]
 under the Securities Act, check the following box and list the Securities Act
 registration statement number of the earlier effective registration statement
 for the same offering. [_]
+                               ----------------
+                        CALCULATION OF REGISTRATION FEE
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+ Title of Each Class of
+    Securities to be     Amount to be       Proposed Maximum           Proposed Maximum          Amount of
+       Registered        Registered(1) Offering Price Per Unit(2) Aggregate Offering Price(2) Registration Fee
+- --------------------------------------------------------------------------------------------------------------
+
+Common Stock $0.001 par
+ value.................   13,365,000             $67.00                 $895,455,000.00         $225,000.00
+- --------------------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------
+
+(1) Based upon the maximum number of shares of common stock of the Registrant
+    which may be issued to shareholders of WebTrends Corporation pursuant to
+    the merger described herein, based upon the number of shares of WebTrends
+    common stock outstanding as of the date hereof or issuable pursuant to
+    options or other rights exercisable on or before June 30, 2001.
+(2) Pursuant to Rule 457(c) and (f) under the Securities Act of 1933, as
+    amended, the registration fee has been calculated based on the average of
+    the high and low prices per share of WebTrends Corporation's common stock
+    on January 26, 2001, as reported on the Nasdaq National Market.
 
                                ----------------
-
    The Registrant hereby amends this Registration Statement on such date or
 dates as may be necessary to delay its effective date until the Registrant
 shall file a further amendment which specifically states that this Registration
@@ -143,9 +153,9 @@ whereby WebTrends will become a wholly-owned subsidiary of NetIQ.
    In the merger, each share of WebTrends common stock will be converted into
 0.48 shares of NetIQ common stock. NetIQ stockholders will continue to own
 their existing stock after the merger. NetIQ common stock is traded on the
-Nasdaq National Market under the trading symbol "NTIQ," and on February 20,
-2001, the closing price of NetIQ common stock was $64.25 per share. NetIQ will
-issue approximately 12.7 million shares in the merger, representing
+Nasdaq National Market under the trading symbol "NTIQ," and on January 30,
+2001, the closing price of NetIQ common stock was $81.125 per share. NetIQ will
+issue approximately 12.7 million common shares in the merger, representing
 approximately 24% of the outstanding shares of NetIQ common stock after the
 merger, on the basis of outstanding shares on January 16, 2001.
 
@@ -170,7 +180,7 @@ Information" on page 75.
 or oral request to NetIQ, 3553 North First Street, San Jose, CA 95134, (408)
 856-3000 and to WebTrends, 851 S.W. Sixth Avenue, Portland, OR 97204, (503)
 294-7025. In order to receive timely delivery of the documents, you must make
-your requests no later than March 15, 2001.
+your requests no later than March   , 2001.
 
    After careful consideration, the boards of directors of both WebTrends and
 NetIQ have determined the merger to be fair to you and in your best interests.
@@ -180,13 +190,13 @@ you.
    Stockholders of NetIQ and WebTrends are cordially invited to attend their
 respective special meetings to vote on the merger:
 
-  . The special meeting of WebTrends shareholders will be held on March 26,
+  . The special meeting of WebTrends shareholders will be held on March   ,
     2001, at 10:00 a.m. local time at the Hilton Hotel, 921 S.W. Sixth
     Avenue, Portland, Oregon 97204. Only shareholders who hold shares of
     WebTrends at the close of business on February 1, 2001, will be entitled
     to vote at this special meeting.
 
-  . The special meeting of NetIQ stockholders will be held on March 26, 2001,
+  . The special meeting of NetIQ stockholders will be held on March   , 2001,
     at 10:00 a.m. local time at NetIQ's headquarters at 3553 North First
     Street, San Jose, California 95134. Only stockholders who hold shares of
     NetIQ at the close of business on February 1, 2001, will be entitled to
@@ -211,10 +221,9 @@ your shares in person. YOUR VOTE IS VERY IMPORTANT.
  the adequacy or accuracy of this joint proxy statement/prospectus. Any
  representation to the contrary is a criminal offense.
 
-This joint proxy statement/prospectus is dated February 23, 2001, and was first
-                                 mailed to
-
-          holders of common stock on or about February 26, 2001.
+This joint proxy statement/prospectus is dated February   , 2001, and was first
+                                   mailed to
+             holders of common stock on or about February   , 2001.
 
                              WEBTRENDS CORPORATION
                              851 S.W. Sixth Avenue
@@ -222,13 +231,12 @@ This joint proxy statement/prospectus is dated February 23, 2001, and was first
                                  (503) 294-7025
 
                    NOTICE OF SPECIAL MEETING OF SHAREHOLDERS
-
-                  TO BE HELD MARCH 26, 2001 AT 10:00 A.M.
+                     TO BE HELD MARCH  , 2001 AT 10:00 A.M.
 
 To the Shareholders of WebTrends Corporation:
 
    A special meeting of shareholders of WebTrends Corporation will be held on
-March 26, 2001, at 10:00 a.m. at the Hilton Hotel, 921 S.W. Sixth Avenue,
+March  , 2001, at 10:00 a.m. at the Hilton Hotel, 921 S.W. Sixth Avenue,
 Portland, Oregon 97204 for the following purposes:
 
      1. To consider and vote on the proposed merger of North Acquisition
@@ -259,8 +267,7 @@ February 1, 2001, are entitled to notice of, and to vote at, this meeting.
                                           Secretary
 
 Portland, Oregon
-
-February 26, 2001
+February  , 2001
 
  To assure that your shares are represented at the meeting, please complete,
  date and sign the enclosed proxy and mail it promptly in the postage-paid
@@ -275,14 +282,13 @@ February 26, 2001
                                  (408) 856-3000
 
                    NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
-
-                 TO BE HELD MARCH 26, 2001, at 10:00 A.M.
+                    TO BE HELD MARCH   , 2001, at 10:00 A.M.
 
 To the Stockholders of NetIQ Corporation:
 
    A special meeting of stockholders of NetIQ Corporation will be held at
 NetIQ's headquarters at 3553 North First Street, San Jose, California 95134 on
-March 26, 2001, at 10:00 a.m., local time, for the following purposes:
+March   , 2001, at 10:00 a.m., local time, for the following purposes:
 
      1. To approve the issuance of shares of NetIQ common stock in the merger
   of North Acquisition Corporation, a wholly-owned subsidiary of NetIQ, with
@@ -316,8 +322,7 @@ entitled "Risk Factors."
                                           Secretary
 
 San Jose, California
-
-February 26, 2001
+February   , 2001
 
  To assure that your shares are represented at the meeting, please complete,
  date and sign the enclosed proxy and mail it promptly in the postage-paid
@@ -334,16 +339,16 @@ February 26, 2001
 QUESTIONS AND ANSWERS FOR WEBTRENDS SHAREHOLDERS AND NETIQ STOCKHOLDERS..    1
 SUMMARY OF THE JOINT PROXY STATEMENT/PROSPECTUS..........................    3
   Forward-Looking Statements.............................................    3
-  PROPOSAL NO. 1: THE MERGER.............................................    3
+PROPOSAL NO. 1: THE MERGER...............................................    3
   The Companies..........................................................    3
   Summary of the Merger..................................................    3
-  SELECTED HISTORICAL AND SELECTED PRO FORMA COMBINED FINANCIAL DATA.....    6
+SELECTED HISTORICAL AND SELECTED PRO FORMA COMBINED FINANCIAL DATA.......    6
   NetIQ's Selected Historical Consolidated Financial Data................    6
   WebTrends' Selected Historical Consolidated Financial Data.............    7
   Summary Unaudited Pro Forma Condensed Combined Financial Data..........    8
   Comparative Per Share Data.............................................   10
-  PROPOSAL NO. 2 FOR NETIQ STOCKHOLDERS: AMENDMENT OF CERTIFICATE OF
-   INCORPORATION ........................................................   11
+PROPOSAL NO. 2 FOR NETIQ STOCKHOLDERS: AMENDMENT OF CERTIFICATE OF
+ INCORPORATION ..........................................................   11
 RISK FACTORS.............................................................   12
 THE NETIQ MEETING........................................................   22
 THE WEBTRENDS MEETING....................................................   25
@@ -401,7 +406,7 @@ ANNEX E Certificate of Amendment to NetIQ's Certificate of
     QUESTIONS AND ANSWERS FOR WEBTRENDS SHAREHOLDERS AND NETIQ STOCKHOLDERS
                            PROPOSAL NO.1: THE MERGER
 
-Q: What is the merger? (See page 28)
+Q:What is the merger? (See page 28)
 
 A: The merger will result in the acquisition of the business of WebTrends by
    NetIQ. Upon consummation of the merger, WebTrends will become a wholly-
@@ -422,11 +427,11 @@ A: When the merger is completed, holders of WebTrends common stock will
    multiplied by the fraction of a NetIQ share such shareholder would
    otherwise receive.
 
-   Options to purchase shares of WebTrends common stock will be converted into
-   options to purchase shares of NetIQ common stock. The number of shares
-   covered by, and the exercise price for, each option will be adjusted using
-   the merger exchange ratio of 0.48 shares of NetIQ for each share of
-   WebTrends.
+  Options to purchase shares of WebTrends common stock will be converted into
+  options to purchase shares of NetIQ common stock. The number of shares
+  covered by, and the exercise price for, each option will be adjusted using
+  the merger exchange ratio of 0.48 shares of NetIQ for each share of
+  WebTrends.
 
 Q: Does the board of directors of WebTrends recommend voting in favor of the
    merger? (See page 32)
@@ -446,7 +451,7 @@ Q: Are there risks I should consider in deciding whether to vote for the
    merger? (See page 12)
 
 A: Yes. In evaluating the merger, you should carefully read this joint proxy
-   statement/prospectus and, in particular, consider the factors discussed in
+   statement/ prospectus and, in particular, consider the factors discussed in
    the section entitled "Risk Factors."
 
 Q: What do I need to do now?
@@ -458,8 +463,8 @@ A: Mail your signed proxy card in the enclosed return envelope as soon as
    your properly signed proxy, your shares will be voted "FOR" approval of the
    merger.
 
-   WebTrends shareholders, please do not send your WebTrends stock certificates
-   at this time.
+  WebTrends shareholders, please do not send your WebTrends stock certificates
+  at this time.
 
 Q: If my shares are held in "street name" by my broker, will my broker vote my
    shares for me?
@@ -510,17 +515,17 @@ Q: Whom should I call with questions?
 A: WebTrends shareholders should call Nanci Werts, Investor Relations, at (503)
    294-7025 with any questions about the merger.
 
-   NetIQ stockholders should call Susan Torrey, Investor Relations, at (713)
-   548-1863 with any questions about the merger.
+  NetIQ stockholders should call Susan Torrey, Investor Relations, at (713)
+  548-1863 with any questions about the merger.
 
 - --------------------------------------------------------------------------------
               PROPOSAL NO. 2 FOR NETIQ STOCKHOLDERS: AMENDMENT TO
                           CERTIFICATE OF INCORPORATION
 
-Q: What is the Amendment? (See page 73)
+Q:  What is the Amendment? (See page 73)
 
-A: The proposed amendment would increase the number of authorized shares of
-   NetIQ common stock from 100,000,000 to 250,000,000.
+A:  The proposed amendment would increase the number of authorized shares of
+    NetIQ common stock from 100,000,000 to 250,000,000.
 
 Q: Is approval of the amendment required to complete the merger?
 
@@ -737,26 +742,20 @@ Comparative market price information (See page 59)
 pursuant to a fixed exchange ratio. Shares of WebTrends common stock and shares
 of NetIQ common stock are listed on Nasdaq. On January 16, 2001, the last full
 trading day prior to the public announcement of the proposed merger, WebTrends'
-common stock closed at $32.875 per share. On February 20, 2001, WebTrends'
-common stock closed at $30.563 per share. On January 16, 2001, NetIQ's common
-stock closed at $75.00 per share. On February 20, 2001, NetIQ's common stock
-closed at $64.25 per share. Stockholders of both companies should obtain
+common stock closed at $32.875 per share. On January 30, 2001, WebTrends'
+common stock closed at $38.609 per share. On January 16, 2001, NetIQ's common
+stock closed at $75.00 per share. On January 30, 2001, NetIQ's common stock
+closed at $81.125 per share. Stockholders of both companies should obtain
 current market quotations.
 
 Regulatory approval (See page 50)
 
-   We have already obtained from the applicable U.S. and foreign regulatory
-authorities all material regulatory approvals required to permit completion of
-the acquisition. The Hart-Scott-Rodino Act prohibits completion of an
-acquisition until statutory notification requirements and waiting periods have
-been satisfied. The waiting period under the statute applicable to the
-acquisition was terminated on February 7, 2001. However, the Department of
-Justice and the Federal Trade Commission have the authority to challenge the
-acquisition on antitrust grounds before or after we complete the merger. In
-addition, the completion of the merger is subject to the continued
-effectiveness of the registration statement, of which this joint proxy
-statement/prospectus is a part, and compliance with applicable corporate laws
-of Oregon and Delaware.
+   This merger is subject to review by the Department of Justice and the
+Federal Trade Commission to determine whether it is in compliance with
+applicable antitrust laws. In addition, the completion of the merger is subject
+to the continued effectiveness of the registration statement, of which this
+joint proxy statement/prospectus is a part, and compliance with applicable
+corporate laws of Oregon and Delaware.
 
                    SELECTED HISTORICAL AND SELECTED PRO FORMA
                             COMBINED FINANCIAL DATA
@@ -778,14 +777,16 @@ consolidated financial statements not included or incorporated by reference
 herein. The consolidated statement of operations data for the six months ended
 December 31, 1999 and 2000, and the consolidated balance sheet data as of
 December 31, 2000, are derived from unaudited consolidated financial statements
-which are incorporated by reference in this joint proxy statement/prospectus.
-In the opinion of NetIQ's management, such unaudited financial statements have
-been prepared on the same basis as the audited consolidated financial
-statements referred to above and include all adjustments, consisting of only
-normal recurring adjustments, necessary for a fair presentation of the
-information when read in conjunction with the consolidated financial statements
-and notes thereto. Results for the six months ended December 31, 2000, are not
-necessarily indicative of the expected results for the full year.
+which will be incorporated by reference in this joint proxy
+statement/prospectus upon the filing of NetIQ's quarterly report for the
+quarter ended December 31, 2000, on Form 10-Q with the SEC. In the opinion of
+NetIQ's management, such unaudited financial statements have been prepared on
+the same basis as the audited consolidated financial statements referred to
+above and include all adjustments, consisting of only normal recurring
+adjustments, necessary for a fair presentation of the information when read in
+conjunction with the consolidated financial statements and notes thereto.
+Results for the six months ended December 31, 2000, are not necessarily
+indicative of the expected results for the full year.
 
                                                                               Six Months
                                                                                 Ended
@@ -877,18 +878,23 @@ in conjunction with WebTrends' audited consolidated financial statements and
 WebTrends' "Management's Discussion and Analysis of Financial Condition and
 Results of Operations," incorporated by reference in this joint proxy
 statement/prospectus. The consolidated statement of operations data for the
-years ended December 31, 1998, 1999 and 2000, and the consolidated balance
-sheet data as of December 31, 1999 and 2000, have been derived from WebTrends'
+years ended December 31, 1997, 1998 and 1999, and the consolidated balance
+sheet data as of December 31, 1998 and 1999, have been derived from WebTrends'
 audited consolidated financial statements incorporated by reference in this
 joint proxy statement/prospectus. The consolidated statement of operations data
-for the years ended December 31, 1996 and 1997, and the consolidated balance
-sheet data as of December 31, 1996, 1997 and 1998, have been derived from
-WebTrends' audited consolidated financial statements not included or
-incorporated by reference herein. The consolidated statement of operations data
-for the six months ended December 31, 1999 and 2000, are derived from unaudited
-consolidated financial statements. In the opinion of WebTrends' management,
-such unaudited financial statements have been prepared on the same basis as the
-audited consolidated financial statements referred to above and include all
+for the years ended December 31, 1996, and the consolidated balance sheet data
+as of December 31, 1996 and 1997, have been derived from WebTrends' audited
+consolidated financial statements not included or incorporated by reference
+herein. The consolidated statement of operations data for the year ended
+December 31, 2000, and the consolidated balance sheet data as of December 31,
+2000, have been derived from WebTrends' audited consolidated financial
+statements which will be incorporated by reference upon the filing of
+WebTrends' annual report for the year ended December 31, 2000, on Form 10-K
+with the SEC. The consolidated statement of operations data for the six months
+ended December 31, 1999 and 2000, are derived from unaudited consolidated
+financial statements. In the opinion of WebTrends' management, such unaudited
+financial statements have been prepared on the same basis as the audited
+consolidated financial statements referred to above and include all
 adjustments, consisting of only normal recurring adjustments, necessary for a
 fair presentation of the information when read in conjunction with the
 consolidated financial statements and notes thereto. Results for the six months
@@ -1009,10 +1015,10 @@ the period from July 1, 1999 to the date of the acquisitions of these
 companies, and the unaudited historical statement of operations of WebTrends
 and SRI for the twelve months ended June 30, 2000. The unaudited pro forma
 condensed combined statement of operations data for the six months ended
-December 31, 2000, has been derived by combining unaudited historical
-statements of operations of NetIQ and WebTrends for the six months ended
-December 31, 2000, and the unaudited historical statement of operations of SRI
-for the period July 1, 2000, to the date of the acquisition of SRI.
+December 31, 2000, has been derived by combining unaudited historical statement
+of operations of NetIQ and WebTrends for the six months ended December 31,
+2000, and the unaudited historical statement of operations of SRI for the
+period July 1, 2000, to the date of the acquisition of SRI.
 
    The summary unaudited pro forma condensed combined balance sheet as of
 December 31, 2000, gives effect to the above transactions as if they occurred
@@ -1836,7 +1842,7 @@ Date, time and place of NetIQ's special meeting
    The date, time and place of the special meeting of NetIQ stockholders are as
 follows:
 
-                              March 26, 2001
+                                March    , 2001
                              10:00 a.m. local time
                             3553 North First Street
                            San Jose, California 95134
@@ -1870,8 +1876,8 @@ Record date and outstanding shares
 2001, as the record date for the special meeting. Only holders of record of
 NetIQ common stock at the close of business on the record date are entitled to
 notice of and to vote at the meeting. As of the close of business on the record
-date, there were 39,753,975 shares of NetIQ common stock outstanding and
-entitled to vote, held of record by approximately 229 stockholders.
+date, there were     shares of NetIQ common stock outstanding and entitled to
+vote, held of record by approximately     stockholders.
 
 Vote and quorum required
 
@@ -1886,8 +1892,8 @@ incorporation requires the affirmative vote of a majority of NetIQ's
 outstanding common stock.
 
    As of the record date, directors, executive officers and affiliates of NetIQ
-as a group beneficially owned approximately 12% of the outstanding shares of
-NetIQ common stock.
+as a group beneficially owned   % of the outstanding shares of NetIQ common
+stock.
 
 Voting of proxies
 
@@ -2001,7 +2007,7 @@ Date, time and place of the WebTrends special meeting
    The date, time and place of the special meeting of WebTrends shareholders
 are as follows:
 
-                              March 26, 2001
+                                March    , 2001
                              10:00 a.m. local time
                                 The Hilton Hotel
                              921 S.W. Sixth Avenue
@@ -2027,8 +2033,8 @@ Record date and outstanding shares
 2001, as the record date for the special meeting. Only holders of record of
 WebTrends common stock at the close of business on the record date are entitled
 to notice of and to vote at the meeting. As of the close of business on the
-record date, there were 26,536,807 shares of WebTrends common stock outstanding
-and entitled to vote, held of record by approximately 65 shareholders.
+record date, there were     shares of WebTrends common stock outstanding and
+entitled to vote, held of record by approximately     shareholders.
 
 Vote and quorum required
 
@@ -3643,21 +3649,22 @@ relevant tax counsel confirm its opinion as of the closing date. Neither NetIQ
 nor WebTrends intends to waive this condition.
 
    The opinions of tax counsel regarding the merger have relied, and the
-confirmation opinions regarding the merger as of the closing date will each
-rely, on (1) representations and covenants made by NetIQ and WebTrends,
-including those contained in certificates of officers of NetIQ and WebTrends,
-and (2) specified assumptions, including an assumption regarding the completion
-of the merger in the manner contemplated by the merger agreement. In addition,
-the opinions of tax counsel have assumed, and tax counsel's ability to provide
-the closing date opinions will depend on, the absence of changes in existing
-facts or in law between the date of this joint proxy statement/prospectus and
-the closing date. If any of those representations, covenants or assumptions is
-inaccurate, either or both tax counsel may not be able to provide the required
-closing date opinions or the tax consequences of the merger could differ from
-those described in the opinions that tax counsel have delivered. Tax counsel's
-opinions neither bind the Internal Revenue Service nor preclude the IRS or the
-courts from adopting a contrary position. Neither NetIQ nor WebTrends intends
-to obtain a ruling from the IRS on the tax consequences of the merger.
+confirmation opinions regarding the merger as of the closing date (the "closing
+date opinions") will each rely, on (1) representations and covenants made by
+NetIQ and WebTrends, including those contained in certificates of officers of
+NetIQ and WebTrends, and (2) specified assumptions, including an assumption
+regarding the completion of the merger in the manner contemplated by the merger
+agreement. In addition, the opinions of tax counsel have assumed, and tax
+counsel's ability to provide the closing date opinions will depend on, the
+absence of changes in existing facts or in law between the date of this joint
+proxy statement/prospectus and the closing date. If any of those
+representations, covenants or assumptions is inaccurate, either or both tax
+counsel may not be able to provide the required closing date opinions or the
+tax consequences of the merger could differ from those described in the
+opinions that tax counsel have delivered. Tax counsel's opinions neither bind
+the Internal Revenue Service nor preclude the IRS or the courts from adopting a
+contrary position. Neither NetIQ nor WebTrends intends to obtain a ruling from
+the IRS on the tax consequences of the merger.
 
    U.S. Federal Income Tax Treatment of the Merger. The merger will be treated
 for U.S. federal income tax purposes as a reorganization within the meaning of
@@ -3743,19 +3750,20 @@ United States Department of Justice and specified waiting period requirements
 have been satisfied. In connection with the merger, on January 26, 2001, NetIQ,
 WebTrends and certain shareholders of WebTrends each filed with the FTC and the
 Antitrust Division the required notification and report forms under the HSR
-Act. The applicable waiting period under the HSR Act relating to the merger was
-terminated on February 7, 2001.
+Act. The applicable waiting period under the HSR Act relating to the merger is
+scheduled to expire on February 25, 2001, unless the FTC or the Antitrust
+Division grants the parties request for earlier termination of the waiting
+period or requests further information regarding the merger.
 
-   Notwithstanding termination of the HSR Act waiting period, at any time
-before or after the completion of the merger, either the Antitrust Division or
-the FTC could take any action under U.S. antitrust laws as it deems necessary
-or desirable in the public interest, including seeking to enjoin the completion
-of the merger or seeking the divestiture of substantial assets of NetIQ or
-WebTrends. Private parties and state attorneys general may also bring actions
-under U.S. antitrust laws depending on the circumstances. Although we believe
-that the merger is legal under U.S. antitrust laws, we can give no assurance
-that a challenge to the merger on antitrust grounds will not be made or, if
-this challenge is made, that it would not be successful.
+   At any time before or after the completion of the merger, either the
+Antitrust Division or the FTC could take any action under U.S. antitrust laws
+as it deems necessary or desirable in the public interest, including seeking to
+enjoin the completion of the merger or seeking the divestiture of substantial
+assets of NetIQ or WebTrends. Private parties and state attorneys general may
+also bring actions under U.S. antitrust laws depending on the circumstances.
+Although we believe that the merger is legal under U.S. antitrust laws, we can
+give no assurance that a challenge to the merger on antitrust grounds will not
+be made or, if this challenge is made, that it would not be successful.
 
    Other Laws. NetIQ and WebTrends conduct operations in a number of other
 jurisdictions where regulatory filings, notifications or approvals with
@@ -4236,21 +4244,21 @@ the calendar periods indicated the quarterly high and low sale prices per share
 of the last reported closing prices of WebTrends common stock and NetIQ common
 stock as reported on the Nasdaq National Market.
 
-                                                   WebTrends         NetIQ
-                                                --------------- ----------------
-                                                 High     Low     High     Low
-                                                ------- ------- -------- -------
+                                                  WebTrends         NetIQ
+                                               --------------- ----------------
+                                                High     Low     High     Low
+                                               ------- ------- -------- -------
 
 1999:
-  Third Quarter................................ $23.875 $14.688 $ 33.750 $14.938
-  Fourth Quarter...............................  49.281  19.125   59.000  23.500
+  Third Quarter............................... $23.875 $14.688 $ 33.750 $14.938
+  Fourth Quarter..............................  49.281  19.125   59.000  23.500
 2000:
-  First Quarter................................ $85.500 $32.875 $ 78.000 $51.000
-  Second Quarter...............................  72.375  24.063   61.500  31.563
-  Third Quarter................................  44.250  28.000   67.938  42.000
-  Fourth Quarter...............................  35.250  15.500  109.375  46.375
+  First Quarter............................... $85.500 $32.875 $ 78.000 $51.000
+  Second Quarter..............................  72.375  24.063   61.500  31.563
+  Third Quarter...............................  44.250  28.000   67.938  42.000
+  Fourth Quarter..............................  35.250  15.500  109.375  46.375
 2001:
-  First Quarter (through February 20).......... $38.609  24.000 $ 81.125 $61.250
+  First Quarter (through January 26).......... $34.938  24.000 $ 80.250 $61.250
 
 Recent Share Prices
 
@@ -4260,8 +4268,8 @@ specified. January 16, 2001, was the last trading date before announcement of
 the merger. The table also sets forth the equivalent per share price for
 WebTrends common stock, which was determined by multiplying the closing prices
 of the NetIQ common stock as of the specified dates by the exchange ratio of
-0.48. February 20, 2001, was the most recent practicable date before the date
-of this joint proxy statement/prospectus.
+0.48. January 26, 2001, was the most recent practicable date before the date of
+this joint proxy statement/prospectus.
 
                                                               WebTrends
                                                                 Common
@@ -4270,8 +4278,8 @@ of this joint proxy statement/prospectus.
                                                       Stock     Value     Stock
                                                     --------- ---------- -------
 
-January 16, 2001...................................  $32.875   $36.000   $75.000
-February 20, 2001..................................  $30.563   $30.840   $64.250
+January 16, 2001...................................  $32.875   $  36.00  $ 75.00
+January 26, 2001...................................  $33.250   $ 33.780  $70.375
 
    Both WebTrends and NetIQ stockholders are advised to obtain current market
 quotations for WebTrends common stock and NetIQ common stock. No assurance can
@@ -4693,7 +4701,7 @@ presented, as their effect would have been antidilutive.
 development expense included in the historical results of operations of NetIQ
 related to the acquisition of MCS.
 
-   (J) This pro forma adjustment reflects the tax impact of the amortization
+   (J) This pro-forma adjustment reflects the tax impact of the amortization
 of identified intangible assets.
 
                        COMPARISON OF RIGHTS OF HOLDERS OF
@@ -5122,8 +5130,8 @@ Menlo Park, California, counsel for NetIQ. Perkins Coie LLP, Portland, Oregon,
 is counsel to WebTrends. It is a condition to the completion of the merger that
 WebTrends and NetIQ each receive opinions from their counsel to the effect
 that, among other things, the merger will be a reorganization for federal
-income tax purposes. See "Proposal No. 1: The Merger--Material U.S. Federal
-Income Tax Consequences."
+income tax purposes. See "The Merger--Material U.S. Federal Income Tax
+Consequences."
 
                                     EXPERTS
 
@@ -5135,8 +5143,8 @@ reports, which are incorporated by reference herein, and have been so
 incorporated in reliance upon the reports of such firm given upon their
 authority as experts in accounting and auditing.
 
-   The financial statements of WebTrends as of December 31, 2000 and 1999, and
-for each of the years in the three-year period ended December 31, 2000, have
+   The financial statements of WebTrends as of December 31, 1999 and 1998, and
+for each of the years in the three-year period ended December 31, 1999, have
 been incorporated by reference herein and in the joint proxy
 statement/prospectus in reliance upon the report of KPMG LLP, independent
 public accountants, incorporated by reference herein, and upon the authority of
@@ -5213,8 +5221,7 @@ performance.
    --------------------------------------   ------
 
    Annual Report on Form 10-K               Fiscal year ended June 30, 2000
-   Quarterly Reports on Form 10-Q           Quarters ended September 30, 2000, and
-                                            December 31, 2000
+   Quarterly Reports on Form 10-Q           Quarter ended September 30, 2000
                                             Filed on January 17, 2001, and July 19,
    Current Reports on Form 8-K              2000
    Description of NetIQ Common Stock from
@@ -5242,8 +5249,11 @@ performance.
    25215)                                   Period
    -------------------------------------    ------
 
-   Annual Report on Form 10-K               Fiscal year ended December 31, 2000
-   Current Reports on Form 8-K              Filed on January 19, 2001
+   Annual Report on Form 10-K               Fiscal year ended December 31, 1999
+   Quarterly Reports on Form 10-Q           Quarters ended March 31, 2000, June 30,
+                                            2000 and September 30, 2000
+   Current Reports on Form 8-K              Filed on January 26, 2000 and January
+                                            19, 2001
    Description of WebTrends Common Stock
    from Registration Statement on Form 8-A  Filed on December 28, 1998
 
@@ -5273,7 +5283,7 @@ the appropriate party at the following address:
                                Portland, OR 97204
                               Tel: (503) 294-7025
 
-   If you would like to request documents from us, please do so by March 15,
+   If you would like to request documents from us, please do so by March  ,
 2001, to receive them before the special meetings. We shall send the documents
 by first-class mail within one business day of receiving your request.
 
@@ -5286,7 +5296,7 @@ reference in this joint proxy statement/prospectus to vote on the NetIQ share
 issuance proposal and the WebTrends merger agreement proposal. We have not
 authorized anyone to provide you with information that is different from what
 is contained in this document. This joint proxy statement/prospectus is dated
-February 23, 2001. You should not assume that the information in it is accurate
+February  , 2001. You should not assume that the information in it is accurate
 as of any date other than that date, and neither its mailing to shareholders
 nor the issuance of NetIQ common stock in the merger shall create any
 implication to the contrary.
@@ -5323,8 +5333,8 @@ contained in this document with respect to NetIQ was provided by NetIQ.
 
                               /1/
 
-                                                                              Page
-                                                                              ----
+                                                                            Page
+                                                                            ----
 
                                    ARTICLE 1
 
@@ -7790,34 +7800,4 @@ Insider").
 
                             Conditions to the Merger
 
-   Section 9.01. Conditions to Obligations of Each Party. The obligations of
-Company, Parent and Merger Subsidiary to consummate the Merger are subject to
-the satisfaction of the following conditions:
-
-   (a) this Agreement shall have been approved and adopted by the shareholders
-of Company in accordance with Oregon Law and the issuance of Parent Common
-Stock in connection with the Merger shall have been approved by the
-stockholders of Parent in accordance with Delaware Law;
-
-   (b) any applicable waiting period under the HSR Act relating to the Merger
-shall have expired or been terminated;
-
-                                      A-32
-
-   (c) no provision of any applicable law or regulation and no judgment,
-injunction, order or decree shall prohibit the consummation of the Merger;
-
-   (d) there shall not have been instituted or pending any action or proceeding
-(or any investigation or other inquiry that might result in such action or
-proceeding) by any government or governmental authority or agency, domestic,
-foreign or supranational, before any court or governmental authority or agency,
-domestic, foreign or supranational, (i) challenging or seeking to make illegal,
-to delay materially or otherwise directly or indirectly to restrain or prohibit
-the consummation of the Merger, seeking to obtain material damages or otherwise
-directly or indirectly relating to the transactions contemplated by the Merger
-or (ii) seeking to restrain or prohibit Parent's ownership or operation (or
-that of its respective Subsidiaries or Affiliates) of all or any material
-portion of the business or assets of Company and Company Subsidiaries, taken as
-a whole, or of Parent and its Subsidiaries, taken as a whole, or to compel
-Parent or any of its Subsidiaries or Affiliates to dispose of or hold separate
-all or any material portion of the 
+   Section 9.0
