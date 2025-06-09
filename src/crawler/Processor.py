@@ -398,49 +398,49 @@ class Processor:
             found_data = manager.Value("b", False); # Shared boolean to only allow 1 final result
             lock = manager.Lock();
 
+            result = None;
             with ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS) as executor:
                 # Direct processing if only one document
                 if len(documents) == 1:
                     try:
-                        return Processor.process_document(
+                        result = Processor.process_document(
                             documents[0], company_names, main_index, found_data, lock, executor
                         );
                     except Exception as e:
                         Logger.logMessage(f"[-] Error processing {documents[0].getUrl()}: {e}");
                         return None;
+                else:
+                    # Process multiple documents in parallel
+                    futures = {
+                        executor.submit(
+                            Processor.process_document,
+                            doc, company_names, main_index, found_data, lock, executor
+                        ): doc
+                        for doc in documents
+                        if not executor._shutdown
+                    };
 
-                # Process multiple documents in parallel
-                futures = {
-                    executor.submit(
-                        Processor.process_document,
-                        doc, company_names, main_index, found_data, lock, executor
-                    ): doc
-                    for doc in documents
-                    if not executor._shutdown
-                };
-
-                # Catches the process_document results on the fly and validate result
-                result = None;
-                try:
-                    for future in as_completed(futures):
-                        try:
-                            doc_url = future.result();
-                            if doc_url:
-                                result = doc_url;
-                                break;
-                        except Exception as e:
-                            if isinstance(e, (CancelledError, EOFError)):
-                                continue;
-                            doc = futures[future];
-                            Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
-                finally:
-                    # Attempt to cancel all other unfinished futures
-                    for future in futures:
-                        if not future.done():
-                            future.cancel();
-
-                if result is not None:
-                    return result;
+                    # Catches the process_document results on the fly and validate result
+                    try:
+                        for future in as_completed(futures):
+                            try:
+                                doc_url = future.result();
+                                if doc_url:
+                                    result = doc_url;
+                                    break;
+                            except Exception as e:
+                                if isinstance(e, (CancelledError, EOFError)):
+                                    continue;
+                                doc = futures[future];
+                                Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
+                    finally:
+                        # Attempt to cancel all other unfinished futures
+                        for future in futures:
+                            if not future.done():
+                                future.cancel();
+        
+            if result is not None:
+                return result;
         
         # Fallback method if fuzzy fails. We will use openai to determine if the background section is within any of the documents
         Logger.logMessage(

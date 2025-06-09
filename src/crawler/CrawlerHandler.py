@@ -100,51 +100,34 @@ class CrawlerHandler:
             for i in range(0, total_tasks, self.__batch_size):
                 batch_jobs = jobs[i:i + self.__batch_size];
 
-                # Check if batch has only one job, then don't use multiprocessing
-                if len(batch_jobs) == 1:
-                    # Process the single job without multiprocessing
-                    try:
-                        result = CrawlerSupport.process_single_job(
-                            batch_jobs[0],
+                # Launches process pool for the processing batch (single case included due to globalize rate limiter)
+                with ProcessPoolExecutor(
+                    max_workers=min(len(batch_jobs), os.cpu_count()),
+                    initializer=init_worker,
+                    initargs=(max_calls_per_sec,),
+                    mp_context=get_context("spawn")
+                ) as process_pool:
+                    futures = {
+                        process_pool.submit(
+                            CrawlerSupport.process_single_job, 
+                            job, 
                             date_margin
-                        );
-                        if result is not None:
-                            main_index, doc_url = result;
-                            acquired_documents.append((main_index, doc_url));
-                            
-                        pbar.update(1);
-                    except Exception as e:
-                        print(f"Error processing single job: {e}");
-                        Logger.logMessage(f"[-] Process failed with error: {traceback.format_exc()}");
-                else:
-                    # Launches process pool for the current batch
-                    with ProcessPoolExecutor(
-                        max_workers=min(len(batch_jobs), os.cpu_count()),
-                        initializer=init_worker,
-                        initargs=(max_calls_per_sec,),
-                        mp_context=get_context("spawn")
-                    ) as process_pool:
-                        futures = {
-                            process_pool.submit(
-                                CrawlerSupport.process_single_job, 
-                                job, 
-                                date_margin
-                            ): job
-                            for job in batch_jobs
-                        };
+                        ): job
+                        for job in batch_jobs
+                    };
 
-                        # Track progress by waiting for task completion
-                        for future in as_completed(futures):
-                            try:
-                                result = future.result();
-                                if result is not None:
-                                    main_index, doc_url = result;
-                                    acquired_documents.append((main_index, doc_url));
-                                
-                                pbar.update(1);
-                            except Exception as e:
-                                print(f"Error processing batch job: {e}");
-                                Logger.logMessage(f"[-] Process failed with error: {traceback.format_exc()}");
+                    # Track progress by waiting for task completion
+                    for future in as_completed(futures):
+                        try:
+                            result = future.result();
+                            if result is not None:
+                                main_index, doc_url = result;
+                                acquired_documents.append((main_index, doc_url));
+                            
+                            pbar.update(1);
+                        except Exception as e:
+                            print(f"Error processing batch job: {e}");
+                            Logger.logMessage(f"[-] Process failed with error: {traceback.format_exc()}");
 
                 if len(batch_jobs) > 1:
                     # Cooldown and resource flush after every batch
