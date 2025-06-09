@@ -83,7 +83,7 @@ On February 6, 2001, Mr. Vallee, Mr. Sadowski and
 Mr. Olson continued discussions relating to an appropriate
 exchange ratio for the proposed merger.
 
-On February 8, 2001, Mr. Olson and Mr. Sadowski
+On February 8, 2001 Mr. Olson and Mr. Sadowski
 engaged in further discussions regarding an appropriate exchange
 ratio and the economic impact of an acquisition on Avnets
 earnings. Mr. Sadowski indicated that Avnet was prepared to
@@ -137,16 +137,16 @@ Boston as its financial advisor for the proposed merger.
 On February 11, 2001, Mr. Sadowski and Mr. Olson
 discussed various issues regarding a merger, including change of
 control agreements between Kent and several of its executive
-officers and convertible notes and warrants that had been issued
-by Kent. Mr. Olson advised that Credit Suisse First Boston
-would act as financial advisor to Kent regarding the possible
-transaction.
+officers and convertible debentures and warrants that had been
+issued by Kent. Mr. Olson advised that Credit Suisse First
+Boston Corporation would act as financial advisor to Kent
+regarding the possible transaction.
 
 On February 13, 2001, Mr. Sadowski and Mr. Olson
 discussed the change of control agreements between Kent and
 several of its executive officers. See The
 Merger  Interests of Certain Persons in the Merger
-and Possible Conflicts of Interest on page 50.
+and Possible Conflicts of Interest on page 49.
 
 Avnet held a special meeting of its board of directors on
 February 13, 2001, by telephone. Mr. Sadowski,
@@ -187,6 +187,7 @@ a proposed merger agreement to Kents counsel.
 Between February 26, 2001 and March 2, 2001,
 Mr. Sadowski or Mr. Vallee contacted each Avnet
 director individually to report on the status of the potential
+transaction.
 
 In light of the potential conflicts of interest of
 Mr. Abramson and Mr. Olson and other members of
@@ -264,7 +265,7 @@ counsel and approval of each Board of Directors.
 Over the next several days, representatives of Avnet and Kent
 and their respective counsel continued to negotiate the terms of
 the proposed merger agreement and related agreements. See
-Other Agreements on page 68.
+Other Agreements on page 67.
 
 On March 20, 2001, the special committee of Kents
 board of directors held a meeting to consider the proposed
@@ -297,33 +298,32 @@ of Kent approve and adopt the merger agreement.
 On March 21, 2001, the board of directors of Kent met to
 consider the proposed transaction. Mr. Chapko also attended
 this meeting. After being advised by legal counsel of its
-fiduciary duties relating to the
-
-transaction, the Kent board considered the strategic reasons for
-the proposed merger, the principal terms of the proposed merger,
-the recommendation of the special committee and the results of
-the due diligence review of Avnet. In addition, Kents
-counsel described to the board the terms of the proposed merger
-agreement and certain related agreements (current drafts and
-executive summaries of which were provided to the board in
-advance of the meeting) and responded to questions from
-directors. Thereafter, representatives of Credit Suisse First
-Boston joined the meeting to make a presentation to the board of
-directors of Kent regarding the financial terms of the proposed
-merger. After this presentation, Credit Suisse First Boston
-delivered its oral opinion, which opinion was confirmed by
-delivery of a written opinion dated March 21, 2001, to the
-effect that, as of that date and based on and subject to the
-procedures followed, assumptions made, matters considered and
-limitations on review described in its opinion, the exchange
-ratio in the merger agreement was fair to the holders of Kent
-common stock from a financial point of view. After excusing the
-representatives of Credit Suisse First Boston from the meeting,
-and after due deliberation, the Kent board of directors
-unanimously approved the merger agreement and the related
-agreements and the transactions contemplated by those agreements
-and resolved to recommend that Kents shareholders vote to
-approve and adopt the merger agreement.
+fiduciary duties relating to the transaction, the Kent board
+considered the strategic reasons for the proposed merger, the
+principal terms of the proposed merger, the recommendation of
+the special committee and the results of the due diligence
+review of Avnet. In addition, Kents counsel described to
+the board the terms of the proposed merger agreement and certain
+related agreements (current drafts and executive summaries of
+which were provided to the board in advance of the meeting) and
+responded to questions from directors. Thereafter,
+representatives of Credit Suisse First Boston joined the meeting
+to make a presentation to the board of directors of Kent
+regarding the financial terms of the proposed merger. After this
+presentation, Credit Suisse First Boston delivered its oral
+opinion, which opinion was confirmed by delivery of a written
+opinion dated March 21, 2001, to the effect that, as of
+that date and based on and subject to the procedures followed,
+assumptions made, matters considered and limitations on review
+described in its opinion, the exchange ratio in the merger was
+fair to the holders of Kent common stock from a financial point
+of view. After excusing the representatives of Credit Suisse
+First Boston from the meeting, and after due deliberation, the
+Kent board of directors unanimously approved the merger
+agreement and the related agreements and the transactions
+contemplated by those agreements and resolved to recommend that
+Kents shareholders vote to approve and adopt the merger
+agreement.
 On March 21, 2001, the board of directors of Avnet met to
 consider the proposed transaction. Mr. Vallee discussed the
 strategic reasons for the acquisition with the board.
@@ -343,36 +343,46 @@ Final negotiations continued through the evening of
 March 21, 2001, and the merger agreement and related
 agreements were executed late that evening. A press release
 announcing the merger transaction was issued at approximately
-4:00 a.m., Eastern time, on March 22, 2001.
+2:00 a.m. on March 22, 2001.
 
-The merger agreement as executed on March 21, 2001,
-provided that the merger would be a so-called reverse
-triangular merger, in which a wholly-owned subsidiary of
-Avnet would merge into Kent and cease to exist, and Kent would
-become a wholly-owned subsidiary of Avnet. On April 18,
-2001, Mr. Sadowski reported to the executive committee of the
-Avnet board of directors that it might be appropriate to change
-the structure of the merger from a reverse triangular merger to
-a merger of Kent directly into Avnet, in which Kent would cease
-to exist. This change would support the tax-free treatment of
-the proposed merger if Avnet assumes directly all the assets,
-rights, liabilities and obligations of Kent immediately after
-the merger. After consulting with its financial advisors and
-legal counsel, the executive committee approved the new proposed
-structure in which Kent would be merged directly into Avnet, and
-authorized the officers of Avnet to negotiate and document the
-change in an amended and restated agreement and plan of merger.
+Kents Reasons for the Merger
 
-The change of the merger from a reverse triangular merger to a
-direct merger of Kent into Avnet, and the adoption of the
-amended and restated agreement and plan of merger, do not affect
-the exchange ratio or otherwise adversely affect the rights or
-obligations of Avnet, Kent or their shareholders.
+In reaching the decision to approve the merger, the Kent special
+committee and full board considered, among other factors,
+various strategic benefits expected to be derived from the
+merger. Kent has summarized below the key strategic benefits
+identified by the Kent special committee and full board during
+their evaluation of the proposed merger. References below to the
+views and beliefs of the Kent board also reflect the views and
+beliefs of the special committee of the Kent board.
+Enhanced Shareholder Value. 
+The overriding reason for the
+merger is that the Kent board believes the proposed combination
+of Kent and Avnet should generate substantially more value for
+shareholders than Kent could generate on its own or in
+connection with any other reasonably possible transaction. The
+combined company would be better-positioned to meet the
+challenges posed by ongoing consolidation and change in the
+electronics component distribution industry.
 
-On April 19, 2001, Mr. Sadowski discussed the new proposed
-structure of the merger with Mr. Olson. Subsequently, Credit
-Suisse First Boston delivered to the board of directors of Kent
-a revised fairness opinion dated, and speaking only as of, March
-21, 2001. This fairness opinion was revised solely to reflect
-the change of the merger from a reverse triangular merger to a
-direct merger.
+Business Strategy and Industry Trends. 
+The electronics
+component distribution industry is undergoing significant change
+that is resulting in increased competition and narrowing
+margins. In addition, customers are becoming more sophisticated,
+are demanding more services, capabilities and products, and are
+reducing their number of suppliers. Moreover, during the past
+several years the electronics distribution industry has
+undergone significant consolidation. One of the results of this
+consolidation has been that certain competitors of Kent have
+become global in size and have an expanded range of product
+offerings. At the same time, many of Kents customers and
+prospective customers have also consolidated and grown
+substantially larger and frequently prefer to deal with
+companies that can provide a full range of products on a global
+basis. Kents suppliers are also reducing their number of
+distributors, favoring those that can provide a full line of
+products and that have global reach. Based on the foregoing
+factors, the Kent board believes that the most successful
+companies in this industry in the future will have significantly
+greater resources than Kent currently has.

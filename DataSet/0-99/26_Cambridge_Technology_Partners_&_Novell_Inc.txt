@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/895462/000101287001500384/0001012870-01-500384.txt
+URL: https://www.sec.gov/Archives/edgar/data/895462/000095010901501497/0000950109-01-501497.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- DPAK4oiyLrPpbpIwSS/ZuvrSpCRymQDtKLxVO21s17ABVYEdSJUqQj6adLh2SGP5
- MFK93yKVsp4ysMschyYsAQ==
+ Ej5kk4HDoldgm9QGDqX852Sp1wsXUnsLMpG5DAl3+rH/cFiCx6bIZpQkaZcJJxbr
+ HH/ic0gmybffkRjqV86dJw==
 
-0001012870-01-500384.txt : 20010424
+0000950109-01-501497.txt : 20010528
 
-0001012870-01-500384.hdr.sgml : 20010424
-ACCESSION NUMBER:		0001012870-01-500384
-CONFORMED SUBMISSION TYPE:	S-4
+0000950109-01-501497.hdr.sgml : 20010528
+ACCESSION NUMBER:		0000950109-01-501497
+CONFORMED SUBMISSION TYPE:	S-4/A
 PUBLIC DOCUMENT COUNT:		6
-FILED AS OF DATE:		20010420
+FILED AS OF DATE:		20010525
 
 FILER:
 
@@ -29,10 +29,10 @@ FILER:
 		FISCAL YEAR END:			1031
 
 	FILING VALUES:
-		FORM TYPE:		S-4
+		FORM TYPE:		S-4/A
 		SEC ACT:		
 		SEC FILE NUMBER:	333-59326
-		FILM NUMBER:		1607965
+		FILM NUMBER:		1649048
 
 	BUSINESS ADDRESS:	
 		STREET 1:		1800 SOUTH NOVELL PLACE
@@ -57,10 +57,10 @@ FILER:
 		FISCAL YEAR END:			1231
 
 	FILING VALUES:
-		FORM TYPE:		S-4
+		FORM TYPE:		S-4/A
 		SEC ACT:		
 		SEC FILE NUMBER:	333-59326-01
-		FILM NUMBER:		1607966
+		FILM NUMBER:		1649049
 
 	BUSINESS ADDRESS:	
 		STREET 1:		304 VASSAR ST
@@ -75,31 +75,36 @@ FILER:
 		STATE:			MA
 		ZIP:			02139
 
-S-4
+S-4/A
 
-ds4.txt
+ds4a.txt
 
-FORM S-4
+AMENDMENT NO. 1 TO FORM S-4
 
-    As filed with the Securities and Exchange Commission on April 20, 2001
-                                                     Registration No. 333-
+   As filed with the Securities and Exchange Commission on May 25, 2001
+
+                                                Registration No. 333-59326
 - -------------------------------------------------------------------------------
 - -------------------------------------------------------------------------------
 
                       SECURITIES AND EXCHANGE COMMISSION
                             Washington, D.C. 20549
 
-                                ---------------
+                                --------------
+
+                             AMENDMENT No. 1
+
+                                    To
                                    FORM S-4
                             REGISTRATION STATEMENT
                                      Under
                           The Securities Act of 1933
 
-                                ---------------
+                                --------------
                                  NOVELL, INC.
             (Exact name of Registrant as specified in its charter)
 
-                                ---------------
+                                --------------
 
      Delaware                     7373                            87-0393339
  (State or other
@@ -114,7 +119,7 @@ FORM S-4
   (Address, including zip code, and telephone number, including area code, of
                    Registrant's principal executive offices)
 
-                                ---------------
+                                --------------
                                 Dennis R. Raney
                Executive Vice President, Chief Financial Officer
                                  Novell, Inc.
@@ -134,7 +139,7 @@ FORM S-4
          Palo Alto, California 94304                           (212) 309-6000
                (650) 493-9300
 
-                                ---------------
+                                --------------
    Approximate date of commencement of proposed sale to the public: Upon
 consummation of the merger described herein.
    If the securities being registered on this Form are being offered in
@@ -158,8 +163,9 @@ for the same offering. [_]
                                                              Proposed      Maximum
                                                Amount        Maximum      Aggregate    Amount of
      Title of Each Class of                    to be      Offering Price   Offering   Registration
-   Securities to be Registered              Registered(1)   Per Share      Price(2)       Fee
+   Securities to be Registered              Registered(1)   Per Share      Price(2)      Fee(3)
 - --------------------------------------------------------------------------------------------------
+
 Common Stock, par value $0.10 per share...   43,775,557       $2.56      $167,762,614   $41,941
 - --------------------------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------------------------
@@ -175,7 +181,9 @@ Common Stock, par value $0.10 per share...   43,775,557       $2.56      $167,76
     shares of Cambridge Technology Partners (Massachusetts), Inc. common stock
     to be acquired by Novell pursuant to the merger.
 
-                                ---------------
+(3) Previously paid.
+
+                                --------------
    The Registrant hereby amends this Registration Statement on such date or
 dates as may be necessary to delay its effective date until the Registrant
 shall file a further amendment which specifically states that this
@@ -194,33 +202,39 @@ Section 8(a), may determine.
 +offer to sell these securities and it is not soliciting an offer to buy these +
 +securities in any state where the offer or sale is not permitted.             +
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-                                [CAMBRIDGE LOGO]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                                                                              +
++                                                                              +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                    [LOGO OF CAMBRIDGE TECHNOLOGY PARTNERS]
 
                              Eight Cambridge Center
                          Cambridge, Massachusetts 02142
-                                  May   , 2001
+
+                               May 30, 2001
 
 Dear Stockholder:
 
   You are cordially invited to attend a special meeting of stockholders of
 Cambridge Technology Partners (Massachusetts), Inc., to be held at the offices
-of Cambridge on June    , 2001 at 10:00 a.m., local time. A notice of the
+of Cambridge on July 10, 2001 at 10:00 a.m., local time. A notice of the
 special meeting, a proxy card and a proxy statement-prospectus containing
 information about the matters to be acted upon are enclosed. All holders of
-record of Cambridge common stock as of the close of business on [May    ,] 2001
+record of Cambridge common stock as of the close of business on May 21, 2001
 are entitled to notice of, and to vote at, the special meeting.
 
   On March 12, 2001, Cambridge's board of directors approved an Agreement and
-Plan of Reorganization (the "merger agreement") among Novell, Inc., Ceres
-Neptune Acquisition Corp., a wholly owned subsidiary of Novell, and Cambridge
-Technology Partners (Massachusetts), Inc. Among other things, the merger
-agreement provides for the merger of Ceres Neptune into Cambridge, with
-Cambridge being the surviving corporation. Following the merger, Cambridge will
-be a wholly owned subsidiary of Novell. In the merger, each of your shares of
-Cambridge common stock will be exchanged for 0.668 of a share of Novell common
-stock. Novell common stock is listed on the Nasdaq National Market under the
-trading symbol "NOVL." On May    , 2001, Novell common stock closed at a price
-of $       per share.
+Plan of Reorganization among Novell, Inc., Ceres Neptune Acquisition Corp., a
+wholly owned subsidiary of Novell, and Cambridge Technology Partners
+(Massachusetts), Inc. The Agreement and Plan of Reorganization was amended as
+of May 24, 2001. Among other things, the Agreement and Plan of Reorganization,
+as amended (the "merger agreement"), provides for the merger of Ceres Neptune
+into Cambridge, with Cambridge being the surviving corporation. Following the
+merger, Cambridge will be a wholly owned subsidiary of Novell. In the merger,
+each of your shares of Cambridge common stock will be exchanged for 0.668 of a
+share of Novell common stock. Novell common stock is listed on the Nasdaq
+National Market under the trading symbol "NOVL." On May 24, 2001, Novell common
+stock closed at a price of $4.81 per share.
 
   After careful consideration, the Cambridge board of directors has determined
 the merger to be in your best interests and has declared the merger advisable.
@@ -241,7 +255,7 @@ on page 15 of this proxy statement-prospectus.
 
   You can find out how to obtain additional information regarding Novell and
 Cambridge in the section entitled "Where You Can Find More Information" on page
-74 of this proxy statement-prospectus.
+77 of this proxy statement-prospectus.
 
   Please use this opportunity to take part in the affairs of Cambridge by
 voting. Whether or not you plan to attend the meeting, please vote by using the
@@ -263,8 +277,8 @@ commission has approved or disapproved of these securities or passed upon the
 adequacy or accuracy of this proxy statement-prospectus. Any representation to
 the contrary is a criminal offense.
 
-  This proxy statement-prospectus is dated                , 2001 and was first
-mailed to stockholders on or about                , 2001.
+  This proxy statement-prospectus is dated May 30, 2001 and was first mailed to
+stockholders on or about May 30, 2001.
 
    This document incorporates important business and financial information
 about Cambridge and Novell from documents filed with the SEC that are not
@@ -278,10 +292,10 @@ Cambridge Technology Partners (Massachusetts), Inc.
                   Cambridge, Massachusetts 02142
     By telephone: (617) 914-8003
 
-   If you would like to request any information, please do so by June   , 2001,
+   If you would like to request any information, please do so by June 22, 2001,
 in order to receive it before the special meeting.
 
-                            [INSERT CAMBRIDGE LOGO]
+                    [LOGO OF CAMBRIDGE TECHNOLOGY PARTNERS]
 
               CAMBRIDGE TECHNOLOGY PARTNERS (MASSACHUSETTS), INC.
                              Eight Cambridge Center
@@ -289,32 +303,32 @@ in order to receive it before the special meeting.
 
                    NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
 
-                                 June    , 2001
+                               July 10, 2001
                                  at 10:00 a.m.
 
 To the stockholders of Cambridge Technology Partners (Massachusetts), Inc.:
 
    Notice is hereby given that a special meeting of stockholders of Cambridge
-Technology Partners (Massachusetts), Inc. will be held on June   , 2001 at
+Technology Partners (Massachusetts), Inc. will be held on July 10, 2001 at
 10:00 a.m. local time at the offices of Cambridge at Eight Cambridge Center,
 Cambridge, Massachusetts 02142, for the following purposes:
 
    1. To consider and vote upon a proposal to adopt the Agreement and Plan of
-Reorganization (the "merger agreement"), dated as of March 12, 2001, among
-Novell, Inc., Ceres Neptune Acquisition Corp., a wholly owned subsidiary of
-Novell, and Cambridge, pursuant to which Ceres Neptune will merge with and into
-Cambridge, with Cambridge being the surviving corporation. Following the
-merger, Cambridge will be a wholly owned subsidiary of Novell. Adoption of the
-merger agreement will constitute approval of the merger and the other
-transactions contemplated by the merger agreement.
+Reorganization, as amended (the "merger agreement"), dated as of March 12,
+2001, among Novell, Inc., Ceres Neptune Acquisition Corp., a wholly owned
+subsidiary of Novell, and Cambridge, pursuant to which Ceres Neptune will merge
+with and into Cambridge, with Cambridge being the surviving corporation.
+Following the merger, Cambridge will be a wholly owned subsidiary of Novell.
+Adoption of the merger agreement will constitute approval of the merger and the
+other transactions contemplated by the merger agreement.
 
    2. To transact such other business as may properly come before the special
 meeting or any adjournment thereof.
 
    These items of business are described in the attached proxy statement-
 prospectus. Only holders of record of Cambridge common stock at the close of
-business on May    , 2001, the record date for the meeting, are entitled to
-vote on the matters listed in this notice of special meeting of stockholders.
+business on May 21, 2001, the record date for the meeting, are entitled to vote
+on the matters listed in this notice of special meeting of stockholders.
 
                                           By Order of the Board of Directors
                                           of Cambridge Technology Partners
@@ -323,7 +337,7 @@ vote on the matters listed in this notice of special meeting of stockholders.
                                           Joseph A. LaSala, Jr.
                                           Secretary
 
-May    , 2001
+May 30, 2001
 
    Please vote your proxy by using the Internet, by telephone, or by dating,
 signing and returning the enclosed proxy card promptly in the envelope
@@ -357,79 +371,79 @@ The Special Meeting of Cambridge Stockholders.............................  24
 The Merger................................................................  27
   Effect of the merger and conversion of Cambridge common stock...........  27
   Background of the merger................................................  27
-  Joint reasons for the merger............................................  30
+  Joint reasons for the merger............................................  31
   Recommendation of, and factors considered by, the Cambridge board of
-   directors..............................................................  30
+   directors..............................................................  31
   Accordingly, the Cambridge board of directors recommends that the
    Cambridge stockholders vote FOR adoption of the merger agreement.......  31
   Factors considered by the Novell board of directors.....................  33
   Opinion of Cambridge's financial advisor................................  33
-  Interests of Cambridge directors and officers in the merger.............  41
+  Interests of Cambridge directors and officers in the merger.............  42
   Equity grants and employee benefits after completion of the merger for
-   Cambridge employees....................................................  42
-  Exchange of Cambridge stock certificates for Novell stock certificates..  43
+   Cambridge employees ...................................................  44
+  Exchange of Cambridge stock certificates for Novell stock certificates..  47
   You should not submit your Cambridge stock certificates for exchange
    until you receive your instructions and a form of letter of transmittal
-   from the exchange agent................................................  44
-  Material U.S. federal income tax consequences of the merger.............  44
-  Accounting treatment of the merger......................................  46
-  Regulatory filings and approvals required to complete the merger........  46
-  Restrictions on sales of shares by affiliates of Cambridge and Novell...  46
+   from the exchange agent................................................  47
+  Material U.S. federal income tax consequences of the merger.............  47
+  Accounting treatment of the merger......................................  49
+  Regulatory filings and approvals required to complete the merger........  49
+  Restrictions on sales of shares by affiliates of Cambridge and Novell...  49
   Listing on the Nasdaq National Market of Novell common stock to be
-   issued in the merger...................................................  46
+   issued in the merger...................................................  50
   Delisting and deregistration of Cambridge common stock after the
-   merger.................................................................  47
-  Appraisal rights........................................................  47
-The Merger Agreement......................................................  48
-  The Merger..............................................................  48
-  Representations and warranties..........................................  48
-  Cambridge's conduct of business before completion of the merger.........  50
-  Novell's conduct of business before completion of the merger............  51
-  Regulatory filings......................................................  51
-  Special meeting of Cambridge stockholders...............................  52
-  Non-solicitation by Cambridge...........................................  52
+   merger.................................................................  50
+  Appraisal rights........................................................  50
+The Merger Agreement......................................................  51
+  The Merger..............................................................  51
+  Representations and warranties..........................................  51
+  Cambridge's conduct of business before completion of the merger.........  53
+  Novell's conduct of business before completion of the merger............  54
+  Regulatory filings......................................................  54
+  Special meeting of Cambridge stockholders...............................  55
+  Non-solicitation by Cambridge...........................................  55
   Treatment of Cambridge stock options and contingent obligations to issue
-   shares.................................................................  54
-  Cambridge's employee benefit plans......................................  54
+   shares.................................................................  57
+  Cambridge's employee benefit plans......................................  57
+  Indemnification.........................................................  57
+  Conditions to completion of the merger..................................  58
 
                                        i
 
                                                                           Page
                                                                           ----
 
-  Indemnification........................................................  54
-  Conditions to completion of the merger.................................  55
-  Termination of the merger agreement....................................  56
-  Payment of termination fee.............................................  57
-  Extension, waiver and amendment of the merger agreement................  57
-Other Agreements.........................................................  58
-  Voting agreements......................................................  58
-  Affiliate agreements...................................................  58
-  Employment agreements..................................................  58
-Novell Unaudited Pro Forma Combined Condensed Financial Statements.......  59
+  Termination of the merger agreement....................................  59
+  Payment of termination fee.............................................  60
+  Extension, waiver and amendment of the merger agreement................  60
+Other Agreements.........................................................  61
+  Voting agreements......................................................  61
+  Affiliate agreements...................................................  61
+  Employment agreement...................................................  61
+Novell Unaudited Pro Forma Combined Condensed Financial Statements.......  62
 Comparison of Rights of Holders of Cambridge Common Stock and Novell
- Common Stock............................................................  67
-  Charter, bylaws and governing law......................................  67
-  Capitalization.........................................................  67
-  Board of directors.....................................................  68
-  Removal of directors...................................................  68
-  Stockholder ability to call special meetings...........................  68
-  Advance notice provisions for stockholder nominations and proposals....  68
-  Stockholder proxies....................................................  70
-  Stockholder voting.....................................................  70
-  Notice of stockholder meetings.........................................  70
-  Amendment of certificate of incorporation..............................  70
-  Amendment of bylaws....................................................  71
-  Rights plans...........................................................  71
-  Indemnification of directors and officers..............................  72
-  Arrangements binding on stockholders...................................  73
-Legal Matters............................................................  74
-Experts..................................................................  74
-Where You Can Find More Information......................................  74
+ Common Stock............................................................  70
+  Charter, bylaws and governing law......................................  70
+  Capitalization.........................................................  70
+  Board of directors.....................................................  71
+  Removal of directors...................................................  71
+  Stockholder ability to call special meetings...........................  71
+  Advance notice provisions for stockholder nominations and proposals....  71
+  Stockholder proxies....................................................  73
+  Stockholder voting.....................................................  73
+  Notice of stockholder meetings.........................................  73
+  Amendment of certificate of incorporation..............................  73
+  Amendment of bylaws....................................................  74
+  Rights plans...........................................................  74
+  Indemnification of directors and officers..............................  75
+  Arrangements binding on stockholders...................................  76
+Legal Matters............................................................  76
+Experts..................................................................  76
+Where You Can Find More Information......................................  77
 
 Annexes:
 
-  A--Agreement and Plan of Reorganization................................... A-1
+  A--Agreement and Plan of Reorganization, as amended....................... A-1
   B--Opinion of Salomon Smith Barney Inc. .................................. B-1
 
                                        ii
@@ -445,20 +459,20 @@ A. The boards of directors of Novell and Cambridge have determined that a
    In particular, we believe the merger will provide Novell and Cambridge the
    opportunity to:
 
-  . offer a combination of web-based software products and services to better
-    serve the needs of customers;
+   . offer a combination of web-based software products and services to better
+     serve the needs of customers;
 
-  . develop software products that help businesses to better utilize the
-    Internet; and
+   . develop software products that help businesses to better utilize the
+     Internet; and
 
-  . develop products and services around leading application platforms and
-    other information technology resources, including those supported by Net
-    services software from Novell.
+   . develop products and services around leading application platforms and
+     other information technology resources, including those supported by Net
+     services software from Novell.
 
 Q: When and where is the special stockholders' meeting being held and what
    specific proposals will I be asked to consider?
 
-A: The Cambridge special stockholders' meeting will take place on June    ,
+A: The Cambridge special stockholders' meeting will take place on July 10,
    2001 at the offices of Cambridge. At the special meeting, Cambridge
    stockholders will be asked to adopt the merger agreement and approve the
    merger of Ceres Neptune Acquisition Corp., a wholly owned subsidiary of
@@ -466,11 +480,11 @@ A: The Cambridge special stockholders' meeting will take place on June    ,
    owned subsidiary of Novell. Following the merger, Cambridge stockholders
    will become stockholders of Novell.
 
-  The Cambridge board of directors recommends voting in favor of this
-  proposal.
+   The Cambridge board of directors recommends voting in favor of this
+   proposal.
 
-  In addition, Cambridge stockholders may be asked to vote on any other
-  matters that properly come before the meeting.
+   In addition, Cambridge stockholders may be asked to vote on any other
+   matters that properly come before the meeting.
 
 Q: What will I receive in the merger?
 
@@ -491,10 +505,10 @@ A: The shares of Novell common stock received by you in the merger will be
 Q: How many shares of Novell common stock will Cambridge's stockholders own
    after the merger?
 
-A: Based on the number of outstanding shares of Cambridge stock as of May    ,
-   2001, after the merger stockholders of Cambridge will own approximately
-   42,439,557 shares of Novell common stock. This will constitute
-   approximately 12% of the outstanding Novell common stock after the merger.
+A: Based on the number of outstanding shares of Cambridge stock as of May 21,
+   2001, after the merger stockholders of Cambridge will own approximately 43
+   million shares of Novell common stock. This will constitute approximately
+   12% of the outstanding Novell common stock after the merger.
 
 Q: What do I need to do now?
 
@@ -523,15 +537,15 @@ Q: Can I change my vote after I have mailed my signed proxy card or voted over
 A: Yes. You can change your vote at any time before your proxy is voted at the
    special meeting. You can do this in one of four ways:
 
-  . you can send a written notice to the Secretary of Cambridge stating that
-    you would like to revoke your proxy;
+   . you can send a written notice to the Secretary of Cambridge stating that
+     you would like to revoke your proxy;
 
-  . you can complete and submit a new proxy card;
+   . you can complete and submit a new proxy card;
 
-  . you can vote by telephone or over the Internet (your latest vote is
-    counted); or
+   . you can vote by telephone or over the Internet (your latest vote is
+     counted); or
 
-  . you can attend the special meeting and vote in person.
+   . you can attend the special meeting and vote in person.
 
   Your attendance at the meeting alone will not revoke your proxy. Only your
   vote at the meeting will revoke your proxy.
@@ -561,7 +575,7 @@ A: Yes. At the time of the merger and upon the exchange of Cambridge common
    stockholders of Novell and stockholders of Cambridge. Please carefully
    review the description of these differences in the section entitled
    "Comparison of Rights of Holders of Cambridge Common Stock and Novell
-   Common Stock" on page 67 of this proxy statement-prospectus.
+   Common Stock" on page 70 of this proxy statement-prospectus.
 
 Q: Am I entitled to appraisal rights?
 
@@ -581,15 +595,15 @@ A: A majority of the outstanding shares of Cambridge common stock must be
    voted in favor of the merger for it to be approved.
 
   You should be aware that Jack L. Messman, Cambridge's president and chief
-  executive officer, as well as other executive officers and directors of
+  executive officer, as well as all other executive officers and directors of
   Cambridge, have agreed to vote their shares of Cambridge common stock in
-  favor of the merger. These individuals held approximately   % of
+  favor of the merger. These individuals held approximately 1.8% of
   Cambridge's outstanding common stock as of the record date.
 
 Q: When do you expect the merger to be completed?
 
 A: Novell and Cambridge expect to complete the merger immediately after the
-   Cambridge special meeting on June   , 2001.
+   Cambridge special meeting on July 10, 2001.
 
 Q: Who can help answer my questions?
 
@@ -602,12 +616,13 @@ A: You can call Cambridge investor relations at (617) 914-8003 with any
 you. You should carefully read this entire document and the other documents we
 refer to for a more complete understanding of the merger. In particular, you
 should read the documents attached to this proxy statement-prospectus,
-including the merger agreement, which is attached as Annex A. In addition, we
-incorporate by reference important business and financial information about
-Novell and Cambridge into this proxy statement-prospectus. You may obtain the
-information incorporated by reference into this proxy statement-prospectus
-without charge by following the instructions in the section entitled "Where You
-Can Find More Information" on page 74 of this proxy statement-prospectus.
+including the merger agreement, as amended, which is attached as Annex A. In
+addition, we incorporate by reference important business and financial
+information about Novell and Cambridge into this proxy statement-prospectus.
+You may obtain the information incorporated by reference into this proxy
+statement-prospectus without charge by following the instructions in the
+section entitled "Where You Can Find More Information" on page 77 of this proxy
+statement-prospectus.
 
 The Companies
 
@@ -623,7 +638,7 @@ worldwide channel, developer, education, consulting and technical support
 programs that support network solutions.
 
    On April 6, 2001, Novell announced it had completed an initial financing of
-its new subsidiary Volera, Inc. Nortel Networks and Accenture invested in
+its new subsidiary, Volera, Inc. Nortel Networks and Accenture invested in
 Volera in return for minority equity interests. Volera's business targets the
 content networking business.
 
@@ -660,7 +675,7 @@ Novell stockholders are not required to adopt the merger agreement or approve
 the merger.
 
    You are entitled to cast one vote for each share of Cambridge common stock
-you owned as of May    , 2001, the record date for the special meeting.
+you owned as of May 21, 2001, the record date for the special meeting.
 
 Recommendation of Cambridge's Board of Directors
 
@@ -670,14 +685,15 @@ adoption of the merger agreement and approval of the merger.
 
 Opinion of Cambridge's Financial Advisor
 
-   On March 12, 2001, Salomon Smith Barney Inc. delivered its oral opinion to
+   On March 9, 2001, Salomon Smith Barney Inc. delivered its oral opinion to
 the board of directors of Cambridge that, as of the date of such opinion and
 subject to certain considerations, the exchange ratio provided for in the
 merger agreement was fair, from a financial point of view, to the holders of
-Cambridge common stock. Salomon Smith Barney confirmed its oral opinion by
-delivery of its written opinion on March 12, 2001. The opinion of Salomon Smith
-Barney does not constitute a recommendation as to how any Cambridge stockholder
-should vote with respect to the merger.
+Cambridge common stock. Salomon Smith Barney subsequently confirmed in writing
+as of March 12, 2001, that, as of such date, the exchange ratio was fair from a
+financial point of view to the holders of Cambridge common stock. The opinion
+of Salomon Smith Barney does not constitute a recommendation as to how any
+Cambridge stockholder should vote with respect to the merger.
 
    The full text of the written opinion of Salomon Smith Barney, which sets
 forth assumptions made, matters considered and limitations on the review
@@ -768,8 +784,8 @@ terminate the merger agreement under any of the following circumstances:
 
   . a tender or exchange offer relating to the securities of Cambridge is
     commenced by a person unaffiliated with Novell, and Cambridge does not
-    recommend that its stockholders reject such offer within 10 business days
-    after such offer is first made.
+    recommend that its stockholders reject such offer within ten business
+    days after such offer is first made.
 
 Payment of Termination Fee
 
@@ -801,14 +817,16 @@ merger which are different from yours. In addition, Jack L. Messman, a director
 and the president and chief executive officer of Cambridge, is a director of
 Novell. It is a condition to closing that Mr. Messman shall accept and not
 withdraw his acceptance of the positions of president and chief executive
-officer of Novell. It is also a condition to the closing that two directors of
-Cambridge designated by Cambridge, other than Mr. Messman, be appointed to the
-Novell board of directors.
+officer of Novell. Mr. Messman has entered into an employment agreement with
+Novell which is described on pages 42-43 of this proxy statement-prospectus. It
+is also a condition to the closing that two directors of Cambridge designated
+by Cambridge, other than Mr. Messman, be appointed to the Novell board of
+directors.
 
 Share Ownership of Management
 
    As of the record date, Cambridge directors, executive officers and
-affiliates beneficially owned approximately    % of the outstanding shares of
+affiliates beneficially owned approximately 25.7% of the outstanding shares of
 Cambridge common stock. Mr. Messman, as well as other executive officers and
 directors of Cambridge, have agreed to vote their Cambridge shares in favor of
 the merger.
@@ -821,7 +839,7 @@ taxes payable because of cash received instead of fractional shares. It is a
 condition to the merger that Novell and Cambridge receive legal opinions
 stating that the merger will be a reorganization. You should carefully read the
 discussion under "Material U.S. federal income tax consequences of the merger"
-on page 44 of this proxy statement-prospectus. However, you are encouraged to
+on page 47 of this proxy statement-prospectus. However, you are encouraged to
 consult your own tax advisor because tax matters can be complicated, and the
 tax consequences of the merger to you will depend upon your own situation.
 
@@ -832,13 +850,15 @@ Accounting Treatment of the Merger
 Antitrust Approval Required to Complete the Merger
 
    The merger is subject to antitrust laws. Novell and Cambridge have made the
-required filings with the Department of Justice and the Federal Trade
-Commission, and have made or will make competition filings in applicable
-foreign jurisdictions. However, the companies are not permitted to complete the
-merger until the applicable waiting periods have expired or terminated. The
-Department of Justice or the Federal Trade Commission, as well as a state,
-private person or foreign regulatory agency or government, may challenge the
-merger at any time before its completion.
+required filings with the United States Department of Justice and the Federal
+Trade Commission under the Hart-Scott-Rodino Antitrust Improvements Act of
+1976, as amended, and the applicable waiting period has been terminated. In
+addition, Novell and Cambridge have received the required antitrust clearance
+under the applicable German antitrust laws, and have made competition filings
+in Brazil and the Netherlands. The Department of Justice or the Federal Trade
+Commission, as well as a state, private person or foreign regulatory agency or
+government, may challenge the merger at any time before or after its
+completion.
 
 Restrictions on the Ability to Sell Novell Stock
 
@@ -851,6 +871,15 @@ transfer the shares they receive in the merger.
    Generally, an affiliate is considered to be someone who is a senior
 executive officer or director of a company or someone who owns more than 10% of
 the outstanding stock of a company.
+
+Post-Merger Divestitures
+
+   Cambridge and Novell have formed an integration committee to oversee the
+integration of the Cambridge and Novell businesses. Following the closing of
+the merger, the combined company may determine, based on the integration
+committee's analysis, that some of the combined company's businesses do not
+strategically fit within the combined company's business plan and, as a result,
+such businesses may be divested.
 
 Listing of Novell Common Stock
 
@@ -879,15 +908,15 @@ prospectus.
    The following financial information is provided to aid you in your analysis
 of the financial aspects of the merger. This information is derived from the
 audited consolidated financial statements of Novell and Cambridge for fiscal
-1996 through 2000 and the unaudited consolidated financial statements for the
-interim periods presented. The interim financial data reflect normal recurring
-adjustments, which are considered necessary for a fair presentation of the
-financial information for such periods. The information is only a summary, and
-should be read in conjunction with each company's historical financial
-statements and related notes incorporated by reference in this proxy statement-
-prospectus. The results of any interim period are not necessarily indicative of
-results for a full fiscal year, and historical results are not necessarily
-indicative of future results.
+years 1996 through 2000 and the unaudited consolidated financial statements for
+the interim periods presented. The interim financial data reflect normal
+recurring adjustments, which are considered necessary for a fair presentation
+of the financial information for such periods. The information is only a
+summary, and should be read in conjunction with each company's historical
+financial statements and related notes incorporated by reference in this proxy
+statement-prospectus. The results of any interim period are not necessarily
+indicative of results for a full fiscal year, and historical results are not
+necessarily indicative of future results.
 
 Novell's Financial Data
 
@@ -909,7 +938,10 @@ years in the period ended December 31, 2000 are incorporated by reference in
 this proxy statement-prospectus. The audited consolidated financial position of
 Cambridge as of December 31, 1996, 1997 and 1998 and the results of operations
 and its cash flows for the years ended December 31, 1996 and 1997 are not
-included or incorporated by reference in this proxy statement-prospectus.
+included or incorporated by reference in this proxy statement-prospectus. The
+unaudited consolidated financial statements as of March 31, 2001 and for the
+three months ended March 31, 2000 and 2001 are incorporated by reference in
+this proxy statement-prospectus.
 
              NOVELL SELECTED HISTORICAL CONSOLIDATED FINANCIAL DATA
                     (in thousands, except per share amounts)
@@ -1000,74 +1032,78 @@ Total stockholders'
            CAMBRIDGE SELECTED HISTORICAL CONSOLIDATED FINANCIAL DATA
                     (in thousands, except per share amounts)
 
-                                        Year Ended December 31,
-                              ------------------------------------------------
-                                1996      1997      1998      1999      2000
-                              --------  --------  --------  --------  --------
+                                                                              Three Months
+                                    Year Ended December 31,                  Ended March 31,
+                          ------------------------------------------------  ------------------
+                            1996      1997      1998      1999      2000      2000      2001
+                          --------  --------  --------  --------  --------  --------  --------
 
 Historical Statements of
  Operations Data:
-Revenues....................  $294,527  $438,329  $612,041  $628,111  $586,564
+Revenues................  $294,527  $438,329  $612,041  $628,111  $586,564  $147,592  $116,485
 Costs and expenses:
-  Project costs.............   146,863   214,848   310,918   372,345   341,703
+  Project costs.........   146,863   214,848   310,918   372,345   341,703    89,925    70,307
   General and
-   administration...........    81,364   120,382   153,935   218,188   249,667
-  Sales and marketing.......    25,532    41,393    57,781    69,527    80,677
-  Restructuring and other
-   costs....................       --        --        --        --     27,000
+   administration.......    81,364   120,382   153,935   218,188   249,667    59,067    49,632
+  Sales and marketing...    25,532    41,393    57,781    69,527    80,677    19,295    17,137
+  Restructuring and
+   other costs..........       --        --        --        --     27,000       --     11,000
   Business combination
-   costs....................     1,195     4,760     8,400       --        --
-                              --------  --------  --------  --------  --------
+   costs................     1,195     4,760     8,400       --        --        --        --
+                          --------  --------  --------  --------  --------  --------  --------
     Total operating
-     expenses...............   254,954   381,383   531,034   660,060   699,047
-                              --------  --------  --------  --------  --------
+     expenses...........   254,954   381,383   531,034   660,060   699,047   168,287   148,076
+                          --------  --------  --------  --------  --------  --------  --------
 Income (loss) from
- operations.................    39,573    56,946    81,007   (31,949) (112,483)
+ operations.............    39,573    56,946    81,007   (31,949) (112,483)  (20,695)  (31,591)
 Other income (expense):
-  Interest income...........     1,009     2,135     2,432     2,845     3,982
-  Interest expense..........      (132)     (311)     (199)     (118)     (191)
-  Gain on investments.......       --        188       798    31,784     5,063
-  Gain on sale of assets....       --        --        --        --      7,661
-  Foreign exchange (loss)
-   gain.....................      (141)     (122)     (934)      856      (259)
-                              --------  --------  --------  --------  --------
-    Total other income......       736     1,890     2,097    35,367    16,256
-                              --------  --------  --------  --------  --------
-Income (loss) before income
- taxes......................    40,309    58,836    83,104     3,418   (96,227)
+  Interest income.......     1,009     2,135     2,432     2,845     3,982       733       877
+  Interest expense......      (132)     (311)     (199)     (118)     (191)      (27)      (27)
+  Gain on investments...       --        188       798    31,784     5,063     5,113    (1,096)
+  Gain on sale of
+   assets...............       --        --        --        --      7,661     7,661       --
+  Foreign exchange
+   (loss) gain..........      (141)     (122)     (934)      856      (259)       90      (834)
+                          --------  --------  --------  --------  --------  --------  --------
+    Total other income..       736     1,890     2,097    35,367    16,256    13,570    (1,080)
+                          --------  --------  --------  --------  --------  --------  --------
+Income (loss) before
+ income taxes...........    40,309    58,836    83,104     3,418   (96,227)   (7,125)  (32,671)
 Provision (benefit) for
- income taxes...............    16,317    25,054    31,164     1,299   (33,680)
-                              --------  --------  --------  --------  --------
-Net income (loss)...........  $ 23,992  $ 33,782  $ 51,940  $  2,119  $(62,547)
-                              ========  ========  ========  ========  ========
-Basic net income (loss) per
- share......................  $    .46  $    .62  $    .90  $    .04  $  (1.00)
-                              ========  ========  ========  ========  ========
-Diluted net income (loss)
- per share..................  $    .40  $    .55  $    .83  $    .03  $  (1.00)
-                              ========  ========  ========  ========  ========
-Weighted average number of
- common shares outstanding..    52,054    54,632    58,079    60,004    62,713
-                              ========  ========  ========  ========  ========
-Weighted average number of
- common and common
+ income taxes...........    16,317    25,054    31,164     1,299   (33,680)   (2,850)  (11,435)
+                          --------  --------  --------  --------  --------  --------  --------
+Net income (loss).......  $ 23,992  $ 33,782  $ 51,940  $  2,119  $(62,547) $ (4,275) $(21,236)
+                          ========  ========  ========  ========  ========  ========  ========
+Basic net income (loss)
+ per share..............  $    .46  $    .62  $    .90  $    .04  $  (1.00) $   (.07) $   (.34)
+                          ========  ========  ========  ========  ========  ========  ========
+Diluted net income
+ (loss) per share.......  $    .40  $    .55  $    .83  $    .03  $  (1.00) $   (.07) $   (.34)
+                          ========  ========  ========  ========  ========  ========  ========
+Weighted average number
+ of common shares
+ outstanding............    52,054    54,632    58,079    60,004    62,713    62,270    63,312
+                          ========  ========  ========  ========  ========  ========  ========
+Weighted average number
+ of common and common
  equivalent shares
- outstanding................    59,573    60,775    63,031    61,745    62,713
-                              ========  ========  ========  ========  ========
+ outstanding............    59,573    60,775    63,031    61,745    62,713    62,270    63,312
+                          ========  ========  ========  ========  ========  ========  ========
 
-                                           As of December 31,
-                              ------------------------------------------------
-                                1996      1997      1998      1999      2000
-                              --------  --------  --------  --------  --------
+                                       As of December 31,                    As of
+                          ------------------------------------------------   March
+                            1996      1997      1998      1999      2000    31, 2001
+                          --------  --------  --------  --------  --------  --------
 
 Historical Balance Sheet
  Data:
-Cash and cash equivalents...  $ 26,456  $ 39,649  $ 80,051  $ 62,288  $ 66,723
+Cash and cash
+ equivalents............  $ 26,456  $ 39,649  $ 80,051  $ 62,288  $ 66,723  $ 47,056
 Investments held to
- maturity...................    12,727    15,824    24,918    28,659    29,987
-Working capital.............    72,334   108,301   177,929   179,147   131,204
-Total assets................   150,588   242,421   351,206   378,174   342,544
-Stockholder's equity........    98,796   150,867   242,150   277,036   224,419
+ maturity...............    12,727    15,824    24,918    28,659    29,987    17,257
+Working capital.........    72,334   108,301   177,929   179,147   131,204   114,780
+Total assets............   150,588   242,421   351,206   378,174   342,544   311,423
+Stockholders' equity....    98,796   150,867   242,150   277,036   224,419   204,430
 
          SUMMARY UNAUDITED PRO FORMA COMBINED CONDENSED FINANCIAL DATA
 
@@ -1092,7 +1128,7 @@ pro forma combined condensed statement of operations for the year ended October
 31, 2000 and the three months ended January 31, 2001 assume the merger took
 place on November 1, 1999. The unaudited pro forma combined condensed balance
 sheet assumes the merger took place on January 31, 2001. See pro forma
-statements beginning on page 59.
+statements beginning on page 62.
 
 These pro forma financial statements have been based on assumptions
 
@@ -1118,15 +1154,23 @@ historical financial statements
 
    The Novell summary unaudited pro forma combined condensed financial data
 should be read in conjunction with the Novell unaudited pro forma combined
-condensed financial statements and the related notes, which begin at page 59.
+condensed financial statements and the related notes, which begin at page 62.
 They should also be read in conjunction with the consolidated audited and
 consolidated condensed unaudited financial statements of Novell and the
-consolidated audited financial statements of Cambridge that are incorporated by
-reference in this proxy statement-prospectus. The Novell summary unaudited pro
-forma combined condensed financial data is not necessarily indicative of what
-the actual results of operations and financial position would have been had the
-merger taken place on November 1, 1999 or January 31, 2001, and do not indicate
-future results of operations or financial position.
+consolidated audited and consolidated unaudited financial statements of
+Cambridge that are incorporated by reference in this proxy statement-
+prospectus. The Novell summary unaudited pro forma combined condensed financial
+data is not necessarily indicative of what the actual results of operations and
+financial position would have been had the merger taken place on November 1,
+1999 or January 31, 2001, and do not indicate future results of operations or
+financial position.
+
+   On May 22, 2001, Novell announced its fiscal 2001 second quarter financial
+results, which have not been incorporated into these pro forma statements.
+Novell reported total revenue of $241 million and a net loss of $151.3 million
+or $0.48 per share for the second fiscal quarter ended April 30, 2001. This
+loss included a $142 million ($0.45 per share) write-down of equity
+investments. Total assets were $1.569 billion at the end of the second quarter.
 
                                      NOVELL
 
@@ -1141,15 +1185,15 @@ future results of operations or financial position.
 
 Unaudited Pro Forma Combined Condensed Statements of
  Operations Data:
-Net sales...........................................  $1,784,799     $370,087
-Gross profit........................................     974,693      195,437
-Restructuring charge................................      74,892        5,000
-Loss from operations................................    (125,777)     (45,710)
-Loss before taxes...................................      (7,267)     (29,903)
-Income tax expense (benefit)........................         443       (9,191)
-Net loss............................................  $   (7,710)    $(20,712)
+Net sales...........................................  $1,784,799     $361,520
+Gross profit........................................     974,693      197,678
+Restructuring charge................................      74,892       11,000
+Loss from operations................................    (130,181)     (50,529)
+Loss before taxes...................................     (11,671)     (33,778)
+Income tax expense (benefit)........................         443      (10,162)
+Net loss............................................  $  (12,114)    $(23,616)
                                                       ==========     ========
-Basic and diluted net loss per share................  $    (0.02)    $  (0.06)
+Basic and diluted net loss per share................  $    (0.03)    $  (0.06)
                                                       ==========     ========
 Weighted average shares outstanding, basic and
  diluted:                                                369,061      364,623
@@ -1161,11 +1205,11 @@ Weighted average shares outstanding, basic and
                                                                      -----------
 
 Unaudited Pro Forma Combined Condensed Balance Sheet Data:
-Cash and short-term investments..................................... $  752,159
-Working capital.....................................................    530,198
-Total assets........................................................  2,040,844
+Cash and short-term investments..................................... $  719,762
+Working capital.....................................................    516,149
+Total assets........................................................  2,027,339
 Retained earnings...................................................  1,250,626
-Total stockholders' equity..........................................  1,395,967
+Total stockholders' equity..........................................  1,395,969
 
 - --------
 (1) Net loss and basic and diluted net loss per share for the three months
@@ -1201,11 +1245,11 @@ October 31, 2000 and January 31, 2001,
 historical book value of $1,245.1 million and $1,165.3 million, respectively,
 was divided by historical actual shares outstanding of 327,618,192 and
 317,653,609, respectively. For purposes of computing the historical book value
-per share of Cambridge as of December 31, 2000, historical book value of $224.4
-million was divided by historical actual shares outstanding of 63,492,236. For
+per share of Cambridge as of March 31, 2001, historical book value of $204.4
+million was divided by historical actual shares outstanding of 63,532,271. For
 purposes of computing the unaudited pro forma combined book value per share of
 Novell as of January 31, 2001, pro forma book value of $1,396.0 million was
-divided by pro forma shares outstanding of 360,093,166.
+divided by pro forma shares outstanding of 360,093,501.
 
    Calculation of Cambridge equivalent pro forma per share amounts
 
@@ -1224,13 +1268,13 @@ Basic and diluted net income per
 Book value per share...............        $3.80                $3.67
 
                                     Year Ended or as of Quarter Ended or as of
-                                     December 31, 2000    December 31, 2000
+                                     December 31, 2000      March 31, 2001
                                     ------------------- ----------------------
 
 Cambridge historical:
 Basic and diluted net loss per
- share.............................       $(1.00)               $(0.31)
-Book value per share...............       $ 3.54                $ 3.54
+ share.............................       $(1.00)               $(0.34)
+Book value per share...............       $ 3.54                $ 3.22
 
                                      Year Ended or as of Quarter Ended or as of
                                       October 31, 2000    January 31, 2001 (1)
@@ -1238,11 +1282,11 @@ Book value per share...............       $ 3.54                $ 3.54
 
 Novell pro forma combined:
 Basic and diluted net loss per
- share.............................        $(0.02)               $(0.06)
-Book value per share...............           --                 $ 3.88
+ share.............................        $(0.03)               $(0.06)
+Book value per share...............           --                 $ 3.87
 Equivalent pro forma basic and
  diluted net loss per Cambridge
- share.............................        $(0.01)               $(0.04)
+ share.............................        $(0.02)               $(0.04)
 Equivalent pro forma book value per
  Cambridge share...................           --                 $ 2.59
 
@@ -1285,21 +1329,22 @@ Quarter Ended October 31, 2000................. $ 9.500 $ 2.938 $12.750 $ 7.500
 
 Fiscal 2001
 Quarter Ended January 31, 2001................. $ 4.438 $ 1.375 $ 9.250 $ 4.781
+Quarter Ended April 30, 2001................... $ 4.375 $ 2.250 $ 9.000 $3.4375
 
    The following table sets forth the prices per share of Novell common stock
 as reported on the Nasdaq National Market and the prices per share of Cambridge
 common stock as reported on the Nasdaq National Market on (a) March 12, 2001,
 the last full trading day preceding public announcement that Novell and
-Cambridge had entered into the merger agreement and (b)           , 2001, the
-last full trading day for which it was practicable to obtain closing prices at
-the time of the printing of this proxy statement-prospectus.
+Cambridge had entered into the merger agreement and (b) May 24, 2001, the last
+full trading day for which it was practicable to obtain closing prices at the
+time of the printing of this proxy statement-prospectus.
 
                                                         Cambridge      Novell
                                                        Common Stock Common Stock
                                                        ------------ ------------
 
-     March 12, 2001..................................     $3.094       $5.813
-     May     , 2001..................................
+     March 12, 2001...................................    $3.094       $5.813
+     May 24, 2001.....................................    $3.020       $4.810
 
    Because the market price of Novell common stock that you will receive in the
 merger may increase or decrease before completion of the merger, you are urged
@@ -1326,20 +1371,20 @@ stock for each share of Cambridge common stock despite any changes in the
 market value of either Novell or Cambridge common stock.
 
    Upon completion of the merger as contemplated under the Agreement and Plan
-of Reorganization, dated as of March 12, 2001, by and among Novell, Cambridge
-and Ceres Neptune Acquisition Corp., a wholly owned subsidiary of Novell (the
-"merger agreement"), Novell will exchange 0.668 of a share of Novell common
-stock for each outstanding share of Cambridge common stock. There will be no
-adjustment for changes in the market price of either Novell common stock or
-Cambridge common stock, and Cambridge is not permitted to withdraw from the
-merger or re-solicit the vote of its stockholders solely because of subsequent
-changes in the market price of Novell or Cambridge common stock. Accordingly,
-the specific dollar value of Novell common stock you will receive upon
-completion of the merger will depend on the market value of Novell common stock
-at the time of completion of the merger. You should note that the companies'
-stock prices have historically been highly volatile and that the value of the
-Novell common stock you will receive in the merger may decline prior to or
-after the merger.
+of Reorganization, dated as of March 12, 2001, as amended as of May 24, 2001,
+by and among Novell, Cambridge and Ceres Neptune Acquisition Corp., a wholly
+owned subsidiary of Novell (the "merger agreement"), Novell will exchange 0.668
+of a share of Novell common stock for each outstanding share of Cambridge
+common stock. There will be no adjustment for changes in the market price of
+either Novell common stock or Cambridge common stock, and Cambridge is not
+permitted to withdraw from the merger or re-solicit the vote of its
+stockholders solely because of subsequent changes in the market price of Novell
+or Cambridge common stock. Accordingly, the specific dollar value of Novell
+common stock you will receive upon completion of the merger will depend on the
+market value of Novell common stock at the time of completion of the merger.
+You should note that the companies' stock prices have historically been highly
+volatile and that the value of the Novell common stock you will receive in the
+merger may decline prior to or after the merger.
 
 Although Novell and Cambridge intend for the merger to result in benefits to
 the combined company, those benefits may not be realized. Additionally, neither
@@ -1404,23 +1449,25 @@ them to support and approve the merger.
    Jack L. Messman, a director and the president and chief executive officer of
 Cambridge, is also a director of Novell. Mr. Messman, as a condition to the
 merger, shall become the president and chief executive officer of Novell. Mr.
-Messman will enter into an employment agreement that will become effective upon
-completion of the merger. Furthermore, Novell's compensation committee has
+Messman has entered into an employment agreement that will become effective
+upon completion of the merger. Furthermore, Novell's compensation committee has
 approved the grant of stock options to purchase Novell common stock and grants
-of restricted stock to officers of Cambridge on the twelfth day of the month
-following the completion of the merger. The compensation committee also has
-approved the continuation of base salary and incentive compensation for these
-Cambridge officers. The Cambridge officers will also participate in the Novell
-Senior Management Severance Plan upon the completion of the merger.
+of restricted stock to most officers of Cambridge on July 12, 2001. The
+compensation committee also has approved the continuation of base salary and
+incentive compensation for these Cambridge officers. These Cambridge officers
+will also participate in the Novell Senior Management Severance Plan upon the
+completion of the merger.
 
-   In addition, two directors of Cambridge, designated by Cambridge, will
-become directors of Novell upon completion of the merger. Mr. Messman and some
-directors and executive officers of Cambridge have entered into voting
-agreements with Novell under which they have given Novell the right to vote
-their Cambridge shares in favor of adopting the merger agreement and approving
-the transactions contemplated thereunder. Cambridge stockholders should
-consider whether these interests might have influenced these directors and
-officers to support or recommend the merger.
+   In addition, John W. Poduska, Sr. and James D. Robinson, III, directors of
+Cambridge designated by Cambridge, will become directors of Novell upon
+completion of the merger. The Novell compensation committee has approved the
+grant of options to purchase Novell common stock to these individuals.
+Mr. Messman and all directors and some executive officers of Cambridge have
+entered into voting agreements with Novell under which they have given Novell
+the right to vote their Cambridge shares in favor of adopting the merger
+agreement and approving the transactions contemplated thereunder. Cambridge
+stockholders should consider whether these interests might have influenced
+these directors and officers to support or recommend the merger.
 
 Novell's operating results may suffer as a result of the impact of amortization
 of goodwill relating to its proposed combination with Cambridge.
@@ -1531,13 +1578,14 @@ Venture Fund investments are generally in small capitalization stocks in the
 high-technology industry sector and funds managed by venture capitalists.
 Similarly, Cambridge has also invested in private companies in the high-
 technology industry. Many of these investments by Novell and Cambridge might
-become other than temporarily impaired. As of March 31, 2001, unrealized losses
-on Novell's public equity securities totaled approximately $125 million, which
-pertained primarily to investments in Caldera ($3 million), Entrust ($10
-million), externally managed funds ($10 million), and marchFIRST ($102
-million). The combined company will have to record impairment losses under
-generally accepted accounting principles for other than temporarily impaired
-investments.
+become other than temporarily impaired. During its second fiscal quarter ended
+April 30, 2001, Novell recorded an impairment charge related to some of the
+investments in its portfolio whose market value had experienced an other than
+temporary decline. The charge totaled $142 million and included Novell's $100
+million investment in marchFIRST. As of April 30, 2001, unrealized losses on
+Novell's public equity securities totaled approximately $9.3 million. The
+combined company will have to record impairment losses under generally accepted
+accounting principles for other than temporarily impaired investments.
 
 The combined company may not be able to hire and retain sufficient development,
 consulting, managerial and technical sales personnel that it needs to succeed
@@ -1545,7 +1593,7 @@ because these personnel are limited in number and in high demand.
 
    If the combined company fails to hire and retain sufficient numbers of
 development, consulting, managerial and technical sales personnel, its
-business, operating results and financial condition would be harmed.
+business, operating results and financial condition could be harmed.
 Competition for qualified development, consulting, managerial and technical
 sales personnel is intense as these personnel are in limited supply, and the
 combined company might not be able to hire and retain sufficient numbers of
@@ -1880,13 +1928,13 @@ Proxy statement-prospectus
    This proxy statement-prospectus is being furnished to you in connection with
 the solicitation of proxies by Cambridge's board of directors in connection
 with the proposed merger. This proxy statement-prospectus is first being
-furnished to stockholders of Cambridge on or about            , 2001.
+furnished to stockholders of Cambridge on or about May 30, 2001.
 
 Date, time and place of the special meeting
 
    The special meeting of stockholders of Cambridge is scheduled as follows:
 
-   June     , 2001
+   July 10, 2001
    10:00 a.m., local time
    Eight Cambridge Center
    Cambridge, Massachusetts 02142
@@ -1909,11 +1957,11 @@ common stock you hold on the effective date of the merger.
 
 Stockholder record date for the special meeting
 
-   Cambridge's board of directors has fixed the close of business on        ,
+   Cambridge's board of directors has fixed the close of business on May 21,
 2001 as the record date for determination of Cambridge stockholders entitled to
 notice of, and to vote at, the special meeting. On the record date, there were
-          shares of Cambridge common stock outstanding, held by approximately
-         holders of record.
+63,532,722 shares of Cambridge common stock outstanding, held by approximately
+2,633 holders of record.
 
 Majority vote of Cambridge stockholders required for adoption of the merger
 agreement
@@ -1928,16 +1976,15 @@ on the record date on each proposal to be presented to stockholders at the
 special meeting.
 
    On the record date for the special meeting, directors and executive officers
-of Cambridge and their affiliates held approximately           shares of
-Cambridge common stock representing approximately      % of all outstanding
+of Cambridge and their affiliates held approximately 16,329,840 shares of
+Cambridge common stock representing approximately 25.7% of all outstanding
 shares of Cambridge common stock as of the record date.
 
-   Some Cambridge executive officers and directors, in their capacity as
+   All Cambridge executive officers and directors, in their capacity as
 stockholders, have agreed, subject to the terms and conditions of a voting
 agreement with Novell, to vote their shares of Cambridge common stock in favor
 of the adoption of the merger agreement. As of the record date these
-stockholders held approximately              shares of Cambridge common stock
-representing approximately       % of the outstanding shares of Cambridge
+stockholders held approximately 1.8% of the outstanding shares of Cambridge
 common stock as of the record date.
 
 Proxies
@@ -2027,7 +2074,7 @@ submit their proxies:
      at proxyvoting.com/Cambridge Technology Partners and following the
      instructions; or
 
-  .  by telephone by calling the toll-free number               and following
+  .  by telephone by calling the toll-free number 800.840.1208 and following
      the recorded instructions.
 
    Cambridge holders whose shares are held in their brokerage account or
@@ -2063,7 +2110,7 @@ important business and financial information about Novell and Cambridge into
 this proxy statement-prospectus by reference. You may obtain the information
 incorporated by reference into this proxy statement-prospectus without charge
 by following the instructions in the section entitled "Where You Can Find More
-Information" on page 74 of this proxy statement-prospectus.
+Information" on page 77 of this proxy statement-prospectus.
 
 Effect of the merger and conversion of Cambridge common stock
 
@@ -2073,7 +2120,7 @@ merger as a wholly owned subsidiary of Novell. The stockholders of Cambridge
 will become stockholders of Novell. The Novell Restated Certificate of
 Incorporation, the Novell Bylaws and the laws of the State of Delaware will
 govern their rights as stockholders. See "Comparison of Rights of Holders of
-Cambridge Common Stock and Novell Common Stock" on page 67 of this proxy
+Cambridge Common Stock and Novell Common Stock" on page 70 of this proxy
 statement-prospectus.
 
    At the closing of the merger, by virtue of the merger and without any action
@@ -2240,28 +2287,27 @@ with due diligence and negotiations.
 meeting were the directors, senior management of Cambridge, Salomon Smith
 Barney and Howard L. Shecter of Morgan Lewis. Mr. Messman began the meeting by
 reviewing the status of the proposed transaction with Novell and by providing a
-strategic overview. He then summarized the diligence efforts to date. Salomon
-Smith Barney then made a presentation, providing an overview of their
-preliminary analysis of the proposed transaction, a detailed review of the
-information technology services sector and strategic rationale for the
-transaction and possible concerns and challenges associated with it. Salomon
-Smith Barney also reviewed, at Mr. Messman's request, the side-by-side
-financial analysis of the two companies. Mr. Shecter then made a presentation
-summarizing the status of negotiations on the merger agreement and the results
-of Morgan Lewis's diligence review to date. Mr. Gavin then updated the board on
+strategic overview. He then summarized the diligence efforts to date. Following
+Mr. Messman's presentation, Salomon Smith Barney presented an analysis of the
+financial terms of the proposed merger with Novell and delivered its oral
+opinion, subsequently confirmed in writing as of March 12, 2001, as to the
+fairness of the exchange ratio, from a financial point of view, to the holders
+of Cambridge common stock. Mr. Shecter then made a presentation summarizing the
+status of negotiations on the merger agreement and the results of Morgan
+Lewis's diligence review to date. Mr. Gavin then updated the board on
 Cambridge's financial due diligence review of Novell.
 
    On March 12, 2001, the Novell board met with Novell management and its
 advisors to review the proposed terms of the acquisition of Cambridge. At the
 meeting, Novell's legal advisors discussed the terms of the merger agreement
 and related documents. Novell's financial advisors then gave a presentation to
-the board.
+the board. The board discussed, among other things, the status of negotiations,
+the potential benefits and risks of the transaction and the principal terms of
+the proposed merger. Following discussion, the Novell board approved
 
-The board discussed, among other things, the status of negotiations, the
-potential benefits and risks of the transaction and the principal terms of the
-proposed merger. Following discussion, the Novell board approved the
-transaction on the terms presented with instructions to management to negotiate
-and finalize the open issues and to sign the merger agreement later that day.
+the transaction on the terms presented with instructions to management to
+negotiate and finalize the open issues and to sign the merger agreement later
+that day.
 
    Also on March 12, 2001, the Cambridge board met to review the terms of the
 transaction. At this meeting, the members of management of Cambridge discussed
@@ -2278,30 +2324,46 @@ conditions and termination provisions, the voting agreement, affiliate
 agreements and other relevant documents. Lastly, Mr. Shecter identified the
 final outstanding legal issues, and he apprised the Cambridge board that some
 officers and directors of Cambridge, including Mr. Messman, had interests which
-might conflict with the interests of Cambridge stockholders. Following Mr.
-Shecter's presentation, Salomon Smith Barney presented an analysis of the
-financial terms of the proposed merger with Novell and delivered its oral
-opinion, subsequently confirmed in writing as of March 12, 2001, as to the
-fairness of the exchange ratio, from a financial point of view, to the holders
-of Cambridge common stock. Following these presentations and the related
-discussions by the Cambridge board, the Cambridge board of directors concluded
-that the merger was in the best interests of Cambridge stockholders, declared
-the merger advisable, approved the proposed terms of the merger and the merger
-agreement in substantially the form presented, authorized Cambridge's officers
-to complete the negotiations and execute the merger agreement and resolved to
-recommend that Cambridge stockholders vote to adopt the merger agreement. In
-connection with the merger, the board also resolved to amend the Cambridge
-stockholder rights plan to exempt Novell and the merger from the provisions of
-the rights plan. Warren Musser, a Cambridge director who was then the chief
-executive officer of Safeguard, abstained from the vote citing unique
-investment company issues faced by Safeguard as a result of the proposed
-transaction as the reason for abstention.
+might conflict with the interests of Cambridge stockholders. Salomon Smith
+Barney then reviewed its March 9, 2001 presentation and confirmed its opinion
+as to the fairness of the exchange ratio, from a financial point of view, to
+the holders of Cambridge common stock. Following these presentations and the
+related discussions by the Cambridge board, the Cambridge board of directors
+concluded that the merger was in the best interests of Cambridge stockholders,
+declared the merger advisable, approved the proposed terms of the merger and
+the merger agreement in substantially the form presented, authorized
+Cambridge's officers to complete the negotiations and execute the merger
+agreement and resolved to recommend that Cambridge stockholders vote to adopt
+the merger agreement. In connection with the merger, the board also resolved to
+amend the Cambridge stockholder rights plan to exempt Novell and the merger
+from the provisions of the rights plan. Warren Musser, a Cambridge director who
+was then the chief executive officer of Safeguard, abstained from the vote
+citing unique investment company issues faced by Safeguard as a result of the
+proposed transaction as the reason for abstention.
 
    After the close of trading on March 12, 2001, Cambridge, Novell and Ceres
 Neptune entered into the merger agreement and Mr. Messman entered into a voting
 agreement with Novell. In addition, Cambridge amended its stockholder rights
 plan. Immediately following the signing of the merger agreement, Novell and
 Cambridge issued a joint press release announcing the merger.
+
+   On May 22, 2001, Novell and Jack L. Messman entered into an employment
+agreement concerning Mr.  Messman's employment as chief executive officer and
+president of Novell following the merger. Please see the section entitled "--
+Interests of Cambridge directors and officers in the merger--Jack L. Messman"
+on pages 42 and 43 of this proxy statement-prospectus for a summary of the
+terms of the employment agreement.
+
+   As of May 24, 2001, Cambridge, Novell and Ceres Neptune entered into
+amendment no. 1 to the merger agreement which provides for the cancellation of
+all outstanding Cambridge options and for the termination of the Cambridge
+stock plans at the closing. In addition, the amendment provides for the grant
+of Novell stock options to some Cambridge executives, non-executives and
+directors and for the grant of restricted shares of Novell stock to some
+Cambridge executives. Please see the section entitled "--Equity grants and
+employee benefits after completion of the merger for Cambridge employees" on
+pages 44 to 46 of this proxy statement-prospectus for a summary of these
+grants.
 
 Joint reasons for the merger
 
@@ -2467,7 +2529,7 @@ to the merger agreement, you should be aware that some directors and officers
 of Cambridge have interests in the merger that are different from, or are in
 addition to, the interests of Cambridge stockholders generally. Please see the
 section entitled "Interests of Cambridge directors and officers in the merger"
-beginning on page 41 of this proxy statement-prospectus.
+beginning on page 42 of this proxy statement-prospectus.
 
 Factors considered by the Novell board of directors
 
@@ -2518,9 +2580,11 @@ Opinion of Cambridge's financial advisor
 advisor to Cambridge in connection with the merger. Pursuant to Salomon Smith
 Barney's engagement letter with Cambridge, Salomon Smith Barney rendered an
 opinion to the Cambridge board of directors on March 12, 2001, to the effect
-that, based upon and subject to the considerations and limitations set forth in
-the opinion, its work described below and other factors it deemed relevant, as
-of that date, the exchange ratio was fair, from a financial point of view, to
+that,
+
+based upon and subject to the considerations and limitations set forth in the
+opinion, its work described below and other factors it deemed relevant, as of
+that date, the exchange ratio was fair, from a financial point of view, to
 holders of Cambridge common stock.
 
    The full text of Salomon Smith Barney's opinion, which sets forth the
@@ -2542,17 +2606,15 @@ trading volumes of Cambridge common stock and Novell common stock, the
 historical and projected earnings and other operating data of Cambridge and
 Novell, and the historical and projected capitalization and financial condition
 of Cambridge and Novell. Salomon Smith Barney considered, to the extent
-publicly available, the financial
-
-terms of certain other similar transactions recently effected which Salomon
-Smith Barney considered relevant in evaluating the merger and analyzed certain
-financial, stock market and other publicly available information relating to
-the businesses of other companies whose operations Salomon Smith Barney
-considered relevant in evaluating those of Cambridge and Novell. In addition to
-the foregoing, Salomon Smith Barney conducted such other analyses and
-examinations and considered such other information and financial, economic and
-market criteria as Salomon Smith Barney deemed appropriate in arriving at its
-opinion.
+publicly available, the financial terms of certain other similar transactions
+recently effected which Salomon Smith Barney considered relevant in evaluating
+the merger and analyzed certain financial, stock market and other publicly
+available information relating to the businesses of other companies whose
+operations Salomon Smith Barney considered relevant in evaluating those of
+Cambridge and Novell. In addition to the foregoing, Salomon Smith Barney
+conducted such other analyses and examinations and considered such other
+information and financial, economic and market criteria as Salomon Smith Barney
+deemed appropriate in arriving at its opinion.
 
    In rendering its opinion, Salomon Smith Barney assumed and relied, without
 independent verification, upon the accuracy and completeness of all financial
@@ -2596,18 +2658,18 @@ merger and does not constitute a recommendation of the merger to Cambridge or
 its stockholders, nor does it constitute a recommendation to any stockholder as
 to how such stockholder should vote on any matter relating to the merger.
 
-   In connection with rendering its opinion, Salomon Smith Barney made a
-presentation to the Cambridge board of directors on March 12, 2001, with
-respect to the material analyses performed by Salomon Smith Barney in
-evaluating the fairness of the exchange ratio. The following is a summary of
-that presentation. The summary includes information presented in tabular
-format. In order to understand fully the financial analyses used by Salomon
-Smith Barney, these tables must be read together with the text of each summary.
-The tables alone do not constitute a complete description of the financial
-analyses. The following quantitative information, to the extent it is based on
-market data, is, except as otherwise indicated, based on market data as it
-existed at or prior to March 9, 2001, and is not necessarily indicative of
-current or future market conditions.
+   In connection with rendering its opinion, Salomon Smith Barney made
+presentations to the Cambridge board of directors on March 9, 2001 and March
+12, 2001, with respect to the material analyses performed by Salomon Smith
+Barney in evaluating the fairness of the exchange ratio. The following is a
+summary of that presentation. The summary includes information presented in
+tabular format. In order to understand fully the financial analyses used by
+Salomon Smith Barney, these tables must be read together with the text of each
+summary. The tables alone do not constitute a complete description of the
+financial analyses. The following quantitative information, to the extent it is
+based on market data, is, except as otherwise indicated, based on market data
+as it existed at or prior to March 9, 2001, and is not necessarily indicative
+of current or future market conditions.
 
    Comparable companies analyses.
 
@@ -2660,14 +2722,15 @@ Smith Barney in each of those sectors:
 
    The forecasted financial information used by Salomon Smith Barney in the
 course of its comparable companies analyses was based on research published by
-certain investment banks as well as information published by First Call
-Corporation. First Call Corporation compiles summaries of financial forecasts
-published by various investment banking firms. Calculations were made based on
-the closing price per share of each company's common stock on March 9, 2001. In
-deriving ratios for the selected comparable companies, Salomon Smith Barney
-made certain adjustments to the relevant data to take into account certain
-unusual and nonrecurring items. In each instance, firm value was calculated as
-the sum of:
+certain investment banks as well as information
+
+published by First Call Corporation. First Call Corporation compiles summaries
+of financial forecasts published by various investment banking firms.
+Calculations were made based on the closing price per share of each company's
+common stock on March 9, 2001. In deriving ratios for the selected comparable
+companies, Salomon Smith Barney made certain adjustments to the relevant data
+to take into account certain unusual and nonrecurring items. In each instance,
+firm value was calculated as the sum of:
 
   . equity value (common shares on a fully diluted basis valued at the
     closing price per share on March 9, 2001, less any proceeds that would be
@@ -2749,30 +2812,24 @@ Ratio of Firm Value to:
 
                   INFORMATION TECHNOLOGY SERVICES COMPARABLES
 
-                             Comparable Companies at     Novell at
-                           March 9, 2001 Closing Price    Closing
-                           ----------------------------  Price on
-                               Range      Median  Mean    3/9/01
-                           -------------- ------  -----  ---------
-                                   (Dollars in Millions)
+                                    Comparable Companies at March    Novell at
+                                        9, 2001 Closing Price         Closing
+                                   --------------------------------  Price on
+                                        Range      Median    Mean     3/9/01
+                                   --------------- -------  -------  ---------
+                                             (Dollars in Millions)
 
-Equity Value.............. $    73-$1,304 $ 178   $ 434   $1,949
-Firm Value................ $  (60)-$1,047 $ 132   $ 313   $  879
-Ratio of Closing Common
- Share Price to:
-  (a) Estimated EPS for
-   2000...................   11.0x-31.3x  20.9x   21.0x   121.3x
-  (b) Estimated EPS for
-   2001................... (25.0)x-119.4x 18.2x   32.7x    18.9x
-2001 Estimated Revenue
- Growth...................  (5.6)%-48.6%   12.3%   16.9%     3.2%
-5-Year Estimated EPS
- Growth...................   33.0%-45.0%   37.5%   38.3%    20.0%
+Equity Value...................... $    73-$1,304  $   178  $   434   $ 1,949
+Firm Value........................ $  (60)-$1,047  $   132  $   313   $   879
+Ratio of Closing Common Share
+ Price to:
+  (a) Estimated EPS for 2000......   11.0x-31.3x     20.9x    21.0x    121.3x
+  (b) Estimated EPS for 2001......   11.9x-119.4x    18.2x    32.7x     18.9x
+2001 Estimated Revenue Growth.....    3.4%-48.6%      12.3%    16.9%      3.2%
+5-Year Estimated EPS Growth.......   33.0%-45.0%      37.5%    38.3%     20.0%
 Ratio of Firm Value to:
-  (a) Estimated Revenue
-   for 2000...............    0.7x-2.1x    0.8x    0.7x     0.8x
-  (b) Estimated Revenue
-   for 2001...............    0.7x-1.7x    0.8x    0.7x     0.8x
+  (a) Estimated Revenue for 2000..    0.7x-2.1x       0.8x     0.7x      0.8x
+  (b) Estimated Revenue for 2001..    0.7x-1.7x       0.8x     0.7x      0.8x
 
    Based on these data, Salomon Smith Barney derived the following ranges for
 the implied firm value of each of Novell's three major divisions as a multiple
@@ -2816,36 +2873,36 @@ things:
    The following table sets forth the results of these analyses:
 
                                 Comparable Companies at
-                              March 9, 2001 Closing Price           Cambridge
-                          -------------------------------------    at Closing
-                                Range         Median     Mean    Price on 3/9/01
-                          ------------------ --------  --------  ---------------
+                              March 9, 2001 Closing Price            Cambridge
+                          --------------------------------------    at Closing
+                                Range          Median     Mean    Price on 3/9/01
+                          ------------------  --------  --------  ---------------
                                          (Dollars in Thousands)
 
-Equity Value............  $ 130,849-$530,876 $265,000  $279,238     $215,229
+Equity Value............  $ 130,849-$530,876  $265,000  $279,238     $215,229
 Ratio of Closing Common
  Share Price to:
-  (a) Estimated EPS for          12.0x-54.9x    19.6x     31.1x  No EPS Forecast
-   2000.................                                            for 2000
-  (b) Estimated EPS for           8.8x-30.6x    10.3x     15.3x  No EPS Forecast
-   2001.................                                            for 2000
+  (a) Estimated EPS for          12.0x-54.9x     19.6x     31.1x  No EPS Forecast
+   2000.................                                             for 2000
+  (b) Estimated EPS for           8.8x-30.6x     10.3x     15.3x  No EPS Forecast
+   2001.................                                             for 2000
 5-Year Estimated EPS
- Growth.................         15.0%-30.0%     20.0%     20.1%      22.5%
-Firm Value..............  $(84,957)-$860,653 $288,660  $292,861     $118,538
+ Growth.................          15.0%-30.0%     20.0%     20.1%      22.5%
+Firm Value..............  $(84,957)-$860,653  $288,660  $292,861     $118,538
 Ratio of Firm Value to:
   (a) Revenue for 12-
     Month Period ended
-    September 30, 2000..           0.0x-1.2x     0.4x      0.5x       0.2x
+    September 30, 2000..           0.0x-1.2x      0.4x      0.5x       0.2x
   (b) Estimated Revenue
-   for 2000.............           0.5x-1.0x     0.5x      0.5x       0.2x
+   for 2000.............           0.5x-1.0x      0.5x      0.5x       0.2x
   (c) Estimated Revenue
-   for 2001.............           0.5x-0.6x     0.5x      0.4x       0.2x
+   for 2001.............           0.4x-0.6x      0.5x      0.4x       0.2x
 Margins for the 12-Month
  Period ending September
  30, 2000:
-  (a) Gross Profit......         27.1%-47.1%     31.2%     33.9%      48.2%
-  (b) EBITDA............          2.6%-14.2%      9.2%      8.8%    No EBITDA
-                                                                   for period
+  (a) Gross Profit......          27.1%-47.1%     31.2%     33.9%      48.2%
+  (b) EBITDA............           2.6%-14.2%      9.2%      8.8%    No EBITDA
+                                                                    for period
 
    Based on these data, Salomon Smith Barney derived the following ranges for
 Cambridge's implied firm value as a multiple of estimated revenue: (i) 0.4x to
@@ -3025,7 +3082,7 @@ directors in that connection. The opinion of Salomon Smith Barney was only one
 of the factors taken into consideration by the Cambridge board of directors in
 making its determination to approve the merger agreement and the merger. Please
 see the section entitled "Recommendation of, and factors considered by, the
-Cambridge board of directors" on page 30 of this proxy statement-prospectus.
+Cambridge board of directors" on page 31 of this proxy statement-prospectus.
 
    Salomon Smith Barney is an internationally recognized investment banking
 firm engaged in, among other things, the valuation of businesses and their
@@ -3073,9 +3130,112 @@ considered them in making their recommendation.
    Jack L. Messman
 
    Jack L. Messman, the president, chief executive officer and a director of
-Cambridge, will enter into an employment agreement with Novell. Mr. Messman's
-employment agreement will provide for his employment as chief executive officer
-and president of Novell.
+Cambridge, has entered into an employment agreement with Novell. Mr. Messman's
+employment agreement provides for his employment as chief executive officer and
+president of Novell.
+
+   Under the terms of his employment agreement, Mr. Messman will be paid a base
+salary of $781,981 per year, subject to normal review and periodic adjustments.
+Mr. Messman will also be entitled to a bonus of 100% of his base salary if
+performance goals are met, and such additional bonus compensation specified by
+the board of directors, if the performance goals are exceeded.
+
+   Additionally, Mr. Messman will receive options to purchase a total of
+2,408,045 shares of Novell common stock. This option will be granted on July
+12, 2001, and will have an exercise price per share equal to the fair market
+value of a share of Novell common stock on the date of grant. The portion of
+the option to purchase 1,108,045 shares of Novell common stock will vest as to
+25% of the shares originally subject to the option on the date of grant, and as
+to 6.25% of the shares originally subject to the option each quarter
+thereafter, so that this portion of the option will be fully exercisable three
+years from the date of grant. The vested portion will not become exercisable
+until six months after the date of grant, provided, however, (i) if Mr. Messman
+voluntarily terminates employment within six months of the date of grant for a
+reason other than a constructive termination, or if he is terminated for cause
+within six months of the date of grant, the option will be cancelled in full,
+or, (ii) if Mr. Messman terminates employment for any reason other than that
+provided in (i), he will be able to exercise the vested portion of his option.
+The portion of the option to purchase 1,300,000 shares will vest as to 25% of
+the shares originally subject to the option on the first anniversary of the
+date of grant, and as to 6.25% of the shares originally subject to the option
+each quarter thereafter, so that this portion of the option will be fully
+exercisable four years from the date of grant.
+
+   Under the employment agreement, Mr. Messman will also be granted the right
+to purchase 715,780 shares of Novell common stock for an aggregate purchase
+price of $71,578. The shares of restricted stock will vest as follows: 299,672
+shares will vest on the first anniversary of the date on which Novell grants to
+Mr. Messman the right to purchase the restricted stock, 66,800 shares will vest
+eighteen months from the date on which Novell grants to Mr. Messman the right
+to purchase the restricted stock, 174,654 shares will vest two years from the
+date on which Novell grants to Mr. Messman the right to purchase the restricted
+stock, and 174,654 shares will vest three years from the date on which Novell
+grants to Mr. Messman the right to purchase the restricted stock.
+
+   Pursuant to Mr. Messman's employment agreement, Mr. Messman will be entitled
+to receive employee benefits made available to other employees and officers of
+Novell and their eligible dependents. Novell will also maintain long-term
+disability insurance, short-term disability insurance, term life insurance
+coverage, accidental death and dismemberment coverage, and business travel
+accident insurance for the benefit of Mr. Messman.
+
+   Under the terms of his employment agreement, in the event Mr. Messman is
+terminated without cause or if he is constructively terminated, Mr. Messman
+will receive the following benefits:
+
+  .  A severance payment equal to one and a half times Mr. Messman's annual
+     salary and target bonus;
+
+  .  A pro rated bonus based on his actual accomplishments for the portion of
+     the year he was employed by Novell;
+
+  .  Continued medical, dental, vision and life insurance and other
+     applicable welfare benefits for himself and his eligible dependents for
+     18 months following his termination;
+
+  .  Acceleration of the vesting of the exercisability of his outstanding
+     options that would have become vested and exercisable within the one
+     year period after his termination of employment, and all options will
+     remain exercisable for the shorter of (i) six months from his last date
+     of employment with Novell, or (ii) the original term of the option; and
+
+  .  Lapse of restrictions on any outstanding restricted stock he holds that
+     would have lapsed within the one year period after his termination of
+     employment.
+
+   In addition, if Novell experiences a change-in-control and Mr. Messman is
+terminated without cause or if he is constructively terminated, Mr. Messman
+will receive the following benefits:
+
+  .  A severance payment equal to three times Mr. Messman's annual salary and
+     target bonus;
+
+  .  A pro rated bonus based on his actual accomplishments for the portion of
+     the year he was employed by Novell;
+
+  .  Continued medical, dental, vision and life insurance and other
+     applicable welfare benefits for himself and his eligible dependents for
+     three years following his termination;
+
+  .  Full acceleration of the vesting of the exercisability of his
+     outstanding options, and all options will remain exercisable for the
+     shorter of (i) 39 months from his last date of employment with Novell,
+     or (ii) the original term of the option;
+
+  .  The lapse of restrictions on all outstanding restricted stock held by
+     Messman;
+
+  .  Novell will pay for the costs of attorney's fees on behalf of Mr.
+     Messman in the event of a dispute regarding Mr. Messman's change-in-
+     control benefits; and
+
+  .  In the event that any payments or benefits Mr. Messman receives from
+     Novell are subject to excise tax under Section 280G of the Internal
+     Revenue Code, Novell will pay Mr. Messman an additional amount so that
+     the net amount retained by Mr. Messman after deduction of (i) any excise
+     tax and (ii) any federal, state and local tax and excise tax imposed
+     upon the additional amount, shall be equal to the value of such payments
+     or benefits.
 
    Other key executives and directors
 
@@ -3087,17 +3247,23 @@ equal to the cash base salaries and incentive compensation that they currently
 receive, or are eligible to receive, from Cambridge. These Cambridge executive
 officers will also participate in the Novell Senior Management Severance Plan.
 
-   As a condition to obtaining employment with Novell effective at the closing,
-Cambridge executives have waived or are expected to waive, the provisions of
-their existing change-in-control agreements with Cambridge which would be
-triggered by the consummation of the merger.
+   As a condition to obtaining employment with, and other benefits from, Novell
+effective at the closing, most Cambridge executives have waived, or are
+expected to waive, the provisions of their existing severance agreements with
+Cambridge which would be triggered by the consummation of the merger.
 
-   Cambridge executives who are not expected to be employed by Novell have not
-waived the provisions of their existing change-in-control agreements. These
-executives are entitled to severance payments aggregating approximately $5.2
-million under their Cambridge change-in-control agreements. In addition, these
-executives will receive stock option grants from Novell for an aggregate of
-approximately 351,000 shares following the merger.
+   Some Cambridge executives are not expected to waive the provisions of their
+existing severance agreements. These executives are entitled to severance
+payments aggregating approximately $5.2 million under their Cambridge severance
+agreements. In addition, these executives will receive stock option grants from
+Novell for an aggregate of approximately 351,000 shares following the merger.
+
+   Each Cambridge director that assumes initial membership on the Novell board
+of directors after the completion of the merger will receive an option grant to
+purchase 30,000 shares of Novell common stock under the Novell Stock Option
+Plan for Non-Employee Directors, providing for the automatic grant of stock
+options to each person that first becomes an outside director on the Novell
+board of directors.
 
    In addition, Cambridge's directors and officers will receive, for a period
 of six years after the completion of the merger, directors and officers
@@ -3114,26 +3280,33 @@ prior to the completion of the merger through one of the following mechanisms:
 
    Cambridge nominated directors
 
-   In addition, as a condition to closing, two Cambridge directors selected by
-Cambridge in addition to Mr. Messman, will become directors of Novell's board
-of directors effective upon consummation of the merger.
+   In addition, John W. Poduska, Sr. and James D. Robinson, III, two Cambridge
+directors selected by Cambridge, will become directors of Novell's board of
+directors effective upon consummation of the merger. Information regarding Mr.
+Poduska and Mr. Robinson is available in Cambridge's Annual Report on Form 10-K
+for fiscal year 2000 which is incorporated herein by reference.
 
 Equity grants and employee benefits after completion of the merger for
 Cambridge employees
 
+   Cambridge Options
+
+   All Cambridge options will be cancelled as of the date of the merger
+pursuant to the agreement between Cambridge and each option holder.
+
    Nonexecutive Option Grants
 
-   It is expected that all Cambridge options will be cancelled as of the date
-of the merger.
-
-   The Novell compensation committee has approved, effective on the twelfth day
-of the month following the completion of the merger, the grant of nonqualified
+   The Novell compensation committee has approved the grant of nonqualified
 stock options to purchase Novell common stock to each Cambridge nonexecutive
-that is employed by Novell or Cambridge on such date. The aggregate number of
-shares subject to these options will be approximately 4,000,000. The exercise
-price of the nonexecutive options will be at the fair market value of Novell
-common stock on the date of option grant. These grants may not be exercised for
-a period of six months following the date of grant.
+who is employed by Cambridge on the closing date and whose Cambridge options
+were cancelled as a result of the merger, which grants shall be made on July
+12, 2001 or, in some instances involving the termination of such nonexecutives,
+on a prior date. The aggregate number of shares subject to these options will
+be approximately 4,000,000 shares. The exercise price of the
+
+nonexecutive options will be at the fair market value of Novell common stock on
+the date of grant. These grants generally may not be exercised for a period of
+six months following the date of grant.
 
    The nonexecutive options will have the following terms:
 
@@ -3147,16 +3320,33 @@ a period of six months following the date of grant.
      Novell's standard option agreements for grants under the Novell stock
      plans.
 
+   In addition to the above option grants, Novell may grant options to purchase
+Novell common stock to continuing Cambridge nonexecutives who did not have
+Cambridge options at the time of the merger. These additional grants may
+increase aggregate option grants to nonexecutives to approximately 7,000,000
+shares of Novell common stock.
+
    Executive Option Grants
 
-   The Novell compensation committee has approved, effective on the twelfth day
-of the month following the completion of the merger, the grant of nonqualified
-stock options to purchase Novell common stock to each Cambridge executive
-officer who is employed by Novell or Cambridge on such date. The aggregate
+   Pursuant to his employment agreement, Mr. Messman will receive options to
+purchase 2,408,045 shares of Novell common stock. The options will be granted
+on July 12, 2001 and will have an exercise price equal to the fair market value
+of Novell common stock on the date of grant. The options will become vested and
+exercisable as described under "Interests of Cambridge directors and officers
+in the merger--Jack L. Messman" on page 42 of this proxy statement-prospectus.
+
+   In addition to the options to be granted to Mr. Messman, the Novell
+compensation committee has approved the grant of nonqualified stock options to
+purchase Novell common stock to each Cambridge executive officer who is
+employed by Cambridge on the closing date and who has waived his rights under
+his severance agreement with Cambridge. Such grants shall be made on July 12,
+2001, or, in certain instances involving the resignation or termination of such
+executive officers, the grants will be made on a prior date. The aggregate
 number of shares subject to the executive options will equal approximately
 1,750,000. The exercise price of the executive options will be the fair market
-value of Novell common stock on the date of option grant. These grants may not
-be exercised for a period of six months following the date of grant.
+value of Novell common stock on the date of option grant. These options
+generally may not be exercised for a period of six months following the date of
+grant.
 
    The executive options will have the following terms:
 
@@ -3170,12 +3360,40 @@ be exercised for a period of six months following the date of grant.
      Novell's standard option agreements for grants under the Novell stock
      option plans.
 
+   The Novell compensation committee also has approved, effective on July 12,
+2001, or the last day of employment, whichever is earlier, option grants to
+purchase Novell common stock to Cambridge executives who are not expected to
+waive their rights to severance benefits under their severance agreements with
+Cambridge. The aggregate number of shares subject to these options will equal
+approximately 351,000 shares. The exercise price per share will be based on the
+exchange ratio set forth in the merger agreement and the exercise price per
+share under the executive's cancelled options to purchase Cambridge common
+stock. These options will be fully vested and exercisable on the date of grant,
+the options will remain exercisable under the terms set forth in the
+individual's severance agreement with Cambridge, and be subject to all other
+terms as set forth in Novell's standard option agreements for grants under the
+Novell stock option plans. There may be compensation expense for financial
+accounting purposes recognized as a result of these grants.
+
    Restricted Stock Grant to Executives
 
-   The Novell compensation committee also approved the grant of restricted
-stock purchase awards to Cambridge executives aggregating approximately 405,000
-shares on the twelfth day of the month following the completion of the merger.
-The restricted stock will have the following terms:
+   Pursuant to his employment agreement, Mr. Messman will be granted the right
+to purchase 715,780 shares of restricted stock for an aggregate purchase price
+of $71,578. The shares of restricted stock will vest as follows: 299,672 shares
+will vest on the first anniversary of the date on which Novell grants to Mr.
+Messman the right to purchase the restricted stock, 66,800 shares will vest 18
+months from the date on which Novell grants to Mr. Messman the right to
+purchase the restricted stock, 174,654 shares will vest two years from the date
+on which Novell grants to Mr. Messman the right to purchase the restricted
+stock, and 174,654 shares will vest three years from the date on which Novell
+grants to Mr. Messman the right to purchase the restricted stock.
+
+   In addition to the grant of restricted stock to Mr. Messman, the Novell
+compensation committee approved the grant of restricted stock purchase awards
+to some Cambridge executives aggregating approximately 405,000 shares on July
+12, 2001, or in some instances involving the resignation or termination of such
+executive officers, on a prior date. The restricted stock will have the
+following terms:
 
   .  40% of the shares will vest on the first anniversary of the grant date,
      and the remaining portion will vest on the second and third
@@ -3185,25 +3403,28 @@ The restricted stock will have the following terms:
 
   .  all other terms of the restricted stock will be as set forth in Novell's
      standard restricted stock agreement for grants under the Novell stock
-     option plans. Compensation expense will be recognized as a result of
-     these issuances.
+     option plans. Compensation expense will be recognized for financial
+     accounting purposes as a result of these issuances.
 
    Severance Benefits
 
    The Novell compensation committee has approved the immediate participation
 of most Cambridge executives in the Novell severance plan upon the completion
 of the merger. These Cambridge executives will receive severance benefits under
-the severance plan in the event of a termination in connection with a change-
-in-control or a termination for other reasons. Further, in the event of a
-termination of the Cambridge executive for a reason other than due to a
+the Novell severance plan in the event of a termination in connection with a
+change-in-control or a termination for other reasons. Further, in the event of
+a termination of the Cambridge executive for a reason other than due to a
 voluntary resignation or termination for cause, all options and restricted
 stock held by the Cambridge executive will be subject to additional vesting as
 provided under the severance plan.
 
    The Novell compensation committee also has approved the immediate
-participation following the merger of Cambridge nonexecutives in Novell's
-limited severance plan or policy in the event such individual's employment is
-terminated after the completion of the merger.
+participation following the merger of Cambridge nonexecutives who do not have a
+severance agreement with Cambridge in Novell's limited severance plan or policy
+in the event such individual's employment is terminated after the completion of
+the merger. In addition, the Novell compensation committee has agreed to assume
+any severance agreements Cambridge nonexecutives had with Cambridge prior to
+the completion of the merger.
 
    Cambridge 401(k) Plan
 
@@ -3306,17 +3527,15 @@ Internal Revenue Code.
 upon Novell's receipt of an opinion dated as of the closing of the merger from
 Wilson Sonsini and Cambridge's receipt of an opinion dated as of the closing of
 the merger from Morgan Lewis, that the merger will constitute a reorganization
-within the
-
-meaning of Section 368(a) of the Internal Revenue Code. These opinions will be
-based upon then-existing law and will rely on certain facts, assumptions,
-limitations, representations and covenants including those contained in
-certificates executed by officers of Novell, Cambridge and Ceres Neptune
-Acquisition Corp. that, if incorrect in certain material respects, would
-jeopardize the conclusions reached by Wilson Sonsini and Morgan Lewis in their
-opinions. The tax opinions will not bind the Internal Revenue Service or the
-courts or prevent the Internal Revenue Service from successfully asserting a
-contrary opinion. Neither Novell nor Cambridge will request a ruling from the
+within the meaning of Section 368(a) of the Internal Revenue Code. These
+opinions will be based upon then-existing law and will rely on certain facts,
+assumptions, limitations, representations and covenants including those
+contained in certificates executed by officers of Novell, Cambridge and Ceres
+Neptune Acquisition Corp. that, if incorrect in certain material respects,
+would jeopardize the conclusions reached by Wilson Sonsini and Morgan Lewis in
+their opinions. The tax opinions will not bind the Internal Revenue Service or
+the courts or prevent the Internal Revenue Service from successfully asserting
+a contrary opinion. Neither Novell nor Cambridge will request a ruling from the
 Internal Revenue Service in connection with the merger.
 
    The following material federal income tax consequences will result from the
@@ -3386,31 +3605,34 @@ Accounting treatment of the merger
 Regulatory filings and approvals required to complete the merger
 
    The merger is subject to the requirements of the Hart-Scott-Rodino Antitrust
-Improvements Act of 1976, as amended, under which a transaction cannot be
-completed until required information and materials are furnished to the
-Antitrust Division of the Department of Justice and the United States Federal
-Trade Commission and the applicable waiting periods are terminated or expire.
-Novell and Cambridge have made the required filings with the Department of
-Justice and the United States Federal Trade Commission, but the applicable
-waiting periods have not yet been terminated or expired.
+Improvements Act of 1976, as amended. Novell and Cambridge have made the
+required filings with the Department of Justice and the United States Federal
+Trade Commission, and the applicable waiting period has been terminated.
 
    The Antitrust Division of the Department of Justice or the United States
-Federal Trade Commission may challenge the merger on antitrust grounds either
-before or after expiration of the waiting period. Accordingly, at any time
-before or after the completion of the merger, either the Antitrust Division of
-the Department of Justice or the United States Federal Trade Commission could
-take action under the antitrust laws as it deems necessary or desirable in the
-public interest. Other persons could also take action under the antitrust laws,
-including seeking to enjoin the merger. Additionally, at any time before or
-after the completion of the merger, whether or not the applicable waiting
-period expired or ended, any state could take action under the antitrust laws
-as it deems necessary or desirable in the public interest. There can be no
-assurance that a challenge to the merger will not be made or that, if a
-challenge is made, we will prevail.
+Federal Trade Commission may challenge the merger on antitrust grounds after
+termination of the waiting period. Accordingly, at any time before or after the
+completion of the merger, either the Antitrust Division of the Department of
+Justice or the United States Federal Trade Commission could take action under
+the antitrust laws as it deems necessary or desirable in the public interest.
+Other persons could also take action under the antitrust laws, including action
+seeking to enjoin the merger. Additionally, at any time before or after the
+completion of the merger, whether or not the applicable waiting period expired
+or ended, any state could take action under the antitrust laws as it deems
+necessary or desirable in the public interest. There can be no assurance that a
+challenge to the merger will not be made or that, if a challenge is made, we
+will prevail.
 
-   In addition, Novell and Cambridge must file any applicable competition
-filings in foreign jurisdictions and receive clearance prior to completing the
-merger.
+   The German Competition Authority has been notified of the merger and has
+cleared the transaction. A short-form notification has been submitted in
+Ireland requesting that the Irish antitrust authorities confirm that Ireland
+does not have jurisdiction over this transaction. The Irish Department of
+Enterprise, Trade and Employment confirmed by letter that the proposed
+transaction is not notifiable under the Irish Mergers Act. The companies have
+made competition filings in Brazil and the Netherlands. Under the laws of
+Brazil, the merger can be consummated without prior approval from the Brazilian
+authorities. Under the laws of the Netherlands, the merger cannot be
+consummated without prior approval from the Dutch authorities.
 
    Other than as described above, neither Novell nor Cambridge is aware of any
 other material governmental or regulatory approval required for completion of
@@ -3427,8 +3649,10 @@ any person who is deemed to be an "affiliate" of either Novell or Cambridge.
 Persons who may be deemed affiliates include individuals or entities that
 control, are controlled by, or are under common control with such other person
 and may include some of our executive officers and directors, as well as our
-respective principal stockholders. Affiliates may not sell their shares of
-Novell common stock acquired in connection with the merger except pursuant to:
+respective
+
+principal stockholders. Affiliates may not sell their shares of Novell common
+stock acquired in connection with the merger except pursuant to:
 
   . an effective registration statement under the Securities Act covering the
     resale of those shares;
@@ -3462,11 +3686,12 @@ Corporation Law.
 
                               THE MERGER AGREEMENT
 
-   A description of the material terms of the merger agreement between Novell,
-Ceres Neptune Acquisition Corp. and Cambridge follows. Please read the entire
-merger agreement, which is attached as Annex A to this proxy statement-
-prospectus. This summary is qualified in its entirety by reference to the full
-text of the merger agreement.
+   A description of the material terms of the merger agreement, including
+amendment no. 1, by and among Novell, Ceres Neptune Acquisition Corp. and
+Cambridge follows. Please read the entire merger agreement, including amendment
+no. 1, each of which is attached as Annex A to this proxy statement-prospectus.
+This summary is qualified in its entirety by reference to the full text of the
+merger agreement.
 
 The Merger
 
@@ -3498,14 +3723,11 @@ similar matters. No fractional shares of Novell common stock will be issued in
 the merger. Instead, each holder of fractional shares will receive an amount of
 cash equal to such holder's proportionate interest in the net proceeds from the
 sale by the exchange agent in one or more transactions on behalf of all holders
-of fractional shares of Novell. The merger agreement provides that all options
-outstanding at the closing of the merger to purchase shares of Cambridge common
-stock will be assumed by Novell and become options to purchase common stock of
-Novell, subject to adjustment according to the exchange ratio. It is expected
-that all unexercised options to acquire Cambridge common stock will be
-cancelled upon the closing of the merger. For a description of equity grants to
-be made to Cambridge employees following the merger, see the discussion on
-pages 41 through 43 of this proxy statement-prospectus.
+of fractional shares of Novell. All unexercised options to acquire Cambridge
+common stock will be cancelled upon the closing of the merger. For a
+description of equity grants to be made to Cambridge employees following the
+merger, see the discussion on pages 44 through 46 of this proxy statement-
+prospectus.
 
    Procedure for Exchanging Cambridge Common Stock for Novell Common Stock
 
@@ -3750,9 +3972,10 @@ nature, including:
 
   . Novell and Cambridge have agreed to notify each other of any event that
     is required to be set forth in an amendment or supplement to any
-    regulatory filing, and to cooperate in filing any amendment or supplement
-    with the appropriate regulatory body and, if appropriate, in mailing the
-    amendment or supplement to Cambridge stockholders; and
+    regulatory filing, and to cooperate in filing any amendment or
+
+   supplement with the appropriate regulatory body and, if appropriate, in
+   mailing the amendment or supplement to Cambridge stockholders; and
 
   . Cambridge has agreed to cause this proxy statement-prospectus to include
     the recommendation of its board of directors in favor of adoption and
@@ -3898,12 +4121,13 @@ person or group if all of the following conditions are met:
 
    Cambridge has agreed to promptly inform Novell of any request for non-public
 information that Cambridge reasonably believes would lead to an Acquisition
-Proposal, or of any Acquisition Proposal, or any
+Proposal, or of any Acquisition Proposal, or any inquiry with respect to or
+which Cambridge reasonably should believe would lead to any Acquisition
+Proposal,
 
-inquiry with respect to or which Cambridge reasonably should believe would lead
-to any Acquisition Proposal, the material terms and conditions of such request,
-Acquisition Proposal or inquiry, and the identity of the person or group making
-any such request, Acquisition Proposal or inquiry.
+the material terms and conditions of such request, Acquisition Proposal or
+inquiry, and the identity of the person or group making any such request,
+Acquisition Proposal or inquiry.
 
    Under the merger agreement, the Cambridge directors are allowed to withhold,
 withdraw, amend or modify their recommendation in favor of the merger if a
@@ -3922,17 +4146,17 @@ meeting of stockholders.
 
 Treatment of Cambridge stock options and contingent obligation to issue shares
 
-   It is expected that all unexercised Cambridge options will be cancelled
-prior to or upon the closing of the merger. For a discussion of equity grants
-to be made to Cambridge employees following the merger, see the discussion on
-pages 41 through 43 of this proxy statement-prospectus.
+   All unexercised Cambridge options will be cancelled prior to or upon the
+closing of the merger. For a discussion of equity grants to be made to
+Cambridge employees and some directors following the merger, see the discussion
+on pages 44 through 46 of this proxy statement-prospectus.
 
-   Cambridge's contingent obligation to issue shares of its common stock
-pursuant to an earn-out agreement entered into in connection with Cambridge's
-purchase of the business and assets of OSIX PTY Ltd. will be assumed by Novell
-and become a contingent obligation to issue Novell common stock with a fair
-value of up to two million Australian dollars if the earn-out conditions are
-met.
+   The merger agreement provides that Cambridge's contingent obligation to
+issue shares of its common stock pursuant to an earn-out agreement entered into
+in connection with Cambridge's purchase of the business and assets of OSIX PTY
+Ltd. will be assumed by Novell and become a contingent obligation to issue
+Novell common stock with a fair value of up to two million Australian dollars
+if the earn-out conditions are met.
 
 Cambridge's employee benefit plans
 
@@ -3953,10 +4177,10 @@ Cambridge employees and its subsidiaries' employees with:
      Cambridge employees immediately prior to the merger.
 
    Following the merger, each continuing employee will, to the extent permitted
-by applicable law, receive service credit for purposes of eligibility to
-participate and vesting (but not for benefit accrual purposes) for employment,
-compensation and employee benefit plan purposes with Cambridge or its
-subsidiaries prior to the merger.
+by applicable law and applicable tax qualification requirements, receive
+service credit for purposes of eligibility to participate and vesting (but not
+for benefit accrual purposes) for employment, compensation and employee benefit
+plan purposes with Cambridge or its subsidiaries prior to the merger.
 
 Indemnification
 
@@ -3968,9 +4192,11 @@ the completion of the merger.
 
    In addition, Cambridge's directors and officers will receive, for a period
 of six years after the completion of the merger, directors and officers
-insurance coverage with terms substantially the same as those of Cambridge's
-existing directors and officers insurance policy for events occurring on or
-prior to the completion of the merger through one of the following mechanisms:
+insurance coverage with terms substantially the same as those of
+
+Cambridge's existing directors and officers insurance policy for events
+occurring on or prior to the completion of the merger through one of the
+following mechanisms:
 
   .  a directors and officers insurance policy whose annual premium is not
      greater than 150% of the premium of Cambridge's policy in effect on the
@@ -4201,7 +4427,7 @@ Voting agreements
 
    As an inducement to Novell to enter into the merger agreement, Jack L.
 Messman, the president, chief executive officer and a director of Cambridge,
-and other executive officers and directors of Cambridge, entered into voting
+and all other executive officers and directors of Cambridge entered into voting
 agreements with Novell. By entering into the voting agreements, these Cambridge
 stockholders have irrevocably appointed Novell as their lawful attorney and
 proxy. These proxies give Novell the limited right to vote the shares of
@@ -4225,11 +4451,10 @@ voting agreements:
 on all other matters.
 
    As of the record date, the Cambridge stockholders who entered into voting
-agreements with Novell collectively beneficially owned           shares of
-Cambridge common stock which represented approximately    % of the outstanding
-Cambridge common stock. None of the Cambridge stockholders who are parties to
-the voting agreements were paid additional consideration in connection with
-them.
+agreements with Novell collectively beneficially owned approximately 1.8% of
+the outstanding Cambridge common stock. None of the Cambridge stockholders who
+are parties to the voting agreements were paid additional consideration in
+connection with them.
 
    Each Cambridge stockholder who is a party to a voting agreement agreed not
 to sell, or transfer voting rights of, the Cambridge stock and options owned,
@@ -4255,10 +4480,13 @@ also acknowledged the resale restrictions imposed by Rule 145 under the
 Securities Act on shares of Novell common stock to be received by them in the
 merger.
 
-Employment agreements
+Employment agreement
 
    Jack L. Messman, the president, chief executive officer and a director of
-Cambridge, is expected to enter into an employment agreement with Novell.
+Cambridge, has to entered into an employment agreement with Novell that will go
+into effect upon completion of the merger. For a summary of the terms of Mr.
+Messman's employment agreement please see pages 42-43 of this proxy statement-
+prospectus.
 
        NOVELL UNAUDITED PRO FORMA COMBINED CONDENSED FINANCIAL STATEMENTS
 
@@ -4269,8 +4497,8 @@ each share of Cambridge common stock issued and outstanding immediately prior
 to the effective date will be cancelled and converted into the right to receive
 0.668 of a share of Novell common stock. All outstanding stock options of
 Cambridge will terminate and Novell will not assume the Cambridge stock option
-plans. As of March 28, 2001, there were 63,532,271 shares of Cambridge common
-stock issued and outstanding that will be converted to 42,439,557 shares of
+plans. As of April 30, 2001, there were 63,532,722 shares of Cambridge common
+stock issued and outstanding that will be converted to 42,439,859 shares of
 Novell common stock. The merger will be accounted for using the purchase method
 of accounting. The Unaudited Pro Forma Combined Condensed Financial Statements
 have been prepared on the basis of assumptions described herein.
@@ -4291,10 +4519,10 @@ results of operations for the year ended December 31, 2000. The Novell
 unaudited pro forma combined condensed statement of operations for the three
 months ended January 31, 2001 combine Novell's historical results of operations
 for the three months ended January 31, 2001 with Cambridge's historical results
-of operations for the three months ended December 31, 2000. The Novell
-unaudited pro forma combined condensed balance sheet combines Novell's
-historical balance sheet as of January 31, 2001 with Cambridge's historical
-balance sheet as of December 31, 2000.
+of operations for the three months ended March 31, 2001. The Novell unaudited
+pro forma combined condensed balance sheet combines Novell's historical balance
+sheet as of January 31, 2001 with Cambridge's historical balance sheet as of
+March 31, 2001.
 
  Basis of Presentation
 
@@ -4326,12 +4554,21 @@ consummated.
 read in conjunction with the related notes included in this proxy statement-
 prospectus and the consolidated audited and consolidated condensed unaudited
 financial statements of Novell and the consolidated audited financial
-statements of Cambridge, which are incorporated by reference in this proxy
-statement-prospectus. The Novell unaudited pro forma combined condensed
-financial data are not necessarily indicative of what the actual results of
-operations and financial position would have been had the Cambridge merger
-taken place on November 1, 1999 or January 31, 2001, and do not indicate future
-results of operations or financial position.
+statements of
+
+Cambridge, which are incorporated by reference in this proxy statement-
+prospectus. The Novell unaudited pro forma combined condensed financial data
+are not necessarily indicative of what the actual results of operations and
+financial position would have been had the Cambridge merger taken place on
+November 1, 1999 or January 31, 2001, and do not indicate future results of
+operations or financial position.
+
+   On May 22, 2001, Novell announced its fiscal 2001 second quarter financial
+results, which have not been incorporated into these pro forma statements.
+Novell reported total revenue of $241 million and a net loss of $151.3 million
+or $0.48 per share for the second fiscal quarter ended April 30, 2001. This
+loss included a $142 million ($0.45 per share) write-down of equity
+investments. Total assets were $1.569 billion at the end of the second quarter.
 
               UNAUDITED PRO FORMA COMBINED CONDENSED BALANCE SHEET
                              As of January 31, 2001
@@ -4347,24 +4584,24 @@ ASSETS:
 
 Current assets:
   Cash and short-term
-   investments.......... $  655,449  $ 96,710    $     --              $  752,159
-  Receivables, net......    161,095    96,537          --                 257,632
+   investments.......... $  655,449  $ 64,313    $     --              $  719,762
+  Receivables, net......    161,095    85,177          --                 246,272
   Inventories...........      1,898       --           --                   1,898
-  Prepaid expenses......     25,458    31,936      (20,497)(2)             36,897
+  Prepaid expenses......     25,458    31,958      (15,422)(2)             41,994
   Deferred and
    refundable income
-   taxes................     56,996    14,083      (11,786)(7)             59,293
-  Other current assets..     25,179     8,813       20,497 (2)             54,489
+   taxes................     56,996    25,518      (11,786)(7)             70,728
+  Other current assets..     25,179    13,557       15,422 (2)             54,158
                          ----------  --------    ---------             ----------
     Total current
-     assets.............    926,075   248,079      (11,786)             1,162,368
+     assets.............    926,075   220,523      (11,786)             1,134,812
 Property, plant and
- equipment, net.........    282,937    44,310          --                 327,247
-Long-term investments...    397,876     8,094          --                 405,970
+ equipment, net.........    282,937    38,978          --                 321,915
+Long-term investments...    397,876     7,098          --                 404,974
 Deferred income taxes...     15,600    33,938       (8,214)(7)             41,324
-Other assets............     22,966     8,123       72,846 (1)            103,935
+Other assets............     22,966    10,886       90,462 (1)            124,314
                          ----------  --------    ---------             ----------
-    Total assets........ $1,645,454  $342,544    $  52,846             $2,040,844
+    Total assets........ $1,645,454  $311,423    $  70,462             $2,027,339
                          ==========  ========    =========             ==========
 
 LIABILITIES AND
@@ -4372,41 +4609,41 @@ STOCKHOLDERS' EQUITY:
 - ---------------------
 
 Current Liabilities:
-  Accounts payable...... $   94,286  $ 13,879    $   7,053 (4)            115,218
-  Accrued compensation..     56,849                 33,528 (3)             90,377
+  Accounts payable...... $   94,286  $ 18,147    $   8,512 (4)         $  120,945
+  Accrued compensation..     56,849       --        23,341 (3)             80,190
   Accrued marketing
-   liabilities..........     12,500                  1,000 (5)             13,500
+   liabilities..........     12,500       --         1,000 (5)             13,500
   Other accrued
-   liabilities..........     58,786    72,083      (41,581)(3),(4),(5)
-                                                    46,575 (1)            135,863
-Income tax payable......     26,145    24,822          --                  50,967
-Deferred revenue........    220,154     6,091          --                 226,245
+   liabilities..........     58,786    61,910      (32,853)(3),(4),(5)
+                                                    44,200 (1)            132,043
+Income tax payable......     26,145    21,955          --                  48,100
+Deferred revenue........    220,154     3,731          --                 223,885
                          ----------  --------    ---------             ----------
     Total current
-     liabilities........    468,720   116,875       46,575                632,170
+     liabilities........    468,720   105,743       44,200                618,663
 Other long-term
- liabilities............        --      1,250                               1,250
-Minority interests......     11,457       --                               11,457
+ liabilities............        --      1,250          --                   1,250
+Minority interests......     11,457       --           --                  11,457
 Stockholders' equity:
   Common stock, par
    value................     31,766       635        4,244 (1)
                                                       (635)(8)             36,010
   Additional paid-in
-   capital..............        --    171,782      246,446 (1)
-                                                  (171,782)(8)
-                                                   (20,000)(7)            226,446
-Retained earnings.......  1,250,626    67,123      (67,123)(8)          1,250,626
+   capital..............        --    171,852      246,448 (1)
+                                                  (171,852)(8)
+                                                   (20,000)(7)            226,448
+Retained earnings.......  1,250,626    45,887      (45,887)(8)          1,250,626
 Accumulated other
- comprehensive loss.....   (101,797)  (13,458)      13,458 (8)           (101,797)
+ comprehensive loss.....   (101,797)  (12,510)      12,510 (8)           (101,797)
 Unearned stock
- compensation...........    (15,318)   (1,663)       1,663 (8)            (15,318)
+ compensation...........    (15,318)   (1,434)       1,434 (8)            (15,318)
                          ----------  --------    ---------             ----------
     Total stockholders'
-     equity.............  1,165,277   224,419        6,271              1,395,967
+     equity.............  1,165,277   204,430       26,262              1,395,969
                          ----------  --------    ---------             ----------
     Total liabilities
      and stockholders'
-     equity............. $1,645,454  $342,544    $  52,846             $2,040,844
+     equity............. $1,645,454  $311,423    $  70,462             $2,027,339
                          ==========  ========    =========             ==========
 
         UNAUDITED PRO FORMA COMBINED CONDENSED STATEMENTS OF OPERATIONS
@@ -4427,14 +4664,14 @@ Operating expenses:
   Product development......    234,571        --          --          234,571
   General and
    administrative..........     87,471    249,667    (143,605)(6)     193,533
-  Goodwill amortization....        --         --       18,212 (10)     18,212
+  Goodwill amortization....        --         --       22,616 (10)     22,616
   Restructuring charge.....     47,892     27,000         --           74,892
                             ----------  ---------   ---------      ----------
     Total operating
-     expenses..............    865,919    357,344    (122,793)      1,100,470
+     expenses..............    865,919    357,344    (118,389)      1,104,874
                             ----------  ---------   ---------      ----------
 Income (loss) from
- operations................    (31,582)  (112,483)     18,288        (125,777)
+ operations................    (31,582)  (112,483)     13,884        (130,181)
 Other income (expense):
   Other income, net........    102,254      8,595         --          110,849
   Gain (loss) on sale of
@@ -4444,11 +4681,11 @@ Other income (expense):
      (expense).............    102,254     16,256         --          118,510
                             ----------  ---------   ---------      ----------
 Income (loss) before
- taxes.....................     70,672    (96,227)     18,288          (7,267)
+ taxes.....................     70,672    (96,227)     13,884         (11,671)
 Income tax expense
  (benefit) ................     21,202    (33,680)     12,921 (11)        443
                             ----------  ---------   ---------      ----------
-    Net income (loss) ..... $   49,470  $ (62,547)  $   5,367      $   (7,710)
+    Net income (loss) ..... $   49,470  $ (62,547)  $     963      $  (12,114)
                             ==========  =========   =========      ==========
 Weighted average shares
  outstanding:
@@ -4456,9 +4693,9 @@ Weighted average shares
   Diluted..................    335,034                 34,027         369,061
 Net income (loss) per
  share:
-  Basic.................... $     0.15                             $    (0.02)
+  Basic.................... $     0.15                             $    (0.03)
                             ==========                             ==========
-  Diluted.................. $     0.15                             $    (0.02)
+  Diluted.................. $     0.15                             $    (0.03)
                             ==========                             ==========
 
                      UNAUDITED PRO FORMA COMBINED CONDENSED
@@ -4471,28 +4708,28 @@ Net income (loss) per
                                     Novell   Cambridge  Adjustments     Combined
                                    --------  ---------  -----------     ---------
 
-Net sales......................... $245,035  $125,052    $    --        $370,087
-Cost of sales.....................   65,862    75,777      33,011 (6)    174,650
+Net sales......................... $245,035  $116,485    $    --        $361,520
+Cost of sales.....................   65,862    70,307      27,509 (6)    163,678
                                    --------  --------    --------       --------
-Gross profit......................  179,173    49,275     (33,011)       195,437
+Gross profit......................  179,173    46,178     (27,509)       197,842
 Operating expenses:
-  Sales and marketing.............  121,747    18,927         500 (6)    141,174
+  Sales and marketing.............  121,747    17,137         --         138,884
   Product development.............   49,488       --          --          49,488
-  General and administrative......   21,222    53,221     (33,511)(6)     40,932
-  Goodwill amortization...........      --        --        4,553 (10)     4,553
-  Restructuring charge............      --      5,000         --           5,000
+  General and administrative......   21,222    49,632     (27,509)(6)     43,345
+  Goodwill amortization...........      --        --        5,654 (10)     5,654
+  Restructuring charge............      --     11,000         --          11,000
                                    --------  --------    --------       --------
-    Total operating expenses......  192,457    77,148     (28,458)       241,147
+    Total operating expenses......  192,457    77,769     (21,855)       248,371
                                    --------  --------    --------       --------
-Income (loss) from operations.....  (13,284)  (27,873)     (4,553)       (45,710)
-Other income (expense), net.......   17,831    (2,024)        --          15,807
+Income (loss) from operations.....  (13,284)  (31,591)     (5,654)       (50,529)
+Other income (expense), net.......   17,831    (1,080)        --          16,751
                                    --------  --------    --------       --------
-Income (loss) before taxes........    4,547   (29,897)     (4,553)       (29,903)
-Income tax expense (benefit)......    1,273   (10,464)        --  (11)    (9,191)
+Income (loss) before taxes........    4,547   (32,671)     (5,654)       (33,778)
+Income tax expense (benefit)......    1,273   (11,435)        --  (11)   (10,162)
                                    --------  --------    --------       --------
     Income (loss), before
      cumulative effect of change
-     in accounting principle...... $  3,274  $(19,433)   $ (4,553)      $(20,712)
+     in accounting principle...... $  3,274  $(21,236)   $ (5,654)      $(23,616)
                                    ========  ========    ========       ========
 Weighted average shares
  outstanding:
@@ -4520,7 +4757,7 @@ and liabilities of Cambridge based on estimated fair value. The final
 allocation of the purchase price may differ from the preliminary allocations.
 In the opinion of management, all adjustments necessary for a fair presentation
 of such unaudited pro forma combined financial statements have been made based
-on the proposed terms and structure of the Cambridge merger.
+on the proposed terms and structure of the merger.
 
    The unaudited pro forma combined condensed consolidated balance sheet as of
 January 31, 2001 reflects the financial position of Novell after giving effect
@@ -4528,7 +4765,7 @@ to the merger with Cambridge as if this merger occurred on January 31, 2001.
 The unaudited pro forma combined condensed consolidated statement of operations
 for the three month period ended January 31, 2001 includes the results for
 Novell for the three month period ended January 31, 2001 and the results for
-Cambridge for the three month period ended December 31, 2000. The unaudited pro
+Cambridge for the three month period ended March 31, 2001. The unaudited pro
 forma combined condensed consolidated statement of operations for the year
 ended October 31, 2000 includes the results for Novell for the year ended
 October 31, 2000 and the results for Cambridge for the year ended December 31,
@@ -4567,11 +4804,11 @@ reference within this document.
 
    Under the merger agreement each share of Cambridge common stock issued and
 outstanding immediately prior to the effective date will be cancelled and
-converted into the right to receive 0.668 shares of Novell common stock. As of
-the date of acquisition, all outstanding stock options will terminate and
-Novell will not assume the Cambridge stock option plans. As of March 28, 2001,
-there were 63,532,271 shares of Cambridge common stock outstanding. Based on
-the 0.668 conversion ratio, these shares will be converted to 42,439,557 shares
+converted into the right to receive 0.668 of a share of Novell common stock. As
+of the date of acquisition, all outstanding stock options will terminate and
+Novell will not assume the Cambridge stock option plans. As of April 30, 2001,
+there were 63,532,722 shares of Cambridge common stock outstanding. Based on
+the 0.668 exchange ratio, these shares will be converted to 42,439,859 shares
 of Novell common stock. In order to calculate the value of the Novell stock
 issued, we
 
@@ -4585,7 +4822,7 @@ equal $250.7 million.
 
    The excess of the purchase price over the fair value of the net assets
 acquired will be allocated to goodwill and amortized over an estimated useful
-life of four years. Annual amortization is expected to be approximately $18.2
+life of four years. Annual amortization is expected to be approximately $22.6
 million per year.
 
    In December 2000, the Financial Accounting Standards Board (FASB) announced
@@ -4593,8 +4830,8 @@ a major change in its approach to the accounting for goodwill as originally
 proposed in its 1999 Exposure Draft, Business Combinations and Intangible
 Assets. Under its current proposal, goodwill would not be amortized; instead,
 it would be reviewed for impairment when certain events indicate that goodwill
-is impaired. A final Statement on business combinations is expected to be
-issued in June 2001.
+is impaired. A final statement on business combinations is expected to be
+issued in July 2001 and would be effective for Novell in fiscal 2003.
 
    Below is a table of the estimated acquisition costs and purchase price
 allocation (in thousands):
@@ -4603,39 +4840,38 @@ allocation (in thousands):
                                                               Acquisition Cost
                                                               ----------------
 
-     Value of common stock issued............................    $ 250,690
-     Direct transaction costs................................        9,700
+     Value of common stock issued............................    $ 250,692
+     Direct transaction costs................................       10,000
                                                                  ---------
-       Total estimated acquisition costs.....................    $ 260,390
+       Total estimated acquisition costs.....................    $ 260,692
                                                                  =========
      Historical value of net assets acquired of Cambridge at
-      December 31, 2000......................................    $ 224,419
-     Estimated costs to exit certain Cambridge activities....      (26,675)
+      March 31, 2001.........................................    $ 204,430
+     Estimated costs to exit certain Cambridge activities....      (24,000)
      Liabilities related to involuntary employee termination
       benefits...............................................      (10,200)
-     Goodwill................................................       72,846
+     Goodwill................................................       90,462
                                                                  ---------
-       Total.................................................    $ 260,390
+       Total.................................................    $ 260,692
                                                                  =========
 
    Transaction costs include direct transaction costs consisting primarily of
 financial advisory services, legal, accounting and government filing fees.
 Estimated costs to exit certain Cambridge activities include costs to vacate
 facilities made duplicative by the merger. Novell expects that all duplicate
-facilities will be vacated within one year after consummation of the Cambridge
-merger. The operating leases on these duplicate facilities have various
-termination dates through 2023. Liabilities related to involuntary employee
-termination benefits include amounts to be paid to Cambridge employees whose
-positions become redundant and relocation of Cambridge employees whose
-functions are being relocated to support a centralized infrastructure. The
-involuntary terminations and relocation benefits relate to employees across all
-functional organizations.
+facilities will be vacated within one year after consummation of the merger.
+The operating leases on these duplicate facilities have various termination
+dates through 2023. Liabilities related to involuntary employee termination
+benefits include amounts to be paid to Cambridge employees whose positions
+become redundant and relocation of Cambridge employees whose functions are
+being relocated to support a centralized infrastructure. The involuntary
+terminations and relocation benefits relate to employees across all functional
+organizations.
 
    Novell expects that a plan will be finalized in the quarter following
-consummation of the Cambridge merger and initial execution of this plan will
-begin in the Novell's fourth fiscal quarter of 2001. Novell also expects the
-plan to be implemented within one year from the consummation of the Cambridge
-merger.
+consummation of the merger and initial execution of this plan will begin in the
+Novell's fourth fiscal quarter of 2001. Novell also expects the plan to be
+implemented within one year from the consummation of the merger.
 
    These acquisition costs are estimated and are subject to change as Novell
 may incur additional charges in subsequent quarters and actual costs associated
@@ -4660,13 +4896,13 @@ allowance required.
 3. Pro Forma Net Loss Per Share
 
    The unaudited pro forma combined condensed statements of operations have
-been prepared as if the Cambridge merger had occurred at the beginning of the
-periods presented. For the year ended October 31, 2000 and for the three months
-ended January 31, 2001, the pro forma net loss per share and loss per share
-before cumulative effect of accounting change, respectively, is based on the
-weighted average number of shares of Novell common stock outstanding during
-each period and the number of shares of Novell common stock to be issued in
-connection with the Cambridge merger.
+been prepared as if the merger had occurred at the beginning of the periods
+presented. For the year ended October 31, 2000 and for the three months ended
+January 31, 2001, the pro forma net loss per share and loss per share before
+cumulative effect of accounting change, respectively, is based on the weighted
+average number of shares of Novell common stock outstanding during each period
+and the number of shares of Novell common stock to be issued in connection with
+the merger.
 
 4. Pro Forma Adjustments
 
@@ -4764,8 +5000,8 @@ outstanding for 62,265,857 of those shares.
    The total authorized shares of capital stock of Cambridge consists of
 250,000,000 shares of common stock, $0.01 par value per share, and 2,000,000
 shares of preferred stock, $0.01 par value per share, 100,000 of which have
-been designated Series A Junior Participating Preferred Stock. As of March 28,
-2001, there were 63,532,271 shares of Cambridge common stock outstanding; there
+been designated Series A Junior Participating Preferred Stock. As of April 30,
+2001, there were 63,532,722 shares of Cambridge common stock outstanding; there
 were no shares of preferred stock issued or outstanding. As of March 11, 2001,
 Cambridge had also reserved 23,189,746 shares of common stock for issuance
 pursuant to its employee and director stock and option and stock purchase
@@ -4786,16 +5022,15 @@ dividend for Novell common stock. Novell preferred stock issued upon exercise
 of the Novell rights will not be redeemable. Each share of preferred stock will
 be entitled to an aggregate dividend of 1,000 times the dividend declared per
 share of Novell common stock. In the event of liquidation, the holders of
-Novell preferred stock will be entitled to minimum preferential liquidation
-payment equal to the greater of
 
-$1,000 per share and 1,000 times the per share amount to be distributed to the
-holders of Novell common stock. Each share of preferred stock will have 1,000
-votes, voting together with the common stock. Finally, in the event of any
-merger, consolidation or other transaction in which Novell common stock is
-exchanged, each share of preferred stock will be entitled to receive 1,000
-times the amount received per share of common stock. These rights are protected
-by customary anti-dilution provisions.
+Novell preferred stock will be entitled to minimum preferential liquidation
+payment equal to the greater of $1,000 per share and 1,000 times the per share
+amount to be distributed to the holders of Novell common stock. Each share of
+preferred stock will have 1,000 votes, voting together with the common stock.
+Finally, in the event of any merger, consolidation or other transaction in
+which Novell common stock is exchanged, each share of preferred stock will be
+entitled to receive 1,000 times the amount received per share of common stock.
+These rights are protected by customary anti-dilution provisions.
 
    Cambridge has 2,000,000 shares of preferred stock, 100,000 of which have
 been designated Series A Junior Participating Preferred Stock, none of which
@@ -4821,8 +5056,8 @@ and hold office until a successor is elected and qualified, or until death,
 resignation or removal.
 
    For a more detailed description regarding amendment of bylaws and
-certificates of incorporation, see "Amendment of bylaws" on page 71 and
-"Amendment of certificate of incorporation" on page 70.
+certificates of incorporation, see "Amendment of bylaws" on page 74 and
+"Amendment of certificate of incorporation" on page 73.
 
 Removal of directors
 
@@ -4984,12 +5219,12 @@ Notice of stockholder meetings
 
    Novell's bylaws provide that written notice of the place, date and hour of
 every meeting of stockholders, annual or special, must be given to each
-stockholder entitled to vote at the meeting not less than 10, nor more than
+stockholder entitled to vote at the meeting not less than ten, nor more than
 60, days before the date of the meeting.
 
    Cambridge's bylaws provide that written notice of the place, date and hour
 of all meetings of stockholders must be given to each stockholder entitled to
-vote at the meeting not less than 10, nor more than 50, days before the date
+vote at the meeting not less than ten, nor more than 50, days before the date
 of the meeting.
 
 Amendment of certificate of incorporation
@@ -5232,7 +5467,11 @@ and Exchange Commission, are incorporated by reference into this proxy
 statement-prospectus:
 
   . Cambridge's Annual Report on Form 10-K for the fiscal year ended December
-    31, 2000 (file number 0-21040) (filed April 2, 2001).
+    31, 2000, as amended (file number 0-21040) (filed April 2, 2001 and April
+    26, 2001).
+
+  . Cambridge's Quarterly Report on Form 10-Q for the quarter ended March 31,
+    2001 (filed May 15, 2001).
 
   . Cambridge's Current Report on Form 8-K dated March 12, 2001 (filed March
     13, 2001).
@@ -5260,6 +5499,9 @@ statement-prospectus:
   . Novell's Quarterly Report on Form 10-Q for the quarter ended January 31,
     2001 (filed March 15, 2001).
 
+  . Novell's Current Report on Form 8-K dated May 8, 2001 (filed May 9,
+    2001).
+
   . Novell's Current Report on Form 8-K dated March 12, 2001 (filed March 16,
     2001).
 
@@ -5283,34 +5525,34 @@ statement-prospectus:
 
    Any statement contained in a document incorporated or deemed to be
 incorporated by reference into this proxy statement-prospectus will be deemed
-to be modified or superseded for purposes of this proxy statement-prospectus to
-the extent that a statement contained in this proxy statement-prospectus or any
-other subsequently filed document that is deemed to be incorporated by
+to be modified or superseded for purposes of this proxy statement-prospectus
+to the extent that a statement contained in this proxy statement-prospectus or
+any other subsequently filed document that is deemed to be incorporated by
 reference into this proxy statement-prospectus modifies or supersedes the
 statement. Any statement so modified or superseded will not be deemed, except
 as so modified or superseded, to constitute a part of this proxy statement-
 prospectus.
 
-   The documents incorporated by reference into this proxy statement-prospectus
-are available from Cambridge or Novell upon request. Cambridge or Novell will
-provide a copy of any and all of the information that is incorporated by
-reference in this proxy statement-prospectus (not including exhibits to the
-information unless those exhibits are specifically incorporated by reference
-into this proxy statement-prospectus) to any person, without charge, upon
-written or oral request. Any request for documents should be made by June   ,
-2001 to ensure timely delivery of the documents.
+   The documents incorporated by reference into this proxy statement-
+prospectus are available from Cambridge or Novell upon request. Cambridge or
+Novell will provide a copy of any and all of the information that is
+incorporated by reference in this proxy statement-prospectus (not including
+exhibits to the information unless those exhibits are specifically
+incorporated by reference into this proxy statement-prospectus) to any person,
+without charge, upon written or oral request. Any request for documents should
+be made by June   , 2001 to ensure timely delivery of the documents.
 
-                                          Requests for documents relating to
-  Requests for documents relating to      Novell should be directed to:
+                                         Requests for documents relating to
+  Requests for documents relating to     Novell should be directed to:
   Cambridge should be directed to:
 
-                                          Novell, Inc.
-  Cambridge Technology Partners           1800 South Novell Place
-  (Massachusetts), Inc.                   Provo, Utah 84606
-  Eight Cambridge Center Cambridge,
-  Massachusetts 02142
+                                         Novell, Inc.
+  Cambridge Technology Partners          1800 South Novell Place
+  (Massachusetts), Inc.                  Provo, Utah 84606
+  Eight Cambridge Center
+  Cambridge, Massachusetts 02142
 
-                                          Attention: Investor Relations
+                                         Attention: Investor Relations
 
   Attention: Investor Relations
    Cambridge and Novell file reports, proxy statements and other information
@@ -5352,18 +5594,19 @@ available for inspection and copying as set forth above.
 
    This proxy statement-prospectus does not constitute an offer to sell, or a
 solicitation of an offer to purchase, the securities offered by this proxy
-statement-prospectus, or the solicitation of a proxy, in any jurisdiction to
-or from any person to whom or from whom it is unlawful to make such offer,
-solicitation of an offer or proxy solicitation in such jurisdiction. Neither
-the delivery of this proxy statement-prospectus nor any distribution of
-securities pursuant to this proxy statement-prospectus shall, under any
-circumstances, create any implication that there has been no change in the
-information set forth or incorporated into this proxy statement-prospectus by
-reference or in our affairs since the date of this proxy statement-prospectus.
-The information contained in this proxy statement-prospectus with respect to
-Cambridge and its subsidiaries was provided by Cambridge and the information
-contained in this proxy statement-prospectus with respect to Novell was
-provided by Novell.
+statement-prospectus, or the solicitation of a proxy, in any
+
+jurisdiction to or from any person to whom or from whom it is unlawful to make
+such offer, solicitation of an offer or proxy solicitation in such
+jurisdiction. Neither the delivery of this proxy statement-prospectus nor any
+distribution of securities pursuant to this proxy statement-prospectus shall,
+under any circumstances, create any implication that there has been no change
+in the information set forth or incorporated into this proxy statement-
+prospectus by reference or in our affairs since the date of this proxy
+statement-prospectus. The information contained in this proxy statement-
+prospectus with respect to Cambridge and its subsidiaries was provided by
+Cambridge and the information contained in this proxy statement-prospectus with
+respect to Novell was provided by Novell.
 
                                                                          ANNEX A
 
@@ -5390,110 +5633,110 @@ provided by Novell.
                                                                             Page
                                                                             ----
 
- ARTICLE I THE MERGER......................................................   1
-    1.1  The Merger.......................................................    1
-    1.2  Effective Time; Closing..........................................    2
-    1.3  Effect of the Merger.............................................    2
-    1.4  Certificate of Incorporation; Bylaws.............................    2
-    1.5  Directors and Officers...........................................    2
-    1.6  Effect on Capital Stock..........................................    2
-    1.7  Surrender of Certificates........................................    4
-    1.8  No Further Ownership Rights in Company Common Stock..............    5
-    1.9  Lost, Stolen or Destroyed Certificates...........................    5
-    1.10 Tax and Accounting Consequences..................................    5
-    1.11 Taking of Necessary Action; Further Action.......................    5
+ ARTICLE I THE MERGER......................................................  A-1
+    1.1  The Merger.......................................................   A-1
+    1.2  Effective Time; Closing..........................................   A-2
+    1.3  Effect of the Merger.............................................   A-2
+    1.4  Certificate of Incorporation; Bylaws.............................   A-2
+    1.5  Directors and Officers...........................................   A-2
+    1.6  Effect on Capital Stock..........................................   A-2
+    1.7  Surrender of Certificates........................................   A-4
+    1.8  No Further Ownership Rights in Company Common Stock..............   A-5
+    1.9  Lost, Stolen or Destroyed Certificates...........................   A-5
+    1.10 Tax and Accounting Consequences..................................   A-5
+    1.11 Taking of Necessary Action; Further Action.......................   A-5
 
- ARTICLE II REPRESENTATIONS AND WARRANTIES OF COMPANY......................   6
-    2.1  Organization of Company..........................................    6
-    2.2  Company Capital Structure........................................    6
-    2.3  Obligations With Respect to Capital Stock........................    6
-    2.4  Authority........................................................    7
-    2.5  SEC Filings; Company Financial Statements........................    8
-    2.6  Absence of Certain Changes or Events.............................    8
-    2.7  Taxes............................................................    9
-    2.8  Company Intellectual Property....................................   10
-    2.9  Compliance; Permits; Restrictions................................   11
-    2.10 Litigation.......................................................   12
-    2.11 Brokers' and Finders' Fees.......................................   12
-    2.12 Employee Matters and Benefit Plans...............................   12
-    2.13 [Intentionally Omitted]..........................................   15
-    2.14 Environmental Matters............................................   15
-    2.15 [Intentionally Omitted]..........................................   15
-    2.16 Agreements, Contracts and Commitments............................   15
-    2.17 Statements; Proxy Statement/Prospectus...........................   17
-    2.18 Board Approval...................................................   17
-    2.19 State Takeover Statutes..........................................   17
-    2.20 Fairness Opinion.................................................   17
-    2.21 Company Rights Agreement.........................................   17
-    2.22 Investment Company...............................................   17
+ ARTICLE II REPRESENTATIONS AND WARRANTIES OF COMPANY......................  A-6
+    2.1  Organization of Company..........................................   A-6
+    2.2  Company Capital Structure........................................   A-6
+    2.3  Obligations With Respect to Capital Stock........................   A-6
+    2.4  Authority........................................................   A-7
+    2.5  SEC Filings; Company Financial Statements........................   A-8
+    2.6  Absence of Certain Changes or Events.............................   A-8
+    2.7  Taxes............................................................   A-9
+    2.8  Company Intellectual Property....................................  A-10
+    2.9  Compliance; Permits; Restrictions................................  A-11
+    2.10 Litigation.......................................................  A-12
+    2.11 Brokers' and Finders' Fees.......................................  A-12
+    2.12 Employee Matters and Benefit Plans...............................  A-12
+    2.13 [Intentionally Omitted]..........................................  A-15
+    2.14 Environmental Matters............................................  A-15
+    2.15 [Intentionally Omitted]..........................................  A-15
+    2.16 Agreements, Contracts and Commitments............................  A-15
+    2.17 Statements; Proxy Statement/Prospectus...........................  A-17
+    2.18 Board Approval...................................................  A-17
+    2.19 State Takeover Statutes..........................................  A-17
+    2.20 Fairness Opinion.................................................  A-17
+    2.21 Company Rights Agreement.........................................  A-17
+    2.22 Investment Company...............................................  A-17
 
- ARTICLE III REPRESENTATIONS AND WARRANTIES OF PARENT AND MERGER SUB.......  18
-    3.1  Organization of Parent...........................................   18
-    3.2  Parent Capital Structure.........................................   18
-    3.3  Obligations With Respect to Capital Stock........................   18
-    3.4  Authority........................................................   19
-    3.5  SEC Filings; Parent Financial Statements.........................   20
-    3.6  Absence of Certain Changes or Events.............................   20
-    3.7  Compliance; Permits; Restrictions................................   20
-    3.8  Litigation.......................................................   21
-    3.9  Environmental Matters............................................   21
-    3.10 Labor Matters....................................................   21
-    3.11 Statements; Proxy Statement/Prospectus...........................   21
-    3.12 Board Approval...................................................   22
+ ARTICLE III REPRESENTATIONS AND WARRANTIES OF PARENT AND MERGER SUB....... A-18
+    3.1  Organization of Parent...........................................  A-18
+    3.2  Parent Capital Structure.........................................  A-18
+    3.3  Obligations With Respect to Capital Stock........................  A-18
+    3.4  Authority........................................................  A-19
+    3.5  SEC Filings; Parent Financial Statements.........................  A-20
+    3.6  Absence of Certain Changes or Events.............................  A-20
+    3.7  Compliance; Permits; Restrictions................................  A-20
+    3.8  Litigation.......................................................  A-21
+    3.9  Environmental Matters............................................  A-21
+    3.10 Labor Matters....................................................  A-21
+    3.11 Statements; Proxy Statement/Prospectus...........................  A-21
+    3.12 Board Approval...................................................  A-22
 
                                                                           Page
                                                                           ----
 
-    3.13 Parent Intellectual Property...................................   22
-    3.14 Taxes..........................................................   22
+    3.13 Parent Intellectual Property...................................  A-22
+    3.14 Taxes..........................................................  A-22
 
- ARTICLE IV CONDUCT OF BUSINESS PRIOR TO THE EFFECTIVE TIME..............  22
-    4.1  Conduct of Business by Company.................................   22
-    4.2  Conduct of Business by Parent..................................   25
+ ARTICLE IV CONDUCT OF BUSINESS PRIOR TO THE EFFECTIVE TIME.............. A-22
+    4.1  Conduct of Business by Company.................................  A-22
+    4.2  Conduct of Business by Parent..................................  A-25
 
- ARTICLE V ADDITIONAL AGREEMENTS.........................................  25
-         Proxy Statement/Prospectus; S-4; Other Filings; Board
-    5.1  Recommendations................................................   25
-    5.2  Stockholder Meetings...........................................   26
-    5.3  Confidentiality; Access to Information.........................   27
-    5.4  No Solicitation................................................   27
-    5.5  Public Disclosure..............................................   29
-    5.6  Commercially Reasonable Efforts; Notification..................   29
-    5.7  Third Party Consents...........................................   29
-    5.8  [Intentionally Left Blank].....................................   30
-    5.9  Stock Options; Employee Benefits...............................   30
-    5.10 Form S-8.......................................................   31
-    5.11 Indemnification................................................   31
-    5.12 Affiliate Agreements...........................................   32
-    5.13 Regulatory Filings; Reasonable Efforts.........................   32
-    5.14 Action by Board of Directors...................................   32
-    5.15 Nasdaq Listing.................................................   32
+ ARTICLE V ADDITIONAL AGREEMENTS......................................... A-25
+    5.1  Proxy Statement/Prospectus; S-4; Other Filings; Board
+         Recommendations................................................  A-25
+    5.2  Stockholder Meetings...........................................  A-26
+    5.3  Confidentiality; Access to Information.........................  A-27
+    5.4  No Solicitation................................................  A-27
+    5.5  Public Disclosure..............................................  A-29
+    5.6  Commercially Reasonable Efforts; Notification..................  A-29
+    5.7  Third Party Consents...........................................  A-29
+    5.8  [Intentionally Left Blank].....................................  A-30
+    5.9  Stock Options; Employee Benefits...............................  A-30
+    5.10 Form S-8.......................................................  A-31
+    5.11 Indemnification................................................  A-31
+    5.12 Affiliate Agreements...........................................  A-32
+    5.13 Regulatory Filings; Reasonable Efforts.........................  A-32
+    5.14 Action by Board of Directors...................................  A-32
+    5.15 Nasdaq Listing.................................................  A-32
 
- ARTICLE VI CONDITIONS TO THE MERGER.....................................  33
-    6.1  Conditions to Obligations of Each Party to Effect the Merger...   33
-    6.2  Additional Conditions to Obligations of Company................   33
-         Additional Conditions to the Obligations of Parent and Merger
-    6.3  Sub............................................................   34
+ ARTICLE VI CONDITIONS TO THE MERGER..................................... A-33
+    6.1  Conditions to Obligations of Each Party to Effect the Merger...  A-33
+    6.2  Additional Conditions to Obligations of Company................  A-33
+    6.3  Additional Conditions to the Obligations of Parent and Merger
+         Sub............................................................  A-34
 
- ARTICLE VII TERMINATION, AMENDMENT AND WAIVER...........................  34
-    7.1  Termination....................................................   34
-    7.2  Notice of Termination; Effect of Termination...................   36
-    7.3  Fees and Expenses..............................................   36
-    7.4  Amendment......................................................   37
-    7.5  Extension; Waiver..............................................   37
+ ARTICLE VII TERMINATION, AMENDMENT AND WAIVER........................... A-34
+    7.1  Termination....................................................  A-34
+    7.2  Notice of Termination; Effect of Termination...................  A-36
+    7.3  Fees and Expenses..............................................  A-36
+    7.4  Amendment......................................................  A-37
+    7.5  Extension; Waiver..............................................  A-37
 
- ARTICLE VIII GENERAL PROVISIONS.........................................  37
-    8.1  Non-Survival of Representations and Warranties.................   37
-    8.2  Notices........................................................   37
-    8.3  Interpretation.................................................   38
-    8.4  Counterparts...................................................   38
-    8.5  Entire Agreement; Third Party Beneficiaries....................   38
-    8.6  Severability...................................................   39
-    8.7  Other Remedies; Specific Performance...........................   39
-    8.8  Governing Law..................................................   39
-    8.9  Rules of Construction..........................................   39
-    8.10 Assignment.....................................................   39
-    8.11 Waiver of Jury Trial...........................................   39
+ ARTICLE VIII GENERAL PROVISIONS......................................... A-37
+    8.1  Non-Survival of Representations and Warranties.................  A-37
+    8.2  Notices........................................................  A-37
+    8.3  Interpretation.................................................  A-38
+    8.4  Counterparts...................................................  A-38
+    8.5  Entire Agreement; Third Party Beneficiaries....................  A-38
+    8.6  Severability...................................................  A-39
+    8.7  Other Remedies; Specific Performance...........................  A-39
+    8.8  Governing Law..................................................  A-39
+    8.9  Rules of Construction..........................................  A-39
+    8.10 Assignment.....................................................  A-39
+    8.11 Waiver of Jury Trial...........................................  A-39
 
                                INDEX OF EXHIBITS
 
@@ -7774,244 +8017,4 @@ conducted.
    5.10 Form S-8. As soon as practicable after the Effective Time but, in no
 event, later than five (5) business days following the Closing Date, Parent
 shall file a registration statement on Form S-8 (or any successor or other
-appropriate form), or another appropriate form with respect to the shares of
-Parent Common Stock subject to Company Stock Options and restricted stock and
-shall use its reasonable efforts to maintain the effectiveness of such
-registration statement (and maintain the current status of the prospectus or
-prospectuses contained therein) for so long as such Company Stock Options and
-restricted stock remain outstanding. With respect to those individuals who
-subsequent to the Merger will be subject to the reporting requirements under
-Section 16(a) of the Exchange Act, where applicable, Parent shall administer
-the Company Option Plans assumed pursuant to this Agreement in a manner that
-complies with Rule 16b-3 promulgated by the SEC under the Exchange Act.
-
-   5.11 Indemnification.
-
-     (a) From and after the Effective Time, Parent will cause the Surviving
-  Corporation to fulfill and honor in all respects the obligations of Company
-  (or any predecessor corporation) pursuant to (i) each indemnification
-  agreement between Company and its directors or officers in effect
-  immediately prior to the Effective Time (the "Indemnified Parties") and
-  (ii) any indemnification provision under the Company Charter Documents as
-  in effect on the date hereof. The Certificate of Incorporation and Bylaws
-  of the Surviving Corporation will contain provisions with respect to
-  exculpation and indemnification that are at least as favorable to the
-  Indemnified Parties as those contained in the Company Charter Documents as
-  in effect on the date hereof, which provisions will not be amended,
-  repealed or otherwise modified for a period of six (6) years from the
-  Effective Time in any manner that would adversely affect the rights
-  thereunder of any Indemnified Party or of individuals who, immediately
-  prior to the Effective Time, were employees or agents of Company, unless
-  such modification is required by law.
-
-     (b) For a period of six (6) years following the Effective Time, Parent
-  shall maintain in effect a policy of directors' and officers' insurance
-  covering those persons who are currently covered by Company's directors'
-  and officers' insurance policy in effect as of the date hereof for actions
-  or omissions occurring on or prior to the Effective Time, which insurance
-  policy shall contain terms and conditions (including, without limitation,
-  coverage amounts) that are substantially the same as the terms and
-  conditions of Company's directors' and officers' insurance policy in effect
-  as of the date hereof; provided, however, that notwithstanding the
-  foregoing, Parent shall not be required to pay an annual premium on such
-  insurance policy that is greater than one hundred fifty percent (150%) of
-  the annual premium payable under the Company's directors' and officers'
-  insurance policy in effect as of the date hereof; and provided further,
-  however, that notwithstanding the foregoing, Parent may satisfy its
-  obligations under this Section 5.11(b) by purchasing a "tail" policy under
-  Company's existing directors' and officers' insurance policy which (i) has
-  an effective term of six (6) years from the Effective Time, (ii) covers
-  those persons who are currently covered by Company's directors' and
-  officers' insurance policy in effect as of the date hereof for actions and
-  omissions occurring on or prior to the Effective Time, and (iii) contains
-  terms and conditions (including, without limitation, coverage amounts) that
-  are substantially the same as the terms and conditions of Company's
-  directors' and officers' insurance policy in effect as of the date hereof.
-  The provisions of this Section are intended to be in addition to the rights
-  otherwise available to the officers or directors of Company by law,
-  charter, statute, bylaw or agreement and shall operate for the benefit of,
-  and shall be enforceable by, each of the Indemnified Parties, therein,
-  their heirs and their representatives.
-
-     (c) In the event Company or the Surviving Corporation or any of their
-  respective successors or assigns (i) consolidates with or merges into any
-  other person and shall not be the continuing or surviving
-
-                                      A-31
-
-  corporation or entity of such consolidation or merger or (ii) transfers a
-  material amount of its properties and assets to any person in a single
-  transaction or a series of transactions, then, and in each such case,
-  Parent will either guarantee or otherwise remain liable for the
-  indemnification obligations referred to in this Section 5.10 or will make
-  or cause to be made proper provision so that the successors and assigns of
-  Company or the Surviving Corporation, as the case may be, assume the
-  indemnification obligations described herein for the benefit of the
-  Indemnified Parties.
-
-     (d) The provisions of this Section 5.10 are (i) intended to be for the
-  benefit of, and will be enforceable by, each of the Indemnified Parties and
-  (ii) in addition to, and not in substitution for, any other rights to
-  indemnification or contribution that any such Indemnified Party may have by
-  contract or otherwise.
-
-   5.12 Affiliate Agreements.
-
-     (a) Set forth in Section 5.12(a) of the Company Schedule is a list of
-  those persons who may be deemed to be, in Company's reasonable judgment,
-  affiliates of Company within the meaning of Rule 145 promulgated under the
-  Securities Act (each, a "Company Affiliate"). Company will provide Parent
-  with such information and documents as Parent reasonably requests for
-  purposes of reviewing such list. Company will use its commercially
-  reasonable efforts to deliver or cause to be delivered to Parent, on or as
-  promptly as practicable following the date hereof, from each Company
-  Affiliate that has not delivered a Company Affiliate Agreement on or prior
-  to the date hereof, an executed Company Affiliate Agreement. Parent will be
-  entitled to place appropriate legends on the certificates evidencing any
-  Parent Common Stock to be received by a Company Affiliate pursuant to the
-  terms of this Agreement, and to issue appropriate stop transfer
-  instructions to the transfer agent for the Parent Common Stock, consistent
-  with the terms of the Company Affiliate Agreement.
-
-   5.13 Regulatory Filings; Reasonable Efforts. As soon as may be reasonably
-practicable, Company and Parent each shall file with the United States Federal
-Trade Commission (the "FTC") and the Antitrust Division of the United States
-Department of Justice ("DOJ") Notification and Report Forms relating to the
-transactions contemplated herein as required by the HSR Act, as well as
-comparable pre-merger notification forms required by the merger notification or
-control laws and regulations of any other applicable jurisdiction, as agreed to
-by the parties. Company and Parent each shall each use all reasonable efforts
-to obtain early termination of any waiting period under HSR and Company and
-Parent shall each promptly (a) supply the other with any information which may
-be required in order to effectuate such filings and (b) supply any additional
-information which reasonably may be required by the FTC, the DOJ or the
-competition or merger control authorities of any other jurisdiction and which
-the parties may reasonably deem appropriate.
-
-   5.14 Action by Board of Directors. Prior to the Effective Time, the Board of
-Directors of Parent, or an appropriate committee of non-employee directors
-thereof, shall adopt a resolution consistent with the interpretative guidance
-of the SEC so that (i) the assumption of Company Stock Options by Company
-Insiders (as defined below) pursuant to this Agreement, and (ii) the receipt by
-Company Insiders of Parent Common Stock in exchange for Company Common Stock
-pursuant to the Merger, shall in each case be an exempt transaction for
-purposes of Section 16 of the Exchange Act by any officer or director of
-Company who may become a covered person of Parent for purposes of Section 16 of
-the Exchange Act (a "Company Insider").
-
-   5.15 Nasdaq Listing. Parent shall use commercially reasonable efforts to
-cause the Parent Common Stock issuable under Section 1.6, the Company Option
-Plans and the Earn-Out Agreement to be approved for listing on the Nasdaq
-National Market, subject to official notice of issuance, as promptly as
-practicable after the date hereof, and in any event prior to the Closing Date.
-
-                                      A-32
-
-                                   ARTICLE VI
-
-                            Conditions To The Merger
-
-   6.1 Conditions to Obligations of Each Party to Effect the Merger. The
-respective obligations of each party to this Agreement to effect the Merger
-shall be subject to the satisfaction at or prior to the Closing Date of the
-following conditions, any of which may be waived if waived in writing by both
-Parent and Company:
-
-     (a) Stockholder Approval. This Agreement shall have been adopted and the
-  Merger shall have been duly approved by the requisite vote under applicable
-  law by the stockholders of Company.
-
-     (b) S-4 Effective; Proxy Statement. The SEC shall have declared the S-4
-  effective. No stop order suspending the effectiveness of the S-4 or any
-  part thereof shall have been issued and no proceeding for that purpose, and
-  no similar proceeding in respect of the Proxy Statement/Prospectus, shall
-  have been initiated or threatened in writing by the SEC.
-
-     (c) No Order; HSR Act. No Governmental Entity shall have enacted,
-  issued, promulgated, enforced or entered any statute, rule, regulation,
-  executive order, decree, injunction or other order (whether temporary,
-  preliminary or permanent) which is in effect and which has the effect of
-  making the Merger illegal or otherwise prohibiting consummation of the
-  Merger. All waiting periods, if any, under the HSR Act relating to the
-  transactions contemplated hereby will have expired or terminated early and
-  all foreign antitrust approvals required to be obtained prior to the Merger
-  in connection with the transactions contemplated hereby shall have been
-  obtained.
-
-     (d) Tax Opinions. Each of Company and Parent shall have received a
-  written opinion from its respective tax counsel, in form and substance
-  reasonably satisfactory to Company or Parent, as the case may be, to the
-  effect that the Merger will constitute a reorganization within the meaning
-  of Section 368(a) of the Code and such opinion shall not have been
-  withdrawn. The parties to this Agreement agree to make reasonable
-  representations as requested by such counsel for the purpose of rendering
-  such opinions.
-
-   6.2 Additional Conditions to Obligations of Company. The obligation of
-Company to effect the Merger shall be subject to the satisfaction at or prior
-to the Closing Date of each of the following conditions, any of which may be
-waived, in writing, exclusively by Company:
-
-     (a) Representations and Warranties. Each representation and warranty of
-  Parent and Merger Sub contained in this Agreement (i) shall have been true
-  and correct in all material respects as of the date of this Agreement and
-  (ii) shall be true and correct in all respects on and as of the Closing
-  Date with the same force and effect as if made on the Closing Date except,
-  with respect to clause (ii), (A) in each case, or in the aggregate, as does
-  not constitute a Material Adverse Effect on Parent and (B) for those
-  representations and warranties which address matters only as of a
-  particular date (which representations shall have been true and correct
-  (subject to the qualification as set forth in the preceding clause (A)) as
-  of such particular date) (it being understood that, for purposes of
-  determining the accuracy of such representations and warranties, (i) all
-  "Material Adverse Effect" qualifications and other qualifications based on
-  the word "material" contained in such representations and warranties shall
-  be disregarded and (ii) any update of or modification to the Parent
-  Schedule made or purported to have been made after the date of this
-  Agreement shall be disregarded). Company shall have received a certificate
-  with respect to the foregoing signed on behalf of Parent by an authorized
-  officer of Parent.
-
-     (b) Agreements and Covenants. Parent and Merger Sub shall have performed
-  or complied with, in all material respects, all agreements and covenants
-  required by this Agreement to be performed or complied with by them on or
-  prior to the Closing Date, and Company shall have received a certificate to
-  such effect signed on behalf of Parent by an authorized officer of Parent.
-
-     (c) Nasdaq Listing. The shares of Parent Common Stock issuable to the
-  stockholders of Company as contemplated by Section 1.6 hereof, the Company
-  Options and the Earn-Out Agreement shall have been approved for listing on
-  the Nasdaq National Market, subject to official notice of issuance.
-
-                                      A-33
-
-     (d) Election of Director Nominees. The Board of Directors of Parent
-  shall have taken appropriate action to cause the number of directors
-  comprising the full Board of Directors of Parent to be increased by two
-  persons, from eight to 10, and two members of the Board of Directors of
-  Company, designated by Company (the "Company Designees"), shall be
-  appointed to fill the newly created vacancies on the Board of Directors of
-  Parent, effective upon the Effective Time, and shall serve as directors of
-  Parent until their successors, if any, are duly elected and qualified or
-  until their earlier death, resignation or removal.
-
-     (e) Employment Agreement. Parent shall have offered Jack L. Messman the
-  positions of President and Chief Executive Officer of Parent effective on
-  the Effective Time on terms substantially similar to those of Mr. Messman's
-  current employment agreement with the Company.
-
-   6.3 Additional Conditions to the Obligations of Parent and Merger Sub. The
-obligations of Parent and Merger Sub to effect the Merger shall be subject to
-the satisfaction at or prior to the Closing Date of each of the following
-conditions, any of which may be waived, in writing, exclusively by Parent:
-
-     (a) Representations and Warranties. Each representation and warranty of
-  Company contained in this Agreement (i) shall have been true and correct in
-  all material respects as of the date of this Agreement and (ii) shall be
-  true and correct in all respects on and as of the Closing Date with the
-  same force and effect as if made on and as of the Closing Date except, with
-  respect to clause (ii), (A) in each case, or in the aggregate, as does not
-  constitute a Material Adverse Effect on Company and (B) for those
-  representations and warranties which address matters only as of a
-  particular date (which representations shall have been true and correct
-  (subject to the qualification as set forth in the preceding 
+appropriate form), or another appropriate form with re

@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/78214/000095013001001162/0000950130-01-001162.txt
+URL: https://www.sec.gov/Archives/edgar/data/78214/000095013001000952/0000950130-01-000952.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- Q2TMVd4shIyagdsYiBJiCrQJWbmn+z5b5/kEMMKdV3CSVatS/6cXjHCJ9C2ZX1lV
- B/ATkJi5xGxb8WxP4PfZGA==
+ ERHUc8OIgankZFnA1OVjgO5x1BxymIW9OzBMPaaqM28yKlsBM7IdR5uysWV4eg/C
+ /ETYcBSAurufuWRKqKXnUQ==
 
-0000950130-01-001162.txt : 20010308
+0000950130-01-000952.txt : 20010224
 
-0000950130-01-001162.hdr.sgml : 20010308
-ACCESSION NUMBER:		0000950130-01-001162
-CONFORMED SUBMISSION TYPE:	S-4/A
-PUBLIC DOCUMENT COUNT:		13
-FILED AS OF DATE:		20010306
+0000950130-01-000952.hdr.sgml : 20010224
+ACCESSION NUMBER:		0000950130-01-000952
+CONFORMED SUBMISSION TYPE:	S-4
+PUBLIC DOCUMENT COUNT:		6
+FILED AS OF DATE:		20010220
 
 FILER:
 
@@ -29,10 +29,10 @@ FILER:
 		FISCAL YEAR END:			1231
 
 	FILING VALUES:
-		FORM TYPE:		S-4/A
+		FORM TYPE:		S-4
 		SEC ACT:		
 		SEC FILE NUMBER:	333-55932
-		FILM NUMBER:		1561860
+		FILM NUMBER:		1550638
 
 	BUSINESS ADDRESS:	
 		STREET 1:		PHILLIPS BUILDING
@@ -42,32 +42,26 @@ FILER:
 		ZIP:			74004
 		BUSINESS PHONE:		9186616600
 
-S-4/A
+S-4
 
 0001.txt
 
-AMENDMENT #1 TO FORM S-4
+FORM S-4
 
-   AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON MARCH 6, 2001
-
-                                                 REGISTRATION NO. 333-55932
+   AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON FEBRUARY 20, 2001
+                                                          REGISTRATION NO. [   ]
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
                        SECURITIES AND EXCHANGE COMMISSION
                              WASHINGTON, D.C. 20549
 
                                 ---------------
-
-                              AMENDMENT NO. 1
-
-                                    TO
                                     FORM S-4
                              REGISTRATION STATEMENT
                                      UNDER
                            THE SECURITIES ACT OF 1933
 
                                 ---------------
-
                            PHILLIPS PETROLEUM COMPANY
              (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
 
@@ -82,9 +76,8 @@ AMENDMENT #1 TO FORM S-4
                    REGISTRANT'S PRINCIPAL EXECUTIVE OFFICES)
 
                                 ---------------
-
                                  JOHN A. CARRIG
-                             SENIOR VICE PRESIDENT,
+                            SENIOR VICE PRESIDENT,
                      CHIEF FINANCIAL OFFICER AND TREASURER
                            PHILLIPS PETROLEUM COMPANY
                                PHILLIPS BUILDING
@@ -104,13 +97,12 @@ AMENDMENT #1 TO FORM S-4
                   (212) 403-1000                                     (212) 806-5400
 
                                 ---------------
-
    APPROXIMATE DATE OF COMMENCEMENT OF PROPOSED SALE TO THE PUBLIC: As soon as
 practicable after the effectiveness of this Registration Statement and the
 satisfaction or waiver of all other conditions to the merger of Ping
 Acquisition Corp., a wholly owned subsidiary of the Registrant, with and into
 Tosco Corporation pursuant to the Agreement and Plan of Merger, dated as of
-February 4, 2001, described in the enclosed joint proxy statement/prospectus.
+February 4, 2001, described in the enclosed proxy statement/prospectus.
 
    If the securities being registered on this form are to be offered in
 connection with the formation of a holding company and there is compliance with
@@ -127,6 +119,40 @@ registration statement number of the earlier effective registration statement
 for the same offering. [_]
 
                                 ---------------
+                        CALCULATION OF REGISTRATION FEE
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+
+                                          PROPOSED        PROPOSED
+ TITLE OF EACH CLASS OF     AMOUNT        MAXIMUM         MAXIMUM        AMOUNT OF
+    SECURITIES TO BE        TO BE      OFFERING PRICE     AGGREGATE     REGISTRATION
+     REGISTERED(1)       REGISTERED(2)  PER SHARE(3)  OFFERING PRICE(4)    FEE(5)
+- ------------------------------------------------------------------------------------
+
+Common stock, par value
+ $1.25 per share........ 130,000,000         --        $6,885,937,500    $1,721,484
+
+- --------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------
+(1) This Registration Statement relates to common stock, par value $1.25 per
+    share, of the Registrant ("Phillips common stock") issuable to holders of
+    common stock, par value $0.75 per share, of Tosco Corporation ("Tosco
+    common stock") in connection with the merger.
+(2) The number of shares to be registered pursuant to this Registration
+    Statement is based on the maximum number of shares of Phillips common stock
+    issuable to stockholders of Tosco Corporation in the merger.
+(3) Not applicable.
+(4) Estimated solely for purposes of calculating the registration fee pursuant
+    to Rules 457(f)(1) and 457(c) under the Securities Act of 1933, as amended,
+    based on the product of the number of shares of Tosco common stock to be
+    canceled in the merger described herein (162,500,000) multiplied by the
+    average of the high and low prices of Tosco common stock, as reported on
+    the New York Stock Exchange, Inc. on February 14, 2001 ($42.375).
+(5) Calculated by multiplying 0.000250 by the proposed maximum aggregate
+    offering price.
+
+                                ---------------
    THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR
 DATES AS MAY BE NECESSARY TO DELAY ITS EFFECTIVE DATE UNTIL THE REGISTRANT
 SHALL FILE A FURTHER AMENDMENT THAT SPECIFICALLY STATES THAT THIS REGISTRATION
@@ -138,17 +164,16 @@ SECTION 8(A), MAY DETERMINE.
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
-                [LOGO] PHILLIPS PETROLEUM COMPANY
-                       BARTLESVILLE, OKLAHOMA 74004 918 661-6600
+                    [PHILLIPS PETROLEUM COMPANY LETTERHEAD]
 
-March 6, 2001
+[Date]
 
 Dear Phillips Stockholder:
 
-   The Board of Directors of Phillips Petroleum Company has approved and
-adopted an agreement and plan of merger with Tosco Corporation that will
-transform Phillips into a stronger major integrated oil company. The new
-Phillips will have the balanced assets, scale, and financial flexibility
+   The Board of Directors of Phillips Petroleum Company has unanimously
+approved and adopted an agreement and plan of merger with Tosco Corporation
+that will transform Phillips into a stronger major integrated oil company. The
+new Phillips will have the balanced assets, scale, and financial flexibility
 necessary for continued profitable growth and will be a premier competitor in
 the domestic refining, marketing and transportation business. Under the terms
 of the merger agreement, a wholly owned subsidiary of Phillips will merge with
@@ -157,13 +182,13 @@ stock for each share of Tosco common stock.
 
    You are cordially invited to attend a special meeting of the stockholders of
 Phillips Petroleum Company to be held at the Adams Building, 4th Street and
-Keeler Avenue, Bartlesville, Oklahoma, on Wednesday, April 11, 2001, at 10:00
-a.m., local time. At the special meeting, we will ask you to approve the
-issuance of shares of Phillips common stock under the merger agreement, as
-described in the accompanying joint proxy statement/prospectus, and to approve
-an amendment to Phillips' Restated Certificate of Incorporation to increase the
-number of authorized shares of Phillips common stock. Approval of the amendment
-to Phillips' Restated Certificate of Incorporation is not a condition to the
+Keeler Avenue, Bartlesville, Oklahoma, on    April  , 2001, at 10:00 a.m.,
+local time. At the special meeting, we will ask you to approve the issuance of
+shares of Phillips common stock under the merger agreement, as described in the
+accompanying joint proxy statement/prospectus, and to approve an amendment to
+Phillips' Restated Certificate of Incorporation to increase the number of
+authorized shares of Phillips common stock. Approval of the amendment to
+Phillips' Restated Certificate of Incorporation is not a condition to the
 merger.
 
    In order to complete the merger, we must obtain necessary regulatory
@@ -171,9 +196,9 @@ approvals and the approvals of the stockholders of Phillips and Tosco. More
 information about the merger is contained in the materials that accompany this
 letter.
 
-   The Board of Directors of Phillips has approved and adopted the merger
-agreement and the merger, and recommends that you vote "FOR" approval of the
-issuance of Phillips common stock in the merger and "FOR" approval of the
+   The Board of Directors of Phillips has unanimously approved and adopted the
+merger agreement and the merger, and recommends that you vote "FOR" approval of
+the issuance of Phillips common stock in the merger and "FOR" approval of the
 amendment to Phillips' Restated Certificate of Incorporation.
 
    Your vote is important, regardless of the number of shares you own. Please
@@ -183,7 +208,7 @@ proxy card. You also may cast your vote in person at the special meeting.
 
                                           Very truly yours,
 
-                                          /S/ J. J. Mulva
+                                          /s/ J. J. Mulva
 
                                           J. J. Mulva
                                           Chairman of the Board and
@@ -195,19 +220,12 @@ issued under this joint proxy statement/prospectus or determined if this joint
 proxy statement/prospectus is accurate or complete. Any representation to the
 contrary is a criminal offense.
 
-   This joint proxy statement/prospectus is dated March 6, 2001, and is first
-being mailed to stockholders on or about March 7, 2001.
+   This joint proxy statement/prospectus is dated     , 2001, and is first
+being mailed to stockholders on or about     , 2001.
 
-                                                Tosco Corporation
-                                                1700 East Putnam Avenue
-                                                Suite 500
-                                                Old Greenwich, Connecticut 06870
-                                                Telephone: 203-698-7500
-                                                Facsimile: 203-698-7901
-[LOGO]
-TOSCO
+                         [TOSCO CORPORATION LETTERHEAD]
 
-March 6, 2001
+[Date]
 
 Dear Tosco Stockholder:
 
@@ -228,10 +246,10 @@ continued growth. The Board of Directors of Tosco has determined that the
 merger is fair to and in the best interests of Tosco and Tosco stockholders.
 
    You are cordially invited to attend a special meeting of stockholders of
-Tosco Corporation to be held at The Hyatt Regency Greenwich, 1800 East Putnam
-Avenue, Old Greenwich, Connecticut, on Wednesday, April 11, 2001, at 10:00 a.m.
-local time. At the special meeting, we will ask you to approve the merger
-agreement as described in the accompanying joint proxy statement/prospectus.
+Tosco Corporation to be held at The Westin Hotel, 1 First Stamford Place,
+Stamford, Connecticut, on      , April   , 2001, at 10:00 a.m. local time. At
+the special meeting, we will ask you to approve the merger agreement as
+described in the accompanying joint proxy statement/prospectus.
 
    In order to complete the merger, we must obtain necessary regulatory
 approvals and the approvals of the stockholders of Tosco and Phillips. The
@@ -249,13 +267,11 @@ vote as soon as possible to make sure that your shares are represented at the
 special meeting. To vote your shares, please complete and return the enclosed
 proxy card. You may also cast your vote in person at the special meeting.
 
-                                       Very truly yours,
+                                          Very truly yours,
 
-                                       /S/ Thomas D. O'Malley
-
-                                       Thomas D. O'Malley
-                                       Chairman of the Board and
-                                       Chief Executive Officer
+                                          Thomas D. O'Malley
+                                          Chairman of the Board and
+                                          Chief Executive Officer
 
    Neither the Securities and Exchange Commission nor any state securities
 commission has approved or disapproved of the Phillips common stock to be
@@ -263,10 +279,10 @@ issued under this joint proxy statement/prospectus or determined if this joint
 proxy statement/prospectus is accurate or complete. Any representation to the
 contrary is a criminal offense.
 
-   This joint proxy statement/prospectus is dated March 6, 2001, and is first
-being mailed to stockholders on or about March 7, 2001.
+   This joint proxy statement/prospectus is dated     , 2001, and is first
+being mailed to stockholders on or about     , 2001.
 
-                               [LOGO OF PHILLIPS]
+                              [LOGO OF PHILLIPS]
 
                            PHILLIPS PETROLEUM COMPANY
 
@@ -276,13 +292,13 @@ being mailed to stockholders on or about March 7, 2001.
 
                                ----------------
 
-                       TO BE HELD ON APRIL 11, 2001
+                         TO BE HELD ON APRIL    , 2001
 
 To the Stockholders of Phillips Petroleum Company:
 
    We will hold a special meeting of stockholders of Phillips Petroleum
 Company, a Delaware corporation, at the Adams Building, 4th Street and Keeler
-Avenue, Bartlesville, Oklahoma, on Wednesday, April 11, 2001, at 10:00 a.m.,
+Avenue, Bartlesville, Oklahoma, on           April   , 2001, at 10:00 a.m.,
 local time, for the purposes of considering and voting on the following
 matters, as described in the accompanying joint proxy statement/prospectus:
 
@@ -309,46 +325,45 @@ matters, as described in the accompanying joint proxy statement/prospectus:
      3. To transact any other business as may properly come before the
   special meeting or any adjournments or postponements thereof.
 
-   Holders of record of Phillips common stock at the close of business on March
-5, 2001, will be entitled to notice of and to vote at the special meeting and
-any adjournments or postponements thereof.
+   Holders of record of Phillips common stock at the close of business on
+          , 2001, will be entitled to notice of and to vote at the special
+meeting and any adjournments or postponements thereof.
 
                                           By Order of the Board of Directors,
 
-                                          /s/ Dale J. Billam
+                                          /s/ D. J. Billam
 
                                           Dale J. Billam
                                           Secretary
 
 Bartlesville, Oklahoma
+     , 2001
 
-March 6, 2001
+   The Board of Directors of Phillips unanimously recommends that you vote
+"FOR" approval of the issuance of Phillips common stock pursuant to the merger
+agreement and "FOR" approval of the amendment to Phillips' Restated Certificate
+of Incorporation.
 
-   The Board of Directors of Phillips recommends that you vote "FOR" approval
-of the issuance of Phillips common stock pursuant to the merger agreement and
-"FOR" approval of the amendment to Phillips' Restated Certificate of
-Incorporation.
-
-   The affirmative vote of a majority of the shares of Phillips common stock
-represented at the special meeting, provided that holders of a majority of the
-shares of Phillips common stock entitled to vote on the proposal do in fact
-vote, or abstain from voting, on the proposal, is required to approve proposal
-number 1 above. The affirmative vote of holders of a majority of the
+   The affirmative vote of a majority of votes cast on proposal number 1 above,
+so long as a majority of the shares of Phillips common stock outstanding and
+entitled to vote on the proposal do in fact vote on the proposal, is required
+to approve the proposal. The affirmative vote of holders of a majority of the
 outstanding shares of Phillips common stock entitled to vote on proposal number
 2 above is required to approve the proposal.
 
    Whether or not you plan to attend the special meeting in person, please
 complete, date, sign and return the enclosed proxy card in the enclosed
 envelope promptly or authorize the individuals named on your proxy card to vote
-your shares by calling toll-free 1-800-840-1208. Please note that, if your
-shares are not registered in your own name, your bank, broker or other
-institution holding your shares may not offer telephone voting. The enclosed
-envelope requires no postage if mailed in the United States. If you attend the
-special meeting, you may vote in person if you wish, even if you have
-previously returned your proxy card or submitted your proxy instructions by
-telephone. However, if you hold shares through a bank or broker and wish to
-vote in person at the special meeting, you may not do so unless you receive a
-valid proxy from your bank or broker.
+your shares by calling toll-free 1-      or, if outside the United States and
+Canada, calling    -   -    . Please note that, if your shares are not
+registered in your own name, your bank, broker or other institution holding
+your shares may not offer telephone voting. The enclosed envelope requires no
+postage if mailed in the United States. If you attend the special meeting, you
+may vote in person if you wish, even if you have previously returned your proxy
+card or submitted your proxy instructions by telephone. However, if you hold
+shares through a bank or broker and wish to vote in person at the special
+meeting, you may not do so unless you receive a valid proxy from your bank or
+broker.
 
                                 [LOGO OF TOSCO]
 
@@ -357,17 +372,16 @@ valid proxy from your bank or broker.
                                ----------------
 
                    NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
-
-                       TO BE HELD ON APRIL 11, 2001
+                         TO BE HELD ON APRIL    , 2001
 
                                ----------------
 
 To the Stockholders of Tosco Corporation:
 
    We will hold a special meeting of the stockholders of Tosco Corporation, a
-Nevada corporation, on Wednesday, April 11, 2001, at 10:00 a.m., local time, at
-The Hyatt Regency Greenwich, 1800 East Putnam Avenue, Old Greenwich,
-Connecticut, for the following purposes:
+Nevada corporation, on          April   , 2001, at 10:00 a.m., local time, at
+The Westin Hotel, 1 First Stamford Place, Stamford, Connecticut, for the
+following purposes:
 
      1. To consider and vote upon a proposal to approve the Agreement and
   Plan of Merger, dated as of February 4, 2001, by and among Phillips
@@ -384,7 +398,7 @@ Connecticut, for the following purposes:
      2. To transact any other business as may properly come before the
   special meeting or any adjournments or postponements thereof.
 
-   Holders of record of Tosco common stock at the close of business on March 5,
+   Holders of record of Tosco common stock at the close of business on       ,
 2001, will be entitled to notice of and to vote at the special meeting and any
 adjournments or postponements thereof.
 
@@ -394,8 +408,7 @@ adjournments or postponements thereof.
                                           Secretary
 
 Old Greenwich, Connecticut
-
-March 6, 2001
+      , 2001
 
    The Board of Directors of Tosco unanimously recommends that you vote "FOR"
 approval of the merger agreement and the merger.
@@ -404,12 +417,19 @@ approval of the merger agreement and the merger.
 Tosco common stock is required to approve the merger agreement and the merger.
 Whether or not you plan to attend the special meeting in person, please
 complete, date, sign and return the enclosed proxy card in the enclosed
-envelope promptly. The enclosed envelope requires no postage if mailed in the
-United States. If you attend the special meeting, you may vote in person if you
-wish, even if you have previously returned your proxy card. However, if you
-hold your shares through a bank or broker and wish to vote in person at the
-special meeting, you may not do so unless you receive a valid proxy from your
-bank or broker.
+envelope promptly; or you may authorize the individuals named on your proxy
+card to vote your shares by following the instructions included with your proxy
+card and calling toll-free 1-   -   -     or, if outside the United States and
+Canada, calling    -   -     or by using the Internet
+(http://www.              ). Please note that, if your shares are not
+registered in your own name, your bank, broker or other institution holding
+your shares may not utilize telephone or Internet voting. The enclosed envelope
+requires no postage if mailed in the United States. If you attend the special
+meeting, you may vote in person if you wish, even if you have previously
+returned your proxy card or submitted your proxy instructions by telephone or
+the Internet. However, if you hold your shares through a bank or broker and
+wish to vote in person at the special meeting, you may not do so unless you
+receive a valid proxy from your bank or broker.
 
                              ADDITIONAL INFORMATION
 
@@ -436,12 +456,14 @@ the appropriate company at one of the following addresses:
    Communications, Inc.                     60 East 42nd Street
    17 State Street                          New York, New York 10165
    New York, New York 10004                 Attention: Kenneth L. Altman
-   Toll free: (800) 223-2064                (212) 681-9600
+   Attention: Keith Haynes,                 (212) 681-9600
+    Managing Director
+   (212) 440-9915
 
-   IF YOU WOULD LIKE TO REQUEST ANY DOCUMENTS, PLEASE DO SO BY APRIL 4, 2001,
-IN ORDER TO RECEIVE THEM BEFORE YOUR SPECIAL MEETING.
+   IF YOU WOULD LIKE TO REQUEST ANY DOCUMENTS, PLEASE DO SO BY           ,
+2001, IN ORDER TO RECEIVE THEM BEFORE YOUR SPECIAL MEETING.
 
-   See "Where You Can Find More Information" on page 80.
+   See "Where You Can Find More Information" on page   .
 
                                
 
@@ -523,56 +545,56 @@ INFORMATION ABOUT TOSCO....................................................  63
   General..................................................................  63
   Management and Additional Information....................................  63
   Beneficial Ownership of Directors and Management of Tosco................  64
-  Beneficial Ownership of Certain Tosco Stockholders.......................  64
+  Beneficial Ownership of Certain Tosco Stockholders.......................  65
 
-DESCRIPTION OF PHILLIPS CAPITAL STOCK......................................  65
-  Phillips Common Stock....................................................  65
-  Phillips Rights Plan.....................................................  65
+DESCRIPTION OF PHILLIPS CAPITAL STOCK......................................  66
+  Phillips Common Stock....................................................  66
+  Phillips Rights Plan.....................................................  66
 
-COMPARISON OF STOCKHOLDER RIGHTS...........................................  66
-  Authorized Capital Stock.................................................  66
-  Size of Board of Directors...............................................  66
-  Cumulative Voting........................................................  66
-  Classes of Directors.....................................................  67
-  Qualifications of Directors..............................................  67
-  Filling Vacancies on the Board...........................................  67
-  Removal of Directors.....................................................  68
-  Nomination of Directors for Election.....................................  68
-  Anti-Takeover Provisions.................................................  68
-  Stockholder Rights Plan..................................................  71
-  Stockholder Action Without a Meeting.....................................  72
-  Calling Special Meetings of Stockholders.................................  72
-  Submission of Stockholder Proposals......................................  72
-  Notice of Stockholders Meetings..........................................  73
-  Stockholder Vote Required for Mergers....................................  73
-  Dividends................................................................  73
-  Rights of Preferred Stockholders.........................................  74
-  Appraisal Rights.........................................................  74
-  Stockholder Preemptive Rights............................................  75
-  Inspection of Stockholder Lists..........................................  75
-  Stockholder Class Voting Rights..........................................  75
-  Indemnification..........................................................  76
-  Limitations on Directors' and Officers' Liability........................  77
-  Charter Amendments.......................................................  78
-  Amendment of Bylaws......................................................  78
+COMPARISON OF STOCKHOLDER RIGHTS...........................................  67
+  Authorized Capital Stock.................................................  67
+  Size of Board of Directors...............................................  67
+  Cumulative Voting........................................................  67
+  Classes of Directors.....................................................  68
+  Qualifications of Directors..............................................  68
+  Filling Vacancies on the Board...........................................  68
+  Removal of Directors.....................................................  69
+  Nomination of Directors for Election.....................................  69
+  Anti-Takeover Provisions.................................................  69
+  Stockholder Rights Plan..................................................  72
+  Stockholder Action Without a Meeting.....................................  73
+  Calling Special Meetings of Stockholders.................................  73
+  Submission of Stockholder Proposals......................................  73
+  Notice of Stockholders Meetings..........................................  74
+  Stockholder Vote Required for Mergers....................................  74
+  Dividends................................................................  74
+  Rights of Preferred Stockholders.........................................  75
+  Appraisal Rights.........................................................  75
+  Stockholder Preemptive Rights............................................  76
+  Inspection of Stockholder Lists..........................................  76
+  Stockholder Class Voting Rights..........................................  76
+  Indemnification..........................................................  77
+  Limitations on Directors' and Officers' Liability........................  78
+  Charter Amendments.......................................................  79
+  Amendment of Bylaws......................................................  79
 
-RIGHTS OF DISSENTING STOCKHOLDERS..........................................  79
+RIGHTS OF DISSENTING STOCKHOLDERS..........................................  80
 
-LEGAL MATTERS..............................................................  79
+LEGAL MATTERS..............................................................  80
 
                                        ii
 
-EXPERTS...................................................................   79
+EXPERTS...................................................................   80
 
-STOCKHOLDER PROPOSALS.....................................................   79
+STOCKHOLDER PROPOSALS.....................................................   80
 
-OTHER MATTERS.............................................................   79
+OTHER MATTERS.............................................................   80
 
-INDEPENDENT AUDITORS......................................................   79
+INDEPENDENT AUDITORS......................................................   80
 
-WHERE YOU CAN FIND MORE INFORMATION.......................................   80
+WHERE YOU CAN FIND MORE INFORMATION.......................................   81
 
-UNAUDITED PRO FORMA COMBINED FINANCIAL INFORMATION........................   82
+UNAUDITED PRO FORMA COMBINED FINANCIAL INFORMATION........................   83
 
 Appendix A Agreement and Plan of Merger...................................  A-1
 
@@ -610,10 +632,10 @@ Phillips common stock following the merger.
 Q: WHERE AND WHEN ARE THE SPECIAL MEETINGS?
 
 A: The Phillips special meeting will take place at the Adams Building, 4th
-Street and Keeler Avenue, Bartlesville, Oklahoma, on Wednesday, April 11,
-2001, at 10:00 a.m., local time. The Tosco special meeting will take place at
-The Hyatt Regency Greenwich, 1800 East Putnam Avenue, Old Greenwich,
-Connecticut, on Wednesday, April 11, 2001, at 10:00 a.m., local time.
+Street and Keeler Avenue, Bartlesville, Oklahoma, on     , April   , 2001, at
+10:00 a.m., local time. The Tosco special meeting will take place at The
+Westin Hotel, 1 First Stamford Place, Stamford, Connecticut, on     , April
+  , 2001, at 10:00 a.m., local time.
 
 Q: WHAT ARE STOCKHOLDERS BEING ASKED TO VOTE ON AT THE SPECIAL MEETINGS?
 
@@ -637,24 +659,22 @@ the special meetings.
 Q: WHAT STOCKHOLDER APPROVALS ARE NEEDED?
 
 A: For Phillips, assuming that holders of a majority of the outstanding
-Phillips common stock entitled to vote on the proposal do in fact vote or
-abstain from voting on the proposal, the affirmative vote of a majority of the
-shares of Phillips common stock represented at the Phillips special meeting is
-required to approve the issuance of Phillips common stock in connection with
-the merger. The affirmative vote of the holders of a majority of the
-outstanding Phillips common stock entitled to vote on the amendment to
-Phillips' Restated Certificate of Incorporation is required to approve the
-amendment. However, as stated above, approval of the amendment to Phillips'
-Restated Certificate of Incorporation is not a condition to completion of the
-merger.
+Phillips common stock entitled to vote on the proposal do in fact vote, the
+affirmative vote of a majority of the votes cast on the proposal is required
+to approve the issuance of Phillips common stock in connection with the
+merger. The affirmative vote of the holders of a majority of the outstanding
+Phillips common stock entitled to vote on the amendment to Phillips' Restated
+Certificate of Incorporation is required to approve the amendment. However, as
+stated above, approval of the amendment to Phillips' Restated Certificate of
+Incorporation is not a condition to completion of the merger.
 
    For Tosco, the affirmative vote of the holders of a majority of the
 outstanding shares of Tosco common stock entitled to vote on the merger is
 required to approve the merger agreement and the merger.
 
-   The Phillips Board of Directors recommends that you vote "FOR" approval of
-the issuance of Phillips common stock in the merger and "FOR" approval of the
-amendment to Phillips' Restated Certificate of Incorporation.
+   The Phillips Board of Directors unanimously recommends that you vote "FOR"
+approval of the issuance of Phillips common stock in the merger and "FOR"
+approval of the amendment to Phillips' Restated Certificate of Incorporation.
 
    The Tosco Board of Directors unanimously recommends that you vote "FOR" the
 proposal to approve the merger agreement and the merger.
@@ -665,19 +685,18 @@ A: After carefully reading and considering the information contained in this
 joint proxy statement/prospectus, please respond by completing, signing and
 dating your proxy card or voting instructions and returning it in the
 enclosed, postage-paid envelope, or, if available, by submitting your proxy or
-voting instructions by telephone, as soon as possible so that your shares may
-be represented at your special meeting.
+voting instructions by telephone or over the Internet, if available, as soon
+as possible so that your shares may be represented at your special meeting.
 
 Q: WHAT IF I DON'T VOTE?
 
 A: If you fail to respond, it will have the same effect as a vote against the
 merger, in the case of Tosco stockholders, or a vote against the amendment to
 Phillips' Restated Certificate of Incorporation, in the case of Phillips
-stockholders. In addition, if you are a Phillips stockholder of record and you
-do not vote or attend the Phillips special meeting, provided that holders of a
-majority of the outstanding shares of Phillips common stock do in fact vote or
-abstain from voting, your shares will not count for or against the proposal to
-issue shares of Phillips common stock in the merger.
+stockholders. In addition, if you are a Phillips stockholder and you do not
+vote, provided that holders of a majority of the outstanding shares of
+Phillips common stock do in fact vote, your shares will not count for or
+against the proposal to issue shares of Phillips common stock.
 
    If you respond and do not indicate how you want to vote, your proxy will be
 counted as a vote in favor of all proposals, unless your shares are held in
@@ -685,9 +704,12 @@ counted as a vote in favor of all proposals, unless your shares are held in
 
    If you respond and abstain from voting, your proxy will have the same
 effect as a vote against the merger, in the case of Tosco stockholders, or a
-vote against the amendment to Phillips' Restated Certificate of Incorporation
-and a vote against the issuance of shares of Phillips common stock in the
-merger, in the case of Phillips stockholders.
+vote against the amendment to Phillips' Restated Certificate of Incorporation,
+in the case of Phillips stockholders. In addition, if you are a Phillips
+stockholder and you respond and abstain from voting, provided that holders of
+a majority of the outstanding shares of Phillips common stock vote either for
+or against the share issuance, your shares will not count for or against the
+proposal to issue shares of Phillips common stock.
 
 Q: IF MY SHARES ARE HELD IN "STREET NAME" BY MY BROKER, WILL MY BROKER VOTE MY
 SHARES FOR ME?
@@ -704,14 +726,14 @@ voting against the merger, unless you appear in person at the Tosco special
 meeting with a valid proxy from your broker and vote in favor of the merger.
 In the case of Phillips stockholders, if you do not give voting instructions
 to your broker with respect to the proposal to issue shares of Phillips common
-stock, you will, in effect, be voting against the share issuance, unless you
-appear in person at the Phillips special meeting with a valid proxy from your
-broker and vote in favor of the issuance of shares of Phillips common stock.
-In addition, if you are a Phillips stockholder, and you do not give voting
-instructions to your broker with respect to the proposal to amend Phillips'
-Restated Certificate of Incorporation, you will, in effect, be voting against
-the amendment, unless you appear in person at the Phillips special meeting
-with a valid proxy from your broker and vote in favor of the amendment.
+stock, you will not be deemed to be present at the Phillips special meeting
+for purposes of voting on this proposal and your shares therefore will not
+participate in the vote on this proposal. In addition, if you are a Phillips
+stockholder, and you do not give voting instructions to your broker with
+respect to the proposal to amend Phillips' Restated Certificate of
+Incorporation, you will, in effect, be voting against the amendment, unless
+you appear in person at the Phillips special meeting with a valid proxy from
+your broker and vote in favor of the amendment.
 
 Q: CAN I CHANGE MY VOTE AFTER I HAVE DELIVERED MY PROXY?
 
@@ -725,10 +747,10 @@ are held in a street name account at a brokerage firm or bank, you should
 contact your brokerage firm or bank to change your vote. Third, if you are a
 holder of record, or if your shares are held in street name and you receive a
 valid proxy from your broker, you can attend your special meeting and vote in
-person. If submission by telephone is available, and you choose to submit your
-proxy or voting instructions by telephone, you can change your vote by
-submitting a proxy at a later date, using the same procedures, in which case
-your later submitted proxy will be recorded and your earlier proxy revoked.
+person. If you submit your proxy or voting instructions by telephone or, if
+available, via the Internet, you can change your vote by submitting a proxy at
+a later date, using the same procedures, in which case your later submitted
+proxy will be recorded and your earlier proxy revoked.
 
 Q: SHOULD I SEND IN MY TOSCO STOCK CERTIFICATES NOW?
 
@@ -785,9 +807,9 @@ enclosed proxy card or voting instructions, you should contact:
    This brief summary does not contain all of the information that is important
 to you. To fully understand the merger, you should carefully read this entire
 document and the other documents to which this document refers you. See "Where
-You Can Find More Information" on page 80.
+You Can Find More Information" on page   .
 
-THE COMPANIES (PAGES 60 AND 63)
+THE COMPANIES (PAGES    AND   )
 
  Phillips Petroleum Company
 
@@ -801,8 +823,8 @@ Headquartered in Bartlesville, Oklahoma, Phillips has 12,400 employees and
 $20.5 billion of assets, and had $21.2 billion of revenues in 2000.
 
    For additional information about Phillips and its business, see "Information
-About Phillips" on page 60 and "Where You Can Find More Information" on page
-80.
+About Phillips" on page    and "Where You Can Find More Information" on page
+  .
 
  Tosco Corporation
 
@@ -817,9 +839,9 @@ States, and is one of the nation's largest operators of company-controlled
 convenience stores. Tosco has 26,400 employees.
 
    For additional information about Tosco and its business, see "Information
-About Tosco" on page 63 and "Where You Can Find More Information" on page 80.
+About Tosco" on page    and "Where You Can Find More Information" on page   .
 
-THE MERGER (PAGE 21)
+THE MERGER (PAGE   )
 
    We propose that Phillips acquire Tosco through the merger of Ping
 Acquisition Corp., a wholly owned subsidiary of Phillips, with and into Tosco,
@@ -830,7 +852,7 @@ refer to this transaction throughout this document as the merger.
 urge you to read the merger agreement. It is the legal document that governs
 the merger.
 
-WHAT YOU WILL RECEIVE IN THE MERGER (PAGE 43)
+WHAT YOU WILL RECEIVE IN THE MERGER (PAGE   )
 
    If you are a Tosco stockholder, upon completion of the merger, each of your
 shares of Tosco common stock automatically will become the right to receive
@@ -850,7 +872,7 @@ HOLD TOSCO STOCK CERTIFICATES, YOU SHOULD NOT RETURN THE CERTIFICATES WITH THE
 ENCLOSED PROXY AND SHOULD NOT FORWARD THEM TO THE EXCHANGE AGENT UNTIL YOU
 RECEIVE A LETTER OF TRANSMITTAL FOLLOWING THE COMPLETION OF THE MERGER.
 
-REASONS FOR THE MERGER (PAGES 23 AND 25)
+REASONS FOR THE MERGER (PAGE   )
 
    We are proposing the merger because we believe it presents a unique
 opportunity to create a stronger major integrated oil company with the benefits
@@ -858,23 +880,22 @@ of increased size and scale. We believe that the merger will have strategic and
 other benefits, including the opportunity for significant synergies. Each of
 the Phillips Board of Directors and the Tosco Board of Directors also
 considered a number of other factors, including, among other things, the
-opinion of its respective financial advisor. See "The Merger-Opinion of
-Phillips' Financial Advisor" on page 27 and "The Merger-Opinion of Tosco's
-Financial Advisor" on page 32.
+opinion of its respective financial advisor. See "--Opinions of Financial
+Advisors."
 
-RECOMMENDATIONS TO STOCKHOLDERS (PAGES 23 AND 25)
+RECOMMENDATIONS TO STOCKHOLDERS (PAGES   )
 
  Phillips stockholders
 
    The Phillips Board of Directors believes that the issuance of Phillips
 common stock in the merger is fair to and in the best interests of Phillips
-and Phillips stockholders, and recommends that Phillips stockholders vote
-"FOR" approval of the issuance of Phillips common stock in the merger. The
-Phillips Board of Directors believes that the amendment to Phillips' Restated
-Certificate of Incorporation is fair to and in the best interests of Phillips
-and Phillips stockholders, and recommends that Phillips stockholders vote
-"FOR" approval of the amendment to Phillips' Restated Certificate of
-Incorporation.
+and Phillips stockholders, and unanimously recommends that Phillips
+stockholders vote "FOR" approval of the issuance of Phillips common stock in
+the merger. The Phillips Board of Directors believes that the amendment to
+Phillips' Restated Certificate of Incorporation is fair to and in the best
+interests of Phillips and Phillips stockholders, and unanimously recommends
+that Phillips stockholders vote "FOR" approval of the amendment to Phillips'
+Restated Certificate of Incorporation.
 
  Tosco stockholders
 
@@ -883,7 +904,7 @@ stockholders and in the best interests of Tosco stockholders, and unanimously
 recommends that Tosco stockholders vote "FOR" the proposal to approve the
 merger agreement and the merger.
 
-OPINIONS OF FINANCIAL ADVISORS (PAGES 27 AND 32)
+OPINIONS OF FINANCIAL ADVISORS (PAGES    AND   )
 
  Phillips
 
@@ -923,13 +944,13 @@ common stock outstanding, after completion of the merger, current Tosco
 stockholders will own approximately 30% of the then-outstanding shares of
 Phillips common stock.
 
-RECORD DATE; VOTE REQUIRED (PAGES 14 AND 18)
+RECORD DATE; VOTE REQUIRED (PAGES    AND   )
 
  Phillips stockholders
 
    You can vote at the Phillips special meeting if you owned Phillips common
-stock at the close of business on March 5, 2001. On that date, there were
-283,561,070 shares (including 27,856,573 shares held in the Phillips
+stock at the close of business on         , 2001. On that date, there were
+            shares (including           shares held in the Phillips
 Compensation and Benefits Trust) of Phillips common stock outstanding and
 entitled to vote. You can cast one vote for each share of Phillips common
 stock that you owned on that date. In order to approve the issuance of shares
@@ -944,14 +965,14 @@ entitled to vote must vote in favor of doing so.
  Tosco stockholders
 
    You can vote at the Tosco special meeting if you owned Tosco common stock
-at the close of business on March 5, 2001. On that date, there were
-154,225,788 shares of Tosco common stock outstanding and entitled to vote. You
+at the close of business on         , 2001. On that date, there were
+           shares of Tosco common stock outstanding and entitled to vote. You
 can cast one vote for each share of Tosco common stock that you owned on that
 date. In order to approve the merger agreement and the merger, the holders of
 a majority of the outstanding shares of Tosco common stock entitled to vote
 must vote in favor of doing so.
 
-MATERIAL U.S. FEDERAL INCOME TAX CONSEQUENCES OF THE MERGER (PAGE 37)
+MATERIAL U.S. FEDERAL INCOME TAX CONSEQUENCES OF THE MERGER (PAGE   )
 
    We have structured the merger so that it is anticipated that the merger
 will be a reorganization for U.S. federal income tax purposes. The parties
@@ -967,8 +988,8 @@ COMPARATIVE PER SHARE MARKET PRICE INFORMATION
 Tosco common stock in newspapers, over the Internet or from their brokers. On
 February 2, 2001, the last trading day before we announced the merger,
 Phillips common stock closed at $58.13 per share and Tosco common stock closed
-at $34.61 per share. On March 5, 2001, Phillips common stock closed at $55.38
-per share and Tosco common stock closed at $42.00 per share.
+at $34.61 per share. On         , 2001, Phillips common stock closed at $
+per share and Tosco common stock closed at $     per share.
 
    The market value of the shares of Phillips common stock that will be issued
 in exchange for shares of Tosco common stock upon the completion of the merger
@@ -988,7 +1009,7 @@ Phillips common stock currently is traded under the symbol "P." If the merger
 is completed, Tosco common stock will no longer be listed on the New York
 Stock Exchange or any other exchange.
 
-DISSENTERS' RIGHTS OF APPRAISAL (PAGE 74)
+DISSENTERS' RIGHTS OF APPRAISAL (PAGES    AND   )
 
  Phillips stockholders
 
@@ -1002,7 +1023,7 @@ Restated Certificate of Incorporation.
    Under Nevada law, which applies to Tosco, Tosco stockholders will not have
 dissenters' rights of appraisal in connection with the merger.
 
-CONDITIONS TO COMPLETION OF THE MERGER (PAGE 52)
+CONDITIONS TO COMPLETION OF THE MERGER (PAGE   )
 
    Completion of the merger depends on a number of conditions being met,
 including the approval of the merger agreement by Tosco stockholders, the
@@ -1017,7 +1038,7 @@ a condition to its obligation to complete the merger although that condition
 has not been satisfied. We cannot be certain when (or if) the conditions to
 the merger will be satisfied or waived or that the merger will be completed.
 
-TERMINATION OF THE MERGER AGREEMENT; TERMINATION FEES (PAGE 52)
+TERMINATION OF THE MERGER AGREEMENT; TERMINATION FEES (PAGES    AND   )
 
    We can mutually agree at any time to terminate the merger agreement without
 completing the merger, even if Tosco stockholders have approved the merger
@@ -1045,9 +1066,10 @@ terminate the merger agreement in a number of situations, including:
    Each of Phillips and Tosco has agreed to pay a termination fee of $250
 million to the other party in the event that the merger is terminated under
 specified circumstances relating to an acquisition proposal or a breach by the
-other party of certain of its obligations under the merger agreement.
+other party of certain of its obligations under the merger agreement. See "The
+Merger Agreement--Termination of the Merger Agreement" on page     .
 
-TOSCO EMPLOYEE STOCK OPTIONS (PAGE 43)
+TOSCO EMPLOYEE STOCK OPTIONS (PAGE   )
 
    Upon completion of the merger, each outstanding Tosco employee stock option
 will be converted into a stock option to purchase a number of shares of
@@ -1065,32 +1087,32 @@ her Tosco stock options canceled in exchange for a cash payment by Tosco, if
 before the merger, or by Phillips, if after the merger. The other terms of
 each Tosco stock option will continue to apply.
 
-WAIVER AND AMENDMENT (PAGE 56)
+WAIVER AND AMENDMENT (PAGE   )
 
    We may jointly amend the merger agreement, and each of us may waive our
 right to require the other party to adhere to the terms and conditions of the
 merger agreement, to the extent legally permissible.
 
-ACCOUNTING TREATMENT (PAGE 38)
+ACCOUNTING TREATMENT (PAGE   )
 
    The merger will be accounted for using the "purchase method" of accounting
 for business combinations under U.S. generally accepted accounting principles.
 
-REGULATORY APPROVALS (PAGE 36)
+REGULATORY APPROVALS (PAGE   )
 
    Under the HSR Act, we cannot complete the merger until we furnish specified
 materials and information to the Antitrust Division of the U.S. Department of
 Justice and the U.S. Federal Trade Commission and satisfy the waiting period
-requirements. Phillips and Tosco expect to submit the required filings
-shortly.
+requirements. Phillips and Tosco submitted the required filings on        ,
+2001, and        , 2001, respectively.
 
-   We are also required to obtain regulatory approvals from various state and
-foreign authorities. We expect that we will be able to obtain all required
+   We also may be required to obtain regulatory approvals from various state
+and foreign authorities. We expect that we will be able to obtain all required
 regulatory approvals, but we cannot assure you that these regulatory approvals
 will be obtained.
 
 INTERESTS OF CERTAIN PERSONS IN THE MERGER THAT ARE DIFFERENT FROM YOUR
-INTERESTS (PAGE 38)
+INTERESTS (PAGE   )
 
    In addition to their interests as Tosco stockholders, certain of Tosco's
 officers and directors have interests in the merger that are different from,
@@ -1104,7 +1126,8 @@ severance benefits if their employment is terminated under specified
 circumstances, including in specified cases in connection with a change of
 control. In addition, several of Tosco's officers will be entitled to
 accelerated payments under the Tosco long-term incentive plan upon a change of
-control, which includes approval of the merger by Tosco stockholders.
+control, which includes approval of the merger by Tosco stockholders. See "The
+Merger--Interests of Certain Persons in the Merger" on page    .
 
    When the merger is completed, Phillips will expand the Phillips Board of
 Directors by one member and cause Thomas D. O'Malley, the Chairman and Chief
@@ -1124,7 +1147,7 @@ additional interests, and considered them, among other matters, when they
 approved and adopted the merger agreement and the merger.
 
 PROPOSED AMENDMENT TO PHILLIPS' RESTATED CERTIFICATE OF INCORPORATION (PAGE
-57)
+  )
 
    Phillips stockholders also will vote on a proposal to approve an amendment
 to Phillips' Restated Certificate of Incorporation to increase the number of
@@ -1201,7 +1224,7 @@ Cash dividends declared per
 
    The following selected unaudited pro forma combined financial data has been
 derived from and should be read together with the unaudited pro forma combined
-financial statements and related notes on page 82 through page 87. This
+financial statements and related notes on page   through page  . This
 information is based on the historical consolidated balance sheets and related
 adjusted historical consolidated statements of income of Phillips and Tosco--
 giving effect to the merger using the purchase method of accounting for
@@ -1273,32 +1296,35 @@ combined. You should not rely on this information to be indicative of the
 historical results that would have been achieved had the companies always been
 combined or the future results that Phillips will experience after the merger.
 
-                                            NINE MONTHS ENDED     YEAR ENDED
-                                            SEPTEMBER 30, 2000 DECEMBER 31,1999
-                                            ------------------ ----------------
+                                                   MILLIONS OF DOLLARS
+                                                 EXCEPT PER SHARE AMOUNTS
+                                            ----------------------------------
+                                            NINE MONTHS ENDED      YEAR ENDED
+                                            SEPTEMBER 30, 2000  DECEMBER 31,1999
+                                            ------------------  ----------------
 
 Phillips historical data, per common share
-  Net income--basic.......................        $ 4.40             2.41
-  Net income--diluted.....................          4.37             2.39
-  Cash dividends..........................          1.02             1.36
-  Book value at end of period.............         21.29            17.94
+  Net income--basic........................      $ 4.40               2.41
+  Net income--diluted......................        4.37               2.39
+  Cash dividends...........................        1.02               1.36
+  Book value at end of period..............       21.29              17.94
 Phillips pro forma combined data, per
  Phillips common share
-  Net income--basic.......................          4.36             2.97
-  Net income--diluted.....................          4.30             2.93
-  Cash dividends..........................          1.02             1.36
-  Book value at end of period.............         32.93               --
+  Net income--basic........................        4.36               2.97
+  Net income--diluted......................        4.30               2.93
+  Cash dividends...........................        1.02               1.36
+  Book value at end of period..............       32.93                 --
 Tosco historical data, per common share
-  Net income--basic.......................          2.53             2.97
-  Net income--diluted.....................          2.40             2.83
-  Cash dividends..........................          0.21             0.27
-  Book value at end of period.............         16.96            14.65
+  Net income--basic........................        2.53               2.97
+  Net income--diluted......................        2.40               2.83
+  Cash dividends...........................        0.21               0.27
+  Book value at end of period..............       16.96              14.65
 Phillips pro forma combined data, per
  Tosco-equivalent-common-share
-  Net income--basic.......................          3.49             2.38
-  Net income--diluted.....................          3.44             2.34
-  Cash dividends..........................          0.82             1.09
-  Book value at end of period.............         26.34               --
+  Net income--basic........................        3.49               2.37
+  Net income--diluted......................        3.44               2.34
+  Cash dividends...........................        0.82               1.09
+  Book value at end of period..............       26.34                 --
 
                                   RISK FACTORS
 
@@ -1378,11 +1404,11 @@ information relating to the merger, including, without limitation:
   .  statements relating to the synergies and accretion to reported earnings
      estimated to result from the merger;
 
-  .  statements relating to revenue, income and operations of the combined
-     company after the merger; and
+  . statements relating to revenue, income and operations of the combined
+    company after the merger; and
 
-  .  statements preceded by, followed by or that include the words "believes,"
-     "expects," "anticipates," "estimates" or similar expressions.
+  . statements preceded by, followed by or that include the words "believes,"
+    "expects," "anticipates," "estimates" or similar expressions.
 
    Phillips' and Tosco's managements believe that these forward-looking
 statements are reasonable; however, you should not place undue reliance on
@@ -1425,11 +1451,11 @@ statements:
 GENERAL
 
    This joint proxy statement/prospectus is first being mailed by Phillips to
-the holders of Phillips common stock, on or about March 7, 2001, and is
+the holders of Phillips common stock, on or about       , 2001, and is
 accompanied by the notice of the Phillips special meeting and a form of proxy
 that is solicited by the Phillips Board of Directors for use at the Phillips
 special meeting, to be held at the Adams Building, 4th Street and Keeler
-Avenue, Bartlesville, Oklahoma, on Wednesday, April 11, 2001, at 10:00 a.m.,
+Avenue, Bartlesville, Oklahoma, on          April   , 2001, at 10:00 a.m.,
 local time, and at any adjournments or postponements of the Phillips special
 meeting.
 
@@ -1437,15 +1463,14 @@ MATTERS TO BE CONSIDERED
 
    The purpose of the Phillips special meeting is:
 
-    (1)  to approve the issuance of Phillips common stock in connection
-         with the merger agreement;
+     (1) to approve the issuance of Phillips common stock in connection with
+         the merger agreement;
 
-    (2)  to approve an amendment to Phillips' Restated Certificate of
-         Incorporation to increase the number of shares of authorized
-         Phillips common stock from 500 million shares to one billion
-         shares; and
+     (2) to approve an amendment to Phillips' Restated Certificate of
+         Incorporation to increase the number of shares of authorized Phillips
+         common stock from 500 million shares to one billion shares; and
 
-    (3)  to consider any other matters that may properly come before the
+     (3) to consider any other matters that may properly come before the
          Phillips special meeting.
 
    Phillips stockholders also may be asked to vote upon a proposal to adjourn
@@ -1548,18 +1573,19 @@ or special delivery letter.
 RECORD DATE AND VOTING RIGHTS
 
    In accordance with the provisions of Delaware law, Phillips' Bylaws and the
-rules of the New York Stock Exchange, Phillips has fixed March 5, 2001, as the
+rules of the New York Stock Exchange, Phillips has fixed         , 2001, as the
 record date for determining those Phillips stockholders entitled to notice of
 and to vote at the Phillips special meeting. Accordingly, only Phillips
 stockholders of record at the close of business on the Phillips record date
 will be entitled to notice of and to vote at the Phillips special meeting. At
-the close of business on the Phillips record date, there were 283,561,070
-shares of Phillips common stock outstanding held by 48,184 holders of record.
-The presence, in person or by proxy, of shares of Phillips common stock
-representing a majority of shares of Phillips common stock outstanding and
-entitled to vote on the Phillips record date is necessary to constitute a
-quorum at the Phillips special meeting. Each share of Phillips common stock
-outstanding on the Phillips record date entitles its holder to one vote.
+the close of business on the Phillips record date, there were
+shares of Phillips common stock outstanding held by approximately
+holders of record. The presence, in person or by proxy, of shares of Phillips
+common stock representing a majority of shares of Phillips common stock
+outstanding and entitled to vote on the Phillips record date is necessary to
+constitute a quorum at the Phillips special meeting. Each share of Phillips
+common stock outstanding on the Phillips record date entitles its holder to one
+vote.
 
    Shares of Phillips common stock held by persons attending the Phillips
 special meeting but not voting, and shares of Phillips common stock for which
@@ -1568,32 +1594,33 @@ Phillips has received proxies but with respect to which holders of
 those shares have abstained from voting, will be counted as present at the
 Phillips special meeting for purposes of determining the presence or absence of
 a quorum for the transaction of business at the Phillips special meeting, but
-will have the same effect as votes cast at the Phillips special meeting against
-approval of the issuance of shares of Phillips common stock in the merger.
-Brokers that hold shares of Phillips common stock in nominee or street name for
-customers who are the beneficial owners of those shares are prohibited from
-giving a proxy to vote shares held for those customers on the matters to be
-considered and voted upon at the Phillips special meeting without specific
-instructions from those customers. These so-called "broker non-votes" will be
-counted for purposes of determining whether a quorum exists, but, assuming a
-quorum exists, have the same effect as votes cast at the Phillips special
-meeting against approval of the issuance of shares of Phillips common stock in
-the merger.
+will not be counted as votes cast at the Phillips special meeting for purposes
+of determining whether stockholder approval of the issuance of shares of
+Phillips common stock in the merger has been obtained. Brokers that hold shares
+of Phillips common stock in nominee or street name for customers who are the
+beneficial owners of those shares are prohibited from giving a proxy to vote
+shares held for those customers on the matters to be considered and voted upon
+at the Phillips special meeting without specific instructions from those
+customers. These so-called "broker non-votes" will be counted for purposes of
+determining whether a quorum exists, but will not be counted as votes cast at
+the Phillips special meeting for purposes of determining whether stockholder
+approval of the issuance of shares of Phillips common stock in the merger has
+been obtained.
 
    Under applicable Delaware law, Phillips' Restated Certificate of
 Incorporation, Phillips' Bylaws and the rules of the New York Stock Exchange,
 (1) approval of the issuance of shares of Phillips common stock in connection
-with the merger requires the affirmative vote of the majority of the shares of
-Phillips common stock represented at the Phillips special meeting, provided
-that holders of a majority of the shares of Phillips common stock entitled to
-vote at the Phillips special meeting do in fact vote, or abstain from voting,
-on the proposal, and (2) approval of the amendment to Phillips' Restated
-Certificate of Incorporation requires the affirmative vote of holders of a
-majority of the shares of Phillips common stock outstanding and entitled to
-vote on the amendment. Because approval of the issuance of Phillips common
-stock in the merger requires the affirmative vote of the majority of the shares
-of Phillips common stock represented at the Phillips special meeting,
-abstentions and broker non-votes will count against the share issuance.
+with the merger requires the affirmative vote of the majority of the votes cast
+on the proposal, provided that holders of a majority of the outstanding shares
+of Phillips common stock entitled to vote at the Phillips special meeting vote
+either for or against the proposal, and (2) approval of the amendment to
+Phillips' Restated Certificate of Incorporation requires the affirmative vote
+of holders of a majority of the shares of Phillips common stock outstanding and
+entitled to vote on the amendment. Because approval of the issuance of Phillips
+common stock in the merger requires the affirmative vote of the majority of the
+votes cast, abstentions and broker non-votes will not count for or against the
+issuance, provided that holders of a majority of the outstanding shares of
+Phillips common stock do in fact vote on the proposal.
 
    Because approval of the amendment to Phillips' Restated Certificate of
 Incorporation requires the affirmative vote of holders of a majority of the
@@ -1607,15 +1634,14 @@ POSTAGE-PAID ENVELOPE OR AUTHORIZE THE INDIVIDUALS NAMED ON YOUR PROXY CARD TO
 VOTE YOUR SHARES BY TELEPHONE.
 
    As of the Phillips record date, directors and executive officers of Phillips
-beneficially owned 1,602,855 shares of Phillips common stock (including shares
-held in Phillips savings plans and 757,336 shares subject to Phillips stock
-options exercisable within 60 days). As of the Phillips record date, shares
-held by directors and executive officers of Phillips entitle them to exercise
-less than one percent of the voting power of the Phillips common stock entitled
-to vote at the Phillips special meeting. As of the Phillips record date,
-directors and executive officers of Tosco owned no shares of Phillips common
-stock. See "Information About Phillips--Beneficial Ownership of Directors and
-Management of Phillips."
+beneficially owned            shares of Phillips common stock (including shares
+held in Phillips savings plans and          shares subject to Phillips stock
+options exercisable within 60 days) entitling them to exercise approximately
+   % of the voting power of the Phillips common stock entitled to vote at the
+Phillips special meeting. As of the Phillips record date, directors and
+executive officers of Tosco owned [no] shares of Phillips common stock. See
+"Information About Phillips--Beneficial Ownership of Directors and Management
+of Phillips."
 
    Additional information with respect to beneficial ownership of Phillips
 common stock by directors and executive officers of Phillips is incorporated by
@@ -1656,26 +1682,26 @@ voting procedures.
 
 RECOMMENDATION OF THE PHILLIPS BOARD OF DIRECTORS
 
-   The Phillips Board of Directors has approved and adopted the merger
-agreement and the merger. The Phillips Board of Directors believes that the
-issuance of shares of Phillips common stock in connection with the merger is in
-the best interests of Phillips and Phillips stockholders, and recommends that
-Phillips stockholders vote "FOR" approval of the issuance of Phillips common
-stock in the merger and "FOR" approval of the amendment to Phillips' Restated
-Certificate of Incorporation. See "The Merger--Recommendation of the Phillips
-Board of Directors; Phillips' Reasons for the Merger."
+   The Phillips Board of Directors has unanimously approved and adopted the
+merger agreement and the merger. The Phillips Board of Directors believes that
+the issuance of shares of Phillips common stock in connection with the merger
+is in the best interests of Phillips and Phillips stockholders, and recommends
+that Phillips stockholders vote "FOR" approval of the issuance of Phillips
+common stock in the merger and "FOR" approval of the amendment to Phillips'
+Restated Certificate of Incorporation. See "The Merger--Recommendation of the
+Phillips Board of Directors; Phillips' Reasons for the Merger."
 
                              TOSCO SPECIAL MEETING
 
 GENERAL
 
    This joint proxy statement/prospectus is first being mailed by Tosco to the
-holders of Tosco common stock, on or about March 7, 2001, and is accompanied by
+holders of Tosco common stock, on or about      , 2001, and is accompanied by
 the notice of the Tosco special meeting and a form of proxy that is solicited
 by the Tosco Board of Directors for use at the Tosco special meeting, to be
-held on Wednesday, April 11, 2001, at 10:00 a.m., local time, at The Hyatt
-Regency Greenwich, 1800 East Putnam Avenue, Old Greenwich, Connecticut, and at
-any adjournments or postponements of the Tosco special meeting.
+held on           April   , 2001, at 10:00 a.m., local time, at The Westin
+Hotel, 1 First Stamford Place, Stamford, Connecticut, and at any adjournments
+or postponements of the Tosco special meeting.
 
 MATTERS TO BE CONSIDERED
 
@@ -1696,7 +1722,21 @@ opportunity to vote at the Tosco special meeting. When you deliver a valid
 proxy, the shares represented by that proxy will be voted in accordance with
 your instructions.
 
-   You may grant a proxy by signing and mailing your proxy card. If you are a
+   You may grant a proxy by:
+
+     (1) signing and mailing your proxy card;
+
+     (2) calling a toll-free telephone number and following the recorded
+  instructions; or
+
+     (3) going to a Web site on the Internet and following the instructions
+  provided.
+
+Nevada law permits a stockholder to grant a proxy in each of these ways.
+However, if your shares are not registered in your own name, your bank, broker
+or other institution holding your shares may not offer telephone or Internet
+proxy voting. If your proxy card does not include telephone or Internet voting
+instructions, please complete and return your proxy card by mail. If you are a
 holder of record, or if your shares are held in street name and you have a
 valid proxy from your broker, you may also cast your vote in person at the
 meeting.
@@ -1706,6 +1746,28 @@ meeting.
    To grant your proxy by mail, please complete your proxy card, and sign, date
 and return it in the enclosed, postage-paid envelope. To be valid, a returned
 proxy card must be signed and dated.
+
+ Telephone
+
+   You may use a toll-free telephone number listed on your proxy card to grant
+your proxy. You must have your proxy card ready and:
+
+     (1) dial the toll-free number,
+
+     (2) enter the Control Number located on your proxy card, and
+
+     (3) follow the recorded instructions.
+
+ Internet
+
+   You also may use the Internet to vote your proxy. You must have your proxy
+card ready and:
+
+     (1) Go to the web site shown on your proxy card.
+
+     (2) Enter the Control Number located on your proxy card.
+
+     (3) Follow the simple instructions.
 
  In Person
 
@@ -1758,32 +1820,34 @@ by telephone, telegram, facsimile, Internet or special delivery letter.
 RECORD DATE AND VOTING RIGHTS
 
    In accordance with the provisions of Nevada law, Tosco's Bylaws and the
-rules of the New York Stock Exchange, Tosco has fixed March 5, 2001, as the
+rules of the New York Stock Exchange, Tosco has fixed        , 2001, as the
 record date for determining those Tosco stockholders entitled to notice of and
 to vote at the Tosco special meeting. Accordingly, only Tosco stockholders of
 record at the close of business on the Tosco record date will be entitled to
 notice of and to vote at the Tosco special meeting. At the close of business on
-the Tosco record date, there were 154,225,788 shares of Tosco common stock
-outstanding held by 7,953 holders of record. The presence, in person or by
-proxy, of shares of Tosco common stock representing a majority of Tosco shares
-outstanding and entitled to vote on the Tosco record date is necessary to
-constitute a quorum at the Tosco special meeting. Each share of Tosco common
-stock outstanding on the Tosco record date entitles its holder to one vote.
+the Tosco record date, there were           shares of Tosco common stock
+outstanding held by approximately        holders of record. The presence, in
+person or by proxy, of shares of Tosco common stock representing a majority of
+Tosco shares outstanding and entitled to vote on the Tosco record date is
+necessary to constitute a quorum at the Tosco special meeting. Each share of
+Tosco common stock outstanding on the Tosco record date entitles its holder to
+one vote.
 
    Shares of Tosco common stock held by persons attending the Tosco special
 meeting but not voting, and shares of Tosco common stock for which Tosco has
 received proxies but with respect to which holders of those shares have
 abstained from voting, will be counted as present at the Tosco special meeting
-for purposes of determining the presence or absence of a quorum for the
-transaction of business at the Tosco special meeting, but will have the same
-effect as votes against the merger agreement and the merger. Brokers that hold
-shares of Tosco common stock in nominee or street name for customers who are
-the beneficial owners of those shares are prohibited from giving a proxy to
-vote shares held for those customers on the matters to be considered and voted
-upon at the Tosco special meeting without specific instructions from those
-customers. These so-called broker non-votes will not be counted for purposes of
-determining whether a quorum exists and will not be voted at the Tosco special
-meeting.
+for purposes of
+
+determining the presence or absence of a quorum for the transaction of business
+at the Tosco special meeting, but will have the same effect as votes against
+the merger agreement and the merger. Brokers that hold shares of Tosco common
+stock in nominee or street name for customers who are the beneficial owners of
+those shares are prohibited from giving a proxy to vote shares held for those
+customers on the matters to be considered and voted upon at the Tosco special
+meeting without specific instructions from those customers. These so-called
+broker non-votes will not be counted for purposes of determining whether a
+quorum exists and will not be voted at the Tosco special meeting.
 
    Under applicable Nevada law and Tosco's Amended and Restated Articles of
 Incorporation and Tosco's Bylaws, the approval of the merger agreement and the
@@ -1799,18 +1863,17 @@ merger agreement and the merger.
 
    THE TOSCO BOARD OF DIRECTORS URGES TOSCO STOCKHOLDERS TO COMPLETE, DATE AND
 SIGN THE ACCOMPANYING PROXY AND RETURN IT PROMPTLY IN THE ENCLOSED, POSTAGE-
-PAID ENVELOPE
+PAID ENVELOPE, OR TO AUTHORIZE BY TELEPHONE OR THE INTERNET THE INDIVIDUALS
+NAMED ON YOUR PROXY CARD TO VOTE YOUR SHARES.
 
    As of the Tosco record date, directors and executive officers of Tosco
 beneficially owned 7,293,404 shares of Tosco common stock (including shares
-held in Tosco savings plans and 3,375,050 shares subject to Tosco stock options
-exercisable within 60 days). As of the Tosco record date, shares held by
-directors and executive officers of Tosco entitle them to exercise
-approximately 2.4% of the voting power of Tosco common stock entitled to vote
-at the Tosco special meeting. As of the Tosco record date, directors and
-executive officers of Phillips owned no shares of Tosco common stock. See
-"Information About Tosco--Beneficial Ownership of Directors and Management of
-Tosco."
+held in Tosco savings plans and 3,559,620 shares subject to Tosco stock options
+exercisable within 60 days) entitling them to exercise approximately 2.4% of
+the voting power of Tosco common stock entitled to vote at the Tosco special
+meeting. As of the Tosco record date, directors and executive officers of
+Phillips owned [no] shares of Tosco common stock. See "Information About
+Tosco--Beneficial Ownership of Directors and Management of Tosco."
 
    Additional information with respect to beneficial ownership of Tosco common
 stock by directors and executive officers of Tosco is incorporated by reference
@@ -1840,11 +1903,11 @@ Directors; Tosco's Reasons for the Merger."
 GENERAL
 
    Each of the Phillips Board of Directors and the Tosco Board of Directors has
-approved and/or adopted the merger agreement and the merger. As a result of the
-merger, Tosco will become a wholly owned subsidiary of Phillips, and Tosco
-stockholders will have their shares of Tosco common stock converted into newly
-issued shares of Phillips common stock at a rate of 0.80 of a share of Phillips
-common stock for each share of Tosco common stock.
+unanimously approved and/or adopted the merger agreement and the merger. As a
+result of the merger, Tosco will become a wholly owned subsidiary of Phillips,
+and Tosco stockholders will have their shares of Tosco common stock converted
+into newly issued shares of Phillips common stock at a rate of 0.80 of a share
+of Phillips common stock for each share of Tosco common stock.
 
 BACKGROUND OF THE MERGER
 
@@ -1962,18 +2025,16 @@ Directors.
 special meeting by teleconference at which senior management and advisors of
 Phillips reviewed their discussions and negotiations with Tosco regarding a
 merger, as well as the results of their due diligence investigation of Tosco.
-All members of the Phillips Board of Directors except one were present at the
-meeting. Senior management reviewed with the Phillips Board of Directors
-detailed information with respect to Tosco, Phillips and the proposed
-transaction. Morgan Stanley made a presentation to the Phillips Board of
-Directors about financial matters with respect to the proposed transaction.
-Phillips' outside legal counsel reviewed with the Phillips Board of Directors
-the terms of the proposed merger agreement and employment letter with Mr.
-O'Malley and the actions necessary to approve the transaction. The Phillips
-Board of Directors, by unanimous vote of those directors present, resolved to
-approve and adopt the merger agreement and the merger, subject to it being
-approved by the Tosco Board of Directors and to Phillips' management's
-continued satisfaction with ongoing due diligence.
+Senior management reviewed with the Phillips Board of Directors detailed
+information with respect to Tosco, Phillips and the proposed transaction.
+Morgan Stanley made a presentation to the Phillips Board of Directors about
+financial matters with respect to the proposed transaction. Phillips' outside
+legal counsel reviewed with the Phillips Board of Directors the terms of the
+proposed merger agreement and employment letter with Mr. O'Malley and the
+actions necessary to approve the transaction. The Phillips Board of Directors
+unanimously resolved to approve and adopt the merger agreement and the merger,
+subject to it being approved by the Tosco Board of Directors and to Phillips'
+management's continued satisfaction with ongoing due diligence.
 
    On the afternoon of February 4, 2001, the Tosco Board of Directors held a
 special meeting at which senior management and advisors of Tosco reviewed their
@@ -2065,12 +2126,12 @@ variety of factors, including the following material factors:
      net pre-tax synergies of approximately $250 million, of which about one-
      half would be realized in fiscal year 2001 and the full amount in fiscal
      year 2002. The Phillips Board of Directors also considered that combining
-     the complementary skills and assets of the two companies--combining
-     Tosco's refining and convenience store experience and Phillips' branded
-     wholesale skills, as well as applying Phillips' technology to Tosco's
-     system--could result in additional synergistic benefits. See "--Management
-     and Operations Following the Merger" and "Cautionary Statement Concerning
-     Forward-Looking Statements."
+     the complementary skills and assets of the two companies--combining Tosco's
+     refining and convenience store experience and Phillips' branded wholesale
+     skills, as well as applying Phillips' technology to Tosco's system--could
+     result in additional synergistic benefits. See "--Management and Operations
+     Following the Merger" and "Cautionary Statement Concerning Forward-Looking
+     Statements."
 
   .  Terms of the Merger Agreement. The Phillips Board of Directors, with the
      assistance of counsel, considered the general terms of the merger
@@ -2124,8 +2185,9 @@ based its recommendation on the totality of the information presented to and
 considered by it. In addition, individual members of the Phillips Board of
 Directors may have given differing weights to different factors.
 
-   THE PHILLIPS BOARD OF DIRECTORS RECOMMENDS THAT PHILLIPS STOCKHOLDERS VOTE
-"FOR" APPROVAL OF THE ISSUANCE OF PHILLIPS COMMON STOCK IN THE MERGER.
+   THE PHILLIPS BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS THAT PHILLIPS
+STOCKHOLDERS VOTE "FOR" APPROVAL OF THE ISSUANCE OF PHILLIPS COMMON STOCK IN
+THE MERGER.
 
 RECOMMENDATION OF THE TOSCO BOARD OF DIRECTORS; TOSCO'S REASONS FOR THE MERGER
 
@@ -2633,7 +2695,7 @@ Stanley did not recommend any specific consideration to Phillips or that any
 specific consideration constituted the only appropriate consideration for the
 merger.
 
-   Morgan Stanley's opinion was one of the many factors taken into
+  Morgan Stanley's opinion was one of the many factors taken into
 consideration by the Phillips Board of Directors in making its determination to
 approve the merger. Morgan Stanley's analyses summarized above should not be
 viewed as determinative of the opinion of the Phillips Board of Directors with
@@ -2910,8 +2972,8 @@ petroleum refining, marketing and transportation industry:
 
    DATE ANNOUNCED   ACQUIROR                  TARGET
    --------------   --------                  ------
-
    August 2000      Apex Oil                  Crown Central
+
    July 2000        Ultramar Diamond Shamrock Tosco--Avon
    May 2000         Alon Israel               PetroFina--Southwest Division
    March 2000       Valero Energy Corp.       ExxonMobil
@@ -2999,9 +3061,10 @@ REGULATORY APPROVALS REQUIRED FOR THE MERGER
    Phillips and Tosco cannot complete the merger until they have filed
 notifications with the Antitrust Division and the Federal Trade Commission
 under the HSR Act, and the applicable rules of the Federal Trade Commission,
-and specified waiting periods have expired or terminated. Each of Phillips and
-Tosco expects to file a Premerger Notification and Report Form in connection
-with the merger shortly.
+and specified waiting periods have expired or terminated. On           , 2001,
+Phillips filed a Premerger Notification and Report Form in connection with the
+merger, and, on           , 2001, Tosco filed a Premerger Notification and
+Report Form in connection with the merger.
 
    Phillips and Tosco believe that the proposed merger is compatible with U.S.
 antitrust laws. However, at any time before or after consummation of the
@@ -3012,17 +3075,10 @@ merger under the antitrust laws, including seeking to enjoin consummation of
 the merger, rescind the merger, cause Phillips or Tosco to divest, in whole or
 in part, any of their assets or businesses, and/or recover monetary damages. We
 can give no assurance that a challenge to the merger on antitrust grounds will
-not be made or, if such challenge is made, that it would not be successful.
-
-   Phillips and Tosco have filed an application with the California Public
-Utilities Commission for an order approving the change of control of a common
-carrier petroleum pipeline in California that is part of the system acquired by
-Tosco from Unocal Corporation. Phillips and Tosco will file a notification
-regarding the merger with the Italian Antitrust Authority pursuant to Italian
-merger control legislation. We also may be required to obtain regulatory
-approvals from various other state and foreign authorities. See "The Merger
-Agreement--Additional Covenants--Reasonable Best Efforts" and "The Merger
-Agreement--Conditions."
+not be made or, if such challenge is made, that it would not be successful. We
+also may be required to obtain regulatory approvals from various state and
+foreign authorities. See "The Merger Agreement--Additional Covenants--
+Reasonable Best Efforts" and "The Merger Agreement--Conditions."
 
 MATERIAL U.S. FEDERAL INCOME TAX CONSEQUENCES
 
@@ -3076,15 +3132,14 @@ date of the merger, to the effect that for U.S. federal income tax purposes the
 merger will constitute a reorganization within the meaning of Section 368(a) of
 the Internal Revenue Code and (2) Phillips receive a written opinion from
 Wachtell, Lipton, Rosen & Katz, counsel to Phillips, dated the closing date of
-the merger, to the effect that for
-
-U.S. federal income tax purposes the merger will constitute a reorganization
-within the meaning of Section 368(a) of the Internal Revenue Code. The opinions
-will be based on customary assumptions and customary representations made by,
-among others, Tosco and Phillips. An opinion of counsel represents counsel's
-best legal judgment and is not binding on the Internal Revenue Service or any
-court. No ruling has been, or will be, sought from the Internal Revenue Service
-as to the U.S. federal income tax consequences of the merger.
+the merger, to the effect that for U.S. federal income tax purposes the merger
+will constitute a reorganization within the meaning of Section 368(a) of the
+Internal Revenue Code. The opinions will be based on customary assumptions and
+customary representations made by, among others, Tosco and Phillips. An opinion
+of counsel represents counsel's best legal judgment and is not binding on the
+Internal Revenue Service or any court. No ruling has been, or will be, sought
+from the Internal Revenue Service as to the U.S. federal income tax
+consequences of the merger.
 
    Assuming the merger qualifies as a reorganization within the meaning of
 Section 368(a) of the Internal Revenue Code, holders of Tosco common stock that
@@ -3148,19 +3203,22 @@ matters, in approving and/or adopting the merger agreement and the merger.
 Jefferson F. Allen, and Wilkes McClave. Pursuant to these agreements, each of
 these executives is entitled, upon his termination of employment with Tosco in
 conjunction with, or after, a change of control, including the approval of the
-merger
+merger by Tosco stockholders, to receive a lump sum severance payment equal to
+three times the sum of his base salary and of the average of his bonuses for
+each of the two years immediately preceding the year of stockholder approval of
+the merger. For purposes of these agreements, all three of these executives
+plan to terminate their employment in connection with the merger. The severance
+amounts that would be due Messrs.
 
-by Tosco stockholders, to receive a lump sum severance payment equal to three
-times the sum of his base salary and of the average of his bonuses for each of
-the two years immediately preceding the year of stockholder approval of the
-merger. For purposes of these agreements, all three of these executives plan to
-terminate their employment in connection with the merger. The severance amounts
-that would be due Messrs. O'Malley, Allen, and McClave upon a termination in
-2001 following stockholder approval of the merger would be $27,197,000,
-$14,754,000 and $10,892,000, respectively. In addition, each of these
-executives will be entitled under his agreement to receive a gross-up payment
-for any excise taxes that are triggered by payments that he receives in
-connection with the merger.
+O'Malley, Allen, and McClave upon a termination in 2001 following stockholder
+approval of the merger would be $27,197,000, $14,754,000 and $10,892,000,
+respectively. In addition, each of these executives will be entitled under his
+agreement to receive a gross-up payment for any excise taxes that are triggered
+by payments that he receives in connection with the merger. The gross-up
+payments, the amounts of which will vary upon a variety of factors including
+the amount of compensation subject to the gross-up, the price of Tosco common
+stock and interest rates at the time of the merger, personal income tax rates,
+and interpretations of tax law, are estimated to approximate $       .
 
    Under an agreement between Robert Lavinia and Tosco, Tosco must inform Mr.
 Lavinia, within ten days of stockholder approval of the merger, whether it
@@ -3294,15 +3352,15 @@ retirement pension and medical benefits to selected senior executives and their
 beneficiaries. Messrs. Allen, Lavinia, McClave, O'Malley, Sutton and Wiggins
 are eligible for benefits under the Tosco senior executive retirement plan.
 
-   Generally, normal retirement age is 65 with early retirement benefits
-(reduced by 1% for each year preceding age 65) commencing at age 55 and three
-years of credited service. Messrs. Allen, McClave and O'Malley each has 11
-years of credited service, Mr. Sutton has nine years of credited service and
-each of Messrs. Lavinia and Wiggins has seven years and seven months of
-credited service, under the Tosco senior executive retirement plan as of
-December 31, 2000. Each of the above-named participants is eligible to receive
-retirement benefits under the Tosco senior executive retirement plan since they
-are all at least age 55 or deemed to be age 55.
+   Normal retirement age is 65 with early retirement benefits (reduced by 1%
+for each year preceding age 65) commencing at age 55 and three years of
+credited service. Messrs. Allen, McClave and O'Malley each has 11 years of
+credited service, Mr. Sutton has nine years of credited service and each of
+Messrs. Lavinia and Wiggins has seven years and seven months of credited
+service, under the Tosco senior executive retirement plan as of December 31,
+2000. Each of the above-named participants is eligible to receive retirement
+benefits under the Tosco senior executive retirement plan since they are all at
+least age 55 or deemed to be age 55.
 
  McClave Retirement Enhancement
 
@@ -3504,19 +3562,20 @@ Phillips common stock will not entitle the owner thereof to any voting or other
 rights of a Phillips stockholder.
 
    Holders of Tosco common stock otherwise entitled to fractional shares of
-Phillips common stock, if any, will receive a cash payment instead of the
-fractional shares of Phillips common stock they would otherwise be entitled to
-upon surrender of all of their Tosco common stock certificates. Following
-completion of the merger, the exchange agent will determine the excess of the
-number of whole shares of Phillips common stock delivered to the exchange agent
-by Phillips for distribution to Tosco stockholders over the aggregate number of
-whole shares of Phillips common stock to be distributed to Tosco stockholders.
-The exchange agent will then, on behalf of the former Tosco stockholders, sell
-the excess shares of Phillips common stock at then-prevailing prices on the New
-York Stock Exchange, in the manner provided in the merger agreement, and make
-the proceeds available for distribution to the former holders of Tosco common
-stock otherwise entitled to fractional shares of Phillips common stock upon
-surrender of their Tosco stock certificates.
+Phillips common stock, if any, of Phillips common stock will receive a cash
+payment instead of the fractional shares of Phillips common stock they would
+otherwise be entitled to upon surrender of all of their Tosco common stock
+certificates. Following completion of the merger, the exchange agent will
+determine the excess of the number of whole shares of Phillips common stock
+delivered to the exchange agent by Phillips for distribution to Tosco
+stockholders over the aggregate number of whole shares of Phillips common stock
+to be distributed to Tosco stockholders. The exchange agent will then, on
+behalf of the former Tosco stockholders, sell the excess shares of Phillips
+common stock at then-prevailing prices on the New York Stock Exchange, in the
+manner provided in the merger agreement, and make the proceeds available for
+distribution to the former holders of Tosco common stock otherwise entitled to
+fractional shares of Phillips common stock upon surrender of their Tosco stock
+certificates.
 
  Antidilution Adjustments
 
@@ -3948,7 +4007,7 @@ may include selling, holding separate or otherwise disposing of assets, or
 conducting business in a specified manner, in response to the requirements
 imposed by antitrust authorities. However, neither Tosco nor Phillips is
 required for any reason to sell, hold separate or otherwise dispose of assets,
-or to conduct its business in a specified manner, if such action is not
+or to conduct our business in a specified manner, if such action is not
 conditioned on completion of the merger or could reasonably be expected to have
 a material adverse effect on Phillips or Tosco or to substantially impair the
 benefits to Phillips expected, as of February 4, 2001, to be realized from the
@@ -4133,10 +4192,10 @@ completion of the merger if:
     the
 
     terminating party has used its reasonable best efforts to avoid or remove
-    the prohibition and the terminating party's failure, if any, to comply
-    with the reasonable best efforts provisions in the merger agreement has
-    not been the primary cause of the action of the court or other
-    governmental authority;
+    the prohibition and the terminating party's failure, if any, to comply with
+    the reasonable best efforts provisions in the merger agreement has not been
+    the primary cause of the action of the court or other governmental
+    authority;
 
   . a court or another governmental authority has failed to issue an order or
     ruling that is necessary to satisfy the conditions to the merger, and the
@@ -4391,23 +4450,17 @@ against whom the waiver is to be effective.
 
    Phillips presently is authorized to issue 800 million shares of capital
 stock, divided into 500 million shares of Phillips common stock, and 300
-million shares of preferred stock, par value $1.00 per share. As of March 5,
-2001, 306,380,511 shares of Phillips common stock were issued, including
-22,819,441 treasury shares, and 283,561,070 shares of Phillips common stock
-were outstanding (including 27,856,573 shares of Phillips common stock held by
-the Phillips Compensation and Benefits Trust). As of March 5, 2001, a total of
-22,123,993 shares of Phillips common stock were available for delivery in the
-future in respect of awards that have been or are authorized to be made under
-the Company's stock-based compensation plans, which amount includes an
-estimated 5,760,000 shares that would become issuable upon conversion of
-existing Tosco stock options under the merger agreement. As of March 5, 2001,
-no shares of preferred stock of Phillips were issued and no other class of
-capital stock of Phillips was authorized. Also, as of March 5, 2001, the total
-number of shares of Phillips common stock authorized but not issued was
-193,619,489 shares. Following the issuance of approximately 123 million shares
-of Phillips common stock to Tosco stockholders in the merger, Phillips will
-have only approximately 70 million authorized and unissued shares of Phillips
-common stock.
+million shares of preferred stock, par value $1.00 per share. As of         ,
+2001,           shares of Phillips common stock were issued, including
+          treasury shares, and           shares of Phillips common stock were
+outstanding (including           shares of Phillips common stock held by the
+Phillips Compensation and Benefits Trust). As of     , no shares of preferred
+stock of Phillips were issued and no other class of capital stock of Phillips
+was authorized. Also, as of     , the total number of shares of Phillips common
+stock authorized but not issued or reserved for issuance was           shares.
+Following the issuance of approximately 123 million shares of Phillips common
+stock to Tosco stockholders in the merger, approximately           shares of
+Phillips common stock will be issued and outstanding.
 
    The Phillips Board of Directors has approved an amendment to Phillips'
 Restated Certificate of Incorporation to increase the number of authorized
@@ -4425,12 +4478,13 @@ STOCK IS NOT A CONDITION TO THE MERGER.
 stock is not necessary to complete the merger, the Phillips Board of Directors
 believes that an increase is advisable and in the best interests of Phillips
 and Phillips stockholders. Following the merger, Phillips will have only
-approximately 70 million authorized and unissued shares of Phillips common
-stock. The Phillips Board of Directors believes that an increase in authorized
-shares of Phillips common stock to one billion will give Phillips greater
-flexibility in the future by allowing Phillips the latitude to declare stock
-dividends or stock splits and to use its common stock to acquire other assets
-(for example, the merger).
+approximately [  ] million authorized and unissued shares of Phillips common
+stock, of which approximately [   ] million shares are reserved for issuance.
+The Phillips Board of Directors believes that an increase in authorized shares
+of Phillips common stock to one billion will give Phillips greater flexibility
+in the future by allowing Phillips the latitude to declare stock dividends or
+stock splits and to use its common stock to acquire other assets (for example,
+the merger).
 
    All shares of Phillips common stock, including those now authorized and
 those that would be authorized by the proposed amendment to Phillips' Restated
@@ -4438,9 +4492,9 @@ Certificate of Incorporation, are equal in rank and have the same voting,
 dividend and liquidation rights. Holders of Phillips common stock do not have
 preemptive rights.
 
-   THE PHILLIPS BOARD OF DIRECTORS RECOMMENDS THAT PHILLIPS STOCKHOLDERS VOTE
-"FOR" APPROVAL OF THE AMENDMENT TO PHILLIPS' RESTATED CERTIFICATE OF
-INCORPORATION.
+   THE PHILLIPS BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS THAT PHILLIPS
+STOCKHOLDERS VOTE "FOR" APPROVAL OF THE AMENDMENT TO PHILLIPS' RESTATED
+CERTIFICATE OF INCORPORATION.
 
    To effect the increase in authorized shares of Phillips common stock, it is
 proposed that the first paragraph of Article FOURTH of Phillips' Restated
@@ -4468,7 +4522,7 @@ PHILLIPS
 under the symbol "P." It also is listed on the Pacific Exchange and the Toronto
 Stock Exchange. The following table sets forth, for the calendar quarters
 indicated, the high and low reported prices per share of Phillips common stock
-on The New York Stock Exchange Composite Transactions reporting system, and
+on the New York Stock Exchange Composite Transactions reporting system, and
 cash dividends declared per share of Phillips common stock.
 
                                                          STOCK PRICE
@@ -4476,40 +4530,36 @@ cash dividends declared per share of Phillips common stock.
 CALENDAR YEAR                                             HIGH   LOW  DIVIDENDS
 - -------------                                            ------ ----- ---------
 
-First Quarter (through March 5, 2001)................... $59.00 51.70     .34
+First Quarter (through    , 2001).......................
 
-Fourth Quarter.......................................... $68.25 51.50     .34
-Third Quarter...........................................  70.00 46.81     .34
-Second Quarter..........................................  57.69 45.50     .34
-First Quarter...........................................  47.13 35.94     .34
+Fourth Quarter.......................................... $68.25 51.50    .34
+Third Quarter...........................................  70.00 46.81    .34
+Second Quarter..........................................  57.69 45.50    .34
+First Quarter...........................................  47.13 35.94    .34
 
-Fourth Quarter.......................................... $51.88 44.56     .34
-Third Quarter...........................................  57.25 45.81     .34
-Second Quarter..........................................  54.69 46.44     .34
-First Quarter...........................................  48.44 37.69     .34
+Fourth Quarter.......................................... $51.88 44.56    .34
+Third Quarter...........................................  57.25 45.81    .34
+Second Quarter..........................................  54.69 46.44    .34
+First Quarter...........................................  48.44 37.69    .34
 
-Fourth Quarter.......................................... $48.31 40.63     .34
-Third Quarter...........................................  49.50 40.19     .34
-Second Quarter..........................................  52.00 47.13     .34
-First Quarter...........................................  53.25 42.75     .34
+Fourth Quarter.......................................... $48.31 40.63    .34
+Third Quarter...........................................  49.50 40.19    .34
+Second Quarter..........................................  52.00 47.13    .34
+First Quarter...........................................  53.25 42.75    .34
 
-Number of Stockholders of Record at March 5, 2001.......               48,184
+Number of Stockholders of Record at February   , 2001...                 [  ]
 
    On February 2, 2001, the last full trading day before the public
 announcement of the proposed merger, the high and low sale prices per share for
 Phillips common stock as reported on The New York Stock Exchange Composite
-Transactions reporting system were $58.71 and $57.96, respectively. On March 5,
-2001, the last full trading day before the printing of this joint proxy
-statement/prospectus, the high and low sale prices per share for Phillips
-common stock as reported on The New York Stock Exchange Composite Transactions
-reporting system were $55.60 and $54.87, respectively.
+Transactions reporting system were $58.71 and $57.96, respectively.
 
 TOSCO
 
    Tosco common stock is listed on the New York Stock Exchange and traded under
 the symbol "TOS" and also is listed on the Pacific Exchange. The following
 table sets forth, for the calendar quarters indicated, the high and low
-reported prices per share of Tosco common stock on The New York Stock Exchange
+reported prices per share of Tosco common stock on the New York Stock Exchange
 Composite Transactions reporting system, and cash dividends declared per share
 of Tosco common stock.
 
@@ -4518,33 +4568,29 @@ of Tosco common stock.
 CALENDAR YEAR                                             HIGH   LOW  DIVIDENDS
 - -------------                                            ------ ----- ---------
 
-First Quarter (through March 5, 2001)................... $43.24 31.38     --
+First Quarter (through    , 2001).......................
 
-Fourth Quarter.......................................... $34.69 27.25     .08
-Third Quarter...........................................  33.69 25.88     .07
-Second Quarter..........................................  33.81 26.88     .07
-First Quarter...........................................  32.00 24.06     .07
+Fourth Quarter.......................................... $34.69 27.25    .08
+Third Quarter...........................................  33.69 25.88    .07
+Second Quarter..........................................  33.81 26.88    .07
+First Quarter...........................................  32.00 24.06    .07
 
-Fourth Quarter.......................................... $30.38 23.81     .07
-Third Quarter...........................................  29.56 24.38     .07
-Second Quarter..........................................  28.13 22.38     .07
-First Quarter...........................................  27.75 18.81     .06
+Fourth Quarter.......................................... $30.38 23.81    .07
+Third Quarter...........................................  29.56 24.38    .07
+Second Quarter..........................................  28.13 22.38    .07
+First Quarter...........................................  27.75 18.81    .06
 
-Fourth Quarter.......................................... $29.00 19.75     .06
-Third Quarter...........................................  31.06 20.88     .06
-Second Quarter..........................................  36.63 26.38     .06
-First Quarter...........................................  37.88 31.63     .06
+Fourth Quarter.......................................... $29.00 19.75    .06
+Third Quarter...........................................  31.06 20.88    .06
+Second Quarter..........................................  36.63 26.38    .06
+First Quarter...........................................  37.88 31.63    .06
 
-Number of Stockholders of Record at March 5, 2001.......                7,953
+Number of Stockholders of Record at February   , 2001...                 [  ]
 
    On February 2, 2001, the last full trading day before the public
 announcement of the proposed merger, the high and low sale prices per share for
 Tosco common stock as reported on The New York Stock Exchange Composite
-Transactions reporting system were $34.69 and $34.18, respectively. On March 5,
-2001, the last full trading day before the printing of this joint proxy
-statement/prospectus, the high and low sale prices per share for Tosco common
-stock as reported on The New York Stock Exchange Composite Transactions
-reporting system were $42.25 and $41.37, respectively.
+Transactions reporting system were $34.69 and $34.18, respectively.
 
                            INFORMATION ABOUT PHILLIPS
 
@@ -4579,8 +4625,8 @@ business is organized into four business segments:
    Support staffs provide technical, professional and other services to the
 business segments. At December 31, 2000, Phillips employed 12,400 people,
 excluding 3,400 employees who were working under service contracts with CPC.
-The employees working under service contracts with CPC became employees of CPC
-on January 1, 2001.
+The employees working under service contracts with CPC were transferred to CPC
+January 1, 2001.
 
    Phillips' principal executive offices are located at the Phillips Building,
 Bartlesville, Oklahoma 74004 and its telephone number is (918) 661-6600.
@@ -4600,8 +4646,6 @@ indicated under "Where You Can Find More Information."
 
 BENEFICIAL OWNERSHIP OF DIRECTORS AND MANAGEMENT OF PHILLIPS
 
-(AS OF MARCH 5, 2001)
-
                                  AMOUNT AND NATURE
                                          OF
                                 BENEFICIAL OWNERSHIP
@@ -4612,32 +4656,31 @@ CLASS            OWNER          DIRECT(/1/) INDIRECT PERCENT OF CLASS
 - -----     -------------------   ----------- -------- ----------------
 
         DIRECTORS(/2/)
-Common  Norman R. Augustine         24,656      --          *
-Common  David L. Boren              13,264      --          *
-Common  Robert E. Chappell, Jr.     21,393      --          *
-Common  Robert M. Devlin             2,412      --          *
-Common  Lawrence S. Eagleburger     10,869   6,000          *
-Common  Larry D. Horner             21,714      --          *
-Common  J. J. Mulva                608,587      --          *
-Common  Randall L. Tobias           19,521      --          *
-Common  Victoria J. Tschinkel       18,450      --          *
-Common  Kathryn C. Turner           12,097      --          *
+Common  Norman R. Augustine        23,734       --          *
+Common  David L. Boren             12,355       --          *
+Common  Robert E. Chappell, Jr.    20,984       --          *
+Common  Robert M. Devlin            1,347       --          *
+Common  Lawrence S. Eagleburger     9,804    6,000          *
+Common  Larry D. Horner            20,792       --          *
+Common  J. J. Mulva               553,214       --          *
+Common  Randall L. Tobias          18,599       --          *
+Common  Victoria J. Tschinkel      17,448       --          *
+Common  Kathryn C. Turner          11,188       --          *
 
         EXECUTIVE OFFICERS
-Common  E. L. Batchelder            30,563      --          *
-Common  J. A. Carrig               124,879      --          *
-Common  D. W. DeCamp                 1,601      --          *
-Common  E. K. Grigsby               65,007      --          *
-Common  J. E. Lowe                  42,326      --          *
-Common  K.O. Meyers                 35,951      --          *
-Common  J. C. Mihm                 156,876   1,947          *
-Common  B. Z. Parker               171,788      --          *
-Common  R.A. Ridge                  78,593      --          *
-Common  J. B. Whitworth            142,308      --          *
+Common  E. L. Batchelder           39,396       --          *
+Common  J. A. Carrig              119,524       --          *
+Common  D. W. DeCamp                1,330       --          *
+Common  E. K. Grigsby              61,134       --          *
+Common  J. E. Lowe                 37,183       --          *
+Common  K.O. Meyers                35,711       --          *
+Common  J. C. Mihm                149,253    1,947          *
+Common  B. Z. Parker              160,289       --          *
+Common  J. B. Whitworth           125,437       --          *
 
   All directors and executive
-   officers as a group (20 in
-   group)                        1,602,855   7,947          *
+   officers as a group (19 in
+   group)                            [   ]    [   ]        [  ]
 
 - --------
 *  Less than 1%
@@ -4650,77 +4693,71 @@ Common  J. B. Whitworth            142,308      --          *
 
 BENEFICIAL OWNERSHIP OF CERTAIN PHILLIPS STOCKHOLDERS
 
-   As of February 28, 2001, to the knowledge of Phillips, from Statements on
-Schedule 13G provided to Phillips, beneficial owners of more than 5% of any
-class of the outstanding voting securities of Phillips were as follows:
-
-                                                   AMOUNT AND NATURE
-                                                           OF
-                                                  BENEFICIAL OWNERSHIP
-                                                ------------------------
+                                                    AMOUNT AND NATURE
+                                                            OF
+                                                   BENEFICIAL OWNERSHIP
+                                                --------------------------
 TITLE
 OF
-CLASS    NAME AND ADDRESS OF BENEFICIAL OWNER       DIRECT      INDIRECT PERCENT OF CLASS
-- -----    ------------------------------------   --------------- -------- ----------------
+CLASS    NAME AND ADDRESS OF BENEFICIAL OWNER        DIRECT       INDIRECT PERCENT OF CLASS
+- -----    ------------------------------------   ----------------- -------- ----------------
 
-Common  Vanguard Fiduciary Trust Company        35,243,354(/1/)    --         12.43%
-        P.O. Box 2900
+Common  Vanguard Fiduciary Trust Company        [37,098,839](/1/)    --        [13.10]%
+        P. 0. Box 2900
         Valley Forge, Pennsylvania 19482
 
-Common  Capital Research and Management Company 23,263,200(/2/)    --          8.20%
+Common  Capital Research and Management Company [23,263,200](/2/)    --         [8.12]%
         333 South Hope Street
         Los Angeles, California 90071
 
-Common  AXA Financial, Inc.                     23,459,658(/2/)    --          8.27%
+Common  AXA Financial, Inc.                     [23,459,658](/2/)    --         [8.57]%
         767 Fifth Avenue
         New York, NY 10153
 
 - --------
-
-(/1/) As of February 28, 2001, Vanguard as trustee held 35,243,354 shares under
+(/1/) As of February , 2001, Vanguard as trustee held [37,098,839] shares under
       the Phillips thrift plan, long-term stock savings plan and the Phillips
       retirement savings plan with shared voting power. The trustee and these
       plans have disclaimed beneficial ownership of the shares held by Vanguard
       as trustee of these plans. The trustee votes shares held by these plans
       that represent the allocated interests of participants in the manner
       directed by individual participants. Employee participants in these plans
-      are appointed by Phillips as fiduciaries entitled to direct the trustee
-      as to how to vote allocated shares that are not directed in these plans
-      and unallocated shares held by the Phillips long-term stock savings plan.
+      are appointed by Phillips as fiduciaries entitled to direct the trustee as
+      to how to vote allocated shares that are not directed in these plans and
+      unallocated shares held by the Phillips long-term stock savings plan.
       These shares are allocated pro rata among employee participants accepting
       their fiduciary appointment and are voted by the trustee as directed by
       the employee fiduciaries. The trustee votes non-directed shares of
-      Phillips' retirement savings plan at its discretion. The trustee will
-      vote other shares held by these plans at its discretion only if required
-      to do so by the Employee Retirement Income Security Act of 1974.
+      Phillips' retirement savings plan at its discretion. The trustee will vote
+      other shares held by these plans at its discretion only if required to do
+      so by the Employee Retirement Income Security Act of 1974.
 
-      Vanguard is also the trustee and record holder of the 27,856,573 shares
-      in the Phillips Compensation and Benefits Trust, without any voting
-      power. Vanguard has disclaimed beneficial ownership of these shares.
-      Vanguard, as trustee of the Phillips Compensation and Benefits Trust,
-      will vote shares in the Phillips Compensation and Benefits Trust only in
-      accordance with the pro rata directions of eligible domestic employees
-      and the trustees of certain of the Phillips international stock plans.
-      The trust agreements for the plans described in this footnote 1 and for
-      the Phillips Compensation and Benefits Trust each provide that all
-      individual employee voting directions received by the trustee will be
-      held in confidence and not be disclosed to any person, including
-      Phillips.
+      Vanguard is also the trustee and record holder of the [27,880,382] shares
+      in the Phillips Compensation and Benefits Trust, without any voting power.
+      Vanguard has disclaimed beneficial ownership of these shares. Vanguard as
+      trustee of the Phillips Compensation and Benefits Trust will vote shares
+      in the Phillips Compensation and Benefits Trust only in accordance with
+      the pro rata directions of eligible domestic employees and the trustees of
+      certain of the Phillips international stock plans. Trust agreements for
+      the plans described in this footnote 1 and the Phillips Compensation and
+      Benefits Trust each provide that all voting directions of individual
+      employees received by the trustee for each will be held in confidence and
+      not be disclosed to any person, including Phillips.
 
 (/2/) On February 12, 2001, Capital Research and Management Company reported
-      that it exercised sole dispositive power with respect to 23,263,200
+      that it exercised sole dispositive power with respect to [23,263,200]
       shares as of December 31, 2000, in which shares Capital Research has
-      disclaimed beneficial ownership. On February 12, 2001, AXA Financial,
-      Inc. the parent of Alliance Capital Management L.P. that acquired the
+      disclaimed beneficial ownership. On February 12, 2001, AXA Financial, Inc.
+      the parent of Alliance Capital Management L.P. that acquired the
       investment advisory assets of Sanford C. Bernstein & Co., Inc., reported
-      that it exercised sole voting power over 12,725,579 shares, shared voting
-      power over 2,704,789 shares, and sole dispositive power over 23,459,658
-      shares as of December 31, 2000. According to the Schedule 13Gs filed by
-      Capital and AXA with the SEC, these shares equal 9.10% and 9.20% of the
-      outstanding Phillips common stock, respectively. However, when shares
-      held as of February 28, 2001, by the Phillips Compensation and Benefits
-      Trust are included, shares held by Capital Research equal only 8.20% and
-      by AXA, 8.27% of the outstanding Phillips common stock.
+      that it exercised sole voting power over [23,459,658] shares, shared
+      voting power over [12,676,979] shares, and sole dispositive power over
+      [23,459,658] shares as of December 31, 2000. According to the Schedule
+      13Gs filed by Capital and AXA with the SEC, these shares equal [9.20]% and
+      [9.10]% of the outstanding Phillips common stock, respectively. However,
+      when shares held as of February 28, 2001, by the Phillips Compensation and
+      Benefits Trust are included, shares held by Capital Research equal only
+      [8.12]% and by AXA, [8.57]% of the outstanding Phillips common stock.
 
                             INFORMATION ABOUT TOSCO
 
@@ -4762,8 +4799,6 @@ at its address or telephone number indicated under "Where You Can Find More
 Information."
 
 BENEFICIAL OWNERSHIP OF DIRECTORS AND MANAGEMENT OF TOSCO
-
-(AS OF MARCH 5, 2001)
 
                                     AMOUNT AND NATURE
                                            OF
@@ -4813,16 +4848,45 @@ Common  Wanda M. Williams             49,525                   *
       all such shares.
 (/3/) The shares indirectly owned are owned by a family trust of which Mr. de
       Barros is a beneficiary.
-
-(/4/) The shares indirectly owned are owned by entities that Mr. O'Malley is
-      the sole stockholder. Also includes 25,597 shares held by Mr. O'Malley's
-      wife of which he disclaims beneficial ownership.
+(/4/) The shares indirectly owned are owned by entities that Mr. O'Malley is the
+      sole stockholder. Also includes 25,597 shares held by Mr. O'Malley's wife
+      that he disclaims beneficial ownership of.
 
 BENEFICIAL OWNERSHIP OF CERTAIN TOSCO STOCKHOLDERS
 
-   As of March 5, 2001, to the knowledge of Tosco, from Statements on Schedule
-13G provided to Tosco, there were no beneficial owners of more than 5% of any
-class of the outstanding voting securities of Tosco.
+   At February 14, 2001, to the knowledge of Tosco, from Statements on Schedule
+13G provided to Tosco, beneficial owners of more than 5% of any class of the
+outstanding voting securities of Tosco were as follows:
+
+                                                     AMOUNT AND NATURE
+TITLE OF                                                     OF
+CLASS         NAME AND ADDRESS OF BENEFICIAL OWNER  BENEFICIAL OWNERSHIP  PERCENT OF CLASS
+- --------      ------------------------------------ ---------------------- ----------------
+
+Common Stock     Government of Singapore           10,025,039 shares(/1/)       6.51%
+                 Investment Corporation Pte Ltd
+                 250 North Bridge Road
+                 #38-00 Raffles City Tower
+                 Singapore 179101
+
+Common Stock     Putnam Investments, Inc.           8,157,042 shares(/2/)       5.30%
+                 One Post Office Square
+                 Boston, Massachusetts 02109
+
+- --------
+
+(/1/) According to Amendment No. 1 to a Statement on Schedule 13G filed with the
+      SEC in January 2001, the Government of Singapore Investment Corporation
+      Pte Ltd shares power to vote and power to dispose of the 6,808,281
+      securities beneficially owned by it with the Minister for Finance,
+      Singapore, shares power to vote and dispose of the 2,551,338 securities
+      beneficially owned by it with the Monetary Authority of Singapore, and
+      shares power to vote and dispose of the 665,420 securities owned by it
+      with the Board of Commissioners of Currency, Singapore.
+
+(/2/) According to a Statement on Schedule 13G filed with the SEC in February
+      2000, these securities are owned by subsidiaries of Putnam Investments,
+      Inc., which are registered investment advisors.
 
                      DESCRIPTION OF PHILLIPS CAPITAL STOCK
 
@@ -4846,13 +4910,12 @@ PHILLIPS COMMON STOCK
    Phillips is authorized to issue 500 million shares of common stock, par
 value $1.25 per share, and, if the amendment to Phillips' Restated Certificate
 of Incorporation is approved, Phillips will be authorized to issue one billion
-shares of Phillips common stock. As of March 5, 2001, there were 283,561,070
-shares of Phillips common stock outstanding (including 27,856,573 shares of
-Phillips common stock held by the Phillips Compensation and Benefits Trust).
-All of the issued and outstanding shares of Phillips common stock are, and upon
-the issuance of shares of Phillips common stock in connection with the merger
-will be, validly issued, fully paid and nonassessable. Holders of Phillips
-common stock are not entitled to any preemptive rights.
+shares of Phillips common stock. At         , 2001, there were          shares
+of Phillips common stock outstanding. All of the issued and outstanding shares
+of Phillips common stock are, and upon the issuance of shares of Phillips
+common stock in connection with the merger will be, validly issued, fully paid
+and nonassessable. Holders of Phillips common stock are not entitled to any
+preemptive rights.
 
  Dividend Rights
 
@@ -5115,7 +5178,7 @@ corporations from hostile takeovers, and from actions following the takeover,
 by prohibiting some transactions once an acquiror has gained a significant
 holding in the corporation.
 
-                               (Tosco Continued)
+                               Tosco (continued)
 
 ested stockholder, unless the combination or the purchase of shares by the in-
 terested stockholder is approved by the board of directors of the corporation
@@ -5159,7 +5222,7 @@ laws allowing mandatory redemption of the control shares if
  . the acquiring party fails to make certain disclosures within ten days of
    acquiring the control shares, or
 
-                             (Phillips Continued)
+                             Phillips (continued)
 
 Section 203 of the Delaware General Corporation Law prohibits "business combi-
 nations," including mergers, sales and leases of assets, issuances of securi-
@@ -5204,7 +5267,7 @@ not apply if:
  . a majority of the directors in place prior to the transaction are in place
    after the transaction and approve the transaction, or
 
-                               (Tosco Continued)
+                               Tosco (continued)
 
  . the control shares are not accorded full voting rights at the meeting at
    which the issue is considered.
@@ -5250,13 +5313,13 @@ take action to protect the interests of the corporation and its stockholders,
 including adopting or executing a rights plan. Tosco has adopted the Tosco
 rights plan.
 
-                             (Phillips Continued)
+                             Phillips (continued)
 
  . a number of other conditions are met, including a condition requiring the
    payment received by the stockholders to be at least equal to the highest
    price paid by the person for shares prior to the transaction.
 
-                               (Tosco Continued)
+                               Tosco (continued)
 
 Under Nevada law, when evaluating a change in control opportunity, the board
 of directors of a Nevada corporation may consider a number of constituencies,
@@ -5452,34 +5515,32 @@ of all classes having a preference upon the distribution of assets. Phillips'
 Bylaws provide that the directors have the right to declare dividends to the
 full extent permitted by law.
 
-                               (Tosco Continued)
+                               Tosco (continued)
 
   bution, unless such distribution is specifically allowed by the corpora-
   tion's articles of incorporation.
 
-Tosco's Amended and Restated Articles of Incorporation contains no restrictions
-on the declaration or payment of dividends.
+Tosco's Amended and Restated Articles of Incorporation contains no restric-
+tions on the declaration or payment of dividends.
 
-                        RIGHTS OF PREFERRED STOCKHOLDERS
+                       RIGHTS OF PREFERRED STOCKHOLDERS
 
    Neither Phillips nor Tosco has any preferred stock outstanding.
 
-                                APPRAISAL RIGHTS
+                               APPRAISAL RIGHTS
 
                                      Tosco
 
 Nevada law provides stockholders of a Nevada corporation involved in a merger
 the right to demand and receive payment of the fair value of their stock in
-certain mergers. However, unless otherwise provided in the articles of incorpo-
-ration of the corporation (and Tosco's Amended and Restated Articles of Incor-
-poration does not otherwise provide), appraisal rights are not available to
+certain mergers. However, unless otherwise provided in the articles of incor-
+poration of the corporation (and Tosco's Amended and Restated Articles of In-
+corporation does not otherwise provide), appraisal rights are not available to
 holders of shares:
 
  . listed on a national securities exchange,
-
  . included in the national market system by the National Association of Secu-
    rities Dealers, Inc., or
-
  . held of record by at least 2,000 stockholders,
 
 unless holders of stock are required to accept in the merger anything other
@@ -5491,22 +5552,22 @@ than any combination of:
 
    --another entity that, at the effective date of the merger, will be:
 
-    (right arrow) listed on a national securities exchange,
+   --listed on a national securities exchange,
 
-    (right arrow) included in the national market system by the National
-                  Association of Securities Dealers, or
+   --included in the national market system by the National Association of
+     Securities Dealers, or
 
-    (right arrow) held of record by at least 2,000 stockholders.
+   --held of record by at least 2,000 stockholders
 
 Dissenters' appraisal rights are not available to Tosco stockholders with re-
 spect to the merger.
 
-                                    Phillips
+                                   Phillips
 
 Delaware law provides stockholders of a Delaware corporation involved in a
-merger the right to demand and receive payment of the fair value of their stock
-in certain mergers. However, appraisal rights are not available to holders of
-shares:
+merger the right to demand and receive payment of the fair value of their
+stock in certain mergers. However, appraisal rights are not available to hold-
+ers of shares:
 
  . listed on a national securities exchange,
 
@@ -5608,7 +5669,7 @@ those classes.
 
 Phillips only has one class of shares outstanding.
 
-                               (Tosco Continued)
+                               Tosco (continued)
 
 Nevada law also requires, in addition to the affirmative vote otherwise re-
 quired, voting and approval by the separate classes of shares for any amend-
@@ -5688,7 +5749,7 @@ ty) while serving in that capacity against all expenses, liabilities, or loss
 incurred by that individual in connection therewith, provided that indemnifi-
 cation in connection with a
 
-                               (Tosco Continued)
+                               Tosco (continued)
 
  . a majority vote of a quorum of the board of directors consisting of direc-
    tors not parties to such action, or
@@ -5700,7 +5761,7 @@ dividual may have or acquire under any statute, provision of Tosco's Amended
 and Restated Articles of Incorporation or Bylaws, agreement, vote of stock-
 holders or disinterested directors or otherwise.
 
-                             (Phillips Continued)
+                             Phillips (continued)
 
 proceeding brought by that individual will be permitted only if the proceeding
 was authorized by the Phillips Board of Directors.
@@ -5832,10 +5893,7 @@ appraisal in connection with the merger.
 
    The validity of the Phillips common stock to be issued in the merger will
 be passed upon by J. Bryan Whitworth, Esq., Executive Vice President, General
-Counsel and Chief Administrative Officer of Phillips. As of the date of this
-joint proxy statement/prospectus, Mr. Whitworth beneficially owns 142,308
-shares of Phillips common stock and currently unexercisable options to
-purchase 76,025 additional shares of Phillips common stock.
+Counsel and Chief Administrative Officer of Phillips.
 
                                     EXPERTS
 
@@ -5914,12 +5972,7 @@ Registration Statement, including the attached exhibits and schedules, contains
 additional relevant information about Phillips and Tosco and Phillips common
 stock. As allowed by SEC rules, this joint proxy statement/prospectus does not
 contain all the information you can find in the registration statement or the
-exhibits to the registration statement. Summaries contained in this joint proxy
-statement/prospectus of the contents of any agreement or other document
-referred to in this joint proxy statement/prospectus are not necessarily
-complete and we refer you to the complete copy of that agreement or other
-document for its precise legal terms and other information that may be
-important to you.
+exhibits to the registration statement.
 
    The SEC allows Phillips and Tosco to "incorporate by reference" information
 into this joint proxy statement/prospectus. This means that Phillips and Tosco
@@ -5935,24 +5988,24 @@ documents listed below that Phillips and Tosco have previously filed with the
 SEC. They contain important information about Phillips and Tosco and their
 financial condition.
 
-PHILLIPS SEC FILINGS                         PERIOD/FILING DATE
-Annual Report on Form 10-K, as amended       Year ended December 31, 1999
+PHILLIPS SEC FILINGS                          PERIOD/FILING DATE
+Annual Report on Form 10-K, as amended        Year ended December 31, 1999
 
-Quarterly Reports on Form 10-Q               Quarters ended March 31, June 30,
-                                                  and September 30, 2000
+Quarterly Reports on Form 10-Q                Quarters ended March 31, June 30,
+                                                   and September 30, 2000
 
-Current Reports on Form 8-K                  February 21, 2001
-                                             February 5, 2001
-                                             August 10, 2000
-                                             July 14, 2000
-                                             June 1, 2000
-                                             May 18, 2000
-                                             May 11, 2000
-                                             May 8, 2000
-                                             April 18, 2000
-                                             April 13, 2000
-                                             February 15, 2000
-                                             February 10, 2000
+Current Reports on Form 8-K                   February 5, 2001
+                                              November 16, 2000
+                                              August 10, 2000
+                                              July 14, 2000
+                                              June 1, 2000
+                                              May 18, 2000
+                                              May 11, 2000
+                                              May 8, 2000
+                                              April 18, 2000
+                                              April 13, 2000
+                                              February 15, 2000
+                                              February 10, 2000
 
 The description of Phillips common stock
 contained in Phillips' Registration
@@ -5960,24 +6013,24 @@ Statement on Form 8-A and any amendments
 thereto filed for the purpose of updating
 such description
 
-The description of Phillips' preferred
-share purchase rights contained in
-Phillips' Registration Statement on Form 8-
-A, filed December 16, 1999, and any
-amendments thereto filed for the purpose of
-updating such description
+The description of Phillips' preferred share
+purchase rights contained in Phillips'
+Registration Statement on Form 8-A, filed
+December 16, 1999, and any amendments
+thereto filed for the purpose of updating
+such description
 
-TOSCO SEC FILINGS                            PERIOD/FILING DATE
-Annual Report on Form 10-K                   Year ended December 31, 1999
+TOSCO SEC FILINGS                             PERIOD/FILING DATE
+Annual Report on Form 10-K                    Year ended December 31, 1999
 
-Quarterly Reports on Form 10-Q               Quarters ended March 31, June 30,
-                                                  and September 30, 2000
+Quarterly Reports on Form 10-Q                Quarters ended March 31, June 30,
+                                                   and September 30, 2000
 
-Current Reports on Form 8-K                  February 6, 2001
-                                             October 25, 2000
-                                             September 21, 2000
-                                             September 15, 2000
-                                             June 14, 2000
+Current Reports on Form 8-K                   February 6, 2001
+                                              October 25, 2000
+                                              September 21, 2000
+                                              September 15, 2000
+                                              June 14, 2000
 
 The description of Tosco common stock
 contained in Tosco's Registration Statement
@@ -5985,8 +6038,8 @@ on Form 8-A, filed June 29, 1989, and any
 amendments thereto filed for the purpose of
 updating such description
 
-The description of Tosco's rights to
-acquire shares of Tosco series A junior
+The description of Tosco's rights to acquire
+shares of Tosco series A junior
 participating preferred stock contained in
 Tosco's Registration Statement on Form 8-A,
 filed November 24, 1998, and any amendments
@@ -6016,13 +6069,14 @@ in writing (including by e-mail request) or by telephone from the appropriate
 company at the following addresses:
 
                 PHILLIPS                                 TOSCO
+
            Investor Relations                      Investor Relations
        Phillips Petroleum Company                  Tosco Corporation
            Phillips Building                     1700 East Putnam Road
       Bartlesville, Oklahoma 74004          Old Greenwich, Connecticut 06870
              (918) 661-3700                          (203) 698-7508
 
-   IF YOU WOULD LIKE TO REQUEST DOCUMENTS, PLEASE DO SO BY APRIL 4, 2001, TO
+   IF YOU WOULD LIKE TO REQUEST DOCUMENTS, PLEASE DO SO BY     , 2001, TO
 RECEIVE THEM BEFORE THE SPECIAL MEETINGS. If you request any incorporated
 documents from us, we will mail them to you by first class mail, or another
 equally prompt means, within one business day after we receive your request.
@@ -6077,7 +6131,7 @@ forma combined financial statements relates to accounting for turnaround costs.
 purposes only. The financial results may have been different had the companies
 always been combined. Further, the unaudited pro forma combined financial
 statements do not reflect the effect of asset dispositions, if any, that may be
-required by order of regulatory authorities, or anticipated synergies resulting
+required by order of regulatory authorities or anticipated synergies resulting
 from the merger. You should not rely on the pro forma combined financial
 information as being indicative of the historical results that would have been
 achieved had the companies always been combined or the future results that
@@ -6198,7 +6252,7 @@ AVERAGE COMMON SHARES OUTSTANDING
                                                                        PHILLIPS
                                                                          AND
                                                           PRO FORMA     TOSCO
-At September 30, 2000                   PHILLIPS  TOSCO  ADJUSTMENTS   COMBINED
+AT SEPTEMBER 30, 2000                   PHILLIPS  TOSCO  ADJUSTMENTS   COMBINED
 - ---------------------                   --------  -----  -----------   --------
 
 ASSETS
@@ -6249,8 +6303,8 @@ COMPANY-OBLIGATED MANDATORILY
 COMMON STOCKHOLDERS' EQUITY
 Common stock
  Issued...............................
-  Par value...........................      383     134        20 (c)      537
-  Capital in excess of par............    2,147   2,040     4,834 (c)    9,021
+   Par value..........................      383     134        20 (c)      537
+   Capital in excess of par...........    2,147   2,040     4,834 (c)    9,021
  Treasury stock (at cost).............   (1,158)   (779)      779 (c)   (1,158)
  Compensation and Benefits Trust (at
   cost)...............................     (944)     --                   (944)
@@ -6273,29 +6327,30 @@ Retained earnings.....................    5,368   1,060    (1,060)(c)    5,368
      a pro forma basis to reflect three significant transactions consummated in
      2000 as if they had occurred on January 1, 1999.
 
-     .  The disposition of Phillips' GPM business, and the simultaneous
-        acquisition of a 30.3 percent equity interest in DEFS on March 31, 2000.
+        .  The disposition of Phillips' GPM business, and the simultaneous
+           acquisition of a 30.3 percent equity interest in DEFS on March 31,
+           2000.
 
-     .  The disposition of Phillips' chemicals business, and the simultaneous
-        acquisition of a 50 percent equity interest in CPC on July 1, 2000.
+        .  The disposition of Phillips' chemicals business, and the simultaneous
+           acquisition of a 50 percent equity interest in CPC on July 1, 2000.
 
-     .  The acquisition of ARCO's Alaskan businesses, completed in two phases on
-        April 26, and August 1, 2000.
+        .  The acquisition of ARCO's Alaskan businesses, completed in two phases
+           on April 26, and August 1, 2000.
 
      The significant pro forma adjustments that were made to Phillips'
      historical income statements for the DEFS and CPC transactions were:
 
-     .  The removal of Phillips' GPM and its chemicals businesses from
-        consolidation.
+        .  The removal of Phillips' GPM and its chemicals businesses from
+           consolidation.
 
-     .  The inclusion of Phillips' estimated 30.3 percent equity interest
-        earnings from DEFS and its estimated 50 percent equity earnings from
-        CPC, based on pro forma financial results of these two entities prior to
-        their inception.
+        .  The inclusion of Phillips' estimated 30.3 percent equity interest
+           earnings from DEFS and its estimated 50 percent equity earnings from
+           CPC, based on pro forma financial results of these two entities prior
+           to their inception.
 
-     .  The amortization of the basis difference between the book value of
-        Phillips' contributions to DEFS and CPC, and its equity in the two
-        entities.
+        .  The amortization of the basis difference between the book value of
+           Phillips' contributions to DEFS and CPC, and its equity in the two
+           entities.
 
      For additional information on these two transactions, including pro forma
      financial presentations, see Phillips' Current Report on Form 8-K filed on
@@ -6305,16 +6360,16 @@ Retained earnings.....................    5,368   1,060    (1,060)(c)    5,368
      The significant pro forma adjustments that were made to Phillips'
      historical income statements for the ARCO Alaska transaction were:
 
-     .  Estimated income statement impacts resulting from the preliminary
-        purchase price allocation to the Alaskan assets and liabilities--for
-        example, increased depreciation due to the step-up of the property,
-        plant and equipment to fair-market value. These preliminary purchase
-        price allocations continued to be refined during 2000 and into 2001.
+        .  Estimated income statement impacts resulting from the preliminary
+           purchase price allocation to the Alaskan assets and liabilities--for
+           example, increased depreciation due to the step-up of the property,
+           plant and equipment to fair-market value. These preliminary purchase
+           price allocations continued to be refined during 2000 and into 2001.
 
-     .  The conforming of ARCO's accounting policies to Phillips'.
+        .  The conforming of ARCO's accounting policies to Phillips'.
 
-     .  An increase in interest expense due to the debt incurred to partially
-        fund the acquisition.
+        .  An increase in interest expense due to the debt incurred to partially
+           fund the acquisition.
 
      For additional information on this transaction, including pro forma
      financial presentations, see Phillips' Current Report on Form 8-K filed on
@@ -6328,11 +6383,11 @@ Retained earnings.....................    5,368   1,060    (1,060)(c)    5,368
      The significant pro forma adjustments that were made to Tosco's historical
      income statements for this transaction were:
 
-     .  The removal of Tosco's ownership of the Avon refinery from
-        consolidation.
+        .  The removal of Tosco's ownership of the Avon refinery from
+           consolidation.
 
-     .  The reduction of interest expense as a result of reducing long-term debt
-        collateralized by the Avon refinery.
+        .  The reduction of interest expense as a result of reducing long-term
+           debt collateralized by the Avon refinery.
 
      For additional information on this transaction, including pro forma
      financial presentations, see Tosco's Current Report on Form 8-K filed on
@@ -6343,24 +6398,23 @@ Retained earnings.....................    5,368   1,060    (1,060)(c)    5,368
      Number of shares of Phillips common stock expected to be
       issued in the exchange....................................    123.2 million
      Multiplied by Phillips' average stock price two days before
-      and after the
-      announcement date.........................................  x $55.50
+      and after the announcement date............................ x $55.50
                                                                   --------
                                                                   $ 6,838 million
      Estimated fair value of Tosco stock options expected to be
       exchanged for Phillips stock options......................      190 million
      Estimated transaction-related costs........................       15 million
-                                                                  ---------------
+                                                                  --------
      Estimated purchase price...................................   $7,043 million
-                                                                  ===============
+                                                                  ========
 
      For purposes of this pro forma analysis, the above estimated purchase price
      has been allocated based on a preliminary assessment of the fair value of
      the assets and liabilities to be acquired and was based on Tosco's balance
      sheet at September 30, 2000. Based on this pro forma analysis, the
      allocation of the purchase price would result in recording $7,250 million
-     of property, plant and equipment; $1,000 million of identifiable intangible
-     assets; and $2,349 million of goodwill. The pro forma income statement
+     of property, plant and equipment, $1,000 million of identifiable intangible
+     assets, and $2,349 million of goodwill. The pro forma income statement
      adjustments reflect the estimated effects of depreciating and amortizing
      these amounts over their estimated useful lives and the presentation of
      turnaround costs as production and operating expense. Goodwill is estimated
@@ -8103,53 +8157,4 @@ hereby represents and warrants to Tosco as follows:
 
      (j) Environmental Liability. There are no legal, administrative,
   arbitral or other proceedings, claims, actions, causes of action, private
-  environmental investigations or remediation activities or governmental
-  investigations of any nature seeking to impose, or that could reasonably
-  result in the imposition of, on Phillips, any liability or obligation
-  arising under common law or under any local, state or federal environmental
-  statute, regulation or ordinance including CERCLA, pending or threatened
-  against Phillips, which liability or obligation, either individually or in
-  the aggregate, would reasonably be expected to have a Material Adverse
-  Effect on Phillips. To the knowledge of Phillips, there is no reasonable
-  basis for any
-
-                                      A-20
-
-  such proceeding, claim, action or governmental investigation that would
-  impose any liability or obligation that, individually or in the aggregate,
-  would reasonably be expected to have a Material Adverse Effect on Phillips.
-  Phillips is not subject to any agreement, order, judgment, decree, letter
-  or memorandum by or with any court, governmental authority, regulatory
-  agency or third party imposing any liability or obligation with respect to
-  the foregoing that, either individually or in the aggregate, would
-  reasonably be expected to have a Material Adverse Effect on Phillips.
-
-     (k) Employee Benefit Plans; Labor Matters. (i) There does not now exist,
-  and to the knowledge of Phillips, there are no existing circumstances that
-  could reasonably be expected to result in, any Controlled Group Liability
-  to Phillips or any of its Subsidiaries that, individually or in the
-  aggregate, would reasonably be expected to have a Material Adverse Effect
-  on Phillips.
-
-       (ii) Except as would not reasonably be expected, individually or in
-    the aggregate, to have a Material Adverse Effect on Phillips, (A) each
-    of the Phillips Benefit Plans has been operated and administered in all
-    material respects in accordance with applicable law and administrative
-    rules and regulations of any Governmental Entity, including, but not
-    limited to, ERISA and the Code, and (B) there are no pending or
-    threatened claims (other than claims for benefits in the ordinary
-    course), lawsuits or arbitrations which have been asserted or
-    instituted, and, to the knowledge of Phillips, no set of circumstances
-    exists which may reasonably give rise to a claim or lawsuit, against
-    the Phillips Benefit Plans, any fiduciaries thereof with respect to
-    their duties to the Phillips Benefit Plans or the assets of any of the
-    trusts under any of the Phillips Benefit Plans which could reasonably
-    be expected to result in any material liability of Phillips or any of
-    its Subsidiaries to the Pension Benefit Guaranty Corporation, the U.S.
-    Department of the Treasury, the U.S. Department of Labor, any Phillips
-    Benefit Plan, any participant in a Phillips Benefit Plan, or any other
-    party.
-
-       (iii) Except as would not reasonably be expected to have a Material
-    Adverse Effect on Phillips, (x) there is no labor dispute, strike,
-    slowdown or work stoppage agai
+  environmental investigations or remediation activities or gover

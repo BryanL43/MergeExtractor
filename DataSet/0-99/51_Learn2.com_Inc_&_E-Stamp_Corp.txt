@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/1092917/000089161801501669/0000891618-01-501669.txt
+URL: https://www.sec.gov/Archives/edgar/data/1092917/000089161801501491/0000891618-01-501491.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- CU364AgcticTFUcwEBXN2CcO5r1vJ2dIQL41D3qqC/XqX0yEO7edLJt+3WQpVMZO
- 6w1ByXZCWy2O7VnWqHLFlQ==
+ NZBzepau/GyticbAAVfSbKVMXj3mNGIS/JUnS3K3OnJu8GdC6vS6dhrTpV/TWlhv
+ aC6a7EgMzBEyv5OI2D90NQ==
 
-0000891618-01-501669.txt : 20010730
+0000891618-01-501491.txt : 20010702
 
-0000891618-01-501669.hdr.sgml : 20010730
-ACCESSION NUMBER:		0000891618-01-501669
+0000891618-01-501491.hdr.sgml : 20010702
+ACCESSION NUMBER:		0000891618-01-501491
 CONFORMED SUBMISSION TYPE:	S-4/A
-PUBLIC DOCUMENT COUNT:		5
-FILED AS OF DATE:		20010727
+PUBLIC DOCUMENT COUNT:		12
+FILED AS OF DATE:		20010629
 
 FILER:
 
@@ -32,7 +32,7 @@ FILER:
 		FORM TYPE:		S-4/A
 		SEC ACT:		
 		SEC FILE NUMBER:	333-60520
-		FILM NUMBER:		1691202
+		FILM NUMBER:		1672888
 
 	BUSINESS ADDRESS:	
 		STREET 1:		2855 CAMPUS DRIVE
@@ -51,13 +51,14 @@ FILER:
 
 S-4/A
 
-f72197a2s-4a.txt
+f72197a1s-4a.txt
 
-AMENDMENT #2 TO THE FORM S-4
+AMENDMENT #1 TO FORM S-4
 
-     AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON JULY 27, 2001
+     AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON JUNE 29, 2001
 
                                                       REGISTRATION NO. 333-60520
+
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
@@ -65,7 +66,7 @@ AMENDMENT #2 TO THE FORM S-4
                              WASHINGTON, D.C. 20549
                             ------------------------
 
-                                AMENDMENT NO. 2
+                                AMENDMENT NO. 1
 
                                        TO
 
@@ -138,7 +139,7 @@ EFFECTIVE. THIS JOINT PROXY STATEMENT-PROSPECTUS IS NOT AN OFFER TO SELL THESE
 SECURITIES AND IT IS NOT SOLICITING AN OFFER TO BUY THOSE SECURITIES IN ANY
 STATE WHERE THE OFFER OR SALE IS NOT PERMITTED.
 
-                   SUBJECT TO COMPLETION, DATED JULY 27, 2001
+                   SUBJECT TO COMPLETION, DATED JUNE 29, 2001
 
                         JOINT PROXY STATEMENT-PROSPECTUS
 
@@ -164,24 +165,17 @@ from approximately 0.457 to 0.485 of a share of E-Stamp common stock for each
 share of Learn2 common stock. Based on the estimated exchange ratio range and
 the current market prices of E-Stamp and Learn2, the per share dollar value
 Learn2 stockholders will receive as a result of the merger would range from
-approximately $0.064 to $0.068. In connection with the merger, the fair value of
-the acquired assets of Learn2 is estimated to be approximately $33.3 million.
-The total purchase price is estimated to be approximately $12.5 million plus
-estimated assumed liabilities of approximately $6.2 million or a total of $18.7
-million. As a result, the purchase price is expected to be less than the fair
-value of the assets acquired. The deficiency of the assets acquired and
-liabilities assumed in excess of the purchase price is approximately $14.6
-million. This is known as negative goodwill. Learn2 entered into the merger
-agreement even though negative goodwill would be created, primarily due to the
-significant difficulties that Learn2 experienced in attempting to raise capital.
+approximately $0.096 to $0.102. In connection with merger, the fair value of the
+assets to be acquired is approximately $33.3 million, and the fair value of the
+liabilities to be assumed is approximately $6.2 million resulting in negative
+goodwill of approximately $14.6 million.
 
      Learn2 common stock trades on the Nasdaq National Market under the symbol
-"LTWO." On July 26, 2001, the closing price of Learn2 common stock was $0.18 per
+"LTWO." On June 28, 2001, the closing price of Learn2 common stock was $0.19 per
 share. E-Stamp common stock trades on the Nasdaq National Market under the
-symbol "ESTM." On July 26, 2001, the closing price of E-Stamp common stock was
-$0.14 per share. E-Stamp discontinued its operations in May 2001. After the
-merger is completed, E-Stamp intends to apply to change the symbol under which
-its common stock is traded to "LTWO."
+symbol "ESTM." On June 28, 2001, the closing price of E-Stamp common stock was
+$0.21 per share. After the merger is completed, E-Stamp intends to apply to
+change the symbol under which its common stock is traded to "LTWO."
 
      The boards of directors of both E-Stamp and Learn2 have unanimously
 approved the merger and recommend that their respective stockholders vote FOR
@@ -262,7 +256,7 @@ at                         , for the following purposes:
 
           2. To consider and vote upon a proposal to increase the number of
      shares of common stock reserved for issuance under E-Stamp's 1999 Stock
-     Plan by 7,000,000 shares.
+     Plan by 6,500,000 shares.
 
           3. To transact any other business that may properly come before the
      special meeting and any postponements or adjournments of the special
@@ -280,9 +274,9 @@ Plan.
      Any action may be taken on any of the foregoing proposals at the special
 meeting on the date specified above or on any date to which the special meeting
 may be adjourned or postponed. Only holders of record of E-Stamp common stock at
-the close of business on July 31, 2001 are entitled to notice of, and to vote
-at, the special meeting and any adjournments or postponements of the special
-meeting.
+the close of business on             , 2001 are entitled to notice of, and to
+vote at, the special meeting and any adjournments or postponements of the
+special meeting.
 
      Your vote is very important. Whether or not you expect to attend the
 meeting, please complete, date, sign and return promptly the accompanying proxy
@@ -335,13 +329,13 @@ the following proposals:
      THESE ITEMS OF BUSINESS ARE DESCRIBED IN THE ATTACHED JOINT PROXY
 STATEMENT-PROSPECTUS.
 
-     THE ISSUANCE OF SHARES OF LEARN2 COMMON STOCK TO THE HOLDER OF LEARN2'S $10
-MILLION CONVERTIBLE DEBENTURE WILL BE EFFECTIVE ONLY IF THE MERGER IS COMPLETED,
-AND THE MERGER WILL BE COMPLETED ONLY IF THE ISSUANCE OF SHARES TO THE HOLDER OF
-LEARN2'S $10 MILLION CONVERTIBLE DEBENTURE IS ALSO APPROVED. THE REVERSE STOCK
-SPLIT AND THE ELECTION OF DIRECTORS WILL BE EFFECTIVE ONLY IF THE MERGER IS NOT
-COMPLETED, AND IMPLEMENTATION OF THE REVERSE STOCK SPLIT WILL BE IN THE
-DISCRETION OF THE LEARN2 BOARD OF DIRECTORS.
+     The issuance of shares of Learn2 common stock to the holder of Learn2's $10
+million convertible debenture will be effective only if the merger is completed,
+and the merger will be completed only if the issuance of shares to the holder of
+Learn2's $10 million convertible debenture is also approved. The reverse stock
+split and the election of directors will be effective only if the merger is not
+completed, and implementation of the reverse stock split will be in the
+discretion of the Learn2 board of directors.
 
      Your Board of Directors has unanimously approved the merger, the issuance
 of Learn2 common stock, the reverse stock split and the nominees for director.
@@ -366,6 +360,7 @@ the meeting and vote your shares in person.
                                           Chairman of the Board
 
 White Plains, New York
+
             , 2001
 
                                
@@ -379,17 +374,17 @@ SUMMARY OF THE JOINT PROXY STATEMENT-PROSPECTUS.............     1
   The Merger................................................     1
   Background of the Merger..................................     2
   Overview of the Merger Agreement..........................     2
-  Conduct of the Combined Companies Following the Merger....     3
-  Special Meeting of Stockholders of Learn2.................     4
-  Special Meeting of Stockholders of E-Stamp................     4
+  Conduct of Combined Company Following the Merger..........     3
+  Special Meeting of the Stockholders of Learn2.............     3
+  Special Meeting of the Stockholders of E-Stamp............     4
   Required Votes............................................     4
   Reasons for the Merger....................................     4
   Recommendation of the Boards of Directors and Opinions of
      Financial Advisors.....................................     5
   Conflicts of Interests of Learn2 and E-Stamp Executive
-     Officers and Directors in the Merger...................     6
+     Officers and Directors in the Merger...................     5
   Related Agreements........................................     6
-  Material Federal Income Tax Considerations................     8
+  Material Federal Income Tax Considerations................     7
   Accounting Treatment......................................     8
   Completion and Effectiveness of the Merger................     8
 SELECTED HISTORICAL SUMMARY FINANCIAL DATA..................     9
@@ -440,7 +435,7 @@ LEARN2 SPECIAL MEETING OF STOCKHOLDERS......................    30
   Nominees for Director.....................................    36
   Meetings and Committees of the Board of Directors.........    37
   Director Compensation.....................................    38
-  Compliance with the Exchange Act..........................    39
+  Compliance with the Exchange Act..........................    38
   Required Vote.............................................    39
   Recommendation of the Learn2 Board of Directors...........    39
 E-STAMP SPECIAL MEETING OF STOCKHOLDERS.....................    40
@@ -449,7 +444,7 @@ E-STAMP SPECIAL MEETING OF STOCKHOLDERS.....................    40
   Record Date...............................................    40
   Voting by Proxy...........................................    40
   Solicitation of Proxies...................................    40
-  Quorum; Abstentions; Broker Non-Votes.....................    41
+  Quorum, Abstentions; Broker Non-Votes.....................    41
   E-Stamp Proposal No. 1: The Merger and Related
      Transactions...........................................    41
   Required Vote.............................................    41
@@ -464,195 +459,194 @@ THE MERGER..................................................    44
   Learn2's Reasons for the Merger; Board Recommendation.....    49
   Opinion of Learn2 Financial Advisor.......................    51
   E-Stamp's Reasons for the Merger; Board Recommendation....    58
-  Opinion of E-Stamp Financial Advisor......................    60
+  Opinion of E-Stamp Financial Advisor......................    59
   Conflicts of Interests of Learn2 and E-Stamp Officers and
-     Directors in the Merger................................    64
+     Directors in the Merger................................    63
   Material U.S. Federal Income Tax Consequences of the
-     Merger.................................................    65
+     Merger.................................................    64
   Listing on the Nasdaq National Market of E-Stamp Common
-     Stock to be Issued in the Merger.......................    67
+     Stock to be Issued in the Merger.......................    66
   Delisting and Deregistration of Learn2 Common Stock After
-     the Merger.............................................    67
-  Dissenters' Rights........................................    67
-  Accounting Treatment......................................    67
-  Market Price Information..................................    68
-THE MERGER AGREEMENT........................................    69
+     the Merger.............................................    66
+  Dissenters' Rights........................................    66
+  Accounting Treatment......................................    66
+  Market Price Information..................................    67
+THE MERGER AGREEMENT........................................    68
   Certificate of Incorporation and Bylaws of E-Stamp After
-     the Merger.............................................    69
-  Directors and Officers of E-Stamp After the Merger........    69
-  Conversion of Learn2 Capital Stock........................    69
+     the Merger.............................................    68
+  Directors and Officers of E-Stamp After the Merger........    68
+  Conversion of Learn2 Capital Stock........................    68
   Procedure for Exchanging Learn2 Common Stock for E-Stamp
-     Common Stock...........................................    69
-  Learn2 Options............................................    70
-  Representations and Warranties............................    70
+     Common Stock...........................................    68
+  Learn2 Options............................................    69
+  Representations and Warranties............................    69
   Learn2's Conduct of Business Before Completion of the
-     Merger.................................................    72
+     Merger.................................................    71
   E-Stamp's Conduct of Business Before Completion of the
-     Merger.................................................    73
-  Learn2 Non-solicitation...................................    73
-  E-Stamp Non-solicitation..................................    74
-  Registration Statement and Proxy Statement................    75
-  Learn2 Special Meeting of Stockholders....................    75
-  E-Stamp Special Meeting of Stockholders...................    76
-  Directors' and Officers' Indemnification..................    76
-  Employee Benefit Matters..................................    76
-  Other Covenants...........................................    76
+     Merger.................................................    72
+  Learn2 Non-solicitation...................................    72
+  E-Stamp Non-solicitation..................................    73
+  Registration Statement and Proxy Statement................    74
+  Learn2 Special Meeting of Stockholders....................    74
+  E-Stamp Special Meeting of Stockholders...................    75
+  Directors' and Officers' Indemnification..................    75
+  Employee Benefit Matters..................................    75
+  Other Covenants...........................................    75
 
                                         ii
 
                                                               PAGE
                                                               ----
 
-  Conditions to Completion of the Merger....................    77
-  Termination of the Merger Agreement.......................    78
-  Expenses Related to the Merger............................    79
-  Payment of Termination Fee................................    79
-  Extension, Waiver and Amendment of the Merger Agreement...    79
-RELATED AGREEMENTS..........................................    79
-  The Private Placement.....................................    79
-  Letter Agreement..........................................    81
+  Conditions to Completion of the Merger....................    76
+  Termination of the Merger Agreement.......................    77
+  Expenses Related to the Merger............................    78
+  Payment of Termination Fee................................    78
+  Extension, Waiver and Amendment of the Merger Agreement...    78
+RELATED AGREEMENTS..........................................    78
+  The Private Placement.....................................    78
+  Letter Agreement..........................................    80
   Lock-Up Agreements of E-Stamp Directors and Executive
-     Officers Following the Merger..........................    81
-  Voting Agreements.........................................    82
-E-STAMP MANAGEMENT AFTER THE MERGER.........................    83
-  Board of Directors and Executive Officers of E-Stamp......    83
-  Classified Board..........................................    84
-  Committees of the E-Stamp Board of Directors..............    84
+     Officers Following the Merger..........................    80
+  Voting Agreements.........................................    81
+E-STAMP MANAGEMENT AFTER THE MERGER.........................    82
+  Board of Directors and Executive Officers of E-Stamp......    82
+  Committees of the E-Stamp Board of Directors..............    83
 UNAUDITED PRO FORMA COMBINED CONDENSED CONSOLIDATED
-  FINANCIAL INFORMATION.....................................    85
+  FINANCIAL INFORMATION.....................................    84
 LEARN2 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
-  CONDITION AND RESULTS OF OPERATIONS.......................    93
-  Overview..................................................    93
-  History...................................................    93
-  Sources of Revenue and Revenue Recognition Policy.........    94
-  Results of Operations.....................................    95
-  Learning Services.........................................    95
-  Broadcast Messaging Services..............................    96
-  Operating Expenses........................................    96
-  2000 Compared to 1999.....................................    97
-  Learning Services.........................................    98
-  Broadcast Messaging Services..............................    98
-  Operating Expenses........................................    99
-  1999 Compared to 1998.....................................   101
-  Revenues..................................................   101
-  Learning Services.........................................   101
-  Broadcast Messaging Services..............................   101
-  Operating Expenses........................................   102
-  Liquidity And Capital Resources...........................   103
-  Quarterly Results of Operations for 2000 and 1999.........   105
+  CONDITION AND RESULTS OF OPERATIONS.......................    92
+  Overview..................................................    92
+  History...................................................    92
+  Sources of Revenue and Revenue Recognition Policy.........    93
+  Results of Operations.....................................    94
+  Learning Services.........................................    94
+  Broadcast Messaging Services..............................    95
+  Operating Expenses........................................    95
+  2000 Compared to 1999.....................................    96
+  Learning Services.........................................    97
+  Broadcast Messaging Services..............................    97
+  Operating Expenses........................................    98
+  1999 Compared to 1998.....................................   100
+  Revenues..................................................   100
+  Learning Services.........................................   100
+  Broadcast Messaging Services..............................   100
+  Operating Expenses........................................   100
+  Liquidity And Capital Resources...........................   102
+  Quarterly Results of Operations for 2000 and 1999.........   103
 E-STAMP MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
-  CONDITION AND RESULTS OF OPERATIONS.......................   106
-  Overview..................................................   106
-  Results of Operations.....................................   106
-  Quarterly Results of Operations for 2000 and 1999.........   108
-  Liquidity and Capital Resources...........................   109
-  Recent Accounting Pronouncements..........................   110
-LEARN2 BUSINESS.............................................   111
-  Overview..................................................   111
-  History...................................................   111
-  Marketplace...............................................   112
-  Competitive Strengths.....................................   112
-  Products and Services.....................................   115
-  Business Strategy and Strategic Direction.................   116
-  Suppliers.................................................   116
+  CONDITION AND RESULTS OF OPERATIONS.......................   105
+  Overview..................................................   105
+  Results of Operations.....................................   105
+  Quarterly Results of Operations for 2000 and 1999.........   107
+  Liquidity and Capital Resources...........................   108
+  Recent Accounting Pronouncements..........................   109
+LEARN2 BUSINESS.............................................   110
+  Overview..................................................   110
+  History...................................................   110
+  Marketplace...............................................   111
+  Competitive Strengths.....................................   111
+  Products and Services.....................................   114
+  Business Strategy and Strategic Direction.................   115
+  Suppliers.................................................   115
+  Customers.................................................   116
 
                                        iii
 
                                                               PAGE
                                                               ----
 
-  Customers.................................................   117
-  Competition...............................................   117
-  Intellectual Property and Licenses........................   118
-  Employees.................................................   119
-  Properties................................................   119
-  Legal Proceedings.........................................   119
-E-STAMP BUSINESS............................................   120
-  History...................................................   120
-  Products and Services.....................................   121
-  Professional Services.....................................   121
-  Support and Software Upgrades.............................   121
-  Product Development.......................................   121
-  Competition...............................................   121
-  Sales and Marketing.......................................   121
-  Customers.................................................   122
-  Intellectual Property.....................................   122
-  Employees.................................................   122
-  Properties................................................   122
-  Legal Proceedings.........................................   122
-LEARN2 MANAGEMENT...........................................   124
-  Executive Officers and Directors..........................   124
-  Meetings and Committees of the Board of Directors.........   124
+  Competition...............................................   116
+  Intellectual Property and Licenses........................   117
+  Employees.................................................   118
+  Properties................................................   118
+  Legal Proceedings.........................................   118
+E-STAMP BUSINESS............................................   119
+  History...................................................   119
+  Products and Services.....................................   120
+  Professional Services.....................................   120
+  Support and Software Upgrades.............................   120
+  Product Development.......................................   120
+  Competition...............................................   120
+  Sales and Marketing.......................................   120
+  Customers.................................................   121
+  Intellectual Property.....................................   121
+  Employees.................................................   121
+  Properties................................................   121
+  Legal Proceedings.........................................   121
+LEARN2 MANAGEMENT...........................................   123
+  Executive Officers and Directors..........................   123
+  Meetings and Committees of the Board of Directors.........   123
   Employment Contracts and Termination and Change-in-Control
-     Arrangements...........................................   124
-  Executive Compensation....................................   125
-  Option Grants in Last Fiscal Year.........................   125
+     Arrangements...........................................   123
+  Executive Compensation....................................   124
+  Option Grants in Last Fiscal Year.........................   124
   Aggregate Option Exercises in Last Fiscal Year and Fiscal
-     Year-End Option Values.................................   126
+     Year-End Option Values.................................   125
 LEARN2 SECURITY OWNERSHIP OF MANAGEMENT AND PRINCIPAL
-  STOCKHOLDERS..............................................   127
-LEARN2 RELATED PARTY TRANSACTIONS...........................   128
-TRANSACTIONS WITH RGC INTERNATIONAL INVESTORS, LDC..........   129
+  STOCKHOLDERS..............................................   126
+LEARN2 RELATED PARTY TRANSACTIONS...........................   127
+TRANSACTIONS WITH RGC INTERNATIONAL INVESTORS, LDC..........   128
 LEARN2 REPORT OF THE AUDIT COMMITTEE OF THE BOARD OF
-  DIRECTORS.................................................   130
-FEES BILLED FOR SERVICES RENDERED BY PRINCIPAL ACCOUNTANT...   131
+  DIRECTORS.................................................   129
+FEES BILLED FOR SERVICES RENDERED BY PRINCIPAL ACCOUNTANT...   130
 LEARN2 REPORT OF THE COMPENSATION COMMITTEE OF THE BOARD OF
-  DIRECTORS.................................................   131
-  Compensation Philosophy and Review........................   131
-  Compensation of the Chief Executive Officer...............   131
-  Deductibility of Executive Compensation...................   132
-  Learn2 Performance Graph..................................   133
-E-STAMP MANAGEMENT..........................................   134
-  Executive Officers and Directors..........................   134
-  Classified Board..........................................   136
-  Board Committees..........................................   136
-  Director Compensation.....................................   136
-  Executive Compensation....................................   137
-  Option Grants in Last Fiscal Year.........................   138
+  DIRECTORS.................................................   130
+  Compensation Philosophy and Review........................   130
+  Compensation of the Chief Executive Officer...............   130
+  Deductibility of Executive Compensation...................   131
+  Learn2 Performance Graph..................................   132
+E-STAMP MANAGEMENT..........................................   133
+  Executive Officers and Directors..........................   133
+  Classified Board..........................................   135
+  Board Committees..........................................   135
+  Director Compensation.....................................   135
+  Executive Compensation....................................   136
+  Option Grants in Last Fiscal Year.........................   137
   Aggregate Option Exercises in Last Fiscal Year and Fiscal
-     Year-End Option Values.................................   139
+     Year-End Option Values.................................   138
 E-STAMP SECURITY OWNERSHIP OF MANAGEMENT AND PRINCIPAL
-  STOCKHOLDERS..............................................   140
-E-STAMP RELATED PARTY TRANSACTIONS..........................   142
+  STOCKHOLDERS..............................................   139
+E-STAMP RELATED PARTY TRANSACTIONS..........................   141
   Compensation Committee Interlocks and Insider
-     Participation..........................................   143
+     Participation..........................................   141
+E-STAMP DESCRIPTION OF CAPITAL STOCK........................   142
+  Authorized Capital Stock..................................   142
 
                                         iv
 
                                                               PAGE
                                                               ----
 
-E-STAMP DESCRIPTION OF CAPITAL STOCK........................   144
-  Authorized Capital Stock..................................   144
-  E-Stamp Common Stock......................................   144
-  E-Stamp Preferred Stock...................................   144
-  Warrants..................................................   145
-  Registration Rights.......................................   145
+  E-Stamp Common Stock......................................   142
+  E-Stamp Preferred Stock...................................   142
+  Warrants..................................................   143
+  Registration Rights.......................................   143
   Delaware Anti-Takeover Law and Charter and Bylaw
-     Provisions.............................................   146
-  Nasdaq National Market Listing............................   147
+     Provisions.............................................   144
+  Nasdaq National Market Listing............................   145
 COMPARISON OF RIGHTS OF HOLDERS OF LEARN2 COMMON STOCK AND
-  E-STAMP COMMON STOCK......................................   148
-  Charter, Bylaws and Governing Law.........................   148
-  Capitalization............................................   148
-  Board of Directors........................................   149
-  Removal of Directors......................................   149
-  Stockholder Action by Written Consent.....................   149
-  Stockholder Ability to Call Special Meetings..............   149
+  E-STAMP COMMON STOCK......................................   146
+  Charter, Bylaws and Governing Law.........................   146
+  Capitalization............................................   146
+  Board of Directors........................................   147
+  Removal of Directors......................................   147
+  Stockholder Action by Written Consent.....................   147
+  Stockholder Ability to Call Special Meetings..............   147
   Advance Notice Provisions for Stockholder Nominations and
-     Proposals..............................................   149
-  Stockholder Proxies.......................................   150
-  Cumulative Voting.........................................   150
-  Notice of Stockholder Meetings............................   150
-  Amendment of Bylaws.......................................   151
-  Indemnification of Directors and Officers.................   151
-  Arrangements Binding on Stockholders......................   151
-EXPERTS.....................................................   151
-STOCKHOLDER PROPOSALS.......................................   152
-WHERE YOU CAN FIND MORE INFORMATION.........................   152
-LEGAL MATTERS...............................................   153
+     Proposals..............................................   147
+  Stockholder Proxies.......................................   148
+  Cumulative Voting.........................................   148
+  Notice of Stockholder Meetings............................   148
+  Amendment of Bylaws.......................................   149
+  Indemnification of Directors and Officers.................   149
+  Arrangements Binding on Stockholders......................   149
+EXPERTS.....................................................   149
+STOCKHOLDER PROPOSALS.......................................   150
+WHERE YOU CAN FIND MORE INFORMATION.........................   150
+LEGAL MATTERS...............................................   151
 Learn2.com, Inc. Consolidated Financial Statements..........   F-1
-E-Stamp Corporation Financial Statements....................  F-29
+E-Stamp Corporation Financial Statements....................  F-28
 
 ANNEX I     Agreement and Plan of Merger
 ANNEX II    Redemption and Termination Agreement by and among E-Stamp,
@@ -734,13 +728,13 @@ A: At E-Stamp's annual meeting of stockholders to be held on             , 2001,
 
                                         vi
 
-Q: WILL LEARN2 STOCKHOLDERS HAVE THE RIGHT TO VOTE ON E-STAMP'S PROPOSED REVERSE
-   STOCK SPLIT?
+Q:WILL LEARN2 STOCKHOLDERS HAVE THE RIGHT TO VOTE ON E-STAMP'S PROPOSED REVERSE
+  STOCK SPLIT?
 
-A: No. E-Stamp's proposed reverse stock split will be submitted to E-Stamp
-   stockholders at E-Stamp's annual meeting to be held on             , 2001. If
-   approved by E-Stamp stockholders, no further stockholder approval by E-Stamp
-   or Learn2 stockholders will be required.
+A:No. E-Stamp's proposed reverse stock split will be submitted to E-Stamp
+  stockholders at E-Stamp's annual meeting to be held on             , 2001. If
+  approved by E-Stamp stockholders, no further stockholder approval by E-Stamp
+  or Learn2 stockholders will be required.
 
 Q: WHAT WILL E-STAMP STOCKHOLDERS RECEIVE AS A RESULT OF THE MERGER?
 
@@ -758,7 +752,7 @@ A: The Learn2 stockholders' special meeting will take place on             ,
       E-Stamp;
 
     - approve the issuance of approximately 26.5 million shares of Learn2 common
-      stock to the holder of Learn2's $10 million convertible debenture;
+     stock to the holder of Learn2's $10 million convertible debenture;
 
     - approve an amendment of Learn2's Amended and Restated Certificate of
       Incorporation to effect a reverse stock split whereby Learn2 would issue
@@ -788,7 +782,7 @@ A: The E-Stamp stockholders' special meeting will take place on                ,
       and
 
     - amend E-Stamp's 1999 Stock Plan to increase the number of shares reserved
-      for issuance under the plan by 7,000,000.
+      for issuance under the plan by 6,500,000.
 
 Q: WHAT DO I NEED TO DO NOW?
 
@@ -884,7 +878,7 @@ A: No. All fractional shares of E-Stamp common stock will be rounded to the
 
 Q: WHAT ARE THE TAX CONSEQUENCES TO STOCKHOLDERS OF THE MERGER?
 
-A: The merger is intended to qualify as a tax-free reorganization for federal
+A: The merger is intended to be treated as a tax-free reorganization for federal
    income tax purposes. If the merger qualifies as a reorganization, Learn2
    stockholders generally will not recognize gain or loss on the exchange of
    their stock in the merger. Tax matters, however, are very complicated and the
@@ -960,10 +954,11 @@ A: Learn2 stockholders should call Learn2 investor relations at 914-682-4300
                 SUMMARY OF THE JOINT PROXY STATEMENT-PROSPECTUS
 
      This summary highlights selected information contained elsewhere in this
-joint proxy statement-prospectus regarding the proposals to be voted on and may
-not cover all the information important to you. You should read the more
-detailed information appearing elsewhere in this joint proxy statement-
-prospectus and in the annexes and exhibits hereto.
+joint proxy statement-prospectus. This summary highlights selected information
+regarding the proposals to be voted on and may not cover all the information
+important to you. You should read the more detailed information appearing
+elsewhere in this joint proxy statement-prospectus and in the annexes and
+exhibits hereto.
 
 THE COMPANIES
 
@@ -990,7 +985,7 @@ located at 2051 Stierlin Court, Mountain View, California 94043. Its telephone
 number at that address is 650-919-7500. Its facsimile number at that address is
 650-919-7867.
 
-THE MERGER (SEE PAGE 45)
+THE MERGER (SEE PAGE 44)
 
      Structure of the Merger. At the closing of the merger, Learn2 will be
 merged into E-Stamp and the separate corporate existence of Learn2 will cease.
@@ -1026,19 +1021,12 @@ agreement:
 to hold their existing E-Stamp common stock. E-Stamp stockholders immediately
 prior to the merger will hold approximately 50.1% of the combined company.
 
-     Value of the Assets, Liabilities and Goodwill. In connection with the
-merger, the fair value of the acquired assets of Learn2 is estimated to be
-approximately $33.3 million. The total purchase price is estimated to be
-approximately $12.5 million plus estimated assumed liabilities of approximately
-$6.2 million or a total of $18.7 million. As a result, the purchase price is
-expected to be less than the fair value of the assets acquired. The deficiency
-of the assets acquired and liabilities assumed in excess of the purchase price
-is approximately $14.6 million. This is known as negative goodwill. Learn2
-entered into the merger agreement even though negative goodwill would be
-created, primarily due to the significant difficulties that Learn2 experienced
-in attempting to raise capital.
+     Value of the Assets, Liabilities and Goodwill. The fair value of the assets
+to be acquired is approximately $33.3 million, and the fair value of the
+liabilities to be assumed is approximately $6.2 million resulting in negative
+goodwill of approximately $14.6 million.
 
-BACKGROUND OF THE MERGER (SEE PAGE 45)
+BACKGROUND OF THE MERGER (SEE PAGE 44)
 
      The terms of the proposed merger were determined through arm's-length
 negotiations between Learn2's and E-Stamp's respective board of directors.
@@ -1048,7 +1036,7 @@ the Merger" on pages 44 to 49 of this joint proxy statement-prospectus for a
 discussion of how the consideration to be received by the stockholders of Learn2
 was determined.
 
-OVERVIEW OF THE MERGER AGREEMENT (SEE PAGE 70)
+OVERVIEW OF THE MERGER AGREEMENT (SEE PAGE 68)
 
 CONDUCT PRIOR TO THE MERGER
 
@@ -1061,7 +1049,7 @@ company. These actions include, among other things:
      - increasing the compensation or fringe benefits of any employees;
 
      - establishing, adopting or entering into any employee benefit plan or
-       other similar arrangement;
+      other similar arrangement;
 
      - declaring, setting aside or paying any dividends or other distributions;
 
@@ -1090,10 +1078,7 @@ to the satisfaction or waiver of specified conditions, including:
      - the adoption of the merger agreement by both the Learn2 and E-Stamp
        stockholders;
 
-     - the effectiveness of the registration statement of which this joint proxy
-      statement-prospectus forms a part;
-
-     - no law, regulation or order preventing the completion of the merger may
+     - no law, injunction or order preventing the completion of the merger may
        be in effect;
 
      - our respective representations and warranties in the merger agreement
@@ -1103,23 +1088,18 @@ to the satisfaction or waiver of specified conditions, including:
        business or operations;
 
      - the approval of the issuance of approximately 26.5 million shares of
-       Learn2 common stock to the holder of Learn2's convertible debenture by
-       Learn2 stockholders; and
+      Learn2 common stock to the holder of Learn2's convertible debenture by
+      Learn2 stockholders; and
 
      - E-Stamp must have at least $13 million in net cash at the closing, as
        determined in accordance with the merger agreement.
 
-     The conditions to E-Stamp's and Learn2's obligation to complete the merger
-relating to shareholder approval, the absence of laws, regulations or orders
-preventing the merger, and the effectiveness of the registration statement must
-be satisfied prior to completion of the merger. Each of the other conditions may
-be waived, in whole or in part, to the extent permitted by applicable laws, by
-agreement of E-Stamp and Learn2. In the event a waiver is granted, the boards of
-directors of E-Stamp and Learn2 will evaluate its materiality and determine
-whether amendment of this joint proxy statement-prospectus and resolicitation of
-stockholder approval is warranted. For example, a material change in E-Stamp's
-net cash position after shareholder approval may require amendment and
-resolicitation of the joint proxy statement-prospectus. However, we generally do
+     Each of the conditions to E-Stamp's and Learn2's obligation to complete the
+merger may be waived, in whole or in part, to the extent permitted by applicable
+laws, by agreement of E-Stamp and Learn2. In the event a waiver is granted, the
+boards of directors of E-Stamp and Learn2 will evaluate its materiality and
+determine whether amendment of this joint proxy statement-prospectus and
+resolicitation of stockholder approval is warranted. However, we generally do
 not expect the granting of an individual waiver to be sufficiently material to
 warrant amendment and resolicitation of the joint proxy statement-prospectus.
 If, for example, E-Stamp failed to satisfy the closing condition related to its
@@ -1152,12 +1132,12 @@ required vote of its stockholders or (ii) withdrawing or altering its approval
 or recommendation of the merger agreement, then a termination fee of $500,000
 will be due and payable to the other party.
 
-CONDUCT OF THE COMBINED COMPANIES FOLLOWING THE MERGER (SEE PAGE 121)
+CONDUCT OF THE COMBINED COMPANIES FOLLOWING THE MERGER (SEE PAGE 119)
 
      E-Stamp has discontinued its business. After the merger, E-Stamp intends to
 enter into and conduct the historical business of Learn2.
 
-SPECIAL MEETING OF STOCKHOLDERS OF LEARN2 (SEE PAGE 31)
+SPECIAL MEETING OF STOCKHOLDERS OF LEARN2 (SEE PAGE 30)
 
      Date, Time, and Place. The date, time and place of the Learn2 special
 meeting are as follows:
@@ -1170,7 +1150,7 @@ meeting are as follows:
 the Learn2 record date,             , 2001, are entitled to notice of and to
 vote at the special meeting.
 
-SPECIAL MEETING OF STOCKHOLDERS OF E-STAMP (SEE PAGE 41)
+SPECIAL MEETING OF STOCKHOLDERS OF E-STAMP (SEE PAGE 40)
 
      Date, Time, and Place. The date, time and place of the E-Stamp special
 meeting are as follows:
@@ -1180,10 +1160,10 @@ meeting are as follows:
              , local time
 
      Record Date. Only E-Stamp stockholders of record at the close of business
-on the E-Stamp record date, July 31, 2001, are entitled to notice of and to vote
-at the special meeting.
+on the E-Stamp record date,             , 2001, are entitled to notice of and to
+vote at the special meeting.
 
-REQUIRED VOTES (SEE PAGES 32, 33, 37, 40, 42 AND 44)
+REQUIRED VOTES (SEE PAGES 31, 32, 36, 39, 41 AND 43)
 
      The Merger. Adoption of the merger agreement and approval of the merger
 requires the affirmative vote of holders of:
@@ -1213,21 +1193,21 @@ the special meeting. The five nominees receiving the highest number of
 affirmative votes of shares entitled to be voted for them will be elected as
 directors of Learn2.
 
-REASONS FOR THE MERGER (SEE PAGES 50 AND 59)
+REASONS FOR THE MERGER (SEE PAGES 49 AND 58)
 
-    The boards of directors of E-Stamp and Learn2 believe that the merger will
-    create a combined company which will have the potential of becoming the
-    world's leading provider of engaging e-learning products and services by
-    combining Learn2's business plan with E-Stamp's working capital and
-    management. The boards of directors of E-Stamp and Learn2 also believe that
-    the merger will create a combined company that will have the opportunity to:
+   The boards of directors of E-Stamp and Learn2 believe that the merger will
+   create a combined company which will have the potential of becoming the
+   world's leading provider of engaging e-learning products and services by
+   combining Learn2's business plan with E-Stamp's working capital and
+   management. The boards of directors of E-Stamp and Learn2 also believe that
+   the merger will create a combined company that will have the opportunity to:
 
     - enhance stockholder value for both E-Stamp and Learn2 stockholders;
 
     - increase revenue opportunities for the combined company;
 
     - introduce new tutorials and expand the Learn2 product offerings into new
-      markets;
+     markets;
 
     - eliminate existing Learn2 indebtedness;
 
@@ -1235,29 +1215,28 @@ REASONS FOR THE MERGER (SEE PAGES 50 AND 59)
 
     - attract and retain qualified employees and customers.
 
-    The boards of directors of E-Stamp and Learn2 also considered potential
-    detriments of the merger, including:
+   The boards of directors of E-Stamp and Learn2 also considered potential
+   detriments of the merger, including:
 
     - the dilution to both E-Stamp and Learn2 stockholders to their percentage
-      ownership in the combined company;
+     ownership in the combined company;
 
     - the risk of diverting management resources from other strategic
-      opportunities and operational matters for an extended period of time;
+     opportunities and operational matters for an extended period of time;
 
     - the possibility that the intended benefits of the merger may not be
-      realized;
+     realized;
 
     - the possibility that the merger might not be completed and that under some
-      circumstances a termination fee may need to be paid;
+     circumstances a termination fee may need to be paid;
 
-    - the substantial costs to be incurred in connection with the merger are
-      expected to total approximately $5 million; and
+    - the substantial costs to be incurred in connection with the merger; and
 
     - the other various risks described in the "Risk Factors" section beginning
-      on page 17 of this joint proxy statement-prospectus.
+     on page 17 of this joint proxy statement-prospectus.
 
 RECOMMENDATION OF THE BOARDS OF DIRECTORS AND OPINIONS OF FINANCIAL ADVISORS
-(SEE PAGES 32, 42, 52 AND 61)
+(SEE PAGES 31, 41, 51 AND 59)
 
      To Learn2 stockholders: The board of directors of Learn2 has approved
 unanimously the merger agreement and the merger and believes that the merger is
@@ -1295,16 +1274,15 @@ opinion, the ratio to exchange Learn2 common stock for E-Stamp common stock is
 fair, from a financial point of view, to E-Stamp. The fairness opinion is not a
 recommendation to any stockholder to approve the merger. The full text of this
 opinion is attached as Annex V to this joint proxy statement-prospectus. E-Stamp
-urges its stockholders to read the opinion of Houlihan Lokey in its
-
-entirety. Houlihan Lokey has not received any independent appraisals in
-connection with preparing its fairness opinion, but it has independently
-assessed the valuation of E-Stamp and Learn2. E-Stamp has agreed to pay Houlihan
-Lokey $400,000 plus expenses for rendering its fairness opinion. No portion of
-this fee is contingent upon the completion of the merger.
+urges its stockholders to read the opinion of Houlihan Lokey in its entirety.
+Houlihan Lokey has not received any independent appraisals in connection with
+preparing its fairness opinion, but it has independently assessed the valuation
+of E-Stamp and Learn2. E-Stamp has agreed to pay Houlihan Lokey $400,000 plus
+expenses for rendering its fairness opinion. No portion of this fee is
+contingent upon the completion of the merger.
 
 CONFLICTS OF INTERESTS OF LEARN2 AND E-STAMP EXECUTIVE OFFICERS AND DIRECTORS IN
-THE MERGER (SEE PAGE 65)
+THE MERGER (SEE PAGE 63)
 
      Some of the executive officers and directors of Learn2 and E-Stamp will
 receive benefits if the merger is completed which may result in those persons
@@ -1348,15 +1326,7 @@ Specifically, as a result of or in connection with the merger:
        of the merger;
 
      - E-Stamp will pay Edward F. Malysz a cash bonus of $100,000 upon
-       completion of the merger;
-
-     - E-Stamp intends to enter into a retention agreement with Robert H. Ewald,
-      pursuant to which if E-Stamp terminates Mr. Ewald's employment without
-      cause or as a result of a constructive termination during the two year
-      period after completion of the merger, Mr. Ewald will be entitled to the
-      payment of one year's base salary and continued health coverage, and the
-      forgiveness of Mr. Ewald's loan related to the early exercise of stock
-      options; and
+      completion of the merger; and
 
      - Stock options exercised through the issuance of notes by Messrs. Schupak,
        Cannavino and Ezrin will be repriced from $2.00, $2.00 and a weighted
@@ -1365,19 +1335,18 @@ Specifically, as a result of or in connection with the merger:
        principal amount of $1,194,000, $286,667 and $206,667, respectively, will
        be cancelled and any liens thereunder released.
 
-RELATED AGREEMENTS (SEE PAGE 80 - 83, 130)
+RELATED AGREEMENTS (SEE PAGE 78 - 81, 128)
 
      Voting Agreements. Learn2 executive officers and directors who hold in the
 aggregate approximately 16.7% of the outstanding shares of Learn2 common stock
-have entered into voting agreements with
-
-E-Stamp. E-Stamp executive officers, including some former officers, and
-directors and one of its principal stockholders who hold in the aggregate
-approximately 19.7% of the outstanding shares of E-Stamp common stock have
-entered into voting agreements with Learn2. Under the voting agreements, these
-persons have agreed to vote in favor of approval of the merger and adoption of
-the merger agreement. The foregoing percentages exclude shares of Learn2 and
-E-Stamp common stock issuable to those persons upon exercise of stock options.
+have entered into voting agreements with E-Stamp. E-Stamp executive officers,
+including some former officers, and directors and one of its principal
+stockholders who hold in the aggregate approximately 19.7% of the outstanding
+shares of E-Stamp common stock have entered into voting agreements with Learn2.
+Under the voting agreements, these persons have agreed to vote in favor of
+approval of the merger and adoption of the merger agreement. The foregoing
+percentages exclude shares of Learn2 and E-Stamp common stock issuable to those
+persons upon exercise of stock options.
 
      RGC Redemption and Termination Agreement. In connection with the merger,
 Learn2, E-Stamp and RGC International Investors, LDC entered into an agreement
@@ -1392,17 +1361,22 @@ following the completion of the merger, RGC will own approximately 16.67% of the
 combined company.
 
      Lock-up Agreements. Pursuant to the redemption and termination agreement
-described above, RGC and each of the persons who will serve as either an
-executive officer or director of E-Stamp after the merger has entered into a
-lock-up agreement restricting their ability to dispose of E-Stamp common stock.
-The lock-up agreements generally prohibit any transfers of E-Stamp common stock
-before the merger and for the first six months following the merger, and permit
-sales in only limited circumstances during the following six months. The lock-up
-agreements for executive officers or directors of E-Stamp following the merger
-terminate at such time as such person ceases to be an executive officer or
-director of E-Stamp, except for Messrs. Gott and Schupak whose lock-up
-obligations do not terminate even if they cease to be officers or directors of
-E-Stamp following the merger.
+described above, RGC has entered into, and E-Stamp and Learn2 each intend for
+the persons who will serve as either executive officers or directors of E-Stamp
+after the merger to enter into, lock-up agreements restricting those persons'
+ability to dispose of E-Stamp common stock. The lock-up agreements will
+generally prohibit any transfers of E-Stamp common stock before the merger and
+for the first six months following the merger, and permit sales in only limited
+circumstances during the following six months. RGC's lock-up agreement will be
+effective only if each of the persons who will serve as either executive
+officers or directors of E-Stamp after the merger enter into these lock-up
+agreements. The lock-up agreements for executive officers or directors of
+E-Stamp following the merger will terminate at such time as such person ceases
+to
+
+be an executive officer or director of E-Stamp, except for Messrs. Gott and
+Schupak whose lock-up obligations will not terminate should they cease to be
+officers or directors of E-Stamp following the merger.
 
      The Private Placement. Pursuant to the merger agreement, E-Stamp loaned
 Learn2 $2 million on April 25, 2001 in exchange for Learn2's issuance to E-Stamp
@@ -1415,15 +1389,15 @@ immediately due and payable if:
      - Learn2 breaches its obligations under the note;
 
      - a default occurs with respect to Learn2's $10 million convertible
-       debenture that results in the acceleration of the due date of the $10
-       million convertible debenture;
+      debenture that results in the acceleration of the due date of the $10
+      million convertible debenture;
 
      - Learn2's board withdraws, modifies or changes its recommendation with
-       respect to the merger in a manner adverse to E-Stamp or recommends a
-       different acquisition proposal; or
+      respect to the merger in a manner adverse to E-Stamp or recommends a
+      different acquisition proposal; or
 
      - Learn2 executes an agreement relating to an acquisition proposal with a
-       person other than E-Stamp.
+      person other than E-Stamp.
 
      If E-Stamp terminates the merger agreement as a result of Learn2's breach
 of the merger agreement that results in a material adverse effect on Learn2 and
@@ -1443,7 +1417,7 @@ terminated, whether as a result of failure to obtain stockholder approval or
 otherwise. Upon completion of the merger, the note will be cancelled without
 consideration.
 
-MATERIAL FEDERAL INCOME TAX CONSIDERATIONS (SEE PAGE 66)
+MATERIAL FEDERAL INCOME TAX CONSIDERATIONS (SEE PAGE 64)
 
      The merger is intended to qualify as a reorganization under Section 368(a)
 of the Internal Revenue Code. If the merger so qualifies, generally no gain or
@@ -1455,7 +1429,7 @@ of this joint proxy statement-prospectus. FURTHER, ALL LEARN2 STOCKHOLDERS ARE
 URGED TO CONSULT THEIR OWN TAX ADVISORS AS TO THE TAX CONSEQUENCES OF THE MERGER
 TO THEM.
 
-ACCOUNTING TREATMENT (SEE PAGE 68)
+ACCOUNTING TREATMENT (SEE PAGE 66)
 
      We intend to account for the merger under the purchase method of accounting
 for business combinations. E-Stamp will be treated as the accounting acquirer in
@@ -1565,6 +1539,7 @@ Long-term debt (including current
 Total stockholders' equity............     30,255       32,123     66,514     10,123      2,525     24,652
 
 - -------------------------
+
 (1) Effective January 1, 2000, Learn2 adopted SAB No. 101. Learn2's adoption of
     SAB No. 101 resulted in a change in method of accounting for cooperative
     advertising expenses. In accordance with previously existing accounting
@@ -1770,9 +1745,9 @@ Learn2 Historical and Pro Forma (Equivalent)(3):
     as of March 31, 2001 and December 31, 2000 assuming the merger had occurred
     on January 1, 2000.
 
-(3) The Learn2 equivalent pro forma combined per share amounts are calculated by
-    multiplying the E-Stamp pro forma combined per share amounts by the exchange
-    ratio of 0.478.
+(3)The Learn2 equivalent pro forma combined per share amounts are calculated by
+   multiplying the E-Stamp pro forma combined per share amounts by the exchange
+   ratio of 0.478.
 
 MARKET PRICE INFORMATION
 
@@ -1846,16 +1821,9 @@ closing. In the event that E-Stamp or the combined company fail to meet Nasdaq's
 conditions the exception may be revoked. In addition, the exception is
 
 subject to the further review and modification or reversal by the Nasdaq Listing
-and Hearing Review Council. On July 17, 2001, E-Stamp sent a letter to the
-Nasdaq Listing Qualifications Panel requesting that the Panel extend its listing
-exception for E-Stamp until September 28, 2001 in order to provide sufficient
-time to complete the merger. E-Stamp has not yet been notified by the Panel of
-its response to E-Stamp's request. Granting of the extension requested by
-E-Stamp is in the discretion of The Nasdaq Listing Qualifications Panel, and the
-Panel could refuse E-Stamp's request for an extension, in which case E-Stamp's
-common stock will be delisted from The Nasdaq National Market. If E-Stamp's
-common stock is delisted from The Nasdaq National Market, its liquidity and
-trading price could be impacted negatively.
+and Hearing Review Council. If E-Stamp's common stock is delisted from The
+Nasdaq National Market, its liquidity and trading price could be impacted
+negatively.
 
      At E-Stamp's annual meeting of stockholders to be held on           , 2001,
 E-Stamp intends to submit to its stockholders a proposal to authorize its board
@@ -1903,15 +1871,6 @@ claims of infringement of Pitney Bowes patents and antitrust counterclaims by
 E-Stamp, was resolved without admission of liability. E-Stamp paid $2 million to
 Pitney Bowes in connection with the settlement, and expects to recover insurance
 proceeds of approximately $1.8 million.
-
-     In July 2001, ViaGrafix Corporation, a wholly-owned subsidiary of Learn2,
-entered into a letter of intent to sell Etracks.com, Inc. to its current
-president for a purchase price of $2.5 million. Under the terms of the letter of
-intent, at the closing of the transaction, $1.0 million of the purchase price
-would be paid in cash and $1.5 million would be paid pursuant to the issuance of
-a senior secured promissory note. The letter of intent will expire on November
-16, 2001. If the contemplated transaction is not completed, Etracks.com, Inc.
-will continue to operate its historical business as a subsidiary of ViaGrafix.
 
                                   RISK FACTORS
 
@@ -1988,14 +1947,13 @@ continue listing E-Stamp's common stock on The Nasdaq National Market pursuant
 to an exception that requires the E-Stamp's completion of specified milestones
 by specified dates. These milestones include completion of the merger with
 Learn2 by July 23, 2001 and compliance with all of the Nasdaq National Market
-listing requirements after the closing. On July 17, 2001 E-Stamp sent a letter
-to the Nasdaq Listing Qualifications Panel requesting that the Panel extend its
-listing exception for E-Stamp until September 28, 2001 in order to provide
-sufficient time to complete the merger. E-Stamp has not yet been notified by the
-Panel of its response to E-Stamp's request. Granting of the extension requested
-by E-Stamp is in the discretion of the Nasdaq Listing Qualifications Panel, and
-the panel could refuse E-Stamp's request for an extension in which case
-E-Stamp's common stock will be delisted from The Nasdaq National Market.
+listing requirements after the closing. In the event that the merger is not
+completed by July 23, 2001, E-Stamp's common stock will be delisted from the
+Nasdaq National Market unless E-Stamp is able to obtain an extension or waiver
+of this milestone from the Nasdaq Listing Qualifications Panel. Granting of any
+such extension or waiver would be in the discretion of the Nasdaq Listing
+Qualifications Panel, and the panel could refuse our request for an extension or
+waiver.
 
 E-STAMP'S REVERSE STOCK SPLIT MAY NOT RESULT IN AN INCREASE IN THE PER SHARE
 PRICE OF E-STAMP'S COMMON STOCK; THERE ARE OTHER RISKS ASSOCIATED WITH THE
@@ -2008,14 +1966,14 @@ adversely as a result of the reverse stock split. The history of similar reverse
 stock splits for companies in like circumstances is varied. Among other things:
 
      - The market price per new share of E-Stamp common stock after the reverse
-       stock split may not rise in proportion to the reduction in the number of
-       old shares of E-Stamp common stock outstanding before the reverse stock
-       split; and
+      stock split may not rise in proportion to the reduction in the number of
+      old shares of E-Stamp common stock outstanding before the reverse stock
+      split; and
 
      - The reverse stock split may not result in a per share price that will
-       either exceed or remain in excess of the $1.00 minimum bid price as
-       required by Nasdaq or E-Stamp may not otherwise meet the requirements of
-       Nasdaq for continued inclusion for trading on Nasdaq.
+      either exceed or remain in excess of the $1.00 minimum bid price as
+      required by Nasdaq or E-Stamp may not otherwise meet the requirements of
+      Nasdaq for continued inclusion for trading on Nasdaq.
 
      The market price of E-Stamp's common stock will also be based on E-Stamp's
 performance and other factors, some of which are unrelated to the number of
@@ -2047,30 +2005,23 @@ IF THE CONDITIONS TO THE MERGER ARE NOT MET OR WAIVED, THE MERGER WILL NOT
 OCCUR.
 
      Specified conditions must be satisfied or waived to complete the merger.
-The conditions relating to stockholder appraisal, the absence of laws,
-regulations or orders preventing the merger, and the effectiveness of the
-registration statement must be satisfied prior to completion of the merger and
-may not be waived by E-Stamp or Learn2. E-Stamp and Learn2 cannot assure you
-that each of these conditions will be satisfied. The other conditions relating
-to the accuracy of each company's representations, compliance with covenants,
-the absence of a material adverse effect on either company and E-Stamp's
-
-minimum net cash may be waived by agreement of E-Stamp and Learn2. If the
-conditions to the merger are not satisfied or waived, as applicable, the merger
+These conditions, including a description of those subject to waiver, are
+described in detail in the section entitled "The Merger Agreement -- Conditions
+to Completion of the Merger" on page 76 of this joint proxy statement-
+prospectus. E-Stamp and Learn2 cannot assure you that each of the conditions
+will be satisfied. If the conditions are not satisfied or waived, the merger
 will not occur or will be delayed, and the intended benefits of the merger may
 not occur. In particular, if E-Stamp does not have net cash, as determined in
+
 accordance with the merger agreement, of at least $13 million as of the closing
 of the merger, Learn2 is not required to close.
 
 LEARN2 AND E-STAMP MAY WAIVE ONE OR MORE OF THE CONDITIONS TO THE MERGER WITHOUT
 RESOLICITING STOCKHOLDER APPROVAL FOR THE MERGER.
 
-     The conditions to E-Stamp's and Learn2's obligation to complete the merger
-relating to stockholder approval, the absence of laws, regulations or orders
-preventing the merger, and the effectiveness of the registration statement must
-be satisfied prior to completion of the merger. Each of the other conditions to
-may be waived, in whole or in part, to the extent permitted by applicable laws,
-by agreement of E-Stamp and Learn2. The boards of directors of E-Stamp and
+     Each of the conditions to E-Stamp's and Learn2's obligation to complete the
+merger may be waived, in whole or in part, to the extent permitted by applicable
+laws, by agreement of E-Stamp and Learn2. The boards of directors of E-Stamp and
 Learn2 will evaluate the materiality of any such waiver to determine whether
 amendment of this joint proxy statement-prospectus and resolicitation of proxies
 is warranted. However, we generally do not expect any such waiver to be
@@ -2128,8 +2079,8 @@ provide E-Stamp with a continuing business, and the Learn2 board of directors
 may not be able to secure a similar strategic transaction to provide Learn2 with
 cash for working capital and other purposes.
 
-IF THE MERGER IS NOT COMPLETED, LEARN2 MAY NOT HAVE SUFFICIENT CASH TO CONTINUE
-ITS BUSINESS.
+IF THE MERGER IS NOT COMPLETED, WE MAY NOT HAVE SUFFICIENT CASH TO CONTINUE OUR
+BUSINESS.
 
      If the merger is not completed and an event of default occurs under
 Learn2's $10 million convertible debenture or the $2 million convertible
@@ -2144,16 +2095,12 @@ changes its recommendation with respect to the merger in a manner adverse to
 E-Stamp or upon other events of default described on pages 7 and 79, E-Stamp may
 declare the note immediately due and payable. In addition, under certain
 circumstances, including the delisting of Learn2's common stock from the Nasdaq
-National Market could be an event of default under the debenture. The conversion
-of Learn2's $10 million convertible debenture and the $2 million convertible
-promissory note issued to E-Stamp by Learn2 would result in the issuance of
-approximately 54 million shares of Learn2's common stock. As a result, the
-percentage ownership of stockholders in Learn2 would be significantly reduced.
+National Market could be an event of default under the debenture.
 
 THE MERGER WILL RESULT IN SUBSTANTIAL COSTS WHETHER OR NOT COMPLETED.
 
      The merger will result in significant costs to E-Stamp and Learn2.
-Transaction costs are estimated at approximately $5 million. These costs are
+Transaction costs are estimated at approximately $5.0 million. These costs are
 expected to consist primarily of fees for investment bankers, attorneys,
 accountants, filing fees and financial printers. All of these costs will be
 incurred whether or not the merger is completed. In addition to these costs, if
@@ -2183,14 +2130,14 @@ result of the reverse stock split. The history of similar stock split
 combinations for companies in like circumstances is varied. Among other things:
 
      - The market price per new share of Learn2 common stock after the reverse
-       stock split may not rise in proportion to the reduction in the number of
-       old shares of Learn2 common stock outstanding before the reverse stock
-       split; and
+      stock split may not rise in proportion to the reduction in the number of
+      old shares of Learn2 common stock outstanding before the reverse stock
+      split; and
 
      - The reverse stock split may not result in a per share price that will
-       either exceed or remain in excess of the $1.00 minimum bid price as
-       required by Nasdaq or Learn2 may not otherwise meet the requirements of
-       Nasdaq for continued inclusion for trading on Nasdaq.
+      either exceed or remain in excess of the $1.00 minimum bid price as
+      required by Nasdaq or Learn2 may not otherwise meet the requirements of
+      Nasdaq for continued inclusion for trading on Nasdaq.
 
      The market price of Learn2's common stock will also be based on Learn2's
 performance and other factors, some of which are unrelated to the number of
@@ -2261,7 +2208,6 @@ WE MAY NEED TO RAISE ADDITIONAL FUNDS
 for operating requirements and sufficient resources to realize the combined
 company's business plan for at least the next twelve months to continue
 operations. The completion of the merger is expected to enhance the combined
-
 company's ability to finance its growth as cash flow and capital markets access
 of the combined company may be greater than prior to the merger. To date, both
 E-Stamp and Learn2 continue to use cash and operate at a loss. The combined
@@ -2271,15 +2217,17 @@ the costs of developing, producing and marketing these products, adoption of the
 Internet as a medium of commerce and delivery of services, general economic
 conditions and various other factors, some of which may be beyond our control.
 In addition, we may raise additional funds to develop, acquire and/or market
-products, businesses or technologies. These funds may be raised through joint
-ventures, the sale of assets, the incurrence of debt, or the issuance of
-securities. If additional funds are raised through the issuance of equity or
-convertible securities, the percentage ownership of stockholders in the combined
-company will be reduced. Also, these securities may have rights, preferences or
-privileges senior to the combined company's common stock. However, it is
-possible that additional financing may not be available on terms favorable to
-us, or at all. If adequate funds are not available or are not available on
-acceptable terms, we may not be able to realize our business plan.
+products, businesses
+
+or technologies. These funds may be raised through joint ventures, the sale of
+assets, the incurrence of debt, or the issuance of securities. If additional
+funds are raised through the issuance of equity or convertible securities, the
+percentage ownership of stockholders in the combined company will be reduced.
+Also, these securities may have rights, preferences or privileges senior to the
+combined company's common stock. However, it is possible that additional
+financing may not be available on terms favorable to us, or at all. If adequate
+funds are not available or are not available on acceptable terms, we may not be
+able to realize our business plan.
 
 WE MAY EXPERIENCE SIGNIFICANT FLUCTUATIONS IN REVENUES AND OPERATING RESULTS,
 WHICH COULD CAUSE OUR SHARE PRICE TO BE VOLATILE.
@@ -2426,11 +2374,9 @@ WE DEPEND ON MAJOR RETAILERS TO MARKET OUR PRODUCTS.
 to retailers. This market is subject to the unpredictability of consumer demand.
 We may not plan effectively for this market, which could result in adverse
 operating results in future periods. Our retail customers also carry our
-competitors' products. We pay retailers competitive rates to provide shelf space
-for our products. If we are unable to pay competitive rates, retailers may not
-continue to provide shelf space for our products, which could result in adverse
-operating results. These retail distributors may have limited capital to invest
-in inventory. Their decisions to purchase our products are partly a function of
+competitors' products and they may not continue to provide shelf space for our
+products. These retail distributors may have limited capital to invest in
+inventory. Their decisions to purchase our products are partly a function of
 pricing, terms and special promotions offered by our competitors and other
 factors that we do not control nor can we predict. Our agreements with retailers
 are generally nonexclusive and may be terminated by them or by us without cause.
@@ -2442,17 +2388,6 @@ difficulties and we are unable to move their inventories to other distributors,
 we may experience reduced sales or increased write-offs, which would adversely
 affect our operating results.
 
-AS OF MARCH 31, 2001, A DISTRIBUTOR OF LEARN2'S PRODUCTS OWED APPROXIMATELY 15%
-OF ITS OUTSTANDING ACCOUNTS RECEIVABLE BALANCE. THIS ACCOUNT MIGHT NOT BE
-COLLECTED.
-
-     As of March 31, 2001, a distributor of Learn2's products owed approximately
-15% of its outstanding accounts receivable balance. This receivable relates to a
-software license sale in 2000 for the rights to use Learn2's software. The
-balance of this receivable is due in September 2001. If we are unable to collect
-this accounts receivable, we may have to write-off this balance, which could
-adversely affect our operating results.
-
 OUR PRODUCTS ARE DESIGNED FOR MICROSOFT TECHNOLOGIES.
 
      Our products are designed primarily for Microsoft technologies. We believe
@@ -2460,11 +2395,9 @@ that Microsoft technologies are and will continue to be, widely utilized by our
 customers. However, if these customers do not actually adopt and continue to
 utilize these technologies as anticipated or in the future migrate to other
 computing technologies that we do not support, we may have to spend significant
-capital and other
-
-resources including personnel to adapt our products to these alternative
-technologies. Learn2's streaming technology does not function in a Linux
-environment.
+capital and other resources including personnel to adapt our products to these
+alternative technologies. Learn2's streaming technology does not function in a
+Linux environment.
 
 THE DEVELOPMENT OF LEARN2'S AUTHORING, COMPRESSION, ANIMATION AND STREAMING
 TECHNOLOGIES IS COMPLEX.
@@ -2601,13 +2534,11 @@ partners and generally control access to and distribution of our proprietary
 information, the steps we have taken to protect our proprietary rights may not
 prevent misappropriation. We also attempt to register our trademarks and service
 marks. However, we may not receive approval on all of our trademark
-registrations
-
-or patent applications. Even if they are approved, such trademarks or patents
-may be challenged by others or invalidated. In addition, we do not know whether
-we will be able to defend our proprietary rights because the validity,
-enforceability and scope of protection of proprietary rights in Internet-related
-industries is uncertain and still evolving.
+registrations or patent applications. Even if they are approved, such trademarks
+or patents may be challenged by others or invalidated. In addition, we do not
+know whether we will be able to defend our proprietary rights because the
+validity, enforceability and scope of protection of proprietary rights in
+Internet-related industries is uncertain and still evolving.
 
      Third parties may assert infringement claims against us. From time to time
 in the ordinary course of business we have been and we expect to continue to be,
@@ -2634,17 +2565,18 @@ our technology and products could be limited by any reduction or limitation in
 the use of cookies. Specifically, some of our products use information provided
 by cookies to, among other things, (i) help track the progress of users through
 a tutorial, (ii) remember a user's login/password and (iii) track other session
-information. The reduction or limitation in the use of cookies may result in the
-loss of this session information, which could require the user to either
-re-enter the information and/or increase the response time of a tutorial. This
-could result in delays and a decrease in the effectiveness of our products. In
-this regard, there are a large number of legislative proposals before the United
-States Congress, foreign governments and other international regulatory agencies
-regarding privacy issues and the regulation and use of cookies. It is not
-possible to predict whether or when such legislation may be adopted, and certain
-proposals, if adopted, could adversely affect our business. This could be caused
-by, among other possible provisions, the requirement that permission be obtained
-before we use cookies.
+information. The reduction or limitation in the use of cookies
+
+may result in the loss of this session information, which could require the user
+to either re-enter the information and/or increase the response time of a
+tutorial. This could result in delays and a decrease in the effectiveness of our
+products. In this regard, there are a large number of legislative proposals
+before the United States Congress, foreign governments and other international
+regulatory agencies regarding privacy issues and the regulation and use of
+cookies. It is not possible to predict whether or when such legislation may be
+adopted, and certain proposals, if adopted, could adversely affect our business.
+This could be caused by, among other possible provisions, the requirement that
+permission be obtained before we use cookies.
 
 WE MAY BE EXPOSED TO PRODUCT LIABILITY CLAIMS.
 
@@ -2742,35 +2674,18 @@ management software products. E-Stamp may incur additional liabilities and
 expenses in connection with the discontinuation of its transportation management
 business, including liabilities and expenses arising from the termination of
 existing contracts and other commitments, that could have a material adverse
-effect upon E-Stamp's financial condition and results of operations.
-
-     Costs and expenses directly related to the discontinuance of E-Stamp's
-Digital Shipper business will include charges associated with the write-down of
-fixed assets, rent and other facilities-related expenses, costs associated with
-terminating contractual arrangements, employee termination costs and legal,
-
-accounting and consulting fees. E-Stamp estimates that these costs and expenses
-will range from approximately $4.2 million to $4.4 million for the three months
-ended June 30, 2001 and approximately $1.1 million to $4.2 million for the
-following twelve month period. The estimate of these costs and expenses is a
-forward looking statement that is subject to risks and uncertainties. E-Stamp
-expects that the proceeds derived from the sale of its assets, including its
-intellectual property, will exceed the costs of discontinuing its operations.
-
-     A prior customer of E-Stamp filed a purported consumer class action suit
-against E-Stamp alleging that E-Stamp breached its contracts with the plaintiff
-and other customers. The plaintiff seeks unspecified damages and disgorgement of
-monies received in connection with the sale of E-Stamp's Internet postage
-products. In addition, Francotyp-Postalia, AG & Co. has filed a complaint
-against E-Stamp alleging that E-Stamp breached a letter agreement regarding
-marketing and promotional arrangements. Francotyp-Postalia is seeking the
-rescission of its original purchase in July 1998 of Series B preferred stock of
-E-Stamp for $3,000,000. Pendency of these litigation matters can be expected to
-result in expenses to E-Stamp and the diversion of management time and other
-resources, the extent of which cannot be quantified with any reasonable accuracy
-given the early stage of these litigation matters. If these parties are
-successful in their claims against E-Stamp, E-Stamp may be liable for
-significant damages.
+effect upon E-Stamp's financial condition and results of operations. Costs and
+expenses directly related to the discontinuance of E-Stamp's Digital Shipper
+business will include charges associated with the write-down of fixed assets,
+rent and other facilities-related expenses, costs associated with terminating
+contractual arrangements, employee termination costs and legal, accounting and
+consulting fees. E-Stamp estimates that these costs and expenses will range from
+approximately $4.2 million to $4.4 million for the three months ended June 30,
+2001 and approximately $1.1 million to $4.2 million for the following twelve
+month period. The estimate of these costs and expenses is a forward looking
+statement that is subject to risks and uncertainties. E-Stamp expects that the
+proceeds derived from the sale of its assets, including its intellectual
+property, will exceed the costs of discontinuing its operations.
 
 OTHER EVENTS COULD RESULT IN A DILUTION OF YOUR OWNERSHIP OF OUR COMMON STOCK.
 
@@ -2791,13 +2706,15 @@ Section 21E of the Securities Exchange Act of 1934, as amended. These statements
 relate to expectations concerning matters that are not historical facts. Words
 such as "projects," "believes," "anticipates," "plans," "expects," "intends,"
 and similar words and expressions are intended to identify forward-looking
-statements. Although each of E-Stamp and Learn2 believes that such
-forward-looking statements are reasonable, neither can assure you that such
-expectations will prove to have been correct. Important factors that could cause
-actual results to differ materially from such expectations are disclosed herein
-including, without limitation, in the "Risk Factors" section beginning on page
-17. All forward-looking statements are expressly qualified in their entirety by
-these factors and all related cautionary statements.
+statements. Although each of E-Stamp and
+
+Learn2 believes that such forward-looking statements are reasonable, neither can
+assure you that such expectations will prove to have been correct. Important
+factors that could cause actual results to differ materially from such
+expectations are disclosed herein including, without limitation, in the "Risk
+Factors" section beginning on page 17. All forward-looking statements are
+expressly qualified in their entirety by these factors and all related
+cautionary statements.
 
                                    TRADEMARKS
 
@@ -3473,7 +3390,7 @@ consider and vote upon:
        surviving company and change its name to "Learn2 Corporation"; and
 
      - a proposal to increase the number of shares of E-Stamp common stock
-       reserved for issuance under E-Stamp's 1999 Stock Plan by 7,000,000
+       reserved for issuance under E-Stamp's 1999 Stock Plan by 6,500,000
        shares.
 
      Adoption of the merger agreement will also constitute approval of the
@@ -3483,11 +3400,11 @@ brought properly before the special meeting.
 
 RECORD DATE
 
-     E-Stamp's board of directors has fixed the close of business on July 31,
-2001, as the record date for determination of E-Stamp stockholders entitled to
-notice of and to vote at the special meeting. On the record date, there were
-               shares of E-Stamp common stock outstanding, held by approximately
-               holders of record.
+     E-Stamp's board of directors has fixed the close of business on
+            , 2001, as the record date for determination of E-Stamp stockholders
+entitled to notice of and to vote at the special meeting. On the record date,
+there were                shares of E-Stamp common stock outstanding, held by
+approximately                holders of record.
 
 VOTING BY PROXY
 
@@ -3576,7 +3493,7 @@ E-STAMP PROPOSAL NO. 2: AMENDMENT TO 1999 STOCK PLAN
 
      At the special meeting, the E-Stamp stockholders are being asked to approve
 an amendment of the Company's 1999 Stock Plan (the "1999 Plan") to increase the
-number of shares of common stock reserved for issuance thereunder by 7,000,000
+number of shares of common stock reserved for issuance thereunder by 6,500,000
 shares.
 
      As of May 4, 2001, a total of 4,824,936 shares of common stock have been
@@ -3584,7 +3501,7 @@ reserved for issuance under the 1999 Plan. As of May 4, 2001, 296,170 shares had
 been issued upon the exercise of stock options granted under the 1999 Plan, of
 which 107,420 shares have been repurchased by E-Stamp, 893,979 options were
 outstanding and 3,742,207 shares remained available for future grant. Under the
-amendment, an additional 7,000,000 shares will be authorized and available for
+amendment, an additional 6,500,000 shares will be authorized and available for
 future grants under the 1999 Plan.
 
      The 1999 Plan is structured to allow the board of directors broad
@@ -3828,13 +3745,8 @@ outlining the terms for a possible business combination between E-Stamp and
 Learn2 in which Learn2 would be the surviving corporation. The terms of the
 proposal included the issuance of Learn2 common stock to the holders of E-Stamp
 common stock such that E-Stamp stockholders would receive 50.1% of the
-outstanding stock of Learn2. This proposed exchange ratio was based on arriving
-at a number that would both (1) be acceptable to E-Stamp's board of directors in
-that it would allow E-Stamp stockholders to retain control of the combined
-company after the merger, and (2) be acceptable to Learn2's board of directors
-in that a lower exchange ratio would not have been acceptable given the trading
-price of Learn2's common stock. During that meeting, no agreement was reached
-about an appropriate exchange ratio.
+outstanding stock of Learn2. During that meeting, no agreement was reached about
+an appropriate exchange ratio.
 
      From March 8, 2001 to March 14, 2001, Mr. Ewald and Edward F. Malysz, Vice
 President, General Counsel and Acting Chief Financial Officer of E-Stamp,
@@ -3844,10 +3756,9 @@ Learn2 proposal.
      On March 10, 2001, Mr. Malysz had a conversation with Mr. Schupak, in which
 Mr. Malysz reviewed with Mr. Schupak E-Stamp's concerns regarding a transaction
 in which Learn2 stock would be issued to E-Stamp stockholders and Learn2 would
-be the surviving corporation. These concerns focused on
-
-the liquidity of Learn2 stock. During that conversation, Mr. Schupak again
-raised the possibility of an investment in Learn2 by E-Stamp.
+be the surviving corporation. These concerns focused on the liquidity of Learn2
+stock. During that conversation, Mr. Schupak again raised the possibility of an
+investment in Learn2 by E-Stamp.
 
      On March 13, 2001 Mr. Malysz presented Mr. Schupak with an alternative
 structure in which E-Stamp would acquire Learn2 through the issuance of E-Stamp
@@ -3990,18 +3901,18 @@ financial point of view to E-Stamp stockholders.
 
      On March 29, 2001, there was a special meeting of the board of directors of
 E-Stamp, which included a presentation by Messrs. Gott and Riley, regarding
-Learn2's business, strategy and financial condition.
+Learn2's business, strategy and financial condition. CSFB discussed its
+financial due diligence on Learn2, and responded to various questions raised by
+members of E-Stamp's board of directors regarding its diligence on Learn2. HLHZ
+discussed its analysis of the merger, and responded to various questions raised
+by members of E-Stamp's board of directors regarding its analyses. WSGR
+discussed its legal due diligence on E-Stamp, and responded to various
 
-CSFB discussed its financial due diligence on Learn2, and responded to various
 questions raised by members of E-Stamp's board of directors regarding its
-diligence on Learn2. HLHZ discussed its analysis of the merger, and responded to
-various questions raised by members of E-Stamp's board of directors regarding
-its analyses. WSGR discussed its legal due diligence on E-Stamp, and responded
-to various questions raised by members of E-Stamp's board of directors regarding
-its diligence on Learn2. The board of directors discussed the terms of the
-proposed merger agreement, the convertible promissory note and related documents
-and a representative from WSGR responded to questions regarding such documents
-from the E-Stamp board of directors. After considering the terms of the proposed
+diligence on Learn2. The board of directors discussed the terms of the proposed
+merger agreement, the convertible promissory note and related documents and a
+representative from WSGR responded to questions regarding such documents from
+the E-Stamp board of directors. After considering the terms of the proposed
 transaction, the E-Stamp board of directors determined that further negotiations
 regarding the termination of the outstanding Learn2 debenture and a reduction in
 the amount payable to the debenture holder at closing were appropriate.
@@ -4061,14 +3972,14 @@ questions regarding such documents from the Learn2 board of directors.
 Representatives of MK&Co presented to Learn2's board of directors a summary of
 its financial analyses related to proposed transaction. In addition, MK&Co.
 delivered its opinion that the proposed transaction was fair, from a financial
-point of view, to holders of Learn2's
+point of view, to holders of Learn2's common stock, other than Learn2's
+management, the holder of Learn2's convertible debenture and their affiliates,
+as to which MK & Co. expressed no opinion. Upon completing its deliberations,
+the board of directors of Learn2 unanimously approved the merger agreement and
+the related agreements and
 
-common stock, other than Learn2's management, the holder of Learn2's convertible
-debenture and their affiliates, as to which MK & Co. expressed no opinion. Upon
-completing its deliberations, the board of directors of Learn2 unanimously
-approved the merger agreement and the related agreements and transactions
-contemplated by those agreements, declared them advisable and resolved to
-recommend that Learn2's stockholders adopt the merger agreement.
+transactions contemplated by those agreements, declared them advisable and
+resolved to recommend that Learn2's stockholders adopt the merger agreement.
 
      During the afternoon and evening of April 19, 2001, following approval of
 the merger agreement and related matters by the E-Stamp board of directors and
@@ -4095,9 +4006,9 @@ LEARN2'S REASONS FOR THE MERGER; BOARD RECOMMENDATION
 create a combined company which will have the potential of becoming the world's
 leading provider of engaging e-learning products and services.
 
-     Potential Benefits.  The board of directors of Learn2 believes the
-following are key specific reasons that the merger will be beneficial to Learn2
-and in the best interest of its stockholders:
+     The board of directors of Learn2 believes the following are key specific
+reasons that the merger will be beneficial to Learn2 and in the best interest of
+its stockholders:
 
      Potential for Growth.  The board of directors of Learn2 considered the view
 of its management that the combination of Learn2 and E-Stamp is expected to
@@ -4137,9 +4048,11 @@ combined company's business plan.
 
      Alternatives to the Merger.  The board of directors of Learn2 considered
 alternatives to the proposed merger of Learn2 and E-Stamp, including continuing
-to operate Learn2 as an independent entity, an equity financing and the sale of
-certain assets. For a description of the background of the merger see the
-section entitled "The Merger -- Background of the Merger" on pages 44 to 49.
+to operate Learn2 as an independent entity, an
+
+equity financing and the sale of certain assets. For a description of the
+background of the merger see the section entitled "The Merger -- Background of
+the Merger" on pages 44 to 49.
 
      Conditions, Termination Provision, Termination Fee.  The board of directors
 of Learn2 reviewed the conditions to the completion of the merger and the
@@ -4165,60 +4078,44 @@ all of their shares of common stock of Learn2 who hold in the aggregate
 approximately 16.7% of Learn2's common stock in favor of the adoption of the
 merger agreement. The foregoing percentage excludes shares of Learn2 common
 stock issuable to those persons upon exercise of stock options. In addition, the
-board of directors of Learn2 considered the terms of the lock-up agreements
-entered into by each of the executive officers and directors of Learn2 in
-connection with the merger. The board of directors noted that, under the lock-
-up agreements, executive officers and directors of the combined company will
+board of directors of Learn2 considered the terms of the lock-up agreements to
+be entered into by each of the executive officers and directors of Learn2 in
+connection with the merger. The board of directors noted that, under the lock-up
+agreements, executive officers and directors of the combined company will
 generally be prohibited from transferring shares of the combined company's
 common stock before the merger and for the first six months following the
 merger, and permit sales in only limited circumstances during the following six
 months.
 
-     Potential Adverse Factors and Consequences of the Merger.  The board of
-directors of Learn2 considered several risks associated with the merger of
-Learn2 and E-Stamp that have the potential of creating adverse consequences for
-Learn2, including:
-
-     - the dilution to Learn2 stockholders of their percentage ownership of the
-       combined company;
-
-     - the risk of diverting management resources from other strategic
-       opportunities and operational matters for an extended period of time;
-
-     - the possibility that the intended benefits of the merger may not be
-       realized;
-
-     - the possibility that the merger might not be completed and that under
-       certain circumstances a termination fee may need to be paid;
-
-     - the substantial costs in an amount equal to approximately $1.7 million to
-       be incurred in connection with the merger;
-
-     - the conflicts of interests of certain directors and executive officers of
-       Learn2 in the merger described in "Conflicts of Interests of Learn2 and
-       E-Stamp Officers and Directors in the Merger" section on page   of this
-       joint proxy statement-prospectus.
-
-     - The other various risks described in the "Risk Factors" section beginning
-       on page 17 of this joint proxy statement-prospectus.
+     Potential Adverse Consequences of the Merger.  The board of directors of
+Learn2 considered several risks associated with the merger of Learn2 and E-Stamp
+that have the potential of creating adverse consequences for Learn2. In
+particular, the board of directors of Learn2 considered the risk of diverting
+management resources from other strategic opportunities and operational matters
+for an extended period of time and the possibility that the potential benefits
+of the merger may not be realized. The board of directors of Learn2 also
+considered the possibility that the merger might not be completed and the
+substantial costs in an amount equal to approximately $1.7 million to be
+incurred in connection with the merger. In addition, the board of directors of
+Learn2 considered the risks described in this joint proxy statement-prospectus
+under "Risk Factors" on page 17.
 
      In view of the wide variety of factors considered in connection with its
 evaluation of the merger and the complexity of these matters, the Learn2 board
 did not find it useful to and did not attempt to quantify, rank or otherwise
 assign relative weights to these factors. The Learn2 board of directors relied
-on the
-
-experience and expertise of MK&Co., its financial advisor, for quantitative
-analysis of the financial terms of the merger. For a description of the opinion
-of MK&Co. see the section entitled "Opinion of Learn2 Financial Advisor" on
-pages 51 to 58. In addition, the Learn2 board of directors did not undertake to
-make any specific determination as to whether any particular factor, or any
-aspect of any particular factor, was favorable or unfavorable to the Learn2
-board of director's ultimate determination, but rather the Learn2 board
-conducted an overall analysis of the factors described above, including thorough
-discussions with and questioning of Learn2 management and legal and financial
-advisors. In considering the factors described above, individual members of the
-Learn2 board of directors may have given different weight to different factors.
+on the experience and expertise of MK&Co., its financial advisor, for
+quantitative analysis of the financial terms of the merger. For a description of
+the opinion of MK&Co. see the section entitled "Opinion of Learn2 Financial
+Advisor" on pages 51 to 58. In addition, the Learn2 board of directors did not
+undertake to make any specific determination as to whether any particular
+factor, or any aspect of any particular factor, was favorable or unfavorable to
+the Learn2 board of director's ultimate determination, but rather the Learn2
+board conducted an overall analysis of the factors described above, including
+thorough discussions with and questioning of Learn2 management and legal and
+financial advisors. In considering the factors described above, individual
+members of the Learn2 board of directors may have given different weight to
+different factors.
 
      The Learn2 board considered all these factors as a whole, and overall
 considered the factors to be favorable to and support its determination.
@@ -4274,10 +4171,8 @@ defense will have no effect on the rights and responsibilities of the board of
 directors of Learn2 under applicable law. In particular, the registrant and
 MK&Co. have been advised that, in the opinion of the Securities and Exchange
 Commission, the availability of a state law defense for MK&Co. would have no
-effect on the
-
-rights and responsibilities of either MK&Co. or the board of directors of Learn2
-under the federal securities laws.
+effect on the rights and responsibilities of either MK&Co. or the board of
+directors of Learn2 under the federal securities laws.
 
      In connection with the preparation of its opinion, MK&Co. made such
 reviews, analyses and inquiries as it deemed necessary and appropriate under the
@@ -4345,10 +4240,9 @@ any legal matter.
 
      Learn2 specifically informed MK&Co. that it reviewed and approved its
 assumptions and that it understood that, to the extent that any of the
-assumptions or any of the facts on which MK&Co.'s opinion
-
-was based proves to be untrue in any material respect, MK&Co.'s opinion cannot
-and should not be relied upon.
+assumptions or any of the facts on which MK&Co.'s opinion was based proves to be
+untrue in any material respect, MK&Co.'s opinion cannot and should not be relied
+upon.
 
 Analysis of Historical Performance
 
@@ -4365,13 +4259,15 @@ amortization, interest expense and income, taxes, extraordinary gain and
 restructuring charges or EBITDA posted a low of ($22.8) million in fiscal 1996,
 and registered the least loss, ($6.1) million, in fiscal year 1998. EBITDA for
 fiscal years 1999 and 2000 were ($9.4) million and ($13.3) million,
-respectively; (iii) Learn2's earnings before interest expense and income taxes,
-extraordinary gain and restructuring charges or EBIT posted a low of ($25.5)
-million in fiscal year 1996, and yielded the best financial performance, a loss
-of ($7.9) million, in fiscal year 1998. EBIT for fiscal years 1999 and 2000 were
-($12.7) million and ($19.3) million, respectively. (iv) Learn2 has incurred net
-losses every year since inception. Net losses for fiscal years 1998, 1999, and
-2000 were ($10.6) million, ($41.0) million and ($38.0) million, respectively.
+respectively; (iii) Learn2's
+
+earnings before interest expense and income taxes, extraordinary gain and
+restructuring charges or EBIT posted a low of ($25.5) million in fiscal year
+1996, and yielded the best financial performance, a loss of ($7.9) million, in
+fiscal year 1998. EBIT for fiscal years 1999 and 2000 were ($12.7) million and
+($19.3) million, respectively. (iv) Learn2 has incurred net losses every year
+since inception. Net losses for fiscal years 1998, 1999, and 2000 were ($10.6)
+million, ($41.0) million and ($38.0) million, respectively.
 
      Coincident with the decline of the Nasdaq composite index since the fourth
 calendar quarter of 2000, tolerance is low among investors for companies with a
@@ -4416,10 +4312,9 @@ Instructivision, Inc., CollegeLink.com, Inc., and Whitman Education Group and
 had an adjusted average multiple of approximately 0.46X the revenue of the TTM.
 MK&Co. analyzed, among other things, stock trading data and various financial
 operating ratios. An analysis of the selected companies is not mathematical;
-rather, it involves complex
-
-considerations and judgments concerning differences in financial and operating
-characteristics of the companies available for comparison.
+rather, it involves complex considerations and judgments concerning differences
+in financial and operating characteristics of the companies available for
+comparison.
 
      The following tables illustrate the Market Values and associated public
 market trading multiples, of each of the comparable companies as of April 6,
@@ -4483,15 +4378,15 @@ consummation of the merger in connection with such redemption.
 
      MK&Co. noted that the utility of this analysis was limited. As a result of
 the Company's financial performance, only historical revenues provided a
-reliable positive parameter, from among those customarily
+reliable positive parameter, from among those customarily used, from which to
+derive an equity value comparison. Forward-looking parameters were problematical
+because they would all necessarily assume that immediate and sustainable
+external financing was available
 
-used, from which to derive an equity value comparison. Forward-looking
-parameters were problematical because they would all necessarily assume that
-immediate and sustainable external financing was available on acceptable terms,
-an assumption which had no firm basis in fact. MK&Co. cautioned that conclusions
-premised on excessive reliance on only one of many possible financial parameters
-(e.g., EBITDA, EBIT, net income, tangible book value) could not be regarded with
-a high degree of reliability in any case.
+on acceptable terms, an assumption which had no firm basis in fact. MK&Co.
+cautioned that conclusions premised on excessive reliance on only one of many
+possible financial parameters (e.g., EBITDA, EBIT, net income, tangible book
+value) could not be regarded with a high degree of reliability in any case.
 
 Analysis of Selected Transactions
 
@@ -4649,44 +4544,39 @@ M&A Comparables.............................................       $12,028      
 DCF Analysis................................................       $11,047       c
 Liquidation Value...........................................       $0            d
 
-     IMPLIED MARKET VALUATION OF EQUITY TO EXISTING LEARN2 STOCKHOLDERS;
+     POTENTIAL MARKET VALUATION OF EQUITY TO EXISTING LEARN2 STOCKHOLDERS;
 POST-TRANSACTION:
 
-                           100% OF              50.1% OF             49.9% OF
-                           IMPLIED              IMPLIED               IMPLIED
-                         MARKET VALUE         MARKET VALUE         MARKET VALUE                              RESIDUAL STAKE
-                          OF EQUITY            OF EQUITY             OF EQUITY            33.3% RGC            (EXISTING
-                          (COMBINED             (E-STAMP           (AVAILABLE TO          DILUTION               LEARN2
-                           COMPANY)              STAKE                LEARN2)            (RGC STAKE)         STOCKHOLDERS)
-                         ------------    -    ------------    =    -------------    -    -----------    =    --------------
+                                                        MARKET VALUE     EXISTING LEARN2
+                                                         OF EQUITY      STOCKHOLDER STAKE
+                                                        ------------    -----------------
 
-Post Merger Market
-  Comparables..........    $216,670             $108,552             $108,118              $36,003              $ 72,115     e
-Post Merger DCF
-  Analysis.............    $333,940             $167,304             $166,636              $55,490              $111,146     f
+Post Merger Market Comparables........................    $216,670           $71,358       e
+Post Merger DCF Analysis                                  $333,940          $109,980       f
 
 - -------------------------
-a  Based on market value/TTM revenue multiples of Click2Learn, Caliber Learning,
-   Inc., Gilat Communication, Instructivision, Inc., Cytation Corporation,
-   formerly known as CollegeLink.com, Inc., and Whitman Education Group. See the
-   section entitled "Comparable Company Analysis".
 
-b Based on transaction value/TTM revenue multiples of four selected
-  transactions. See the section entitled "Analysis of Selected Transactions."
+a Based on market value/TTM revenue multiples of Click2Learn, Caliber Learning,
+  Inc., Gilat Communication, Instructivision, Inc., Cytation Corporation,
+  formerly known as CollegeLink.com, Inc., and Whitman Education Group. See the
+  section entitled "Comparable Company Analysis".
 
-c  Assuming Learn2 is able to maintain positive cash balances, as described in
-   the accompanying analysis, discount rate of 67%. See the section entitled
-   "Discounted Cash Flow Analysis."
+bBased on transaction value/TTM revenue multiples of four selected transactions.
+ See the section entitled "Analysis of Selected Transactions."
 
-d See the section entitled "Liquidation Analysis."
+c Assuming Learn2 is able to maintain positive cash balances, as described in
+  the accompanying analysis, discount rate of 67%. See the section entitled
+  "Discounted Cash Flow Analysis."
 
-e  49.9% of implied equity value of combined company based on market value/TTM
-   revenues multiples of Centra Software, Inc., Docent, Inc., Digital Think,
-   Inc., eCollege, Inc., Saba Software, SmartForce, Skillsoft and University of
-   Phoenix, then diluted by 33% to RCG.
+dSee the section entitled "Liquidation Analysis."
 
-f  49.9% of implied equity value of combined company based on discounted cash
-   flow analysis, discount rate of 14%, then diluted by 33% to RGC.
+e 49.9% of implied equity value of combined company based on market value/TTM
+  revenues multiples of Centra Software, Inc., Docent, Inc., Digital Think,
+  Inc., eCollege, Inc., Saba Software, SmartForce, Skillsoft and University of
+  Phoenix, then diluted by 33% to RCG.
+
+f 49.9% of implied equity value of combined company based on discounted cash
+  flow analysis, discount rate of 14%, then diluted by 33% to RGC.
 
 Fairness of the Proposed Transaction Consideration
 
@@ -4696,10 +4586,9 @@ affiliates as to which MK&Co. expresses no opinion from a financial point of
 view, without giving effect to any other benefits that may inure to any
 particular stockholder as a result of the merger other than in its capacity as a
 stockholder, based on a number of factors, including the ones listed below.
-MK&Co. did not assign a particular weight to any one of the
-
-factors described below, although MK&Co. viewed as particularly significant
-Learn2's capital resources and liquidity risk.
+MK&Co. did not assign a particular weight to any one of the factors described
+below, although MK&Co. viewed as particularly significant Learn2's capital
+resources and liquidity risk.
 
           1. Loss of Value in the Event of Insolvency and Liquidation. MK&Co.
      believed that the proposed merger is fair because, among other things,
@@ -4762,91 +4651,48 @@ approve the merger agreement and the terms of the merger. The board also:
 
      In the course of reaching its decision to approve the merger agreement and
 the merger, E-Stamp's board of directors consulted with E-Stamp's senior
-management, as well as its outside legal counsel and its financial advisors.
+management, as well as its outside legal counsel and its financial advisors. The
+E-Stamp board also considered the following material factors:
 
-     Potential Benefits. The E-Stamp board also considered the following
-potential benefits associated with the merger:
+     - historical information concerning Learn2's business, financial
+       performance, operations, management and competitive positions, including
+       public reports filed with the Securities and Exchange Commission;
 
-     Learn2's Historical Information. The board considered historical
-information concerning Learn2's business, financial performance, operations,
-management and competitive positions, including public reports filed with the
-Securities and Exchange Commission with input from its financial advisors. The
-board concluded that Learn2's business has greater positive potential for growth
-and value for E-Stamp stockholders after completion of the merger than E-Stamp's
-prior business.
+     - current financial market conditions and trading information with respect
+       to E-Stamp and Learn2 common stock;
 
-     Current Market Conditions. The board considered the current financial
-market conditions and trading information with respect to E-Stamp and Learn2
-common stock, and considered that the merger offers an opportunity for the
-combined company's stock to outperform E-Stamp's current stock price and enhance
-stockholder value.
+     - terms of the merger agreement, including E-Stamp's ability to consider a
+       superior acquisition proposal and the circumstances under which the
+       E-Stamp board may withdraw its recommendation of the merger;
 
-     Merger Agreement. The board considered the terms of the merger agreement,
-including E-Stamp's ability to consider a superior acquisition proposal and the
-circumstances under which the board may withdraw its recommendation of the
-merger. Specifically the board concluded that the terms of the merger were in
-the best interests of the stockholders because they were negotiated at arms
-length with the advice of outside legal and financial counsel, and if the board
-should receive an unsolicited superior offer the board may accept it.
+     - the expected treatment of the merger as a tax-free reorganization for
+       U.S. federal income tax purposes;
 
-     Tax Treatment. The board concluded that the merger was beneficial for
-stockholders and the company in that it is expected the merger will qualify as a
-tax-free reorganization for U.S. income tax purposes.
+     - alternatives to the merger including the body of transactions considered
+      by the board since June 2000;
 
-     Alternative Transactions. The board considered alternatives to the merger
-including the liquidation of the company. The board concluded after weighing the
-factors described herein that the merger is in the best interests of the
-stockholders of E-Stamp.
+     - the presentation by Houlihan Lokey regarding the financial information,
+       valuation analysis and other factors related to the merger as well as the
+       fairness of the merger to the E-Stamp stockholders; and
 
-     Fairness Opinion. The board considered the presentation by Houlihan Lokey
-regarding the financial information, valuation analysis and other factors
-related to the merger as well as the fairness of the merger to the E-Stamp
-stockholders. The board concluded that Houlihan Lokey's finding that the merger
-is fair to E-Stamp's stockholders supported the board's finding that the merger
-is in E-Stamp's and its stockholders best interests.
+     - the conflicts of interests of certain directors and executive officers of
+       E-Stamp in the merger as described in "Conflicts of Interests of Learn2
+       and E-Stamp Officers and Directors in the Merger" on page 63.
 
-     Negative Factors. The board also considered the following negative factors
-and risks associated with the merger:
+     The board also considered certain negative factors and risks associated
+with the merger including:
 
-     Conflicts of Interests. The board considered the conflicts of interest of
-certain directors and executive officers of E-Stamp in the merger as described
-in "Conflicts of Interests of Learn2 and E-Stamp Officers and Directors in the
-Merger," but concluded these conflicts did not drive the decision to agree to
-the merger.
+     - the dilution to E-Stamp stockholders to their percentage ownership in the
+      combined company;
 
-     Dilution to E-Stamp Stockholders. The board considered the dilution that
-the merger would result in for E-Stamp stockholders to their percentage
-ownership in the combined company, but concluded that the merger still had a
-greater potential for enhancing stockholder value than the alternative of
-liquidation.
+     - the risk of diverting management resources from other strategic
+       opportunities and operational matters for an extended period of time;
 
-     Diversion of Management. The board considered the risk that the merger
-could divert management resources from other strategic opportunities and
-operational matters for an extended period of time, but in light of the board's
-decision to discontinue E-Stamp's business it believed that management could
-effectively operate the company and complete the merger.
+     - the possibility that the merger might not be completed, and the fact that
+       under some circumstances E-Stamp might be required to pay a termination
+       fee to Learn2; and
 
-     Failure to Complete the Merger. The board considered the possibility that
-the merger might not be completed, and the fact that under some circumstances
-E-Stamp might be required to pay a termination fee to Learn2. The board
-addressed this risk by deciding to discontinue its business and thereby conserve
-assets and to recommend a reverse stock split in its annual meeting proxy in an
-attempt to raise the trading price of E-Stamp's common stock and comply with
-Nasdaq's listing requirements should the merger not be completed.
-
-     Costs of the Merger. The board considered that there will be substantial
-costs associated with the merger regardless of whether it is completed. The
-board concluded that there would be similar substantial costs associated with a
-liquidation or any other strategic transaction chosen by the board and so this
-was an unavoidable part of any decision the board might make.
-
-     In analyzing the proposed merger, none of the factors above was viewed by
-the E-Stamp board of directors as determinative, and the board did not quantify
-or ascribe particular weight to any single factor. Rather, the board made its
-determination based upon the total mix of information available to it and
-determined that the aggregate positive factors outweighed the aggregate negative
-factors. Moreover, individual members of the board may have assigned different
-values to different factors.
+     - the substantial costs to be incurred in connection with the merger.
 
      In analyzing the proposed merger, none of the factors above was viewed by
 the E-Stamp board of directors as determinative, and the board did not quantify
@@ -4964,23 +4810,23 @@ Analysis and Valuation of Learn2 Common Stock
      As part of its valuation analysis of the common stock of Learn2, HLHZ
 analyzed the float and trading volume for Learn2's common stock. HLHZ calculated
 the public float as a percent of total shares outstanding. In addition, HLHZ
-calculated the ratio of average daily trading volume (over the most recent 90
-days) to float and total shares outstanding. HLHZ then compared Learn2's ratios
-to the same ratios for publicly traded companies that HLHZ deemed comparable to
-Learn2. These comparable companies included Digital Think, Inc., Docent, Inc.,
-HealthStream, Inc., Plato Learning, Inc., Saba Software, Inc., SkillSoft
-Corporation, and SmartForce Plc. HLHZ noted that Learn2 has a slightly higher
-percentage of public float to shares outstanding relative to the comparable
-companies, and that Learn2's average daily trading volume as a percentage of
-public float was below the mean and median for the comparable companies.
+calculated the ratio of average daily trading volume (over the most recent
+
+90 days) to float and total shares outstanding. HLHZ then compared Learn2's
+ratios to the same ratios for publicly traded companies that HLHZ deemed
+comparable to Learn2. These comparable companies included Digital Think, Inc.,
+Docent, Inc., HealthStream, Inc., Plato Learning, Inc., Saba Software, Inc.,
+SkillSoft Corporation, and SmartForce Plc. HLHZ noted that Learn2 has a slightly
+higher percentage of public float to shares outstanding relative to the
+comparable companies, and that Learn2's average daily trading volume as a
+percentage of public float was below the mean and median for the comparable
+companies.
 
      On April 6, 2001, the last trading day before HLHZ's April 9th presentation
 to the Board of Directors of E-Stamp, Learn2's common stock was trading at $0.23
-per share, 92% below its 52 week high
-
-of $3.03 per share on July 20, 2000. The stock prices of most of the comparable
-companies experienced similar declines in trading prices within the prior 52
-weeks.
+per share, 92% below its 52 week high of $3.03 per share on July 20, 2000. The
+stock prices of most of the comparable companies experienced similar declines in
+trading prices within the prior 52 weeks.
 
      HLHZ analyzed Learn2's potential intermediate-term trading price based on
 its current trading price as well as by comparing it to the comparable public
@@ -5036,22 +4882,22 @@ multiple of revenue and a multiple of gross profit, it was trading below the low
 end of the range of the comparable companies. This analysis indicated that
 Learn2 was potentially undervalued, reflecting, in part, its need for additional
 funding and uncertainty regarding the dilution impact of its convertible debt.
-HLHZ independently valued Learn2, assuming the liquidity issue and uncertainty
-regarding the convertible debt are settled. HLHZ valued Learn2 based on the low
-end of the range of trading multiples of historical and projected revenue and
-gross profit for the comparable companies. HLHZ selected these multiples based
-on a risk analysis of Learn2 compared to the comparable companies. The factors
-that were considered in the risk analysis included historical and projected
-revenue growth and earnings levels, expected cash requirements or cash
-generation, and market liquidity and trading levels. HLHZ's independent
-valuation of Learn2 indicated that Learn2's stock could potentially trade up to
-a company value in the range of $34 million to $42 million, compared to the
-$22.4 million implied by the $0.23 per share trading price. Pro forma for the
-merger, in which current E-Stamp stockholders will own 50.1% of the combined
-company, this implies a
+HLHZ independently valued Learn2,
 
-value per E-Stamp share in the range of $0.44 to $0.55 per share, a premium to
-its recent $0.23 per share price.
+assuming the liquidity issue and uncertainty regarding the convertible debt are
+settled. HLHZ valued Learn2 based on the low end of the range of trading
+multiples of historical and projected revenue and gross profit for the
+comparable companies. HLHZ selected these multiples based on a risk analysis of
+Learn2 compared to the comparable companies. The factors that were considered in
+the risk analysis included historical and projected revenue growth and earnings
+levels, expected cash requirements or cash generation, and market liquidity and
+trading levels. HLHZ's independent valuation of Learn2 indicated that Learn2's
+stock could potentially trade up to a company value in the range of $34 million
+to $42 million, compared to the $22.4 million implied by the $0.23 per share
+trading price. Pro forma for the merger, in which current E-Stamp stockholders
+will own 50.1% of the combined company, this implies a value per E-Stamp share
+in the range of $0.44 to $0.55 per share, a premium to its recent $0.23 per
+share price.
 
 Fairness Analysis
 
@@ -5087,15 +4933,6 @@ E-Stamp's common stock would trade at or above its liquidation value in the
 foreseeable future. Furthermore, it was likely that E-Stamp would be delisted
 from the NASDAQ stock market's national market in a status quo scenario.
 
-     Furthermore, in analyzing the fairness of the merger to the stockholders of
-E-Stamp from a financial point of view, HLHZ considered certain actual,
-potential and perceived conflicts of interest of certain officers and directors
-of both E-Stamp and Learn2. Such considerations included incremental
-compensation to be paid to certain officers and directors upon the completion of
-the merger, terms of continued employment of certain officers and directors
-post-merger, and the terms of stock options granted to certain officers and
-directors.
-
      HLHZ has relied upon and assumed, without independent verification, that
 the financial forecasts and projections provided to them have been reasonably
 prepared and reflect the best currently available estimates of the future
@@ -5118,12 +4955,13 @@ date of their letter.
 expertise in, among other things, valuing businesses and securities and
 rendering fairness opinions. HLHZ is continually engaged in the valuation of
 businesses and securities in connection with mergers and acquisitions, leveraged
-buyouts, private placements of debt and equity, corporate reorganizations,
-employee stock ownership plans, corporate and other purposes. E-Stamp selected
-HLHZ because of its experience and expertise in
+buyouts,
 
-performing valuation and fairness analysis. HLHZ does not beneficially own nor
-has it ever beneficially owned any interest in E-Stamp or Learn2.
+private placements of debt and equity, corporate reorganizations, employee stock
+ownership plans, corporate and other purposes. E-Stamp selected HLHZ because of
+its experience and expertise in performing valuation and fairness analysis. HLHZ
+does not beneficially own nor has it ever beneficially owned any interest in
+E-Stamp or Learn2.
 
      HLHZ and E-Stamp do not currently intend for HLHZ to update or revise its
 fairness opinion prior to completion of the merger. If a material amendment is
@@ -5187,22 +5025,16 @@ merger:
        of the merger;
 
      - E-Stamp will pay Edward F. Malysz a cash bonus of $100,000 upon
-       completion of the merger;
-
-     - E-Stamp intends to enter into a retention agreement with Robert H. Ewald,
-       pursuant to which if E-Stamp terminates Mr. Ewald's employment without
-       cause or as a result of a constructive termination during the two year
-       period after completion of the merger, Mr. Ewald will be entitled to the
-       payment of one year's base salary and continued health coverage, and the
-       forgiveness of Mr. Ewald's loan related to the early exercise of stock
-       options; and
+      completion of the merger; and
 
      - Stock options exercised through the issuance of notes by Messrs. Schupak,
        Cannavino and Ezrin will be repriced from $2.00, $2.00 and a weighted
        average of $2.14, respectively, per share to $0.01, $0.71 and $0.67,
        respectively, per share and the notes issued by such directors in the
-       principal amounts of $1,194,000, $286,667 and $206,667, respectively,
-       will be cancelled and any liens thereunder released.
+       principal
+
+       amounts of $1,194,000, $286,667 and $206,667, respectively, will be
+       cancelled and any liens thereunder released.
 
      Upon the closing of the merger, certain of then outstanding Learn2 stock
 options, by their terms, may become vested. However, the board of directors of
@@ -5283,17 +5115,16 @@ stock as capital assets within the meaning of Section 1221 of the Internal
 Revenue Code.
 
      In the opinion of Wilson Sonsini Goodrich & Rosati, Professional
-Corporation, the merger will qualify as a reorganization within the meaning of
+Corporation, the merger should qualify as a reorganization within the meaning of
 Section 368(a) of the Internal Revenue Code. This opinion is subject to certain
 limitations, qualifications and assumptions and is based on certain facts and
-representations, including factual representations contained in certificates
-executed by officers of E-Stamp and Learn2. The opinion assumes the absence of
-changes in relevant facts or law between the date of this joint proxy
-statement-prospectus and the closing date of the merger and assumes that the
-merger is effected as described in the merger agreement and in this joint proxy
-statement-prospectus. The opinion is not binding on the Internal Revenue Service
-or the courts. No ruling from the Internal Revenue Service has been or will be
-sought.
+representations, including representations contained in certificates executed by
+officers of E-Stamp and Learn2. The opinion assumes the absence of changes in
+relevant facts or law between the date of this joint proxy statement-prospectus
+and the closing date of the merger and assumes that the merger is effected as
+described in the merger agreement and in this joint proxy statement-prospectus.
+The opinion is not binding on the Internal Revenue Service or the courts. No
+ruling from the Internal Revenue Service has been or will be sought.
 
      The following material federal income tax consequences will result from the
 merger's qualification as a reorganization within the meaning of Section 368(a)
@@ -5343,9 +5174,8 @@ company to offset pre-ownership change net operating losses and credit
 carryovers against post-ownership change taxable income. As a result, Learn2's
 net operating loss carryforwards, aggregating approximately $100 million as of
 December 31, 2000, will be limited for use to offset any income of E-Stamp.
-E-Stamp's net operating losses, aggregating approximately $133.6 million as
-
-of December 31, 2000, will be limited now or in the future, depending upon the
+E-Stamp's net operating losses, aggregating approximately $133.6 million as of
+December 31, 2000, will be limited now or in the future, depending upon the
 transactions involving E-Stamp common stock.
 
      THE FOREGOING DISCUSSION IS NOT INTENDED TO BE A COMPLETE ANALYSIS OR
@@ -5393,35 +5223,35 @@ Bulletin No. 24, Topic 2A. Some of the factors considered to determine that
 E-Stamp is the accounting acquirer are as follows:
 
      - Upon the completion of the merger, holders of E-Stamp common stock
-       immediately prior to the merger will hold approximately 50.1%, and the
-       former holders of Learn2's common stock, including the holder of Learn2's
-       $10 million convertible debenture, will hold approximately 49.9% of the
-       combined company.
+      immediately prior to the merger will hold approximately 50.1%, and the
+      former holders of Learn2's common stock, including the holder of Learn2's
+      $10 million convertible debenture, will hold approximately 49.9% of the
+      combined company.
 
      - The combined company's board of directors will be controlled by existing
-       board members of E-Stamp in a ratio of 5 to 4.
+      board members of E-Stamp in a ratio of 5 to 4.
 
      - E-Stamp's structure of a classified board will remain for the combined
-       company, based on the expiration dates of the remaining E-Stamp
-       director's terms, former E-Stamp directors will be up for election as
-       directors of the combined company as follows: 2001 - 1; 2002 - 2
-       2003 - 2.
+      company, based on the expiration dates of the remaining E-Stamp director's
+      terms, former E-Stamp directors will be up for election as directors of
+      the combined company as follows: 2001 - 1; 2002 - 2 2003 - 2.
 
      - The former Chief Executive Officer of E-Stamp will become Chairman of the
-       Board of Directors of the combined company.
+      Board of Directors of the combined company.
 
      - The former Chief Executive Officer of E-Stamp will assume the role of
-       Executive Chairman and thus the most senior member of the combined
-       company's executive management team.
+      Executive Chairman and thus the most senior member of the combined
+      company's executive management team.
 
      - In connection with the merger, E-Stamp loaned Learn2 $2 million.
 
      The cost of the acquisition is expected to be less than the fair value of
 the net tangible assets of Learn2 acquired. The deficiency will be allocated
-first to reduce proportionately the values assigned to non-current assets.
-Should non-current assets be reduced to zero, any remaining deficiency will be
-recorded as a deferred credit and amortized to income over the expected period
-of benefit.
+first to reduce proportionately the values assigned to
+
+non-current assets. Should non-current assets be reduced to zero, any remaining
+deficiency will be recorded as a deferred credit and amortized to income over
+the expected period of benefit.
 
 MARKET PRICE INFORMATION
 
@@ -5449,7 +5279,6 @@ Quarter Ended September 30, 2000................    $3.031       $2.000       $ 
 Quarter Ended December 31, 2000.................    $2.000       $0.375       $ 0.969       $ 0.125
 FISCAL 2001
 Quarter Ended March 31, 2001....................    $0.906       $0.219       $ 0.344       $ 0.063
-Quarter Ended June 30, 2001.....................    $ 0.42       $0.188       $  0.28       $ 0.063
 
      The foregoing table shows only historical comparisons. These comparisons
 may not provide meaningful information to you in determining whether to approve
@@ -5479,8 +5308,7 @@ foreseeable future.
 
      The following summary highlights selected information from the merger
 agreement, which is incorporated by reference and attached as Annex I to this
-joint proxy statement-prospectus. While we believe that this summary covers the
-material terms of the merger agreement, this summary may not contain all the
+joint proxy statement-prospectus. This summary may not contain all the
 information that is important to you. We urge you to read the full text of the
 merger agreement.
 
@@ -6354,8 +6182,7 @@ LETTER AGREEMENT
      The following summary highlights selected information from the letter
 agreement, the complete text of which is incorporated by reference and included
 as an exhibit to the registration statement of which this joint proxy
-statement-prospectus forms a part. While we believe that this summary covers the
-material terms of the letter agreement, this summary may not contain all of the
+statement-prospectus forms a part. The summary may not contain all of the
 information that is important to you. We urge you to read the full text of the
 letter agreement.
 
@@ -6386,28 +6213,32 @@ merger.
 LOCK-UP AGREEMENTS OF E-STAMP DIRECTORS AND EXECUTIVE OFFICERS FOLLOWING THE
 MERGER
 
-     Each person who will serve as an executive officer or director of E-Stamp
-following the merger has entered into lock-up agreements restricting those
-persons' ability to dispose of E-Stamp common stock. Generally, these lock-up
-agreements will prohibit the sale of E-Stamp common stock for the six months
-following the merger and will impose specified limitations on sales occurring
-after such six month period and prior to the one year anniversary of the merger.
-These prohibitions will terminate at such time as the individual ceases to be an
-officer or director of E-Stamp, except with respect to Messrs. Schupak and Gott
-whose obligations under the lock-up agreements will continue notwithstanding any
-earlier termination of their services to E-Stamp. RGC's agreement to similar
-trading limitations on the shares of E-Stamp common stock it will receive in the
-merger is contingent upon each person who will serve as an executive officer or
-director of E-Stamp following the merger entering into these lock-up agreements.
+     E-Stamp and Learn2 each intend for the persons who will serve as executive
+officers and directors of E-Stamp following the merger to enter into lock-up
+agreements restricting those persons' ability to dispose of E-Stamp common
+stock. Generally, these lock-up agreements will prohibit the sale of E-Stamp
+common stock for the six months following the merger and will impose specified
+limitations on sales occurring after such six month period and prior to the one
+year anniversary of the merger. These prohibitions will terminate at such time
+as the individual ceases to be an officer or director of E-Stamp, except with
+respect to Messrs. Schupak and Gott whose obligations under the lock-up
+agreements will continue notwithstanding any earlier termination of their
+services to E-Stamp. RGC's agreement to similar trading limitations on the
+shares of E-Stamp common stock it will receive in the merger is contingent upon
+each person who will serve as an executive officer or director of E-Stamp
+following the merger entering into these lock-up agreements. However, we cannot
+assure you that each of these persons will enter into a lock-up agreement. In
+the event that any of these persons do not agree to a lock-up agreement, the
+contractual restrictions on RGC's ability to sell E-Stamp common stock received
+by RGC in the merger will terminate.
 
 VOTING AGREEMENTS
 
 The following summary highlights selected information from the voting
 agreements, the complete text of which are incorporated by reference and
-attached as annexes III and IV to this joint proxy statement-prospectus. While
-we believe that this summary covers the material terms of the voting agreements,
-this summary may not contain all of the information that is important to you. We
-urge you to read the full text of the voting agreements.
+attached as annexes III and IV to this joint proxy statement-prospectus. The
+summary may not contain all of the information that is important to you. We urge
+you to read the full text of the voting agreements.
 
      In connection with the execution and delivery of the merger agreement,
 Learn2 entered into a voting agreement with each of the executive officers and
@@ -6541,20 +6372,6 @@ private equity investment management firm. Mr. Balen currently serves on the
 board of directors of Intraware and Commerce One. Mr. Balen received his B.S. in
 electrical engineering and M.B.A. from Cornell University.
 
-CLASSIFIED BOARD
-
-     After the merger, E-Stamp's certificate of incorporation will continue to
-provide for a classified board of directors, each serving staggered three-year
-terms. As a result, a portion of E-Stamp's board of directors will be elected
-each year.                ,                and                will be designated
-Class III directors whose terms expire at the 2002 annual meeting of
-stockholders.                ,                and                will be
-designated Class I directors whose terms expire at the 2003 annual meeting of
-stockholders.                ,                and                will be
-designated Class II directors whose terms expire at the 2004 annual meeting of
-stockholders. This classification of the board of directors may delay or prevent
-a change in control of E-Stamp or its management after the merger.
-
 COMMITTEES OF THE E-STAMP BOARD OF DIRECTORS
 
      Upon completion of the merger, the board of directors of E-Stamp will
@@ -6610,7 +6427,9 @@ statement-prospectus.
                               E-STAMP CORPORATION
 
        UNAUDITED PRO FORMA COMBINED CONDENSED CONSOLIDATED BALANCE SHEET
+
                               AS OF MARCH 31, 2001
+
                                  (IN THOUSANDS)
 
                                                      E-STAMP
@@ -6669,6 +6488,7 @@ combined condensed consolidated financial statements.
 
   UNAUDITED PRO FORMA COMBINED CONDENSED CONSOLIDATED STATEMENT OF OPERATIONS
                        THREE MONTHS ENDED MARCH 31, 2001
+
                                  (IN THOUSANDS)
 
                                              E-STAMP         LEARN2        PRO FORMA      PRO FORMA
@@ -6722,8 +6542,11 @@ combined condensed consolidated financial statements.
                               E-STAMP CORPORATION
 
               UNAUDITED PRO FORMA COMBINED CONDENSED CONSOLIDATED
+
                             STATEMENT OF OPERATIONS
+
                           YEAR ENDED DECEMBER 31, 2000
+
                                  (IN THOUSANDS)
 
                                                 E-STAMP
@@ -6839,6 +6662,7 @@ Transaction costs..........................................    5,000
                                                              =======
 
                         NOTES TO THE UNAUDITED PRO FORMA
+
               COMBINED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
 
      The final purchase price allocation, determined upon the closing of the
@@ -6910,6 +6734,7 @@ adjustments:
      by $315,000 to the fair value of $216,000.
 
                         NOTES TO THE UNAUDITED PRO FORMA
+
               COMBINED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
 
           (e) To eliminate Learn2 historical goodwill.
@@ -6982,6 +6807,7 @@ the following proforma adjustments.
      E-Stamp's options including options assumed in the merger.
 
                         NOTES TO THE UNAUDITED PRO FORMA
+
               COMBINED CONDENSED FINANCIAL STATEMENTS (CONTINUED)
 
      Pro forma adjustments for the year ended December 31, 2000
@@ -7491,25 +7317,13 @@ Technologies, Inc. and ViaGrafix Corporation.
 
 Restructuring Charges
 
-     In February of 1999, in connection with the Street Technologies, Inc.
-acquisition, Learn2 recorded a restructuring charge totaling approximately $2.5
-million. The charge was associated with the costs of moving the Richardson,
-Texas office to White Plains, NY. This included the termination of approximately
-15 employees, the costs related to the remaining lease obligation on the office
-space and the write-off of redundant assets. The charge was recorded in the
-first quarter of 1999. In the fourth quarter of 1999, Learn2 was released from
-its remaining obligation on the lease of its office in Richardson, Texas and as
-a
-
-result, Learn2 reversed approximately $150,000 of the original restructuring
-accrual in the fourth quarter of fiscal 1999.
-
-     In September of 1999, in connection with the acquisition of ViaGrafix
-Corporation, Learn2 recorded a restructuring charge totaling approximately $1.0
-million to integrate the ViaGrafix and Learn2 operations. The restructuring
-included costs of the termination of approximately 30 employees and the shutdown
-of certain facilities. The charge was recorded in the third quarter of 1999. As
-of December 31, 2000 all costs were paid.
+     Restructuring charges incurred for 1999 were approximately $3.3 million and
+related to Learn2's business combinations with Street Technologies, Inc. and
+ViaGrafix Corporation of approximately $2.3 million and $1.0 million,
+respectively. The charges were comprised of approximately $1.4 million related
+to the write-off of redundant assets, $551,000 related to excess office space
+and other costs and $1.4 million in employee severance costs. All of these costs
+have been paid as of December 31, 2000.
 
 Non-recurring Costs
 
@@ -7678,23 +7492,12 @@ amortization on fixed assets.
 
 Restructuring Charges
 
-     In February of 1999, in connection with the Street Technologies, Inc.
-acquisition, Learn2 recorded a restructuring charge totaling approximately $2.5
-million. The charge was associated with the costs of moving the Richardson,
-Texas office to White Plains, NY. This included the termination of approximately
-15 employees, the costs related to the remaining lease obligation on the office
-space and the write-off of redundant assets. The charge was recorded in the
-first quarter of 1999. In the fourth quarter of 1999, Learn2 was released from
-its remaining obligation on the lease of its office in Richardson, Texas and as
-a result, Learn2 reversed approximately $150,000 of the original restructuring
-accrual in the fourth quarter of fiscal 1999.
-
-     In September of 1999, in connection with the acquisition of ViaGrafix
-Corporation, Learn2 recorded a restructuring charge totaling approximately $1.0
-million to integrate the ViaGrafix and Learn2 operations. The restructuring
-included costs of the termination of approximately 30 employees and the shutdown
-of certain facilities. The charge was recorded in the third quarter of 1999. As
-of December 31, 2000 all costs were paid.
+     Restructuring charges for 1999 were approximately $3.3 million and were
+related to Learn2's business combinations with Street Technologies, Inc. and
+ViaGrafix. The charges were comprised of $1.4 million related to the write-off
+of redundant assets, $551,000 related to excess office space and other costs and
+$1.4 million in employee severance costs. All of these costs have been paid as
+of December 31, 2000.
 
 Acquired In-Process Technology
 
@@ -7703,11 +7506,9 @@ Inc. and ViaGrafix, Learn2 allocated approximately $9.7 million and $15.1
 million, respectively, of the purchase prices to acquired in-process technology.
 Accordingly, these costs were expensed as of the respective acquisition dates.
 Amounts allocated to acquired in-process technology relate to projects that had
-not yet reached
-
-technological feasibility and that, until completion of development, had no
-alternative future use. The technologies acquired required substantial
-additional development.
+not yet reached technological feasibility and that, until completion of
+development, had no alternative future use. The technologies acquired required
+substantial additional development.
 
 Non-Recurring Costs
 
@@ -7740,11 +7541,9 @@ Other Income (Expense), Net
      Other income (expense), net was approximately $168,000 of expense compared
 to $1.3 million of expense in 1998. Other expenses in 1998 consisted primarily
 of a $1.5 million charge relating to the disposal of assets. This was partially
-offset by the reversal of an accrued royalty expense of $238,000 in excess of an
-original accrued royalty in 1997 totaling $1.0 million. The reduction was due to
-a renegotiation of the royalty contract in 1998. Because the reversal took place
-during 1998 and Learn2 had exited the business of producing interactive
-entertainment products, Learn2 recorded the reversal as other income.
+offset by the reversal of accrued royalty expense of $238,000 in excess of an
+accrued royalty that was recorded in a prior period. As a result of the timing
+of the transaction, the excess was recorded to other income.
 
 Net Loss
 
@@ -7782,4 +7581,228 @@ pursuant thereto it issued a $10 million 6% convertible debenture due March 10,
 2003. The debenture is convertible at any time at the option of the holder at a
 conversion price of $0.41 per share, as reset on March 10, 2001. In connection
 with the reset on March 10, 2001, Learn2 recorded interest expense of $9 million
-as a result of the reduction of the original conversion pri
+as a result of the reduction of the original conversion price from $6.00 to
+$0.41. The debenture is subject to anti-dilution provisions. The conversion
+price of the debenture also may be reset to the market value of Learn2's common
+stock on the second anniversary of the convertible debenture if the price of
+Learn2's common stock declines below $0.41 on the second anniversary. In
+addition, the holder was granted a five-year warrant to purchase 337,268 shares
+of Learn2 common stock exercisable at $7.41 per share. The value of this warrant
+has been recorded as a debt discount and is being amortized over the life of the
+related debt.
+
+     On April 19, 2001, the holder executed a waiver agreeing not to exercise
+any of its rights under the debenture to declare an event of default or convert
+the debenture with certain exceptions as provided in the waiver; with respect to
+Learn2's failure to register shares of common stock, issuable as a result of the
+conversion price reset on March 10, 2001, provided that Learn2 files a
+registration statement by September 30, 2001 covering the shares of Learn2
+common stock issuable under the debenture following the reset of the conversion
+price of the debenture.
+
+     On April 19, 2001, Learn2, E-Stamp and the holder of debenture entered into
+a redemption and termination agreement. Pursuant to the redemption and
+termination agreement, the holder of the debenture has agreed that, immediately
+prior to the completion of the merger between Learn2 and E-Stamp, the debenture
+will be redeemed in exchange of E-Stamp's payment of $1.0 million, which will be
+accounted for as part of the purchase price, and the issuance of approximately
+26.5 million shares of Learn2's common stock based on a conversion price of
+$0.41 per share plus accrued interest.
+
+     As of March 31, 2001, one customer represented approximately 14.8% of
+accounts receivable. This customer represents a disproportionate percentage of
+March 31, 2001 accounts receivable as it relates to a software license sale in
+2000.
+
+     To date, we have used cash and operate at a loss. We believe we will have
+sufficient resources for our operating requirements and sufficient resources to
+realize our current business plan. However, our ability to achieve positive cash
+flow depends upon a variety of factors, including the timely introduction and
+market success of our products, the costs of developing, producing and marketing
+these products, adoption of the Internet as a medium of commerce and delivery of
+services, general economic conditions and various other factors, some of which
+may be beyond our control. Many of our costs are fixed and are based on
+anticipated revenue levels. We may be unable to adjust spending quickly enough
+to offset any unexpected revenue shortfall. If we have a shortfall in revenues
+in relation to expenses, or if expenses continue to exceed revenues, then our
+results of operations and financial condition would be affected adversely and we
+may need to raise additional funds. In the event that the proposed merger with
+E-Stamp is not consummated, and we need to raise additional funds we cannot be
+certain that we will be successful nor can we predict the terms under which such
+funds would be available. If additional funds are not available we may not be
+able to meet our on-going expenses unless we change our business plan, sell
+non-strategic assets, curtail expenditures, and/or employ other strategies as
+are required in these circumstances.
+
+QUARTERLY RESULTS OF OPERATIONS FOR 2000 AND 1999
+
+                                                               THREE MONTHS ENDED
+                                           -----------------------------------------------------------
+                                           MARCH 31(1)   JUNE 30(1)   SEPTEMBER 30(1)   DECEMBER 31(1)
+                                           -----------   ----------   ---------------   --------------
+                                                    (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
+
+Revenue..................................    $ 5,447      $ 6,126         $ 5,771          $  4,726
+Gross margin.............................      3,680        4,199           4,330             3,481
+Net loss available to common
+  stockholders...........................     (5,849)      (4,994)         (4,007)          (23,140)(3)
+Basic and diluted loss per common
+  share..................................      (0.11)       (0.09)          (0.07)            (0.44)
+
+                                                             THREE MONTHS ENDED
+                                          --------------------------------------------------------
+                                          MARCH 31     JUNE 30     SEPTEMBER 30     DECEMBER 31(2)
+                                          --------     -------     ------------     --------------
+
+Revenue.................................  $  1,025     $ 1,791       $  3,403          $ 6,002
+Gross margin............................       839       1,351          2,882            3,925
+Net loss available to common
+  stockholders..........................   (13,605)     (2,594)       (19,160)          (5,677)
+Basic and diluted loss per common
+  share.................................     (0.47)      (0.08)         (0.45)           (0.11)
+
+- -------------------------
+(1) In connection with Learn2's adoption of SAB No. 101 effective January 1,
+    2000 Learn2 began recording cooperative advertising expenses as a reduction
+    of gross revenues. This change had no effect on previously reported results
+    of operations in 1999. Learn2 has restated its results for the first three
+    quarters of the year ended December 31, 2000. Revenues previously reported
+    for the quarters ended March 31, June 30 and September 30 were $6,446,
+    $7,084, and $7,053, respectively.
+
+(2)In connection with Learn2's adoption of SAB No. 101, Learn2 has restated its
+   results for 1999. Revenues previously reported for the quarter ended December
+   31, 1999 was $7,348.
+
+(3) Includes a charge of approximately $17.9 million for the impairment of
+    goodwill and other intangible assets in the fourth quarter of 2000.
+
+     The quarterly earnings per share data above are computed independently for
+each of the quarters presented. As such, the sum of the quarterly per common
+share information may not equal the full year amounts due to rounding
+differences resulting from changes in the weighted-average number of common
+shares outstanding.
+
+                E-STAMP MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+
+                 FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+     The following discussion of the financial condition and results of
+operations of E-Stamp should be read in conjunction with E-Stamp's supplemental
+financial statements and the related notes to those financial statements
+included elsewhere in this joint proxy statement-prospectus. This document
+contains forward-looking statements that involve risks and uncertainties. Actual
+results may differ materially from those anticipated in these forward-looking
+statements as a result of certain factors, including but not limited to, those
+set forth under "Risk Factor" beginning on page 17 and elsewhere in this joint
+proxy statement-prospectus.
+
+OVERVIEW
+
+     E-Stamp originally provided an Internet postage service that enabled users
+to purchase, download and print Internet postage directly from their personal
+computers without the need to maintain a persistent Internet connection. In May
+2000, E-Stamp acquired two companies, Infinity Logistics Corporation and
+Automated Logistics Corp. These companies offered transportation management and
+warehouse management products and services that allowed enterprise customers to
+review carrier rates and shipping options, select a carrier, print shipping
+labels, track shipments and create shipping reports.
+
+     During 2000, E-Stamp undertook two corporate restructurings. In July 2000,
+E-Stamp restructured its organization to focus on the development, marketing and
+sales of the transportation management products and services and reduce its
+emphasis on the Internet postage business. In November 2000, E-Stamp
+restructured its organization to phase out the Internet postage business.
+E-Stamp incurred charges of approximately $20.3 million related to these
+restructurings.
+
+     On April 19, 2001, E-Stamp entered into a merger agreement with Learn2.com,
+Inc., a provider of e-learning solutions. Pursuant to the merger agreement,
+Learn2 will merge with E-Stamp, with E-Stamp remaining as the surviving
+corporation. The merger is subject to certain conditions set forth in the merger
+agreement, including a minimum net cash requirement, as defined in the merger
+agreement, at the closing date and the approval of the stockholders of E-Stamp
+and Learn2. E-Stamp also has discontinued its remaining transportation
+management business. Therefore, the financial statements and notes included
+herein reflect E-Stamp's businesses as discontinued operations in accordance
+with Accounting Principles Board Opinion No. 30. The results of discontinued
+operations do not include any interest income, interest expense or allocation of
+corporate expenses. In the event that the merger is completed, E-Stamp intends
+to conduct the e-learning solutions business of Learn2.
+
+RESULTS OF OPERATIONS
+
+THREE MONTHS ENDED MARCH 31, 2001 AND 2000
+
+     General corporate expenses. General corporate expenses consist of general
+and administrative overhead expenses, including expenses associated with the
+general responsibilities of a public company, and exclude those costs associated
+with the transportation management and Internet postage businesses. These
+expenses include salaries and related costs for certain administrative
+functions, professional services, including legal and accounting services,
+insurance and an allocation of facilities costs. The decrease in these expenses
+in the three months ended March 31, 2001 compared to the three months ended
+March 31, 2000 is primarily due to lower amortization of deferred stock
+compensation, which is recorded using the graded vesting method, partially
+offset by higher professional services costs, including legal and accounting
+services.
+
+     Interest income, net. Interest income, net, consists primarily of earnings
+on our cash and cash equivalents, net of interest expense. Interest income, net,
+was $0.5 million for the quarter ended March 31, 2001, compared to $1.4 million
+for the quarter ended March 31, 2000. The decrease in interest income, net, was
+due to decreased interest earned as a result of decreased cash balances
+resulting from the continued use of cash to fund operations.
+
+'Loss from discontinued operations. For the three months ended March 31, 2001,
+loss from discontinued operations reflects the operating expenses related to the
+transportation management business net of revenues from that business of $0.3
+million. For the three months ended March 31, 2000, loss from discontinued
+operations reflects the operating expenses related to the Internet postage
+business net of revenues from that business of $1.5 million. Operating expenses
+for the three months ended March 31, 2001 were significantly reduced from
+operating expenses for the three months ended March 31, 2000 primarily due to
+reduced headcount resulting from restructuring efforts in 2000. In addition,
+E-Stamp significantly reduced its advertising and promotional activities in the
+first quarter of 2001 compared to the first quarter of 2000. Amortization of
+deferred stock compensation, which is recorded using the graded vesting method,
+decreased by $2.2 million in the three months ended March 31, 2001 from the
+three months ended March 31, 2000.
+
+     These decreases in operating expenses were partially offset by charges
+totaling $4.7 million related to the amortization and write off of goodwill and
+other intangible assets related to the transportation management solutions
+business. During the three months ended March 31, 2001, E-Stamp identified
+possible indicators of impairment of these assets and determined that these
+assets had a fair value of zero. In addition, E-Stamp wrote off property and
+equipment held for disposal as a result of reduced employee headcount totaling
+$1.4 million.
+
+     E-Stamp expects that the cost of the discontinuance of its business will be
+less than the proceeds to be realized from the discontinuance, primarily as a
+result of the sale of its Internet postage intellectual property in April 2001
+to Stamps.com for $7.5 million.
+
+YEARS ENDED DECEMBER 31, 2000, 1999 AND 1998
+
+     General corporate expenses. General corporate expenses totaled $8.2 million
+in 2000, $9.2 million in 1999 and $1.6 million in 1998. The decrease in 2000
+from 1999 was primarily due to lower salary cost as a result of lower bonuses
+paid and lower amortization of deferred stock compensation partially offset by
+higher facilities costs. The increase in 1999 from 1998 was due to higher salary
+levels as a result of increased staffing levels in administrative functions and
+higher amortization of deferred stock compensation.
+
+     Interest income, net. Interest income, net, was $3.8 million in 2000,
+compared to $1.9 million in 1999 and $0.4 million in 1998. The increase in
+interest income, net, was due to increased interest earned as a result of higher
+average cash balances resulting from E-Stamp's initial public offering in
+October 1999 and private placements of preferred stock in August 1999 and July
+1998.
+
+     Loss from discontinued operations. For the year ended December 31, 2000,
+loss from discontinued operations reflects the operating expenses related to the
+transportation management business and the Internet postage business, net of
+revenues from those businesses of $5.3 million. Operating expenses in 2000 were
+significantly higher than operating expenses in 1999, primarily due to increased
+headcount related exp

@@ -47,7 +47,7 @@ class SeperatorHandler:
         # Check if the file exists
         file_path = f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt";
         if not os.path.isfile(file_path):
-            print(f"Skipping {main_index}: Document does not exist...");
+            print(f"Skipping index {main_index}: Document does not exist...");
             return;
 
         # Check if the extracted file exists

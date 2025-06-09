@@ -15,8 +15,13 @@ from sentence_transformers import CrossEncoder
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from src.utils.Logger import Logger
-from src.dependencies.RateLimiter import RateLimiter
-from src.dependencies.config import BATCH_SIZE, QUERY_EMBEDDING_FILE, RERANK_QUERY_FILE, BASE_NLP_MODEL
+from src.dependencies.config import (
+    BATCH_SIZE, 
+    QUERY_EMBEDDING_FILE, 
+    RERANK_QUERY_FILE, 
+    BASE_NLP_MODEL, 
+    EMBEDDING_MODEL
+)
 
 class ChunkProcessor:
     # Strict model else accuracy for abbreviation is impacted; non-param due to significant performance impact
@@ -260,7 +265,7 @@ class ChunkProcessor:
 
         chunks_with_dates = ChunkProcessor.extract_chunks_with_dates(chunks, nlp, executor);
         if len(chunks_with_dates) == 0:
-            return None; # FATAL; no chunks with dates
+            return None; # No chunks with dates
 
         approx_chunks = ChunkProcessor.get_approx_chunks(chunks_with_dates, start_phrases, nlp, executor);
         if len(approx_chunks) == 0: # Edge case where there is no date within the "Background" chunk; toss all the chunks
@@ -273,7 +278,7 @@ class ChunkProcessor:
 
     def __get_embedding(self, text: str) -> torch.Tensor:
         response = self.client.embeddings.create(
-            model="text-embedding-3-small",
+            model=EMBEDDING_MODEL,
             input=text
         );
         return torch.tensor(response.data[0].embedding, dtype=torch.float32);

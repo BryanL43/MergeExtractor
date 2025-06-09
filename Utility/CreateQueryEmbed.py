@@ -3,6 +3,8 @@ import os
 import torch
 import json
 
+from src.dependencies.config import START_PHRASES, EMBEDDING_MODEL
+
 example1 = """
 Background of the Merger
 
@@ -258,45 +260,22 @@ confidentiality agreement relating to the discussions among their management
 and advisors.
 """
 
-startPhrases = [
-    "Background of the transaction",
-    "Background of the merger",
-    "Background of the offer",
-    "Background of the acquisition",
-    "Background of the consolidation",
-    "Background of the Asset Sale",
-    "Background of the Combination",
-    "Background of the Proposal",
-    "Background of the Offer and the Merger",
-    "Background and negotiation of the merger",
-    "Background to the merger",
-    "Background to the acquisition",
-    "Background to the offer",
-    "Background to the transaction",
-    "Background to the consolidation",
-    "Background to the Asset Sale",
-    "Background to the Combination",
-    "Background to the Proposal",
-    "Background of Offer",
-    "Background of Acquisition",
-    "Background of Transaction",
-    "Background of Merger",
-    "Background of Consolidation",
-    "Background of Asset Sale",
-    "Background of Combination",
-    "Background of Proposal",
-    "Background"
-];
+negative_example1 = """
+Background of the Merger
+
+First Virtual Communications' Reasons for the Merger; Recommendation of the First Virtual Communications Board of Directors
+
+CUseeMe Reasons for the Merger; Recommendation of the CUseeMe Board of Directors
+"""
 
 instruction = (
-    f"Locate the start of the section titled with one of the following phrases: {', '.join(startPhrases)}. "
+    f"Locate the start of the section titled with one of the following phrases: {', '.join(START_PHRASES)}. "
     "This section provides a chronological timeline of events leading to the merger, "
     "describing meetings, agreements, and important decisions. "
     "Ensure that the chunk contains the actual start of the section and not just the title. "
 );
 
 CLIENT = OpenAI(api_key=os.getenv("OPENAI_API_KEY"));
-EMBEDDING_MODEL = "text-embedding-3-small";
 
 def getEmbedding(text):
     response = CLIENT.embeddings.create(
@@ -305,26 +284,56 @@ def getEmbedding(text):
     );
     return torch.tensor(response.data[0].embedding, dtype=torch.float32);
 
+def contrastive_query_embedding(instruction_emb, positives, negatives):
+    """
+        Create a query embedding from a set of positive and negative examples
+
+        Parameters
+        ----------
+        instruction_emb : list[float]
+            The embedding of the instruction.
+        positives : list[str]
+            A list of positive examples.
+        negatives : list[str]
+            A list of negative examples.
+
+        Returns
+        -------
+        list[float]
+            The query embedding.
+    """
+    positive_embs = torch.stack([getEmbedding(p) for p in positives]);
+    negative_embs = torch.stack([getEmbedding(n) for n in negatives]);
+
+    mean_pos = positive_embs.mean(dim=0);
+    mean_neg = negative_embs.mean(dim=0);
+
+    # Boost positives, reduce negatives
+    combined = instruction_emb + mean_pos - 0.5 * mean_neg;
+    return combined / combined.norm(); # normalize
+
 def main():
     instruction_embedding = getEmbedding(instruction)
-    example_embeddings = torch.stack([
-        getEmbedding(example1),
-        getEmbedding(example2),
-        getEmbedding(example3),
-        getEmbedding(example4),
-        getEmbedding(example5),
-        getEmbedding(example6),
-        getEmbedding(example7),
-        getEmbedding(example8),
-        getEmbedding(example9),
-        getEmbedding(example10)
-    ])
-    queryEmbedding = torch.cat([instruction_embedding.unsqueeze(0), example_embeddings]).mean(dim=0);
+    
+    positive_examples = [
+        example1, example2, example3, example4, example5,
+        example6, example7, example8, example9, example10
+    ];
+
+    negative_examples = [
+        negative_example1
+    ];
+
+    queryEmbedding = contrastive_query_embedding(
+        instruction_embedding,
+        positive_examples,
+        negative_examples
+    );
 
     queryEmbedding_list = queryEmbedding.tolist();
 
     # Move this embedding json to config directory
-    with open("./Utility/query_embedding.json", "w") as f:
+    with open(os.path.abspath("./config/query_embedding.json"), "w") as f:
         json.dump(queryEmbedding_list, f);
 
 

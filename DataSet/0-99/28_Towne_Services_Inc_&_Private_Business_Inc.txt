@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/1069469/000095014401501389/0000950144-01-501389.txt
+URL: https://www.sec.gov/Archives/edgar/data/1069469/000095014401502635/0000950144-01-502635.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- U9+dtqqEyUa6EvS3TzGkFU5GW0QTIAIMtdYsdqdHp4Gd/hXR6FSXquCnhmxEOUbe
- NUB57mKVJXTpL/bx2FNulQ==
+ CrYJ0XGLk8VvQEZ2mmf87QPhsn/7H0ie9hAxVLN3+YvvByUj+J2ftahRJZVOmXPR
+ XQ1fGofQDLpmgUAnH4D2tw==
 
-0000950144-01-501389.txt : 20010502
+0000950144-01-502635.txt : 20010521
 
-0000950144-01-501389.hdr.sgml : 20010502
-ACCESSION NUMBER:		0000950144-01-501389
-CONFORMED SUBMISSION TYPE:	S-4
-PUBLIC DOCUMENT COUNT:		9
-FILED AS OF DATE:		20010501
+0000950144-01-502635.hdr.sgml : 20010521
+ACCESSION NUMBER:		0000950144-01-502635
+CONFORMED SUBMISSION TYPE:	S-4/A
+PUBLIC DOCUMENT COUNT:		7
+FILED AS OF DATE:		20010518
 
 FILER:
 
@@ -29,17 +29,18 @@ FILER:
 		FISCAL YEAR END:			1231
 
 	FILING VALUES:
-		FORM TYPE:		S-4
+		FORM TYPE:		S-4/A
 		SEC ACT:		
 		SEC FILE NUMBER:	333-59914
-		FILM NUMBER:		1618510
+		FILM NUMBER:		1643110
 
 	BUSINESS ADDRESS:	
-		STREET 1:		214 OVERLOOK COURT
-		STREET 2:		SUITE 120
+		STREET 1:		9010 OVERLOOK BLVD
+		STREET 2:		NO SUITE #
 		CITY:			BRENTWOOD
 		STATE:			TN
 		ZIP:			37027
+		BUSINESS PHONE:		615-221-8400
 
 	MAIL ADDRESS:	
 		STREET 1:		9010 OVERLOOK BLVD
@@ -47,19 +48,24 @@ FILER:
 		STATE:			TN
 		ZIP:			37027
 
-S-4
+S-4/A
 
-g68849s-4.txt
+g68849a1s-4a.txt
 
 PRIVATE BUSINESS, INC.
 
-As filed with the Securities and Exchange Commission on May 1, 2001.
-                                                          Registration No. 333 -
+As filed with the Securities and Exchange Commission on May 18, 2001.
+                                                    Registration No. 333 - 59914
+
 ================================================================================
                        SECURITIES AND EXCHANGE COMMISSION
                              WASHINGTON, D.C. 20549
 
                              -----------------------
+
+                                AMENDMENT NO. 1
+                                       TO
+
                                    FORM S - 4
                              REGISTRATION STATEMENT
                                       UNDER
@@ -122,43 +128,7 @@ the Securities Act, check the following box and list the Securities Act
 registration statement number of the earlier effective registration statement
 for the same offering. [_]
 
-                         CALCULATION OF REGISTRATION FEE
-
-=====================================================================================================================
-     Title of each Class of                                               Proposed Maximum        Proposed Maximum
-        Securities to be           Amount to be      Offering Price           Aggregate              Amount of
-          Registered              Registered (1)      Per Share (2)       Offering Price (2)     Registration Fee (3)
-- ---------------------------------------------------------------------------------------------------------------------
-
-Common Stock, no par value
- per share                         4,610,077              (2)                $9,349,912                $2,338
-- ---------------------------------------------------------------------------------------------------------------------
-Series B preferred stock,
- no par value per share               39,966              (2)                    N/A                    N/A
-=====================================================================================================================
-
-(1) Represents the maximum number of shares of Private Business, Inc.'s common
-stock, no par value per share, estimated to be issuable upon the consummation of
-the merger of Towne Acquisition Corporation, a Tennessee corporation, and a
-direct wholly owned subsidiary of Private Business, with and into Towne
-Services, Inc., a Georgia corporation, as described in the Agreement and Plan of
-Merger, dated as of April 12, 2001, attached as Annex A to the joint proxy
-statement/prospectus forming part of this registration statement, including the
-Private Business, Inc. common stock issuable upon conversion of the Series B
-preferred stock. The number of shares of Series B preferred stock is estimated
-based on the approximated exchange ratio of .9072.
-
-(2) Pursuant to Rules 457(c) and 457(f)(1) under the Securities Act of 1933, as
-amended, and solely for the purpose of calculating the registration fee, the
-proposed maximum aggregate offering price is equal to (x) 5,081,474, the
-estimated number of shares of Towne Services common stock to be exchanged in the
-merger, including the Series B preferred stock on an as-if-converted basis,
-multiplied by (y) $1.84, the average of the high and low sale prices per share
-of Towne Services common stock on the Nasdaq National Market on April 25, 2001.
-
-(3) Computed in accordance with Rule 457(f) and Section 6(b) under the
-Securities Act to be $2,338 which, is equal to 0.000250 multiplied by the
-proposed maximum aggregate offering price of $9,349,912.
+================================================================================
 
 THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR DATES
 AS MAY BE NECESSARY TO DELAY ITS EFFECTIVE DATE UNTIL THE REGISTRANT SHALL FILE
@@ -177,7 +147,7 @@ our two businesses by merging a subsidiary of Private Business into Towne.
 Before we can complete the merger, we must obtain the approval of each company's
 shareholders. We are sending you this joint proxy statement/prospectus to ask
 you to vote in favor of the merger and related matters at each company's annual
-meeting on June 12, 2001.
+meeting on June 18, 2001.
 
          In the merger, shareholders of Towne will be entitled to receive
 approximately .9072 of a share of Private Business common stock in return for
@@ -190,9 +160,9 @@ outstanding common shares of Private Business common stock becoming
 approximately 9,221,538 shares. In this document, all references to Private
 Business shares are on a post-split basis unless otherwise indicated. Other than
 the stock split, Private Business's common stock will remain unchanged in the
-merger. On April 26, 2001, the closing price of Private Business common stock
-was $.97 per share, without giving effect to the reverse stock split, and the
-closing price of Towne common stock was $1.75 per share. We encourage you to
+merger. On May 16, 2001, the closing price of Private Business common stock
+was $.75 per share, without giving effect to the reverse stock split, and the
+closing price of Towne common stock was $1.40 per share. We encourage you to
 obtain more recent quotations. The shares of Private Business common stock,
 including the shares of Private Business common stock issued to shareholders of
 Towne as a result of the merger, will continue to be listed on the Nasdaq
@@ -246,7 +216,7 @@ follows:
 
 FOR PRIVATE BUSINESS SHAREHOLDERS:              FOR TOWNE SHAREHOLDERS:
 
-June 12, 2001                                   June 12, 2001
+June 18, 2001                                   June 18, 2001
 9:00 a.m., C.D.T.                               10:00 a.m., E.D.T.
 Private Business, Inc.                          Hilton Garden Inn
 9010 Overlook Boulevard                         11695 Medlock Bridge Road
@@ -271,8 +241,8 @@ COMMISSION HAS APPROVED OR DISAPPROVED OF THESE SECURITIES OR PASSED UPON THE
 ADEQUACY OR ACCURACY OF THIS JOINT PROXY STATEMENT/ PROSPECTUS. ANY
 REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE.
 
-         This joint proxy statement/prospectus is dated May [ ], 2001, and is
-being first mailed to shareholders on or about May [ ], 2001.
+         This joint proxy statement/prospectus is dated May 18, 2001, and is
+being first mailed to shareholders on or about May 21, 2001.
 
                       REFERENCES TO ADDITIONAL INFORMATION
 
@@ -280,8 +250,8 @@ being first mailed to shareholders on or about May [ ], 2001.
 about Private Business and Towne that is not included in or delivered with this
 document. This information is available without charge to you upon written or
 oral request at the applicable company's address and telephone number listed on
-page 5. See also "Where You Can Find More Information" beginning on page 159. To
-obtain timely delivery, you must request the information no later than June 5,
+page 5. See also "Where You Can Find More Information" beginning on page 161. To
+obtain timely delivery, you must request the information no later than June 11,
 2001.
 
                               TOWNE SERVICES, INC.
@@ -291,7 +261,7 @@ obtain timely delivery, you must request the information no later than June 5,
                 -------------------------------------------------
 
                     NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
-                                  JUNE 12, 2001
+                                  JUNE 18, 2001
 
                 -------------------------------------------------
 
@@ -300,7 +270,7 @@ Towne Services, Inc.:
 
          Towne Services, Inc. will hold its annual meeting of shareholders at
 the Hilton Garden Inn, 11695 Medlock Bridge Road, Duluth, Georgia 30097, at
-10:00 a.m., E.D.T., on June 12, 2001 for the following purposes:
+10:00 a.m., E.D.T., on June 18, 2001 for the following purposes:
 
          (1)      to consider and vote upon a proposal to approve the merger
                   agreement among Private Business, Inc., Towne Acquisition
@@ -332,7 +302,7 @@ PRECLUDE YOU FROM VOTING IN PERSON IF YOU ATTEND THE MEETING. IF YOU DO NOT
 VOTE, IT WILL HAVE THE SAME EFFECT AS VOTING AGAINST THE MERGER AGREEMENT AND
 THE MERGER. No additional postage is necessary if mailed in the United States.
 If you desire to revoke your proxy, you may do so at any time before the vote as
-discussed on page 26 of this joint proxy statement/prospectus.
+discussed on pages 25 and 26 of this joint proxy statement/prospectus.
 
          After careful consideration, the Towne board of directors has
 determined that the merger agreement and the transactions contemplated by it are
@@ -356,12 +326,14 @@ you.
 
                                          By Order of the Board of Directors,
 
+                                         /s/ G. Lynn Boggs
+
                                          G. Lynn Boggs
                                          Chairman of the Board of Directors and
                                          Chief Executive Officer
 
 Suwanee, Georgia
-May [   ], 2001
+May 18, 2001
 
                              PRIVATE BUSINESS, INC.
                             9010 OVERLOOK BOULEVARD,
@@ -370,7 +342,7 @@ May [   ], 2001
                 -----------------------------------------------
 
                     NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
-                                  JUNE 12, 2001
+                                  JUNE 18, 2001
                 -----------------------------------------------
 
 To the Shareholders of
@@ -378,7 +350,7 @@ Private Business, Inc.:
 
          Private Business, Inc. will hold its annual meeting of shareholders at
 its corporate offices, 9010 Overlook Boulevard, Brentwood, Tennessee 37027, at
-9:00 a.m., C.D.T., on June 12, 2001 for the following purposes:
+9:00 a.m., C.D.T., on June 18, 2001 for the following purposes:
 
          (1)      to consider and vote upon a proposal to approve the merger
                   agreement among Private Business, Inc., Towne Acquisition
@@ -419,7 +391,7 @@ BUSINESS'S CHARTER AND THE MERGER, AND WILL HAVE NO EFFECT UPON THE VOTE ON THE
 AMENDMENT TO THE STOCK OPTION PLAN AND THE ELECTION OF DIRECTORS, ASSUMING A
 QUORUM IS PRESENT. No additional postage is necessary if mailed in the United
 States. If you desire to revoke your proxy, you may do so at any time before the
-vote as discussed on page 26 of this joint proxy statement/prospectus.
+vote as discussed on pages 25 and 26 of this joint proxy statement/prospectus.
 
          The Private Business board of directors has determined that the merger
 agreement, the transactions contemplated by it, the reverse stock split, the
@@ -431,13 +403,15 @@ above.
 
                                              By Order of the Board of Directors,
 
+                                             /s/ Thomas L. Black
+
                                              Thomas L. Black
                                              Chief Executive Officer
 
 Brentwood, Tennessee
-May [   ], 2001
+May 18, 2001
 
-                                
+                                 
 
                                                                                                                PAGE
                                                                                                                ----
@@ -446,7 +420,7 @@ QUESTIONS AND ANSWERS ABOUT THE MERGER..........................................
 SUMMARY...........................................................................................................6
 RISK FACTORS.....................................................................................................14
 CAUTIONARY STATEMENT ABOUT FORWARD - LOOKING STATEMENTS..........................................................20
-SUMMARY PRO FORMA CONSOLIDATED FINANCIAL DATA OF PRIVATE BUSINESS................................................21
+SELECTED PRO FORMA CONSOLIDATED FINANCIAL DATA OF PRIVATE BUSINESS...............................................21
 COMPARATIVE PER SHARE DATA.......................................................................................22
 THE ANNUAL MEETINGS..............................................................................................23
      Information about the Annual Meetings and Voting............................................................23
@@ -454,21 +428,21 @@ THE ANNUAL MEETINGS.............................................................
      Other Voting Matters........................................................................................26
      Other Business; Adjournments and Postponements..............................................................27
 PROPOSAL ONE FOR BOTH COMPANIES - THE MERGER.....................................................................28
-     General  ...................................................................................................28
+     General.....................................................................................................28
      Private Business Proposal...................................................................................28
      Towne Proposal..............................................................................................28
      Background of the Merger....................................................................................28
-     Factors Considered by, and Recommendation of, the Board of Directors of Private Business....................31
+     Factors Considered by, and Recommendation of, the Board of Directors of Private Business....................30
      Factors Considered by, and Recommendation of, the Board of Directors of Towne...............................33
      Opinion of Towne's Financial Advisor........................................................................35
      Opinion of Private Business's Financial Advisor.............................................................41
      Towne Stock Options to Be Assumed by Private Business in the Merger.........................................46
-     Interests of Certain Persons in the Merger That Are Different from Your Interests...........................48
-     Accounting Treatment........................................................................................50
-     Legal Proceedings...........................................................................................50
+     Interests of Certain Persons in the Merger That Are Different from Your Interests...........................47
+     Accounting Treatment........................................................................................49
+     Legal Proceedings...........................................................................................49
      Dissenters' Rights..........................................................................................51
-     Delisting and Deregistration of Towne Common Stock..........................................................56
-     Federal Securities Law Consequences.........................................................................56
+     Delisting and Deregistration of Towne Common Stock..........................................................55
+     Federal Securities Law Consequences.........................................................................55
      U.S. Federal Income Tax Consequences of the Merger..........................................................56
      Certain Federal Income Tax Consequences of the Merger to Dissenting Private Business Shareholders...........58
      U.S. Federal Income Tax Consequences of the Stock Split.....................................................59
@@ -513,52 +487,52 @@ DESCRIPTION OF PRIVATE BUSINESS.................................................
      Market for Private Business's Common Equity and Related Shareholder Matters.................................92
      Selected Historical Financial and Operating Data of Private Business........................................93
      Management's Discussion and Analysis of Financial Condition and Results of Operations.......................94
-     Quantitative and Qualitative Disclosures about Market Risk.................................................101
-     Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.......................101
-DESCRIPTION OF TOWNE............................................................................................102
-     Business ..................................................................................................102
-     Market for Towne's Common Equity and Related Shareholder Matters...........................................112
-     Selected Historical Financial and Operating Data of Towne..................................................113
-     Management's Discussion and Analysis of Financial Condition and Results of Operations......................115
-     Quantitative and Qualitative Disclosures about Market Risk.................................................122
-     Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.......................122
-PROPOSAL TWO FOR TOWNE - ELECTION OF DIRECTORS..................................................................123
-     Information About Towne's Director Nominees................................................................123
-     Beneficial Ownership of Capital Stock......................................................................130
-     Executive Compensation.....................................................................................132
-     Towne Performance..........................................................................................136
-     Certain Relationships and Related Transactions.............................................................137
-     Compensation Committee Interlocks and Insider Participation................................................138
-     Section 16(a) Beneficial Ownership Reporting Compliance....................................................138
-PROPOSAL TWO FOR PRIVATE BUSINESS - ELECTION OF DIRECTORS.......................................................139
-     Information about Private Business's Director Nominees.....................................................139
-     Security Ownership of Certain Beneficial Owners and Management.............................................141
-     Executive Compensation.....................................................................................144
-     Certain Relationships and Related Transactions.............................................................150
-     Compensation Committee Interlocks and Insider Participation................................................150
-     Compensation Committee Interlocks and Insider Participation................................................150
-     Private Business Performance...............................................................................151
-     Section 16(a) Beneficial Ownership Reporting Compliance....................................................151
-PROPOSAL THREE FOR PRIVATE BUSINESS - PROPOSED AMENDMENT TO PRIVATE BUSINESS'S CHARTER..........................152
-     Introduction...............................................................................................152
-     Purpose of Reverse Split...................................................................................152
-     Exchange of Stock Certificates.............................................................................153
-     Fractional Shares..........................................................................................153
-     Federal Income Tax Consequences of the Reverse Split.......................................................154
-     Dissenters' Rights.........................................................................................154
+     Quantitative and Qualitative Disclosures about Market Risk.................................................102
+     Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.......................102
+DESCRIPTION OF TOWNE............................................................................................103
+     Business ..................................................................................................103
+     Market for Towne's Common Equity and Related Shareholder Matters...........................................113
+     Selected Historical Financial and Operating Data of Towne..................................................114
+     Management's Discussion and Analysis of Financial Condition and Results of Operations......................116
+     Quantitative and Qualitative Disclosures about Market Risk.................................................124
+     Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.......................124
+PROPOSAL TWO FOR TOWNE - ELECTION OF DIRECTORS..................................................................125
+     Information About Towne's Director Nominees................................................................125
+     Beneficial Ownership of Capital Stock......................................................................132
+     Executive Compensation.....................................................................................134
+     Towne Performance..........................................................................................138
+     Certain Relationships and Related Transactions.............................................................139
+     Compensation Committee Interlocks and Insider Participation................................................140
+     Section 16(a) Beneficial Ownership Reporting Compliance....................................................140
+PROPOSAL TWO FOR PRIVATE BUSINESS - ELECTION OF DIRECTORS.......................................................141
+     Information about Private Business's Director Nominees.....................................................141
+     Security Ownership of Certain Beneficial Owners and Management.............................................143
+     Executive Compensation.....................................................................................146
+     Certain Relationships and Related Transactions.............................................................152
+     Compensation Committee Interlocks and Insider Participation................................................152
+     Compensation Committee Interlocks and Insider Participation................................................152
+     Private Business Performance...............................................................................153
+     Section 16(a) Beneficial Ownership Reporting Compliance....................................................153
+PROPOSAL THREE FOR PRIVATE BUSINESS - PROPOSED AMENDMENT TO PRIVATE BUSINESS'S CHARTER..........................154
+     Introduction...............................................................................................154
+     Purpose of Reverse Split...................................................................................154
+     Exchange of Stock Certificates.............................................................................155
+     Fractional Shares..........................................................................................155
+     Federal Income Tax Consequences of the Reverse Split.......................................................156
+     Dissenters' Rights.........................................................................................156
 PROPOSAL FOUR FOR PRIVATE BUSINESS - PROPOSED INCREASE IN NUMBER OF SHARES RESERVED FOR
- ISSUANCE UNDER 1999 AMENDED AND RESTATED STOCK OPTION PLAN ....................................................155
-     General  ..................................................................................................155
-     Federal Income Tax Consequences of the 1999 Amended and Restated Stock Option Plan.........................156
-LEGAL AND TAX MATTERS...........................................................................................158
-EXPERTS.........................................................................................................158
+ ISSUANCE UNDER 1999 AMENDED AND RESTATED STOCK OPTION PLAN ....................................................157
+     General  ..................................................................................................157
+     Federal Income Tax Consequences of the 1999 Amended and Restated Stock Option Plan.........................158
+LEGAL AND TAX MATTERS...........................................................................................160
+EXPERTS.........................................................................................................160
 
                                        ii
 
-INDEPENDENT PUBLIC ACCOUNTANTS..................................................................................158
-OTHER MATTERS...................................................................................................158
-SHAREHOLDER PROPOSALS...........................................................................................158
-WHERE YOU CAN FIND MORE INFORMATION.............................................................................159
+INDEPENDENT PUBLIC ACCOUNTANTS..................................................................................160
+OTHER MATTERS...................................................................................................160
+SHAREHOLDER PROPOSALS...........................................................................................160
+WHERE YOU CAN FIND MORE INFORMATION.............................................................................161
 INDEX TO PRIVATE BUSINESS FINANCIAL STATEMENTS.................................................................FA-1
 INDEX TO TOWNE FINANCIAL STATEMENTS............................................................................FB-1
 
@@ -625,7 +599,7 @@ A:       Our companies are proposing the merger because we believe that the
          will realize financial and operating synergies, have an expanded market
          presence, allow us to better serve our customers, and have a stronger
          financial position. Please read the more detailed description of our
-         reasons for the merger on pages 28 through 35.
+         reasons for the merger on pages 28 through 34.
 
 Q:       WHAT WILL THE NEW COMPANY BE CALLED AND WHERE WILL IT BE HEADQUARTERED?
 
@@ -658,7 +632,7 @@ Q:       WHAT WILL HAPPEN TO SHARES OF PRIVATE BUSINESS COMMON STOCK IN
 A:       The one-for-three stock split of the common stock of Private Business
          is a condition to the merger. As a result of the reverse stock split
          effected by the charter amendment, the approximately 27,664,613 shares
-         of Private Business common stock outstanding on April 20, 2001 will
+         of Private Business common stock outstanding on May 1, 2001 will
          become approximately 9,221,538 shares of common stock, not including
          the shares of Private Business common stock issued to Towne
          shareholders in the merger. Any other shares issued before the
@@ -673,7 +647,7 @@ A:       The one-for-three stock split of the common stock of Private Business
 Q:       WHEN ARE THE ANNUAL SHAREHOLDERS' MEETINGS?
 
 A:       Each company's annual meeting of shareholders will take place on June
-         12, 2001. The time and location of each annual meeting is specified on
+         18, 2001. The time and location of each annual meeting is specified on
          the cover page of this document.
 
 Q:       WHAT WILL HAPPEN AT THE ANNUAL SHAREHOLDERS' MEETINGS?
@@ -729,7 +703,7 @@ A:       Mail your signed proxy card in the enclosed return envelope as soon as
          THE MERGER. FURTHERMORE, THE TOWNE DIRECTORS AND EXECUTIVE OFFICERS
          HAVE INTERESTS IN THE TRANSACTION THAT DIFFER FROM THOSE OF THE TOWNE
          SHAREHOLDERS. PLEASE READ WITH PARTICULAR CARE THE DESCRIPTION OF THESE
-         INTERESTS ON PAGES 48. APPROVAL OF THE MERGER BY THE TOWNE SHAREHOLDERS
+         INTERESTS ON PAGE 47. APPROVAL OF THE MERGER BY THE TOWNE SHAREHOLDERS
          WILL ALSO APPROVE THE BENEFITS BEING PROVIDED TO THE TOWNE DIRECTORS
          AND EXECUTIVE OFFICERS IN CONNECTION WITH THE MERGER.
 
@@ -907,7 +881,7 @@ A:       Private Business's shareholders have dissenters' rights, sometimes
          income tax consequences of exercising dissenters' rights. Attached as
          Annex F1 to this document is a copy of Chapter 23 of the Tennessee Act,
          and attached as Annex F2 is a copy of Article 13 of the Georgia Code,
-         in each case entitled Dissenters' Rights. See "The Merger Dissenters'
+         in each case entitled Dissenters' Rights. See "The Merger--Dissenters'
          Rights."
 
 Q:       WILL THE RIGHTS OF A TOWNE SHAREHOLDER CHANGE AS A RESULT OF THE
@@ -951,7 +925,7 @@ statement/prospectus and may not contain all of the information that is
 important to you. You should carefully read this entire document and the other
 documents to which this document refers to fully understand the merger and the
 other matters being submitted to shareholders. See "Where You Can Find More
-Information" on page 159.
+Information" on page 161.
 
 THE COMPANIES
 
@@ -1005,7 +979,7 @@ THE ANNUAL MEETINGS
 
          Towne Services, Inc. will hold its annual meeting of shareholders at
 the Hilton Garden Inn, 11695 Medlock Bridge Road, Duluth, Georgia 30097, at
-10:00 a.m., E.D.T., on June 12, 2001. At the Towne annual meeting, Towne
+10:00 a.m., E.D.T., on June 18, 2001. At the Towne annual meeting, Towne
 shareholders will be asked to approve the merger agreement and the transactions
 contemplated by the merger agreement, including the merger. In addition,
 shareholders will vote to elect three directors to serve a three-year term or
@@ -1017,7 +991,7 @@ Business board of directors.
 
          Private Business, Inc. will hold its annual meeting of shareholders at
 its corporate offices, 9010 Overlook Boulevard, Brentwood, Tennessee 37027, at
-9:00 a.m., C.D.T., on June 12, 2001. At the Private Business annual meeting,
+9:00 a.m., C.D.T., on June 18, 2001. At the Private Business annual meeting,
 Private Business shareholders will be asked to approve (a) the merger agreement
 and the transactions contemplated by the merger agreement, including the merger;
 (b) an amendment to Private Business's charter to effect a one-for-three stock
@@ -1055,7 +1029,7 @@ outstanding shares of Towne common stock in favor of the merger proposal.
 
          You can vote at the Private Business annual meeting if you owned shares
 of Private Business common stock at the close of business on May 1, 2001. On
-that date, [_________ ]shares of Private Business common stock were outstanding
+that date, 9,221,538 shares of Private Business common stock were outstanding
 and entitled to vote. You can cast one vote for each Private Business common
 share you then owned. Approval of the merger and the reverse stock split
 requires the approval of the holders of a majority of the outstanding stock of
@@ -1070,13 +1044,13 @@ Business directors and their affiliates in the aggregate beneficially own
 record date. These persons, solely in their capacity as shareholders of Private
 Business, are parties to the Private Business voting agreement in which they
 have agreed to vote their outstanding shares of Private Business common stock in
-favor of the merger and the amendment to Private Business's charter. As of April
-23, 2001, Private Business executive officers (other than those officers who are
-also directors) collectively owned approximately .1% of the outstanding shares
-of Private Business common stock. These individuals are not a party to any such
-voting agreement, but they have indicated that they intend to vote their
-outstanding shares of Private Business common stock in favor of the Private
-Business proposals.
+favor of the merger and the amendment to Private Business's charter. As of
+May 1, 2001, Private Business executive officers (other than those officers
+who are also directors) collectively owned approximately .1% of the outstanding
+shares of Private Business common stock. These individuals are not a party to
+any such voting agreement, but they have indicated that they intend to vote
+their outstanding shares of Private Business common stock in favor of the
+Private Business proposals.
 
 THE MERGER AGREEMENT
 
@@ -1122,18 +1096,18 @@ Private Business common stock outstanding immediately after the merger.
 
          As a result of the reverse stock split effected by the charter
 amendment, the approximately 27,664,613 shares of Private Business common stock
-outstanding on April 23, 2001 will become approximately 9,221,538 shares of
-common stock, not including the shares of Private Business common stock issued
-to Towne shareholders in the merger. Any other shares issued before the
-effectiveness of the charter amendment will be similarly adjusted. In addition,
-each option and warrant to purchase Private Business common stock and any other
-convertible security outstanding on the effective date will be adjusted so that
-the number of shares of Private Business common stock issuable upon their
-exercise shall be divided by three, and the exercise price of each option and
-warrant will be multiplied by three. Corresponding adjustments will be made to
-the number of shares vested under each outstanding option. Current Private
-Business shareholders will own approximately 66.7% of the shares of Private
-Business common stock outstanding immediately after the merger.
+outstanding on May 1, 2001 will become approximately 9,221,538 shares of common
+stock, not including the shares of Private Business common stock issued to Towne
+shareholders in the merger. Any other shares issued before the effectiveness of
+the charter amendment will be similarly adjusted. In addition, each option and
+warrant to purchase Private Business common stock and any other convertible
+security outstanding on the effective date will be adjusted so that the number
+of shares of Private Business common stock issuable upon their exercise shall be
+divided by three, and the exercise price of each option and warrant will be
+multiplied by three. Corresponding adjustments will be made to the number of
+shares vested under each outstanding option. Current Private Business
+shareholders will own approximately 66.7% of the shares of Private Business
+common stock outstanding immediately after the merger.
 
 MANAGEMENT AND OPERATIONS AFTER THE MERGER
 
@@ -1314,13 +1288,13 @@ this document. Please see page 72.
 
 ACCOUNTING TREATMENT
 
-         The merger will be accounted for as a purchase for accounting and
-financial reporting purposes. Under this method of accounting, Towne will be
-treated as a separate entity for periods before the completion of the merger.
-After the merger becomes effective, Towne's financial results will be
-consolidated with Private Business's financial results. Unaudited pro forma
-combined financial statements giving effect to the merger are presented under
-"Pro Forma Consolidated Financial Data."
+         The merger will be accounted for as a purchase of Towne by Private
+Business. Under this method of accounting, Towne will be treated as a separate
+entity for periods before the completion of the merger. After the merger becomes
+effective, Towne's financial results will be consolidated with Private
+Business's financial results. Unaudited pro forma consolidated financial
+statements giving effect to the merger are presented under "Pro Forma
+Consolidated Financial Data."
 
 VOTING AGREEMENTS
 
@@ -1371,7 +1345,7 @@ Towne board ended.
          Additional information on the interests of Towne directors and
 executive officers is described under the heading of "Proposal One for Both
 Companies - The Merger - Interests of Certain Persons in the Merger That Are
-Different from Your Interests." Please see pages 48 through 50.
+Different from Your Interests." Please see pages 47 through 49.
 
          As a result of the interests described above, these directors and
 officers may have been more likely to view the merger more favorably than if
@@ -1459,7 +1433,7 @@ CERTAIN DIFFERENCES IN THE RIGHTS OF SHAREHOLDERS
 shareholders of Private Business. As shareholders of Private Business, their
 rights will no longer be governed by the Georgia Business Corporation Code but
 will instead be governed by the Tennessee Business Corporation Act as well as
-Private Business's charter and bylaws. See pages 48 through 50 for summaries of
+Private Business's charter and bylaws. See pages 80 through 83 for summaries of
 certain material differences between the rights of Private Business shareholders
 and Towne shareholders.
 
@@ -1469,10 +1443,10 @@ COMPARATIVE PER SHARE MARKET PRICE INFORMATION
 SmallCap Market and shares of Towne common stock are listed on the Nasdaq
 National Market. On March 12, 2001, the last trading day before we announced the
 merger, shares of Private Business common stock closed at $ 0.875 per share, and
-shares of Towne common stock closed at $1.5625 per share. On April [ ], 2001,
-the most recent practicable date before the mailing of this document, shares of
-Private Business common stock closed at $[ ] per share, and shares of Towne
-common stock closed at $[ ] per share on that date. We can give no assurances
+shares of Towne common stock closed at $1.5625 per share. On May 16, 2001, the
+most recent practicable date before the mailing of this document, shares of
+Private Business common stock closed at $.75 per share, and shares of Towne
+common stock closed at $1.40 per share on that date. We can give no assurances
 regarding how the shares will trade after the split and the merger. These per
 share prices of Private Business do not reflect the one-for-three stock split.
 
@@ -1485,8 +1459,8 @@ March 12, 2001, multiplied by three to take into account the one-for-three
 reverse split used in calculating the approximate exchange ratio. Using the same
 methodology, the market value of the consideration that Towne common
 shareholders will receive in the merger for shares of Towne common stock would
-be approximately $2.72 per share based on the closing price of shares of Private
-Business common stock on April 23, 2001.
+be approximately $2.04 per share based on the closing price of shares of Private
+Business common stock on May 14, 2001.
 
                                   RISK FACTORS
 
@@ -1642,7 +1616,7 @@ DIFFERENT FROM YOUR INTERESTS.
 or participate in other arrangements, that give them interests in the merger
 that are different from your interests. See "Proposal One for Both Companies -
 The Merger - Interests of Certain Persons in the Merger That Are Different from
-Your Interests" on page 48. Towne shareholders should consider these interests
+Your Interests" on page 47. Towne shareholders should consider these interests
 in connection with their vote on the merger, including whether these interests
 may have influenced those directors and officers to recommend or support the
 merger. Approval of the merger by Towne's shareholders will also approve the
@@ -1747,17 +1721,18 @@ OF THE NASDAQ SMALLCAP MARKET.
 SmallCap Market. For continued listing, the shares must maintain a minimum bid
 price of at least $1.00 per share, among other things. Over the past several
 months, the bid price of Private Business's shares of common stock has
-occasionally fallen below $1.00 per share. Private Business's shares may not
-continue to maintain the minimum bid price of its common stock pursuant to the
-Nasdaq continued listing requirements. If Private Business's stock is delisted
-from Nasdaq, trading of its stock, if any, would have to be conducted on the
-Over-The-Counter Bulletin Board. If that happens, an investor could find it more
-difficult to dispose of, or to obtain accurate quotations as to the market value
-of, Private Business's stock. In addition, if Private Business's common stock
-were to become delisted from trading on the Nasdaq SmallCap Market and the
-trading price were to remain below $5.00 per share, trading in its common stock
-may also be subject to the requirements of certain SEC rules under the
-Securities Exchange Act of 1934 that require additional disclosure by
+occasionally fallen below $1.00 per share, and the minimum bid has been below
+$1.00 since April 24, 2001. Private Business's shares may fail to maintain the
+minimum bid price of its common stock pursuant to the Nasdaq continued listing
+requirements, either before or after the merger. If Private Business's stock is
+delisted from Nasdaq, trading of its stock, if any, would have to be conducted
+on the Over-The-Counter Bulletin Board. If that happens, an investor could find
+it more difficult to dispose of, or to obtain accurate quotations as to the
+market value of, Private Business's stock. In addition, if Private Business's
+common stock were to become delisted from trading on the Nasdaq SmallCap Market
+and the trading price were to remain below $5.00 per share, trading in its
+common stock may also be subject to the requirements of certain SEC rules under
+the Securities Exchange Act of 1934 that require additional disclosure by
 broker-dealers in connection with any trades involving a stock defined as a
 "penny stock" (generally, any non-Nasdaq equity security that has a market price
 of less than $5.00 per share, subject to certain exceptions). The additional
@@ -1857,9 +1832,10 @@ and may do so for future client banks. While Private Business does not expect to
 derive significant profits from processing services, acting as processor for
 client banks may expose Private Business to claims about the quality of those
 services. Private Business employees may make errors, or technical or other
-events beyond our control may occur. These errors or events may cause banks to
-reduce their participation in the program or leave the program entirely,
-negatively affecting our revenue.
+events beyond our control may occur. These errors or
+
+events may cause banks to reduce their participation in the program or leave the
+program entirely, negatively affecting our revenue.
 
 PRIVATE BUSINESS MAY NOT BE ABLE TO COMPETE EFFECTIVELY IN THE FINANCIAL
 SERVICES MARKET.
@@ -2008,118 +1984,121 @@ to in this section.
                   SELECTED PRO FORMA CONSOLIDATED FINANCIAL DATA
                                OF PRIVATE BUSINESS
 
-         The following selected pro forma consolidated financial data for the
-year ended December 31, 2000 has been derived from Private Business's Pro Forma
+         The following selected pro forma consolidated financial data as of
+March 31, 2001 and for the three months ended March 31, 2001 and the year ended
+December 31, 2000 has been derived from Private Business's Pro Forma
 Consolidated Financial Data. The selected pro forma consolidated financial data
 is based on the purchase method of accounting at the estimated exchange ratio of
  .9072 of a share of Private Business common stock for each share of Towne common
 stock after giving effect to the one-for-three stock split. The pro forma
 balance sheet data is presented as if the one-for-three stock split and the
-merger were effective on December 31, 2000. The pro forma statement of
-operations data is presented as if the one-for-three stock split and the merger
-were effective as of the beginning of the earliest period presented. The pro
-forma financial data are presented for informational purposes. The selected pro
-forma consolidated financial data is not necessarily indicative of either the
-future results of operations or the results of operations that would have
-occurred if the events described had been consummated on any date. You should
-read the following selected pro forma consolidated financial data along with the
+merger were effective on March 31, 2001. The pro forma statement of operations
+data is presented as if the one-for-three stock split and the merger were
+effective as of the beginning of the earliest period presented. The pro forma
+financial data are presented for informational purposes. The selected pro forma
+consolidated financial data is not necessarily indicative of either the future
+results of operations or the results of operations that would have occurred if
+the events described had been consummated on any date. You should read the
+following selected pro forma consolidated financial data along with the
 Unaudited Pro Forma Consolidated Financial Data and notes to that data and the
 other information contained elsewhere in this document.
 
-                                                                               PRO FORMA
-                                                                           -----------------
-                                                                              YEAR ENDED
-                                                                           DECEMBER 31, 2000
-                                                                           -----------------
-                                                                              (UNAUDITED)
+                                                                                       PRO FORMA
+                                                                           ------------------------------------
+                                                                                                 THREE MONTHS
+                                                                              YEAR ENDED             ENDED
+                                                                           DECEMBER 31, 2000     MARCH 31, 2001
+                                                                           -----------------     --------------
+                                                                                         (UNAUDITED)
 
-           Total revenues                                                       $81,742
-                                                                           -----------------
+           Total revenues                                                       $81,742             $17,798
+                                                                           -----------------     --------------
            Operating expenses:
-               General and administrative.............................           29,172
-               Selling and marketing..................................           48,145
-               Research and development...............................            1,071
-               Amortization...........................................            1,860
-               Other operating........................................              563
-                                                                           -----------------
-                     Total operating expenses.........................           80,811
-                                                                           -----------------
-           Operating income...........................................              931
-                                                                           -----------------
+               General and administrative.............................           29,172               6,835
+               Selling and marketing..................................           48,145              10,337
+               Research and development...............................            1,071                 360
+               Amortization...........................................            1,860                 513
+               Other operating........................................              563                  75
+                                                                           -----------------     --------------
+                     Total operating expenses.........................           80,811              18,120
+                                                                           -----------------     --------------
+           Operating income (loss)....................................              931                (322)
+                                                                           -----------------     --------------
            Other expenses:............................................
-               Interest expense.......................................            3,466
-               Other expenses.........................................            2,755
-                                                                           -----------------
-                     Total other expenses.............................            6,221
-                                                                           -----------------
-           Loss before income taxes...................................           (5,290)
+               Interest expense.......................................            3,466                 934
+               Other expenses.........................................            2,755                  --
+                                                                           -----------------     -------------
+                     Total other expenses.............................            6,221                 934
+                                                                           -----------------     -------------
+           Loss before income taxes...................................           (5,290)             (1,256)
 
-           Income tax provision ......................................              587
-                                                                           -----------------
-           Net loss  .................................................           (5,877)
+           Income tax provision (benefit).............................              587                (153)
+                                                                           -----------------     -------------
+           Net loss  .................................................           (5,877)             (1,103)
 
-           Preferred stock dividends and accretion....................              160
-                                                                           -----------------
-           Net loss available to common shareholders..................          $(6,037)
-                                                                           =================
-           Loss Per Share.............................................          $ (0.44)
-                                                                           =================
-           Weighted Average Common Shares Outstanding.................           13,766
-                                                                           =================
+           Preferred stock dividends and accretion....................             (160)                (40)
+                                                                           -----------------     -------------
+           Net loss available to common shareholders..................          $(6,037)            $(1,143)
+                                                                           =================     =============
+           Loss Per Share.............................................          $ (0.44)            $ (0.08)
+                                                                           =================     =============
+           Weighted Average Common Shares Outstanding.................           13,766              13,764
+                                                                           =================     =============
 
-                                                                           DECEMBER 31, 2000
-                                                                           -----------------
-                                                                               (unaudited)
+                                                                               PRO FORMA
+                                                                             MARCH 31, 2001
+                                                                             --------------
+                                                                               (UNAUDITED)
 
            Balance sheet data:
-               Cash and cash equivalents..............................          $12,361
-               Working capital........................................            5,184
-               Total assets...........................................           55,244
-               Long-term debt, net of current portion.................           42,919
-               Shareholders' deficit..................................           (7,635)
+               Cash and cash equivalents..............................          $ 8,509
+               Working capital........................................            4,170
+               Total assets...........................................           50,105
+               Long-term debt, net of current portion.................           41,603
+               Shareholders' deficit..................................           (7,795)
 
                            COMPARATIVE PER SHARE DATA
 
-         The following table sets forth certain historical earnings (loss) and
-book value per share data for Private Business and Towne and unaudited pro forma
-consolidated and unaudited equivalent pro forma earnings (loss) and book value
-per share data, excluding the effects of the conversion of the Private Business
-and Towne preferred shares and other dilutive securities. The pro forma
-earnings (loss) and book value per share data are derived from the Private
-Business Pro Forma Consolidated Financial Data included elsewhere in this
-document, which gives effect to the one-for-three stock split and the proposed
-merger under the purchase method of accounting at the estimated exchange ratio
-of .9072 of a share of Private Business common stock for each share of Towne
-common stock at the beginning of the earliest period presented. You should read
-the information set forth below along with the historical consolidated financial
-statements, including the notes to them and the Pro Forma Consolidated Financial
-Data including the notes to that Data, included elsewhere in this document. The
-pro forma consolidated per share data in the table below are presented for
-informational purposes. You should not rely on the pro forma amounts as
-indicating the financial position or the results of operations of the
+         The following table sets forth certain historical earnings (loss),
+dividend and book value per share data for Private Business and Towne and pro
+forma consolidated and equivalent pro forma earnings (loss), dividend and book
+value per share data, excluding the effects of the conversion of the Private
+Business and Towne preferred shares and other dilutive securities. The pro forma
+earnings (loss), dividend and book value per share data are derived from the
+Private Business Pro Forma Consolidated Financial Data included elsewhere in
+this document, which gives effect to the one-for-three stock split and the
+proposed merger under the purchase method of accounting at the estimated
+exchange ratio of .9072 of a share of Private Business common stock for each
+share of Towne common stock at the beginning of the earliest period presented.
+You should read the information set forth below along with the historical
+consolidated financial statements, including the notes to them and the Pro Forma
+Consolidated Financial Data including the notes to that Data, included elsewhere
+in this document. The pro forma consolidated per share data in the table below
+are presented for informational purposes. You should not rely on the pro forma
+amounts as indicating the financial position or the results of operations of the
 consolidated company that would have actually occurred had the one-for-three
 stock split and the merger been effective during the periods presented or of the
 future financial position or future results of operations of Private Business
 and Towne.
 
-                                                                      FOR THE YEAR ENDED DECEMBER 31, 2000
-                                                                      ------------------------------------
-                                                                                              PRO
-                                                                                         FORMA COMBINED
-                                                                                        PRIVATE BUSINESS/
-                                                                        HISTORICAL         TOWNE (1)
-                                                                        ----------         ---------
-                                                                                          (unaudited)
+                                            FOR THE YEAR ENDED DECEMBER 31, 2000  FOR THE THREE MONTHS ENDED MARCH 31, 2001
+                                            ------------------------------------  -----------------------------------------
+                                                                    PRO                                      PRO
+                                                               FORMA COMBINED                           FORMA COMBINED
+                                                              PRIVATE BUSINESS/                        PRIVATE BUSINESS/
+                                              HISTORICAL           TOWNE                                    TOWNE
+                                                                Equivalent(1)         HISTORICAL         Equivalent(1)
+                                              ----------        -------------         ----------         -------------
 
 Private Business Common Stock:
-     Earnings (loss) per share...................................         $ 0.54             $(0.43)
-     Dividends per share.........................................           0.00               0.00
-     Book value per share........................................          (2.62)             (0.55)
+     Earnings (loss) per share.........         $ 0.54             $(0.43)              $(0.03)            $(0.08)
+     Dividends per share...............           0.00               0.00                 0.00               0.00
+     Book value per share..............          (2.62)             (0.55)               (2.62)             (0.56)
 
 Towne Services Common Stock:
-     Loss per share..............................................         $(3.14)            $(0.39)
-     Dividends per share.........................................           0.00               0.00
-     Book value per share........................................           5.74              (0.49)
+     Loss per share....................         $(3.14)            $(0.39)              $(0.29)            $(0.07)
+     Dividends per share...............           0.00               0.00                 0.00               0.00
+     Book value per share..............           5.74              (0.49)                5.88              (0.51)
 
 (1)  The Towne per share equivalents were calculated by multiplying the Pro
      Forma Combined per share amounts by the estimated exchange ratio of .9072
@@ -2140,7 +2119,7 @@ PRIVATE BUSINESS ANNUAL MEETING:               TOWNE ANNUAL MEETING:
 
                      TIME AND PLACE OF THE ANNUAL MEETINGS
 
-June 12, 2001                                  June 12, 2001
+June 18, 2001                                  June 18, 2001
 9:00 a.m., C.D.T.                              10:00 a.m., E.D.T.
 Private Business, Inc.                         Hilton Garden Inn
 9010 Overlook Boulevard,                       11695 Medlock Bridge Road
@@ -2193,7 +2172,7 @@ PRIVATE BUSINESS ANNUAL MEETING:               TOWNE ANNUAL MEETING:
                      OUTSTANDING SHARES HELD ON RECORD DATE
 
 As of the record date, there were              As of the record date, there were
-[               ]  outstanding shares of       5,037,421 outstanding shares of Towne
+9,221,538 outstanding shares of                5,037,421 outstanding shares of Towne
 Private Business common stock that are         common stock, and 20,000 outstanding
 entitled to notice of, and to vote at,         shares of Series B preferred stock,
 the annual meeting.                            that are entitled to notice of, and
@@ -2545,10 +2524,9 @@ confidentiality agreement, which the parties signed on February 16.
 Officer, Fred Read, traveled to Towne's offices in Atlanta to conduct business
 due diligence. They met with Mr. Boggs, Mr. Baroco and Towne's Chief Financial
 Officer, Randall S. Vosler, and discussed various aspects of Towne's operations.
-On March 1 and
-
-March 2, Mr. Boggs, Mr. Baroco and Mr. Vosler conducted reciprocal business due
-diligence on Private Business at its headquarters in Brentwood, Tennessee.
+On March 1 and March 2, Mr. Boggs, Mr. Baroco and Mr. Vosler conducted
+reciprocal business due diligence on Private Business at its headquarters in
+Brentwood, Tennessee.
 
          During the week of March 5, Mr. Boggs discussed the potential terms of
 the merger with the other members of Towne's executive committee - Mr. Collins,
@@ -2787,6 +2765,7 @@ different factors.
          The Private Business board realized that there are risks associated
 with the transaction, including that some of the potential benefits set forth
 above may not be realized or that there may be significant costs associated with
+
 realizing such benefits. Many of these factors are discussed more fully in this
 document under "Risk Factors." Additional risks not identified in this document
 may also exist. However, the Private Business board believes that the positive
@@ -2870,10 +2849,12 @@ factors:
          -        Opinion of Financial Advisor. The financial presentation of
                   Towne's financial advisor, First Union, described below to the
                   effect that, based upon its review and assumptions and subject
-                  to specific matters stated in the opinion, as of April 12,
-                  2001, the exchange ratio pursuant to the merger agreement was
-                  fair, from a financial point of view, to the holders of Towne
-                  common stock.
+                  to
+
+                  specific matters stated in the opinion, as of April 12, 2001,
+                  the exchange ratio pursuant to the merger agreement was fair,
+                  from a financial point of view, to the holders of Towne common
+                  stock.
 
          -        Potential Synergies. The potential benefits to be derived from
                   the merger as described above under "General," including
@@ -2929,11 +2910,9 @@ Different from Your Interests."
 Towne's board of directors. In view of the variety of factors and the amount of
 information considered, Towne's directors did not find it practicable to, and
 did not, quantify, rank or otherwise assign relative weights to the specific
-factors it considered in reaching its
-
-decision. The determination was made after consideration of all of the factors
-as a whole. In addition, individual board members may have given different
-weights to different factors.
+factors it considered in reaching its decision. The determination was made
+after consideration of all of the factors as a whole. In addition, individual
+board members may have given different weights to different factors.
 
          The Towne board realized that there are risks associated with the
 transaction, including that some of the potential benefits set forth above may
@@ -3006,19 +2985,18 @@ provided First Union with financial forecasts for the calendar years 2001 and
 2002. Private Business provided First Union with financial forecasts for the
 calendar years 2001 through 2006. With respect to Towne's and Private Business's
 financial forecasts, First Union assumed that they have been reasonably prepared
-and reflect the best
-
-current estimates and judgments of Towne's and Private Business's management
-teams as to the future financial performance of their respective companies.
-First Union has discussed Towne's and Private Business's financial projections
-with the respective management teams of Towne and Private Business. However,
-First Union assumes no responsibility for and expresses no view as to Towne's or
-Private Business's financial projections or the assumptions upon which they are
-based. In arriving at its opinion, First Union did not conduct any physical
-inspection of the properties or facilities of Towne or Private Business and did
-not make and was not provided with any evaluations or appraisals of the assets
-or liabilities of Towne or Private Business. Towne imposed no limitations on
-First Union with respect to First Union's investigations or procedures.
+and reflect the best current estimates and judgments of Towne's and Private
+Business's management teams as to the future financial performance of their
+respective companies. First Union has discussed Towne's and Private Business's
+financial projections with the respective management teams of Towne and Private
+Business. However, First Union assumes no responsibility for and expresses no
+view as to Towne's or Private Business's financial projections or the
+assumptions upon which they are based. In arriving at its opinion, First Union
+did not conduct any physical inspection of the properties or facilities of Towne
+or Private Business and did not make and was not provided with any evaluations
+or appraisals of the assets or liabilities of Towne or Private Business. Towne
+imposed no limitations on First Union with respect to First Union's
+investigations or procedures.
 
          First Union's opinion is based on economic, market, financial and other
 conditions as they exist and can be evaluated on the date of its opinion, and
@@ -3028,8 +3006,9 @@ obligation to update, revise or reaffirm its opinion.
 
          In rendering its opinion, First Union assumed that the merger will be
 consummated on the terms described in the merger agreement that First Union
-reviewed, without any waiver of any material terms or conditions. First Union's
-opinion does not address the relative merits of the merger and any other
+reviewed, without any waiver of any material terms or conditions. First
+
+Union's opinion does not address the relative merits of the merger and any other
 business strategies considered by Towne's board of directors, nor does it
 address the board of directors' decision to proceed with the merger.
 
@@ -3152,11 +3131,10 @@ Fiserv, Inc.                                   CUSA Technologies, Inc.
 performance, First Union calculated multiples of enterprise value to revenue and
 enterprise value to earnings before interest, taxes, depreciation and
 amortization in each case for the latest 12 months preceding the announcement of
-the transactions. Due to the lack
-
-of positive earnings before interest, taxes, depreciation and amortization for
-Towne, a comparison of those multiples to enterprise value was not relevant. For
-the comparable transactions, multiples were as follows:
+the transactions. Due to the lack of positive earnings before interest, taxes,
+depreciation and amortization for Towne, a comparison of those multiples to
+enterprise value was not relevant. For the comparable transactions, multiples
+were as follows:
 
          Ratio of Enterprise Value to:                    Range                      Median
          ----------------------------                     -----                      ------
@@ -3230,7 +3208,6 @@ before announcement of the merger were 81.0%, 61.6% and 41.4%, respectively.
          Comparable Public Companies Analysis. First Union compared certain
 financial and operating ratios for Private Business with the corresponding
 financial and operating ratios for a group of publicly traded companies
-
 providing services to financial institutions that First Union deemed to be
 comparable to Private Business. For the purpose of its analyses, First Union
 used the following financial services:
@@ -3303,10 +3280,9 @@ the transactions. For the comparable transactions, multiples were as follows:
 to the latest 12 months revenue and earnings before interest, taxes,
 depreciation and amortization results of Private Business to determine an
 implied equity value for Private Business. This analysis resulted in a range of
-equity values per common share of $5.18 to
-
-$26.85, with a median of $16.02. All per share values of Private Business
-reflect a one-for-three reverse split as contemplated in the merger agreement.
+equity values per common share of $5.18 to $26.85, with a median of $16.02. All
+per share values of Private Business reflect a one-for-three reverse split as
+contemplated in the merger agreement.
 
          No company utilized in the selected comparable transactions analysis is
 identical to Private Business nor is any transaction identical to the
@@ -3380,12 +3356,11 @@ could vary significantly from those set forth in the projections.
 
          The First Union opinion and the presentation to the Towne board of
 directors summarized above were among the many factors taken into consideration
-by the Towne board of directors in making its determination to
-
-approve, and to recommend that the Towne shareholders approve, the merger. First
-Union does not, however, make any recommendation to holders of Towne common
-stock (or to any other person or entity) as to whether they should vote for or
-against the merger.
+by the Towne board of directors in making its determination to approve, and to
+recommend that the Towne shareholders approve, the merger. First Union does not,
+however, make any recommendation to holders of Towne common stock (or to any
+other person or entity) as to whether they should vote for or against the
+merger.
 
          Pursuant to the engagement letter, Towne agreed to pay First Union a
 fee of $490,000 for its services with respect to the transaction. The opinion
@@ -3405,16 +3380,17 @@ banking activities, are regularly engaged in the valuation of businesses and
 their securities in connection with merger transactions and other types of
 acquisitions, negotiated underwritings, secondary distributions of listed and
 unlisted securities, private placements and valuations for corporate and other
-purposes. Towne selected First Union as its financial advisor on the basis of
-First Union's experience and expertise in transactions similar to the merger
-between Towne and Private Business. In the past, First Union or its affiliates
-have performed certain investment banking services for Towne, including acting
-as managing underwriter in various equity offerings of Towne, and received
-customary fees and commissions for such services. In the ordinary course of
-business, First Union or its affiliates may actively trade the debt and equity
-securities of Towne and Private Business for its or any affiliate's own account
-or for the account of customers and, accordingly, may hold a long or short
-position in such securities.
+purposes. Towne selected First Union
+
+as its financial advisor on the basis of First Union's experience and expertise
+in transactions similar to the merger between Towne and Private Business. In the
+past, First Union or its affiliates have performed certain investment banking
+services for Towne, including acting as managing underwriter in various equity
+offerings of Towne, and received customary fees and commissions for such
+services. In the ordinary course of business, First Union or its affiliates may
+actively trade the debt and equity securities of Towne and Private Business for
+its or any affiliate's own account or for the account of customers and,
+accordingly, may hold a long or short position in such securities.
 
 OPINION OF PRIVATE BUSINESS'S FINANCIAL ADVISOR
 
@@ -3483,13 +3459,14 @@ by the analyses. Additionally, estimates of the value of businesses or
 securities do not purport to be appraisals or to reflect the prices at which the
 businesses or securities might actually be sold. Accordingly, the analyses and
 estimates are inherently subject to substantial uncertainty. In addition, the
-requirement for the delivery of the Updata Capital fairness opinion was among
-several factors taken into consideration by the Private Business board in making
-its determination to approve the merger agreement and the transactions
-contemplated thereby, Consequently, the Updata Capital analyses described below
-should not be viewed as determinative of the decision of the Private Business
-board or Private Business's management with respect to the fairness of the
-exchange ratio.
+requirement for the delivery
+
+of the Updata Capital fairness opinion was among several factors taken into
+consideration by the Private Business board in making its determination to
+approve the merger agreement and the transactions contemplated thereby,
+Consequently, the Updata Capital analyses described below should not be viewed
+as determinative of the decision of the Private Business board or Private
+Business's management with respect to the fairness of the exchange ratio.
 
          In arriving at its opinion, Updata Capital, among other things:
 
@@ -3539,21 +3516,19 @@ discussed with Updata Capital, or that was publicly available; Updata Capital
 has not assumed any responsibility for independently verifying this information
 or undertaken an independent evaluation or appraisal of any of the assets or
 liabilities of Towne or Private Business or been furnished with any evaluation
-or appraisal. In addition, Updata
-
-Capital has not conducted, or assumed any obligation to conduct, any physical
-inspection of the properties or facilities of Towne or Private Business. With
-respect to the financial forecast information furnished to or discussed with
-Updata Capital by Towne or Private Business, Updata Capital assumed that they
-had been reasonably prepared and, at the time of their review, reflected the
-best available estimates and judgment of Towne's or Private Business's
-management as to the expected future financial performance of Towne or Private
-Business, as the case may be. Updata Capital further assumed that the merger
-would be accounted for as a purchase under generally accepted accounting
-principles and that it would qualify as a tax-free reorganization for U.S.
-federal income tax purposes. Updata Capital also assumed that the final form of
-the merger agreement would be substantially similar to the last draft reviewed
-by it.
+or appraisal. In addition, Updata Capital has not conducted, or assumed any
+obligation to conduct, any physical inspection of the properties or facilities
+of Towne or Private Business. With respect to the financial forecast information
+furnished to or discussed with Updata Capital by Towne or Private Business,
+Updata Capital assumed that they had been reasonably prepared and, at the time
+of their review, reflected the best available estimates and judgment of Towne's
+or Private Business's management as to the expected future financial performance
+of Towne or Private Business, as the case may be. Updata Capital further assumed
+that the merger would be accounted for as a purchase under generally accepted
+accounting principles and that it would qualify as a tax-free reorganization for
+U.S. federal income tax purposes. Updata Capital also assumed that the final
+form of the merger agreement would be substantially similar to the last draft
+reviewed by it.
 
          Updata Capital's opinion is necessarily based upon market, economic and
 other conditions as they existed and could be evaluated on, and on the
@@ -3568,10 +3543,12 @@ contemplated benefits of the merger.
 analyses of current and projected financial and operating data by both Private
 Business and Towne and through negotiations between the chief executive officers
 of Private Business and Towne. After substantial analysis and consideration, the
-Private Business board unanimously approved the merger agreement and the
-transactions contemplated in it, including the merger, and the amendment to
-Private Business's charter to effect a one-for-three split of Private Business's
-common stock.
+Private Business
+
+board unanimously approved the merger agreement and the transactions
+contemplated in it, including the merger, and the amendment to Private
+Business's charter to effect a one-for-three split of Private Business's common
+stock.
 
          The following is a brief summary of the material analyses performed by
 Updata Capital in connection with its preparation of the fairness opinion.
@@ -3604,11 +3581,11 @@ range of $0.08 to $12.41 with a mean value of $3.44.
                                                    ANNOUNCEMENT           TO ANNOUNCEMENT
                                                    ------------           ---------------
 
-              PERCENTAGE PREMIUMS   Median         37.7%                  29.6%
-                                    Mean           38.8%                  72.1%
+              PERCENTAGE PREMIUMS   Median              37.7%                  29.6%
+                                    Mean                38.8%                  72.1%
 
-              PRICE PER SHARE       Median         $2.15                  $2.59
-                                    Mean           $2.17                  $3.44
+              PRICE PER SHARE       Median              $2.15                  $2.59
+                                    Mean                $2.17                  $3.44
 
          Analysis of Publicly Traded Companies Considered Comparable to Towne
 
@@ -3616,24 +3593,23 @@ range of $0.08 to $12.41 with a mean value of $3.44.
 market valuation multiples based upon such performance and outlook, relative to
 a group of public companies deemed comparable in whole or in part to Towne, to
 determine a range of implied values for Towne. Using publicly filed SEC
-documents and published
-
-estimates from Wall Street equity analysts, Updata Capital analyzed the
-comparable companies in the context of revenue and EBITDA numbers for calendar
-year 2000 and 2001 as multiples of net enterprise value, and net income numbers
-for calendar year 2000 and 2001 as multiples of equity market value. Equity
-market value represents a company's current stock price multiplied by its
-diluted shares outstanding. Net enterprise value is defined as equity market
-value plus debt and preferred stock, minus cash and cash equivalents on the most
-recent publicly available balance sheet. EBITDA means a company's earnings
-before interest, taxes, depreciation, and amortization. Although Updata Capital
-reviewed all three of the above-stated multiples, due to Towne's historically
-negative EBITDA and net income, implied valuations presented to the Private
-Business board focused on revenue multiples. With respect to implied valuations
-of Towne based upon projected revenues, Updata Capital utilized two sets of
-projections: (a) calendar 2001 revenue estimates provided by Towne management,
-and (b) run rate 2001 revenue determined by multiplying Towne's actual unaudited
-January and February 2001 results by six to imply 12 months of revenues.
+documents and published estimates from Wall Street equity analysts, Updata
+Capital analyzed the comparable companies in the context of revenue and EBITDA
+numbers for calendar year 2000 and 2001 as multiples of net enterprise value,
+and net income numbers for calendar year 2000 and 2001 as multiples of equity
+market value. Equity market value represents a company's current stock price
+multiplied by its diluted shares outstanding. Net enterprise value is defined as
+equity market value plus debt and preferred stock, minus cash and cash
+equivalents on the most recent publicly available balance sheet. EBITDA means a
+company's earnings before interest, taxes, depreciation, and amortization.
+Although Updata Capital reviewed all three of the above-stated multiples, due to
+Towne's historically negative EBITDA and net income, implied valuations
+presented to the Private Business board focused on revenue multiples. With
+respect to implied valuations of Towne based upon projected revenues, Updata
+Capital utilized two sets of projections: (a) calendar 2001 revenue estimates
+provided by Towne management, and (b) run rate 2001 revenue determined by
+multiplying Towne's actual unaudited January and February 2001 results by six to
+imply 12 months of revenues.
 
          Because Towne may be reasonably considered, at least in part, both a
 financial software company and a financial processing outsourcing company,
@@ -3691,23 +3667,23 @@ Towne's common stock based upon Towne's projections, these multiples resulted in
 per share prices ranging from $2.98 to $15.95 with a mean of $8.21 for 2000
 revenues, and per share prices ranging from $7.06 to $12.11 with a mean of $9.78
 for estimated 2001 revenues. Translated into an implied value for Towne's common
-
 stock based upon a run rate of Towne's results in January and February of 2001,
 these multiples resulted in per share prices ranging from $6.39 to $10.81 with a
 mean of $8.77 for 2001 revenues.
 
                                        FINANCIAL OUTSOURCERS              FINANCIAL SOFTWARE COMPANIES
+                                       ---------------------              ----------------------------
                                   2000 REVENUES      2001 REVENUES      2000 REVENUES      2001 REVENUES
                                   -------------      -------------      -------------      -------------
 
-Multiples             Median      1.5x               1.5x               1.0x               1.7x
-                      Mean        1.5x               1.3x               1.3x               1.6x
+Multiples             Median          1.5x               1.5x               1.0x               1.7x
+                      Mean            1.5x               1.3x               1.3x               1.6x
 Price per share
-(Management           Median      $9.50              $9.12              $7.05              $10.18
-Projections)          Mean        $9.60              $8.52              $8.21              $9.78
+(Management           Median          $9.50              $9.12              $7.05              $10.18
+Projections)          Mean            $9.60              $8.52              $8.21              $9.78
 Price per share
-(Run Rate             Median                         $8.19                                 $9.11
-Projections)          Mean                           $7.67                                 $8.77
+(Run Rate             Median                             $8.19                                 $9.11
+Projections)          Mean                               $7.67                                 $8.77
 
          Analysis of Comparable Precedent Transactions
 
@@ -3716,11 +3692,12 @@ selected acquisitions of public and private companies that were deemed to be
 reasonably similar to Towne in whole or in part. For each transaction, Updata
 Capital calculated transaction multiples at announcement based on transaction
 value, which is equivalent to net enterprise value, over the latest 12 month
-(LTM) revenues and LTM EBIT, where data was available and meaningful. Due to
-historical and projected negative EBIT for Towne, the valuation range was
-calculated using revenue multiples. It should be noted that none of the
-precedent transactions are identical to the contemplated merger and that,
-therefore, there are numerous factors that may have impacted the resulting
+(LTM) revenues and LTM EBIT, where data was available and
+
+meaningful. Due to historical and projected negative EBIT for Towne, the
+valuation range was calculated using revenue multiples. It should be noted that
+none of the precedent transactions are identical to the contemplated merger and
+that, therefore, there are numerous factors that may have impacted the resulting
 transaction multiples that would affect the implied valuation of Towne.
 
          Acquisitions included by Updata Capital, and for which data was
@@ -3791,13 +3768,14 @@ securities laws.
 experience and expertise. Updata Capital focuses on providing merger and
 acquisition, and strategic advisory services to information technology
 companies. Updata Capital, as part of its investment banking services, is
-regularly engaged in the valuation of businesses and their securities in
-connection with mergers and acquisitions, strategic transactions, corporate
-restructurings, and other investment banking activity. Updata Capital has
-provided investment banking and other financial advisory services to Private
-Business in the past and may in the future provide such services to Private
-Business or Towne or their affiliates and may receive fees for the rendering of
-such services.
+regularly engaged in the valuation of
+
+businesses and their securities in connection with mergers and acquisitions,
+strategic transactions, corporate restructurings, and other investment banking
+activity. Updata Capital has provided investment banking and other financial
+advisory services to Private Business in the past and may in the future provide
+such services to Private Business or Towne or their affiliates and may receive
+fees for the rendering of such services.
 
 TOWNE STOCK OPTIONS TO BE ASSUMED BY PRIVATE BUSINESS IN THE MERGER
 
@@ -3833,22 +3811,21 @@ Towne and its subsidiaries by giving certain employees, directors, key
 consultants and advisors an opportunity to acquire or increase their proprietary
 interests in Towne. All of these options were issued at the fair market value of
 the common stock on the date of grant as determined by Towne's board of
-directors. Effective May
-
-19, 1998, Towne did not grant any additional options under this plan and
-following the merger, no additional stock options will be granted pursuant to
-this plan. Some of the options granted pursuant to this plan are designated as
-incentive stock options, and the remainder are classified as non-statutory stock
-options. Assuming no modifications are made to the stock option agreements other
-than the adjustments to the number of options and the exercise prices to reflect
-Private Business's assumption, the status of any Towne incentive stock options
-assumed by Private Business in the merger will not change following the merger.
-The tax consequences for any assumed Towne incentive stock options will be the
-same as that of any other Private Business incentive stock options. For a
-detailed description of the federal income tax consequences of these different
-types of options, see the discussion regarding Private Business's stock option
-plans under "Proposal Four for Private Business - Federal Income Tax
-Consequences of the 1999 Amended and Restated Stock Option Plan."
+directors. Effective May 19, 1998, Towne did not grant any additional options
+under this plan and following the merger, no additional stock options will be
+granted pursuant to this plan. Some of the options granted pursuant to this plan
+are designated as incentive stock options, and the remainder are classified as
+non-statutory stock options. Assuming no modifications are made to the stock
+option agreements other than the adjustments to the number of options and the
+exercise prices to reflect Private Business's assumption, the status of any
+Towne incentive stock options assumed by Private Business in the merger will not
+change following the merger. The tax consequences for any assumed Towne
+incentive stock options will be the same as that of any other Private Business
+incentive stock options. For a detailed description of the federal income tax
+consequences of these different types of options, see the discussion regarding
+Private Business's stock option plans under "Proposal Four for Private Business
+- - Federal Income Tax Consequences of the 1999 Amended and Restated Stock Option
+Plan."
 
          1998 Stock Option Plan
 
@@ -3869,7 +3846,9 @@ Business's assumption, the status of any Towne incentive stock options assumed
 by Private Business in the merger will not change following the merger. The tax
 consequences for any assumed Towne incentive stock options will be the same as
 that for any other Private Business incentive stock options. For a detailed
-description of the federal income tax consequences of these different types of
+description of the
+
+federal income tax consequences of these different types of
 options, see the discussion regarding Private Business's stock option plans
 under "Proposal Four for Private Business - Federal Income Tax Consequences of
 the 1999 Amended and Restated Stock Option Plan."
@@ -3910,15 +3889,14 @@ the individual agreement, following the respective Towne directors' and advisory
 director's termination of service to Towne following the merger. See "Proposal
 One for Both Companies - The Merger - Interests of Certain Persons in the Merger
 That Are Different from Your Interests - Modification of Director Options" for
-details regarding this matter.
-
-Private Business will assume the remaining 46,385 non-plan stock options under
-their existing terms. All of these options were issued at the fair market value
-of Towne's common stock on the date of grant as determined by Towne's board of
-directors. The federal income tax consequences for any assumed Towne
-non-statutory stock options are the same as that for any non-statutory stock
-options which are described under "Proposal Four for Private Business - Federal
-Income Tax Consequences of the 1999 Amended and Restated Stock Option Plan."
+details regarding this matter. Private Business will assume the remaining 46,385
+non-plan stock options under their existing terms. All of these options were
+issued at the fair market value of Towne's common stock on the date of grant as
+determined by Towne's board of directors. The federal income tax consequences
+for any assumed Towne non-statutory stock options are the same as that for any
+non-statutory stock options which are described under "Proposal Four for Private
+Business - Federal Income Tax Consequences of the 1999 Amended and Restated
+Stock Option Plan."
 
 INTERESTS OF CERTAIN PERSONS IN THE MERGER THAT ARE DIFFERENT FROM YOUR
 INTERESTS
@@ -3946,22 +3924,24 @@ arrangement at Private Business for six months following the closing at a rate
 of $400,000 per year, and (c) upon termination of the consulting arrangement, a
 payment of $320,000 as reasonable compensation for his agreement not to compete
 with the surviving company or Private Business for one year following
-termination of the consulting agreement. He will also receive title to his
-company car and the furniture in his office at the closing of the merger, and
-Towne will reimburse him for any COBRA continuation premiums he pays during the
-18 months following the merger.These payments will be in lieu of the $1,175,000
-payment provided for in his current executive employment agreement with Towne.
-Mr. Boggs is not entitled to the accelerated vesting of any equity securities he
-holds at the time of termination. Private Business will assume the options Mr.
-Boggs received as an executive officer under its covenant in the merger
-agreement to assume all outstanding Towne stock options, but those options will
-expire according to their terms at specified periods after he leaves the
-employment of Towne upon the merger. As is true for all of Towne's directors,
-however, the Towne options he has received for his service as a director will be
-assumed by Private Business and modified to reflect that they will remain in
-effect until their scheduled expiration dates, notwithstanding that they would
-under their terms expire on specified dates after his service as a Towne
-director ended. See "Modification of Director Options" below."
+termination of the consulting agreement. He will
+
+also receive title to his company car and the furniture in his office at the
+closing of the merger, and Towne will reimburse him for any COBRA continuation
+premiums he pays during the 18 months following the merger. These payments will
+be in lieu of the $1,175,000 payment provided for in his current executive
+employment agreement with Towne. Mr. Boggs is not entitled to the accelerated
+vesting of any equity securities he holds at the time of termination. Private
+Business will assume the options Mr. Boggs received as an executive officer
+under its covenant in the merger agreement to assume all outstanding Towne stock
+options, but those options will expire according to their terms at specified
+periods after he leaves the employment of Towne upon the merger. As is true for
+all of Towne's directors, however, the Towne options he has received for his
+service as a director will be assumed by Private Business and modified to
+reflect that they will remain in effect until their scheduled expiration dates,
+notwithstanding that they would under their terms expire on specified dates
+after his service as a Towne director ended. See "Modification of Director
+Options" below."
 
          Henry M. Baroco, President, Chief Operating Officer, and Director. A
 condition to the merger is that Mr. Baroco be employed as Chief Operating
@@ -3988,7 +3968,6 @@ control, he will receive a severance payment equal to six months' salary.
          Modification of Director Options. All of the options the Towne
 directors (and an advisory director) have received in connection with their
 service as directors have vested, and those options will be assumed by Private
-
 Business as provided in the merger agreement. Like all Towne options, the
 options that a director has received for his service as a director will be
 assumed by Private Business and converted into options to purchase shares of
@@ -4022,13 +4001,14 @@ Bahram Yusefzadeh..............             12,614                      12.73   
 the Mergers. Under the terms of the merger agreement, Towne has the right to
 designate three directors for election to the Private Business board of
 directors at the effective time of the merger, and Towne's board of directors
-has selected Frank W. Brown, Richardson M. Roberts, and Glenn W. Sturm as its
-designees. These directors, unlike the other Towne directors and the Towne
-shareholders generally, have the opportunity to benefit from their continuing
-service on the Private Business board and from the cash and equity compensation
-they can expect to gain from such service. See "Proposal Two for Towne -
-Election of Directors" below for biographical information about these three
-designees.
+has selected Frank W. Brown,
+
+Richardson M. Roberts, and Glenn W. Sturm as its designees. These directors,
+unlike the other Towne directors and the Towne shareholders generally, have the
+opportunity to benefit from their continuing service on the Private Business
+board and from the cash and equity compensation they can expect to gain from
+such service. See "Proposal Two for Towne - Election of Directors" below for
+biographical information about these three designees.
 
          Glenn W. Sturm Is Partner in Law Firm that Is Counsel to Towne. Mr.
 Sturm, a director of Towne and member of its executive committee, is a partner
@@ -4060,10 +4040,9 @@ from the closing of the merger.
 itself and Towne, that no such person will make any claim against any present or
 former director or officer of Towne, Towne Acquisition Corporation or Private
 Business that would result in such person losing the benefit of any directors'
-and officers'
-
-insurance to which such officer or director would otherwise have been entitled
-without the consent of the majority of Private Business's board of directors.
+and officers' insurance to which such officer or director would otherwise have
+been entitled without the consent of the majority of Private Business's board of
+directors.
 
          Approval of the merger by the Towne shareholders will also constitute
 consent to benefits provided to the Towne executive officers and directors in
@@ -4071,13 +4050,13 @@ connection with the merger.
 
 ACCOUNTING TREATMENT
 
-         The merger will be accounted for as a purchase for accounting and
-financial reporting purposes. Under this method of accounting, Towne will be
-treated as a separate entity for periods before the completion of the merger.
-After the merger becomes effective, Towne's financial results will be
-consolidated with Private Business's financial results. Unaudited pro forma
-consolidated financial statements giving effect to the merger are presented
-under "Pro Forma Consolidated Financial Data."
+         The merger will be accounted for as a purchase of Towne by Private
+Business. Under this method of accounting, Towne will be treated as a separate
+entity for periods before the completion of the merger. After the merger becomes
+effective, Towne's financial results will be consolidated with Private
+Business's financial results. Unaudited pro forma consolidated financial
+statements giving effect to the merger are presented under "Pro Forma
+Consolidated Financial Data."
 
 LEGAL PROCEEDINGS
 
@@ -4099,28 +4078,28 @@ filed in U.S. District Court, Northern District of Georgia, on November 24,
 1999.
 
          The two original suits are purported securities class actions brought
-by the named individual shareholders against the Company, two of its former
-officers and a current officer. No class has yet been certified. The complaints
-allege, among other things, that Towne should have disclosed in the prospectus
-used for its secondary public offering in June 1999 that it allegedly
-experienced serious problems with its network infrastructure and processing
-facilities during the move of its corporate headquarters in June 1999, and that
-these problems allegedly led to a higher than usual number of customers
-terminating their contracts during the second quarter. Plaintiffs further claim
-that the alleged failure by Towne to disclose a component of income separate
-from continuing operations related to a sale of software during the second
-quarter violated generally accepted accounting principles and that the sale of
-the software was conducted to conceal the loss of revenues from customer
-attrition. The complaints seek an unspecified award of damages. The court
-recently granted a motion to consolidate the Golab and Bolen cases and the
-plaintiffs have filed an amended complaint. This amended complaint combines the
-claims in the Golab and Bolen cases. Towne has filed a motion to dismiss for
-failure to state a claim, and the plaintiffs have filed an answer to Towne's
-motion. Discovery has not yet commenced and will be stayed pending the court's
-ruling on the motion to dismiss. Towne believes that the allegations in the
-complaints are without merit and intend to defend the lawsuits vigorously.
-Towne's directors and executive officers liability insurance carrier is
-presently providing a defense under a reservation of rights.
+by the named individual shareholders against Towne, two of its former officers
+and a current officer. No class has yet been certified. The complaints allege,
+among other things, that Towne should have disclosed in the prospectus used for
+its secondary public offering in June 1999 that it allegedly experienced serious
+problems with its network infrastructure and processing facilities during the
+move of its corporate headquarters in June 1999, and that these problems
+allegedly led to a higher than usual number of customers terminating their
+contracts during the second quarter. Plaintiffs further claim that the alleged
+failure by Towne to disclose a component of income separate from continuing
+operations related to a sale of software during the second quarter violated
+generally accepted accounting principles and that the sale of the software was
+conducted to conceal the loss of revenues from customer attrition. The
+complaints seek an unspecified award of damages. The court recently granted a
+motion to consolidate the Golab and Bolen cases and the plaintiffs have filed an
+amended complaint. This amended complaint combines the claims in the Golab and
+Bolen cases. Towne has filed a motion to dismiss for failure to state a claim,
+and the plaintiffs have filed an answer to Towne's motion. Discovery has not yet
+commenced and will be stayed pending the court's ruling on the motion to
+dismiss. Towne believes that the allegations in the complaints are without merit
+and intend to defend the lawsuits vigorously. Towne's directors and executive
+officers liability insurance carrier is presently providing a defense under a
+reservation of rights.
 
          2. Edward H. Sullivan, Jr. and Lisa Sullivan v. Towne Services, Inc.,
 Towne Services, Inc., as the successor to Banking Solutions, Inc., Banc
@@ -4130,34 +4109,65 @@ the District Court of Collin County, Texas; Judicial District 199; Civil Action
 No. 199-1848-99, on or about November 15, 1999.
 
          This lawsuit arises out of Towne's acquisition of Banking Solutions,
-Inc., or BSI, through a stock purchase made by its subsidiary, BSI Acquisition
+Inc. ("BSI") through a stock purchase made by its subsidiary, BSI Acquisition
 Corp., in December 1998. Plaintiff Edward Sullivan, Jr. was employed by BSI.
 Sullivan alleges, among other things, that he had a buy-out agreement with BSI
 and certain BSI shareholders under which, in certain circumstances, Sullivan was
 to receive a commission based on the gross sales price paid by any purchaser of
 BSI. Sullivan contends that BSI and the other shareholders allegedly
-fraudulently induced him to
+fraudulently induced him to release them from the agreement by fraudulently
+misrepresenting the gross sales price paid by Towne's subsidiary in the stock
+purchase. Sullivan contends that Towne is liable to him as the successor to BSI,
+and also for allegedly tortiously interfering with the agreement. Sullivan also
+contends Towne conspired with the other defendants to misrepresent the "gross
+purchase price." Towne denies all allegations of the petition. Mr. Sullivan and
+his wife seek an unspecified amount of damages including a percentage of the
+gross sales price paid by Towne's subsidiary for the acquisition of BSI, as well
+as punitive damages, attorneys' fees, and pre-judgment and post-judgment
+interest. Towne has filed a motion for summary judgment seeking dismissal of all
+claims against it. The court has not yet ruled on the motion, and discovery is
+ongoing. Towne believes that the allegations in the complaint are without merit
+and intends to defend the lawsuit vigorously. Towne also contends that it is
+entitled to indemnification from the BSI shareholders for Towne's expenses in
+defending this action. Specifically, the BSI stock purchase agreement provides
+that the BSI shareholders will indemnify Towne against any claims, damages,
+liabilities, costs and expenses (including reasonable attorneys' and
+accountants' fees and expenses) Towne suffers that arise out of any breach of
+the representations made by BSI in the agreement, provided that the amount of
+all such claims, etc. exceeds $100,000.
 
-release them from the agreement by fraudulently misrepresenting the gross sales
-price paid by Towne's subsidiary in the stock purchase. Sullivan contends that
-Towne is liable to him as the successor to BSI, and also for allegedly
-tortiously interfering with the agreement. Sullivan also contends Towne
-conspired with the other defendants to misrepresent the "gross purchase price."
-Towne denies all allegations of the petition. Mr. Sullivan and his wife seek an
-unspecified amount of damages including a percentage of the gross sales price
-paid by Towne's subsidiary for the acquisition of BSI, as well as punitive
-damages, attorneys' fees, and pre-judgment and post-judgment interest. Towne has
-filed a motion for summary judgment seeking dismissal of all claims against it.
-The court has not yet ruled on the motion, and discovery is ongoing. Towne
-believes that the allegations in the complaint are without merit and intends to
-defend the lawsuit vigorously. Towne also contends that it is entitled to
-indemnification from the BSI shareholders for Towne's expenses in defending this
-action. Specifically, the BSI stock purchase agreement provides that the BSI
-shareholders will indemnify Towne against any claims, damages, liabilities,
-costs and expenses (including reasonable attorneys' and accountants' fees and
-expenses) Towne suffers that arise out of any breach of the representations made
-by BSI in the agreement, provided that the aggregate amount of all such claims,
-etc. exceeds $100,000.
+         3. Banking Solutions, Inc. and Towne Services, Inc. v. The Clipper
+Group, Mike Mansfield, Jim Mumford, Myron E. Sappington, Stan Goudeau, Jim Peil
+and Vern Hargrave; Case No. 01-211-CT77, filed in the District Court, for
+Williamson County, Texas, 277th Judicial District on April 24, 2001, and
+referred to arbitration by court order dated May 4, 2001, and currently in
+arbitration before the American Arbitration Association, Dallas, Texas.
+
+         Towne and its wholly owned subsidiary, BSI, filed this action against
+six former BSI sales representatives and The Clipper Group, a company founded by
+one or more of those former sales representatives. Towne contends that the
+defendants have formed a competing company, and are marketing a competing
+product, to Towne's bank customers, in violation of the named individuals'
+employment contracts, and in particular, in violation of trade secret and
+confidentiality provisions and non-solicitation of customer and employee
+provisions contained in those contracts. Towne has asserted claims against these
+defendants for misappropriation of trade secrets (including both customer
+information and confidential information regarding Towne's software product),
+misappropriation of confidential information, breach of employment contracts,
+tortious interference with employment contracts, tortious interference with
+licensing agreements, tortious interference with customer contracts, breach of
+the covenant of good
+
+faith and fair dealing, and conspiracy. Towne seeks actual and punitive damages,
+injunctive relief, and attorney's fees and costs. On or about April 30, 2001,
+the defendants answered, denied liability, moved to compel arbitration, and
+asserted a counterclaim against Towne for alleged fraudulent inducement of the
+employment contracts at issue. The defendants seek an unspecified amount of
+actual damages, punitive damages, attorney's fees, interests, and a declaration
+that the employment agreements at issue are not enforceable. Towne believes that
+the allegations in the counterclaim are without merit and it intends to defend
+the counterclaim vigorously. Towne also intends to vigorously pursue its claims
+against these defendants.
 
          Private Business is, from time to time, a party to litigation arising
 in the normal course of its business operations. Based on information currently
@@ -4286,13 +4296,12 @@ of payment from a dissenter who was not the beneficial owner of the shares of
 Private Business common stock before the date set forth in the dissenters'
 notice as the date of the first announcement to news media or to Private
 Business shareholders of the principal terms of the merger. To the extent
-Private Business does elect to withhold payment under those
-
-circumstances, Private Business must estimate, after consummation of the merger,
-the fair value of the shares of Private Business common stock, plus accrued
-interest, and pay this amount to each dissenting Private Business shareholder
-who agrees to accept it in full satisfaction of the shareholder's demand.
-Private Business must send with its offer:
+Private Business does elect to withhold payment under those circumstances,
+Private Business must estimate, after consummation of the merger, the fair value
+of the shares of Private Business common stock, plus accrued interest, and pay
+this amount to each dissenting Private Business shareholder who agrees to accept
+it in full satisfaction of the shareholder's demand. Private Business must send
+with its offer:
 
          -        a statement of Private Business's estimate of the fair value
                   of the shares of Private Business common stock;
@@ -4540,13 +4549,15 @@ by Rule 145 under the Securities Act or as otherwise permitted under the
 Securities Act. Persons who may be deemed to be affiliates of Towne for the
 above purposes generally include individuals or entities that control, are
 controlled by or are under common control with Towne, and include directors and
-certain executive officers of Towne. The merger agreement requires that Towne
-use its reasonable best efforts to cause each of these affiliates to deliver to
-Private Business, within 30 days of the date of entering into the merger
-agreement, and in any event before the effective time, a written agreement to
-the effect that these persons will not sell, transfer or otherwise dispose of
-any of the shares of Private Business common stock issued to them in the merger
-in violation of the Securities Act or the related SEC rules.
+certain
+
+executive officers of Towne. The merger agreement requires that Towne use its
+reasonable best efforts to cause each of these affiliates to deliver to Private
+Business, within 30 days of the date of entering into the merger agreement, and
+in any event before the effective time, a written agreement to the effect that
+these persons will not sell, transfer or otherwise dispose of any of the shares
+of Private Business common stock issued to them in the merger in violation of
+the Securities Act or the related SEC rules.
 
          This joint proxy statement/prospectus does not cover any resales of the
 Private Business common stock received in the merger, and no person is
@@ -4592,7 +4603,7 @@ circumstances or your particular tax status, including the following:
                   common stock.
 
          Certain Federal Income Tax Consequences of the Merger to Towne's
-Shareholders, Towne, and Private Business
+         Shareholders, Towne, and Private Business
 
          Towne's and Private Business's obligations to complete the merger are
 conditioned on the delivery of an opinion from Arthur Andersen LLP that the
@@ -4615,10 +4626,11 @@ Shareholders," and "U.S. Federal Tax Consequences of the Stock Split."
 
          This opinion of Andersen will not bind the IRS and will not preclude
 the IRS from adopting a position contrary to that expressed in the opinion, and
-no assurance can be given that contrary positions will not be successfully
-asserted by the IRS or adopted by a court if the issues are litigated. Neither
-Private Business nor Towne intends to obtain a ruling from the IRS with respect
-to the tax consequences of the merger.
+no assurance can be given that contrary positions will not be
+
+successfully asserted by the IRS or adopted by a court if the issues are
+litigated. Neither Private Business nor Towne intends to obtain a ruling from
+the IRS with respect to the tax consequences of the merger.
 
          Tax Implications to Towne Common Shareholders. Based on the conclusion
 that the merger should be treated as a reorganization, the merger should result
@@ -4670,16 +4682,15 @@ above:
                   the dissenting shareholder could be treated as a dividend and
                   recognized as ordinary income. In general, under Section 318
                   of the Code, a shareholder may be considered to own stock that
-                  is owned, and in some cases
-
-                  constructively owned, by certain related individuals or
-                  entities, as well as stock that the shareholder, or related
-                  individuals or entities, has the right to acquire by
-                  exercising an option or converting a convertible security.
-                  Each shareholder who contemplates exercising dissenters'
-                  rights should consult his or her own tax advisor as to the
-                  taxation of any gain or loss and the possibility that any
-                  payment to the shareholder will be treated as a dividend.
+                  is owned, and in some cases constructively owned, by certain
+                  related individuals or entities, as well as stock that the
+                  shareholder, or related individuals or entities, has the right
+                  to acquire by exercising an option or converting a convertible
+                  security. Each shareholder who contemplates exercising
+                  dissenters' rights should consult his or her own tax advisor
+                  as to the taxation of any gain or loss and the possibility
+                  that any payment to the shareholder will be treated as a
+                  dividend.
 
          Tax Implications to Towne Preferred Shareholder. Whether the exchange
 of Towne preferred stock for Private Business preferred stock should be taxable
@@ -4692,7 +4703,7 @@ defined in section 351(g) of the Internal Revenue Code. Preferred stock with
 terms similar to the terms of the Towne preferred stock or the Private Business
 preferred stock generally is nonqualified preferred stock if, as of its
 issuance, (a) the stock does not participate in corporate growth to a
-signficiant extent (including through its conversion feature) and (b) it is more
+significant extent (including through its conversion feature) and (b) it is more
 likely than not that the stock will be redeemed within 20 years of issuance.
 Because this determination is a factual one, Andersen expresses no opinion as to
 whether the Towne or Private Business preferred stock is nonqualified preferred
@@ -4743,28 +4754,26 @@ Business, including its merger subsidiary, and Towne should not recognize gain
 or loss for United States federal income tax purposes as a result of the merger.
 
 CERTAIN FEDERAL INCOME TAX CONSEQUENCES OF THE MERGER TO DISSENTING PRIVATE
-BUSINESS SHAREHOLDERS.
+BUSINESS SHAREHOLDERS
 
          A dissenting shareholder who receives cash for the fair value of shares
 may be treated as having received the payment in redemption of shares and
 recognize capital gain or loss equal to the difference between the amount of
 cash received and such shareholder's basis in the shares (except in respect of
-any amount constituting interest, which
-
-should be treated as ordinary income). A redemption of that type would be
-subject to the conditions and limitations of Section 302 of the Code. If the
-dissenting shareholder owns, either actually or constructively under the
-provisions of Section 318 of the Code, any Private Business shares after the
-effective date of the merger, the payment made to the dissenting shareholder
-could be treated as a dividend and recognized as ordinary income. In general,
-under Section 318 of the Code, a shareholder may be considered to own stock that
-is owned, and in some cases constructively owned, by certain related individuals
-or entities, as well as stock that the shareholder, or related individuals or
-entities, has the right to acquire by exercising an option or converting a
-convertible security. Each shareholder who contemplates exercising dissenters'
-rights should consult his or her own tax advisor as to the taxation of any gain
-or loss and the possibility that any payment to the shareholder will be treated
-as a dividend.
+any amount constituting interest, which should be treated as ordinary income).
+A redemption of that type would be subject to the conditions and limitations of
+Section 302 of the Code. If the dissenting shareholder owns, either actually or
+constructively under the provisions of Section 318 of the Code, any Private
+Business shares after the effective date of the merger, the payment made to the
+dissenting shareholder could be treated as a dividend and recognized as ordinary
+income. In general, under Section 318 of the Code, a shareholder may be
+considered to own stock that is owned, and in some cases constructively owned,
+by certain related individuals or entities, as well as stock that the
+shareholder, or related individuals or entities, has the right to acquire by
+exercising an option or converting a convertible security. Each shareholder who
+contemplates exercising dissenters' rights should consult his or her own tax
+advisor as to the taxation of any gain or loss and the possibility that any
+payment to the shareholder will be treated as a dividend.
 
          This discussion is intended only to provide you with a general summary,
 and it is not intended to be a complete analysis or description of all potential
@@ -4833,9 +4842,10 @@ officers of Towne Acquisition Corporation immediately before the effective time
 of the merger will become the initial directors and officers of the surviving
 corporation. At the effective time, Henry Baroco, president, chief operating
 officer and a director of Towne, will become the chief operating officer of
-Private Business, and the following persons will be the nine directors of
-Private Business, with the applicable company before the merger, class, and term
-noted:
+Private Business. There will be a vacancy for a Class III director, which will
+be filled as provided in Private Business's bylaws. The following persons will
+be the eight directors of Private Business, with the applicable company before
+the merger, class, and term noted:
 
   NAME                                                COMPANY BEFORE MERGER          CLASS    TERM EXPIRES
   ----                                                ---------------------          -----    ------------
@@ -4847,7 +4857,6 @@ noted:
   Brian J. Conway                                     Private Business                 II          2004
   William B. King                                     Private Business                 II          2004
   Frank W. Brown                                      Towne                           III          2002
-  [                ]                                  Private Business                III          2002
   Bruce R. Evans                                      Private Business                III          2002
 
          The closing date of the merger will occur as soon as practical after
@@ -4882,11 +4891,10 @@ shares will be issued for them in the merger. The fully diluted Towne common
 shares will equal the sum of the number of outstanding shares of Towne common
 stock (which does not include any common stock held in treasury by Towne), plus
 the number of shares of Towne common stock obtainable upon exercise of any Towne
-warrants outstanding after the effective date of the merger,
-
-plus 44,053, the number of shares of Towne common stock into which the Towne
-Series B preferred stock is convertible. As of April 12, 2001, the approximate
-exchange ratio was .9072 assuming that:
+warrants outstanding after the effective date of the merger, plus 44,053, the
+number of shares of Towne common stock into which the Towne Series B preferred
+stock is convertible. As of April 12, 2001, the approximate exchange ratio was
+ .9072 assuming that:
 
          -        the one-for-three reverse split for Private Business's common
                   stock is approved in the merger;
@@ -4960,7 +4968,6 @@ distributions, if any, will be paid without interest.
          Each holder of Towne common stock may surrender that holder's Towne
 stock certificate in exchange for a Private Business stock certificate until
 nine months from the effective time. Following this nine month period and
-
 subject to applicable law, all remaining shares or funds which have not been
 submitted for exchange in the manner described above shall be returned to
 Private Business free and clear of any claim or interest of any former Towne
@@ -5286,8 +5293,8 @@ merger agreement.
 
          Private Business Board of Directors. At the effective time, Private
 Business will fill three vacancies on its board of directors with the following
-three current Towne board members: Frank W. Brown (Class II), Richardson M.
-Roberts (Class I), and Glenn W. Sturm (Class III).
+three current Towne board members: Frank W. Brown (Class III), Richardson M.
+Roberts (Class II), and Glenn W. Sturm (Class I).
 
          Employee Benefit Matters. Following the merger, Private Business will
 treat Towne's continuing employees' service for Towne as service with Private
@@ -5524,11 +5531,10 @@ also include the following:
                   acceptable to Private Business, from the sole holder of Towne
                   Series B preferred stock consenting to the merger and the
                   transactions contemplated in the merger agreement and agrees
-                  to accept the Private Business Series B preferred
-
-                  stock in exchange for the Towne Series B preferred stock and
-                  agreeing to waive any appraisal or dissenters' rights, and
-                  such assurances shall remain unmodified and in full force and
+                  to accept the Private Business Series B preferred stock in
+                  exchange for the Towne Series B preferred stock and agreeing
+                  to waive any appraisal or dissenters' rights, and such
+                  assurances shall remain unmodified and in full force and
                   effect.
 
          Conditions to Obligations of Towne to Complete the Merger
@@ -5696,11 +5702,10 @@ agent or other representative of it not to:
                   -        issuance, sale, or other disposition (including by
                            way of merger, consolidation, share exchange or any
                            similar transaction) of securities (or options,
-                           rights or warrants to purchase,
-
-                           or securities convertible into, such securities)
-                           representing 15% or more of the votes associated with
-                           its outstanding common stock;
+                           rights or warrants to purchase, or securities
+                           convertible into, such securities) representing 15%
+                           or more of the votes associated with its outstanding
+                           common stock;
 
                   -        tender offer or exchange offer in which any person or
                            entity shall seek to acquire beneficial ownership, or
@@ -5859,10 +5864,8 @@ agreement, to refrain from
          (b)      soliciting proxies, or becoming a participant in soliciting
                   proxies, with respect to an opposing acquisition proposal, or
                   otherwise encourage or assist any party in taking or planning
-                  an action
-
-                  that would compete with, restrain, or otherwise interfere with
-                  the timely consummation of the merger, or
+                  an action that would compete with, restrain, or otherwise
+                  interfere with the timely consummation of the merger, or
 
          (c)      initiating a shareholders' vote or consent, or joining a
                   voting group, regarding an opposing acquisition proposal.
@@ -5915,7 +5918,7 @@ terms.
 
          Private Business's authorized capital stock consists of 100,000,000
 shares of common stock, without par value, and 20,000,000 shares of preferred
-stock, without par value. As of April 20, 2001, 9,221,538 shares of common stock
+stock, without par value. As of May 1, 2001, 9,221,538 shares of common stock
 were issued and outstanding on a post-split basis, and no shares of preferred
 stock were outstanding. The following summary of Private Business's capital
 stock describes all material provisions of, but does not purport to be complete,
@@ -6139,7 +6142,6 @@ directors.
          The bylaws establish an advance notice procedure for the nomination,
 other than by or at the direction of the board of directors or a committee of
 it, of candidates for election as directors as well as for other shareholder
-
 proposals to be considered at shareholders' meetings. Notice to Private Business
 from a shareholder who proposes to nominate a person at a meeting for election
 as a director must contain:
@@ -6297,13 +6299,13 @@ shareholders for monetary damages for breach of the directors' fiduciary duties
 of care. The duty of care requires that, when acting on behalf of the
 corporation, directors must exercise informed business judgment based on all
 material information reasonably available to them. Absent the limitations now
-
 authorized by such legislation, directors are accountable to corporations and
-their shareholders for monetary damages for conduct constituting gross
-negligence in the exercise of their fiduciary duties of care. Although the
-Tennessee Act does not change the directors' duties of care, it enables
-corporations to limit available relief to equitable remedies such as injunction
-or rescission.
+their shareholders for monetary
+
+damages for conduct constituting gross negligence in the exercise of their
+fiduciary duties of care. Although the Tennessee Act does not change the
+directors' duties of care, it enables corporations to limit available relief to
+equitable remedies such as injunction or rescission.
 
          The Private Business charter limits the liability of directors, in
 their capacity as directors but not in their capacity as officers, to Private
@@ -6588,11 +6590,10 @@ requires that, when acting on behalf of the corporation, directors must exercise
 informed business judgment based on all material information reasonably
 available to them. The Private Business charter limits the liability of
 directors (in their capacity as directors but not in their capacity as officers)
-to Private Business or its shareholders to
-
-the fullest extent permitted by Tennessee law. Specifically, no director of
-Private Business will be personally liable for monetary damages for breach of
-the director's fiduciary duty as a director, except for liability:
+to Private Business or its shareholders to the fullest extent permitted by
+Tennessee law. Specifically, no director of Private Business will be personally
+liable for monetary damages for breach of the director's fiduciary duty as a
+director, except for liability:
 
          -        for any breach of the director's duty of loyalty to Private
                   Business or its shareholders;
@@ -7237,8 +7238,8 @@ Private Business's business, financial condition, and operating results.
 
 EMPLOYEES
 
-         At March 15, 2001, Private Business employed 375 people, 10 of whom
-were part-time employees. Private Business had 138 employees at March 15, 2001
+         At May 15, 2001, Private Business employed 347 people, 5 of whom
+were part-time employees. Private Business had 120 employees at May 15, 2001
 involved in direct sales, marketing, and business development activities.
 
 PROPERTIES
@@ -7263,12 +7264,12 @@ since Private Business's initial public offering of its common stock on May 26,
 1999 as provided by NASDAQ. The following bid quotations reflect interdealer
 prices without retail mark-ups, mark-downs, or commissions, and may not
 necessarily represent actual transactions. The stock prices have been adjusted
-to reflect the propose one-for-three stock split.
+to reflect the proposed one-for-three stock split.
 
                                                        BID QUOTATIONS
                                                        --------------
-FOR THE YEAR ENDED                            HIGH                        LOW
-- ------------------                            ----                        ---
+                                              HIGH                        LOW
+FOR THE YEAR ENDED                            ----                        ---
 DECEMBER 31, 1999
 - -----------------
 
@@ -7276,8 +7277,8 @@ DECEMBER 31, 1999
 3rd Quarter                                 $  31.89                    $ 11.82
 4th Quarter                                 $  15.18                    $  5.64
 
-FOR THE YEAR ENDED                            HIGH                        LOW
-- ------------------                            ----                        ---
+                                              HIGH                        LOW
+FOR THE YEAR ENDED                            ----                        ---
 DECEMBER 31, 2000
 - -----------------
 
@@ -7285,6 +7286,13 @@ DECEMBER 31, 2000
 2nd Quarter                                 $   9.66                    $  4.50
 3rd Quarter                                 $   8.25                    $  3.00
 4th Quarter                                 $   4.50                    $  1.14
+
+                                              HIGH                        LOW
+FOR THE YEAR ENDED                            ----                        ---
+DECEMBER 31, 2001
+- -----------------
+
+1st Quarter                                 $   4.13                    $  2.44
 
          Private Business has not paid any cash dividends on its common stock in
 1999 and 2000. Private Business intends to retain its earnings to finance growth
@@ -7297,40 +7305,69 @@ outstanding.
 
          The following table sets forth selected historical financial and
 operating data of Private Business as of and for the years ended December 31,
-2000, 1999, 1998, 1997, and 1996. You should read this data along with Private
-Business's "Management Discussion and Analysis of Financial Condition and
-Results of Operations" and the historical financial statements and related notes
-of Private Business included elsewhere in this document.
+1996, 1997, 1998, 1999, and 2000 and the three months ended March 31, 2000 and
+2001, respectively. You should read this data along with Private Business's
+"Management Discussion and Analysis of Financial Condition and Results of
+Operations" and the historical financial statements and related notes of Private
+Business included elsewhere in this document.
 
-                                                                        YEAR ENDED DECEMBER 31,
-                                                     -------------------------------------------------------------
-                                                                  (In thousands, except per share data)
-                                                        2000         1999         1998         1997          1996
-                                                        ----         ----         ----         ----          ----
+                                                                                                                Three Months Ended
+                                                                   YEAR ENDED DECEMBER 31,                           March 31,
+                                                -------------------------------------------------------------  ---------------------
+                                                             (In thousands, except per share data)
+                                                   1996       1997         1998          1999          2000        2000       2001
+                                                   ----       ----         ----          ----          ----        ----       ----
 
 STATEMENT OF OPERATIONS DATA:
-Revenues                                             $  56,466    $ 57,558      $ 50,805     $ 43,660     $ 33,988
-Operating income                                     $  12,793    $ 13,459      $  1,516     $ 14,304     $  9,187
+Revenues                                        $ 33,988    $ 43,660     $ 50,805     $ 57,558      $  56,466   $13,463    $12,127
+Operating income                                $  9,187    $ 14,304     $  1,516     $ 13,459      $  12,793     2,627        602
 Income (loss) from operations  before
-  income taxes and extraordinary item                $   8,234    $  7,418      $ (2,046)    $ 14,017     $  9,187
-Income tax provision (benefit)                           3,211       1,645        (2,585)         743          582
-Extraordinary item                                           0         418             0            0            0
-Net income                                               5,023       5,355           539       13,274        8,605
-Preferred stock dividends and accretion                      0      (2,029)       (2,204)           0            0
+  income taxes and extraordinary item           $  9,187    $ 14,017     $ (2,046)    $  7,418      $   8,234     1,400       (454)
+Income tax provision (benefit)                       582         743       (2,585)       1,645          3,211       547       (177)
+Extraordinary item                                     0           0            0          418              0         0          0
+Net income                                         8,605      13,274          539        5,355          5,023       853       (277)
+Preferred stock dividends and accretion                0           0       (2,204)      (2,029)             0         0          0
 Net income (loss) available to common
- shareholders                                        $   5,023    $  3,326      $ (1,665)    $ 13,274     $  8,605
-Earnings (loss) per common share (diluted)           $    0.54    $   0.48      $  (0.30)    $   1.95     $   1.26
+ shareholders                                   $  8,605    $ 13,274     $ (1,665)    $  3,326      $   5,023   $   853    $  (277)
+Earnings (loss) per common share (diluted)      $   1.26    $   1.95     $  (0.30)    $   0.48      $    0.54   $  0.09    $ (0.03)
 
-BALANCE SHEET DATA (AT YEAR END):
-Cash and cash equivalents                            $   1,891    $  5,953      $    285      $  4,816    $  6,391
-Working capital (deficit)                               (1,765)      1,465        (7,834)        2,772       2,851
-Total assets                                            30,219      39,210        31,596        20,995      16,386
-Long-term debt, net of current portion                  42,148      49,122        90,375         4,078         846
-Redeemable convertible preferred stock                       0           0        59,707             0           0
-Total shareholders' equity (deficit)                   (23,966)    (29,186)     (139,291)        8,643       8,128
+BALANCE SHEET DATA (AT PERIOD END):
+Cash and cash equivalents                       $  6,391    $  4,816     $    285     $  5,953      $   1,891              $     4
+Working capital (deficit)                          2,851       2,772       (7,834)       1,465         (1,765)              (2,496)
+Total assets                                      16,386      20,995       31,596       39,210         30,219               27,051
+Long-term debt, net of current portion               846       4,078       90,375       49,122         42,148               40,924
+Redeemable convertible preferred stock                 0           0       59,707            0              0                    0
+Total shareholders' equity (deficit)               8,128       8,643     (139,291)     (29,186)       (23,966)             (24,126)
 
            MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
                             AND RESULTS OF OPERATIONS
+
+MATERIAL 2001 CORPORATE DEVELOPMENTS
+
+         On February 1, 2001, Private Business announced that Thomas L. Black,
+a co-founder and former CEO of Private Business during its most rapid growth
+phase from 1991 to 1995, was named Chief Executive Officer and President
+replacing Kevin M. McNamara and Jerry Cover, respectively. Mr. Black has been a
+director of Private Business since its founding and most recently has been CEO
+of privately held Tecniflex, Inc. An employment agreement with Mr. Black has
+not yet been finalized, but will likely include salary and stock options, thus,
+no compensation expense was recorded in the quarter ended March 31, 2001. The
+former CEO, who will serve as a consultant to the Company, received a severance
+payment of $315,000 and stock options to purchase the Company's common stock.
+The former President announced his resignation effective July 1, 2001 and it is
+expected that some severance will be paid. Any severance paid will be expensed
+at the effective date of the resignation.
+
+         On March 13, 2001, Private Business announced that it had signed a
+letter of intent to merge with Towne through a merger of Towne into Private
+Business. The proposed merger, which is subject to certain conditions,
+including approval of the shareholders of both companies, is structured as a
+tax-free exchange of our common shares for all of the issued and outstanding
+Towne common shares. In conjunction with the merger agreement, a one for three
+reverse stock split of our common stock will occur before exchanging Private
+Business common shares for the Towne common shares. Once the merger is
+completed, Private Business' shareholders will own approximately 67% of the
+combined entity.
 
 OVERVIEW
 
@@ -7374,12 +7411,13 @@ percentage of the ongoing receivables purchased.
 customer training and support fee. These are one-time fees received upon the
 initial licensing of the Business Manager program to a community bank. License
 agreements are executed with terms ranging from three to five years and are
-renewable for subsequent terms. Private Business recognizes revenues from the
-license fee at the time of initiation of the agreement and the customer training
-and support fee ratably over the twelve-month service period subsequent to
-signing the license agreement. Software license fees for new agreements range
-from approximately $5,000 to $150,000 and are generally based on the asset size
-of the client bank.
+renewable for subsequent
+
+terms. Private Business recognizes revenues from the license fee at the time of
+initiation of the agreement and the customer training and support fee ratably
+over the twelve-month service period subsequent to signing the license
+agreement. Software license fees for new agreements range from approximately
+$5,000 to $150,000 and are generally based on the asset size of the client bank.
 
          Maintenance fees and other revenues include several ancillary products
 and services provided to client banks. Annual software maintenance fees are
@@ -7408,52 +7446,4 @@ RESULTS OF OPERATIONS
 percentage relationship of the identified consolidated statement of operations
 items to total revenues.
 
-                                                                             YEAR ENDED DECEMBER 31,
-                                                                        --------------------------------
-                                                                         2000         1999         1998
-
-Revenues:
-   Royalties..........................................................   84.6%        85.1%        86.2%
-   Software license...................................................    3.6          4.6          5.8
-   Maintenance and other..............................................   11.8         10.3          8.0
-         Total revenues...............................................  100.0        100.0        100.0
-Operating expenses:
-   General and administrative.........................................   31.1         27.2         26.4
-   Selling and marketing..............................................   41.9         46.2         40.3
-   Research and development...........................................    1.9          1.6          1.7
-   Amortization.......................................................    1.5          1.3          0.9
-   Other operating....................................................    1.0          0.3          0.6
-   Recapitalization charges...........................................    0.0          0.0         27.1
-         Total operating expenses.....................................   77.4         76.6         97.0
-Operating income......................................................   22.6         23.4          3.0
-Other expenses:
-   Interest expense...................................................    8.1         10.5          6.7
-   Minority interest..................................................    0.0          0.0          0.3
-         Total other expenses.........................................    8.1         10.5          7.0
-Income (loss) before income taxes and extraordinary item..............   14.5         12.9         (4.0)
-Income tax provision (benefit)........................................    5.7          2.9         (5.1)
-Net income before extraordinary item..................................    8.8         10.0          1.1
-Extraordinary item....................................................    0.0          0.7          0.0
-Net income............................................................    8.8%         9.3%         1.1%
-
-YEAR ENDED DECEMBER 31, 2000 COMPARED TO YEAR ENDED DECEMBER 31, 1999
-
-         Royalties. Royalties decreased $1.2 million, or 2.4%, to $47.8 million
-for the year ended December 31, 2000 compared to $49.0 million for the year
-ended December 31, 1999. The decrease was primarily due to a decrease in the
-average fee realized on total funding. Total funding through the Business
-Manager program for both 2000 and 1999 remained unchanged at approximately $6.1
-billion. While total funding remained unchanged, the average revenue per funding
-bank client increased 5.7% to approximately $55,000 in 2000 compared to $52,000
-in 1999. The increase was primarily due to an increase in the average amount
-funded per bank client. As a percentage of total revenue, royalties decreased to
-84.6% for the year ended December 31, 2000, from 85.1% for the year earlier
-period, primarily as a result of a greater increase in maintenance and other
-revenues during the same period.
-
-         Software license. Software license fees decreased 23.5% to $2.0 million
-for the year ended December 31, 2000, compared to $2.7 million for the year
-ended December 31, 1999. The decrease was primarily due to a decrease in the
-number of new software license agreements entered into during 2000 compared to
-1999. Private Business believes that new software license agreements have
-decreased as a 
+                                                                           

@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/1046861/000091205701509743/0000912057-01-509743.txt
+URL: https://www.sec.gov/Archives/edgar/data/1073353/000091205701007680/0000912057-01-007680.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- IsnUSF1gxMNoL7T9Pp702r6xFHU4NbBzXA+If5v3So/v6pxCE6X4JfsYr7RzhB44
- Tw/276fpySFUR7Lb+YpdhA==
+ HRjKfHF3UE6DmJsKMwXHmlOX3yXKvdTfDaEL7CMJLUgBd38bUfXFgTSCdznA1gqr
+ UuqIxk+J0gUCM1RTN+jTBA==
 
-0000912057-01-509743.txt : 20010424
+0000912057-01-007680.txt : 20010319
 
-0000912057-01-509743.hdr.sgml : 20010424
-ACCESSION NUMBER:		0000912057-01-509743
-CONFORMED SUBMISSION TYPE:	S-4
-PUBLIC DOCUMENT COUNT:		14
-FILED AS OF DATE:		20010420
+0000912057-01-007680.hdr.sgml : 20010319
+ACCESSION NUMBER:		0000912057-01-007680
+CONFORMED SUBMISSION TYPE:	PREM14A
+PUBLIC DOCUMENT COUNT:		1
+FILED AS OF DATE:		20010316
 
 FILER:
 
@@ -29,10 +29,10 @@ FILER:
 		FISCAL YEAR END:			1231
 
 	FILING VALUES:
-		FORM TYPE:		S-4
+		FORM TYPE:		PREM14A
 		SEC ACT:		
-		SEC FILE NUMBER:	333-59300
-		FILM NUMBER:		1607759
+		SEC FILE NUMBER:	001-14766
+		FILM NUMBER:		1570513
 
 	BUSINESS ADDRESS:	
 		STREET 1:		PO BOX 12904
@@ -53,131 +53,125 @@ FILER:
 		FORMER CONFORMED NAME:	NGE RESOURCES INC
 		DATE OF NAME CHANGE:	19970924
 
-S-4
+FILER:
 
-a2043268zs-4.txt
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RGS ENERGY GROUP INC
+		CENTRAL INDEX KEY:			0001073353
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC & OTHER SERVICES COMBINED [4931]
+		IRS NUMBER:				161558410
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
 
-S-4
+	FILING VALUES:
+		FORM TYPE:		PREM14A
+		SEC ACT:		
+		SEC FILE NUMBER:	000-30338
+		FILM NUMBER:		1570514
 
-     AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON APRIL 20, 2001
-                                                      REGISTRATION NO. 333-
-- --------------------------------------------------------------------------------
-- --------------------------------------------------------------------------------
+	BUSINESS ADDRESS:	
+		STREET 1:		89 EAST AVE
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14649
+		BUSINESS PHONE:		7167714444
 
+	MAIL ADDRESS:	
+		STREET 1:		89 EAST AVE
+		CITY:			ROCHESTER
+		STATE:			NY
+		ZIP:			14649
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	RG&E HOLDINGS INC
+		DATE OF NAME CHANGE:	19981110
+
+PREM14A
+
+a2041746zprem14a.txt
+
+PRE 14A
+
+                                 UNITED STATES
                        SECURITIES AND EXCHANGE COMMISSION
                              WASHINGTON, D.C. 20549
-                            ------------------------
 
-                                    FORM S-4
-                             REGISTRATION STATEMENT
-                                     UNDER
-                           THE SECURITIES ACT OF 1933
-                            ------------------------
+                                  SCHEDULE 14A
+                                 (RULE 14A-101)
 
-                            ENERGY EAST CORPORATION
-             (Exact name of Registrant as Specified in Its Charter)
+                    INFORMATION REQUIRED IN PROXY STATEMENT
+                            SCHEDULE 14A INFORMATION
 
-          NEW YORK                                      6719                                      14-1798693
-(State or Other Jurisdiction                (Primary Standard Industrial                       (I.R.S. Employer
-             of                              Classification Code Number)                     Identification No.)
-      Incorporation or
-       Organization)
+Proxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934
 
-                                 P.O. BOX 12904
-                             ALBANY, NY 12212-2904
-                                 (518) 434-3049
-  (Address, Including Zip Code, and Telephone Number, Including Area Code, of
-                   Registrant's Principal Executive Offices)
+   Filed by the Registrant /X/
+   Filed by a Party other than the Registrant / /
+   Check the appropriate box:
 
-                              KENNETH M. JASINSKI
-             EXECUTIVE VICE PRESIDENT, GENERAL COUNSEL & SECRETARY
-                            ENERGY EAST CORPORATION
-                                 P.O. BOX 12904
-                             ALBANY, NY 12212-2904
-                                 (518) 434-3049
+      /X/        Preliminary Proxy Statement
+      / /        Confidential, for Use of the Commission Only (as permitted
+                 by Rule 14a-6(e)(2))
+      / /        Definitive Proxy Statement
+      / /        Definitive Additional Materials
+      / /        Soliciting Material Pursuant to Section240.14a-12
 
- (Name, Address, Including Zip Code, and Telephone Number, Including Area Code,
-                             of Agent For Service)
+                                 JOINT FILING BY:
+                              ENERGY EAST CORPORATION
+                              RGS ENERGY GROUP, INC.
+      -----------------------------------------------------------------------
+               (Name of Registrants as Specified in Their Charters)
 
-                         ------------------------------
-                                WITH COPIES TO:
+Payment of Filing Fee (Check the appropriate box):
 
-     SETH A. KAPLAN, ESQ.            DAVID W. HELENIAK, ESQ.            LEONARD BLUM, ESQ.
-Wachtell, Lipton, Rosen & Katz          MARK ROPPEL, ESQ.                 FRANK LEE, ESQ.
-      51 West 52nd Street              Shearman & Sterling            Huber Lawrence & Abell
-    New York, NY 10019-6150           599 Lexington Avenue               605 Third Avenue
-        (212) 403-1000                 New York, NY 10022               New York, NY 10158
-                                         (212) 848-4000                   (212) 682-6200
+/ /        No fee required.
+/X/        Fee computed on table below per Exchange Act Rules 14a-6(i)(4)
+           and 0-11.
+           (1)  Title of each class of securities to which transaction
+                applies:
+                Common Stock, par value $.01 per share, of RGS Energy Group,
+                Inc.
+                ------------------------------------------------------------
+           (2)  Aggregate number of securities to which transaction applies:
+                34,577,426 Shares of RGS Energy Group, Inc. Common Stock
+                ------------------------------------------------------------
+           (3)  Per unit price or other underlying value of transaction
+                computed pursuant to Exchange Act Rule 0-11 (set forth the
+                amount on which the filing fee is calculated and state how
+                it was determined):
+                The proposed maximum aggregate value of the transaction of
+                $1,267,262,662.90 was calculated in accordance with
+                Rule 0-11(a)(4) and (c) promulgated under the Securities
+                Exchange Act of 1934, as amended, based on $36.65, the
+                average of the high and low sale price per share of RGS
+                Energy Group, Inc. Common Stock on the New York Stock
+                Exchange on March 12, 2001, multiplied by 34,577,426, the
+                outstanding number of shares of RGS Energy Group, Inc.
+                Common Stock.
+                ------------------------------------------------------------
+           (4)  Proposed maximum aggregate value of transaction:
+                $1,267,262,662.90
+                ------------------------------------------------------------
+           (5)  Total fee paid:
+                $253,452.53
+                ------------------------------------------------------------
+/ /        Fee paid previously with preliminary materials.
+/ /        Check box if any part of the fee is offset as provided by
+           Exchange Act Rule 0-11(a)(2) and identify the filing for which
+           the offsetting fee was paid previously. Identify the previous
+           filing by registration statement number, or the Form or Schedule
+           and the date of its filing.
+           (1)  Amount Previously Paid:
+                ------------------------------------------------------------
+           (2)  Form, Schedule or Registration Statement No.:
+                ------------------------------------------------------------
+           (3)  Filing Party:
+                ------------------------------------------------------------
+           (4)  Date Filed:
+                ------------------------------------------------------------
 
-                         ------------------------------
+                   SUBJECT TO COMPLETION,             , 2001
 
-    APPROXIMATE DATE OF COMMENCEMENT OF PROPOSED SALE TO THE PUBLIC: As soon as
-practicable after this Registration Statement becomes effective and all other
-conditions to the merger (the "Merger") of RGS Energy Group, Inc. with and into
-Eagle Merger Corp., pursuant to the Agreement and Plan of Merger, dated as of
-February 16, 2001, among those two parties and the Registrant, described in the
-enclosed joint proxy statement/prospectus, have been satisfied or waived.
-
-    If the securities being registered on this form are being offered in
-connection with the formation of a holding company and there is compliance with
-General Instruction G, check the following box. / /
-
-    If this form is filed to register additional securities for an offering
-pursuant to Rule 462(b) under the Securities Act, check the following box and
-list the Securities Act registration statement number of the earlier effective
-registration statement for the same offering. / /
-
-    If this form is a post-effective amendment filed pursuant to Rule 462(d)
-under the Securities Act, check the following box and list the Securities Act
-registration statement number of the earlier effective registration statement
-for the same offering. / /
-                            ------------------------
-
-                        CALCULATION OF REGISTRATION FEE
-
-- --------------------------------------------------------------------------------------------------------------------------------
-- --------------------------------------------------------------------------------------------------------------------------------
-                                                                    PROPOSED MAXIMUM     PROPOSED MAXIMUM
-           TITLE OF EACH CLASS OF                AMOUNT TO BE      OFFERING PRICE PER   AGGREGATE OFFERING        AMOUNT OF
-        SECURITIES TO BE REGISTERED              REGISTERED(1)          SHARE(1)             PRICE(2)        REGISTRATION FEE(3)
-- --------------------------------------------------------------------------------------------------------------------------------
-Common Stock ($0.01 Par Value)..............                                              $515,549,421.66        $128,887.36
-- --------------------------------------------------------------------------------------------------------------------------------
-- --------------------------------------------------------------------------------------------------------------------------------
-
-(1) Pursuant to Securities Act Rule 457(o), this information is not included.
-
-(2) Pursuant to Securities Act Rule 457(c), (f)(1) and (f)(3), and estimated
-    solely for purposes of calculating the registration fee, the proposed
-    maximum aggregate offering price is $515,549,421.66, which equals (i) the
-    product of (a) the average of the high and low prices of the common stock,
-    par value $.01 per share, of RGS Energy, of $36.635, as reported on the New
-    York Stock Exchange on April 19, 2001 and (b) the total number of shares of
-    common stock of RGS Energy to be canceled (which is 34,577,426), less
-    (ii) the amount of cash paid by the Registrant in exchange for shares of
-    common stock (which equals $39.50 times the number of shares of common stock
-    of RGS Energy to be converted into cash (which is 19,017,584.30)).
-
-(3) On March 16, 2001, RGS Energy and the Registrant filed a preliminary joint
-    proxy statement/prospectus in connection with the Merger and, pursuant to
-    Exchange Act Rules 14a-6(i)(1) and 0-11, paid a fee of $253,452.53. Pursuant
-    to Securities Act Rule 457(b), no additional fee need be paid upon filing of
-    this Registration Statement.
-
-    THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR
-DATES AS MAY BE NECESSARY TO DELAY ITS EFFECTIVE DATE UNTIL THE REGISTRANT SHALL
-FILE A FURTHER AMENDMENT WHICH SPECIFICALLY STATES THAT THIS REGISTRATION
-STATEMENT SHALL THEREAFTER BECOME EFFECTIVE IN ACCORDANCE WITH SECTION 8(a) OF
-THE SECURITIES ACT OF 1933, AS AMENDED, OR UNTIL THIS REGISTRATION STATEMENT
-SHALL BECOME EFFECTIVE ON SUCH DATE AS THE COMMISSION, ACTING PURSUANT TO SAID
-SECTION 8(a), MAY DETERMINE.
-
-- --------------------------------------------------------------------------------
-- --------------------------------------------------------------------------------
-
-                     SUBJECT TO COMPLETION, APRIL 20, 2001
-
-[ENERGY EAST LOGO]                                       [RGS ENERGY GROUP LOGO]
+[ENERGY EAST LOGO]                                             [RGS ENERGY LOGO]
 
                   PROPOSED MERGER--YOUR VOTE IS VERY IMPORTANT
 
@@ -239,23 +233,20 @@ HOLDERS OF A MAJORITY OF THE OUTSTANDING ENERGY EAST SHARES HAVE VOTED.
 
     The dates, times and places of the annual meetings are as follows:
 
-               ENERGY EAST SHAREHOLDERS                                     RGS ENERGY SHAREHOLDERS
+             ENERGY EAST SHAREHOLDERS                                 RGS ENERGY SHAREHOLDERS
 
-                    June 15, 2001                                                June 15, 2001
-                 9:30 a.m. local time                                        11:00 a.m. local time
-       Citicorp/Citibank Auditorium, 12th Floor                      Rochester Riverside Convention Center
-         399 Park Avenue, New York, New York                       123 East Main Street, Rochester, New York
+          [insert date, time and place]                            [insert date, time and place]
 
     This joint proxy statement/prospectus contains answers to frequently asked
-questions and a summary description of the merger and other related matters,
-followed by a more detailed discussion of the merger and these matters. Because
-these answers and this summary are not, by their nature, detailed, we urge you
-to read this joint proxy statement/prospectus carefully and in its entirety. WE
-ESPECIALLY ENCOURAGE YOU TO READ THE SECTION ON "RISK FACTORS" BEGINNING ON
-PAGE 18 FOR A DESCRIPTION OF VARIOUS RISKS YOU SHOULD CONSIDER IN EVALUATING THE
-PROPOSED TRANSACTION. In addition, you may obtain additional information about
-the two companies from documents they have filed with the Securities and
-Exchange Commission.
+questions and a summary description of the merger and other related matters
+(beginning on page 1), followed by a more detailed discussion of the merger and
+these matters. Because these answers and this summary are not, by their nature,
+detailed, we urge you to read this joint proxy statement/prospectus carefully
+and in its entirety. WE ESPECIALLY ENCOURAGE YOU TO READ THE SECTION ON "RISK
+FACTORS" BEGINNING ON PAGE 18 FOR A DESCRIPTION OF VARIOUS RISKS YOU SHOULD
+CONSIDER IN EVALUATING THE PROPOSED TRANSACTION. In addition, you may obtain
+additional information about the two companies from documents they have filed
+with the Securities and Exchange Commission.
 
     We enthusiastically support this combination of our companies, and we join
 with our boards of directors in recommending that you vote FOR the approval and
@@ -263,12 +254,12 @@ adoption of the merger agreement, FOR the issuance of Energy East shares in
 connection with the merger and FOR the other proposals described in the Notices
 of Meetings that follow.
 
-               ENERGY EAST CORPORATION                                       RGS ENERGY GROUP, INC.
+             ENERGY EAST CORPORATION                                   RGS ENERGY GROUP, INC.
 
-               /s/ Wesley W. von Schack                                      /s/ Thomas S. Richards
-                 Wesley W. von Schack                                          Thomas S. Richards
-               Chairman, President and                                      Chairman, President and
-               Chief Executive Officer                                      Chief Executive Officer
+                [insert signature]                                       [insert signature]
+               Wesley W. von Schack                                      Thomas S. Richards
+             Chairman, President and                                  Chairman, President and
+             Chief Executive Officer                                  Chief Executive Officer
 
 NEITHER THE SECURITIES AND EXCHANGE COMMISSION NOR ANY STATE SECURITIES
 REGULATOR HAS APPROVED OR DISAPPROVED THE MERGER OR THE ISSUANCE OF ENERGY EAST
@@ -278,41 +269,42 @@ IS A CRIMINAL OFFENSE.
 
     This document is also the prospectus of Energy East for the shares that it
 will issue in connection with the merger. Energy East shares are traded on the
-New York Stock Exchange under the symbol "EAS." On April 19, 2001, the last full
+New York Stock Exchange under the symbol "EAS." On [      ], 2001, the last full
 trading day for which information was available prior to the printing of this
 joint proxy statement/prospectus, the closing sales price for Energy East
 shares, as reported in THE WALL STREET JOURNAL's New York Stock Exchange
-Composite Transactions Report, was $19.43 per share.
+Composite Transactions Report, was $[  ] per share.
 
     Energy East has furnished all the information in this joint proxy
 statement/prospectus concerning Energy East, and RGS Energy has furnished all
 the information concerning RGS Energy.
 
-    THIS JOINT PROXY STATEMENT/PROSPECTUS IS DATED APRIL   , 2001 AND IS BEING
-FIRST MAILED TO RGS ENERGY AND ENERGY EAST SHAREHOLDERS ON OR ABOUT APRIL   ,
-2001.
+    THIS JOINT PROXY STATEMENT/PROSPECTUS IS DATED [            ], 2001 AND IS
+BEING FIRST MAILED TO RGS ENERGY AND ENERGY EAST SHAREHOLDERS ON OR ABOUT
+[      ], 2001.
 
     THIS DOCUMENT INCORPORATES BY REFERENCE IMPORTANT BUSINESS AND FINANCIAL
 INFORMATION ABOUT RGS ENERGY AND ENERGY EAST THAT IS NOT INCLUDED IN OR
 DELIVERED WITH THIS DOCUMENT. THIS INFORMATION IS AVAILABLE WITHOUT CHARGE TO
 SHAREHOLDERS UPON WRITTEN OR ORAL REQUEST AT THE APPLICABLE COMPANY'S ADDRESS
-AND TELEPHONE NUMBER LISTED ON PAGE 121. TO OBTAIN TIMELY DELIVERY, A REQUESTING
-SHAREHOLDER MUST REQUEST THE INFORMATION NO LATER THAN JUNE 7, 2001.
+AND TELEPHONE NUMBER LISTED ON PAGE 6. TO OBTAIN TIMELY DELIVERY, A REQUESTING
+SHAREHOLDER MUST REQUEST THE INFORMATION NO LATER THAN            , 2001.
+
+[RGS ENERGY LOGO]
 
                              RGS ENERGY GROUP, INC.
                                  89 EAST AVENUE
                             ROCHESTER, NY 14649-0001
 
                     NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
-                          TO BE HELD ON JUNE 15, 2001
+                           TO BE HELD ON       , 2001
 
 To the Shareholders of RGS Energy Group, Inc.:
 
     The RGS Energy board of directors is pleased to provide you with notice of
 and cordially invites you to attend in person or by proxy the annual meeting of
-RGS Energy shareholders, which will be held at the Rochester Riverside
-Convention Center, 123 East Main Street, Rochester, New York, on June 15, 2001,
-at 11:00 a.m. local time, to consider and vote upon the following matters:
+RGS Energy shareholders, which will be held at             , on             ,
+2001, at   :   .m. local time, to consider and vote upon the following matters:
 
     (1)   a proposal to approve and adopt the agreement and plan of merger,
           dated as of February 16, 2001, by and among RGS Energy, Energy East
@@ -331,9 +323,9 @@ the accompanying joint proxy statement/prospectus. Please carefully review the
 accompanying joint proxy statement/prospectus and the merger agreement attached
 to it as Appendix A.
 
-    Only RGS Energy shareholders as of the close of business on April 26, 2001
-are entitled to notice of and to vote at the annual meeting or any postponements
-or adjournments thereof.
+    Only RGS Energy shareholders as of the close of business on             ,
+2001 are entitled to notice of and to vote at the annual meeting or any
+postponements or adjournments thereof.
 
     THE RGS ENERGY BOARD OF DIRECTORS HAS DETERMINED THAT THE MERGER IS IN THE
 BEST INTERESTS OF RGS ENERGY SHAREHOLDERS AND UNANIMOUSLY RECOMMENDS THAT RGS
@@ -358,7 +350,7 @@ to any of the persons named on the enclosed proxy card at the annual meeting.
                                           Secretary
 
 Rochester, NY
-April   , 2001
+[      ], 2001
 
     IT IS IMPORTANT THAT YOU SIGN, DATE AND PROMPTLY RETURN THE PROXY CARD IN
 THE ENCLOSED ENVELOPE OR FOLLOW THE INSTRUCTIONS ON THE ENCLOSED PROXY FORM TO
@@ -371,40 +363,41 @@ CAUSE US TO INCUR CONSIDERABLE ADDITIONAL EXPENSE.
 
    REGARDLESS OF THE NUMBER OF SHARES YOU HOLD, YOUR VOTE IS VERY IMPORTANT.
 
+[ENERGY EAST LOGO]
+
                             ENERGY EAST CORPORATION
                                  P.O. BOX 12904
                              ALBANY, NY 12212-2904
 
                     NOTICE OF ANNUAL MEETING OF SHAREHOLDERS
-                          TO BE HELD ON JUNE 15, 2001
+                           TO BE HELD ON       , 2001
 
 To the Shareholders of Energy East Corporation:
 
     The Energy East board of directors is pleased to provide you with notice of
 and cordially invites you to attend in person or by proxy the annual meeting of
-Energy East shareholders, which will be held at the Citicorp/Citibank
-Auditorium, 12th Floor, 399 Park Avenue, New York, New York, on June 15, 2001,
-at 9:30 a.m. local time, for the following purposes:
+Energy East shareholders, which will be held at           , on           , 2001,
+at   :   .m. local time, for the following purposes:
 
     (1) to approve the issuance of shares in connection with the agreement and
-        plan of merger by and among RGS Energy Group, Inc., Energy East and
-        Eagle Merger Corp., which will be a wholly owned subsidiary of Energy
-        East at the effective time of the merger, pursuant to which RGS Energy
-        will be merged with and into Eagle Merger Corp.;
+       plan of merger by and among RGS Energy Group, Inc., Energy East and Eagle
+       Merger Corp., which will be a wholly owned subsidiary of Energy East at
+       the effective time of the merger, pursuant to which RGS Energy will be
+       merged with and into Eagle Merger Corp.;
 
-    (2) to elect six directors (described beginning on page 103); and
+    (2) to elect   directors (described beginning on page 103); and
 
     (3) to take action on such other business as may properly come before the
-        meeting.
+       meeting.
 
     Additional information about the proposals set forth above may be found in
 the accompanying joint proxy statement/prospectus. Please carefully review the
 accompanying joint proxy statement/prospectus and the merger agreement attached
 to it as Appendix A.
 
-    Only Energy East shareholders as of the close of business on April 26, 2001
-are entitled to notice of and to vote at the annual meeting or any postponements
-or adjournments thereof.
+    Only Energy East shareholders as of the close of business on             ,
+2001 are entitled to notice of and to vote at the annual meeting or any
+postponements or adjournments thereof.
 
     THE ENERGY EAST BOARD OF DIRECTORS HAS DETERMINED THAT THE ISSUANCE OF
 ENERGY EAST SHARES IN CONNECTION WITH THE MERGER IS IN THE BEST INTERESTS OF
@@ -431,7 +424,7 @@ to any of the persons named on the enclosed proxy card at the annual meeting.
                                           Counsel and Secretary
 
 Albany, NY
-April   , 2001
+[      ], 2001
 
     IT IS IMPORTANT THAT YOU SIGN, DATE AND PROMPTLY RETURN THE PROXY CARD IN
 THE ENCLOSED ENVELOPE OR FOLLOW THE INSTRUCTIONS ON THE ENCLOSED PROXY FORM TO
@@ -446,218 +439,191 @@ CAUSE US TO INCUR CONSIDERABLE ADDITIONAL EXPENSE.
 SIMPLY BEND THE DOCUMENT SLIGHTLY TO EXPOSE THE BLACK TABS AND OPEN THE DOCUMENT
 TO THE TAB THAT CORRESPONDS TO THE TITLE OF THE SECTION YOU WISH TO READ.
 
-                                                               
-                                          QUESTIONS AND ANSWERS ABOUT THE MERGER
-                                                                         SUMMARY
-                                                                    RISK FACTORS
-                                                                   THE COMPANIES
-                                                                      THE MERGER
-                                                            THE MERGER AGREEMENT
-                     UNAUDITED PRO FORMA COMBINED CONDENSED FINANCIAL STATEMENTS
-      COMPARATIVE RIGHTS OF RGS ENERGY SHAREHOLDERS AND ENERGY EAST SHAREHOLDERS
-                                                   THE RGS ENERGY ANNUAL MEETING
-                                                  THE ENERGY EAST ANNUAL MEETING
-                                             WHERE YOU CAN FIND MORE INFORMATION
-                                                                      APPENDICES
+                                  / /
+
+       QUESTIONS AND ANSWERS ABOUT THE MERGER      / /
+
+                                      SUMMARY      / /
+
+                                 RISK FACTORS      / /
+
+                                THE COMPANIES      / /
+
+                                   THE MERGER      / /
+
+                         THE MERGER AGREEMENT      / /
+
+       UNAUDITED PRO FORMA COMBINED CONDENSED
+                         FINANCIAL STATEMENTS      / /
+
+COMPARATIVE RIGHTS OF RGS ENERGY SHAREHOLDERS
+                 AND ENERGY EAST SHAREHOLDERS      / /
+
+                THE RGS ENERGY ANNUAL MEETING      / /
+
+               THE ENERGY EAST ANNUAL MEETING      / /
+
+          WHERE YOU CAN FIND MORE INFORMATION      / /
+
+                                   APPENDICES      / /
 
                                
 
-                                         PAGE
-                                       --------
+                                                                PAGE
+                                                              --------
 
-QUESTIONS AND ANSWERS ABOUT THE
-  MERGER.............................       1
-CAUTIONARY STATEMENT REGARDING
-  FORWARD-LOOKING STATEMENTS.........       5
+QUESTIONS AND ANSWERS ABOUT THE MERGER......................       1
+CAUTIONARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS...       5
 SUMMARY
-  The Companies......................       6
-  The Annual Meetings................       6
-  Vote Required to Approve and Adopt
-    the Merger Agreement and the
-    Issuance of Energy East Shares in
-    Connection with the Merger.......       7
-  Security Ownership of Management...       7
-  The Merger.........................       7
-  The Merger Agreement...............       9
-  Comparative Rights of RGS Energy
-    Shareholders and Energy East
-    Shareholders.....................      11
-  Comparative Per Share Market Price
-    and Dividend Information.........      12
-  Unaudited Pro Forma Comparative Per
-    Share Data.......................      14
-  Selected Financial Information.....      15
+  The Companies.............................................       6
+  The Annual Meetings.......................................       6
+  Vote Required to Approve and Adopt the Merger Agreement
+    and the Issuance of Energy East Shares in Connection
+    with the Merger.........................................       6
+  Security Ownership of Management..........................       7
+  The Merger................................................       7
+  The Merger Agreement......................................       9
+  Comparative Rights of RGS Energy Shareholders and Energy
+    East Shareholders.......................................      11
+  Comparative Per Share Market Price and Dividend
+    Information.............................................      12
+  Unaudited Pro Forma Comparative Per Share Data............      14
+  Selected Financial Information............................      15
 RISK FACTORS
-  The Amount of Consideration RGS
-    Energy Shareholders Receive May
-    Vary as a Result of Stock-Price
-    Fluctuations Prior to the
-    Completion of the Merger.........      18
-  Regulatory Agencies Could Delay or
-    Refuse to Approve the Merger or
-    Impose Conditions That Could Have
-    an Adverse Effect................      19
-  Uncertainties in Integrating Our
-    Companies........................      19
-  Competitive and Regulatory
-    Conditions.......................      19
+  The Amount of Consideration RGS Energy Shareholders
+    Receive May Vary as a Result of Stock-Price Fluctuations
+    Prior to the Completion of the Merger...................      18
+  Regulatory Agencies Could Delay or Refuse to Approve the
+    Merger or Impose Conditions That Could Have an Adverse
+    Effect..................................................      19
+  Uncertainties in Integrating Our Companies................      19
+  Competitive and Regulatory Conditions.....................      19
 THE COMPANIES
-  RGS Energy Group, Inc..............      20
-  Energy East Corporation............      21
-  Eagle Merger Corp..................      22
-THE ANNUAL MEETINGS..................      22
+  RGS Energy Group, Inc.....................................      20
+  Energy East Corporation...................................      21
+  Eagle Merger Corp.........................................      22
+THE ANNUAL MEETINGS.........................................      22
 THE MERGER
-  General Description of the
-    Merger...........................      23
-
-                                         PAGE
-                                       --------
-
-  Background.........................      23
-  RGS Energy Reasons for the Merger;
-    Recommendation of the RGS Energy
-    Board of Directors...............      27
-  Energy East Reasons for the Merger;
-    Recommendation of the Energy East
-    Board of Directors...............      30
-  Opinion of the Financial Advisor to
-    the RGS Energy Board.............      31
-  Opinion of the Financial Advisor to
-    the Energy East Board............      38
-  Effective Time of the Merger.......      43
-  Certificate of Incorporation and
-    Bylaws...........................      43
-  Accounting Treatment...............      44
-  Regulatory Approvals...............      44
-  No Dissenters' Rights of
-    Appraisal........................      46
-  Listing of the Energy East Shares
-    on the New York Stock Exchange...      46
-  Resale of the Energy East Shares
-    Issued in the Merger; RGS Energy
-    Affiliates.......................      46
-  Merger Financing...................      46
-  Interests of Certain Persons in the
-    Merger...........................      46
-  Material Federal Income Tax
-    Consequences of the Merger.......      51
-THE MERGER AGREEMENT
-  General............................      56
-  Corporate Governance Matters.......      56
-  Conversion of RGS Energy Shares....      56
-  Representations and Warranties.....      59
-  Covenants..........................      60
-  Additional Agreements..............      62
-  Conditions.........................      67
-  Termination, Amendment and Waiver..      68
-SECURITY OWNERSHIP OF MANAGEMENT.....      71
-UNAUDITED PRO FORMA COMBINED
-  CONDENSED FINANCIAL STATEMENTS.....      72
-COMPARATIVE RIGHTS OF RGS ENERGY
-  SHAREHOLDERS AND ENERGY EAST
-  SHAREHOLDERS
-  Authorized Capital Stock...........      79
+  General Description of the Merger.........................      23
+  Background................................................      23
+  RGS Energy Reasons for the Merger; Recommendation of the
+    RGS Energy Board of Directors...........................      27
+  Energy East Reasons for the Merger; Recommendation of the
+    Energy East Board of Directors..........................      30
+  Opinion of the Financial Advisor to the RGS Energy
+    Board...................................................      31
+  Opinion of the Financial Advisor to the Energy East
+    Board...................................................      38
+  Effective Time of the Merger..............................      43
+  Certificate of Incorporation and Bylaws...................      43
+  Accounting Treatment......................................      44
+  Regulatory Approvals......................................      44
+  No Dissenters' Rights of Appraisal........................      46
+  Listing of the Energy East Shares on the New York Stock
+    Exchange................................................      46
 
                                        i
 
-                                         PAGE
-                                       --------
+                                                                PAGE
+                                                              --------
 
-  Voting Rights......................      79
-  Dividends..........................      80
-  Election and Classification of the
-    Board of Directors...............      80
-  Size of the Board of Directors.....      80
-  Removal of Directors; Filling of
-    Vacancies........................      81
-  Special Meetings of Shareholders...      81
-  Advance Notice Provisions..........      81
-  Indemnification of Directors and
-    Officers.........................      82
-  Amendment of Certificate of
-    Incorporation....................      82
-  Amendment of Bylaws................      83
-  Duty of Directors..................      83
-  Business Combinations..............      84
-  Fair Price Provisions..............      84
-  State Law Takeover Restrictions....      84
-LEGAL MATTERS........................      85
-EXPERTS..............................      85
+  Resale of the Energy East Shares Issued in the Merger; RGS
+    Energy Affiliates.......................................      46
+  Merger Financing..........................................      46
+  Interests of Certain Persons in the Merger................      46
+  Material Federal Income Tax Consequences of the Merger....      51
+THE MERGER AGREEMENT
+  General...................................................      56
+  Corporate Governance Matters..............................      56
+  Conversion of RGS Energy Shares...........................      56
+  Representations and Warranties............................      59
+  Covenants.................................................      60
+  Additional Agreements.....................................      62
+  Conditions................................................      67
+  Termination, Amendment and Waiver.........................      68
+SECURITY OWNERSHIP OF MANAGEMENT............................      71
+UNAUDITED PRO FORMA COMBINED CONDENSED FINANCIAL
+  STATEMENTS................................................      72
+COMPARATIVE RIGHTS OF RGS ENERGY SHAREHOLDERS AND ENERGY
+  EAST SHAREHOLDERS.........................................      79
+  Authorized Capital Stock..................................      79
+  Voting Rights.............................................      79
+  Dividends.................................................      80
+  Election and Classification of the Board of Directors.....      80
+  Size of the Board of Directors............................      80
+  Removal of Directors; Filling of Vacancies................      81
+  Special Meetings of Shareholders..........................      81
+  Advance Notice Provisions.................................      81
+  Indemnification of Directors and Officers.................      82
+  Amendment of Certificate of Incorporation.................      82
+  Amendment of Bylaws.......................................      83
+  Duty of Directors.........................................      83
+  Business Combinations.....................................      84
+  Fair Price Provisions.....................................      84
+  State Law Takeover Restrictions...........................      84
+LEGAL MATTERS...............................................      85
+EXPERTS.....................................................      85
 THE RGS ENERGY ANNUAL MEETING
-  Annual Report......................      86
-  Outstanding Voting Securities and
-    Voting Rights....................      86
-  PROPOSAL 1--THE MERGER PROPOSAL....      87
-  PROPOSAL 2--ELECTION OF
-    DIRECTORS........................      87
-    Security Ownership of
-      Management.....................      89
-    Section 16(a) Beneficial
-      Ownership Reporting
-      Compliance.....................      91
-    Stock Performance Graph..........      91
-    Executive Compensation...........      92
-    Retirement Plans.................      93
-    Severance Agreements.............      94
-    Directors' Compensation..........      95
-    Meetings and Standing Committees
-      of the Board of Directors......      95
-    Report of Audit Committee........      96
-    Report of the RGS Energy
-      Committee on Management on
-      Executive Compensation.........      97
-  Independent Accountants............      99
-
-                                         PAGE
-                                       --------
-
-  Deadline for Shareholder
-    Proposals........................     100
-  Other Matters......................     100
-  Cost of Solicitation...............     101
-THE ENERGY EAST ANNUAL MEETING
-  Annual Report......................     102
-  Outstanding Voting Securities and
-    Voting Rights....................     102
-  PROPOSAL 1--THE MERGER PROPOSAL....     103
-  PROPOSAL 2--ELECTION OF
-    DIRECTORS........................     103
-    Security Ownership of
-      Management.....................     107
-    Section 16(a) Beneficial
-      Ownership Reporting
-      Compliance.....................     108
-    Stock Performance Graph..........     108
-    Executive Compensation...........     109
-    Pension Plan Table...............     112
-    Employment, Change in Control and
-      Other Arrangements.............     113
-    Directors' Compensation..........     114
-    Committees.......................     115
-    Report of Audit Committee........     115
-    Report of Executive Compensation
-      and Succession Committee.......     116
-  Independent Accountants............     118
-  Deadline for Shareholder
-    Proposals........................     118
-  Other Matters......................     119
-  Cost of Solicitation...............     119
-WHERE YOU CAN FIND MORE
-  INFORMATION........................     120
-INDEX OF DEFINED TERMS...............     122
-APPENDIX A  AGREEMENT AND PLAN OF
-  MERGER.............................     A-i
-APPENDIX B  FAIRNESS OPINION OF
-  MORGAN STANLEY & CO.
-  INCORPORATED.......................     B-1
-APPENDIX C  FAIRNESS OPINION OF UBS
-  WARBURG LLC........................     C-1
-APPENDIX D  RGS ENERGY GROUP, INC.
-  AUDIT COMMITTEE CHARTER............     D-1
-APPENDIX E  ENERGY EAST CORPORATION
-  AUDIT COMMITTEE CHARTER............     E-1
+  Annual Report.............................................      86
+  Outstanding Voting Securities and Voting Rights...........      86
+  PROPOSAL 1--The Merger Proposal...........................      87
+  PROPOSAL 2--Election of Directors.........................      87
+    Security Ownership of Management........................      89
+    Section 16(a) Beneficial Ownership Reporting
+     Compliance.............................................      91
+    Stock Performance Graph.................................      91
+    Executive Compensation..................................      92
 
                                        ii
+
+                                                                PAGE
+                                                              --------
+
+    Retirement Plans........................................      93
+    Severance Agreements....................................      94
+    Directors' Compensation.................................      95
+    Meetings and Standing Committees of the Board of
+     Directors..............................................      95
+    Report of Audit Committee...............................      96
+    Report of the RGS Energy Committee on Management on
+     Executive Compensation.................................      97
+  Independent Accountants...................................      99
+  Deadline for Shareholder Proposals........................     100
+  Other Matters.............................................     100
+  Cost of Solicitation......................................     101
+THE ENERGY EAST ANNUAL MEETING
+  Annual Report.............................................     102
+  Outstanding Voting Securities and Voting Rights...........     102
+  PROPOSAL 1--The Merger Proposal...........................     103
+  PROPOSAL 2--Election of Directors.........................     103
+    Security Ownership of Management........................     107
+    Section 16(a) Beneficial Ownership Reporting
+     Compliance.............................................     108
+    Stock Performance Graph.................................     108
+    Executive Compensation..................................     109
+    Pension Plan Table......................................     112
+    Employment, Change in Control and Other Arrangements....     113
+    Directors' Compensation.................................     114
+    Committees..............................................     115
+    Report of Audit Committee...............................     115
+    Report of Executive Compensation and Succession
+     Committee..............................................     116
+  Independent Accountants...................................     118
+  Deadline for Shareholder Proposals........................     118
+  Other Matters.............................................     119
+  Cost of Solicitation......................................     119
+WHERE YOU CAN FIND MORE INFORMATION.........................     120
+INDEX OF DEFINED TERMS......................................     122
+APPENDIX A  AGREEMENT AND PLAN OF MERGER....................     A-i
+APPENDIX B  FAIRNESS OPINION OF MORGAN STANLEY & CO.
+  INCORPORATED..............................................     B-1
+APPENDIX C  FAIRNESS OPINION OF UBS WARBURG LLC.............     C-1
+APPENDIX D  RGS ENERGY GROUP, INC. AUDIT COMMITTEE
+  CHARTER...................................................     D-1
+APPENDIX E  ENERGY EAST CORPORATION AUDIT COMMITTEE
+  CHARTER...................................................     E-1
+
+                                      iii
 
                      QUESTIONS AND ANSWERS ABOUT THE MERGER
 
@@ -869,15 +835,10 @@ A.   Nothing. Each Energy East share will
 Q.   WHEN AND WHERE ARE THE ANNUAL MEETINGS?
 
 A.   The RGS Energy annual meeting will take
-     place at 11:00 a.m on June 15, 2001, at
-     the Rochester Riverside Convention
-     Center, 123 East Main Street,
-     Rochester, New York. The Energy East
-     annual meeting will take place at
-     9:30 a.m on June 15, 2001, at the
-     Citicorp/Citibank Auditorium, 12th
-     Floor, 399 Park Avenue, New York, New
-     York.
+     place at   :  .m on [      ], 2001, at
+     [            ]. The Energy East annual
+     meeting will take place at   :  .m on
+     [      ], 2001, at [            ].
 
 Q.   WHAT PROPOSALS ARE RGS ENERGY
      SHAREHOLDERS VOTING ON?
@@ -905,14 +866,13 @@ A.   The Energy East shareholders are voting
      The second is to elect directors. For a
      more detailed description of the share
      issuance proposal, see "The
-     Merger--General Description of
+     Merger--General Description of the
+     Merger" on page 23. For a more detailed
+     description of the proposal relating to
+     the election of directors, see "The
 
-     the Merger" on page 23. For a more
-     detailed description of the proposal
-     relating to the election of directors,
-     see "The Energy East Annual
-     Meeting--Proposal 2--Election of
-     Directors" on page 103.
+     Energy East Annual Meeting--Proposal
+     2--Election of Directors" on page 103.
 
 Q.   WHAT DO I NEED TO DO NOW?
 
@@ -921,7 +881,7 @@ A.   As soon as possible after you have
      complete, sign, date and mail your
      proxy card in the enclosed return
      envelope or follow the instructions on
-     the enclosed proxy form if voting by
+     the enclosed proxy card if voting by
      telephone or over the Internet. By
      doing so, your shares will be
      represented at the RGS Energy annual
@@ -1031,9 +991,10 @@ A.   If you are an RGS Energy or Energy East
      If you are an RGS Energy shareholder
      and you fail to vote, mark your proxy
      "Abstain" or fail to instruct your
-     broker on how to vote, this will have
-     the effect of a vote against the merger
-     agreement.
+     broker on how to
+
+     vote, this will have the effect of a
+     vote against the merger agreement.
 
      If you are an Energy East shareholder,
      and you mark your proxy "Abstain," this
@@ -1119,7 +1080,7 @@ A.   If you are an RGS Energy shareholder,
      proxy solicitor, at (800) 607-0088 with
      respect to questions regarding voting
      or to request a copy of this document.
-     If you are a bank or a broker, you may
+     If you are a bank or a broker, you can
      call Morrow & Co. at (800) 654-2468. If
      you are an Energy East shareholder, you
      may call Innisfree M&A, Energy East's
@@ -1264,33 +1225,33 @@ New York solely for the purpose of completing the merger with RGS Energy.
 
                        THE ANNUAL MEETINGS (SEE PAGE 22)
 
-    The RGS Energy annual meeting will be held at the Rochester Riverside
-Convention Center, 123 East Main Street, Rochester, New York on June 15, 2001,
-at 11:00 a.m. RGS Energy shareholders at the close of business on the record
-date, April 26, 2001, will be entitled to notice of and to vote at the RGS
+    The RGS Energy annual meeting will be held at             on       , 2001,
+at             .m. RGS Energy shareholders at the close of business on the
+record date,       , 2001, will be entitled to notice of and to vote at the RGS
 Energy annual meeting. Each RGS Energy share carries one vote. As of the close
-of business on April 26, 2001, 34,577,426 RGS Energy shares were outstanding.
+of business on   , 2001,       RGS Energy shares were outstanding.
 
-    The Energy East annual meeting will be held at the Citicorp/Citibank
-Auditorium, 12th Floor, 399 Park Avenue, New York, New York on June 15, 2001, at
-9:30 a.m. Energy East shareholders at the close of business on the record date,
-April 26, 2001, will be entitled to notice of and to vote at the Energy East
-annual meeting. Energy East shareholders have cumulative voting rights in the
-election of directors and one vote per share for all other purposes. As of the
-close of business on April 26, 2001,       Energy East shares were outstanding.
+    The Energy East annual meeting will be held at             on       , 2001,
+at             .m. Energy East shareholders at the close of business on the
+record date,       , 2001, will be entitled to notice of and to vote at the
+Energy East annual meeting. Energy East shareholders have cumulative voting
+rights in the election of directors and one vote per share for all other
+purposes. As of the close of business on   , 2001,       Energy East shares were
+outstanding.
 
-  VOTE REQUIRED TO APPROVE AND ADOPT THE MERGER AGREEMENT AND THE ISSUANCE OF
-                ENERGY EAST SHARES IN CONNECTION WITH THE MERGER
+    VOTE REQUIRED TO APPROVE AND ADOPT THE MERGER AGREEMENT AND THE ISSUANCE OF
+ENERGY EAST SHARES IN CONNECTION WITH THE MERGER
 
 RGS ENERGY SHAREHOLDERS (SEE PAGE 86)
 
     RGS Energy shareholders will vote on a proposal to approve and adopt the
 merger agreement. Approval and adoption of the merger agreement requires the
-affirmative vote of the holders of a majority of all outstanding RGS Energy
-shares entitled to vote. IF AN RGS ENERGY SHAREHOLDER DOES NOT VOTE, WHETHER BY
-ABSTENTION, FAILURE TO VOTE OR BROKER NON-VOTE, IT WILL HAVE THE SAME EFFECT AS
-A VOTE AGAINST THE MERGER AND THE OTHER TRANSACTIONS DESCRIBED IN THE MERGER
-AGREEMENT.
+affirmative vote of the holders of a majority of all outstanding
+
+RGS Energy shares entitled to vote. IF AN RGS ENERGY SHAREHOLDER DOES NOT VOTE,
+WHETHER BY ABSTENTION, FAILURE TO VOTE OR BROKER NON-VOTE, IT WILL HAVE THE SAME
+EFFECT AS A VOTE AGAINST THE MERGER AND THE OTHER TRANSACTIONS DESCRIBED IN THE
+MERGER AGREEMENT.
 
 ENERGY EAST SHAREHOLDERS (SEE PAGE 102)
 
@@ -1311,16 +1272,16 @@ CAST A VOTE.
                   FOR RGS ENERGY AND PAGE 107 FOR ENERGY EAST)
 
     Executive officers and directors of RGS Energy and their affiliates owned,
-as of March 31, 2001, less than 1.0% of the total outstanding RGS Energy shares.
+as of March 1, 2001, less than 1.0% of the total outstanding RGS Energy shares.
 It is expected that, at the RGS annual meeting, all of these executive officers
 and directors will vote their shares FOR the approval and adoption of the merger
 agreement.
 
     Executive officers and directors of Energy East and their affiliates owned,
-as of March 31, 2001, less than 2.0% of the total outstanding Energy East
-shares. It is expected that, at the Energy East annual meeting, all of these
-executive officers and directors will vote their shares FOR the approval of the
-issuance of Energy East shares in the merger.
+as of March 1, 2001, less than 2.0% of the total outstanding Energy East shares.
+It is expected that, at the Energy East annual meeting, all of these executive
+officers and directors will vote their shares FOR the approval of the issuance
+of Energy East shares in the merger.
 
                                    THE MERGER
 
@@ -1352,7 +1313,7 @@ merger. This opinion is attached as Appendix B to this document and is also
 discussed on pages 31 to 37. In deciding to approve the merger, the Energy East
 board of directors considered, among other things, the opinion of UBS Warburg
 LLC, its financial advisor, as to the fairness, from a financial point of view,
-to Energy East of the consideration to be paid to RGS Energy shareholders in the
+to Energy East of the consideration to be paid to RGS shareholders in the
 merger. This opinion is attached as Appendix C to this document and is also
 discussed on pages 38 to 43. We encourage you to read these opinions in their
 entirety.
@@ -1360,13 +1321,14 @@ entirety.
 ACCOUNTING TREATMENT (SEE PAGE 44)
 
     The merger will be accounted for as an acquisition of RGS Energy by Energy
-East under the purchase method of accounting in accordance with generally
-accepted accounting principles. A portion of the purchase price will be
-allocated to non-utility assets and liabilities of RGS Energy based on their
-estimated fair market values at the date of acquisition. The assets and
-liabilities of the regulated utility will not be revalued. The difference
-between the purchase price, representing fair value, and the recorded amounts
-will be shown as goodwill on the balance sheet.
+East under the purchase method of accounting in
+
+accordance with generally accepted accounting principles. A portion of the
+purchase price will be allocated to non-utility assets and liabilities of RGS
+Energy based on their estimated fair market values at the date of acquisition.
+The assets and liabilities of the regulated utility will not be revalued. The
+difference between the purchase price, representing fair value, and the recorded
+amounts will be shown as goodwill on the balance sheet.
 
 REGULATORY APPROVALS (SEE PAGES 44 TO 45)
 
@@ -1426,16 +1388,16 @@ U.S. federal income tax purposes (except with respect to cash received instead
 of fractional shares). If you are an RGS Energy shareholder who receives part
 cash and part Energy East shares, and your adjusted basis in an RGS Energy share
 is less than the sum of the amount of cash and the fair market value (as of the
-date of the merger) of
+date of the merger) of the Energy East shares you receive for the RGS Energy
+share, you will recognize a gain.
 
-the Energy East shares you receive for the RGS Energy share, you will recognize
-a gain. However, if you realize a loss because your adjusted basis in an RGS
-Energy share is greater than the sum of the amount of cash and the fair market
-value, as of the date of the merger, of the Energy East shares you receive for
-the RGS Energy share, the loss will not currently be allowed. If you are an RGS
-Energy shareholder who receives solely cash, gain or loss will generally be
-recognized by you to the extent of the difference between the amount of cash you
-receive and your adjusted basis in your RGS Energy shares.
+However, if you realize a loss because your adjusted basis in an RGS Energy
+share is greater than the sum of the amount of cash and the fair market value,
+as of the date of the merger, of the Energy East shares you receive for the RGS
+Energy share, the loss will not currently be allowed. If you are an RGS Energy
+shareholder who receives solely cash, gain or loss will generally be recognized
+by you to the extent of the difference between the amount of cash you receive
+and your adjusted basis in your RGS Energy shares.
 
     The consequences described above assume, as expected, that the merger will
 qualify as a reorganization within the meaning of Section 368(a) of the Internal
@@ -1464,6 +1426,7 @@ UNDERSTANDING OF THE TAX CONSEQUENCES OF THE MERGER TO YOU.
 shareholders or Energy East shareholders under New York law.
 
                               THE MERGER AGREEMENT
+
     The merger agreement is the legal document that governs the merger. The
 merger agreement is attached as Appendix A to this document, and we encourage
 you to read it carefully.
@@ -1575,8 +1538,9 @@ following circumstances:
       obtained or can obtain any necessary financing and that such proposal
       would be financially superior to the merger. However, before RGS Energy
       can terminate the merger agreement, it must consider in good faith any
-      proposal made by Energy East to enable RGS Energy to proceed with the
-      merger.
+      proposal
+
+      made by Energy East to enable RGS Energy to proceed with the merger.
 
     - by either of us, if the other party materially breaches the merger
       agreement and fails to cure the breach;
@@ -1638,9 +1602,8 @@ expenses of up to $10 million.
 the amount of damages, expenses and fees a nonbreaching party who terminates the
 merger agreement may seek.
 
-                        COMPARATIVE RIGHTS OF RGS ENERGY
-                   SHAREHOLDERS AND ENERGY EAST SHAREHOLDERS
-                              (SEE PAGES 79 TO 84)
+    COMPARATIVE RIGHTS OF RGS ENERGY SHAREHOLDERS AND ENERGY EAST SHAREHOLDERS
+(SEE PAGES 79 TO 84)
 
     Energy East and RGS Energy are both organized under the laws of the State of
 New York. Any differences, therefore, in the rights of holders of RGS Energy
@@ -1674,14 +1637,13 @@ published financial sources.
   Third Quarter......................     27.06      22.63          .21          27.31      24.06          .45
   Fourth Quarter.....................     25.75      20.56          .21          25.50      20.00          .45
 
-  First Quarter......................    $23.63     $18.81         $.22         $21.88     $18.69         $.45
+  First Quarter......................     23.63      18.81          .22          21.88      18.69          .45
   Second Quarter.....................     22.94      19.00          .22          24.50      20.50          .45
   Third Quarter......................     23.50      17.94          .22          28.38      22.25          .45
   Fourth Quarter.....................     22.63      18.44          .22          33.31      27.38          .45
 
-  First Quarter......................    $20.31     $16.96         $.23         $37.48     $27.75         $.45
-  Second Quarter (through April 19,
-    2001)............................     20.42      17.41          .23          37.30      36.05          .45
+  First Quarter (through March 14,
+    2001)............................     20.31      17.39          .23          36.91      27.75          .45
 
 Per share amounts for Energy East have been restated to reflect Energy East's
 two-for-one stock split, effective April 1, 1999.
@@ -1690,9 +1652,8 @@ two-for-one stock split, effective April 1, 1999.
 
     The following table shows the closing prices for Energy East shares and RGS
 Energy shares on February 16, 2001, the last full trading day before the public
-announcement of the proposed transactions, and on April 19, 2001, the most
-recent date for which quotations were available prior to the printing of this
-document.
+announcement of the proposed transactions, and on       , 2001, the most recent
+date for which quotations were available prior to the printing of this document.
 
                                                     ENERGY EAST SHARES               RGS ENERGY SHARES
                                               ------------------------------   ------------------------------
@@ -1700,7 +1661,7 @@ document.
                     ----                      --------   --------   --------   --------   --------   --------
 
 February 16, 2001...........................   $19.74     $19.07     $19.14     $33.26     $32.30     $33.10
-April 19, 2001..............................   $19.55     $19.00     $19.43     $36.77     $36.50     $36.77
+          , 2001............................
 
     The number of Energy East shares to be exchanged for each RGS Energy share
 in the merger will depend on the value of Energy East shares during the
@@ -1708,9 +1669,9 @@ in the merger will depend on the value of Energy East shares during the
 merger. Based on the closing price of Energy East shares on February 16, 2001,
 each RGS Energy share convertible into the right to receive Energy East shares
 would be converted into the right to receive 2.0637 Energy East shares. Based on
-the closing price of Energy East shares on April 19, 2001, each RGS Energy share
+the closing price of Energy East shares on       , 2001, each RGS Energy share
 convertible into the right to receive Energy East shares would be converted into
-the right to receive 2.0329 Energy East shares.
+the right to receive       Energy East shares.
 
     We urge you to obtain current market quotations for Energy East shares and
 RGS Energy shares.
@@ -1719,22 +1680,22 @@ RGS Energy shares.
 list on that exchange the Energy East shares that RGS Energy shareholders will
 receive in the merger.
 
-    On April 12, 2001, the Energy East board of directors declared a quarterly
-dividend on Energy East shares of $.23 per share, payable on May 15, 2001 to
-holders of record on April 23, 2001. Energy East anticipates that it will
+    On January 12, 2001, the Energy East board of directors declared a quarterly
+dividend on Energy East shares of $.23 per share, payable on February 15, 2001
+to holders of record on January 22, 2001. Energy East anticipates that it will
 continue to pay quarterly cash dividends. The Energy East board of directors,
 however, has discretion to decide upon the timing and amount of any future
 dividends. Whether or not Energy East will pay dividends, and, if so, how much
 these dividends will be, will depend on Energy East's future earnings, financial
 condition, capital requirements and other factors.
 
-    On March 21, 2001, the RGS Energy board of directors declared a quarterly
-dividend on RGS Energy shares of $.45 per share, payable on April 25, 2001 to
-holders of record on April 2, 2001. As part of the merger agreement, RGS Energy
-has agreed that it will not make, declare or pay any dividend or distribution on
-RGS Energy shares, other than regular quarterly dividends on RGS Energy shares
-that do not materially exceed the current regular dividends on RGS Energy shares
-and with record and payment dates consistent with past practice.
+    On December 20, 2000, the RGS Energy board of directors declared a quarterly
+dividend on RGS Energy shares of $.45 per share, payable on January 25, 2001 to
+holders of record on January 2, 2001. As part of the merger agreement, RGS
+Energy has agreed that it will not make, declare or pay any dividend or
+distribution on RGS Energy shares, other than regular quarterly dividends on RGS
+Energy shares that do not materially exceed the current regular dividends on RGS
+Energy shares and with record and payment dates consistent with past practice.
 
     Prior to completing the merger, we will coordinate our respective dividend
 policies so that neither RGS Energy shareholders nor Energy East shareholders
@@ -1776,8 +1737,8 @@ Information" on page 120.
                                                               ------------------
 
 ENERGY EAST -- HISTORICAL
-  Earnings per share, basic and diluted.....................         $2.06
-  Cash dividends declared per share.........................          $.88
+  Earnings per share, basic and diluted.....................        $ 2.06
+  Cash dividends declared per share.........................        $  .88
   Book value per share at period end........................        $14.59
 
                                                               FISCAL YEAR ENDED
@@ -1786,9 +1747,9 @@ ENERGY EAST -- HISTORICAL
 
 RGS ENERGY -- HISTORICAL
   Earnings per share:
-    Basic...................................................         $2.61
-    Diluted.................................................         $2.60
-  Cash dividends declared per share.........................         $1.80
+    Basic...................................................        $ 2.61
+    Diluted.................................................        $ 2.60
+  Cash dividends declared per share.........................        $ 1.80
   Book value per share at period end........................        $22.19
 
                                                               FISCAL YEAR ENDED
@@ -1796,8 +1757,8 @@ RGS ENERGY -- HISTORICAL
                                                               ------------------
 
 COMBINATION OF ENERGY EAST & RGS ENERGY -- PRO FORMA
-  Earnings per share, basic and diluted.....................         $2.03
-  Cash dividends declared per share.........................          $.88
+  Earnings per share, basic and diluted.....................        $ 2.03
+  Cash dividends declared per share.........................        $  .88
   Book value per share at period end........................        $15.57
 
                                                               FISCAL YEAR ENDED
@@ -1806,8 +1767,8 @@ COMBINATION OF ENERGY EAST & RGS ENERGY -- PRO FORMA
 
 RGS ENERGY -- PER SHARE EQUIVALENT PRO FORMA BASIS BASED ON
 COMBINATION OF ENERGY EAST & RGS ENERGY
-  Earnings per share, basic and diluted.....................         $4.18
-  Cash dividends declared per share.........................         $1.82
+  Earnings per share, basic and diluted.....................        $ 4.18
+  Cash dividends declared per share.........................        $ 1.82
   Book value per share at period end........................        $32.12
 
                          SELECTED FINANCIAL INFORMATION
@@ -1859,10 +1820,10 @@ position or operating results.
 
 STATEMENT OF OPERATIONS:
   Operating revenues.......................  $2,959,520   $2,278,608   $2,499,568   $2,170,102   $2,108,865
-  Net income...............................    $235,034     $218,751     $194,205     $175,211     $168,711
-  Earnings per share, basic and diluted....       $2.06        $1.88        $1.51        $1.29        $1.19
+  Net income...............................     235,034      218,751      194,205      175,211      168,711
+  Earnings per share, basic and diluted....        2.06         1.88         1.51         1.29         1.19
   Cash dividends declared per
-    common share...........................        $.88         $.84         $.78         $.70         $.70
+    common share...........................         .88          .84          .78          .70          .70
 
                                                                       DECEMBER 31,
                                              --------------------------------------------------------------
@@ -1874,9 +1835,9 @@ BALANCE SHEET DATA:
   Total assets.............................  $7,003,633   $3,773,171   $4,902,085   $5,044,914   $5,064,816
   Long-term debt, capital leases and
     redeemable preferred stock (excluding
-    current portion).......................  $2,346,814   $1,235,089   $1,460,120   $1,475,224   $1,505,814
-  Common stock equity......................  $1,716,522   $1,403,954   $1,713,486   $1,803,295   $1,769,982
-  Book value per share.....................      $14.59       $12.84       $13.61       $13.36       $12.70
+    current portion).......................   2,346,814    1,235,089    1,460,120    1,475,224    1,505,814
+  Common stock equity......................   1,716,522    1,403,954    1,713,486    1,803,295    1,769,982
+  Book value per share.....................       14.59        12.84        13.61        13.36        12.70
 
        RGS ENERGY SELECTED HISTORICAL CONSOLIDATED FINANCIAL INFORMATION
 
@@ -1888,11 +1849,11 @@ BALANCE SHEET DATA:
 
 STATEMENT OF OPERATIONS:
   Operating revenues.......................  $1,448,119   $1,207,537   $1,033,491   $1,036,638   $1,054,047
-  Net income...............................     $91,859      $89,497      $89,296      $89,555      $90,046
-  Earnings per share, basic................       $2.61        $2.44        $2.32        $2.30        $2.32
-  Earnings per share, diluted..............       $2.60        $2.44        $2.31        $2.30        $2.32
+  Net income...............................      91,859       89,497       89,296       89,555       90,046
+  Earnings per share, basic................        2.61         2.44         2.32         2.30         2.32
+  Earnings per share, diluted..............        2.60         2.44         2.31         2.30         2.32
   Cash dividends declared per
-    common share...........................       $1.80        $1.80        $1.80        $1.80        $1.80
+    common share...........................        1.80         1.80         1.80         1.80         1.80
 
                                                                       DECEMBER 31,
                                              --------------------------------------------------------------
@@ -1904,9 +1865,9 @@ BALANCE SHEET DATA:
   Total assets.............................  $2,565,798   $2,462,874   $2,452,935   $2,268,289   $2,361,476
   Long-term debt, capital leases and
     redeemable preferred stock (excluding
-    current portion).......................    $848,860     $840,465     $783,226     $622,334     $691,954
-  Common stock equity......................    $767,115     $770,202     $782,781     $808,344     $786,559
-  Book value per share.....................      $22.19       $21.43       $20.94       $20.80       $20.24
+    current portion).......................     848,860      840,465      783,226      622,334      691,954
+  Common stock equity......................     767,115      770,202      782,781      808,344      786,559
+  Book value per share.....................       22.19        21.43        20.94        20.80        20.24
 
             ENERGY EAST AND RGS ENERGY SELECTED UNAUDITED PRO FORMA
                     COMBINED CONDENSED FINANCIAL INFORMATION
@@ -1991,13 +1952,13 @@ timing of completion, the effect of any conditions or restrictions imposed on or
 proposed with respect to the combined company by regulatory agencies, general
 market and economic conditions, or other factors.
 
-    For example, between February 16, 2000 and February 16, 2001 the closing
-sales price of an Energy East share ranged from a high of $23.19 to a low of
-$18.00 per share, and the closing sales price of an RGS Energy share during the
-same period ranged from a high of $33.10 to a low of $18.94 per share. On
-April 19, 2001, the most recent date for which it was practicable to obtain
-market price data, (1) the closing sales price of Energy East shares was $19.43
-per share, and (2) the closing sales price of RGS Energy shares was $36.77 per
+    For example, between             , 2000 and             , 2001 the closing
+sales price of an Energy East share has ranged from a high of $      to a low of
+$      per share, and the closing sales price of an RGS Energy share during the
+same period has ranged from a high of $      to a low of $      per share. On
+        , 2001, the most recent date for which it was practicable to obtain
+market price data, (1) the closing sales price of Energy East shares was $
+per share, and (2) the closing sales price of RGS Energy shares was $      per
 share, as reported in THE WALL STREET JOURNAL's New York Stock Exchange
 Composite Transactions. We urge you to obtain current market quotations for our
 shares. In addition, the stock market generally has experienced significant
@@ -2009,8 +1970,8 @@ shares immediately after the effective time of the merger and, therefore,
 impossible to predict accurately the value of the stock consideration that RGS
 Energy shareholders will receive. The value of the stock consideration may be
 significantly higher or lower than the value of the cash consideration. See
-"Summary--Unaudited Pro Forma Comparative Per Share Data" and "--Comparative Per
-Share Market Price and Dividend Information."
+"Summary--Unaudited Comparative Per Share Data" and "--Comparative Per Share
+Market Price and Dividend Information."
 
     If shareholders owning more than 45% of the RGS Energy shares elect to
 receive Energy East shares, the number of RGS Energy shares that will be
@@ -2090,7 +2051,7 @@ UTILITY OPERATIONS
 principally in the business of generating, purchasing and distributing
 electricity and purchasing and distributing natural gas. RG&E produces and
 distributes electricity and distributes natural gas in parts of nine counties
-including and surrounding the city of Rochester. At December 31, 2000, RG&E had
+including and surrounding the City of Rochester. At December 31, 2000, RG&E had
 2,022 employees.
 
     RG&E's service area covers 2,700 square miles, has a population of
@@ -3270,7 +3231,7 @@ OPINION OF THE FINANCIAL ADVISOR TO THE ENERGY EAST BOARD
 
     On February 16, 2001, the Energy East board of directors received UBS
 Warburg's oral opinion, which was subsequently followed by a written opinion as
-of the same date that, as of that date and subject to the various
+of the same date, that, as of that date and subject to the various
 considerations, assumptions, limitations and qualifications described in the
 opinion, the consideration to be paid by Energy East to shareholders of RGS
 Energy is fair, from a financial point of view, to Energy East.
@@ -3573,11 +3534,11 @@ following range of multiples:
 MEASURE OF FINANCIAL PERFORMANCE                    COMPARABLE COMPANY MULTIPLES
 - --------------------------------                    ----------------------------
 
-LTM EPS...........................................            10.5x -- 13.0x
-2001 Estimated EPS................................            10.0x -- 11.5x
-2002 Estimated EPS................................             9.5x -- 11.0x
-LTM EBIT..........................................             9.0x -- 10.0x
-LTM EBITDA........................................             6.0x --  7.0x
+LTM EPS...........................................       10.5x -- 13.0x
+2001 Estimated EPS................................       10.0x -- 11.5x
+2002 Estimated EPS................................       9.5x -- 11.0x
+LTM EBIT..........................................       9.0x -- 10.0x
+LTM EBITDA........................................       6.0x --  7.0x
 
     UBS Warburg then applied such multiples to the corresponding data for Energy
 East, resulting in a range of equity values of $18.00 to $21.00 per share.
@@ -3605,22 +3566,22 @@ application of these methods to particular circumstances. Therefore, the opinion
 and analysis are not readily susceptible to summary description. Accordingly,
 notwithstanding the separate factors and analyses summarized above, UBS Warburg
 believes that its analysis must be considered as a whole and that selecting only
-portions of its analysis and the factors it considered, without considering all
-factors and analyses, could create a misleading
+portions of its analysis
 
-view of the evaluation process underlying the opinions. UBS Warburg did not
-assign any particular weight to any analyses or factors it considered. Rather,
-UBS Warburg made qualitative judgments based on its experience in rendering
-these opinions and on economic, monetary and market conditions then present as
-to the significance and relevance of each analysis and factor. In its analyses,
-UBS Warburg assumed relatively stable industry performance, regulatory
-environments and general business and economic conditions, all of which are
-beyond Energy East's control. Any estimates contained in UBS Warburg's analyses
-do not necessarily indicate actual value, which may be significantly more or
-less favorable than those suggested by such estimates. Estimates of the
-financial value of companies do not purport to be appraisals or to reflect
-necessarily the prices at which companies or their securities actually may be
-sold.
+and the factors it considered, without considering all factors and analyses,
+could create a misleading view of the evaluation process underlying the
+opinions. UBS Warburg did not assign any particular weight to any analyses or
+factors it considered. Rather, UBS Warburg made qualitative judgments based on
+its experience in rendering these opinions and on economic, monetary and market
+conditions then present as to the significance and relevance of each analysis
+and factor. In its analyses, UBS Warburg assumed relatively stable industry
+performance, regulatory environments and general business and economic
+conditions, all of which are beyond Energy East's control. Any estimates
+contained in UBS Warburg's analyses do not necessarily indicate actual value,
+which may be significantly more or less favorable than those suggested by such
+estimates. Estimates of the financial value of companies do not purport to be
+appraisals or to reflect necessarily the prices at which companies or their
+securities actually may be sold.
 
     UBS Warburg is an internationally recognized investment banking firm. As
 part of its investment banking business, UBS Warburg is regularly engaged in
@@ -3970,7 +3931,7 @@ termination of his employment for any reason other than a termination of
 employment by Energy East or RGS Energy without "cause" or a resignation by
 Mr. Richards for "good reason," Mr. Richards may not compete with Energy East
 and its affiliates or subsidiaries in Connecticut, Maine, Maryland,
-Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island,
 and Vermont.
 
     Under the terms of the employment agreement, Energy East is responsible for
@@ -3980,15 +3941,14 @@ dispute concerning the interpretation or enforcement of the agreement.
     RETENTION PROGRAM.  Under the terms of the merger agreement, RGS Energy will
 be permitted to establish a retention program for employees of RGS Energy and
 its subsidiaries prior to completion of the merger, subject to review, comment
-and final approval by Energy East. The retention program will provide 22
-employees (including each of the executive officers other than Mr. Richards) of
-RGS Energy with a cash award equal to 100%, 50%, or 25% of each employee's
-annual base salary. The retention award will be payable 50% upon completion of
-the merger and 50% on the six-month anniversary thereof. In the event that the
-merger is abandoned without being completed, the retention awards will become
-immediately payable in full. In the event that the merger is not completed by
-November 16, 2002, the first 50% of each retention award will be payable on that
-date.
+and final approval by Energy East. The retention program will provide 21
+employees (including each of the executive officers) of RGS Energy with a cash
+award equal to 100%, 50%, or 25% of each employee's annual base salary. The
+retention award will be payable 50% upon completion of the merger and 50% on the
+six-month anniversary thereof. In the event that the merger is abandoned without
+being completed, the retention awards will become immediately payable in full.
+In the event that the merger is not completed by November 16, 2002, the first
+50% of each retention award will be payable on that date.
 
     Upon termination of a participating employee's employment by Energy East or
 RGS Energy without "cause" or upon such employee's resignation for "good
@@ -3999,14 +3959,12 @@ unpaid portion of the retention award will be forfeited.
 
     If the merger were completed on April 1, 2002, and based on certain
 assumptions and currently available information, the executive officers would
-receive the following retention bonuses: $249,637 for Mr. Tomaino; $249,637 for
-Mr. Bovalino; $249,637 for Mr. Wilkens; and $1,251,089 for all remaining
-employees as a group. The total of all retention bonuses paid to all employees
-will not exceed $2 million. Mr. Richards has entered into a new employment
-agreement with Energy East, described above, and, therefore, will not be
-eligible to participate in the retention program.
+receive the following retention bonuses: $416,420 for Mr. Richards; $233,405 for
+Mr. Tomaino; $220,646 for Mr. Bovalino; $216,320 for Mr. Wilkens and $913,209
+for all remaining employees as a group. The total of all retention bonuses paid
+to all employees will not exceed $2 million.
 
-    SEVERANCE AGREEMENTS.  RGS Energy has severance agreements with 20 of its
+    SEVERANCE AGREEMENTS.  RGS Energy has severance agreements with 21 of its
 employees (including each of the executive officers). These severance agreements
 provide for certain severance benefits in the event of an involuntary
 termination of employment within three years after a change in control of RGS
@@ -4062,8 +4020,8 @@ agreements.
 executive officer who is a party to a severance agreement were involuntarily
 terminated immediately thereafter, the estimated cash severance that would be
 payable under the severance agreements, based on certain assumptions and
-currently available information, would be: $944,782 for Mr. Tomaino; $941,791
-for Mr. Bovalino; $938,011 for Mr. Wilkens; and $4,175,745 for all remaining
+currently available information, would be: $896,085 for Mr. Tomaino; $854,818
+for Mr. Bovalino; $838,059 for Mr. Wilkens; and $4,169,124 for all remaining
 officers as a group. Mr. Richards will not be eligible to receive any severance
 benefits under his agreement because it will be superseded by his new employment
 agreement with Energy East, described above.
@@ -4082,9 +4040,9 @@ terminate and each participating employee, including the executive officers,
 will be paid a pro rata portion of his or her target bonus. If the merger were
 completed on April 1, 2002 and based on certain assumptions and currently
 available information, the executive officers would receive the following
-payments under this provision of the Executive Incentive Plan: $35,880 for
-Mr. Richards; $15,602 for Mr. Tomaino; $15,602 for Mr. Bovalino; $15,602 for
-Mr. Wilkens; and $125,483 for all remaining officers as a group.
+payments under this provision of the Executive Incentive Plan: $31,232 for
+Mr. Richards; $14,588 for Mr. Tomaino; $13,790 for Mr. Bovalino; $13,520 for
+Mr. Wilkens; and $84,315 for all remaining officers as a group.
 
     DEFERRED STOCK UNIT PLAN FOR NON-EMPLOYEE DIRECTORS AND DEFERRED
 COMPENSATION PLAN. Any benefits or rights accrued and unpaid to a director,
@@ -4513,7 +4471,7 @@ into cash and 45% will be converted into Energy East shares.
     RGS Energy shareholders, as a group, may submit elections to convert more
 than 55% of the outstanding RGS Energy shares into cash or more than 45% into
 Energy East shares. If either cash or Energy East shares is oversubscribed, then
-an equitable pro rata adjustment will be made to ensure that 55% of the
+an equitable PRO RATA adjustment will be made to ensure that 55% of the
 outstanding RGS Energy shares are converted into cash and 45% are converted into
 Energy East shares. For example, if cash is oversubscribed, each RGS Energy
 share as to which an election was submitted to be converted into $39.50 in cash
@@ -4860,10 +4818,10 @@ Specifically, RGS Energy agreed that:
     Nonetheless, RGS Energy may:
 
     - at any time before approval of the merger agreement by RGS Energy
-      shareholders, engage in discussions or negotiations with a third party
-      that seeks to initiate these discussions or negotiations, and may furnish
-      such third party information concerning RGS Energy and its business,
-      properties and assets, but only if:
+      shareholders, RGS Energy may engage in discussions or negotiations with a
+      third party that seeks to initiate these discussions or negotiations, and
+      may furnish such third party information concerning RGS Energy and its
+      business, properties and assets, but only if:
 
        - the RGS Energy board of directors determines in good faith that the
          third party has made an Alternative Proposal that is financially
@@ -5234,12 +5192,11 @@ East of, the following conditions:
       the effect that the merger will be treated as a reorganization within the
       meaning of Section 368(a) of the Internal Revenue Code. This condition
       will be waived if RGS Energy elects, as it may do under certain
-
       circumstances, to have the merger agreement amended so that RGS Energy
       will be the surviving company (see "--Conversion of RGS Energy Shares--Tax
       Adjustment"); and
 
-    - the governmental approvals obtained by the parties must not impose terms
+    - The governmental approvals obtained by the parties must not impose terms
       that, individually or in the aggregate, would have or would reasonably be
       expected to have a material adverse effect on either of our companies. We
       have agreed that a requirement that Energy East divest its ownership of
@@ -5369,13 +5326,13 @@ effective time of the merger:
        - the RGS Energy board of directors or any committee thereof
          (1) withdraws or modifies in any manner adverse to Energy East its
          approval or recommendation of the merger agreement or the merger,
-         (2) fails to reaffirm its approval or recommendation upon Energy
+         (2) fails to reaffirm its approval or recommendation upon Energy East's
+         request within seven days of that request, (3) approves or recommends
+         any acquisition of RGS Energy or a material portion of its assets or
+         any tender offer for the
 
-         East's request within seven days of that request, (3) approves or
-         recommends any acquisition of RGS Energy or a material portion of its
-         assets or any tender offer for the shares of capital stock of RGS
-         Energy by someone other than Energy East or any of its affiliates, or
-         (4) resolves to take any of these actions.
+         shares of capital stock of RGS Energy by someone other than Energy East
+         or any of its affiliates, or (4) resolves to take any of these actions.
 
     EFFECT OF TERMINATION.  RGS Energy and Energy East have agreed that, if
 either of them terminates the merger agreement for any reason outlined above,
@@ -5442,12 +5399,13 @@ following reason:
     AMENDMENT.  The parties' boards of directors may amend the merger agreement
 at any time before the effective time of the merger, whether or not the RGS
 Energy shareholders have already approved the agreement. After RGS Energy
-shareholder approval, however, no such amendment can (1) alter the merger
-consideration or the mechanics of the share exchange or (2) change any of the
-terms and conditions of the merger agreement if any of the changes would
-materially adversely affect the rights of RGS Energy shareholders (except for
-changes that could otherwise be adopted by the RGS Energy board of directors
-without the further approval of the RGS Energy shareholders).
+shareholder approval, however, no such amendment can
+
+(1) alter the merger consideration or the mechanics of the share exchange or
+(2) change any of the terms and conditions of the merger agreement if any of the
+changes would materially adversely affect the rights of RGS Energy shareholders
+(except for changes that could otherwise be adopted by the RGS Energy board of
+directors without the further approval of the RGS Energy shareholders).
 
     WAIVER.  At any time before the effective time of the merger, to the extent
 permitted by applicable law, the parties may extend the time for the performance
@@ -5475,7 +5433,7 @@ merger will be accounted for as a purchase. The non-utility assets and
 liabilities of RGS Energy will be recorded in Energy East's consolidated
 financial statements at their estimated fair values at the closing date. The
 assets and liabilities of the regulated utility will not be revalued. See "The
-Merger--Accounting Treatment" on page 44.
+Merger--Accounting Treatment."
 
     The unaudited pro forma combined condensed financial statements reflect
 preliminary purchase accounting adjustments in compliance with generally
@@ -5501,7 +5459,7 @@ completed on January 1, 2000.
     The accompanying pro forma financial statements should be read in
 conjunction with the consolidated historical financial statements and the
 related notes of Energy East and RGS Energy, which are incorporated by
-reference. See "Where You Can Find More Information" on page 120.
+reference. See "Where You Can Find More Information."
 
     The accompanying pro forma financial statements are for illustrative
 purposes only. They are not necessarily indicative of the financial position or
@@ -5516,9 +5474,9 @@ Energy East shares valued at $39.50, subject to restrictions on the maximum and
 minimum number of Energy East shares to be issued, discussed under "The Merger
 Agreement--Conversion of RGS Energy Shares" on pages 56 to 59. The number of
 Energy East shares to be exchanged for each RGS Energy share will be between
-1.7626 and 2.3838, based on the average closing price of Energy East shares on
-the New York Stock Exchange during the 20-trading-day period ending two trading
-days before the effective time of the merger.
+1.7626 and 2.3838, based on the closing price of Energy East shares on the New
+York Stock Exchange during the 20-trading-day average ending two trading days
+before the effective time of the merger.
 
     Energy East expects to issue long-term debt and preferred stock, the
 proceeds of which will be used to fund the cash portion of the consideration in
@@ -5544,7 +5502,7 @@ proceeds to fund the consideration paid to RGS Energy shareholders.
 ASSETS
 
 Current Assets
-  Cash and cash equivalents...............     $33,239       $16,258      $(1,207)(5)       $48,290
+  Cash and cash equivalents...............  $   33,239    $   16,258     $ (1,207)(5)   $    48,290
   Special deposits........................      21,516                                       21,516
   Temporary investments...................     100,292                                      100,292
   Accounts receivable, net................     536,280       207,494                        743,774
@@ -5587,9 +5545,9 @@ Goodwill..................................     952,358        27,971      608,19
 LIABILITIES
 
 Current Liabilities
-  Current portion of long-term debt.......     $25,285       $12,095                        $37,380
+  Current portion of long-term debt.......  $   25,285    $   12,095                    $    37,380
   Notes payable...........................     418,995       122,400                        541,395
-  Other...................................     582,422       182,624       $9,500(9)        774,546
+  Other...................................     582,422       182,624   $    9,500(9)        774,546
                                             ----------    ----------   ----------       -----------
     Total Current Liabilities.............   1,026,702       317,119        9,500         1,353,321
 
@@ -5602,7 +5560,7 @@ Regulatory Liabilities
 Deferred income taxes.....................     457,495       277,787                        735,282
 Nuclear waste disposal....................                    97,291                         97,291
 Other.....................................     840,514       210,626       30,800(6)      1,081,940
-Long-term debt............................   2,346,814       823,860      750,000(10)     3,920,674
+Long-term debt............................   2,346,814       823,860      750,000(11)     3,920,674
                                             ----------    ----------   ----------       -----------
     Total Liabilities.....................   5,243,787     1,726,683    1,030,200         8,000,670
 
@@ -5631,7 +5589,7 @@ Treasury stock, at cost (1,418 Energy East
     Total Common Stock Equity.............   1,716,522       767,115     (152,514)        2,331,123
                                             ----------    ----------   ----------       -----------
     Total Liabilities and Stockholders'
-      Equity..............................  $7,003,633    $2,565,798     $877,686       $10,447,117
+      Equity..............................  $7,003,633    $2,565,798   $  877,686       $10,447,117
                                             ==========    ==========   ==========       ===========
 
                 The notes on pages 76 to 78 are an integral part
@@ -5653,23 +5611,23 @@ Treasury stock, at cost (1,418 Energy East
                                                              (IN THOUSANDS, EXCEPT PER SHARE AMOUNTS)
 
 Operating Revenues
-  Sales and services...................  $2,959,520      $952,955    $3,912,475    $1,448,119                  $5,360,594
+  Sales and services...................  $2,959,520    $  952,955    $3,912,475    $1,448,119                  $5,360,594
 
 Operating Expenses
   Electricity purchased and fuel used
     in generation......................   1,073,728       350,542     1,424,270       134,709                   1,558,979
   Natural gas purchased................     496,509       156,749       653,258       208,588                     861,846
   Gasoline, propane and oil
-    purchased..........................          --            --            --       340,306                     340,306
+    purchased..........................          --                                   340,306                     340,306
   Other operating expenses.............     435,965       230,539       666,504       288,691                     955,195
   Maintenance..........................     108,106        31,057       139,163        56,155                     195,318
-  Depreciation and amortization........     165,524        62,088       227,612       116,184      $15,205(12)    359,001
+  Depreciation and amortization........     165,524        62,088       227,612       116,184     $ 15,205(12)    359,001
   Other taxes..........................     165,767        30,201       195,968        94,576                     290,544
                                          ----------    ----------    ----------    ----------     --------     ----------
     Total Operating Expenses...........   2,445,599       861,176     3,306,775     1,239,209       15,205      4,561,189
                                          ----------    ----------    ----------    ----------     --------     ----------
 
-Operating Income.......................     513,921        91,779       605,700       208,910      (15,205)       799,405
+Operating Income.......................     513,921        91,779       605,700       208,910      (15,205)       779,405
 Other (Income) and Deductions..........     (32,906)      (96,043)     (128,949)      (10,346)                   (139,295)
 Interest Charges, Net..................     152,503        84,247       236,750        62,720       56,250(10)    355,720
 Preferred Stock Dividends of
@@ -5688,11 +5646,11 @@ Extraordinary Loss on Early
   Tax Benefit of $1,121................       1,645            --         1,645            --           --          1,645
                                          ----------    ----------    ----------    ----------     --------     ----------
 
-Net Income.............................    $235,034       $18,684      $253,718       $91,859     $(48,955)      $296,622
+Net Income.............................  $  235,034        18,684       253,718    $   91,859     $(48,955)    $  296,622
                                          ==========    ==========    ==========    ==========     ========     ==========
 
 Earnings Per Share, basic and
-  diluted..............................       $2.06                                                                 $2.03
+  diluted..............................  $     2.06                                                            $     2.03
 
 Average Common Shares Outstanding......     114,213                                                 32,111(14)    146,324
 
@@ -5879,301 +5837,276 @@ qualified in its entirety by reference to, the New York Business Corporation Law
 and the certificates of incorporation and bylaws of the two companies, copies of
 which are on file with the SEC.
 
-                 ENERGY EAST                                    RGS ENERGY
+                   ENERGY EAST                                          RGS ENERGY
 
-                                  AUTHORIZED CAPITAL STOCK
+                                       AUTHORIZED CAPITAL STOCK
 
-    Energy East's authorized capital stock     RGS Energy's authorized capital stock
-consists of 300,000,000 shares of common       consists of 100,000,000 shares of common
-stock, par value $.01 per share, of which      stock, par value $.01 per share, of which
-      were outstanding at the close of         34,577,426 were outstanding at the close of
-business on April 26, 2001, and 10,000,000     business on April 26, 2001, and 10,000,000
-shares of preferred stock, par value $.01 per  shares of preferred stock, par value $.01 per
-share, none of which was outstanding at the    share, none of which was outstanding at the
-close of business on April 26, 2001.           close of business on April 26, 2001.
+    Energy East's authorized capital stock          RGS Energy's authorized capital stock consists of
+consists of 300,000,000 shares of common stock,     100,000,000 shares of common stock, par value $.01
+par value $.01 per share, of which       were       per share, of which       were outstanding at the
+outstanding at the close of business on             close of business on             , 2001, and
+      , 2001, and 10,000,000 business shares of     10,000,000 shares of preferred stock, par value
+preferred stock, par value $.01 per share, none of  $.01 per share, none of which was outstanding at
+which was outstanding at the close of business on   the close of business on             , 2001.
+            , 2001.
 
-                                       VOTING RIGHTS
+                                            VOTING RIGHTS
 
-    Each Energy East shareholder generally is  Each RGS Energy shareholder is entitled to
-entitled to one vote per share. In elections   one vote per share. RGS Energy shareholders
-of directors, however, Energy East             may not cumulate their votes.
-shareholders are entitled to "cumulate" their
-votes. Under "cumulative voting," the total
-number of votes that a shareholder may cast
-in an election of directors in a given class
-equals the number of directors in such class
-to be elected multiplied by the number of
-shares held; the shareholder may cast all of
-his or her votes for a single director, or he
-or she may distribute the votes among two or
-more directors in such class.
+    Each Energy East shareholder generally is       Each RGS Energy shareholder is entitled to one
+entitled to one vote per share. In elections of     vote per share. RGS Energy shareholders may not
+directors, however, Energy East shareholders are    cumulate their votes.
+entitled to "cumulate" their votes. Under
+"cumulative voting," the total number of votes
+that a shareholder may cast in an election of
+directors in a given class equals the number of
+directors in such class to be elected multiplied
+by the number of shares held; the shareholder may
+cast all of his or her votes for a single
+director, or he or she may distribute the votes
+among two or more directors in such class.
 
-                                         DIVIDENDS
+                                              DIVIDENDS
 
-    Under the New York Business Corporation    RGS Energy is subject to the same legal
-Law, Energy East may declare and pay           restrictions regarding dividends as Energy
-dividends or make other distributions to its   East.
-shareholders (subject to the rights of
-preferred stock, none of which is
-outstanding), unless, after doing so, they
-would be unable to pay their debts as they
-become due in the ordinary course of its
-business, or when doing so would be contrary
-to any restrictions contained in its
-certificate of incorporation. Moreover, the
+    Under the New York Business Corporation Law,    RGS Energy is subject to the same legal
+Energy East may declare and pay dividends or make   restrictions regarding dividends as Energy East.
+other distributions to its shareholders (subject
+to the rights of preferred stock, none of which is
+outstanding), unless, after doing so, they would
+be unable to pay their debts as they become due in
+the ordinary course of its business, or when doing
+so would be contrary to any restrictions contained
+in its certificate of incorporation. Moreover, the
 net assets of Energy East remaining after a
-declaration, payment or distribution by
-Energy East must be at least as much as its
-stated capital.
+declaration, payment or distribution by Energy
+East must be at least as much as its stated
+capital.
 
-                   ELECTION AND CLASSIFICATION OF THE BOARD OF DIRECTORS
+                        ELECTION AND CLASSIFICATION OF THE BOARD OF DIRECTORS
 
-    The Energy East board of directors is      The RGS Energy board of directors is composed
-composed of three classes. One class is        of three classes. One class is elected each
-elected each year for a three-year term.       year for a three-year term.
+    The Energy East board of directors is composed  The RGS Energy board of directors is composed of
+of three classes. One class is elected each year    three classes. One class is elected each year for
+for a three-year term.                              a three-year term.
 
-                               SIZE OF THE BOARD OF DIRECTORS
+                                    SIZE OF THE BOARD OF DIRECTORS
 
-    The Energy East board of directors may     The RGS Energy board of directors may fix the
-fix the number of directors by a vote of a     number of directors by a vote of a majority
-majority of the directors then in office. In   of the directors then in office. In the event
-the event that the Energy East board of        that the RGS Energy board of directors
-directors increases the number of directors,   increases the number of directors, it may
-it may elect the additional directors. The     elect the additional directors. The RGS
-Energy East board of directors currently       Energy board of directors currently consists
-consists of thirteen directors. After the      of twelve directors.
-merger with RGS Energy, the Energy East board
-of directors will consist of fifteen
-directors.
+    The Energy East board of directors may fix the  The RGS Energy board of directors may fix the
+number of directors by a vote of a majority of the  number of directors by a vote of a majority of the
+directors then in office. In the event that the     directors then in office. In the event that the
+Energy East board of directors increases the        RGS Energy board of directors increases the number
+number of directors, it may elect the additional    of directors, it may elect the additional
+directors. The Energy East board of directors       directors. The RGS Energy board of directors
+currently consists of thirteen directors. After     currently consists of twelve directors.
+the merger with RGS Energy, the Energy East board
+of directors will consist of sixteen directors.
 
-                         REMOVAL OF DIRECTORS; FILLING OF VACANCIES
+                              REMOVAL OF DIRECTORS; FILLING OF VACANCIES
 
-    Under the Energy East bylaws, except as    Under the RGS Energy bylaws, a director may
-otherwise provided by the New York Business    be removed only for cause, by a majority of
-Corporation Law, a director may be removed     votes cast at a meeting of the RGS Energy
-only for cause and only at a meeting of        board of directors or by a majority of votes
-shareholders by the holders of a majority of   cast at an RGS Energy shareholders' meeting.
-the votes of Energy East shares issued and     Any vacancy on the RGS Energy board of
-outstanding. The New York Business             directors will be filled solely by the
-Corporation Law provides that, when a          affirmative vote of a majority of the
-corporation has cumulative voting, no          remaining directors, even though less than a
-director may be removed when the votes cast    quorum, and not by the shareholders.
-against his removal would be sufficient to
-elect him if voted cumulatively. Any
-vacancies on the Energy East board of
-directors will be filled solely by the
-affirmative vote of a majority of the
-remaining directors, even though less than a
-quorum, and not by the shareholders.
+    Under the Energy East bylaws, except as         Under the RGS Energy bylaws, a director may be
+otherwise provided by the New York Business         removed only for cause, by a majority of votes
+Corporation Law, a director may be removed only     cast at a meeting of the RGS Energy board of
+for cause and only at a meeting of shareholders by  directors or by a majority of votes cast at an RGS
+the holders of a majority of the votes of Energy    Energy shareholders' meeting. Any vacancy on the
+East shares issued and outstanding. The New York    RGS Energy board of directors will be filled
+Business Corporation Law provides that, when a      solely by the affirmative vote of a majority of
+corporation has cumulative voting, no director may  the remaining directors, even though less than a
+be removed when the votes cast against his removal  quorum, and not by the shareholders.
+would be sufficient to elect him if voted
+cumulatively. Any vacancies on the Energy East
+board of directors will be filled solely by the
+affirmative vote of a majority of the remaining
+directors, even though less than a quorum, and not
+by the shareholders.
 
-                              SPECIAL MEETINGS OF SHAREHOLDERS
+                                   SPECIAL MEETINGS OF SHAREHOLDERS
 
-    Under the Energy East bylaws, special      Under the RGS Energy bylaws, special meetings
-meetings of shareholders may be called by the  of shareholders may be called by the
-chairman, the president or at the request of   chairman, the president or at the request of
-a majority of the board of directors or of a   a majority of the board of directors. RGS
-majority of the outstanding Energy East        Energy shareholders may act without a meeting
-shares. Energy East shareholders may act       but only by unanimous written consent. Under
-without a meeting but only by unanimous        the New York Business Corporation Law, the
-written consent. Under the New York Business   only business that may be conducted at a
-Corporation Law, the only business that may    special meeting of shareholders is that which
-be conducted at a special meeting of           is related to the purposes set forth in the
-shareholders is that which is related to the   notice of the meeting.
-purposes set forth in the notice of the
-meeting.
+    Under the Energy East bylaws, special meetings  Under the RGS Energy bylaws, special meetings of
+of shareholders may be called by the chairman, the  shareholders may be called by the chairman, the
+president or at the request of a majority of the    president or at the request of a majority of the
+board of directors or of a majority of the          board of directors. RGS Energy shareholders may
+outstanding Energy East shares. Energy East         act without a meeting but only by unanimous
+shareholders may act without a meeting but only by  written consent. Under the New York Business
+unanimous written consent. Under the New York       Corporation Law, the only business that may be
+Business Corporation Law, the only business that    conducted at a special meeting of shareholders is
+may be conducted at a special meeting of            that which is related to the purposes set forth in
+shareholders is that which is related to the        the notice of the meeting.
+purposes set forth in the notice of the meeting.
 
-                                 ADVANCE NOTICE PROVISIONS
+                                      ADVANCE NOTICE PROVISIONS
 
-    For an Energy East shareholder to          For an RGS Energy shareholder to bring a
-nominate individuals for election as           matter before an annual meeting, the
-directors or to bring a matter before an       secretary of RGS Energy must receive written
-annual meeting, the secretary of Energy East   notice of the shareholder's intent,
-must receive written notice of the             containing certain required information. With
-shareholder's intent, containing certain       respect to a matter to be considered at an
-required information. With respect to an       annual meeting, the secretary must receive
-election at, or a matter to be brought         the notice at least 90 days before the date
-before, an annual meeting, the secretary must  of the annual meeting.
-receive the notice between 90 and 120 days
-before the anniversary of the preceding
-annual meeting. With respect to an election
-at a special meeting, the secretary must
-receive the notice at least ten days before
-the earlier of (1) the date notice of the
-special meeting was mailed and (2) the date
-that the special meeting date was publicly
-disclosed.
+    For an Energy East shareholder to nominate      For an RGS Energy shareholder to bring a matter
+individuals for election as directors or to bring   before an annual meeting, the secretary of RGS
+a matter before an annual meeting, the secretary    Energy must receive written notice of the
+of Energy East must receive written notice of the   shareholder's intent, containing certain required
+shareholder's intent, containing certain required   information. With respect to a matter to be
+information. With respect to an election at, or a   considered at an annual meeting, the secretary
+matter to be brought before, an annual meeting,     must receive the notice at least 90 days before
+the secretary must receive the notice between 90    the date of the annual meeting.
+and 120 days before the anniversary of the
+preceding annual meeting. With respect to an
+election at a special meeting, the secretary must
+receive the notice at least ten days before the
+earlier of (1) the date notice of the special
+meeting was mailed and (2) the date that the
+special meeting date was publicly disclosed.
 
-                         INDEMNIFICATION OF DIRECTORS AND OFFICERS
+                              INDEMNIFICATION OF DIRECTORS AND OFFICERS
 
-    The New York Business Corporation Law      RGS Energy's bylaws generally provide for
-generally provides that a corporation may      indemnification, as described in the Energy
-indemnify an officer or director made a party  East column, of directors and officers of RGS
-or threatened to be made a party to any type   Energy or any subsidiary of RGS Energy and of
-of proceeding against judgments, fines,        other companies which such persons were
-amounts paid in settlement and expenses        serving at the request of RGS Energy, to the
-(including attorneys' fees) actually and       extent not prohibited by law. Under RGS
-necessarily incurred in connection with the    Energy's bylaws, a director or officer may be
-proceedings:                                   entitled to additional indemnification rights
-    - if he acted in good faith for a purpose  arising under applicable law, by agreement or
-      he reasonably believed to be in or not   otherwise.
-      opposed to the best interests of the
-      corporation; and
-    - in the case of a criminal proceeding,
-      if he had no reasonable cause to
-      believe that his conduct was unlawful.
-    The New York Business Corporation Law
-sets specific standards only for
-indemnification of officers and directors,
-but it permits corporations to indemnify
-corporate personnel other than officers and
-directors.
-    Energy East's bylaws generally provide
-for indemnification of directors and
-officers, as well as employees, of Energy
-East and of other companies which such
-persons were serving at the request of Energy
-East, to the extent not prohibited by law.
-Under Energy East's bylaws, a director,
-officer or employee may be entitled to
-additional indemnification rights arising
-under any statute, certificate of
-incorporation, bylaw or agreement.
+    The New York Business Corporation Law           RGS Energy's bylaws generally provide for
+generally provides that a corporation may           indemnification, as described in the Energy East
+indemnify an officer or director made a party or    column, of directors and officers of RGS Energy or
+threatened to be made a party to any type of        any subsidiary of RGS Energy and of other
+proceeding against judgments, fines, amounts paid   companies which such persons were serving at the
+in settlement and expenses (including attorneys'    request of RGS Energy, to the extent not
+fees) actually and necessarily incurred in          prohibited by law. Under RGS Energy's bylaws, a
+connection with the proceedings:                    director or officer may be entitled to additional
+    - if he acted in good faith for a purpose he    indemnification rights arising under applicable
+      reasonably believed to be in or not opposed   law, by agreement or otherwise.
+      to the best interests of the corporation;
+      and
+    - in the case of a criminal proceeding, if he
+      had no reasonable cause to believe that his
+      conduct was unlawful.
+    The New York Business Corporation Law sets
+specific standards only for indemnification of
+officers and directors, but it permits
+corporations to indemnify corporate personnel
+other than officers and directors.
+    Energy East's bylaws generally provide for
+indemnification of directors and officers, as well
+as employees, of Energy East and of other
+companies which such persons were serving at the
+request of Energy East, to the extent not
+prohibited by law. Under Energy East's bylaws, a
+director, officer or employee may be entitled to
+additional indemnification rights arising under
+any statute, certificate of incorporation, bylaw
+or agreement.
 
-                         AMENDMENT OF CERTIFICATE OF INCORPORATION
+                              AMENDMENT OF CERTIFICATE OF INCORPORATION
 
-    The Energy East certificate of             The RGS Energy certificate of incorporation
-incorporation generally may be amended by a    generally may be amended by a majority of the
-majority of the outstanding Energy East        outstanding RGS Energy shares, but the
-shares, but the provision relating to          provision relating to the manner of electing
-amendments to certain bylaws may be amended    directors may be amended only by two-thirds
-only by two-thirds of the votes of the         of the votes of outstanding RGS Energy shares
-outstanding Energy East shares.                entitled to vote. Amendments to the
-                                               provisions relating to preemptive rights,
-                                               amendments to the RGS Energy certificate of
-                                               incorporation and amendments to certain bylaw
-                                               provisions must be authorized by seventy-five
-                                               percent of the votes of the outstanding RGS
-                                               Energy shares entitled to vote.
+    The Energy East certificate of incorporation    The RGS Energy certificate of incorporation
+generally may be amended by a majority of the       generally may be amended by a majority of the
+outstanding Energy East shares, but the provision   outstanding RGS Energy shares, but the provision
+relating to amendments to certain bylaws may be     relating to the manner of electing directors may
+amended only by two-thirds of the votes of the      be amended only by two-thirds of the votes of
+outstanding Energy East shares.                     outstanding RGS Energy shares entitled to vote.
+                                                    Amendments to the provisions relating to
+                                                    preemptive rights, amendments to the RGS Energy
+                                                    certificate of incorporation and amendments to
+                                                    certain bylaw provisions must be authorized by
+                                                    seventy-five percent of the votes of the
+                                                    outstanding RGS Energy shares entitled to vote.
 
-                                    AMENDMENT OF BYLAWS
+                                         AMENDMENT OF BYLAWS
 
-    The Energy East bylaws may be amended by       The RGS Energy bylaws may be amended by a
-a majority of the outstanding Energy East      majority of votes cast at a shareholder
-shares, or by a majority vote at a meeting of  meeting, or by a majority vote at a meeting
-the Energy East board of directors. However,   of the RGS Energy board of directors.
-an amendment of some bylaws, if by action of   However, an amendment of some bylaws, if by
-Energy East shareholders, must be by           action of RGS Energy shareholders, must be by
-two-thirds of the outstanding Energy East      seventy-five percent of the outstanding RGS
-shares. The bylaws that may not be amended     Energy shares. The bylaws that may not be
-without a supermajority vote generally relate  amended without a supermajority vote
-to the advance notice procedures, special      generally relate to the advance notice
-meetings of shareholders, structure of the     procedures, special meetings of shareholders,
-Energy East board of directors and amendment   structure of the RGS Energy board of
-of the supermajority requirements.             directors and amendment of the supermajority
-                                               requirements. If the RGS Energy board of
-                                               directors adopts, amends or repeals any bylaw
-                                               relating to an upcoming election of
-                                               directors, this change, and a summary of the
-                                               change, must be included in the notice for
-                                               the next RGS Energy shareholder meeting at
-                                               which directors will be elected.
+    The Energy East bylaws may be amended by a          The RGS Energy bylaws may be amended by a
+majority of the outstanding Energy East shares, or  majority of votes cast at a shareholder meeting,
+by a majority vote at a meeting of the Energy East  or by a majority vote at a meeting of the RGS
+board of directors. However, an amendment of some   Energy board of directors. However, an amendment
+bylaws, if by action of Energy East shareholders,   of some bylaws, if by action of RGS Energy
+must be by two-thirds of the outstanding Energy     shareholders, must be by seventy-five percent of
+East shares. The bylaws that may not be amended     the outstanding RGS Energy shares. The bylaws that
+without a supermajority vote generally relate to    may not be amended without a supermajority vote
+the advance notice procedures, special meetings of  generally relate to the advance notice procedures,
+shareholders, structure of the Energy East board    special meetings of shareholders, structure of the
+of directors and amendment of the supermajority     RGS Energy board of directors and amendment of the
+requirements.                                       supermajority requirements. If the RGS Energy
+                                                    board of directors adopts, amends or repeals any
+                                                    bylaw relating to an upcoming election of
+                                                    directors, this change, and a summary of the
+                                                    change, must be included in the notice for the
+                                                    next RGS Energy shareholder meeting at which
+                                                    directors will be elected.
 
-                                     DUTY OF DIRECTORS
+                                          DUTY OF DIRECTORS
 
-    Under the New York Business Corporation        RGS Energy directors are under the same
-Law, in performing his or her duties, a        duties as Energy East directors.
-director is required to act in good faith and
-to use that degree of care that an ordinarily
-prudent person in a similar position would
-use under similar circumstances.
-    In taking action, including action that
-may involve or relate to a change or
-potential change in control, a director may
-consider the long-term and short-term
-interests of Energy East shareholders and the
-effects that the companies' actions may have
-in the short term or in the long term upon
-their respective:
+    Under the New York Business Corporation Law,        RGS Energy directors are under the same duties
+in performing his or her duties, a director is      as Energy East directors.
+required to act in good faith and to use that
+degree of care that an ordinarily prudent person
+in a similar position would use under similar
+circumstances.
+    In taking action, including action that may
+involve or relate to a change or potential change
+in control, a director may consider the long-term
+and short-term interests of Energy East
+shareholders and the effects that the companies'
+actions may have in the short-term or in the
+long-term upon their respective:
     - prospects for growth and development;
     - current employees;
     - retired employees and others receiving
-      retirement, welfare or similar benefits
-      from or pursuant to any plan or
-      agreement of Energy East;
+      retirement, welfare or similar benefits from
+      or pursuant to any plan or agreement of
+      Energy East;
     - customers and creditors; and
     - ability to provide, as a going concern,
-      goods, services, employment
-      opportunities and employment benefits
-      and otherwise to contribute to the
-      communities in which it does business.
+      goods, services, employment opportunities
+      and employment benefits and otherwise to
+      contribute to the communities in which it
+      does business.
 
-                                   BUSINESS COMBINATIONS
+                                        BUSINESS COMBINATIONS
 
-    Under the Energy East certificate of       Under the New York Business Corporation Law,
-incorporation, a majority of the outstanding   a majority of the outstanding RGS Energy
-Energy East shares are needed to adopt a plan  shares are needed to adopt a plan of merger
-of merger or consolidation. Section 912 of     or consolidation. This statutory requirement
-the New York Business Corporation Law          applicable to RGS Energy is the same as the
-prohibits a New York corporation from          vote requirement provided in Energy East's
-engaging in certain business combinations      certificate of incorporation. Section 912 of
-with an interested shareholder (generally,     the New York Business Corporation Law also
-the beneficial owner of 20% or more of a       applies to RGS Energy.
-corporation's voting stock) for five years
+    Under the Energy East certificate of            Under the New York Business Corporation Law, a
+incorporation, a majority of the outstanding        majority of the outstanding RGS Energy shares are
+Energy East shares are needed to adopt a plan of    needed to adopt a plan of merger or consolidation.
+merger or consolidation. Section 912 of the New     This statutory requirement applicable to RGS
+York Business Corporation Law prohibits a New York  Energy is the same as the vote requirement
+corporation from engaging in certain business       provided in Energy East's certificate of
+combinations with an interested shareholder         incorporation. Section 912 of the New York
+(generally, the beneficial owner of 20% or more of  Business Corporation Law also applies to RGS
+a corporation's voting stock) for five years        Energy.
 following the time the shareholder became an
 interested shareholder, unless, prior to that
 time, the corporation's board of directors
 approved the business combination or the
 transaction that resulted in the shareholder
-becoming an interested shareholder. After
-five years, these business combinations may
-occur if approved by a majority vote of
-shares not owned by the interested
-shareholder, or if specific fair price
-requirements are met.
+becoming an interested shareholder. After five
+years, these business combinations may occur if
+approved by a majority vote of shares not owned by
+the interested shareholder, or if specific fair
+price requirements are met.
 
-                                   FAIR PRICE PROVISIONS
+                                        FAIR PRICE PROVISIONS
 
-  Under the New York Business Corporation      The fair price provisions of the New York
-Law, a corporation may engage in a business    Business Corporation Law also apply to RGS
-combination with any interested shareholder    Energy.
-when the cash and other consideration to be
-received by the other shareholders is at
-least equal to the higher of:
+  Under the New York Business Corporation Law, a    The fair price provisions of the New York Business
+corporation may engage in a business combination    Corporation Law also apply to RGS Energy.
+with any interested shareholder when the cash and
+other consideration to be received by the other
+shareholders is at least equal to the higher of:
     - the highest per share price paid by the
-      interested shareholder at a time when
-      he or she beneficially owned at least
-      five percent of the outstanding voting
-      stock and within the five years
-      immediately prior to the date the
-      business combination is first
-      announced;
-    - the highest price paid by the
-      interested shareholder within the five
-      years immediately prior to, or in, the
-      transaction in which he or she became
-      an interested shareholder; and
-    - the market value per share of common
-      stock on the date the business
-      combination is first announced or on
-      the interested shareholder's stock
-      acquisition date, whichever is higher;
+      interested shareholder at a time when he or
+      she beneficially owned at least five percent
+      of the outstanding voting stock and within
+      the five years immediately prior to the date
+      the business combination is first announced;
+    - the highest price paid by the interested
+      shareholder within the five years
+      immediately prior to, or in, the transaction
+      in which he or she became an interested
+      shareholder; and
+    - the market value per share of common stock
+      on the date the business combination is
+      first announced or on the interested
+      shareholder's stock acquisition date,
+      whichever is higher;
 plus, in each case, any accrued interest, and
 less, in each case, any paid dividends.
 
-                              STATE LAW TAKEOVER RESTRICTIONS
+                                   STATE LAW TAKEOVER RESTRICTIONS
 
-    The New York Security Takeover Disclosure  The New York Security Takeover Disclosure Act
-Act does not apply to Energy East because it   also does not apply to RGS Energy.
-is a public utility holding company as
-defined in the Public Utility Holding Company
-Act and any takeover bid would be subject to
-SEC approval.
+    The New York Security Takeover Disclosure Act   The New York Security Takeover Disclosure Act also
+does not apply to Energy East because it is a       does not apply to RGS Energy.
+public utility holding company as defined in the
+Public Utility Holding Company Act and any
+takeover bid would be subject to SEC approval.
 
                                  LEGAL MATTERS
 
     The validity of the Energy East shares to be issued in the merger will be
-passed upon for Energy East by Huber Lawrence & Abell. As of April 26, 2001,
-members of Huber Lawrence & Abell owned       Energy East shares.
+passed upon for Energy East by Huber Lawrence & Abell. As of       , members of
+Huber Lawrence & Abell owned       Energy East shares.
 
                                     EXPERTS
 
@@ -6193,8 +6126,7 @@ firm as experts in auditing and accounting.
 
     This document is furnished in connection with the solicitation of proxies by
 the board of directors of RGS Energy for its 2001 Annual Meeting of Shareholders
-to be held June 15, 2001, at the Rochester Riverside Convention Center, 123 East
-Main Street, Rochester, New York. The mailing address of RGS Energy's principal
+to be held               , 2001. The mailing address of RGS Energy's principal
 executive office is 89 East Avenue, Rochester, New York 14649-0001. You should
 read this document carefully before voting your shares.
 
@@ -6206,22 +6138,23 @@ of record. The Annual Report is not part of this document.
 
 OUTSTANDING VOTING SECURITIES AND VOTING RIGHTS
 
-    GENERAL.  The close of business on April 26, 2001 has been fixed as the
+    GENERAL.  The close of business on             , 2001 has been fixed as the
 record date for determining the holders of RGS Energy common stock entitled to
-vote at the 2001 annual meeting. As of April 26, 2001, RGS Energy had
-outstanding 34,577,426 shares of common stock. Shareholders of record are
-entitled to one vote per share.
+vote at the 2001 annual meeting. As of          , 2001, RGS Energy had
+outstanding          shares of common stock. Shareholders of record are entitled
+to one vote per share.
 
-    In voting on the merger agreement, holders of RGS Energy common stock may
-vote for, against or abstain from voting their shares. The affirmative vote of a
-majority of outstanding RGS Energy shares is required to approve and adopt the
-merger agreement. Accordingly, an abstention, a failure to vote or a broker
-non-vote has the effect of a vote against the merger proposal. In voting in the
-election of directors, holders of RGS Energy common stock may vote for all of
-the nominees or may withhold their votes as to all or specific nominees. The
-three nominees who receive the highest number of affirmative votes, in person or
-by proxy, will be elected. As a result, in accordance with New York law,
-abstentions will have no effect on the election of directors.
+    In voting on the merger and other transactions contained in the merger
+agreement holders of RGS Energy common stock may vote for, against or abstain
+from voting their shares. The affirmative vote of a majority of outstanding RGS
+Energy shares is required to approve and adopt the merger agreement.
+Accordingly, an abstention, a failure to vote or a broker non-vote has the
+effect of a vote against the merger proposal. In voting in the election of
+directors, holders of RGS Energy common stock may vote for all of the nominees
+or may withhold their votes as to all or specific nominees. The three nominees
+who receive the highest number of affirmative votes, in person or by proxy, will
+be elected. As a result, in accordance with New York law, abstentions will have
+no effect on the election of directors.
 
     In connection with the annual meeting, holders of RGS Energy common stock
 have three ways to vote by proxy: (a) by mail, (b) by telephone and (c) over the
@@ -6246,7 +6179,7 @@ PERSON AT THE MEETING.
 or any of its subsidiaries, the proxy is for shares of RGS Energy common stock
 registered in such employee's name as well as any shares held for such employee
 shareholder under the RGS Energy Automatic Dividend Reinvestment and Stock
-Purchase Plan, the RG&E Savings Plus Plan and/or the RG&E Employee Stock
+Purchase Plan, the RG&E Savings Plus Plan and/or the RGS Energy Employee Stock
 Ownership Plan.
 
     If a participant in the RG&E Savings Plus Plan does not return the proxy
@@ -6288,10 +6221,10 @@ divided into three classes. One class of directors is elected at each annual
 meeting of shareholders for a term expiring at the third succeeding annual
 meeting. The Board intends to reduce the number of directors to eleven,
 following the retirement of Mr. Cornelius J. Murphy as a Class III director at
-the annual meeting on June 15, 2001. Mr. Murphy has been a director since 1981
-and has served as Chairman of the Committee on Management and of the Executive
-and Finance Committee of the Board. Management and the Board appreciate his many
-contributions to RGS Energy over the years.
+the annual meeting on             , 2001. Mr. Murphy has been a director since
+1981 and has served as Chairman of the Committee on Management and of the
+Executive and Finance Committee of the Board. Management and the Board
+appreciate his many contributions to RGS Energy over the years.
 
     The following individuals, all of whom are incumbent directors of RGS
 Energy, have been nominated for election at the 2001 annual meeting to serve as
@@ -6328,11 +6261,12 @@ August 2, 1999 and a director of RG&E since 1992.
 
     MARK B. GRIER.  (age 48) Mr. Grier has been Executive Vice President,
 Financial Management of The Prudential Insurance Company of America since
-June 1997. He served as Chief Financial Officer of The Prudential from May 1995
-to June 1997 and as Executive Vice President, The Chase Manhattan Bank, N.A.
-from 1991 to May 1995. He is a director of Annuity & Life Reinsurance, Ltd.
-Mr. Grier has been a director of RGS Energy since August 2, 1999 and a director
-of RG&E since 1997.
+October 1998. He served as Executive Vice President, Financial Management of The
+Prudential from June 1997 to October 1998, as Chief Financial Officer of The
+Prudential from May 1995 to June 1997 and as Executive Vice President, The Chase
+Manhattan Bank, N.A. from 1991 to May 1995. He is a director of Annuity & Life
+Reinsurance, Ltd. Mr. Grier has been a director of RGS Energy since August 2,
+1999 and a director of RG&E since 1997.
 
     JAY T. HOLMES.  (age 58) Mr. Holmes has been an attorney and business
 consultant since May 1996. He served as Executive Vice President and Chief
@@ -6389,7 +6323,7 @@ Energy since August 2, 1999 and a director of RG&E since 1988.
 
 CONTINUING DIRECTORS--CLASS II (TERM EXPIRING IN 2003)
 
-    ALLAN E. DUGAN.  (age 61) Mr. Dugan has served as Executive Vice President
+    ALLAN E. DUGAN.  (age 60) Mr. Dugan has served as Executive Vice President
 and President, Worldwide Business Services of Xerox Corporation since
 January 2000. Prior to assuming his current position, Mr. Dugan was Executive
 Vice President, Business Group Operations, Senior Vice President, Corporate
@@ -6437,19 +6371,18 @@ the Board a minimum of five years, including common stock equivalent units held
 in the director's deferred stock plans.
 
     The following table indicates the number of shares of RGS Energy common
-stock and equivalent units beneficially owned as of March 31, 2001 by (a) each
+stock and equivalent units beneficially owned as of March 1, 2001 by (a) each
 RGS Energy director and nominee, (b) each of the RGS Energy executive officers
 named in the Summary Compensation Table, and (c) the RGS Energy executive
-officers and directors as a group. As of March 31, 2001, each of the individuals
+officers and directors as a group. As of March 1, 2001, each of the individuals
 listed in the table, as well as the RGS Energy directors, nominees and executive
 officers as a group, beneficially owned less than 1.0% of the total shares
 outstanding. The following persons disclaim beneficial ownership with respect to
-shares of RGS Energy common stock held by their spouses: Mr. Bovalino,
-16,607 shares; Mr. Chiarella, 319 shares; Ms. Holliday, 396 shares; Mr. Kober,
-7,969
+shares of RGS Energy common stock held by their spouses: Mr. Bovalino, 13,620
+shares; Mr. Chiarella, 319 shares; Ms. Holliday, 391 shares; Mr. Kober, 7,858
 
-shares; Mr. Wilkens, 2,586 shares; and all RGS Energy directors, nominees and
-executive officers as a group, including the aforementioned, 32,443 shares.
+shares; and all RGS Energy directors, nominees and executive officers as a
+group, including the aforementioned, 25,970 shares.
 
                                                                    RGS ENERGY       TOTAL RGS ENERGY
                                                  RGS ENERGY       COMMON STOCK      COMMON STOCK AND
@@ -6458,25 +6391,25 @@ executive officers as a group, including the aforementioned, 32,443 shares.
 NAME OF BENEFICIAL OWNER                         OWNED(1)(2)        OWNED(3)       BENEFICIALLY OWNED
 - ------------------------                        -------------   ----------------   ------------------
 
-Michael J. Bovalino...........................      49,243              250                49,493
-Angelo J. Chiarella...........................       3,154           17,698                20,852
-Allan E. Dugan................................       1,728            9,153                10,881
-Mark B. Grier.................................       2,298            2,518                 4,816
-Susan R. Holliday.............................       2,781            3,401                 6,182
-Jay T. Holmes.................................       4,138           18,183                22,321
-G. Jean Howard................................       1,188            1,943                 3,131
-Samuel T. Hubbard, Jr.........................       1,698            4,165                 5,863
-Cleve L. Killingsworth, Jr....................         898            2,500                 3,398
-Roger W. Kober................................      13,887            3,470                17,357
-Cornelius J. Murphy...........................       4,033           20,427                24,460
-Charles I. Plosser............................       1,486            4,121                 5,607
-Thomas S. Richards............................      86,788            2,613                89,401
-J. Burt Stokes................................      52,484              526                53,010
-Michael T. Tomaino............................      45,313              374                45,687
-Paul C. Wilkens...............................      28,751              144                28,895
+Michael J. Bovalino...........................      38,267              237                38,504
+Angelo J. Chiarella...........................       2,776           17,697                20,473
+Allan E. Dugan................................       1,366            9,152                10,518
+Mark B. Grier.................................       1,937            2,518                 4,455
+Susan R. Holliday.............................       2,414            3,401                 5,815
+Jay T. Holmes.................................       3,777           18,182                21,959
+G. Jean Howard................................         829            1,943                 2,772
+Samuel T. Hubbard, Jr.........................       1,337            4,165                 5,502
+Cleve L. Killingsworth, Jr....................         997            2,500                 3,497
+Roger W. Kober................................      13,707            3,420                17,127
+Cornelius J. Murphy...........................       3,976           20,426                24,402
+Charles I. Plosser............................       1,125            4,121                 5,246
+Thomas S. Richards............................      61,282            2,445                63,727
+J. Burt Stokes................................      41,484              509                41,993
+Michael T. Tomaino............................      33,774              355                34,129
+Paul C. Wilkens...............................      18,569              132                18,701
 All Directors, Nominees and Executive Officers
   as
-a group (17 Individuals)......................     323,989           91,486               415,475
+a group (17 Individuals)......................     234,535           91,814               326,349
 
 - ------------------------
 
@@ -6484,10 +6417,10 @@ a group (17 Individuals)......................     323,989           91,486     
     direct or indirect voting or investment power.
 
 (2) Includes shares of RGS Energy common stock which may be acquired through the
-    exercise of stock options as follows: Mr. Bovalino, 31,785 shares;
-    Mr. Richards, 55,423 shares; Mr. Stokes, 31,785 shares; Mr. Tomaino, 24,914
-    shares; Mr. Wilkens, 18,300 shares; and all directors, nominees and
-    executive officers as a group, including the aforementioned, 178,541 shares.
+    exercise of stock options as follows: Mr. Bovalino, 23,838 shares;
+    Mr. Richards, 36,320 shares; Mr. Stokes, 23,838 shares; Mr. Tomaino, 16,609
+    shares; Mr. Wilkens, 10,883 shares; and all directors, nominees and
+    executive officers as a group, including the aforementioned, 123,586 shares.
 
 (3) Includes RGS Energy common stock equivalent units accrued under RGS Energy
     and RG&E employee and director benefit plans for which the named person does
@@ -6509,7 +6442,7 @@ STOCK PERFORMANCE GRAPH
 
     The following graph compares the cumulative total shareholder return on RGS
 Energy's common stock with the EEI Index of investor-owned electric utilities
-and the Standard & Poor's 500 Index for the past five years. Total return was
+and the Standard & Poors 500 Index for the past five years. Total return was
 calculated assuming investment of $100 on December 31, 1995 and reinvestment of
 all dividends.
 
@@ -6541,26 +6474,26 @@ compensated executive officers for each of the last three fiscal years:
 NAME AND PRINCIPAL POSITION            FISCAL YEAR   SALARY ($)   BONUS ($)(1)   OPTIONS(2)    ($)(3)       ($)(4)
 - ---------------------------            -----------   ----------   ------------   ----------   --------   ------------
 
-THOMAS S. RICHARDS...................     2000         379,174      153,133        42,683     415,985       11,375
+THOMAS S. RICHARDS...................     2000         379,174      153,133        42,683     363,025       11,375
 Chairman of the Board, President and      1999         345,954      122,422        27,256     176,094        9,524
 Chief Executive Officer, RGS Energy       1998         325,704      136,859        27,984     338,641        8,143
 and RG&E
 
-J. BURT STOKES.......................     2000         223,476       62,232        20,290     210,310        6,704
+J. BURT STOKES.......................     2000         223,476       62,232        20,290     183,830        6,704
 Senior Vice President and Chief           1999         217,512       55,471        13,387     119,619        5,985
 Financial Officer, RGS Energy             1998         208,820       47,651             0     249,464        5,221
 and RG&E (5)
 
-MICHAEL T. TOMAINO...................     2000         214,412       65,290        19,231     210,567        6,432
+MICHAEL T. TOMAINO...................     2000         214,412       65,290        19,231     184,087        6,432
 Senior Vice President and General         1999         206,162       57,355        12,689     119,872        5,673
 Counsel, RGS Energy and RG&E              1998         197,928       47,651             0     249,510        4,948
 
-MICHAEL J. BOVALINO..................     2000         201,852       64,293        17,713     210,936        6,056
+MICHAEL J. BOVALINO..................     2000         201,852       64,293        17,713     184,456        6,056
 Senior Vice President, RGS Energy         1999         189,886       55,029        11,687     120,345        5,225
 and President and Chief Executive         1998         182,297       47,651             0     249,686        4,557
 Officer, Energetix, Inc.
 
-PAUL C. WILKENS......................     2000         195,510       63,033        16,038     183,219        5,865
+PAUL C. WILKENS......................     2000         195,510       63,033        16,038     160,289        5,865
 Senior Vice President, RGS Energy         1999         171,930       47,832        10,581      32,794        4,731
 and RG&E                                  1998         157,990       47,651        15,157      64,152        3,950
 
@@ -6710,8 +6643,8 @@ AVERAGE ANNUAL SALARY($)(1)        5          10         15         20         2
 SEVERANCE AGREEMENTS
 
     RGS Energy has entered into severance agreements for an indefinite term with
-Messrs. Richards, Tomaino, Bovalino and Wilkens. The agreements provide that
-each of the officers that is a party to the agreements is obligated, in the
+Messrs. Richards, Stokes, Tomaino, Bovalino and Wilkens. The agreements provide
+that each of the officers that is a party to the agreements is obligated, in the
 event of an attempted change of control (as defined in the agreements), not to
 leave RGS Energy and to render certain services to RGS Energy for a designated
 period. The agreements also provide that the officer is entitled to specified
@@ -6779,8 +6712,8 @@ Executive Officer and reviews the compensation levels of members of management
 proposed by the Chief Executive Officer. The Committee oversees RGS Energy's
 organizational structure, corporate goals and objectives and management
 development, including management succession. During 2000, the Committee met
-four times. Messrs. Dugan (Chairman), Grier, Murphy and Plosser are currently
-members of the Committee.
+four times. Messrs. Dugan (Chairman), Grier, Hubbard, Murphy and Plosser are
+currently members of the Committee.
 
     COMMITTEE ON DIRECTORS.  The RGS Energy Committee on Directors is
 responsible for evaluation of director performance, director compensation,
@@ -6850,7 +6783,6 @@ audited financial statements be included in RGS Energy's Annual Report on
 Form 10-K for the year ended December 31, 2000, for filing with the SEC.
 
                                           Audit Committee
-
                                           Samuel T. Hubbard, Jr., CHAIRMAN
                                           Angelo J. Chiarella
                                           Mark B. Grier
@@ -6874,7 +6806,7 @@ executive compensation in recent years. The studies indicated that RGS Energy's
 executive compensation levels were below the average for comparable utility and
 general industry companies, and based on these results, the Committee has
 adjusted RGS Energy's compensation objectives to the targets discussed below.
-The studies also provided competitive benchmarks for establishment of short- and
+The studies also provided competitive benchmarks for establishment of short and
 long-term incentive programs.
 
     COMPONENTS OF COMPENSATION.  The executive compensation program consists of
@@ -6910,7 +6842,7 @@ earned.
     The Executive Incentive Plan corporate annual performance objectives for
 2000 consisted of three categories: (1) shareholder satisfaction, (2) customer
 satisfaction, and (3) employee satisfaction. The weighting of importance and
-value for each of these categories was 50%, 30% and 20%, respectively. The
+value for each of these categories was 50%, 30% and 20% respectively. The
 Committee monitored RGS Energy's performance regarding the Plan's objectives
 throughout the year. Based upon 2000 performance results, the Board granted an
 Executive Incentive Plan payout for achieving the following measures of the
@@ -6991,34 +6923,34 @@ additional options in the future.
 
     RGS Energy's total compensation objective for its top five executive
 positions is to be fully competitive with a utility industry comparison group.
-Total compensation is defined as the combination of base salary and short-term
-and long-term incentives.
+Total compensation is defined as the combination of base salary and short and
+long-term incentives.
 
     CHIEF EXECUTIVE OFFICER COMPENSATION.  The Board, upon recommendation of the
 Committee, increased Mr. Richards' base salary to $385,008 effective March 1,
-2000 and awarded short-term and long-term incentives based on performance
-against established metrics and the subjective judgment of the Board. The
-Committee benchmarked Mr. Richards' total compensation against CEO compensation
-in similarly sized energy utilities. Mr. Richards' total compensation is
-slightly below the 25th percentile of similar benchmarked positions. The
-Committee determined that Mr. Richards' total compensation is consistent with
-Mr. Richards' performance, RGS Energy's relative performance to similar
-companies, and Mr. Richards' tenure as CEO. The Committee was favorably
-impressed with Mr. Richards' leadership which has resulted in excellent
-operating performance, expense control and improved earnings. He continues to
-effectively manage the transition of the regulated business in the competitive
-deregulated environment while overseeing the successful expansion of the
-unregulated business through RGS Energy's subsidiary, Energetix, Inc.
+2000 and awarded short and long term incentives based on performance against
+established metrics and the subjective judgment of the Board. The Committee
+benchmarked Mr. Richards' total compensation against CEO compensation in similar
+sized energy utilities. Mr. Richards' total compensation is slightly below the
+25th percentile of similar benchmarked positions. The Committee determined that
+Mr. Richards' total compensation is consistent with Mr. Richards' performance,
+RGS Energy's relative performance to similar companies, and Mr. Richards' tenure
+as CEO. The Committee was favorably impressed with Mr. Richards' leadership
+which has resulted in excellent operating performance, expense control and
+improved earnings. He continues to effectively manage the transition of the
+regulated business in the competitive deregulated environment while overseeing
+the successful expansion of the unregulated business through RGS Energy's
+subsidiary, Energetix, Inc.
 
     With the above increase in salary level, Mr. Richards' base pay for 2000 was
 49.3% below the median of the EEI salary comparison group. As a result of the
 awards paid to Mr. Richards for the positive performance achieved under the
 Executive Incentive Plan and Long Term Incentive Plan for 2000, his total direct
-compensation is 52.5% below the median of the EEI salary comparison group.
+compensation is 63.4% below the median of the EEI salary comparison group.
 
     Mr. Richards was granted 4,000 performance shares in January 1998 under the
 Long Term Incentive Plan. The performance cycle for these shares ended on
-December 31, 2000 and Mr. Richards received $415,985 in compensation from these
+December 31, 2000 and Mr. Richards received $363,025 in compensation from these
 performance shares in January 2001.
 
     Mr. Richards was granted an additional 42,683 performance stock options on
@@ -7070,9 +7002,9 @@ tax related services, totaled $250,000.
 DEADLINE FOR SHAREHOLDER PROPOSALS
 
     The deadline for submitting shareholder proposals for inclusion in RGS
-Energy's proxy statement for its year 2002 annual meeting is December 31, 2001.
+Energy's proxy statement for its year 2002 annual meeting is          , 2001.
 These proposals must be received by the Secretary of RGS Energy at 89 East
-Avenue, Rochester, New York 14649 no later than December 31, 2001 in order to be
+Avenue, Rochester, New York 14649 no later than          , 2001 in order to be
 eligible for inclusion in RGS Energy's proxy materials relating to the 2002
 meeting.
 
@@ -7085,7 +7017,7 @@ also be used if RGS Energy receives timely notice of such matter (as described
 in the preceding sentence) and if RGS Energy describes the nature of such matter
 in its proxy statement. Accordingly, for RGS Energy's year 2002 annual meeting
 of shareholders, any such notice must be received by RGS Energy's Secretary at
-89 East Avenue, Rochester, New York 14649, on or before January 25, 2002.
+89 East Avenue, Rochester, New York 14649, on or before          , 2002.
 
     RGS Energy's bylaws provide that any shareholder who wishes to submit a
 proposal must notify RGS Energy 90 days in advance of a meeting and must submit
@@ -7137,12 +7069,11 @@ at an anticipated fee of approximately $17,500, plus out-of-pocket expenses.
 
     This document is being furnished in connection with the solicitation of
 proxies on behalf of the board of directors of Energy East for use at the Energy
-East Annual Meeting of Stockholders to be held on June 15, 2001, at the
-Citicorp/Citibank Auditorium, 12th Floor, 399 Park Avenue, New York, New York.
-This document is also a prospectus for the Energy East shares to be issued in
-the merger. The mailing address of Energy East's principal executive office is
-P.O. Box 12904, Albany, New York 12212-2904. You should read this document
-carefully before voting your shares.
+East Annual Meeting of Stockholders to be held on             , 2001, at
+            . This document is also a prospectus for the Energy East shares to
+be issued in the merger. The mailing address of Energy East's principal
+executive office is P.O. Box 12904, Albany, New York 12212-2904. You should read
+this document carefully before voting your shares.
 
 ANNUAL REPORT
 
@@ -7152,16 +7083,16 @@ of record. The Annual Report is not a part of this document.
 
 OUTSTANDING VOTING SECURITIES AND VOTING RIGHTS
 
-    The close of business on April 26, 2001 has been fixed as the record date
-for determining the Energy East shareholders entitled to vote at the meeting. As
-of the record date, Energy East had outstanding             shares of common
-stock. Energy East shareholders have cumulative voting rights for the election
-of directors and one vote per share for all other purposes. Cumulative voting
-means that the total number of votes which you may cast for the election of
-directors of a given class shall equal the number of directors in such class to
-be elected multiplied by the number of shares held, and you may cast all of such
-votes for a single nominee for director or you may distribute them among all or
-several nominees in such class, as you see fit.
+    The close of business on       , 2001 has been fixed as the record date for
+determining the Energy East shareholders entitled to vote at the meeting. As of
+the record date, Energy East had outstanding             shares of common stock.
+Energy East shareholders have cumulative voting rights for the election of
+directors and one vote per share for all other purposes. Cumulative voting means
+that the total number of votes which you may cast for the election of directors
+of a given class shall equal the number of directors in such class to be elected
+multiplied by the number of shares held, and you may cast all of such votes for
+a single nominee for director or you may distribute them among all or several
+nominees in such class, as you see fit.
 
     The proxy represents the number of shares registered in your name as well as
 the number of whole shares credited to your account under Energy East's Dividend
@@ -7199,7 +7130,7 @@ Proposal 1.
 
     In voting for Proposal 2 (the election of directors), you may vote in favor
 of all nominees or withhold your votes as to all, or as to specific, nominees.
-The six nominees receiving the highest number of affirmative votes cast, in
+The       nominees receiving the highest number of affirmative votes cast, in
 person or by proxy, by holders of Energy East shares entitled to vote shall be
 elected to serve as directors. As a result, votes that are withheld will not be
 counted and will have no effect on the vote in connection with the election of
@@ -7222,27 +7153,23 @@ Merger" on page 23.
     Your board of directors currently consists of thirteen directors divided
 into three classes. One class of directors is elected at each annual meeting of
 shareholders for a term expiring at the third succeeding annual meeting of
-shareholders. In addition to electing four directors to serve in Class III, two
-directors will be elected to serve in Class I.
+shareholders. In addition to electing       directors to serve in Class III,
+      directors will be elected to serve in Class I.
 
     The nominees for election at this Annual Meeting to serve as directors in
 Class III for a term expiring at the 2004 Annual Meeting of Stockholders and
 thereafter until their successors shall be elected and shall qualify are:
-Richard Aurelio, James A. Carrigg, David M. Jagger and Ben E. Lynch.
-Messrs. Aurelio, Carrigg, Jagger and Lynch were elected directors of Energy East
-for terms expiring at the 2001 Annual Meeting of Stockholders. The nominees for
+                  . Messrs.                   were elected to Class III for a
+term expiring at the 2001 Annual Meeting of Stockholders. The nominees for
 election at this Annual Meeting to serve as directors in Class I for a term
 expiring at the 2002 Annual Meeting of Stockholders and thereafter until their
-successors shall be elected and shall qualify are: Paul L. Gioia and Peter J.
-Moynihan. Messrs. Gioia and Moynihan were elected directors of Energy East for
-terms expiring at the 2001 Annual Meeting of Stockholders. Mr. Tomasso is not
-standing for re-election to the board of directors because he is retiring as a
-director of Energy East effective at the 2001 Annual Meeting of Stockholders.
+successors shall be elected and shall qualify are:                   .
+Messrs.                  were elected directors of Energy East effective
+September 1, 2000 to serve until the 2001 Annual Meeting of Stockholders.
 
     Unless otherwise specified on the proxy, shares represented by proxies in
 the accompanying form received on behalf of the board of directors will be voted
-for the election of Richard Aurelio, James A. Carrigg, David M. Jagger, Ben E.
-Lynch, Paul L. Gioia and Peter J. Moynihan. Proxy holders reserve the right to
+for the election of                 . Proxy holders reserve the right to
 exercise cumulative voting rights and to cast the votes at the meeting in such
 manner, and for such lesser number of said nominees, as they may deem best, in
 order, so far as possible, to secure the election of said nominees. While it is
@@ -7263,185 +7190,87 @@ annual meeting and for each director continuing in office.
                                     CLASS III
   DIRECTORS NOMINATED FOR TERMS EXPIRING IN 2004
 
-[Photo]                          RICHARD AURELIO
-
-                                 FORMER PRESIDENT OF TIME WARNER CABLE GROUP, NYC, AND NYI
-                                 NEWS AND SENIOR ADVISOR TO THE CHAIRMAN AND CEO OF TIME
-                                 WARNER, INC., NEW YORK, NY. Director of: The Citizens
-                                 Committee for New York City, Inc., New York, NY; the Javits
-                                 Foundation, New York, NY; and City University Television,
-                                 New York, NY. Mr. Aurelio was a Time Warner executive from
-                                 1979 through 1998. Prior to that time, he served as deputy
-                                 mayor of New York City during the Lindsay administration, as
-                                 an administrative assistant to U. S. Senator Jacob K.
-                                 Javits, as news editor of Newsday and a public relations
-                                 executive. Mr. Aurelio, 72, has been a director of Energy
-                                 East (including its predecessor company) since 1997.
-
-[Photo]                          JAMES A. CARRIGG
-
-                                 FORMER CHAIRMAN, PRESIDENT AND CHIEF EXECUTIVE OFFICER OF
-                                 NYSEG, ITHACA, NY. Director of: Security Mutual Life
-                                 Insurance Company of New York, Binghamton, NY. Trustee of:
-                                 Dr. G. Clifford & Florence B. Decker Foundation, Binghamton,
-                                 NY; and the Public Policy Institute of the Business Council
-                                 of New York State, Albany, NY. Mr. Carrigg was Chairman,
-                                 President and Chief Executive Officer of NYSEG from January
-                                 1991 to September 1996, and was Chairman and Chief Executive
-                                 Officer of NYSEG from May 1988 to December 1990. Prior to
-                                 that time, he was President and Chief Operating Officer of
-                                 NYSEG. Mr. Carrigg, 67, has been a director of Energy East
-                                 (including its predecessor company) since 1983.
-
-[Photo]                          DAVID M. JAGGER
-
-                                 PRESIDENT AND TREASURER OF JAGGER BROTHERS, INC.,
-                                 SPRINGVALE, ME. Trustee of: Industrial Development
-                                 Corporation, Sanford, ME; Springvale Public Library
-                                 Association, Springvale, ME; and Springvale Redevelopment
-                                 Corporation, Springvale, ME. Mr. Jagger was Chairman of the
-                                 Board of CMP Group and Central Maine Power Company from
-                                 January 1996 to September 2000. Mr. Jagger, 59, has been a
-                                 director of Energy East since September 2000 and was a
-                                 director of CMP Group for 13 years prior to its merger with
-                                 Energy East.
-
-[Photo]                          BEN E. LYNCH
-
-                                 PRESIDENT OF WINCHESTER OPTICAL COMPANY, ELMIRA, NY. Past
-                                 Chairman of Arnot-Ogden Medical Center, Elmira, NY; Past
-                                 President of Horseheads Board of Education, Horseheads, NY.
-                                 Former Trustee of the Pennsylvania College of Optometry,
-                                 Philadelphia, PA; and of the Optometric Center of New York
-                                 Foundation, New York, NY. Mr. Lynch, 63, has been President
-                                 of Winchester Optical Company since 1965, and has been a
-                                 director of Energy East (including its predecessor company)
-                                 since 1987.
-
                                      CLASS I
   DIRECTORS NOMINATED FOR TERMS EXPIRING IN 2002
-
-[Photo]                          PETER J. MOYNIHAN
-
-                                 FORMER SENIOR VICE PRESIDENT AND CHIEF INVESTMENT OFFICER OF
-                                 UNUM CORPORATION, PORTLAND, ME. Director of: Maine Yankee
-                                 Atomic Power Company, Wiscasset, ME. Mr. Moynihan was Senior
-                                 Vice President and Chief Investment Officer with UNUM
-                                 Corporation from 1987 until his retirement in July 1999.
-                                 Mr. Moynihan, 57, has been a director of Energy East since
-                                 September 2000 and was a director of CMP Group for 6 years
-                                 prior to its merger with Energy East.
-
-[Photo]                          PAUL L. GIOIA
-
-                                 OF COUNSEL, LEBOEUF, LAMB, GREENE & MACRAE,(1) ALBANY, NY;
-                                 ATTORNEYS AT LAW. Mr. Gioia was a Senior Vice President of
-                                 First Albany Corporation from May 1987 to October 1993.
-                                 Prior to that time, he served as a member and was Chairman
-                                 of the Public Service Commission of the State of New York
-                                 and also served as a member of the New York State Energy
-                                 Research and Development Authority. Mr. Gioia, 58, has been
-                                 a director of Energy East (including its predecessor
-                                 company) since 1991.
 
                                     CLASS II
 
 DIRECTORS WHOSE TERMS EXPIRE IN 2003
 
-[Photo]                          JOSEPH J. CASTIGLIA
+JOSEPH J. CASTIGLIA
 
-                                 FORMER VICE CHAIRMAN, PRESIDENT AND CHIEF EXECUTIVE OFFICER
-                                 OF PRATT & LAMBERT UNITED, INC., BUFFALO, NY. Business
-                                 Consultant and Private Investor, JBC Enterprises, East
-                                 Aurora, NY. Chairman, Catholic Health System of Western New
-                                 York, Buffalo, NY; Chairman, HealthNow New York, Inc., DBA
-                                 Blue Cross & Blue Shield of Western New York, Buffalo, NY
-                                 and Blue Shield of Northeastern New York, Albany, NY.
-                                 Director of: Vision Group of Funds and Vision Fiduciary
-                                 Funds, Inc., Buffalo, NY; Sevenson Environmental Services,
-                                 Inc., Niagara Falls, NY; and Community Foundation for
-                                 Greater Buffalo, Buffalo, NY. Mr. Castiglia was Vice
-                                 Chairman, President and Chief Executive Officer of Pratt &
-                                 Lambert United, Inc. from August 1994 until his retirement
-                                 in January 1996. Prior to that time, he was President and
-                                 Chief Executive Officer of Pratt & Lambert, Inc. from 1989
-                                 until July 1994, at which time the company was merged with
-                                 United Coatings, Inc. Mr. Castiglia, 66, has been a director
-                                 of Energy East (including its predecessor company) since
-                                 1995.
+FORMER VICE CHAIRMAN, PRESIDENT AND CHIEF EXECUTIVE OFFICER OF PRATT & LAMBERT
+UNITED, INC., BUFFALO, NY. Business Consultant and Private Investor, JBC
+Enterprises, East Aurora, NY. Chairman, Catholic Health System of Western New
+York, Buffalo, NY; Chairman, HealthNow New York, Inc., DBA Blue Cross & Blue
+Shield of Western New York, Buffalo, NY and Blue Shield of Northeastern New
+York, Albany, NY. Director of: Vision Group of Funds and Vision Fiduciary Funds,
+Inc., Buffalo, NY; Sevenson Environmental Services, Inc., Niagara Falls, NY; and
+Community Foundation for Greater Buffalo, Buffalo, NY. Mr. Castiglia was Vice
+Chairman, President and Chief Executive Officer of Pratt & Lambert United, Inc.
+from August 1994 until his retirement in January 1996. Prior to that time, he
+was President and Chief Executive Officer of Pratt & Lambert, Inc. from 1989
+until July 1994, at which time the company was merged with United Coatings, Inc.
+Mr. Castiglia, 66, has been a director of Energy East (including its predecessor
+company) since 1995.
 
-[Photo]                          LOIS B. DEFLEUR
+LOIS B. DEFLEUR
 
-                                 PRESIDENT OF THE STATE UNIVERSITY OF NEW YORK AT BINGHAMTON,
-                                 BINGHAMTON, NY. Director of: Broome County Chamber of
-                                 Commerce, Binghamton, NY; and WSKG Public Television and
-                                 Radio, Binghamton, NY; Director's Advisory Council, M&T
-                                 Bank-Southern Division, Endicott and Ithaca, NY. Dr.
-                                 DeFleur, 64, has been President of the State University of
-                                 New York at Binghamton since 1990, and has been a director
-                                 of Energy East (including its predecessor company) since
-                                 1995.
+PRESIDENT OF THE STATE UNIVERSITY OF NEW YORK AT BINGHAMTON, BINGHAMTON, NY.
+Director of: Broome County Chamber of Commerce, Binghamton, NY; and WSKG Public
+Television and Radio, Binghamton, NY; Director's Advisory Council, M&T
+Bank-Southern Division, Endicott and Ithaca, NY. Dr. DeFleur, 64, has been
+President of the State University of New York at Binghamton since 1990, and has
+been a director of Energy East (including its predecessor company) since 1995.
 
-[Photo]                          WALTER G. RICH
+WALTER G. RICH
 
-                                 CHAIRMAN, PRESIDENT, CHIEF EXECUTIVE OFFICER AND A DIRECTOR
-                                 OF DELAWARE OTSEGO CORPORATION, COOPERSTOWN, NY, AND ITS
-                                 SUBSIDIARY, THE NEW YORK, SUSQUEHANNA & WESTERN RAILWAY
-                                 CORPORATION. Director of: Security Mutual Life Insurance
-                                 Company of New York, Binghamton, NY; and New York Business
-                                 Development Corporation, Albany, NY. He is a member of the
-                                 Franklin Industrial Advisory Board of the Syracuse
-                                 University School of Management, Syracuse, NY; and appointed
-                                 by the Governor as a member of the New York State Public
-                                 Transportation Safety Board, Albany, NY. Mr. Rich, 55, has
-                                 been a director of Energy East (including its predecessor
-                                 company) since 1997.
+CHAIRMAN, PRESIDENT, CHIEF EXECUTIVE OFFICER AND A DIRECTOR OF DELAWARE OTSEGO
+CORPORATION, COOPERSTOWN, NY, AND ITS SUBSIDIARY, THE NEW YORK, SUSQUEHANNA &
+WESTERN RAILWAY CORPORATION. Director of: Security Mutual Life Insurance Company
+of New York, Binghamton, NY; and New York Business Development Corporation,
+Albany, NY. He is a member of the Franklin Industrial Advisory Board of the
+Syracuse University School of Management, Syracuse, NY; and appointed by the
+Governor as a member of the New York State Public Transportation Safety Board,
+Albany, NY. Mr. Rich, 55, has been a director of Energy East (including its
+predecessor company) since 1997.
 
-[Photo]                          WESLEY W. VON SCHACK
+WESLEY W. VON SCHACK
 
-                                 CHAIRMAN, PRESIDENT AND CHIEF EXECUTIVE OFFICER OF ENERGY
-                                 EAST, ALBANY, NY. Chairman of the Board of Directors of
-                                 NYSEG, Ithaca, NY. Director of: Mellon Financial Corporation
-                                 and Mellon Bank, N.A., Pittsburgh, PA; RTI International
-                                 Metals, Inc., Niles, OH; AEGIS Insurance Services, Inc.,
-                                 Jersey City, NJ; and Business Council of New York State,
-                                 Albany, NY. Vice Chairman of Peconic Land Trust, Inc., Long
-                                 Island, NY. Mr. von Schack was Chairman, President and Chief
-                                 Executive Officer of NYSEG from September 1996 to April
-                                 1999. Prior to August 1996, he was Chairman, President,
-                                 Chief Executive Officer and a director of DQE, Inc. and
-                                 Duquesne Light Company. Mr. von Schack, 56, has been
-                                 Chairman, President, Chief Executive Officer and a director
-                                 of Energy East (including its predecessor company) since
-                                 1996.
+CHAIRMAN, PRESIDENT AND CHIEF EXECUTIVE OFFICER OF ENERGY EAST, ALBANY, NY.
+Chairman of the Board of Directors of NYSEG, Ithaca, NY. Director of: Mellon
+Financial Corporation and Mellon Bank, N.A., Pittsburgh, PA; RTI International
+Metals, Inc., Niles, OH; AEGIS Insurance Services, Inc., Jersey City, NJ; and
+Business Council of New York State, Albany, NY. Vice Chairman of Peconic Land
+Trust, Inc., Long Island, NY. Mr. von Schack was Chairman, President and Chief
+Executive Officer of NYSEG from September 1996 to April 1999. Prior to August
+1996, he was Chairman, President, Chief Executive Officer and a director of DQE,
+Inc. and Duquesne Light Company. Mr. von Schack, 56, has been Chairman,
+President, Chief Executive Officer and a director of Energy East (including its
+predecessor company) since 1996.
 
                                     CLASS I
 
 DIRECTORS WHOSE TERMS EXPIRE IN 2002
 
-[Photo]                          ALISON P. CASARETT
+ALISON P. CASARETT
 
-                                 DEAN EMERITUS, CORNELL UNIVERSITY, ITHACA, NY. Emeritus
-                                 Professor of Radiation Biology, New York State College of
-                                 Veterinary Medicine, Cornell University. Dr. Casarett was
-                                 Special Assistant to the President of Cornell University
-                                 from August 1993 to June 1995. Prior to that time, she was
-                                 the Dean of The Graduate School at Cornell University. Dr.
-                                 Casarett, 70, has been a director of Energy East (including
-                                 its predecessor company) since 1979.
+DEAN EMERITUS, CORNELL UNIVERSITY, ITHACA, NY. Emeritus Professor of Radiation
+Biology, New York State College of Veterinary Medicine, Cornell University. Dr.
+Casarett was Special Assistant to the President of Cornell University from
+August 1993 to June 1995. Prior to that time, she was the Dean of The Graduate
+School at Cornell University. Dr. Casarett, 70, has been a director of Energy
+East (including its predecessor company) since 1979.
 
-[Photo]                          JOHN M. KEELER
+JOHN M. KEELER
 
-                                 OF COUNSEL, HINMAN, HOWARD & KATTELL, LLP,(1) BINGHAMTON,
-                                 NY; ATTORNEYS AT LAW. Director of: Security Mutual Life
-                                 Insurance Company of New York, Binghamton, NY; the Stuart
-                                 and Willma Hoyt Foundation, Binghamton, NY; and the Harriet
-                                 L. Dickenson Foundation, Binghamton, NY. Chairman, The
-                                 Binghamton University Foundation, Binghamton, NY; Past
-                                 President of Broome County Bar Association and of Broome
-                                 County United Way, both of Binghamton, NY. Mr. Keeler, 67,
-                                 has been a director of Energy East (including its
-                                 predecessor company) since 1989.
+OF COUNSEL, HINMAN, HOWARD & KATTELL, LLP,(1) BINGHAMTON, NY; ATTORNEYS AT LAW.
+Director of: Security Mutual Life Insurance Company of New York, Binghamton, NY;
+the Stuart and Willma Hoyt Foundation, Binghamton, NY; and the Harriet L.
+Dickenson Foundation, Binghamton, NY. Chairman, The Binghamton University
+Foundation, Binghamton, NY; Past President of Broome County Bar Association and
+of Broome County United Way, both of Binghamton, NY. Mr. Keeler, 67, has been a
+director of Energy East (including its predecessor company) since 1989.
 
 - ------------------------
 
@@ -7449,10 +7278,16 @@ DIRECTORS WHOSE TERMS EXPIRE IN 2002
     legal services to Energy East in 2000 and are expected to provide legal
     services to Energy East in 2001.
 
+(2) During 2000, a subsidiary of Energy East entered into a contract with a
+    privately held business to serve as contractor for construction of an
+    operations center for approximately $16,000,000. Tomasso Brothers Inc., of
+    which Mr. Tomasso is a principal, is the sole shareholder of the privately
+    held business.
+
 SECURITY OWNERSHIP OF MANAGEMENT
 
     The following table indicates the number of Energy East shares and Energy
-East common stock equivalent units beneficially owned as of March 31, 2001 by
+East common stock equivalent units beneficially owned as of March 1, 2001 by
 each director and nominee, each of the executive officers named in the Summary
 Compensation Table included elsewhere herein, and by the 17 current directors
 and executive officers as a group and the percent of the outstanding securities
@@ -7466,24 +7301,24 @@ NAME                                            OWNED(1)       UNITS(2)        U
 - ----                                          ------------   ------------   ------------   --------
 
 Richard Aurelio.............................       2,000         5,173           7,173        (3)
-James A. Carrigg............................      32,827        20,642          53,469        (3)
+James A. Carrigg............................      32,530        20,642          53,172        (3)
 Alison P. Casarett..........................       1,179        25,967          27,146        (3)
 Joseph J. Castiglia.........................      10,000         8,436          18,436        (3)
-Lois B. DeFleur.............................         600         8,436           9,036        (3)
-Michael I. German...........................     360,359        20,697         381,056        (3)
+Lois B. DeFleur.............................         600         8,346           9,036        (3)
+Michael I. German...........................     360,303        20,697         381,000        (3)
 Paul L. Gioia...............................       5,769        10,323          16,092        (3)
 David M. Jagger.............................       3,000           814           3,814        (3)
 Kenneth M. Jasinski.........................     304,399        15,747         320,146        (3)
 John M. Keeler..............................       2,822        16,869          19,691        (3)
-Robert D. Kump..............................     134,928         3,958         138,886        (3)
+Robert D. Kump..............................     134,864         3,958         138,822        (3)
 Ben E. Lynch................................       2,438        16,425          18,863        (3)
 Peter J. Moynihan...........................       4,000           814           4,814        (3)
 Walter G. Rich..............................       2,000         5,173           7,173        (3)
-Robert E. Rude..............................     131,908         3,907         135,815        (3)
-Michael D. Tomasso..........................         843         4,820           5,663        (3)
-Wesley W. von Schack........................     733,309        37,900         771,209        (3)
+Robert E. Rude..............................     131,794         3,907         135,701        (3)
+Michael D. Tomasso..........................         843         4,774           5,617        (3)
+Wesley W. von Schack........................     733,071        37,900         770,971        (3)
 17 current directors and executive officers
-  as a group................................   1,732,381       206,101       1,938,482        (3)
+  as a group................................   1,731,612       206,055       1,937,667        (3)
 
 - ------------------------
 
@@ -7801,4 +7636,159 @@ Executive Vice President and General Counsel of Energy East and Mr. German's
 agreement provides for his employment as Senior Vice President of Energy East.
 Each agreement provides for automatic one-year extensions unless either party to
 an agreement gives notice that such agreement is not to be extended. Each
-agreement was unanimously approved by the board of direct
+agreement was unanimously approved by the board of directors and provides for,
+among other things, a base salary of $700,000 for Mr. von Schack, $425,000 for
+Mr. Jasinski and $425,000 for Mr. German, subject to increase by the board of
+directors, and in the case of Mr. von Schack, the payment of the annual premium
+on a life insurance policy (the "Life Insurance Policy") on his life and a
+special bonus of $700,000 payable in 2001. The agreements also provide for
+eligibility for participation in Energy East's or NYSEG's other compensation and
+benefit plans and for certain payments in the event of the termination of
+employment due to disability.
+
+    The agreements provide that, if the officer's employment is terminated
+either by Energy East without cause or by the officer for good reason, he will
+receive a lump-sum payment equal to three times the sum of (i) his then-annual
+base salary and (ii) the average of the three most recent awards earned under
+the Annual Executive Incentive Plan. In the event of such termination, the
+officer's life (other than the Life Insurance Policy), disability, accident and
+health insurance benefits will continue for a period of thirty-six months, and,
+in the case of Mr. von Schack, Energy East will make a lump-sum premium payment
+so that no future premiums are due on the Life Insurance Policy. In addition,
+the executive will receive an amount equal to all earned but unpaid awards under
+the Annual Executive Incentive Plan and a pro rata portion of any award under
+the Annual Executive Incentive Plan with respect to the year in which the
+termination occurs, provided, however, that payments made pursuant to the
+agreements will be reduced by any payments made under the Annual Executive
+Incentive Plan in the event a change in control occurs during such year. Also,
+in the event of such termination, the officer will be given additional age
+credit and maximum service credit under the Supplemental Executive Retirement
+Plan and the present value of any Supplemental Executive Retirement Plan
+benefits will be paid in a lump sum to the officer, unless the officer elects to
+receive such Supplemental Executive Retirement Plan benefits in the manner
+provided in the Supplemental Executive Retirement Plan. In the event that any
+payments made under the agreement or otherwise would subject the officer to
+federal excise tax or interest or penalties with respect to such federal excise
+tax, he will be entitled to be made whole for the payment of any such taxes,
+interest or penalties.
+
+    Messrs. Kump and Rude each have a severance agreement in order to provide
+for certain payments if, generally, within two years following a change in
+control of Energy East, the individual's employment is terminated either by his
+employer without cause or by the individual for good reason. The severance
+agreements have terms ending on December 31, 2002 with automatic one-year
+
+extensions unless either party to an agreement gives notice that the agreement
+is not to be extended. The benefits consist of a lump-sum severance payment
+equal to two times the sum of (i) the individual's then-annual base salary, and
+(ii) any award under the Annual Executive Incentive Plan with respect to the
+year immediately preceding the year in which the termination occurs. In the
+event of such termination, the individual's life, disability, accident and
+health insurance benefits will continue for a period of twenty-four months and
+the individual will receive an amount equal to all earned but unpaid awards
+under the Annual Executive Incentive Plan and a pro rata portion of any award
+under the Annual Executive Incentive Plan with respect to the year in which the
+termination occurs, provided, however, that there shall be no duplication of
+payments made pursuant to his agreement and the Annual Executive Incentive Plan.
+Also, in the event of such termination, the individual will be given additional
+age and service credit under the Supplemental Executive Retirement Plan. In the
+event that any payments made on account of a change in control of Energy East,
+whether under the agreement or otherwise, would subject the individual to
+federal excise tax or interest or penalties with respect to such federal excise
+tax, the individual will be entitled to be made whole for the payment of any
+such taxes, interest or penalties. Messrs. Kump and Rude also have entered into
+Employee Invention and Confidentiality Agreements. The agreements provide for,
+among other things, payments (up to one year's salary) and certain health
+insurance premiums in the event that their employment is terminated whether
+voluntarily or involuntarily, and the noncompetition and nonsolicitation
+provisions of the agreement prevent them from obtaining other appropriate
+employment, so long as they are not entitled to receive payments under their
+severance agreements.
+
+    In the event of a change in control of Energy East, participants in the
+Annual Executive Incentive Plan will be paid an amount which includes all earned
+but unpaid awards, a pro rata portion of any award with respect to the year in
+which such change in control occurs and an additional payment at the end of the
+year in which such change in control occurs, to the extent that the award earned
+under the normal terms of the Annual Executive Incentive Plan exceeds the amount
+paid upon such change in control. In addition, participants in the Long Term
+Executive Incentive Share Plan will be paid an amount which includes (i) the
+payment of awards for all cycles in progress at the time of such change in
+control, computed and paid out in full (rather than pro rata) and based on the
+assumption that Energy East's performance was at the 50th percentile; and
+(ii) any amounts earned under the normal terms of the Long Term Executive
+Incentive Share Plan through the end of each performance cycle, to the extent
+those amounts exceed the amounts paid at the time of such change in control. All
+change in control payments under the Long Term Executive Incentive Share Plan
+are to be valued based on the change in control price of Energy East's common
+stock. After a change in control of Energy East, officers and certain key
+employees of Energy East and certain subsidiaries who qualify, and whose
+employment is terminated at age 55 or later, other than for cause, shall receive
+a total retirement benefit as determined under the Supplemental Executive
+Retirement Plan.
+
+    The Executive Compensation and Succession Committee of the board of
+directors in its discretion may take certain actions in order to preserve, in
+the event of a change in control of Energy East, a participant's rights under an
+award issued pursuant to the 1997 Stock Option Plan, the 2000 Stock Option Plan
+or the Restricted Stock Plan.
+
+    Grantor trusts have been established to provide for the payment of certain
+employee and director benefits, including severance benefits that might become
+payable after a change in control of Energy East.
+
+DIRECTORS' COMPENSATION
+
+    Directors of Energy East, other than officers of Energy East or officers of
+any subsidiary of Energy East, receive an annual retainer of $22,000, plus
+$1,000 for each directors' and committee meeting attended. The chairperson of
+each standing committee receives additional compensation of $2,500 for serving
+as chairperson of such committee. Under the terms of the Deferred Compensation
+Plan for
+
+Directors, directors can elect to defer a portion or all of their compensation.
+Such deferred compensation, together with interest thereon, is payable in a lump
+sum or over a period of years following retirement as a director.
+
+    Pursuant to the Director Share Plan for Directors, persons who are
+non-employee directors are eligible for certain benefits to be paid upon their
+ceasing to serve as directors of Energy East. On each January 1, April 1,
+July 1, and October 1, all non-employee directors receive 400 phantom shares
+pursuant to the Director Share Plan. Phantom shares granted earn dividend
+equivalents in the form of additional Phantom shares. Upon a director ceasing to
+serve as a director of Energy East, cash payments representing the value of the
+phantom shares held by the director are to be made to the director. The value of
+the phantom shares is to be determined by multiplying the number of phantom
+shares by the average of the daily closing prices of Energy East shares for the
+five trading days preceding the date the director ceases to serve as a director.
+Under the terms of the Deferred Compensation Plan for the Director Share Plan, a
+director may defer a portion or all of the cash payment to be made under the
+Director Share Plan over a period of years following the director's ceasing to
+serve as a director.
+
+COMMITTEES
+
+    Energy East's board of directors has an Audit Committee, a Nominating
+Committee and an Executive Compensation and Succession Committee.
+
+    The Nominating Committee, which consists of Richard Aurelio, Chairman, Lois
+B. DeFleur and John M. Keeler, had six meetings in 2000. The Nominating
+Committee is responsible for recommending to the board the slate of persons to
+be nominated to the board, appointment of directors as members of committees of
+the board and candidates to fill vacancies on the board of directors. The
+committee makes recommendations to the board of directors regarding criteria for
+nomination as a candidate to the board of directors. Shareholders wishing to
+recommend candidates for consideration by the Nominating Committee should submit
+to the Secretary of Energy East the name, a statement of qualifications and the
+written consent of any candidate. Recommendations will be brought to the
+attention of the Nominating Committee.
+
+    The Executive Compensation and Succession Committee, which consists of
+Joseph J. Castiglia, Chairman, Richard Aurelio and Ben E. Lynch, had three
+meetings in 2000. That committee, among other things, recommends compensation
+for officers, awards under the Annual Executive Incentive Plan and the Long-Term
+Executive Incentive Share Plan, and candidates for election as officers.
+
+REPORT OF AUDIT COMMITTEE
+
+    The Audit Committee, which consists of Ben E. Lynch, Chairman, Lois B

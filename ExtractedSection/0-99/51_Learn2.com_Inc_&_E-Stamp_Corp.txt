@@ -111,13 +111,8 @@ outlining the terms for a possible business combination between E-Stamp and
 Learn2 in which Learn2 would be the surviving corporation. The terms of the
 proposal included the issuance of Learn2 common stock to the holders of E-Stamp
 common stock such that E-Stamp stockholders would receive 50.1% of the
-outstanding stock of Learn2. This proposed exchange ratio was based on arriving
-at a number that would both (1) be acceptable to E-Stamp's board of directors in
-that it would allow E-Stamp stockholders to retain control of the combined
-company after the merger, and (2) be acceptable to Learn2's board of directors
-in that a lower exchange ratio would not have been acceptable given the trading
-price of Learn2's common stock. During that meeting, no agreement was reached
-about an appropriate exchange ratio.
+outstanding stock of Learn2. During that meeting, no agreement was reached about
+an appropriate exchange ratio.
 
      From March 8, 2001 to March 14, 2001, Mr. Ewald and Edward F. Malysz, Vice
 President, General Counsel and Acting Chief Financial Officer of E-Stamp,
@@ -127,15 +122,13 @@ Learn2 proposal.
      On March 10, 2001, Mr. Malysz had a conversation with Mr. Schupak, in which
 Mr. Malysz reviewed with Mr. Schupak E-Stamp's concerns regarding a transaction
 in which Learn2 stock would be issued to E-Stamp stockholders and Learn2 would
-be the surviving corporation. These concerns focused on
-
-the liquidity of Learn2 stock. During that conversation, Mr. Schupak again
-raised the possibility of an investment in Learn2 by E-Stamp.
+be the surviving corporation. These concerns focused on the liquidity of Learn2
+stock. During that conversation, Mr. Schupak again raised the possibility of an
+investment in Learn2 by E-Stamp.
 
      On March 13, 2001 Mr. Malysz presented Mr. Schupak with an alternative
 structure in which E-Stamp would acquire Learn2 through the issuance of E-Stamp
 common stock to Learn2 stockholders.
-
 
      On March 14, 2001, representatives of CSFB, E-Stamp, DKW, Learn2, WSGR and
 SBSF participated in a telephone conference to discuss the alternative
@@ -154,6 +147,7 @@ transaction.
 
      On March 19, 2001, E-Stamp executed a non-disclosure agreement with Learn2.
 
+
      On March 20, 2001, Mr. Malysz presented to Mr. Schupak a non-binding
 proposal outlining revised terms for a possible business combination between
 E-Stamp and Learn2. Terms of that proposal included: a proposed merger in which
@@ -163,7 +157,8 @@ company; E-Stamp's designation of a majority of the members of the board of
 directors of the combined company; and a convertible loan from E-Stamp to
 Learn2. That proposal did not specifically discuss Learn2's $10 million
 convertible debenture.
-On March 21, 2001, Michael M. Arons, Vice President and Controller of
+
+     On March 21, 2001, Michael M. Arons, Vice President and Controller of
 Learn2, met with Mr. Malysz at E-Stamp's offices to engage in financial due
 diligence on E-Stamp.
 
@@ -269,4 +264,9 @@ financial point of view to E-Stamp stockholders.
 
      On March 29, 2001, there was a special meeting of the board of directors of
 E-Stamp, which included a presentation by Messrs. Gott and Riley, regarding
-Learn2's business, strategy and financial condition.
+Learn2's business, strategy and financial condition. CSFB discussed its
+financial due diligence on Learn2, and responded to various questions raised by
+members of E-Stamp's board of directors regarding its diligence on Learn2. HLHZ
+discussed its analysis of the merger, and responded to various questions raised
+by members of E-Stamp's board of directors regarding its analyses. WSGR
+discussed its legal due diligence on E-Stamp, and responded to various

@@ -35,12 +35,12 @@ regarding the potential benefits of a business combination.
 confidentiality and standstill agreement, which the two companies signed on
 February 27, 2001.
 
-     Thereafter, the ALZA senior management retained JPMorgan, a division of
-Chase Securities Inc., and Merrill Lynch, Pierce, Fenner & Smith Incorporated to
-provide financial advisory services to ALZA regarding the proposed business
-combination with Johnson & Johnson. The ALZA senior management also engaged
-Heller Ehrman White & McAuliffe LLP, as counsel, to represent ALZA in the
-proposed business combination.
+     Thereafter, the ALZA senior management retained J.P. Morgan Securities
+Inc., formerly known as Chase Securities Inc., and Merrill Lynch, Pierce, Fenner
+& Smith Incorporated to provide financial advisory services to ALZA regarding
+the proposed business combination with Johnson & Johnson. The ALZA senior
+management also engaged Heller Ehrman White & McAuliffe LLP, as counsel, to
+represent ALZA in the proposed business combination.
 
      On March 1, 2001, members of the ALZA senior management and Johnson &
 Johnson each began their due diligence reviews of the other's business.
@@ -62,7 +62,7 @@ organizational issues relating to the potential business combination.
      At a meeting of the ALZA board of directors held on March 15, 2001, the
 ALZA senior management made presentations regarding the proposed business
 combination and the status of the negotiations and discussions about the merger
-agreement. ALZAs' financial, legal and accounting advisors also participated in
+agreement. ALZA's financial, legal and accounting advisors also participated in
 the meeting. After discussion, the ALZA board of directors directed the ALZA
 
 management and advisors to continue negotiations with Johnson & Johnson. Further
@@ -231,9 +231,10 @@ agreement are advisable to ALZA and its stockholders. The ALZA board of
 directors unanimously recommends that the stockholders of ALZA vote "FOR" the
 adoption of the merger agreement.
 
-OPINIONS OF JPMORGAN AND MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED
+OPINIONS OF J.P. MORGAN SECURITIES INC. AND MERRILL LYNCH, PIERCE, FENNER &
+SMITH INCORPORATED
 
-     OPINION OF JPMORGAN
+     OPINION OF J.P. MORGAN SECURITIES INC.
 
 
      JPMorgan acted as ALZA's financial advisor in connection with the merger.
@@ -244,6 +245,14 @@ written opinion to the ALZA board of directors to the effect that, as of such
 date and based upon and subject to certain matters stated therein, the exchange
 ratio in the merger was fair, from a financial point of view, to the holders of
 ALZA common stock.
+
+     The JPMorgan opinion, the summary of the JPMorgan opinion and the
+procedures and analyses described below are based on the exchange ratio of 0.49
+in effect on the date of the JPMorgan opinion, and neither the JPMorgan opinion
+nor such summary or such procedures or analyses have been restated to give
+effect to the adjustment of the exchange ratio from 0.49 to 0.98 that will be
+made upon the effectiveness of Johnson & Johnson's two-for-one stock split which
+is expected to be effected on or about June 12, 2001.
 
      THE FULL TEXT OF THE JPMORGAN FAIRNESS OPINION, WHICH SETS FORTH THE
 ASSUMPTIONS MADE, FACTORS CONSIDERED AND LIMITATIONS UPON THE REVIEW UNDERTAKEN
@@ -256,8 +265,7 @@ SUCH STOCKHOLDER SHOULD VOTE ON THE MERGER OR ANY OTHER MATTER. THE FOLLOWING
 SUMMARY OF THE MATERIAL PROVISIONS OF THE JPMORGAN FAIRNESS OPINION IS QUALIFIED
 BY REFERENCE TO SUCH OPINION. ALZA STOCKHOLDERS ARE URGED TO READ THIS OPINION
 IN ITS ENTIRETY.
-
-     In arriving at its opinion, JPMorgan, among other things:
+In arriving at its opinion, JPMorgan, among other things:
 
      - reviewed a draft of the merger agreement dated March 26, 2001
 

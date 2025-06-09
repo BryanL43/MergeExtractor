@@ -7,7 +7,7 @@ from openai import OpenAI
 from rapidfuzz import fuzz
 import requests
 
-from src.dependencies.RateLimiter import RateLimiter
+from src.dependencies.rate_limiter_globals import global_rate_limiter
 from src.utils.Logger import Logger
 from src.crawler.Processor import Processor
 
@@ -19,9 +19,9 @@ from src.dependencies.config import FORM_TYPES, MAX_NUM_OF_THREADS, OPENAI_API_K
 """
 class CrawlerSupport:
     @staticmethod
-    def rate_limited_get(url: str, headers: any, rate_limiter_resources: dict[str, any]):
+    def rate_limited_get(url: str, headers: any):
         """Wrapper for GET request with rate limiting"""
-        RateLimiter.wait(rate_limiter_resources);
+        global_rate_limiter.wait();
         response = requests.get(url, headers=headers);
         return response;
     
@@ -87,8 +87,7 @@ class CrawlerSupport:
         pair_company: str, 
         date_LB: str, 
         date_UB: str, 
-        restruct_forms: list[str],
-        rate_limiter_resources: dict[str, any] 
+        restruct_forms: list[str]
     ) -> list[int] | None:
         """
             Attempt to get the list of CIKs ID for the merging companies.
@@ -105,8 +104,6 @@ class CrawlerSupport:
                 The upper-bound date, in the format of "%Y-M-%D"
             restruct_forms : list[str]
                 The form types to search for.
-            rate_limiter_resources : dict[str, any]
-                Request wait limiter to stop flooding.
                 
             Returns
             -------
@@ -126,7 +123,7 @@ class CrawlerSupport:
         }
 
         # Request the search query & acquire the DOM elements
-        response = CrawlerSupport.rate_limited_get(url, headers, rate_limiter_resources)
+        response = CrawlerSupport.rate_limited_get(url, headers)
         if (response.status_code != 200):
             print("FATAL: getDocumentJson response yielded an error!");
             sys.exit(response.status_code);
@@ -161,8 +158,7 @@ class CrawlerSupport:
         pair_company: str, 
         date_LB: str, 
         date_UB: str, 
-        restruct_forms: list[str], 
-        rate_limiter_resources: dict[str, any] 
+        restruct_forms: list[str]
     ) -> list[dict] | None:
         """
             Acquire all the json documents for the given companies with **CIK filter enabled**.
@@ -180,8 +176,6 @@ class CrawlerSupport:
             restruct_forms : list[str]
                 The form types to search for.
                 The defined maximum number of threads per thread pool.
-            rate_limiter_resources : dict[str, any]
-                Request wait limiter to stop flooding.
                 
             Returns
             -------
@@ -196,9 +190,9 @@ class CrawlerSupport:
 
         # We will try and acquire the cik_list for the first company;
         # If the cik_list is None, we will try and acquire the cik_list for the second company.
-        cik_list = CrawlerSupport.get_ciks(search_company, pair_company, date_LB, date_UB, restruct_forms, rate_limiter_resources);
+        cik_list = CrawlerSupport.get_ciks(search_company, pair_company, date_LB, date_UB, restruct_forms);
         if (cik_list == None):
-            cik_list = CrawlerSupport.get_ciks(pair_company, search_company, date_LB, date_UB, restruct_forms, rate_limiter_resources);
+            cik_list = CrawlerSupport.get_ciks(pair_company, search_company, date_LB, date_UB, restruct_forms);
         
         if (cik_list == None):
             return None;
@@ -223,7 +217,7 @@ class CrawlerSupport:
 
         # Fetch the json data for each CIK
         if len(urls) == 1: # Case: Single URL; no threads required
-            response = CrawlerSupport.rate_limited_get(urls[0], headers, rate_limiter_resources);
+            response = CrawlerSupport.rate_limited_get(urls[0], headers);
             if (response.status_code != 200):
                 print("FATAL: getDocumentJson response yielded an error!");
                 sys.exit(response.status_code);
@@ -233,7 +227,7 @@ class CrawlerSupport:
         else: # Case: Multiple URLs; use threads for concurrent fetching
             with ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS) as thread_pool:
                 results = list(
-                    thread_pool.map(lambda url: CrawlerSupport.rate_limited_get(url, headers, rate_limiter_resources), urls)
+                    thread_pool.map(lambda url: CrawlerSupport.rate_limited_get(url, headers), urls)
                 );
                 
                 # Merge the results into a single list
@@ -255,8 +249,7 @@ class CrawlerSupport:
         pair_company: str, 
         date_LB: str, 
         date_UB: str, 
-        restruct_forms: list[str],
-        rate_limiter_resources: dict[str, any] 
+        restruct_forms: list[str]
     ) -> list[dict] | None:
         """
             Acquire all the json documents for the given companies with **CIK filter disabled**.
@@ -274,8 +267,6 @@ class CrawlerSupport:
                 The upper-bound date, in the format of "%Y-M-%D"
             restruct_forms : list[str]
                 The form types to search for.
-            rate_limiter_resources : dict[str, any]
-                Request wait limiter to stop flooding.
                 
             Returns
             -------
@@ -305,7 +296,7 @@ class CrawlerSupport:
         # Fetch the json data for each company using threads for concurrent fetching
         with ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS) as thread_pool:
             results = list(
-                thread_pool.map(lambda url: CrawlerSupport.rate_limited_get(url, headers, rate_limiter_resources), urls)
+                thread_pool.map(lambda url: CrawlerSupport.rate_limited_get(url, headers), urls)
             )
         
         # Merge the results into a single list
@@ -368,8 +359,7 @@ class CrawlerSupport:
     @staticmethod
     def process_single_job(
         job_data: tuple[int, str, str, str], 
-        date_margin: int,
-        rate_limiter_resources: dict[str, any] 
+        date_margin: int
     ):
         main_index, company_A, company_B, announcement_date = job_data;
         print("Processing index: ", main_index, "; Companies: ", company_A, " & ", company_B);
@@ -384,7 +374,7 @@ class CrawlerSupport:
         # Check if the file exists
         file_path = os.path.abspath(f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt");
         if os.path.isfile(file_path):
-            print("Skipping: Document already exist...");
+            print(f"Skipping index {main_index}: Document already exist...");
             return None;
     
         # Instantiate utility objects in child process
@@ -407,8 +397,7 @@ class CrawlerSupport:
             company_B, 
             restruct_LB, 
             restruct_UB, 
-            restruct_forms, 
-            rate_limiter_resources
+            restruct_forms
         );
         if (results == None): # Acquire all documents within our guess
             results = CrawlerSupport.get_document_json(
@@ -416,8 +405,7 @@ class CrawlerSupport:
                 company_B, 
                 restruct_LB, 
                 restruct_UB, 
-                restruct_forms,
-                rate_limiter_resources
+                restruct_forms
             );
 
         # No documents found for our 2 companies
@@ -430,7 +418,7 @@ class CrawlerSupport:
 
         # Filter the documents and keep the ones with the existence of both company names
         company_names = [company_A, company_B];
-        documents = Processor.getDocuments(source_links, company_names, rate_limiter_resources);
+        documents = Processor.getDocuments(source_links, company_names);
 
         # Retry if no documents found and any company name has a hyphen (Edge case)
         if not documents and any("-" in name for name in company_names):
@@ -438,7 +426,7 @@ class CrawlerSupport:
                 name.replace('-', ' ') if '-' in name else name
                 for name in company_names
             ];
-            documents = Processor.getDocuments(source_links, modified_names, rate_limiter_resources);
+            documents = Processor.getDocuments(source_links, modified_names);
 
         # No documents found, including the edge case
         if not documents:

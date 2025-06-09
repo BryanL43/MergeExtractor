@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/96021/000095012901000484/0000950129-01-000484.txt
+URL: https://www.sec.gov/Archives/edgar/data/96021/000095012901001213/0000950129-01-001213.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- RKoXkdGKwPb/TaAQI5yGdPagZ/l3KpopGv2lOTQemxA03mNq8XtfSmFou10BXvMi
- 0j8WkdkAiwX2pM5AQVg2eQ==
+ KiGXXKCEw1re5gtqvlXC+9F00GWhE/11kkgIjeTO80BCWips2KS/aElbTpIJ/lIj
+ nL9WtHHaxe7kw+JG1ek8XQ==
 
-0000950129-01-000484.txt : 20010206
+0000950129-01-001213.txt : 20010307
 
-0000950129-01-000484.hdr.sgml : 20010206
-ACCESSION NUMBER:		0000950129-01-000484
-CONFORMED SUBMISSION TYPE:	S-4
-PUBLIC DOCUMENT COUNT:		15
-FILED AS OF DATE:		20010205
+0000950129-01-001213.hdr.sgml : 20010307
+ACCESSION NUMBER:		0000950129-01-001213
+CONFORMED SUBMISSION TYPE:	S-4/A
+PUBLIC DOCUMENT COUNT:		8
+FILED AS OF DATE:		20010305
 
 FILER:
 
@@ -29,10 +29,10 @@ FILER:
 		FISCAL YEAR END:			0630
 
 	FILING VALUES:
-		FORM TYPE:		S-4
+		FORM TYPE:		S-4/A
 		SEC ACT:		
 		SEC FILE NUMBER:	333-54940
-		FILM NUMBER:		1524409
+		FILM NUMBER:		1560851
 
 	BUSINESS ADDRESS:	
 		STREET 1:		1390 ENCLAVE PKWY
@@ -41,20 +41,24 @@ FILER:
 		ZIP:			77077
 		BUSINESS PHONE:		2815841390
 
-S-4
+S-4/A
 
-h83402s-4.txt
+h84630a1s-4a.txt
 
-SYSCO CORPORATION
+SYSCO CORPORATION - AMENDMENT NO. 1
 
-    AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON FEBRUARY 5, 2001
-                                                    Registration No. 333-
+     AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON MARCH 2, 2001
+
+                                                      Registration No. 333-54940
+
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
                        SECURITIES AND EXCHANGE COMMISSION
                              Washington, D.C. 20549
                              ---------------------
+
+                               AMENDMENT NO. 1 TO
 
                                     FORM S-4
             REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933
@@ -63,9 +67,9 @@ SYSCO CORPORATION
                                SYSCO CORPORATION
              (Exact name of registrant as specified in its charter)
 
-              DELAWARE                                  5140                                 74-1648137
-  (State or other jurisdiction of           (Primary Standard Industrial                  (I.R.S. Employer
-   incorporation or organization)           Classification Code Number)                 Identification No.)
+            DELAWARE                              5140                             74-1648137
+(State or other jurisdiction of       (Primary Standard Industrial              (I.R.S. Employer
+ incorporation or organization)       Classification Code Number)             Identification No.)
 
                              ---------------------
 
@@ -74,6 +78,7 @@ SYSCO CORPORATION
                                  (281) 584-1390
     (Address, including zip code, telephone number, including area code, of
                    registrant's principal executive offices)
+
                              ---------------------
 
                             MICHAEL C. NICHOLS, ESQ.
@@ -83,72 +88,37 @@ SYSCO CORPORATION
                                  (281) 584-1390
  (Name, address, including zip code, and telephone number, including area code,
                              of agent for service)
+
                              ---------------------
 
                                    Copies to:
 
-       THOMAS M. HAYTHE, ESQ.                B. JOSEPH ALLEY, JR., ESQ.                BRADLEY P. COST, ESQ.
-GENERAL COUNSEL, GUEST SUPPLY, INC.          ARNALL GOLDEN GREGORY LLP                         TORYS
-     90 PARK AVENUE, 15TH FLOOR               2800 ONE ATLANTIC CENTER                    237 PARK AVENUE
-      NEW YORK, NEW YORK 10016               1201 WEST PEACHTREE STREET               NEW YORK, NEW YORK 10017
-           (212) 210-9583                   ATLANTA, GEORGIA 30309-3450                    (212) 880-6000
-                                                   (404) 873-8500
+     THOMAS M. HAYTHE, ESQ.            B. JOSEPH ALLEY, JR., ESQ.            BRADLEY P. COST, ESQ.
+ GENERAL COUNSEL, GUEST SUPPLY,        ARNALL GOLDEN GREGORY LLP                     TORYS
+               INC.                     2800 ONE ATLANTIC CENTER                237 PARK AVENUE
+   90 PARK AVENUE, 15TH FLOOR          1201 WEST PEACHTREE STREET           NEW YORK, NEW YORK 10017
+    NEW YORK, NEW YORK 10016          ATLANTA, GEORGIA 30309-3450                (212) 880-6000
+         (212) 210-9583                      (404) 873-8500
 
                              ---------------------
 
-    APPROXIMATE DATE OF COMMENCEMENT OF PROPOSED SALE TO THE PUBLIC:  As soon as
-practicable after the effective date of this Registration Statement and the
+     APPROXIMATE DATE OF COMMENCEMENT OF PROPOSED SALE TO THE PUBLIC:  As soon
+as practicable after the effective date of this Registration Statement and the
 consummation of the transactions described in the enclosed prospectus.
 
-    If the securities being registered on this Form are being offered in
+     If the securities being registered on this Form are being offered in
 connection with the formation of a holding company and there is compliance with
 General Instruction G, check the following box.  [ ]
 
-    If this Form is filed to register additional securities for an offering
+     If this Form is filed to register additional securities for an offering
 pursuant to Rule 462(b) under the Securities Act, check the following box and
 list the Securities Act registration statement number of the earlier effective
 registration statement for the same offering.  [ ]
 
-    If this Form is a post-effective amendment filed pursuant to Rule 462(d)
+     If this Form is a post-effective amendment filed pursuant to Rule 462(d)
 under the Securities Act, check the following box and list the Securities Act
 registration statement number of the earlier effective registration statement
 for the same offering.  [ ]
-
-                        CALCULATION OF REGISTRATION FEE
-
-- ---------------------------------------------------------------------------------------------------------------------------------
-- ---------------------------------------------------------------------------------------------------------------------------------
-                                                                     PROPOSED MAXIMUM     PROPOSED MAXIMUM
-            TITLE OF SECURITIES                   AMOUNT TO BE        OFFERING PRICE     AGGREGATE OFFERING       AMOUNT OF
-              TO BE REGISTERED                   REGISTERED(1)          PER SHARE             PRICE(2)       REGISTRATION FEE(3)
-- ---------------------------------------------------------------------------------------------------------------------------------
-
-Common Stock, $1.00 par value per share         9,390,813 Shares           N/A            $200,479,396.56         $50,119.85
-- ---------------------------------------------------------------------------------------------------------------------------------
-- ---------------------------------------------------------------------------------------------------------------------------------
-
-(1) Represents the maximum number of shares of SYSCO common stock estimated to
-    be issuable upon the consummation of the exchange offer and subsequent
-    merger of Sysco Food Services of New Jersey, Inc., a Delaware corporation
-    and a wholly owned subsidiary of SYSCO, with and into Guest Supply, Inc., a
-    New Jersey corporation, based on an exchange ratio of approximately 1.1818
-    shares of SYSCO common stock (the maximum exchange ratio pursuant to the
-    Merger Agreement and Plan of Reorganization dated as of January 22, 2001
-    among SYSCO, Guest Supply and Sysco Food Services of New Jersey) to be
-    exchanged for each share of Guest Supply common stock.
-
-(2) Estimated solely for the purpose of calculating the registration fee
-    pursuant to Rule 457(f)(1) and Rule 457(c) of the Securities Act of 1933,
-    based on the product of (i) $25.23, the average of the high and low sales
-    prices of Guest Supply common stock on January 29, 2001, as reported by The
-    New York Stock Exchange, and (ii) 7,946,072, the number of shares of Guest
-    Supply common stock outstanding at the close of business on January 30, 2001
-    including the number of shares of Guest Supply common stock subject to
-    outstanding options and other convertible securities on such date.
-
-(3) Computed in accordance with Rule 457(f) under the Securities Act to be
-    $50,119.85, which is equal to .000250 multiplied by the proposed maximum
-    aggregate offering price of $200,479,396.56.
 
      THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR
 DATES AS MAY BE NECESSARY TO DELAY ITS EFFECTIVE DATE UNTIL THE REGISTRANT SHALL
@@ -157,6 +127,7 @@ STATEMENT SHALL THEREAFTER BECOME EFFECTIVE IN ACCORDANCE WITH SECTION 8(a) OF
 THE SECURITIES ACT OF 1933 OR UNTIL THIS REGISTRATION STATEMENT SHALL BECOME
 EFFECTIVE ON SUCH DATE AS THE SECURITIES AND EXCHANGE COMMISSION, ACTING
 PURSUANT TO SAID SECTION 8(a), MAY DETERMINE.
+
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
@@ -168,7 +139,8 @@ PURSUANT TO SAID SECTION 8(a), MAY DETERMINE.
       THE OFFER IS NOT PERMITTED.
 
                                                         [SYSCO CORPORATION LOGO]
-                 SUBJECT TO COMPLETION, DATED FEBRUARY 5, 2001
+
+                   SUBJECT TO COMPLETION, DATED MARCH 2, 2001
 
             OFFER TO EXCHANGE EACH OUTSTANDING SHARE OF COMMON STOCK
            (INCLUDING THE ASSOCIATED PREFERRED STOCK PURCHASE RIGHTS)
@@ -210,18 +182,19 @@ trading price is:
      - more than $30.00, Guest Supply stockholders shall receive for each Guest
        Supply share approximately 0.8667 SYSCO shares.
 
-     The SYSCO average trading price cannot be determined at this time.
+     The SYSCO average trading price cannot be determined with certainty at this
+time.
 
      If completed, the offer will be followed by a merger in which our common
 stock will be issued at the same exchange ratio used in the offer. On February
-1, 2001, the closing price for our shares was $27.30. If the SYSCO average
-trading price were equal to this closing price, a Guest Supply stockholder would
-receive approximately 0.9524 shares of our common stock for each share of Guest
-Supply common stock. We urge you to obtain a current quote for our shares. Our
-obligation to exchange our common stock is subject to the conditions listed
-under "The Offer -- Conditions of the Offer." Our common stock trades on the
-NYSE under the symbol "SYY." Guest Supply common stock trades on the NYSE under
-the symbol "GSY."
+28, 2001, the closing price for our shares was $27.26. If the offer expires on
+March 5, 2001 and is not extended, the SYSCO average trading price will be
+$27.187, and a Guest Supply stockholder would receive approximately 0.9564
+shares of our common stock for each share of Guest Supply common stock. We urge
+you to obtain a current quote for our shares. Our obligation to exchange our
+common stock is subject to the conditions listed under "The Offer -- Conditions
+of the Offer." Our common stock trades on the NYSE under the symbol "SYY." Guest
+Supply common stock trades on the NYSE under the symbol "GSY."
 
      SEE "RISK FACTORS" BEGINNING ON PAGE 18 FOR A DISCUSSION OF FACTORS THAT
 YOU SHOULD CONSIDER IN CONNECTION WITH THE OFFER.
@@ -236,7 +209,7 @@ COMMISSION HAS APPROVED OR DISAPPROVED OF THESE SECURITIES OR PASSED UPON THE
 ADEQUACY OR ACCURACY OF THIS PROSPECTUS. ANY REPRESENTATION TO THE CONTRARY IS A
 CRIMINAL OFFENSE.
 
-                The date of this prospectus is February 5, 2001
+                 The date of this prospectus is March   , 2001
 
                                
 
@@ -336,9 +309,10 @@ upon written or oral request to the information agent for the offer.
                                or call toll free
                                  (800) 322-2885
 
-  YOU MUST MAKE YOUR REQUEST FOR INFORMATION NO LATER THAN FEBRUARY 26, 2001.
+  YOU MUST MAKE YOUR REQUEST FOR INFORMATION NO LATER THAN FIVE BUSINESS DAYS
+                       PRIOR TO EXPIRATION OF THE OFFER.
 
-                                       ii
+                                        ii
 
               QUESTIONS AND ANSWERS ABOUT THE PROPOSED COMBINATION
 
@@ -433,9 +407,9 @@ A:    Yes. Guest Supply has received an opinion from U.S. Bancorp Piper Jaffray,
       the exchange ratio to be established pursuant to the merger agreement is
       fair to the Guest Supply stockholders from a financial point of view. This
       opinion is included as an exhibit to Guest Supply's Schedule 14D-9 dated
-      February 5, 2001, which is being mailed to Guest Supply stockholders
-      together with this prospectus, and Guest Supply stockholders are urged to
-      read such opinion in its entirety, including the assumptions, factors and
+      February 5, 2001, which was mailed to Guest Supply stockholders together
+      with this prospectus, and Guest Supply stockholders are urged to read such
+      opinion in its entirety, including the assumptions, factors and
       limitations contained therein.
 
 Q:    HAVE ANY GUEST SUPPLY STOCKHOLDERS AGREED TO TENDER THEIR SHARES?
@@ -451,7 +425,8 @@ A:    Yes. Directors and executive officers, who collectively hold approximately
       1934. Shares deemed beneficially owned include those subject to options
       and warrants exercisable at January 22, 2001, and those exercisable within
       60 days thereafter. In addition, they have agreed to tender all shares not
-      sold into the public market.
+      sold into the public market. As of February 26, 2001, they had sold 82,500
+      shares.
 
 Q:    WHAT PERCENTAGE OF OUR COMMON STOCK WILL GUEST SUPPLY STOCKHOLDERS OWN
       AFTER THE OFFER AND THE MERGER?
@@ -487,11 +462,12 @@ A:    Completion of the offer is subject to the following conditions:
         decree shall have been enacted, entered, promulgated or enforced by any
         governmental authority making illegal or otherwise prohibiting the
         completion of the offer or the merger in the United States, Canada or
-        England and no action or proceeding before any governmental authority in
-        the United States by any
+        England
 
-governmental authority in the United States that seeks to restrain or prohibit
-the offer or the merger shall have been instituted;
+        and no action or proceeding before any governmental authority in the
+        United States by any governmental authority in the United States that
+        seeks to restrain or prohibit the offer or the merger shall have been
+        instituted;
 
       - the fairness opinion of U.S. Bancorp Piper Jaffray shall not have been
         modified or withdrawn;
@@ -621,8 +597,8 @@ incorporated by reference:
      - SYSCO's Annual Report on Form 10-K for the fiscal year ended July 1,
        2000;
 
-     - SYSCO's Quarterly Report on Form 10-Q for the quarter ended September 30,
-       2000;
+     - SYSCO's Quarterly Reports on Form 10-Q for the quarters ended September
+       30, 2000 and December 30, 2000;
 
      - SYSCO's Current Report on Form 8-K filed on August 3, 2000;
 
@@ -636,7 +612,11 @@ incorporated by reference:
 
      - SYSCO's Current Reports on Form 8-K filed on January 22, 2001;
 
-     - SYSCO's Current Report on Form 8-K filed on January 23, 2001; and
+     - SYSCO's Current Report on Form 8-K filed on January 23, 2001;
+
+     - SYSCO's Current Report on Form 8-K filed on February 5, 2001;
+
+     - SYSCO's Current Report on Form 8-K filed on March 1, 2001; and
 
      - The description of SYSCO's common stock contained in SYSCO's registration
        statement on Form 8-A filed under Section 12 of the Securities Exchange
@@ -654,11 +634,16 @@ incorporated by reference:
      - Guest Supply's Amended Annual Report on Form 10-K/A for the fiscal year
        ended September 29, 2000;
 
+     - Guest Supply's Quarterly Report on Form 10-Q, as amended, for the quarter
+      ended December 29, 2000;
+
      - Guest Supply's Current Report on Form 8-K filed on December 19, 2000;
 
      - Guest Supply's Current Report on Form 8-K filed on January 24, 2001;
 
-     - Guest Supply's Current Report on Form 8-K filed on January 31, 2001; and
+     - Guest Supply's Current Report on Form 8-K filed on January 31, 2001;
+
+     - Guest Supply's Current Report on Form 8-K filed on February 1, 2001; and
 
      - The description of Guest Supply common stock contained in the
        registration statement on Form 8-A filed under Section 12 of the
@@ -677,10 +662,11 @@ deemed to be incorporated in this prospectus by reference.
      DOCUMENTS INCORPORATED BY REFERENCE ARE AVAILABLE, WITHOUT EXHIBITS,
 WITHOUT CHARGE UPON REQUEST TO OUR INFORMATION AGENT, MACKENZIE PARTNERS, (212)
 929-5500 OR CALL TOLL FREE AT (800) 322-2885. IN ORDER TO ENSURE TIMELY
-DELIVERY, ANY REQUEST FOR DOCUMENTS SHOULD BE SUBMITTED NO LATER THAN FEBRUARY
-26, 2001. IF YOU REQUEST ANY INCORPORATED DOCUMENTS FROM US, WE WILL MAIL THEM
-TO YOU BY FIRST CLASS MAIL, OR ANOTHER EQUALLY PROMPT MEANS, WITHIN ONE BUSINESS
-DAY AFTER WE RECEIVE YOUR REQUEST.
+DELIVERY, ANY REQUEST FOR DOCUMENTS SHOULD HAVE BEEN SUBMITTED NO LATER THAN
+FIVE BUSINESS DAYS PRIOR TO THE EXPIRATION OF THE OFFER. IF YOU REQUEST ANY
+INCORPORATED DOCUMENTS FROM US, WE WILL MAIL THEM TO YOU BY FIRST CLASS MAIL, OR
+ANOTHER EQUALLY PROMPT MEANS, WITHIN ONE BUSINESS DAY AFTER WE RECEIVE YOUR
+REQUEST.
 
      We have not authorized anyone to give any information or make any
 representation about our offer that is different from, or in addition to, that
@@ -705,9 +691,7 @@ statements. Forward-looking statements may be identified by such words as
 "could," "may," "might," "will," "would," "shall," "should," "pro forma,"
 "potential," "pending," "plans," "anticipates," "believes," "estimates,"
 "expects," "intends" or similar expressions, including the negative of any of
-the foregoing. For those statements, we claim the protection of the safe harbor
-for forward-looking statements to the extent permitted by the Private Securities
-Litigation Reform Act of 1995.
+the foregoing.
 
      In making these forward-looking statements, we believe that our
 expectations are based on reasonable assumptions. These statements are not meant
@@ -741,14 +725,16 @@ stock, including the associated preferred stock purchase rights. We are offering
 to exchange shares of SYSCO common stock for shares of Guest Supply common stock
 validly tendered and not properly withdrawn on or prior to the expiration date
 of the offer. The expiration date of the offer is currently March 5, 2001. We
-may extend or may be obligated to extend the expiration date of the offer under
-the circumstances as described in "The Offer -- Extension, Subsequent Offering
-Period, Termination and Amendment" on page 26. We intend, promptly after
-completion of the offer, to merge Sysco Food Services of New Jersey, our wholly
-owned subsidiary, with and into Guest Supply. Each share of Guest Supply common
-stock which has not been exchanged or accepted for exchange in the offer will be
-converted in the merger into SYSCO shares at the same exchange ratio used in the
-offer.
+have also elected to provide a subsequent offering period of five business days
+beginning the day after the expiration of the offer. We may extend or may be
+obligated to extend the expiration date of the offer and may extend the
+subsequent offering period under the circumstances as described in "The
+Offer -- Extension, Subsequent Offering Period, Termination and Amendment" on
+page 26. We intend, promptly after completion of the offer, to merge Sysco Food
+Services of New Jersey, our wholly owned subsidiary, with and into Guest Supply.
+Each share of Guest Supply common stock which has not been exchanged or accepted
+for exchange in the offer will be converted in the merger into SYSCO shares at
+the same exchange ratio used in the offer.
 
 THE COMPANIES
 
@@ -906,9 +892,10 @@ fractional common shares otherwise issuable to them.
 merger will be listed on the NYSE.
 
      Timing Of The Offer.  Our offer is currently scheduled to expire on March
-5, 2001, but may, in some cases, be extended as described below. See "The
-Offer -- Extension, Subsequent Offering Period, Termination and Amendment" on
-page 26.
+5, 2001, but may, in some cases, be extended as described below. In addition, we
+have elected to provide a subsequent offering period of five business days to
+begin the day after the expiration of the offer. See "The Offer -- Extension,
+Subsequent Offering Period, Termination and Amendment" on page 26.
 
      Extension, Subsequent Offering Period, Termination And Amendment.  The
 offer is scheduled to expire on March 5, 2001. We are required to complete the
@@ -920,15 +907,15 @@ offer in increments of up to 10 business days until the earlier of April 30,
 have been satisfied or waived. Finally, we may extend the offer as required to
 comply with SEC rules and regulations.
 
-     In addition, we may also elect to provide a subsequent offering period as
+     In addition, we have elected to provide a subsequent offering period as
 described below.
 
      During any extension of the initial offering period (but excluding the
-subsequent offering period, if any), all Guest Supply shares previously tendered
-and not properly withdrawn will remain tendered, subject to the right to
-withdraw them. We will accept and pay for all shares tendered and not withdrawn
-as soon as practicable following the expiration date of the offer, if the
-minimum tender condition and all other conditions have been satisfied or waived.
+subsequent offering period), all Guest Supply shares previously tendered and not
+properly withdrawn will remain tendered, subject to the right to withdraw them.
+We will accept and pay for all shares tendered and not withdrawn promptly
+following the expiration date of the offer, if the minimum tender condition and
+all other conditions have been satisfied or waived.
 
      Without the prior written consent of Guest Supply, we may not:
 
@@ -948,15 +935,9 @@ minimum tender condition and all other conditions have been satisfied or waived.
      - extend the expiration date of the offer except as discussed above.
 
      Subject to the SEC's rules and regulations and the terms of the merger
-agreement, we also reserve the right:
-
-     - to delay acceptance or exchange, prior to payment, of any Guest Supply
-       shares pursuant to the offer upon the failure of any of the conditions of
-       the offer to be satisfied; and
-
-     - to terminate the offer and not accept or exchange any Guest Supply shares
-       not previously accepted or exchanged upon the failure of any of the
-       conditions of the offer to be satisfied.
+agreement, we also reserve the right to terminate the offer and not accept or
+exchange any Guest Supply shares not previously accepted or exchanged upon the
+failure of any of the conditions of the offer to be satisfied.
 
      If, on April 30, 2001, SYSCO has not completed the offer in accordance with
 the terms of the merger agreement, SYSCO will terminate the offer without
@@ -968,13 +949,14 @@ been validly tendered by April 30, 2001, we will terminate the offer and will
 seek to complete the merger. Immediately following any extension, delay,
 termination or amendment, we will make a public announcement of the same.
 
-     Subsequent Offering Period. We may, although we do not currently intend to,
-elect to provide a subsequent offering period of three to 20 business days after
-the acceptance of and payment for Guest Supply shares in the initial offering
-period if the requirements under Exchange Act Rule 14d-11 have been met. The
-exchange ratio will be the same as in the initial offering period. You will not
-have the right to withdraw Guest Supply shares that you tender in the subsequent
-offering period, if any.
+     Subsequent Offering Period. We have elected to provide a subsequent
+offering period of five business days after the acceptance of and payment for
+Guest Supply shares in the initial offering period. We may elect to extend the
+subsequent offering period for up to an additional 15 business days if the
+requirements under Exchange Act Rule 14d-11 have been met. The exchange ratio
+will be the same as in the initial offering period. You will not have the right
+to withdraw Guest Supply shares that you tender in the subsequent offering
+period, if any.
 
      Exchange of Shares.  You will receive our common stock for each share of
 Guest Supply common stock you tender in the offer as described on the cover page
@@ -995,9 +977,9 @@ to various conditions described below under "The Offer -- Conditions of the
 Offer."
 
      Withdrawal Rights.  Guest Supply shares tendered pursuant to the offer may
-be withdrawn at any time prior to the expiration date of the offer. If we elect
-to provide a subsequent offering period, you will not have the right to withdraw
-Guest Supply shares that you tender in the subsequent offering period.
+be withdrawn at any time prior to the expiration date of the offer. During the
+subsequent offering period, you will not have the right to withdraw Guest Supply
+shares that you tender in the subsequent offering period.
 
      For your withdrawal to be effective, the exchange agent must receive from
 you a written or facsimile transmission notice of withdrawal at its address set
@@ -1006,8 +988,9 @@ name, address, social security number, the certificate number(s), the number of
 Guest Supply shares to be withdrawn and the name of the registered holder, if
 different from you.
 
-     No Appraisal Rights. Under New Jersey law, neither the offer nor the merger
-entitles you to appraisal rights with respect to your Guest Supply shares.
+     No Dissenters Rights. Under New Jersey law, neither the offer nor the
+merger entitles you to dissenters rights with respect to your Guest Supply
+shares.
 
      Procedure for Tendering Shares.  For you to validly tender Guest Supply
 shares pursuant to our offer, either:
@@ -1070,9 +1053,10 @@ and the merger should qualify as a reorganization if:
 
      If the offer and the merger qualify as a reorganization, no gain or loss
 will be recognized for U.S. federal income tax purposes, and no U.S. federal
-income tax will be payable, by a Guest Supply stockholder upon receipt of our
-stock in the offer or the merger, except for cash received in lieu of any
-fraction of a SYSCO share.
+income tax will be payable, by a Guest Supply
+
+stockholder upon receipt of our stock in the offer or the merger, except for
+cash received in lieu of any fraction of a SYSCO share.
 
      The above-described tax treatment of the offer and the merger to Guest
 Supply stockholders depends on some facts that will not be known before the
@@ -1106,10 +1090,10 @@ financial advisor, U.S. Bancorp Piper Jaffray, to the effect that, as of January
 limitations set forth in their opinion, the exchange ratio to be established
 pursuant to the merger agreement is fair to the Guest Supply stockholders, from
 a financial point of view. A copy of the U.S. Bancorp Piper Jaffray fairness
-opinion is attached as an exhibit to Guest Supply's Schedule 14D-9, which is
-being mailed to Guest Supply stockholders together with this prospectus, and
-Guest Supply stockholders are urged to read such opinion in its entirety,
-including the assumptions, factors and limitations contained therein.
+opinion is attached as an exhibit to Guest Supply's Schedule 14D-9, which was
+mailed to Guest Supply stockholders together with a preliminary version of this
+prospectus, and Guest Supply stockholders are urged to read such opinion in its
+entirety, including the assumptions, factors and limitations contained therein.
 
 INTERESTS OF GUEST SUPPLY'S OFFICERS AND DIRECTORS IN THE MERGER
 
@@ -1124,11 +1108,11 @@ PRO FORMA FINANCIAL INFORMATION
      The purpose of pro forma financial information in a merger context is to
 determine any effect the merger will have on our net income and earnings per
 share. The differences between SYSCO's unaudited pro forma combined basic and
-diluted earnings per share for the fiscal year ended July 1, 2000 and the
-thirteen weeks ended September 30, 2000 after giving effect to the merger were
-de minimis as compared to SYSCO's reported earnings per share for those periods.
-The unaudited pro forma effect of the merger on SYSCO's net earnings for those
-periods and on total assets as of September 30, 2000 was de minimis. The
+diluted earnings per share for the fiscal year ended July 1, 2000 and the 26
+weeks ended December 30, 2000 after giving effect to the merger were de minimis
+as compared to SYSCO's reported earnings per share for those periods. The
+unaudited pro forma effect of the merger on SYSCO's net earnings for those
+periods and on total assets as of December 30, 2000 was de minimis. The
 unaudited pro forma combined financial information includes the estimated
 allocation of the purchase price to the assets acquired and liabilities assumed
 based on preliminary estimates of fair value and may be revised as additional
@@ -1139,79 +1123,79 @@ COMPARATIVE PER SHARE DATA
 
      The comparative per share data shows how each share of Guest Supply common
 stock that you hold would have participated in the income from continuing
-operations, cash dividends and book value of
+operations, cash dividends and book value of SYSCO if the merger had been
+effective as of the dates below, and should be taken into account in valuing the
+SYSCO stock to be received in the offer and the merger. However, these amounts
+do not
 
-SYSCO if the merger had been effective as of the dates below, and should be
-taken into account in valuing the SYSCO stock to be received in the offer and
-the merger. However, these amounts do not necessarily reflect future per share
-levels of income from continuing operations, cash dividends and book value of
-SYSCO.
+necessarily reflect future per share levels of income from continuing
+operations, cash dividends and book value of SYSCO.
 
      SYSCO and Guest Supply have summarized below per share information for
 SYSCO and Guest Supply on a historical and equivalent pro forma basis. Guest
 Supply's earnings and cash dividends per share equivalents assume the merger had
 occurred at July 3, 1999 (the beginning of Guest Supply's
 52-week period ended June 30, 2000), and the book value per share equivalents
-assume the merger had occurred as of September 29, 2000, and are calculated by
+assume the merger had occurred as of December 29, 2000, and are calculated by
 multiplying the SYSCO unaudited pro forma per share amounts by an exchange ratio
-of 1.0196, which is based on an average SYSCO closing price calculated assuming
-that the expiration date of the offer was January 31, 2001.
+of 0.9564, which is based on an average SYSCO closing price calculated assuming
+that the expiration date of the offer will be March 5, 2001.
 
                         SYSCO CORPORATION -- HISTORICAL
 
                                                                 AT AND FOR THE     AT AND FOR THE
-                                                                   13 WEEKS         FISCAL YEAR
+                                                                   26 WEEKS         FISCAL YEAR
                                                                     ENDED              ENDED
-                                                              SEPTEMBER 30, 2000    JULY 1, 2000
+                                                              DECEMBER 30, 2000     JULY 1, 2000
                                                               ------------------   --------------
 
 Per Share Data(1):
 Income from continuing operations per common share
-  Basic.....................................................        $0.22              $0.69
-  Diluted...................................................        $0.21              $0.68
-Cash dividends per common share.............................        $0.06              $0.22
-Book value per common share.................................        $2.82              $2.66
+  Basic.....................................................        $0.43              $0.69
+  Diluted...................................................        $0.42              $0.68
+Cash dividends per common share.............................        $0.12              $0.22
+Book value per common share.................................        $2.77              $2.66
 
                         GUEST SUPPLY, INC. -- HISTORICAL
 
                                                                 AT AND FOR THE     AT AND FOR THE
-                                                                   13 WEEKS           52 WEEKS
+                                                                   26 WEEKS           52 WEEKS
                                                                     ENDED              ENDED
-                                                              SEPTEMBER 29, 2000   JUNE 30, 2000
+                                                              DECEMBER 29, 2000    JUNE 30, 2000
                                                               ------------------   --------------
 
 Per Share Data:
 Income from continuing operations per common share
-  Basic(2)..................................................        $ 0.59             $1.50
-  Diluted(2)................................................        $ 0.54             $1.35
+  Basic(2)..................................................        $ 1.04             $1.50
+  Diluted(2)................................................        $ 0.94             $1.35
 Cash dividends per common share(2)..........................        $   --             $  --
-Book value per common share.................................        $10.27             $9.70
+Book value per common share.................................        $10.70             $9.70
 
              GUEST SUPPLY, INC. -- PRO FORMA PER SHARE EQUIVALENTS
 
                                                                 AT AND FOR THE     AT AND FOR THE
-                                                                   13 WEEKS           52 WEEKS
+                                                                   26 WEEKS           52 WEEKS
                                                                     ENDED              ENDED
-                                                              SEPTEMBER 29, 2000   JUNE 30, 2000
+                                                              DECEMBER 29, 2000    JUNE 30, 2000
                                                               ------------------   --------------
 
 Per Share Data:
 Income from continuing operations per common share
-  Basic(2)..................................................        $ 0.60             $1.53
-  Diluted(2)................................................        $ 0.55             $1.38
-Cash dividends per common share(2)..........................        $   --             $  --
-Book value per common share.................................        $10.47             $9.89
+  Basic(2)..................................................        $ 0.41             $0.66
+  Diluted(2)................................................        $ 0.40             $0.65
+Cash dividends per common share(2)..........................        $ 0.11             $0.21
+Book value per common share.................................        $ 2.65             $2.54
 
 - ---------------
 
-(1) Per share information has been adjusted to reflect the 2-for-1 stock splits
+(1) Per share information has been adjusted to reflect the 2-for-1 stock split
     effected on December 15, 2000.
 
 (2) Guest Supply's fiscal year ended September 29, 2000. To conform Guest
     Supply's historical information to SYSCO's fiscal year end, the applicable
     quarterly historical financial statements were combined to present the
-    information for the 52 weeks ended June 30, 2000 and the 13 weeks ended
-    September 29, 2000. SYSCO's fiscal year ends on the Saturday closest to June
+    information for the 52 weeks ended June 30, 2000 and the 26 weeks ended
+    December 29, 2000. SYSCO's fiscal year ends on the Saturday closest to June
     30 of each year and Guest Supply's fiscal year ends on the Friday closest to
     September 30 of each year.
 
@@ -1221,20 +1205,20 @@ COMPARATIVE PER SHARE MARKET PRICE INFORMATION
 under the symbols "SYY" and "GSY," respectively. On January 22, 2001, the last
 full trading day before the public announcement of the proposed merger, the last
 sale price per SYSCO common share on the NYSE was $24.50 and the last sale price
-per Guest Supply common share on the NYSE was $18.50. On February 1, 2001, the
+per Guest Supply common share on the NYSE was $18.50. On February 28, 2001, the
 most recent practicable date prior to the filing of this document, the last sale
-price per SYSCO common share on the NYSE was $27.30 and the last sale price per
-Guest Supply common share on the NYSE was $25.51.
+price per SYSCO common share on the NYSE was $27.26 and the last sale price per
+Guest Supply common share on the NYSE was $25.85.
 
                HISTORICAL MARKET PRICES OF SYSCO AND GUEST SUPPLY
 
-     The tables below set forth the (1) high and low sales prices per share for
-SYSCO common stock, as reported on The New York Stock Exchange Composite Tape,
-and the cash dividends paid on SYSCO common stock, adjusted for the 2-for-1
-stock splits effected by a 100% stock dividend paid on March 20, 1998 and
-December 15, 2000, and (2) high and low sales prices per share for Guest Supply
-common stock, as reported on The New York Stock Exchange Composite Tape. Guest
-Supply has never declared dividends on its common stock.
+     The tables below set forth for the periods presented the (1) high and low
+sales prices per share for SYSCO common stock, as reported on The New York Stock
+Exchange Composite Tape, and the cash dividends paid on SYSCO common stock,
+adjusted for the 2-for-1 stock splits effected by a 100% stock dividend paid on
+March 20, 1998 and December 15, 2000, and (2) high and low sales prices per
+share for Guest Supply common stock, as reported on The New York Stock Exchange
+Composite Tape. Guest Supply has never declared dividends on its common stock.
 
                                      SYSCO
 
@@ -1298,8 +1282,8 @@ which were owned by 437 holders of record.
 SYSCO. The income statement data for fiscal years 1996 through 2000 and the
 balance sheet data as of the end of each such fiscal year have been derived from
 the audited financial statements of SYSCO incorporated by reference in this
-prospectus. The selected consolidated financial data for the 13 weeks ended
-September 30, 2000 and October 2, 1999 have been derived from SYSCO's unaudited
+prospectus. The selected consolidated financial data for the 26 weeks ended
+December 30, 2000 and January 1, 2000 have been derived from SYSCO's unaudited
 consolidated financial statements and includes, in the opinion of management of
 SYSCO, all adjustments, consisting only of normal recurring adjustments,
 necessary to present fairly the data for these periods. The financial data
@@ -1311,61 +1295,67 @@ on file with the SEC and incorporated herein by reference. See "Where You Can
 Find More Information" on page 5.
 
                                                                                FISCAL YEAR ENDED
-                               13-WEEKS ENDED                            (SATURDAY CLOSEST TO JUNE 30)
-                         --------------------------   -------------------------------------------------------------------
-                         SEPTEMBER 30,   OCTOBER 2,                    1999
-                             2000           1999         2000       (53 WEEKS)       1998          1997          1996
-                         -------------   ----------   -----------   -----------   -----------   -----------   -----------
-                                (UNAUDITED)
+                               26-WEEKS ENDED                            (SATURDAY CLOSEST TO JUNE 30)
+                          -------------------------   -------------------------------------------------------------------
+                          DECEMBER 30,   JANUARY 1,                    1999
+                              2000          2000         2000       (53 WEEKS)       1998          1997          1996
+                          ------------   ----------   -----------   -----------   -----------   -----------   -----------
+                                 (UNAUDITED)
                                              (IN THOUSANDS EXCEPT FOR PER SHARE DATA AND PERCENTAGES)
 
 INCOME STATEMENT DATA
-Sales..................   $5,360,174     $4,657,034   $19,303,268   $17,422,815   $15,327,536   $14,454,589   $13,395,130
+Sales...................  $10,650,704    $9,308,569   $19,303,268   $17,422,815   $15,327,536   $14,454,589   $13,395,130
+Gross profit............    2,076,933     1,743,371     3,653,717     3,214,955     2,827,900     2,618,630     2,411,334
 Earnings before income
-  taxes................      233,125        171,835       737,608       593,887       532,493       495,955       453,943
-Income taxes...........       89,170         66,156       283,979       231,616       207,672       193,422       177,038
-                          ----------     ----------   -----------   -----------   -----------   -----------   -----------
+  taxes.................      458,914       337,520       737,608       593,887       532,493       495,955       453,943
+Income taxes............      175,535       129,945       283,979       231,616       207,672       193,422       177,038
+                          -----------    ----------   -----------   -----------   -----------   -----------   -----------
 Earnings before
   cumulative effect of
-  accounting change....      143,955        105,679       453,629       362,271       324,821       302,533       276,905
+  accounting change.....      283,379       207,575       453,629       362,271       324,821       302,533       276,905
 Cumulative effect of
-  accounting change....           --         (8,041)       (8,041)           --       (28,053)           --            --
-                          ----------     ----------   -----------   -----------   -----------   -----------   -----------
-        Net earnings...   $  143,955     $   97,638   $   445,588   $   362,271   $   296,768   $   302,533   $   276,905
-                          ==========     ==========   ===========   ===========   ===========   ===========   ===========
+  accounting change.....           --        (8,041)       (8,041)           --       (28,053)           --            --
+                          -----------    ----------   -----------   -----------   -----------   -----------   -----------
+        Net earnings....  $   283,379    $  199,534   $   445,588   $   362,271   $   296,768   $   302,533   $   276,905
+                          ===========    ==========   ===========   ===========   ===========   ===========   ===========
 Earnings before
   accounting change:(1)
   Basic earnings per
-    share..............   $     0.22     $     0.16   $      0.69   $      0.54   $      0.48   $      0.43   $      0.38
+    share...............  $      0.43    $     0.32   $      0.69   $      0.54   $      0.48   $      0.43   $      0.38
   Diluted earnings per
-    share..............   $     0.21     $     0.16   $      0.68   $      0.54   $      0.47   $      0.42   $      0.38
+    share...............  $      0.42    $     0.31   $      0.68   $      0.54   $      0.47   $      0.42   $      0.38
 Cumulative effect of
   accounting change:(1)
   Basic earnings per
-    share..............   $       --     $    (0.01)  $     (0.01)  $        --   $     (0.04)  $        --   $        --
+    share...............  $        --    $    (0.01)  $     (0.01)  $        --   $     (0.04)  $        --   $        --
   Diluted earnings per
-    share..............   $       --     $    (0.01)  $     (0.01)  $        --   $     (0.04)  $        --   $        --
+    share...............  $        --    $    (0.01)  $     (0.01)  $        --   $     (0.04)  $        --   $        --
 Net earnings(1)
   Basic earnings per
-    share..............   $     0.22     $     0.15   $      0.68   $      0.54   $      0.44   $      0.43   $      0.38
+    share...............  $      0.43    $     0.30   $      0.68   $      0.54   $      0.44   $      0.43   $      0.38
   Diluted earnings per
-    share..............   $     0.21     $     0.15   $      0.67   $      0.54   $      0.43   $      0.42   $      0.38
+    share...............  $      0.42    $     0.30   $      0.67   $      0.54   $      0.43   $      0.42   $      0.38
 Cash dividends per
-  share(1).............   $     0.06     $     0.05   $      0.22   $      0.19   $      0.17   $      0.14   $      0.12
+  share(1)..............  $      0.12    $     0.10   $      0.22   $      0.19   $      0.17   $      0.14   $      0.12
 
-                         SEPTEMBER 30,   OCTOBER 2,     JULY 1,       JULY 3,      JUNE 27,      JUNE 28,      JUNE 29,
-                             2000           1999         2000          1999          1998          1997          1996
-                         -------------   ----------   -----------   -----------   -----------   -----------   -----------
+                          DECEMBER 30,   JANUARY 1,     JULY 1,       JULY 3,      JUNE 27,      JUNE 28,      JUNE 29,
+                              2000          2000         2000          1999          1998          1997          1996
+                          ------------   ----------   -----------   -----------   -----------   -----------   -----------
 
 BALANCE SHEET AND OTHER
   DATA
-Total assets...........   $4,931,510     $4,398,000   $ 4,813,955   $ 4,096,582   $ 3,780,189   $ 3,433,823   $ 3,319,943
-Capital expenditures...   $   70,750     $   59,266   $   266,413   $   286,687   $   259,353   $   210,868   $   235,891
-Long term debt.........   $  874,883     $1,055,168   $ 1,023,642   $   997,717   $   867,017   $   685,620   $   581,734
-Shareholders' equity...   $1,874,647     $1,435,901   $ 1,761,568   $ 1,427,196   $ 1,356,789   $ 1,400,472   $ 1,474,678
-Total capitalization...   $2,749,530     $2,491,069   $ 2,785,210   $ 2,424,913   $ 2,223,806   $ 2,086,092   $ 2,056,412
+Current assets..........   $2,830,462    $2,576,098   $ 2,733,215   $ 2,408,767   $ 2,180,067   $ 1,961,629   $ 1,916,865
+Noncurrent assets.......   $2,157,856    $1,842,365   $ 2,080,740   $ 1,687,815   $ 1,600,122   $ 1,472,194   $ 1,403,078
+Total assets............   $4,988,318    $4,418,463   $ 4,813,955   $ 4,096,582   $ 3,780,189   $ 3,433,823   $ 3,319,943
+Capital expenditures....   $  159,357    $  126,319   $   266,413   $   286,687   $   259,353   $   210,868   $   235,891
+Current liabilities.....   $1,835,887    $1,554,788   $ 1,782,935   $ 1,427,540   $ 1,324,190   $ 1,113,814   $ 1,037,524
+Long term debt..........   $1,069,355    $1,132,976   $ 1,023,642   $   997,717   $   867,017   $   685,620   $   581,734
+Noncurrent
+  liabilities...........   $1,312,851    $1,362,223   $ 1,269,452   $ 1,241,846   $ 1,099,210   $   919,537   $   807,741
+Shareholders' equity....   $1,839,580    $1,501,452   $ 1,761,568   $ 1,427,196   $ 1,356,789   $ 1,400,472   $ 1,474,678
+Total capitalization....   $2,908,935    $2,634,428   $ 2,785,210   $ 2,424,913   $ 2,223,806   $ 2,086,092   $ 2,056,412
 Ratio of long-term debt
-  to capitalization....         31.8%          42.4%         36.8%         41.1%         39.0%         32.9%         28.3%
+  to capitalization.....         36.8%           43%         36.8%         41.1%         39.0%         32.9%         28.3%
 
 - ---------------
 
@@ -1374,38 +1364,50 @@ Ratio of long-term debt
 
             GUEST SUPPLY SELECTED CONSOLIDATED FINANCIAL INFORMATION
 
-     The following selected historical financial data should be read in
-conjunction with Guest Supply's financial statements incorporated by reference
-in this prospectus. The income statement data for fiscal years 1998 through 2000
+     The following selected historical consolidated financial data should be
+read in conjunction with Guest Supply's consolidated financial statements
+incorporated by reference in this prospectus. The income statement data for
+fiscal years 1998 through 2000 and the balance sheet data as of the end of each
+such fiscal year have been derived from Guest Supply's audited consolidated
+financial statements. The income statement data for fiscal years 1996 and 1997
 and the balance sheet data as of the end of each such fiscal year have been
-derived from Guest Supply's audited financial statements. The income statement
-data for fiscal years 1996 and 1997 and the balance sheet data as of the end of
-each such fiscal year have been derived from Guest Supply's audited financial
-statements as adjusted for the reclassifications as indicated in footnote (1)
-below.
+derived from Guest Supply's audited consolidated financial statements as
+adjusted for the reclassifications as indicated in footnote (1) below. The
+selected consolidated financial data for the 13 weeks ended December 29, 2000
+and December 31, 1999 have been derived from Guest Supply's unaudited
+consolidated financial statements and include, in the opinion of management of
+Guest Supply, all adjustments, consisting only of normal recurring adjustments,
+necessary to present fairly the data for these periods. The consolidated
+financial data included herein may not necessarily be indicative of the
+financial position or results of operations of Guest Supply in the future.
 
-                                                                                FISCAL YEAR ENDED
-                                                                         (FRIDAY CLOSEST TO SEPTEMBER 30)
-                                                               ----------------------------------------------------
-                                                                 2000       1999       1998       1997       1996
-                                                               --------   --------   --------   --------   --------
-                                                                    (IN THOUSANDS, EXCEPT FOR PER SHARE DATA)
+                                          13-WEEKS ENDED                           FISCAL YEAR ENDED
+                                    ---------------------------             (FRIDAY CLOSEST TO SEPTEMBER 30)
+                                    DECEMBER 29,   DECEMBER 31,   ----------------------------------------------------
+                                        2000           1999         2000       1999       1998       1997       1996
+                                    ------------   ------------   --------   --------   --------   --------   --------
+                                                        (IN THOUSANDS, EXCEPT FOR PER SHARE DATA)
 
 INCOME STATEMENT DATA
-Sales(1)....................................................   $365,928   $303,301   $235,042   $199,551   $177,659
-Gross Profit(1).............................................     76,664     61,739     45,530     41,418     36,571
-Selling, General and Administrative Expenses(1).............     55,994     46,183     37,481     32,636     29,492
-Operating Income............................................     20,670     15,556      8,049      8,782      7,079
-Net Income..................................................     10,448      7,708      3,633      3,816      3,151
+Sales(1).........................     $ 90,314       $ 79,909     $365,928   $303,301   $235,042   $199,551   $177,659
+Gross profit(1)..................       19,706         17,145       76,664     61,739     45,530     41,418     36,571
+Selling, general and
+  administrative expenses(1).....       14,848         13,199       55,994     46,183     37,481     32,636     29,492
+Operating income.................        4,858          3,946       20,670     15,556      8,049      8,782      7,079
+Net income.......................        2,968          1,822       10,448      7,708      3,633      3,816      3,151
 BALANCE SHEET DATA
-Working Capital.............................................     59,399     52,240     43,330     39,626     35,223
-Total Assets................................................    174,771    161,257    118,107    112,669    102,888
-Total Long-Term Liabilities.................................     49,261     50,568     30,996     32,642     28,292
-Total Liabilities...........................................    106,747    101,790     66,122     66,072     60,485
-Total Shareholders' Equity..................................     68,024     59,467     51,985     46,597     42,403
+Working capital..................       64,363         55,828       59,399     52,240     43,330     39,626     35,223
+Current assets...................      114,809        105,944      116,885    103,462     78,456     73,056     67,416
+Noncurrent assets................       59,630         58,014       57,886     57,795     39,651     39,613     35,472
+Total assets.....................      174,439        163,958      174,771    161,257    118,107    112,669    102,888
+Current liabilities..............       50,446         50,116       57,486     51,222     35,126     33,430     32,193
+Total long-term liabilities......       52,943         56,218       49,261     50,568     30,996     32,642     28,292
+Total liabilities................      103,389        106,334      106,747    101,790     66,122     66,072     60,485
+Total shareholders' equity.......       71,050         57,624       68,024     59,467     51,985     46,597     42,403
 COMMON SHARES DATA
-Diluted Earnings Per Share..................................   $   1.44   $   1.10   $   0.51   $   0.55   $   0.45
-Book Value Per Share........................................   $  10.27   $   9.04   $   7.95   $   7.53   $   6.89
+Basic earnings per share.........     $   0.45       $   0.28     $   1.60   $   1.19   $   0.56   $   0.62   $   0.51
+Diluted earnings per share.......     $   0.41       $   0.26     $   1.44   $   1.10   $   0.51   $   0.55   $   0.45
+Book value per share.............     $  10.70       $   9.14     $  10.27   $   9.04   $   7.95   $   7.53   $   6.89
 
 - ---------------
 
@@ -1653,21 +1655,46 @@ been financially beneficial to SYSCO's stockholders.
 
      In early 2000, Guest Supply's management concluded that a combination of
 Guest Supply with another large company in a complementary industry was likely
-to result in the greatest value for Guest Supply's stockholders as compared to
-leaving Guest Supply as a stand-alone company.
+to result in the greatest value for Guest Supply shareholders as compared to
+leaving Guest Supply as a stand-alone company. Guest Supply's management reached
+this conclusion based on a number of factors including that Guest Supply, as a
+stand-alone microcap company, had no meaningful research coverage by securities
+analysts, provided limited liquidity to its shareholders due to the lack of
+trading volume in Guest Supply common stock and, like many microcap companies,
+was experiencing, over time, a decline in the earnings multiple at which the
+Guest Supply common stock traded despite improved earnings performance for Guest
+Supply. The prospect of a combination with a larger company in a complementary
+industry appeared to offer the prospect of maximizing value and liquidity for
+Guest Supply's shareholders. While Guest Supply's management considered other
+options such as combining with a company of comparable size, commencing a
+broad-based share repurchase plan, effecting a divestiture of assets, pursuing
+acquisitions with a view to creating greater size and scale for Guest Supply, or
+undertaking a management-led leveraged buy-out with a financial partner, Guest
+Supply's management and board of directors concluded that combining with a
+larger company in a complementary industry would create the greatest value and
+liquidity for shareholders.
 
      Following preliminary discussions with prospective financial advisors, on
 June 19, 2000, Guest Supply engaged an investment banking firm, U.S. Bancorp
-Piper Jaffray, to represent Guest Supply in identifying and evaluating potential
-combinations.
+Piper Jaffray, to act as Guest Supply's financial advisor in connection with a
+possible sale of Guest Supply or its assets. As part of their services to Guest
+Supply, U.S. Bancorp Piper Jaffray reviewed with Guest Supply's management the
+alternatives considered by management in early 2000.
 
      Guest Supply's management and U.S. Bancorp Piper Jaffray then identified a
 number of third parties who might have an interest in combining with Guest
 Supply.
 
      Commencing in July 2000, representatives of U.S. Bancorp Piper Jaffray
-contacted numerous third parties in an effort to ascertain, on a preliminary
-basis, their level of interest in combining with Guest Supply.
+contacted 24 potential strategic acquirors and three potential financial
+acquirors in an effort to ascertain, on a preliminary basis, their level of
+interest in combining with Guest Supply. U.S. Bancorp Piper Jaffray then sent
+public investor packages to 11 potential acquirors who initially expressed
+interest in a combination with Guest Supply.
+
+     Representatives of U.S. Bancorp Piper Jaffray arranged introductory
+meetings between representatives of Guest Supply and five potential acquirors,
+including SYSCO.
 
      On July 6 and July 21, 2000, Daniel Donoghue, a managing director of U.S.
 Bancorp Piper Jaffray, telephoned John Stubblefield, Executive Vice President,
@@ -1682,15 +1709,16 @@ Supply's public investor package. Messrs. Stubblefield and Donoghue engaged in
 occasional preliminary discussions about a possible combination between July
 2000 and September 2000.
 
-     On September 19, 2000, SYSCO executed a confidentiality agreement in
-preparation for a meeting with Guest Supply's senior management team.
+     On September 19, 2000, SYSCO executed a confidentiality agreement with
+Guest Supply in preparation for a meeting with Guest Supply's senior management
+team.
 
      On September 21, 2000, U.S. Bancorp Piper Jaffray hosted an introductory
 meeting in Chicago between Guest Supply and SYSCO. Senior representatives from
 both companies attended this meeting, including Richard Schnieders, President
 and Chief Operating Officer, and Mr. Stubblefield of SYSCO, as well as Clifford
 W. Stanley, President and Chief Executive Officer, and Paul T. Xenis, Chief
-Financial Officer, of Guest Supply. Messrs. Stanley and Xenis made a slide
+Financial Officer of Guest Supply. Messrs. Stanley and Xenis made a slide
 presentation discussing Guest Supply's business, customers, industry and
 historical financial performance. After this presentation, Messrs. Stanley and
 Xenis answered questions and provided a broad overview as to how a potential
@@ -1713,17 +1741,16 @@ Financial Reporting & Compliance of SYSCO participated in a conference call with
 Messrs. Stanley and Xenis of Guest Supply to answer due diligence questions.
 SYSCO and Guest Supply also discussed the strategic and financial rationale for
 a possible transaction. In response to this call, Guest Supply sent a package of
-due diligence material to SYSCO answering several questions raised on the
+due diligence materials to SYSCO answering several questions raised on the
 conference call.
 
      On October 27, 2000, Messrs. Stubblefield and Culak of SYSCO participated
 in an additional conference call with Messrs. Stanley and Xenis of Guest Supply
-to discuss the due diligence package
-
-previously sent as well as to answer additional questions. Beginning on this
-date, and continuing until the merger agreement was signed, representatives of
-SYSCO continued their due diligence investigation of Guest Supply, including the
-exchange of information regarding the business and operations of Guest Supply.
+to discuss the due diligence package previously sent as well as to answer
+additional questions. Beginning on this date, and continuing until the merger
+agreement was signed, representatives of SYSCO continued their due diligence
+investigation of Guest Supply, including the exchange of information regarding
+the business and operations of Guest Supply.
 
      On November 20, 2000, Mr. Donoghue and Jonathan Leiman, also of U.S.
 Bancorp Piper Jaffray, telephoned Mr. Stubblefield to advise him of the BFMA
@@ -1745,7 +1772,7 @@ conference call with the Guest Supply board of directors to discuss the proposed
 offer.
 
      On December 7, 2000, SYSCO provided Guest Supply a written letter of intent
-indicating its williness to acquire Guest Supply for $25.00 per share. Guest
+indicating its willingness to acquire Guest Supply for $25.00 per share. Guest
 Supply did not execute this letter.
 
      On December 15, 2000, the Guest Supply board of directors authorized
@@ -1780,7 +1807,7 @@ facilities in Los Angeles, California.
 
      From January 2, 2001 through January 5, 2001, Mr. Culak and representatives
 of Arthur Andersen conducted a review of Guest Supply's financial records at
-Guest Supply headquarters in New Jersey.
+Guest Supply's headquarters in New Jersey.
 
      On January 15, 2001, members of senior management of SYSCO, members of
 senior management of Guest Supply, including Mr. Stanley, Mr. Xenis and Thomas
@@ -1792,34 +1819,43 @@ representatives responded to questions from the Guest Supply representatives.
 
      On January 16, 2001, SYSCO's board of directors met by telephone conference
 call to review the terms and conditions of the proposed transaction with Guest
-Supply and by unanimous vote of the board of directors authorized the officers
-of SYSCO to proceed with the offer and the merger.
+Supply. Eleven of the twelve members of SYSCO's board of directors were present
+at the meeting. By unanimous vote of the directors present, the officers of
+SYSCO were authorized to proceed with the offer and the merger.
+
+     On January 18, 2001, Messrs. Donoghue and Stubblefield had a final
+telephonic negotiation of the price and terms of the proposed offer during which
+Mr. Stubblefield agreed to increase the price offered for the Guest Supply
+common stock from $25.00 to $26.00 per share in SYSCO common stock.
 
      On January 19, 2001, Guest Supply's board of directors met to consider the
-proposed transaction and merger agreement and related agreements. At Guest
-Supply's board meeting, Mr. Stanley, representatives of U.S. Bancorp Piper
-Jaffray, and Mr. Haythe addressed the board about the business, financial and
-legal implications, respectively, of a merger between SYSCO and Guest Supply and
-the terms of the proposed agreements. During that meeting, representatives of
-U.S. Bancorp Piper Jaffray informed the board that in the opinion of U.S.
-Bancorp Piper Jaffray, as of January 22, 2001, the exchange ratio under the
-proposed agreement, the offer and merger was fair, from a financial point of
-view, to Guest Supply stockholders. After discussion, Guest Supply's board of
-directors unanimously voted to approve the agreement and the merger and
-unanimously resolved to recommend that Guest Supply stockholders accept the
-offer and tender their shares in the offer. At the meeting, Guest Supply's board
-of directors approved an amendment to its preferred stock purchase rights plan
-in order to exempt the offer and merger from the provisions of the rights plan.
+proposed transaction and merger agreement and related agreements. The meeting
+was attended by all of the Guest Supply directors. At the meeting, Mr. Stanley,
+representatives of U.S. Bancorp Piper Jaffray, and Mr. Haythe addressed the
+board of directors about the business, financial and legal implications,
+respectively, of a merger between SYSCO and Guest Supply and the terms of the
+proposed agreements. During that meeting, representatives of U.S. Bancorp Piper
+Jaffray informed the board that in the opinion of U.S. Bancorp Piper Jaffray, as
+of January 19, 2001 (subsequently updated on the date of the merger agreement),
+the exchange ratio under the proposed agreement, the offer and merger was fair,
+from a financial point of view, to Guest Supply stockholders. After discussion,
+Guest Supply's board of directors unanimously voted to approve the agreement and
+the merger and unanimously resolved to recommend that Guest Supply stockholders
+accept the offer and tender their shares of Guest Supply's common stock in the
+offer. At the meeting, Guest Supply's board of directors approved an amendment
+to its preferred stock rights plan in order to exempt the offer and merger from
+the provisions of the rights plan.
 
      On January 20, 2001, SYSCO and Guest Supply executed an extension of the
 exclusivity agreement, extending the arrangement through January 22, 2001.
 
-     On January 22, 2001, the executive committee of SYSCO's board of directors
-held a telephonic board meeting with its legal advisors and management, and
-discussed the final terms and conditions of the offer and the merger as set
-forth in the merger agreement and related agreements. The executive committee
-approved the merger agreement and the related transactions, including the offer
-and the merger, by the unanimous vote of the directors present.
+     On January 22, 2001, SYSCO's executive committee held a telephonic board
+meeting with its legal advisors and management, and discussed the final terms
+and conditions of the offer and the merger as set forth in the merger agreement
+and related agreements. Six of the seven members of the committee were present
+at the meeting. SYSCO's executive committee approved the merger agreement and
+the related transactions, including the offer and the merger, by the unanimous
+vote of the members of the committee present at the meeting.
 
      On January 22, 2001, the parties executed the merger agreement and related
 documents. Immediately thereafter, SYSCO and Guest Supply issued a press release
@@ -1848,7 +1884,8 @@ average trading price, is:
      - more than $30.00, Guest Supply stockholders shall receive for each Guest
        Supply share approximately 0.8667 SYSCO shares.
 
-     The SYSCO average trading price cannot be determined at this time.
+     The SYSCO average trading price cannot be determined with certainty at this
+time.
 
  ILLUSTRATIVE TABLE OF EXCHANGE RATIOS AND VALUE OF OFFER/MERGER CONSIDERATION
 
@@ -1917,7 +1954,6 @@ changes but does not go below $22.00 or exceed $30.00.
 stockholders by issuing a press release announcing the exchange ratio and filing
 that press release with the SEC. Guest Supply stockholders can call our
 information agent, MacKenzie Partners, at any time collect at (212) 929-5500 or
-
 toll free at (800) 322-2885 to request information about the SYSCO average
 trading price, including the exchange ratio for the offer, once determined.
 
@@ -1966,15 +2002,14 @@ earlier of April 30, 2001 or such time as all conditions, including the minimum
 tender condition, have been satisfied or waived. Finally, we may extend the
 offer as required to comply with SEC rules and regulations.
 
-     We may also elect to provide a subsequent offering period as described
-below.
+     We have elected to provide a subsequent offering period as described below.
 
      During any extension of the initial offering period (but excluding the
-subsequent offering period, if any), all Guest Supply shares previously tendered
-and not properly withdrawn will remain tendered, subject to the right to
-withdraw them. We will accept and pay for all shares tendered and not withdrawn
-as soon as practicable following the expiration date of the offer, if the
-minimum tender condition and all other conditions have been satisfied or waived.
+subsequent offering period), all Guest Supply shares previously tendered and not
+properly withdrawn will remain tendered, subject to the right to withdraw them.
+We will accept and pay for all shares tendered and not withdrawn promptly
+following the expiration date of the offer, if the minimum tender condition and
+all other conditions have been satisfied or waived.
 
      Without the prior written consent of Guest Supply, we may not:
 
@@ -1994,15 +2029,9 @@ minimum tender condition and all other conditions have been satisfied or waived.
      - extend the expiration date of the offer except as discussed above.
 
      Subject to the SEC's rules and regulations and the terms of the merger
-agreement, we also reserve the right:
-
-     - to delay acceptance or exchange, prior to payment, of any Guest Supply
-       shares pursuant to the offer upon the failure of any of the conditions of
-       the offer to be satisfied; and
-
-     - to terminate the offer and not accept or exchange any Guest Supply shares
-       not previously accepted or exchanged upon the failure of any of the
-       conditions of the offer to be satisfied.
+agreement, we also reserve the right to terminate the offer and not accept or
+exchange any Guest Supply shares not previously accepted or exchanged upon the
+failure of any of the conditions of the offer to be satisfied.
 
      If, on April 30, 2001, SYSCO has not completed the offer in accordance with
 the terms of the merger agreement, SYSCO will terminate the offer without
@@ -2014,25 +2043,25 @@ been validly tendered by April 30, 2001, we will terminate the offer and will
 seek to consummate the merger. Immediately following any extension, delay,
 termination or amendment, we will make a public announcement of the same.
 
-     We may, although we do not currently intend to, elect to provide a
-subsequent offering period of three to 20 business days after the acceptance of
-and payment for Guest Supply shares in the initial offering period if the
-requirements under Exchange Act Rule 14d-11 have been met. The exchange ratio
-will be the same as in the initial offering period. You will not have the right
-to withdraw Guest Supply shares that you tender in the subsequent offering
-period, if any.
+     We have elected to provide a subsequent offering period of five business
+days after the acceptance of and payment for Guest Supply shares in the initial
+offering period. We may extend the subsequent offering period for up to an
+additional fifteen business days if the requirements under Exchange Act Rule
+14d-11 have been met. The exchange ratio will be the same as in the initial
+offering period. You will not have the right to withdraw Guest Supply shares
+that you tender in the subsequent offering period, if any.
 
 EXCHANGE OF GUEST SUPPLY SHARES; DELIVERY OF OUR COMMON STOCK
 
      Upon the terms and subject to the conditions of the offer, and any
 extension or amendment, we will exchange Guest Supply shares validly tendered
-and not withdrawn as promptly as practicable after the expiration date of the
-offer and promptly after they are tendered during any subsequent offering
-period. In addition, subject to applicable SEC rules and the merger agreement
-terms, we reserve the right to delay acceptance or exchange of Guest Supply
-shares in order to comply with any applicable law. In all cases, exchange of
-Guest Supply shares tendered and accepted for exchange pursuant to the offer
-will be made only after timely receipt by the exchange agent of:
+and not withdrawn promptly after the expiration date of the offer and promptly
+after they are tendered during the subsequent offering period. In addition,
+subject to applicable SEC rules and the merger agreement terms, we reserve the
+right to delay acceptance or exchange of Guest Supply shares in order to comply
+with any applicable law. In all cases, exchange of Guest Supply shares tendered
+and accepted for exchange pursuant to the offer will be made only after timely
+receipt by the exchange agent of:
 
      - certificates for those Guest Supply shares or a confirmation of a
        book-entry transfer of those Guest Supply shares in the exchange agent's
@@ -2048,23 +2077,23 @@ for Tendering" for more details on tendering your shares.
 
      For purposes of the offer, we will be deemed to have accepted for exchange
 Guest Supply shares validly tendered and not withdrawn when we notify the
-exchange agent of our acceptance of such shares. The exchange agent will deliver
-our common stock in exchange for Guest Supply shares tendered pursuant to the
-offer as soon as practicable after receipt of such notice. The exchange agent
-will act as agent for tendering stockholders for the purpose of receiving our
-common stock from us and transmitting such stock to you.
+exchange agent of our acceptance of such shares.
+
+The exchange agent will deliver our common stock in exchange for Guest Supply
+shares tendered pursuant to the offer promptly after receipt of such notice. The
+exchange agent will act as agent for tendering stockholders for the purpose of
+receiving our common stock from us and transmitting such stock to you.
 
      If we do not accept any tendered Guest Supply shares pursuant to the terms
 and conditions of the offer for any reason, or if certificates are submitted for
 more Guest Supply shares than are tendered, we will return certificates for such
-tendered Guest Supply shares or untendered Guest Supply shares, as the
-
-case may be, without expense to the tendering stockholder. In the case that
-Guest Supply shares tendered by book-entry transfer into the exchange agent's
-account at DTC pursuant to the procedures set forth below under the discussion
-entitled "-- Procedure for Tendering" are not accepted for transfer, those Guest
-Supply shares will be credited to an account maintained within DTC as soon as
-practicable following expiration or termination of the offer.
+tendered Guest Supply shares or untendered Guest Supply shares, as the case may
+be, without expense to the tendering stockholder. In the case that Guest Supply
+shares tendered by book-entry transfer into the exchange agent's account at DTC
+pursuant to the procedures set forth below under the discussion entitled
+"-- Procedure for Tendering" are not accepted for transfer, those Guest Supply
+shares will be credited to an account maintained within DTC promptly following
+expiration or termination of the offer.
 
      If we increase the consideration offered to Guest Supply stockholders in
 the offer prior to the expiration date of the offer, such increased
@@ -2087,9 +2116,9 @@ exchange and payment.
 WITHDRAWAL RIGHTS
 
      Guest Supply shares tendered pursuant to the offer may be withdrawn at any
-time prior to the expiration date of the offer. If we elect to provide a
-subsequent offering period, you will not have the right to withdraw Guest Supply
-shares that you tender in the subsequent offering period.
+time prior to the expiration date of the offer. During the subsequent offering
+period, you will not have the right to withdraw Guest Supply shares that you
+tender in the subsequent offering period.
 
      For your withdrawal to be effective, the exchange agent must receive from
 you a written or facsimile transmission notice of withdrawal at its address set
@@ -2122,10 +2151,11 @@ person will be under any duty to give notification of any defects or
 irregularities in any notice of withdrawal or will incur any liability for
 failure to give any such notification. Any Guest Supply shares properly
 withdrawn will be deemed not to have been validly tendered for purposes of the
-offer. However, you may retender withdrawn Guest Supply shares by following one
-of the procedures discussed under the captions entitled "-- Procedure for
-Tendering" or "-- Guaranteed Delivery" at any time prior to the expiration date
-of the offer.
+offer. However, you may retender withdrawn
+
+Guest Supply shares by following one of the procedures discussed under the
+captions entitled "-- Procedure for Tendering" or "-- Guaranteed Delivery" at
+any time prior to the expiration date of the offer.
 
 PROCEDURE FOR TENDERING
 
@@ -2195,11 +2225,13 @@ any, received pursuant to the offer, you must provide the exchange agent with
 your correct taxpayer identification number and certify whether you are subject
 to backup withholding of federal income tax by completing the substitute Form
 W-9 included in the letter of transmittal. Some stockholders (including, among
-others, all corporations and some foreign individuals) are not subject to these
-backup withholding and reporting requirements. In order for a foreign individual
-to qualify as an exempt recipient, the stockholder must submit a Form W-8 or
-Form W-8BEN, signed under penalties of perjury, attesting to that individual's
-exempt status.
+others, all
+
+corporations and some foreign individuals) are not subject to these backup
+withholding and reporting requirements. In order for a foreign individual to
+qualify as an exempt recipient, the stockholder must submit a Form W-8 or Form
+W-8BEN, signed under penalties of perjury, attesting to that individual's exempt
+status.
 
      Each Guest Supply stockholder that receives our common shares in the offer
 and/or the merger should file a statement with his, her or its federal income
@@ -2265,30 +2297,30 @@ Guest Supply shares.
 
      We will determine questions as to the validity, form, eligibility, time of
 receipt and acceptance for exchange of any tender of Guest Supply shares, in our
-sole discretion, and our determination shall be final and binding. We reserve
-the absolute right to reject any and all tenders of Guest Supply shares that we
-determine are not in proper form or the acceptance for exchange of or exchange
-for which may, in the opinion of our counsel, be unlawful. To the extent not
-otherwise prohibited by applicable law, we may waive any of the conditions of
-the offer, other than the minimum tender condition, the requirement that the
-merger agreement not have been terminated, and the requirement that the fairness
-opinion not have
+sole discretion, and our determination shall be final
 
-been modified or withdrawn, or any defect or irregularity in the tender of any
-Guest Supply shares. No tender of Guest Supply shares will be deemed to have
-been validly made until all defects and irregularities in tenders of Guest
-Supply shares have been cured or waived. Neither we, the exchange agent, the
-information agent nor any other person will be under any duty to give
-notification of any defects or irregularities in the tender of any Guest Supply
-shares or will incur any liability for failure to give any such notification.
-Our interpretation of the terms and conditions of the offer, including the
-letter of transmittal and instructions thereto, will be final and binding.
+and binding. We reserve the absolute right to reject any and all tenders of
+Guest Supply shares that we determine are not in proper form or the acceptance
+for exchange of or exchange for which may, in the opinion of our counsel, be
+unlawful. To the extent not otherwise prohibited by applicable law, we may waive
+any of the conditions of the offer, other than the minimum tender condition, the
+requirement that the merger agreement not have been terminated, and the
+requirement that the fairness opinion not have been modified or withdrawn, or
+any defect or irregularity in the tender of any Guest Supply shares. No tender
+of Guest Supply shares will be deemed to have been validly made until all
+defects and irregularities in tenders of Guest Supply shares have been cured or
+waived. Neither we, the exchange agent, the information agent nor any other
+person will be under any duty to give notification of any defects or
+irregularities in the tender of any Guest Supply shares or will incur any
+liability for failure to give any such notification. Our interpretation of the
+terms and conditions of the offer, including the letter of transmittal and
+instructions thereto, will be final and binding.
 
      The tender of Guest Supply shares pursuant to any of the procedures
 described above will constitute a binding agreement between us and the tendering
 stockholders upon the terms and subject to the conditions of the offer.
 
-PURPOSE OF THE OFFER; THE MERGER; NO APPRAISAL RIGHTS
+PURPOSE OF THE OFFER; THE MERGER; NO DISSENTERS RIGHTS
 
      Purpose.  We are making the offer to acquire the entire equity interest in
 Guest Supply. The offer is the first step in our acquisition of Guest Supply and
@@ -2310,11 +2342,10 @@ meeting called for such purpose are required in order to approve the merger. The
 Guest Supply board of directors has approved the merger. Therefore, unless the
 merger is completed in accordance with the short form merger provisions under
 New Jersey law described below, the only remaining corporate action of Guest
-Supply is the approval and adoption of the merger agreement by the Guest Supply
-stockholders. If we complete the offer, we will own a majority of the
-outstanding shares of Guest Supply common stock and therefore we will be able to
-approve the merger without the affirmative vote of any other Guest Supply
-stockholder.
+Supply is the approval of the merger agreement by the Guest Supply stockholders.
+If we complete the offer, we will own a majority of the outstanding shares of
+Guest Supply common stock and therefore we will be able to approve the merger
+without the affirmative vote of any other Guest Supply stockholder.
 
      Possible Short Form Merger.  Section 14A:10-5.1 of the New Jersey Business
 Corporation Act permits the merger to occur without a vote of Guest Supply
@@ -2325,7 +2356,7 @@ then outstanding Guest Supply shares, and a vote of Guest Supply stockholders is
 required under New Jersey law, a longer period of time will be required to
 effect the merger.
 
-     No Appraisal Rights.  Guest Supply stockholders do not have appraisal
+     No Dissenters Rights.  Guest Supply stockholders do not have dissenters
 rights in connection with the offer or the merger.
 
 CONDITIONS OF THE OFFER
@@ -2337,16 +2368,17 @@ below:
      withdrawn prior to the expiration date of the offer, a number of Guest
      Supply shares that constitutes at least a majority of the fully diluted
      Guest Supply shares. Based on information supplied by Guest Supply, the
-     number of shares needed to satisfy the minimum tender condition would have
-     been 3,973,037 as of January 31, 2001.
+     number of
+
+     shares needed to satisfy the minimum tender condition would have been
+     3,973,037 as of January 31, 2001.
 
           Antitrust Condition.  The waiting period, and any extension thereof,
      applicable to the offer and the merger under the Hart-Scott-Rodino
-     Antitrust Improvements Act of 1976, as amended, which we
-
-     refer to as the "HSR Act," and any other applicable antitrust law must have
-     expired or been terminated. We call this the "antitrust condition." See
-     "-- Regulatory Approvals" below.
+     Antitrust Improvements Act of 1976, as amended, which we refer to as the
+     "HSR Act," and any other applicable antitrust law must have expired or been
+     terminated. We call this the "antitrust condition." See "-- Regulatory
+     Approvals" below.
 
           Registration Statement Effectiveness Condition.  The registration
      statement on Form S-4 of which this prospectus is a part must have been
@@ -2359,8 +2391,9 @@ below:
      conditions:
 
         - no action or proceeding shall be pending before any governmental
-          authority by any governmental authority that seeks to restrain or
-          prohibit the transactions contemplated by the merger agreement;
+          authority in the United States by any governmental authority in the
+          United States that seeks to restrain or prohibit the transactions
+          contemplated by the merger agreement;
 
         - no federal or state statute, rule, regulation, injunction, order or
           decree shall have been enacted, entered, promulgated or enforced by
@@ -2400,17 +2433,17 @@ by us. To the extent not otherwise prohibited by applicable law, we may waive
 these conditions in whole or in part, other than the minimum tender condition,
 the requirement that the merger agreement not have been terminated and the
 requirement that the fairness opinion of U.S. Bancorp Piper Jaffray not have
-been modified or withdrawn. The determination as to whether any condition has
-been satisfied shall be in our good faith judgment and will be final and binding
-on all parties. The failure by us at any time to exercise any of the foregoing
-rights shall not be deemed a waiver of any such right and each such right shall
-be deemed an ongoing right which may be asserted at any time and from time to
-time. The waiver of any such right with respect to particular facts and
-circumstances shall not be deemed a waiver with respect to any other facts and
-circumstances. Notwithstanding the fact that we reserve the right to assert the
-failure of a condition in order to delay exchange or cancel our obligation to
-exchange properly tendered Guest Supply shares, we will either promptly exchange
-or return such Guest Supply shares.
+been modified or withdrawn. The failure by us at any time prior to expiration of
+the offer to exercise any of the foregoing rights shall not be deemed a waiver
+of any such right and each such right shall be deemed an ongoing right which may
+be asserted at any time and from time to time prior to the expiration of the
+offer. Accordingly, all conditions of the offer must be satisfied or waived
+prior to expiration of the offer. The waiver of any such right with respect to
+particular facts and circumstances shall not be deemed a waiver with respect to
+any other facts and circumstances. Notwithstanding the fact that we reserve the
+right to assert the failure of a condition in order to delay exchange or cancel
+our obligation to exchange properly tendered Guest Supply shares, we will either
+promptly exchange or return such Guest Supply shares.
 
 REGULATORY APPROVALS
 
@@ -2419,14 +2452,12 @@ reasonable efforts to take whatever actions are required to obtain necessary
 regulatory approvals with respect to the offer and the merger. Other than
 clearance under the antitrust laws applicable to the offer and the merger which
 are described above under "-- Conditions of the Offer -- Antitrust Condition,"
-the SEC's declaring the
-
-effectiveness of the registration statement of which this prospectus is a part,
-the filing of certificates of merger under New Jersey corporate law and Delaware
-corporate law with respect to the merger, and certain approvals from the New
-Jersey Department of Environmental Protection, we do not believe that any
-additional material governmental filings or approvals are required with respect
-to the offer and the merger.
+the SEC's declaring the effectiveness of the registration statement of which
+this prospectus is a part, the filing of certificates of merger under New Jersey
+corporate law and Delaware corporate law with respect to the merger, and certain
+approvals from the New Jersey Department of Environmental Protection, we do not
+believe that any additional material governmental filings or approvals are
+required with respect to the offer and the merger.
 
      Under the HSR Act and the related rules, neither the offer nor the merger
 may be completed until we and Guest Supply notify and furnish information to the
@@ -2462,16 +2493,16 @@ applied for a remediation agreement.
 
 EFFECTS OF OFFER
 
-  Reduced Liquidity; Possible Delisting.  According to Guest Supply, there were,
-  as of January 31, 2001, 6,848,575 Guest Supply common shares outstanding. The
-  tender of Guest Supply shares pursuant to the offer will reduce the number of
-  Guest Supply stockholders and the number of Guest Supply shares that might
-  otherwise trade publicly and could adversely affect the liquidity and market
-  value of the remaining Guest Supply shares held by the public. Guest Supply
-  shares are listed and traded on the NYSE. Depending on the number of Guest
-  Supply shares acquired pursuant to the offer, following completion of the
-  offer, Guest Supply shares may no longer meet the requirements of the NYSE for
-  continued listing and the shares may be suspended or delisted.
+     Reduced Liquidity; Possible Delisting.  According to Guest Supply, there
+were, as of January 31, 2001, 6,848,575 Guest Supply common shares outstanding.
+The tender of Guest Supply shares pursuant to the offer will reduce the number
+of Guest Supply stockholders and the number of Guest Supply shares that might
+otherwise trade publicly and could adversely affect the liquidity and market
+value of the remaining Guest Supply shares held by the public. Guest Supply
+shares are listed and traded on the NYSE. Depending on the number of Guest
+Supply shares acquired pursuant to the offer, following completion of the offer,
+Guest Supply shares may no longer meet the requirements of the NYSE for
+continued listing and the shares may be suspended or delisted.
 
      The NYSE will normally give consideration to delisting a security when:
 
@@ -2491,17 +2522,16 @@ could be adversely affected.
 
      If the NYSE were to delist the Guest Supply shares, including after the
 exchange of shares in the offer but prior to the merger, the market for them
-could be adversely affected. It is possible that Guest
-
-Supply shares would be traded on other securities exchanges or in the
-over-the-counter market, and that price quotations would be reported by such
-exchanges or by other sources. The extent of the public market for the Guest
-Supply shares and the availability of such quotations would, however, depend
-upon the number of holders and/or the aggregate market value of the Guest Supply
-shares remaining at such time, the interest in maintaining a market in the Guest
-Supply shares on the part of securities firms, the possible termination of
-registration of Guest Supply shares under the Exchange Act, as described below
-under "-- Registration under the Exchange Act," and other factors.
+could be adversely affected. It is possible that Guest Supply shares would be
+traded on other securities exchanges or in the over-the-counter market, and that
+price quotations would be reported by such exchanges or by other sources. The
+extent of the public market for the Guest Supply shares and the availability of
+such quotations would, however, depend upon the number of holders and/or the
+aggregate market value of the Guest Supply shares remaining at such time, the
+interest in maintaining a market in the Guest Supply shares on the part of
+securities firms, the possible termination of registration of Guest Supply
+shares under the Exchange Act, as described below under "-- Registration under
+the Exchange Act," and other factors.
 
      We intend to complete the merger as soon as possible following completion
 of the offer. No shares of Guest Supply will remain publicly traded upon
@@ -2557,22 +2587,22 @@ ACCOUNTING TREATMENT
 
      Our acquisition of Guest Supply will be accounted for under the purchase
 method of accounting under U.S. generally accepted accounting principles, which
-means that Guest Supply's results of operations will be included with ours from
-the closing date and its consolidated assets and liabilities will be recorded at
-their fair values at the same date.
+means that Guest Supply's results of operations
+
+will be included with ours from the closing date and its consolidated assets and
+liabilities will be recorded at their fair values at the same date.
 
 FEES AND EXPENSES
 
      We have retained MacKenzie Partners to act as the information agent in
 connection with the offer. The information agent may contact holders of Guest
-Supply shares by mail, telephone or other means, and
-
-may request brokers, dealers and other nominee stockholders to forward the offer
-materials to beneficial owners of Guest Supply shares. The information agent
-will be paid a customary fee for such services, plus reimbursement of
-out-of-pocket expenses, and we will indemnify the information agent against
-certain liabilities and expenses in connection with the offer, including
-liabilities under federal securities laws.
+Supply shares by mail, telephone or other means, and may request brokers,
+dealers and other nominee stockholders to forward the offer materials to
+beneficial owners of Guest Supply shares. The information agent will be paid a
+customary fee for such services, plus reimbursement of out-of-pocket expenses,
+and we will indemnify the information agent against certain liabilities and
+expenses in connection with the offer, including liabilities under federal
+securities laws.
 
      In addition, we have retained EquiServe Trust Company, N.A. as the exchange
 agent. We will pay the exchange agent customary compensation for its services in
@@ -2590,10 +2620,10 @@ January 22, 2001 to the effect that, as of that date, and subject to the
 assumptions, factors and limitations set forth in their opinion, the exchange
 ratio to be established pursuant to the merger agreement is fair to the Guest
 Supply stockholders, from a financial point of view. The opinion is attached as
-an exhibit to Guest Supply's Schedule 14D-9, which is being mailed to the Guest
-Supply stockholders with this prospectus, and Guest Supply stockholders are
-urged to read such opinion in its entirety, including the assumptions, factors
-and limitations contained therein.
+an exhibit to Guest Supply's Schedule 14D-9, which was mailed to the Guest
+Supply stockholders with a preliminary version of this prospectus, and Guest
+Supply stockholders are urged to read such opinion in its entirety, including
+the assumptions, factors and limitations contained therein.
 
      U.S. Bancorp Piper Jaffray also provided certain financial advisory
 services to Guest Supply in connection with the offer and the merger. Under the
@@ -2606,8 +2636,9 @@ payment of the fee for financial advisory services and reasonable out-of-pocket
 expenses of U.S. Bancorp Piper Jaffray, and to indemnify U.S. Bancorp Piper
 Jaffray against liabilities incurred. Details concerning the arrangements
 between Guest Supply and U.S. Bancorp Piper Jaffray are disclosed in Guest
-Supply's Solicitation/Recommendation Statement on Schedule 14D-9, which is being
-mailed to the Guest Supply stockholders with this prospectus.
+Supply's Solicitation/Recommendation Statement on Schedule 14D-9, which was
+mailed to the Guest Supply stockholders with a preliminary version of this
+prospectus.
 
                  THE MERGER AGREEMENT AND THE TENDER AGREEMENTS
 
@@ -2694,7 +2725,8 @@ SYSCO average trading merger price, is:
         - more than $30.00, Guest Supply stockholders shall receive for each
           Guest Supply share approximately 0.8667 SYSCO shares.
 
-     The SYSCO average trading merger price cannot be determined at this time.
+     The SYSCO average trading merger price cannot be determined with certainty
+at this time.
 
 BOARD OF DIRECTORS AND MANAGEMENT FOLLOWING THE MERGER
 
@@ -2785,8 +2817,9 @@ option in full immediately prior to the effective time of the merger, rounded
 down to the nearest whole number. The price per share shall equal the per share
 exercise price at which the Guest Supply option was exercisable immediately
 prior to the effective time, divided by the exchange ratio. All such options
-shall automatically vest and become immediately exercisable 15 days prior to
-completion of the transactions contemplated by the merger agreement.
+shall automatically vest and become immediately exercisable upon the first to
+occur of the commencement of the offer or 15 days prior to consummation of the
+merger.
 
      SYSCO has agreed to take all action necessary to implement the above,
 including the reservation, issuance and listing of a sufficient number of shares
@@ -2811,8 +2844,9 @@ have executed the waivers.
 
      For more information on the treatment of Guest Supply stock options in
 connection with the offer and the merger, please refer to Item 3 of Guest
-Supply's Solicitation/Recommendation Statement on Schedule 14D-9, which is being
-mailed to Guest Supply stockholders together with this prospectus.
+Supply's Solicitation/Recommendation Statement on Schedule 14D-9, which was
+mailed to Guest Supply stockholders together with a preliminary version of this
+prospectus.
 
 CONDUCT OF BUSINESS PENDING THE MERGER
 
@@ -2910,10 +2944,10 @@ merger agreement, Guest Supply will not, directly or indirectly:
 
      - solicit, initiate, entertain, encourage or respond, except that it may
        respond to the contested proxy solicitation initiated by BFMA (which has
-       announced that it intends to withdraw its proxy solicitation) for Guest
-       Supply's 2001 Annual Meeting of stockholders, to any inquiries or
-       proposals that constitute or could reasonably be expected to lead to an
-       alternative transaction, which means:
+       publicly announced that it intends to withdraw its proxy solicitation)
+       for Guest Supply's 2001 Annual Meeting of stockholders, to any inquiries
+       or proposals that constitute or could reasonably be expected to lead to
+       an alternative transaction, which means:
 
           - the acquisition of Guest Supply by merger or otherwise by any third
             party;
@@ -2963,19 +2997,19 @@ merger agreement, Guest Supply will not, directly or indirectly:
             proposal, 50% shall be substituted for 20%, that the Guest Supply
             board
 
-         of directors determines in its good faith judgment, after consultation
-         with a financial advisor of nationally recognized reputation and
-         consultation with legal counsel, (i) would result in a transaction that
-         would, if completed, be superior to the Guest Supply stockholders from
-         a financial point of view as compared to the transactions contemplated
-         by the merger agreement and any alternative proposed by us in
-         accordance with the merger agreement and (ii) to be reasonably capable
-         of being consummated in accordance with its terms, including that any
-         financing required to consummate the transaction contemplated by such
-         proposal is capable of being, and is reasonably likely to be, obtained,
-         in each case taking into account all factors the Guest Supply board of
-         directors considers relevant, including all legal, financial,
-         regulatory and other aspects of the proposal by the third party, and
+of directors determines in its good faith judgment, after consultation with a
+financial advisor of nationally recognized reputation and consultation with
+legal counsel, (i) would result in a transaction that would, if completed, be
+      superior to the Guest Supply stockholders from a financial point of view
+      as compared to the transactions contemplated by the merger agreement and
+      any alternative proposed by us in accordance with the merger agreement and
+      (ii) to be reasonably capable of being consummated in accordance with its
+      terms, including that any financing required to consummate the transaction
+      contemplated by such proposal is capable of being, and is reasonably
+      likely to be, obtained, in each case taking into account all factors the
+      Guest Supply board of directors considers relevant, including all legal,
+      financial, regulatory and other aspects of the proposal by the third
+      party, and
 
           - prior to taking such action, Guest Supply provides notice to us to
             the effect that it is taking such action, including, without
@@ -2997,7 +3031,11 @@ Guest Supply will, and will cause its subsidiaries to, and will instruct their
 respective officers, directors, employees, investment bankers, attorneys,
 accountants and other agents to, cease and terminate any existing activities,
 discussions or negotiations with any parties with respect to any possible
-alternative transaction.
+alternative transaction and shall notify each party with which it, or any
+officer, director, investment advisor, financial advisor, attorney or other
+representative retained by it, has had discussions during the 60 days prior to
+the merger agreement, that the Guest Supply board of directors no longer seeks
+to engage in any alternative transactions.
 
      Under the merger agreement, Guest Supply has agreed that its board of
 directors will not withdraw or modify or propose to withdraw or modify its
@@ -3107,10 +3145,10 @@ merger agreement by the stockholders of Guest Supply:
        stock under the offer, there occurs in respect of Guest Supply or its
        business, a material adverse effect or a breach by Guest
 
-       Supply of any representation, warranty, covenant or agreement contained
-       in the merger agreement that is not curable and would give rise to a
-       material adverse effect; unless we are then in breach in any material
-       respect of any of our obligations under the merger agreement;
+Supply of any representation, warranty, covenant or agreement contained in the
+merger agreement that is not curable and would give rise to a material adverse
+effect; unless we are then in breach in any material respect of any of our
+  obligations under the merger agreement;
 
      - by Guest Supply if, prior to the acceptance for payment of Guest Supply
        common stock under the offer, we materially breach any representation,
@@ -3139,8 +3177,8 @@ merger agreement by the stockholders of Guest Supply:
 
      - the merger agreement shall automatically terminate if less than thirty
        five percent (35%) of the outstanding shares of common stock of Guest
-       Supply, on a fully diluted basis, are not validly tendered by April 30,
-       2001; or
+       Supply, on a fully diluted basis, are validly tendered by April 30, 2001;
+       or
 
      - by us if a triggering event shall have occurred, which means:
 
@@ -3186,24 +3224,23 @@ environmental due diligence upon the occurrence of any of the following events:
      - if within four months after the date of the merger agreement, Guest
        Supply receives a proposal for an alternative transaction, including the
        commencement of a tender offer made directly to the Guest Supply
-       stockholders, from any person or entity other than us and such
-       alternative transaction is completed within twelve months after the date
-       of the merger agreement;
+       stockholders, from any person or entity other than us or our affiliates
+       and such alternative transaction is completed within twelve months after
+       the date of the merger agreement;
 
      - if Guest Supply, prior to acceptance for payment of any shares of common
-       stock of Guest Supply under the offer, in order to enter into a written
-       agreement with respect to an alternative transaction with a third party,
-       gives us notice of such alternative transaction as required by the merger
-       agreement and is otherwise not prohibited by the merger agreement from
-       entering into such agreement; or
+       stock of Guest Supply under the offer, terminates the merger agreement in
+       order to enter into a written agreement with respect to an alternative
+       transaction with a third party in accordance with the merger agreement;
+       or
 
      - if a triggering event shall have occurred.
 
      The termination fee is due to us within ten days of the first to occur of
 any of the above events.
 
-     In addition, all of the expenses incurred by us in connection with the
-merger agreement and related agreements, including all fees and expenses of
+     Except as set forth above, , all expenses incurred by us in connection with
+the merger agreement and related agreements, including all fees and expenses of
 agents, representatives, brokers, counsel and accountants for us, shall be paid
 by us. All expenses incurred by Guest Supply in connection with the merger
 agreement and the related agreements, including without limitation, all fees and
@@ -3249,17 +3286,18 @@ AGREEMENTS TO TENDER
 
      Each Guest Supply stockholder who signed a tender agreement agreed to
 tender in the offer and not withdraw all Guest Supply shares owned by him along
-with any additional Guest Supply shares acquired
+with any additional Guest Supply shares acquired by him after the date of the
+tender agreement, including those acquired upon the exercise of options and
 
-by him after the date of the tender agreement, including those acquired upon the
-exercise of options and warrants. Such stockholders have reserved the right to
-sell into the public market up to 15% of the total number of (i) shares held of
-record, and (ii) shares deemed beneficially owned by them pursuant to Rule 13d-3
-under the Securities Exchange Act of 1934. Shares deemed beneficially owned
-include those subject to options and warrants exercisable at January 22, 2001,
-and those exercisable within 60 days thereafter. They have also agreed that, if
-they do not sell the remaining shares at least five days prior to the expiration
-date of the offer, they will tender them in the offer.
+warrants. Such stockholders have reserved the right to sell into the public
+market up to 15% of the total number of (i) shares held of record, and (ii)
+shares deemed beneficially owned by them pursuant to Rule 13d-3 under the
+Securities Exchange Act of 1934. Shares deemed beneficially owned include those
+subject to options and warrants exercisable at January 22, 2001, and those
+exercisable within 60 days thereafter. They have also agreed that, if they do
+not sell the remaining shares at least five days prior to the expiration date of
+the offer, they will tender them in the offer. As of February 26, 2001, they had
+sold 82,500 shares.
 
 PROXY
 
@@ -3371,7 +3409,7 @@ STOCK OPTIONS
 
      As of January 31, 2001, options issued to executive officers and directors
 of Guest Supply to purchase a total of 472,500 shares of Guest Supply common
-stock, with a weighted average exercise price of approximately $8.54 per share
+stock, with a weighted average exercise price of approximately $8.54 per share,
 were outstanding.
 
 DIRECTORS' AND OFFICERS' INSURANCE; INDEMNIFICATION
@@ -3693,9 +3731,9 @@ Find More Information" on page 5.
 
 - - Only persons who are nominated by or at          - Only persons who are nominated by or at
   the direction of:                                  the direction of:
-- - the Board of Directors, or any duly              - the Board of Directors, or any duly
+  - the Board of Directors, or any duly            - the Board of Directors, or any duly
   authorized committee thereof;                      authorized committee thereof;
-- - a stockholder of SYSCO (1) who is a              - a stockholder of Guest Supply (1) who is a
+  - a stockholder of SYSCO (1) who is a            - a stockholder of Guest Supply (1) who is a
   stockholder of record on the date the              stockholder of record on the date the
   notice to stockholders is mailed and on            notice to stockholders is mailed and on
   the record date for stockholders entitled          the record date for stockholders entitled
@@ -3725,21 +3763,21 @@ Find More Information" on page 5.
                    SYSCO                                           GUEST SUPPLY
                    -----                                           ------------
 
-- - No business may be transacted at an annual            -  No business may be transacted at an annual
-  meeting of SYSCO stockholders, other than                meeting of Guest Supply stockholders, other
-  business that is either specified in the notice of       than business that is either specified in the
-  meeting given by or at the direction of the              notice of meeting given by or at the direction of
-  Board of Directors, otherwise properly brought           the Board of Directors, otherwise properly
-  before the annual meeting by or at the direction         brought before the annual meeting by or at the
-  of the Board of Directors, or any duly                   direction of the Board of Directors, or any duly
-  authorized committee thereof, or otherwise               authorized committee thereof, or otherwise
-  properly brought before the annual meeting by a          properly brought before the annual meeting by a
-  stockholder of SYSCO (1) who is a                        stockholder of Guest Supply (1) who is a
-  stockholder of record on the date of the notice          stockholder of record on the date of the notice
-  and on the record date for stockholders entitled         and on the record date for stockholders entitled
-  to notice of and to vote at such annual meeting          to notice of and to vote at such annual meeting
-  and (2) who complies with the notice and                 and (2) who complies with the notice and
-  disclosure procedures contained in the bylaws.           disclosure procedures contained in the bylaws.
+No business may be transacted at an annual               No business may be transacted at an annual
+meeting of SYSCO stockholders, other than                meeting of Guest Supply stockholders, other
+business that is either specified in the notice of       than business that is either specified in the
+meeting given by or at the direction of the              notice of meeting given by or at the direction of
+Board of Directors, otherwise properly brought           the Board of Directors, otherwise properly
+before the annual meeting by or at the direction         brought before the annual meeting by or at the
+of the Board of Directors, or any duly                   direction of the Board of Directors, or any duly
+authorized committee thereof, or otherwise               authorized committee thereof, or otherwise
+properly brought before the annual meeting by a          properly brought before the annual meeting by a
+stockholder of SYSCO (1) who is a                        stockholder of Guest Supply (1) who is a
+stockholder of record on the date of the notice          stockholder of record on the date of the notice
+and on the record date for stockholders entitled         and on the record date for stockholders entitled
+to notice of and to vote at such annual meeting          to notice of and to vote at such annual meeting
+and (2) who complies with the notice and                 and (2) who complies with the notice and
+disclosure procedures contained in the bylaws.           disclosure procedures contained in the bylaws.
 
 - - To be timely, a stockholder's notice must be           - To be timely, a stockholder's notice must be
   received by SYSCO not less than 90 days nor more         received by Guest Supply not less than 60 days
@@ -3848,12 +3886,12 @@ Find More Information" on page 5.
 - - Under Delaware corporate law, a                  - Under New Jersey corporate law, a
   corporation's Board of Directors may               corporation's Board of Directors may
   declare and pay dividends either:                  declare and pay dividends in cash, in
-- - out of surplus, the amount of net assets           property, or in shares of capital stock;
-  of the corporation in excess of all                provided however, that a corporation may
-  liabilities, or                                    not make a distribution if either:
-- - if there is no surplus, out of net               - the corporation is unable to pay its debts
-  profits generated in the fiscal year in            as they become due in the usual course of
-  which the dividend is declared and/or              business; or
+  - out of surplus, the amount of net assets         property, or in shares of capital stock;
+    of the corporation in excess of all              provided however, that a corporation may
+    liabilities, or                                  not make a distribution if either:
+  - if there is no surplus, out of net             - the corporation is unable to pay its debts
+    profits generated in the fiscal year in          as they become due in the usual course of
+    which the dividend is declared and/or            business; or
   the preceding fiscal year.                       - the corporation's total assets would be
                                                      less than its total liabilities.
 
@@ -3994,8 +4032,8 @@ incorporated herein in reliance upon the authority of said firm as experts in
 giving said report.
 
      With respect to the unaudited interim financial information of SYSCO
-Corporation and subsidiaries for the quarters ended September 30, 2000 and
-October 2, 1999 incorporated herein by reference, Arthur Andersen LLP has
+Corporation and subsidiaries for the quarters ended December 30, 2000 and
+January 1, 2000 incorporated herein by reference, Arthur Andersen LLP has
 applied limited procedures in accordance with professional standards for a
 review of that information. However, their separate report thereon states that
 they did not audit and they do not express an opinion on that interim financial
@@ -4015,8 +4053,7 @@ registration statement in reliance upon the report of KPMG LLP, independent
 certified public accountants, incorporated by reference herein, and upon the
 authority of said firm as experts in accounting and auditing.
 
-                                                                         ANNEX A
-
+                                    ANNEX A
                   MERGER AGREEMENT AND PLAN OF REORGANIZATION
                             UNDER SECTION 368(a) OF
                  THE INTERNAL REVENUE CODE OF 1986, AS AMENDED
@@ -4082,6 +4119,7 @@ by this Agreement.
      H. The agreements, certificates and other documents listed on Schedule I
 hereto have been executed and delivered prior to, or simultaneously with, this
 Agreement.
+
                                        A-1
 
      NOW, THEREFORE, in consideration of the representations, warranties,
@@ -4735,7 +4773,7 @@ If, after the Effective Time, Certificates are presented to Sysco, the Surviving
 Corporation or the Exchange Agent for any reason, they shall be cancelled and
 exchanged as provided in this Section 2.4, except as otherwise provided by law.
 
-                                      A-10
+                                       A-10
 
      (e) Termination of Exchange Fund. Any portion of the Exchange Fund which
 remains undistributed to the holders of the Certificates for six months after
@@ -4805,7 +4843,7 @@ standards; (ii) nothing contained herein shall preclude Sysco or Surviving
 Corporation from revising conditions of employment after the Control Date or
 effecting the termination of any Current Employees after the Control Date.
 
-                                      A-11
+                                       A-11
 
      (b) Employee Benefits. With respect to employee benefits, nothing contained
 in this Agreement shall prohibit Sysco from changing or eliminating the benefits
@@ -4879,7 +4917,7 @@ that, unless Sysco shall otherwise consent in writing, between the date hereof
 and the Control Date, the Business shall be conducted in, and Guest Supply shall
 not take any action except in, the ordinary course of Business and in
 
-                                      A-12
+                                       A-12
 
 a manner consistent with its past practice; and Guest Supply will use its
 commercially reasonable efforts consistent with past practices, but recognizing
@@ -4952,7 +4990,7 @@ business relations.
              (v) take any action, except in the ordinary course of Business and
         in a manner consistent with past practice, with respect to, or make any
         change in, its methods of management,
-                                      A-13
+                                       A-13
 
         purchasing, distribution, marketing, or operating (or practices relating
         to payment of trade accounts or to other payments or relating to writing
@@ -5028,7 +5066,7 @@ representatives or agents shall, directly or indirectly:
      under applicable law, (B) the Company Board determines in good faith, after
      consultation with a financial advisor of nationally recognized reputation,
      that such Alternative
-                                      A-14
+                                       A-14
 
      Transaction would, if consummated, constitute or be reasonably likely to
      constitute a Superior Proposal (as hereinafter defined) and (C) prior to
@@ -5103,7 +5141,7 @@ representatives or agents shall, directly or indirectly:
      (y) limit the Company's ability to make any disclosure required by
      applicable law, and such actions shall not be considered a breach of this
      Agreement.
-                                      A-15
+                                       A-15
 
           (v) For all purposes of this Agreement, "Alternative Transaction"
      means the occurrence of any of the following events: (i) the acquisition of
@@ -5178,7 +5216,7 @@ to Sysco of the following:
      cause either (A) a material breach of any representation or warranty of the
      Company contained in this Agreement at any time from the date
 
-                                      A-16
+                                       A-16
 
      hereof to the Control Date, or (B) directly or indirectly, any Material
      Adverse Effect. The term "Material Adverse Effect" means any change in or
@@ -5254,7 +5292,7 @@ specified meanings:
      return, information return or statement (including any related or
      supporting information) filed or to be filed with any Tax
 
-                                      A-17
+                                       A-17
 
      Authority in connection with the determination, assessment, collection or
      administration of any Tax or filed by or including Guest Supply in respect
@@ -5328,7 +5366,7 @@ letter of Non-Applicability ("LNA") pursuant to N.J.S.A. 7:26B-2.22; (ii) a
 Remediation Agreement ("RA") pursuant to N.J.S.A. 7:26b-4.1; or (iii) a
 regulated underground storage tank waiver pursuant to N.J.A.C. 7:26B-5.3 ("UST
 
-                                      A-18
+                                       A-18
 
 Waiver")(collectively, the "ISRA Approvals"). Guest Supply further agrees that,
 if it chooses to obtain an RA or UST Waiver, Guest Supply will use commercially
@@ -5403,7 +5441,7 @@ In the event of any such claim, action, suit, proceeding, or investigation
 Corporation shall have the right to assume the defense thereof, and Sysco shall
 not be liable to such Indemnified Parties for any legal expenses of other
 counsel or any other expenses subsequently
-                                      A-19
+                                       A-19
 
 incurred by such Indemnified Parties in connection with the defense thereof,
 except that if Sysco or the Surviving Corporation elects not to assume such
@@ -5471,7 +5509,7 @@ qualification where the failure to have so qualified would cause a Material
 Adverse Effect and Schedule 4.1(a)is a true, correct and complete list of all of
 the states and foreign jurisdictions where the Company is so qualified.
 
-                                      A-20
+                                       A-20
 
      (b) Subsidiaries.  Schedule 4.1(b)(i)  lists all corporations,
 partnerships, joint ventures and other business entities in which the Company
@@ -5545,7 +5583,7 @@ self-regulatory agency, commission or authority (collectively, "Governmental
 Authority"); (b) violate the terms of any instrument, document or agreement to
 which Guest Supply is a party, or by which the
 
-                                      A-21
+                                       A-21
 
 Business or any Assets are bound, or be in conflict with, result in a breach of
 or constitute (upon the giving of notice or lapse of time or both) a default
@@ -5621,7 +5659,7 @@ earnings, or other similar rights of or with respect to any Subsidiary (the
 items in clauses (i), (ii), (iii), (iv) and (v) being referred to collectively
 as the "Subsidiary Securities"). There
 
-                                      A-22
+                                       A-22
 
 are no outstanding obligations of Guest Supply to repurchase, redeem or
 otherwise acquire any Subsidiary Securities.
@@ -5694,7 +5732,7 @@ complete list of all security and other deposits, prepayments and prepaid
 expenses of Guest Supply as of September 29, 2000 not reflected on the
 Historical Financials (collectively, the "Deposits" and individually, a
 "Deposit"), setting forth the amount of each Deposit.
-                                      A-23
+                                       A-23
 
      4.11  Accounts Receivable; Obligations.
 
@@ -5768,7 +5806,7 @@ person or entity, as to the use by Guest Supply of any such Intellectual
 Property or challenging or questioning the validity or effectiveness of any
 state or federal registration of the Intellectual Property, and Guest Supply
 does not know of any valid basis for such claim.
-                                      A-24
+                                       A-24
 
 Guest Supply's use of the Intellectual Property and trade secrets and, to the
 best knowledge of Guest Supply, Guest Supply's continued use of the same
@@ -5843,7 +5881,7 @@ customer thereunder ("Cost Plus Contract Claims").
 compensation, general liability insurance and other forms of insurance relating
 to the operation of the Business against risks of the kind customarily insured
 against and in amounts customarily insured. Guest Supply will maintain its
-                                      A-25
+                                       A-25
 
 insurance policies in full force and effect through the Closing Date. Schedule
 4.16 lists all of the insurance policies maintained by Guest Supply, which
@@ -5917,7 +5955,7 @@ addition, except as set forth on Schedule 4.18(a):
      nothing has occurred or is expected to occur that caused or could cause the
      loss of its
 
-                                      A-26
+                                       A-26
 
      qualification under Section 401(a) of the Code or the imposition of any
      liability, penalty or Tax with respect to such Benefit Plan. Guest Supply
@@ -5992,7 +6030,7 @@ addition, except as set forth on Schedule 4.18(a):
      if any, has resulted in the imposition of any Tax, interest or penalty that
      remains unpaid as of the Closing Date;
 
-                                      A-27
+                                       A-27
 
           (xiv) Guest Supply is not subject to any liens, and excise or other
      Taxes, under ERISA, the Code or other applicable law relating or with
@@ -6063,7 +6101,7 @@ from September 29, 2000 to the date of this Agreement:
         in excess of $25,000 (provided that all such excluded payments do not
         aggregate to more than $100,000);
 
-                                      A-28
+                                       A-28
 
              (ii) made any such payment to any party in settlement of any such
         suit, proceeding, arbitration, claim or counterclaim in excess of
@@ -6138,7 +6176,7 @@ U.S.C. Section 6901 et seq., the Comprehensive Environmental Response,
 Compensation and Liability Act, 42 U.S.C. Section 9601 et seq., and all laws,
 ordinances, rules, regulations and requirements issued by any Governmental
 Authority, as well as any common law doctrines
-                                      A-29
+                                       A-29
 
 pertaining to environmental, health, safety or ecological conditions, along with
 any regulations promulgated thereunder; and (ii) "Hazardous Material" means (A)
@@ -6212,7 +6250,7 @@ or on Schedule 4.23:
           (x) Guest Supply has delivered or made available to Sysco true,
      correct and complete copies of all reports or tests with respect to the
      compliance of the Properties and the Assets with the
-                                      A-30
+                                       A-30
 
      Environmental Laws and/or the presence of any Hazardous Material on the
      Properties that were (A) prepared for Guest Supply; or (B) prepared for
@@ -6288,7 +6326,7 @@ behalf of Guest Supply has, directly or indirectly:
      concessions, or to pay for favorable treatment for business secured or for
      special concessions already obtained.
 
-                                      A-31
+                                       A-31
 
      4.25  Internet Presence.  Schedule 4.25 describes Guest Supply's public,
 private or reserved presence on the world wide web, multi-party extranet,
@@ -6358,7 +6396,7 @@ Property.
 requiring, as of the date hereof or as of a specified or unspecified date in the
 future, any repairs or alterations or additions or improvements thereto.
 
-                                      A-32
+                                       A-32
 
      (d) Encroachment.  No improvements located on the Real Property owned by
 Guest Supply violate any setback requirements or encroach on any adjacent
@@ -6428,7 +6466,7 @@ hereof, inventory is "Salable" only if it (including its packaging) is in the
 physical condition to be sold to customers in the ordinary course of Business
 and in a manner consistent with its past practices and in
 
-                                      A-33
+                                       A-33
 
 accordance with industry standards and applicable government regulations;
 provided, however, that "Salable" inventory does not include:
@@ -6502,7 +6540,7 @@ representations and warranties is relied upon by the Company:
 corporations duly organized and validly existing under the laws of the State of
 Delaware and each has the corporate power and
 
-                                      A-34
+                                       A-34
 
 authority to own its respective properties and to carry on its respective
 businesses as now being conducted by it.
@@ -6573,7 +6611,7 @@ times any such documents or any amendments or supplements thereto are filed with
 the SEC, are first published, sent or given to the Stockholders or become
 effective under the Securities Act or, in
 
-                                      A-35
+                                       A-35
 
 the case of the Proxy Statement, at the time of the Stockholders Meeting,
 contain any untrue statement of a material fact or omit to state any material
@@ -6639,7 +6677,7 @@ neither Sysco nor Merger Sub owns any shares of Common Stock or has the right to
 acquire any equity interest in the Company other than pursuant to this
 Agreement.
 
-                                      A-36
+                                       A-36
 
                                    ARTICLE 6
 
@@ -6713,7 +6751,7 @@ the Stockholders):
      Merger Sub pursuant to the Offer) if the Merger has not been consummated by
      August 31, 2001, provided that the party seeking
 
-                                      A-37
+                                       A-37
 
      to exercise such right is not then in breach in any material respect of any
      of its obligations under this Agreement; or
@@ -6787,7 +6825,7 @@ and payable to Sysco within ten (10) days of the first to occur of (i) the
 consummation of a Covered Alternative Transaction and (ii) the events set forth
 in Section 7.2(a)(ii).
 
-                                      A-38
+                                       A-38
 
      (c) Effect of Termination.  Termination of this Agreement pursuant to
 Section 7.1 shall terminate all obligations and liabilities of the parties to
@@ -6859,7 +6897,7 @@ if the signatures thereto were in the same instrument. This Agreement shall be
 effective and binding on all parties when all parties have executed and
 delivered a counterpart of this Agreement.
 
-                                      A-39
+                                       A-39
 
      8.6  Notices.  All notices, requests, demands, claims or other
 communications hereunder will be in writing and shall be deemed duly given if
@@ -6923,7 +6961,7 @@ and, after the Closing Date, the Stockholders, any rights or remedies hereunder.
 and/or deliver, both before and after Closing, any additional information,
 documents or agreements contemplated hereby and/or necessary or appropriate to
 effect and consummate the transactions contemplated hereby. Subject to
-                                      A-40
+                                       A-40
 
 Section 3.8 hereof, Guest Supply agrees to provide to Sysco before the Closing
 such information as Sysco may reasonably request in order to consummate the
@@ -7001,7 +7039,7 @@ any bond or other security.
 
                                     *  *  *
 
-                                      A-41
+                                       A-41
 
      IN WITNESS WHEREOF, the undersigned have executed and delivered this
 Agreement under seal as of the date first written above.
@@ -7040,7 +7078,7 @@ Agreement under seal as of the date first written above.
                                             Title: President
                                             ------------------------------------
 
-                                      A-42
+                                       A-42
 
                                    SCHEDULE I
 
@@ -7118,7 +7156,7 @@ Resolutions
 
      14.  Amendment to General Counsel Agreement
 
-                                      A-43
+                                       A-43
 
                                                                       APPENDIX A
 
@@ -7532,38 +7570,4 @@ subject to the conditions set forth herein:
      designated in the Offer (i) a letter of transmittal with respect to the
      Stockholder's Shares (other than the Tender Exception Shares as defined in
      Section 2.3 below) complying with the terms of the Offer together with
-     instructions directing the Exchange Agent to make payment for the
-     Stockholder's Shares directly to Stockholder, (ii) a certificate or
-     certificates representing the Stockholder's Shares and (iii) all other
-     documents or instruments required to be delivered pursuant to the terms of
-     the Offer (collectively, the "Tender Documents"), and/or (y) instruct its
-     broker or such other Person who is the holder of record of any shares of
-     Common Stock Owned by Stockholder to tender such shares for exchange in the
-     Offer pursuant to the terms and conditions of the Offer; and
-
-          (c) Stockholder shall not withdraw any tender effected in accordance
-     with this Section 2.1; provided, however, that Stockholder shall have the
-     right to withdraw any tender effected in accordance with this Section 2.1
-     if the Merger Agreement is terminated.
-
-     2.2  Proxy.  Stockholder hereby irrevocably (to the fullest extent
-permitted by law) appoints and constitutes each of Merger Sub and Parent the
-attorneys and proxies of the undersigned with full power of substitution and
-resubstitution, to the full extent of the undersigned's rights with respect to
-the Subject Securities. Upon the execution hereof, all prior proxies given by
-the Stockholder with respect to any of the Shares are hereby revoked, and the
-Stockholder agrees that no subsequent proxies will be given with respect to any
-of the Subject Securities.
-
-     This proxy is irrevocable, is coupled with an interest between Parent and
-the Stockholder and is granted in consideration of Parent entering into the
-Merger Agreement.
-
-     The attorneys and proxies named above will be empowered, and may exercise
-this proxy, to vote the Shares at any time until the Expiration Date at any
-meeting of the stockholders of the Company, however called, or in connection
-with any solicitation of written consents from stockholders of the Company, (i)
-in favor of the approval and adoption of the Merger Agreement and the approval
-of the Merger, and in favor of each of the other actions contemplated by the
-Merger Agreement, (ii) against any proposal for any recapitalization, merger,
-sale of assets
+     instructions directing the Exchange Agent to make pay

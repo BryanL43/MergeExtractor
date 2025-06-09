@@ -12,6 +12,7 @@ MAX_NUM_OF_THREADS = min(32, os.cpu_count() + 4);
 # A more lightweight SpaCy model to quickly discern the section (can be replaced with larger models)
 BASE_NLP_MODEL = "en_core_web_sm"; # String format to be instantiated in each process generated via multi-processing
 RERANKER_MODEL = "BAAI/bge-reranker-v2-m3";
+EMBEDDING_MODEL = "text-embedding-3-small";
 DELETE_ASSISTANT_MODE = False;
 CSV_FILE = os.path.abspath("./truncatedData.csv");
 

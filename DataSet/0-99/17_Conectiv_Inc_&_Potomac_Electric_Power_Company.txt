@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/1135971/000092838501501015/0000928385-01-501015.txt
+URL: https://www.sec.gov/Archives/edgar/data/1135971/000092838501500979/0000928385-01-500979.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- EX6FmaifUOBa3jX9T3MICedV8nDPo+inqldIPWR6bAbFiOslU+E3a4mVkmZrBGqj
- 9BwFNQ9j01f/5qgSpWyq8A==
+ FfoJrgB9EVqJtMNQyHSOpdHfRdI1q74ieJy8zBfyy+62nFIo+h6O/EVe5tT3olGQ
+ hH/T0uBxRBa6uJJRKLHc6A==
 
-0000928385-01-501015.txt : 20010531
+0000928385-01-500979.txt : 20010627
 
-0000928385-01-501015.hdr.sgml : 20010531
-ACCESSION NUMBER:		0000928385-01-501015
+0000928385-01-500979.hdr.sgml : 20010627
+ACCESSION NUMBER:		0000928385-01-500979
 CONFORMED SUBMISSION TYPE:	S-4/A
-PUBLIC DOCUMENT COUNT:		5
-FILED AS OF DATE:		20010530
+PUBLIC DOCUMENT COUNT:		4
+FILED AS OF DATE:		20010524
 
 FILER:
 
@@ -29,7 +29,7 @@ FILER:
 		FORM TYPE:		S-4/A
 		SEC ACT:		
 		SEC FILE NUMBER:	333-57042
-		FILM NUMBER:		1650890
+		FILM NUMBER:		1647120
 
 	BUSINESS ADDRESS:	
 		STREET 1:		C/O PEPCO INC
@@ -49,9 +49,9 @@ S-4/A
 
 ds4a.txt
 
-AMENDMENT NO. 3
+PRE-EFFECTIVE AMENDMENT NO. 2 TO FORM F-4
 
-   As filed with the Securities and Exchange Commission on May 30, 2001
+   As filed with the Securities and Exchange Commission on May 24, 2001
                                                       Registration No. 333-57042
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
@@ -61,7 +61,7 @@ AMENDMENT NO. 3
 
                                 ---------------
 
-                     PRE-EFFECTIVE AMENDMENT NO. 3 TO
+                     PRE-EFFECTIVE AMENDMENT NO. 2 TO
                                     FORM S-4
                              REGISTRATION STATEMENT
                                      UNDER
@@ -71,9 +71,9 @@ AMENDMENT NO. 3
                                   New RC, Inc.
            (Exact name of the registrant as specified in its charter)
 
-           Delaware                                  4931                          52-2297449
- (State or other jurisdiction            (Primary Standard Industrial          (I.R.S. employer
-  of incorporation or organization)      Classification Code Number)          identification number)
+           Delaware                                 4931                            52-2297449
+ (State or other jurisdiction of        (Primary Standard Industrial            (I.R.S. employer
+  incorporation or organization)         Classification Code Number)         identification number)
 
                                 ---------------
                           1900 Pennsylvania Ave., N.W.
@@ -94,19 +94,17 @@ AMENDMENT NO. 3
 
                                 ---------------
 
-                                        With Copies to:
-      William S. Lamb, Esq.        William T. Torgerson, Esq.         James M. Cotter, Esq.
- LeBoeuf, Lamb, Greene & MacRae
-             L.L.P.              Potomac Electric Power Company      Simpson Thacher & Bartlett
-      125 West 55th Street        1900 Pennsylvania Ave., N.W.          425 Lexington Avenue
-     New York, NY 10019-5389         Washington, D.C. 20068           New York, NY 10017-3954
-         (212) 424-8000                  (202) 872-2000                    (212) 455-2000
-
-                                      Peter F. Clark, Esq.
-                                            Conectiv
-                                        800 King Street
-                                      Wilmington, DE 19801
-                                         (302) 429-3018
+                                                With Copies to:
+      William S. Lamb, Esq.                  William T. Torgerson, Esq.            James M. Cotter, Esq.
+ LeBoeuf, Lamb, Greene & MacRae L.L.P.   Potomac Electric Power Company         Simpson Thacher & Bartlett
+      125 West 55th Street                1900 Pennsylvania Ave., N.W.             425 Lexington Avenue
+     New York, NY 10019-5389                 Washington, D.C. 20068              New York, NY 10017-3954
+         (212) 424-8000                         (202) 872-2000                       (212) 455-2000
+                                              Peter F. Clark, Esq.
+                                                    Conectiv
+                                                800 King Street
+                                              Wilmington, DE 19801
+                                                 (302) 429-3018
 
                                 ---------------
    Approximate date of commencement of proposed sale to the public: As soon as
@@ -175,16 +173,26 @@ pursuant to said Section 8(a), may determine.
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
-[Pepco Logo Appears Here]                                      [Conectiv Logo
-                                                               Appears Here]
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++The information in this joint proxy statement/prospectus is not complete and  +
++may be changed. These securities may not be sold until the registration       +
++statement filed with the Securities and Exchange Commission is effective.     +
++This joint proxy statement/prospectus is not an offer to sell nor is it an    +
++offer to buy these securities in any jurisdiction where the offer or sale is  +
++not permitted.                                                                +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+                 SUBJECT TO COMPLETION--DATED MAY 24, 2001
+
+[Pepco Logo Appears Here]                   [Conectiv Logo Appears Here]
 
 Dear Potomac Electric Power Company and Conectiv Stockholders:
 
-   The boards of directors of Potomac Electric Power Company and Conectiv have
+  The boards of directors of Potomac Electric Power Company and Conectiv have
 approved a transaction that will create a new holding company, currently named
 New RC, Inc., to hold what today are their independent businesses.
 
-   In the transaction, holders of Pepco common stock will receive one share of
+  In the transaction, holders of Pepco common stock will receive one share of
 New RC common stock for each share of Pepco common stock that they own. Pepco's
 preferred stock will not be exchanged in the transaction, and will remain
 outstanding. Holders of Conectiv common stock will receive consideration in the
@@ -200,26 +208,26 @@ stock shortly before the transaction closes, and may be more or less than
 $25.00 for the Conectiv common stock (more or less than $21.69 for the Conectiv
 Class A common stock).
 
-   We estimate that Pepco common stockholders will own approximately 67% and
+  We estimate that Pepco common stockholders will own approximately 67% and
 Conectiv stockholders will own approximately 33% of the 140 million to 170
 million shares of New RC common stock currently estimated to be outstanding
 immediately after the transaction. New RC common stock will be listed on the
 New York Stock Exchange.
 
-   Pepco and Conectiv will each hold a meeting for our stockholders to vote on
+  Pepco and Conectiv will each hold a meeting for our stockholders to vote on
 approval of the merger agreement between the parties, which provides for the
 transaction, and on the Long-Term Incentive Plan that New RC intends to put in
 place following the closing of the transaction. At their respective meetings,
 Pepco common stockholders will be asked to elect five directors and Conectiv
 stockholders will be asked to elect three directors.
 
-   Whether or not you plan to attend your meeting, please take the time to vote
+  Whether or not you plan to attend your meeting, please take the time to vote
 by following the instructions on your proxy card.
 
-   Only stockholders of record of Pepco at the close of business on May 29,
-2001 and stockholders of record of Conectiv at the close of business on May 29,
-2001 are entitled to attend or vote at the respective meetings. The dates,
-times and places of the meetings are:
+  Only stockholders of record of Pepco at the close of business on May 29, 2001
+and stockholders of record of Conectiv at the close of business on May 29, 2001
+are entitled to attend or vote at the respective meetings. The dates, times and
+places of the meetings are:
 
      For Pepco stockholders:                    For Conectiv stockholders:
      July 18, 2001 at 10:00 a.m.                July 17, 2001 at 11:00 a.m.
@@ -228,9 +236,9 @@ times and places of the meetings are:
      3501 University Boulevard East             818 N. Market Street
      Adelphi, Maryland                          Wilmington, Delaware
 
-                               ----------------
+                                  ----------
 
-   Please see the section entitled "Risk Factors Relating To The Transaction"
+  Please see the section entitled "Risk Factors Relating To The Transaction"
 for a discussion of potential risks involved in the transaction, beginning on
 page 21.
 
@@ -243,15 +251,15 @@ Each vote is important. Please vote by completing, signing, dating and
 returning your proxy or, if applicable, by granting a proxy by telephone or
 through the Internet.
 
-   Neither the Securities and Exchange Commission nor any state securities
+  Neither the Securities and Exchange Commission nor any state securities
 regulator has approved or disapproved this document or the securities to be
 issued in connection with the transaction or determined if this document is
 accurate or adequate. Any representation to the contrary is a criminal offense.
 
-                               ----------------
+                                  ----------
 
-This joint proxy statement/prospectus is dated May 30, 2001 and it is first
-being mailed on or about June 1, 2001.
+This joint proxy statement/prospectus is dated      , 2001 and it is first
+being mailed on or about      , 2001.
 
    This document is the joint proxy statement of Pepco and Conectiv for their
 stockholder meetings and the prospectus of New RC, Inc. for the common stock to
@@ -266,9 +274,9 @@ Exchange Commission. You may also request these documents from the respective
 companies.
 
    To obtain timely delivery, Pepco stockholders must request this information
-by July 11, 2001 and Conectiv stockholders must request this information by
-July 10, 2001. You may obtain these documents without charge by writing or
-calling Pepco or Conectiv at the following addresses and telephone numbers:
+by     , 2001 and Conectiv stockholders must request this information by     ,
+2001. You may obtain these documents without charge by writing or calling Pepco
+or Conectiv at the following addresses and telephone numbers:
 
      Potomac Electric Power Company                   Conectiv
           Ellen Sheriff Rogers                     Peter F. Clark
@@ -288,7 +296,7 @@ calling Pepco or Conectiv at the following addresses and telephone numbers:
                                       and
               Notice of Special Meeting of Preferred Stockholders
 
-                                                               May 30, 2001
+                                                                          , 2001
 
    NOTICE IS HEREBY GIVEN that the annual meeting of common stockholders of
 Pepco, and a special meeting of preferred stockholders of Pepco, will be held
@@ -299,7 +307,7 @@ Pepco (which we refer to as the Pepco Board) in connection with its
 solicitation of proxies to vote on the matters being submitted to a vote at the
 meetings. The Notice of Annual Meeting and Special Meeting, the joint proxy
 statement/prospectus and a proxy card are being first mailed to Pepco
-stockholders of record on or about June 1, 2001. The purposes of the Pepco
+stockholders of record on or about        , 2001. The purposes of the Pepco
 meetings are:
 
   1.   To consider and vote upon a proposal to approve the Agreement and Plan
@@ -392,18 +400,17 @@ Conectiv will be held:
 common stock will be entitled to vote as a single class on all of the items
 above.
 
-   How To Vote. Your vote is important. If your shares are registered in your
-own name, please vote your shares using any one of these options:
+   How To Vote. Your vote is important. Please vote your shares using any one
+of these options:
 
   1. Granting a proxy using the telephone (see the instructions on the proxy
      card), or
 
-  2. Granting a proxy through the Internet, at
-     http://proxy.shareholder.com/civ, entering your control number and
-     following the instructions provided, or
+  2. Granting a proxy through the Internet, at www.proxyvote.com, entering
+     your control number and following the instructions provided, or
 
-  3. Marking your selections; signing, dating and returning the enclosed
-     proxy card in the postage-paid envelope provided, or
+  3. Marking your selections and returning the enclosed proxy card in the
+     postage-paid envelope provided, or
 
   4. Attending the meeting and voting in person (even if you plan to attend
      the meeting, you are encouraged to grant a proxy through one of the
@@ -424,12 +431,13 @@ respect to the transaction contemplated in Item 1 above.
 
                                           Yours very truly,
 
+                                          /s/ Peter F. Clark
                                           _____________________________________
                                           Peter F. Clark
                                           Vice President, General Counsel and
                                           Secretary
 
-May 30, 2001
+        , 2001
 
    Please date and sign your proxy and return it in the envelope provided.
 
@@ -443,10 +451,10 @@ May 30, 2001
 QUESTIONS AND ANSWERS ABOUT THE TRANSACTION AND THE MEETINGS..............   1
 SUMMARY...................................................................   5
 CORPORATE STRUCTURE.......................................................  13
-MARKET PRICES AND DIVIDENDS DECLARED......................................  14
+MARKET PRICES AND DIVIDENDS PAID..........................................  14
 SELECTED HISTORICAL FINANCIAL INFORMATION.................................  15
 COMPARATIVE PER SHARE INFORMATION.........................................  17
-UNAUDITED SELECTED PRO FORMA COMBINED FINANCIAL INFORMATION...............  20
+UNAUDITED SELECTED PRO FORMA COMBINED FINANCIAL INFORMATION...............  21
 RISK FACTORS RELATING TO THE TRANSACTION..................................  21
 A CAUTION ABOUT FORWARD-LOOKING STATEMENTS................................  23
 THE PEPCO MEETING.........................................................  24
@@ -515,8 +523,7 @@ APPROVAL OF THE NEW RC LONG-TERM INCENTIVE PLAN............................  91
   New Plan Benefits........................................................  96
   Vote Required............................................................  96
 UNAUDITED PRO FORMA COMBINED FINANCIAL STATEMENTS..........................  97
-CONECTIV RECLASSIFYING CONSOLIDATED FINANCIAL STATEMENTS................... 107
-NEW RC, INC. FINANCIAL STATEMENTS.......................................... 111
+RECLASSIFYING CONSOLIDATED STATEMENT OF EARNINGS........................... 107
 ACQUISITION FINANCING...................................................... 114
 INFORMATION ABOUT PEPCO.................................................... 114
 INFORMATION ABOUT CONECTIV................................................. 116
@@ -718,40 +725,38 @@ A: The Conectiv Board recommends that you vote "FOR" each proposal.
 
 Q: How do I vote?
 
-A: If your shares are registered in your own name, you may vote in person at
-   the meeting or by returning your completed proxy card(s) in the enclosed
-   postage-paid envelope. You also may grant a proxy by telephone at  1-800-
-   574-7149 or on the Internet at http://proxy.shareholder.com/civ by following
-   the instructions on the proxy form you receive. If you return your signed
-   proxy card or grant a proxy through the telephone or Internet procedures,
-   your shares will be voted in accordance with your instructions. If you
-   return your signed proxy card or grant a proxy through the telephone or
-   Internet procedures, but do not designate how you wish to vote, your shares
-   will be voted "FOR" each proposal.
-
-  If your shares are held through a broker or bank, please follow their
-  instructions about how to vote your proxy.
+A: Conectiv stockholders may vote in person at the meeting or by returning your
+   completed proxy card(s) in the enclosed postage-paid envelope. You also may
+   grant a proxy by telephone at  1-800-574-7149 or on the Internet at
+   http://proxy.shareholder.com/civ by following the instructions on the proxy
+   form you receive. If you return your signed proxy card or grant a proxy
+   through the telephone or Internet procedures, your shares will be voted in
+   accordance with your instructions. If you return your signed proxy card or
+   grant a proxy through the telephone or Internet procedures, but do not
+   designate how you wish to vote, your shares will be voted "FOR" each
+   proposal.
 
 Q: What shares are included on the enclosed proxy card for Conectiv?
 
 A: The number of shares indicated on the enclosed white proxy card consists of
-   the number of shares of Conectiv common stock or Class A common stock that
-   our records show you owned at the close of business on May 29, 2001. This
-   includes shares owned in the ConectivDirectTM Stock Purchase Plan, Conectiv
-   Savings and Investment Plan and stock-based executive compensation plans. A
-   total of approximately 87,851,316 shares are entitled to vote. This
-   includes approximately 82,153,315 shares of common stock and approximately
-   5,698,001 shares of Class A common stock. Common stock and Class A common
-   stock are considered one class for voting purposes, with each share having
-   one vote.
+   the number of shares of Conectiv common stock or Class A
+
+   common stock that our records show you owned at the close of business
+   on     , 2001. This includes shares owned in the ConectivDirectTM Stock
+   Purchase Plan, Conectiv Savings and Investment Plan and stock-based
+   executive compensation plans. A total of approximately    ,   ,    shares
+   are entitled to vote. This includes approximately    ,   ,    shares of
+   common stock and approximately    ,    ,    shares of Class A common stock.
+   Common stock and Class A common stock are considered one class for voting
+   purposes, with each share having one vote.
 
 Q: What does it mean if I get more than one proxy card for the Conectiv
    meeting?
 
 A: Conectiv has mailed this material to all stockholders of record as of the
-   Conectiv Record Date. In most cases, you will receive one proxy card for
-   all shares registered in the same name. If you receive more than one proxy
-   card (other than because you are a participant in the Conectiv Savings and
+   Conectiv Record Date. In most cases, you will receive one proxy card for all
+   shares registered in the same name. If you receive more than one proxy card
+   (other than because you are a participant in the Conectiv Savings and
    Investment Plan), it is because your shares are registered in different
    names or with different addresses or are held in different accounts. Please
    sign and return each proxy card that you receive (or, grant a proxy by
@@ -763,27 +768,23 @@ Q: How are shares held in Conectiv's employee benefit plans voted?
 
 A: Employees can vote these shares by proxy by following the proxy voting
    instructions. Shares held in the Conectiv Savings and Investment Plan that
-   are not voted by the employee or other beneficial owner will be voted by
-   the trustee administering the plan. The trustee will vote such shares in
-   the same proportions as the Savings and Investment Plan participants who
-   voted their shares. For example if 75% of voting Savings and Investment
-   Plan participants cast their votes for a proposal, the trustee will vote
-   75% of the unvoted shares for the proposal, and 25% of such shares against
-   the proposal.
+   are not voted by the employee or other beneficial owner will be voted by the
+   trustee administering the plan. The trustee will vote such shares in the
+   same proportions as the Savings and Investment Plan participants who voted
+   their shares. For example if 75% of voting Savings and Investment Plan
+   participants cast their votes for a proposal, the trustee will vote 75% of
+   the unvoted shares for the proposal, and 25% of such shares against the
+   proposal.
 
 Q: Can I change my vote after I have returned my proxy card?
 
-A: You may revoke your proxy at any time before it is exercised. If your
-   shares are registered in your own name, you may revoke your proxy by
-   submitting a later-dated notice of revocation in writing to the Secretary
-   of Conectiv or by telephone at 1-800-574-7149 or Internet at
+A: You may revoke your proxy at any time before it is exercised by submitting a
+   later-dated notice of revocation in writing to the Secretary of Conectiv or
+   by telephone at 1-800-574-7149 or Internet at
    http://proxy.shareholder.com/civ; or by submitting a later-dated proxy in
    writing (that is properly signed) or by telephone at 1-800-574-7149 or
    Internet at http://proxy.shareholder.com/civ, or by voting in person at the
    meeting.
-
-   If your shares are held through a broker or bank, please follow their
-   instructions about how to revoke your proxy.
 
 Q: My shares of Conectiv stock are held in "street name." Will my broker vote
    my shares at the Conectiv meeting?
@@ -792,11 +793,10 @@ A: Under NYSE rules, a broker is permitted to vote your shares on the merger
    agreement and the New RC Long-Term Incentive Plan only if you provide the
    broker with instructions on how to vote.
 
-   On the other hand, a broker is permitted to vote your shares on the
-   election of directors whether or not you provide voting instructions to the
-   broker. You should follow the directions provided by your broker(s)
-   regarding how to provide voting instructions for your shares held in street
-   name.
+   On the other hand, a broker is permitted to vote your shares on the election
+   of directors whether or not you provide voting instructions to the broker.
+   You should follow the directions provided by your broker(s) regarding how to
+   provide voting instructions for your shares held in street name.
 
 Q: Should I send in my stock certificates now?
 
@@ -840,7 +840,7 @@ refers to the pages where that subject is discussed more fully.
 
 The Companies
 
- Pepco (page 114)
+ Pepco (page 24)
 
 Potomac Electric Power Company
 1900 Pennsylvania Avenue, N.W.
@@ -853,7 +853,7 @@ services including local and long distance telephone, high-speed Internet and
 cable television, and (3) the supply of energy products and services in
 competitive retail markets.
 
- Conectiv (page 116)
+ Conectiv (page 28)
 
 Conectiv
 800 King Street
@@ -898,9 +898,9 @@ outstanding shares of Conectiv common stock and Conectiv Class A common stock,
 voting together as a single class, are required to adopt the merger agreement.
 As of the Conectiv Record Date, the directors and executive officers of
 Conectiv, together with their affiliates, collectively beneficially owned
-approximately 381,465 shares of Conectiv common stock and 1,864 shares of
-Conectiv Class A common stock, or approximately .05% of the shares entitled to
-vote at the annual meeting.
+approximately     shares of Conectiv common stock and     shares of Conectiv
+Class A common stock, or approximately   % of the shares entitled to vote at
+the annual meeting.
 
  What You will Receive (page 31)
 
@@ -947,7 +947,7 @@ information on the election procedure can be found in the section entitled
 share of Pepco common stock on the NYSE, for 20 trading days during the one-
 month period immediately preceding the closing date of the transaction. The
 method of calculating this average price, which we refer to as the Average
-Final Price, is described in greater detail on pages 32 and 33.
+Final Price, is described in greater detail on pages 32 through 33.
 
    If the Average Final Price is between $19.50 and $24.50, then each share of
 Conectiv common stock will be exchanged for consideration in the transaction
@@ -972,25 +972,23 @@ form of merger consideration that they wish to receive and the closing of the
 transaction is one to two months. The election must be made, and the election
 form returned, by two days before the closing of the transaction.
 
-   Based on the Average Final Price, as of May 29, 2001, of Pepco common stock
-of $21.89, and a corresponding exchange ratio of 1.14207 per share of Conectiv
-common stock and 0.99086 per share of Conectiv Class A common stock, the table
-below shows the consideration a Conectiv stockholder will receive for 100
-shares of Conectiv common stock and Conectiv Class A common stock, assuming
-that the stockholder elects to receive 50% cash and 50% shares of New RC common
-stock as consideration and no proration occurred, and assuming that the trading
-price of one share of New RC common stock is equal to one share of Pepco common
-stock.
+   Based on the current trading price, as of May  , 2001, of Pepco common stock
+of $    , and a corresponding exchange ratio of     , the table below shows the
+consideration a Conectiv stockholder will receive for each share of Conectiv
+common stock and Conectiv Class A common stock, assuming that the stockholder
+elects to receive 50% cash and 50% shares of New RC common stock as
+consideration and no proration occurred, and assuming that the trading price of
+one share of New RC common stock is equal to one share of Pepco common stock.
 
-                               Number of               Cash      Total Value
-                                New RC   Value of  Consideration    to be
-                                Shares    New RC     and Other    Received
-                                 to be    Shares    Payments to   for Each
-                               Received  Received   be Received     Share
-                               --------- --------- ------------- -----------
+                               Number of                        Total Value
+                                New RC   Value of     Cash         to be
+                                Shares    New RC  Consideration  Received
+                                 to be    Shares      to be      for Each
+                               Received  Received   Received       Share
+                               --------- -------- ------------- -----------
 
-Conectiv common stock              57    $1,247.73   $1,252.27    $2,500.00
-Conectiv Class A common stock      49    $1,072.61   $1,096.32    $2,108.93
+Conectiv common stock
+Conectiv Class A common stock
 
    Additionally, 50% of the consideration payable to Conectiv stockholders will
 be paid in cash and 50% in New RC common stock. In the event that either cash
@@ -1017,7 +1015,7 @@ Our Boards' Recommendations to Stockholders
 approval of the merger agreement and the related transactions and "FOR"
 approval of the New RC Long-Term Incentive Plan.
 
-   Conectiv (page 55)
+   Conectiv (page 54)
 
    The Conectiv Board recommends that the stockholders of Conectiv vote "FOR"
 approval of the merger agreement and "FOR" approval of the New RC Long-Term
@@ -1077,7 +1075,7 @@ undertaken. Credit Suisse First Boston's opinion is addressed to the Conectiv
 Board and does not constitute a recommendation to any stockholder as to any
 matter relating to the transaction.
 
-Dissenters' Appraisal Rights (page 64)
+Dissenters' Appraisal Rights (page 63)
 
    The stockholders of Pepco have dissenters' appraisal rights under District
 of Columbia and Virginia laws. The stockholders of Conectiv have dissenters'
@@ -1087,7 +1085,7 @@ these provisions of the District of Columbia, Virginia and Delaware corporate
 law, any Pepco or Conectiv stockholder who is considering exercising
 dissenters' appraisal rights may wish to consult a legal advisor.
 
-Material U.S. Federal Income Tax Consequences (page 67)
+Important Federal Income Tax Consequences (page 66)
 
   The U.S. federal income tax consequences to you will depend on the form of
 consideration you receive in the transaction.
@@ -1138,7 +1136,7 @@ reductions since the date of its generation asset sale in a like amount of
 Pepco's borrowings. New RC does not foresee any difficulty in obtaining these
 additional funds on market terms.
 
-Comparative Rights of Stockholders (page 120)
+Comparison of Stockholder Rights (page 120)
 
    When the transaction is completed, both Pepco and Conectiv stockholders will
 become stockholders of New RC and their rights will be governed by Delaware
@@ -1174,7 +1172,7 @@ hand.
      and other specified actions and the inclusion of such a provision in the
      New RC certificate of incorporation.
 
-Regulatory Approvals Required to Complete the Transaction (page 74)
+Regulatory Approvals Required to Complete the Transaction (page 73)
 
    In order to complete the transaction, we must receive approvals from and/or
 make filings with various U.S. federal and state governmental agencies. We
@@ -1393,7 +1391,7 @@ completion of the proposed transaction.
 
         Subsidiaries            Subsidiaries
 
-                   MARKET PRICES AND DIVIDENDS DECLARED
+                        MARKET PRICES AND DIVIDENDS PAID
 
    Pepco common stock is listed and trades on the NYSE under the symbol "POM"
 and Conectiv common stock and Conectiv Class A common stock are listed and
@@ -1425,32 +1423,32 @@ Transactions, and dividends declared per share.
 
  First Quarter ......... $24.90 $20.20  $0.415  $22.50 $17.19  $0.220  $22.80 $12.63  $0.800
  Second Quarter
-  (through May 29)...... $23.84 $21.23  $0.250  $22.89 $21.34     N/A  $20.92 $19.00     N/A
+  (through   ).......... $      $       $       $      $       $       $      $       $
 
    On February 9, 2001, the last full trading day before the public
-announcement of execution of the merger agreement, and on May 29, 2001, the
-last full trading day for which information was available before the date of
-this joint proxy statement/prospectus, the high, low and closing sales prices,
-as reported in The Wall Street Journal as New York Stock Exchange Composite
+announcement of execution of the merger agreement, and on    , 2001, the last
+full trading day for which information was available before the date of this
+joint proxy statement/prospectus, the high, low and closing sales prices, as
+reported in The Wall Street Journal as New York Stock Exchange Composite
 Transactions, for Pepco common stock, Conectiv common stock and Conectiv Class
 A common stock were as follows:
 
-                                      February 9, 2001        May 29, 2001
+                                      February 9, 2001             , 2001
                                     --------------------- ---------------------
                                      High   Low   Closing  High   Low   Closing
                                     ------ ------ ------- ------ ------ -------
 
-   Pepco common stock.............. $21.39 $20.60 $21.35  $22.00 $21.60 $21.80
-   Conectiv common stock........... $21.34 $20.92 $21.00  $22.46 $21.75 $21.75
-   Conectiv Class A common stock... $22.05 $20.50 $22.00  $19.59 $19.50 $19.55
+   Pepco common stock.............. $21.39 $20.60 $21.35
+   Conectiv common stock........... $21.34 $20.92 $21.00
+   Conectiv Class A common stock... $22.05 $20.50 $22.00
 
    The number of shares of New RC common stock to be exchanged for each share
 of Conectiv stock converted in the transaction will vary depending on the
 calculation of the exchange ratio. As of February 9, 2001, the pro forma
 equivalent market value was $25.00 per share of Conectiv common stock and
-$21.69 per share of Conectiv Class A common stock. As of May 29, 2001, the pro
-forma equivalent market value was $25.00 per share of Conectiv common stock and
-$21.69 per share of Conectiv Class A common stock.
+$21.69 per share of Conectiv Class A common stock. As of     , 2001, the pro
+forma equivalent market value was $   per share of Conectiv common stock and
+$   per share of Conectiv Class A common stock.
 
    The market prices of Pepco common stock, Conectiv common stock and Conectiv
 Class A common stock are subject to fluctuation. As a result, Pepco and
@@ -1463,11 +1461,12 @@ and Conectiv shares.
 data, including selected historical per share data, for Pepco and Conectiv. The
 selected historical consolidated financial data for Pepco and Conectiv for the
 three months ended March 31, 2001 and for each year in the five-year period
-ended December 31, 2000 have been derived from the financial statements of
-Pepco and Conectiv, respectively. The selected historical financial data should
-be read in conjunction with the historical consolidated financial statements
-and related notes thereto of Pepco and Conectiv as presented in their
-respective Forms 10-Q and 10-K, which are incorporated by reference herein.
+ended December 31, 2000 have been derived from the audited financial statements
+of Pepco and Conectiv, respectively. The selected historical financial data
+should be read in conjunction with the historical consolidated financial
+statements and related notes thereto of Pepco and Conectiv as presented in
+their respective Forms 10-Q and 10-K, which are incorporated by reference
+herein.
 
 Selected Historical Financial Data
 
@@ -1475,41 +1474,42 @@ Selected Historical Financial Data
                   (Millions of Dollars, Except Per Share Data)
 
                          Three Months
-                            Ended               Year Ended December 31,
-                          March 31,     ----------------------------------------------
-                             2001         2000        1999     1998     1997    1996
-                         ------------   --------     -------  -------  ------- -------
+                            Ended             Year Ended December 31,
+                          March 31,   ----------------------------------------------
+                             2001       2000        1999     1998     1997    1996
+                         ------------ --------     -------  -------  ------- -------
 
 Statement of Earnings
  Data:
  Total Operating Revenue
-  (a)(b)................   $  611.0 (b) $3,047.7 (a) 2,476.0  2,220.8  1,997.1 2,141.2
+  (a)...................   $  611.0   $3,047.7 (a) 2,476.0  2,220.8  1,997.1 2,141.2
  Total Operating
-  Expenses..............   $  478.2     $2,328.2     2,095.6  1,858.0  1,751.7 1,826.5
+  Expenses..............   $  478.2   $2,328.2     2,095.6  1,858.0  1,751.7 1,826.5
  (Loss) Income from
   Equity Investments,
   Principally
   Telecommunication
-  Entities..............   $   (6.3)(b) $  (17.1)       (9.6)    (8.5)     2.0     2.7
- Net Income.............   $   64.9 (b) $  352.0 (a)   247.1    226.3    181.8   237.0
+  Entities..............   $   (6.3)  $  (17.1)       (9.6)    (8.5)     2.0     2.7
+ Operating Income.......   $  132.8   $  702.4 (a)   370.8    354.3    247.4   317.4
+ Net Income.............   $   64.9   $  352.0 (a)   247.1    226.3    181.8   237.0
  Earnings Available for
-  Common Stock..........   $   63.7 (b) $  346.5 (a)   238.2    208.3    165.3   220.4
+  Common Stock..........   $   63.7   $  346.5 (a)   238.2    208.3    165.3   220.4
  Earnings Per Share of
   Common Stock:
-  Basic.................   $    .58     $   3.02        2.01     1.76     1.39    1.86
-  Diluted...............   $    .57     $   2.96        1.98     1.73     1.38    1.82
+  Basic.................   $    .58   $   3.02        2.01     1.76     1.39    1.86
+  Diluted...............   $    .57   $   2.96        1.98     1.73     1.38    1.82
 
-                                                    At December 31,
-                         At March 31,   ----------------------------------------------
-                             2001         2000        1999     1998     1997    1996
-                         ------------   --------     -------  -------  ------- -------
+                                                  At December 31,
+                         At March 31, ----------------------------------------------
+                             2001       2000        1999     1998     1997    1996
+                         ------------ --------     -------  -------  ------- -------
 
 Balance Sheet Data:
- Total Assets...........   $5,758.7     $7,027.3     6,910.6  6,574.1  6,683.2 6,852.4
+ Total Assets...........   $5,758.7   $7,027.3     6,910.6  6,574.1  6,683.2 6,852.4
  Capitalization
   Long-term debt and
    capital lease
-   obligations..........   $1,718.5     $1,859.6     2,867.0  2,563.5  2,892.4 2,926.7
+   obligations..........   $1,718.5   $1,859.6     2,867.0  2,563.5  2,892.4 2,926.7
   Company obligated
    mandatorily
    redeemable preferred
@@ -1518,25 +1518,21 @@ Balance Sheet Data:
    which holds solely
    parent junior
    subordinated
-   debentures...........   $  125.0     $  125.0       125.0    125.0      --      --
-  Preferred stock.......   $   84.8     $   90.3       100.0    150.0    266.3   267.8
-  Shareholders' equity..   $1,838.9     $1,862.5     1,910.3  1,877.4  1,863.0 1,889.2
-                           --------     --------     -------  -------  ------- -------
- Total Capitalization...   $3,767.2     $3,937.4     5,002.3  4,715.9  5,021.7 5,083.7
+   debentures...........   $  125.0   $  125.0       125.0    125.0      --      --
+  Preferred stock.......   $   84.8   $   90.3       100.0    150.0    266.3   267.8
+  Shareholders' equity..   $1,838.9   $1,862.5     1,910.3  1,877.4  1,863.0 1,889.2
+                           --------   --------     -------  -------  ------- -------
+ Total Capitalization...   $3,767.2   $3,937.4     5,002.3  4,715.9  5,021.7 5,083.7
  Book Value per Share of
-  Common Stock..........   $  16.89     $  16.82       16.12    15.84    15.72   15.94
+  Common Stock..........   $  16.89   $  16.82       16.12    15.84    15.72   15.94
  Cash Dividends Declared
   Per Share of Common
-  Stock.................   $  0.415     $   1.66        1.66     1.66     1.66    1.66
+  Stock.................   $  0.415   $   1.66        1.66     1.66     1.66    1.66
 
 - --------
 (a)  In December 2000, Pepco divested substantially all of its generation
      assets. This divestiture resulted in the recognition of a pre-tax gain of
      approximately $423.8 million ($182 million net of income taxes).
-
-(b) In January 2001, Pepco completed its divestiture of generation assets
-    resulting in a pre-tax gain of approximately $50.2 million ($22.4 million
-    net of income tax).
 
                                     CONECTIV
                   (Millions of Dollars, Except Per Share Data)
@@ -1590,8 +1586,7 @@ Balance Sheet Data:
                             --------     -------- --------     -------- --------    --------
  Total Capitalization...    $3,483.4     $3,480.7 $3,578.4     $3,911.3 $2,117.8    $2,019.2
  Book Value per Share of
-  Common and Class A
-  Common Stock..........    $  13.15     $  13.10 $  12.38     $  17.21 $  15.59    $  15.41
+  Common Stock..........    $  14.07     $  13.10 $  12.38     $  17.21 $  15.59    $  15.41
  Cash Dividends Declared
   Per Share:
   Common Stock..........    $   0.22     $   0.88 $  1.045     $   1.54 $   1.54    $   1.54
@@ -1602,9 +1597,11 @@ Balance Sheet Data:
      wholly owned subsidiaries of Conectiv on March 1, 1998. This transaction
      was accounted for under the purchase method of accounting, with Delmarva
      Power & Light Company as the acquirer.
+
 (b)  This item, net of $188.3 million in taxes, resulted from the restructuring
      of the electric utility industry and discontinuing the application of SFAS
      71.
+
 (c)  A gain on sale of a landfill and waste-hauling company increased income
      before extraordinary item and net income by $13.7 million.
 
@@ -1667,13 +1664,14 @@ respectively).
                  22.50          0.555556        0.482000
                  23.00          0.543478        0.471522
                  23.50          0.531915        0.461489
-                 24.00          0.520823        0.451875
+                 24.00          0.520833        0.451875
            (greater than or
                 =)24.50         0.510204        0.442653
 
-   See also "The Transaction--Illustrations of Exchange Ratio Application,
-Value to Be Received and Allocation Rules" on page 33 and the "Unaudited Pro
-Forma Combined Financial Statements", on page 97.
+   See also "Illustrations of Exchange Ratio Application and the Value of Cash
+and Stock Consideration to Be Received for 100 Shares of Conectiv Common Stock"
+on page 33 of this document. Also refer to Notes to Unaudited Pro Forma
+Combined Financial Statements.
 
    While we expect that the transaction will provide the combined companies
 with the opportunity to achieve reduced operating expenses and opportunities to
@@ -1708,43 +1706,43 @@ New RC
    Class A common share                            $ 0.28          $ 1.34
 Diluted Earnings per common share
 New RC
- Pro forma for the transaction                     $ 0.55          $ 2.67
+ Pro forma for the transaction                     $ 0.57          $ 2.72
  Pepco
   Historical                                       $ 0.57          $ 2.96
-  Pro forma for the transaction                    $ 0.55          $ 2.67
+  Pro forma for the transaction                    $ 0.57          $ 2.72
  Conectiv
   Historical per common share                      $ 0.48          $ 1.97
   Historical per Class A common share              $ 0.16          $ 1.06
   equivalent pro forma for the transaction per
-   common share                                    $ 0.32          $ 1.52
+   common share                                    $ 0.32          $ 1.55
   equivalent pro forma for the transaction per
-   Class A common share                            $ 0.27          $ 1.32
+   Class A common share                            $ 0.28          $ 1.35
 Cash Dividends declared
 New RC
- Pro forma for the transaction                     $ 0.35          $ 1.46
+ Pro forma for the transaction                     $ 0.36          $ 1.71
  Pepco
   Historical                                       $0.415          $ 1.66
-  Pro forma for the transaction                    $ 0.35          $ 1.46
+  Pro forma for the transaction                    $ 0.36          $ 1.71
  Conectiv
   Historical per common share                      $ 0.22          $ 0.88
   Historical per Class A common share              $ 0.80          $ 3.20
   equivalent pro forma for the transaction per
-   common share                                    $ 0.20          $ 0.83
+   common share                                    $ 0.21          $ 0.98
   equivalent pro forma for the transaction per
-   Class A common share                            $ 0.18          $ 0.72
+   Class A common share                            $ 0.18          $ 0.85
 Book Value
 New RC
- Pro forma for the transaction                     $18.46          $18.61
+ Pro forma for the transaction                     $18.46          $18.26
  Pepco
   Historical                                       $16.89          $16.82
-  Pro forma for the transaction                    $18.46          $18.61
+  Pro forma for the transaction                    $18.27          $18.26
  Conectiv
-  Historical per common share                      $13.15          $13.10
-  Historical per Class A common share              $13.15          $13.10
+  Historical per common share                      $17.24          $13.10
+  Historical per Class A common share              $17.24          $13.10
   equivalent pro forma for the transaction per
-   common share                                    $10.54          $10.63
+   common share                                    $10.54          $10.43
   equivalent pro forma for the transaction per
-   Class A common share                            $ 9.15          $ 9.22
+   Class A common share                            $ 9.15          $ 9.05
 
                           UNAUDITED SELECTED PRO FORMA
                          COMBINED FINANCIAL INFORMATION
@@ -1774,18 +1772,17 @@ Statement of Earnings Data:
  Total Operating Revenue..............................   $2,166.7     $8,005.9
  Total Operating Expenses.............................   $1,989.7     $7,102.3
  (Loss) Income from Equity Investments,
-  Principally Telecommunication Entities..............   $   (7.1)    $   16.1
+  Principally Telecommunication Entities..............   $    7.1     $   16.1
  Operating Income.....................................   $  169.9     $  919.7
  Net Income...........................................   $   91.0     $  452.3
  Earnings Available for Common Stock..................   $   89.8     $  446.8
- Cash Dividends Declared Per Share of Common Stock....   $   0.36     $   1.46
 
                                                                     At March 31,
 
                                                                     ------------
 
 Balance Sheet Data:
- Total Assets......................................................  $12,694.4
+ Total Assets......................................................  $12,694.7
  Capitalization
   Long-term debt and capital lease obligations.....................  $ 3,738.0
   Company obligated mandatorily redeemable preferred
@@ -1796,6 +1793,7 @@ Balance Sheet Data:
                                                                      ---------
  Total Capitalization..............................................  $ 7,167.9
  Book Value per Share of Common Stock..............................  $   18.46
+ Cash Dividends Declared Per Share of Common Stock.................  $    .415
 
                     RISK FACTORS RELATING TO THE TRANSACTION
 
@@ -1822,7 +1820,7 @@ consideration received could be less than $25.00 per share of common stock
 ($21.69 per share of Class A common stock) exchanged in the transaction. The
 merger agreement requires that 50% of the consideration paid to Conectiv
 stockholders will be paid in shares of New RC common stock. As a result, even
-Conectiv stockholders who elect to receive cash consideration may be allocated
+Connectiv stockholders who elect to receive cash consideration may be allocated
 stock consideration and be subject to this risk. The exchange ratio for the
 stock consideration is designed to provide Conectiv common stockholders with
 New RC common stock with a value of $25.00 ($21.69 for the Class A common
@@ -2060,8 +2058,8 @@ Meeting
    Pepco Record Date. The Pepco Board has fixed the close of business on May
 29, 2001 as the record date for the determination of the Pepco stockholders
 entitled to receive notice of and to vote at the Pepco meeting. As of the Pepco
-Record Date, 107,989,176 shares of Pepco common stock and 1,695,312 shares of
-Pepco preferred stock were outstanding and entitled to be voted at the meeting.
+Record Date,     shares of Pepco common stock and     shares of Pepco preferred
+stock were outstanding and entitled to be voted at the meeting.
 
    Voting Rights. Each share of Pepco common stock and each share of Pepco
 preferred stock entitles its holder to one vote for each share held on the
@@ -2278,11 +2276,11 @@ meeting. A complete list of stockholders entitled to vote at the meeting will
 be open to examination by the stockholders, during regular business hours, for
 a period of ten days before the annual meeting at the principal executive
 offices of Conectiv, 800 King Street, Wilmington, Delaware 19801. As of the
-Conectiv Record Date, a total of approximately 87,851,316 shares are entitled
-to vote. This includes approximately 82,153,315 shares of Conectiv common
-stock and approximately 5,698,001 shares of Conectiv Class A common stock.
-Conectiv common stock and Conectiv Class A common stock are one class for
-voting purposes, with each share having one vote.
+Conectiv Record Date, a total of approximately  ,  ,   shares are entitled to
+vote. This includes approximately  ,   ,     shares of Conectiv common stock
+and approximately  ,   ,    shares of Conectiv Class A common stock. Conectiv
+common stock and Conectiv Class A common stock are one class for voting
+purposes, with each share having one vote.
 
    Voting Rights. Each share of Conectiv common stock and each share of
 Conectiv Class A common stock entitles its holder to one vote for each share
@@ -2324,22 +2322,22 @@ count shares of Conectiv stock present in person at the annual meeting but not
 voting, and shares of Conectiv stock for which it has received proxies (by
 telephone, by Internet, or by signed proxy cards), but with respect to which
 holders of those shares have abstained, as present at the annual meeting for
-purposes of determining the presence or absence of a quorum for the
-transaction of business. Under applicable NYSE rules, brokers who hold
-Conectiv stock in nominee or "street name" for customers who are the
-beneficial owners of those shares are prohibited from giving a proxy to vote
-shares held for those customers with respect to the merger agreement or the
-New RC Long-Term Incentive Plan without specific instructions from those
-customers. These unvoted shares are called "broker non-votes." Brokers who
-hold Conectiv stock as nominees or in "street name," however, will have
-discretionary authority to vote any such shares on any other matters that
-properly come before the meeting.
+purposes of determining the presence or absence of a quorum for the transaction
+of business. Under applicable NYSE rules, brokers who hold Conectiv stock in
+nominee or "street name" for customers who are the beneficial owners of those
+shares are prohibited from giving a proxy to vote shares held for those
+customers with respect to the merger agreement or the New RC Long-Term
+Incentive Plan without specific instructions from those customers. These
+unvoted shares are called "broker non-votes." Brokers who hold Conectiv stock
+as nominees or in "street name," however, will have discretionary authority to
+vote any such shares on any other matters that properly come before the
+meeting.
 
    With respect to the merger agreement, abstentions and broker non-votes will
 have the same effect as negative votes. Accordingly, the Conectiv Board urges
-you to complete, date and sign the accompanying proxy and return it promptly
-in the enclosed, postage-paid envelope, or to take advantage of the telephone
-or Internet proxy procedures available to you.
+you to complete, date and sign the accompanying proxy and return it promptly in
+the enclosed, postage-paid envelope, or to take advantage of the telephone or
+Internet proxy procedures available to you.
 
    With respect to the New RC Long-Term Incentive Plan, abstentions will be
 deemed present and entitled to vote, but will not be counted as votes on the
@@ -2352,11 +2350,11 @@ directors to the Conectiv Board.
 
    As of the Conectiv Record Date, the directors and executive officers of
 Conectiv, together with their affiliates, collectively beneficially owned
-approximately 381,465 shares of Conectiv common stock and 1,864 shares of
-Conectiv Class A common stock, or approximately .05% of the shares entitled to
-vote at the annual meeting. It is currently expected that each director or
-executive officer will vote the shares of Conectiv stock beneficially owned by
-him or her for approval of the merger agreement.
+approximately      shares of Conectiv common stock and      shares of Conectiv
+Class A common stock, or approximately  % of the shares entitled to vote at the
+annual meeting. It is currently expected that each director or executive
+officer will vote the shares of Conectiv stock beneficially owned by him or her
+for approval of the merger agreement.
 
    Additional information with respect to beneficial ownership of Conectiv
 stock by persons and entities owning more than 5% of the outstanding shares of
@@ -2367,8 +2365,7 @@ page 148.
 
 Voting by Proxy and How to Revoke Your Proxy
 
-   If your shares are registered in your own name, you may grant your Conectiv
-proxy in one of three ways:
+   You may grant your Conectiv proxy in one of three ways:
 
   1.   by telephone at 1-800-574-7149; or
 
@@ -2378,25 +2375,20 @@ proxy in one of three ways:
   3.   mark your instructions on the enclosed proxy card, sign and date it,
        and return it in the postage-paid envelope.
 
-   If your shares are sold through a broker or bank, please follow their
-instructions about how to grant your proxy.
-
    Your instructions are given to the proxyholders identified on the card, who
 will vote as you instruct. If you sign and date the card, but do NOT give an
-instruction on a proposal, the proxyholders will vote for you on that
-proposal.
+instruction on a proposal, the proxyholders will vote for you on that proposal.
 
    You may vote by proxy if you are unable to attend the Conectiv meeting in
-person or you wish to have your shares voted by proxy even if you do attend
-the annual meeting. You may revoke any proxy given by you in response to this
+person or you wish to have your shares voted by proxy even if you do attend the
+annual meeting. You may revoke any proxy given by you in response to this
 solicitation at any time before the proxy is exercised (1) by delivering a
-written notice of revocation, (2) by filing with Conectiv a subsequently
-dated, properly executed proxy, or (3) by attending the annual meeting and
-electing to vote in person. If you granted a proxy by telephone or through the
-Internet, you can also revoke your vote by any of these methods or you can
-change your vote by voting again by telephone
-or through the Internet. Finally, if you decide to vote by completing and
-mailing the enclosed proxy card, you
+written notice of revocation, (2) by filing with Conectiv a subsequently dated,
+properly executed proxy, or (3) by attending the annual meeting and electing to
+vote in person. If you granted a proxy by telephone or through the Internet,
+you can also revoke your vote by any of these methods or you can change your
+vote by voting again by telephone or through the Internet. Finally, if you
+decide to vote by completing and mailing the enclosed proxy card, you
 
 should retain a copy of the voter control number found on the proxy card in the
 event that you decide later to change or revoke your proxy by accessing the
@@ -2522,9 +2514,9 @@ the transaction will automatically be exchanged into the right to receive one
 share of common stock of New RC.
 
    If a Pepco common stockholder beneficially holds a fractional share of Pepco
-common stock in the Pepco dividend reinvestment plan that fractional share will
-be converted pursuant to the terms of the plan to an equivalent fractional
-share of New RC common stock.
+common stock in the Pepco dividend reinvestment plan or through the Pepco
+401(k) plan, that fractional share will be converted pursuant to the terms of
+the plan to an equivalent fractional share of New RC common stock.
 
    Conectiv Stockholders. In the Conectiv Merger, shares of Conectiv stock held
 by stockholders of Conectiv immediately prior to the effective time of the
@@ -2729,13 +2721,12 @@ stock. For each hypothetical Average Final Price, the table indicates:
                      $28.00    1.02042       51       $1,428.00     $ 0.57      $1,250.00     $2,678.57
                      $29.00    1.02042       51       $1,479.00     $ 0.59      $1,250.00     $2,729.59
                      $30.00    1.02042       51       $1,530.00     $ 0.61      $1,250.00     $2,780.62
-                     $21.89*   1.14207       57       $1,247.73     $ 2.27      $1,250.00     $2,500.00
+                     $     *                          $             $           $             $
 
 - --------
-
-*   On May 29, 2001, the last full trading day before the date of this joint
-    proxy statement/prospectus, the Average Final Price of Pepco common stock
-    was $21.89.
+*   On      , 2001, the last full trading day before the date of this joint
+    proxy statement/prospectus, the closing price of Pepco common stock was
+    $   .
 
        Illustrations of Exchange Ratio Application and the Value of Cash
             and Stock Consideration to Be Received for 100 Shares of
@@ -2767,18 +2758,17 @@ stock. For each hypothetical Average Final Price, the table indicates:
                      $28.00    0.88528       44       $1,232.00     $ 7.39      $1,084.46      $2,323.85
                      $29.00    0.88528       44       $1,276.00     $ 7.66      $1,084.46      $2,368.12
                      $30.00    0.88528       44       $1,320.00     $ 7.92      $1,084.46      $2,412.38
-                     $21.89*   0.99086       49       $1,072.61     $11.86      $1,084.46      $2,168.93
+                     $     *                          $             $           $              $
 
 - --------
-
-*   On May 29, 2001, the last full trading day before the date of this joint
-    proxy statement/prospectus, the Average Final Price of Pepco common stock
-    was $21.89.
+*   On      , 2001, the last full trading day before the date of this joint
+    proxy statement/prospectus, the closing price of Pepco common stock was
+    $   .
 
 Illustration of Potential Effects of Allocation Procedures
 
    The tables below illustrate the potential effects of the allocation
-procedures described above and in "Limits on Cash and Stock Consideration and
+procedures described above and in "Limits or Cash and Stock Consideration and
 Allocation Rules" on page 78, on a holder of 100 shares of Conectiv common
 stock, and on a holder of 100 shares of Conectiv Class A common stock, who, in
 each case, elects (1) in the case of Tables 1 and 2, to receive stock
@@ -2797,9 +2787,11 @@ stockholders in the aggregate.
 
                                     TABLE 1
 
-           Illustration of Potential Effects of Allocation Procedures
-               on A Holder of 100 Shares of Conectiv Common Stock
-           Who Makes a Stock Election With Respect to All 100 Shares
+        Illustration of Potential Effects of Allocation Procedures
+
+            on A Holder of 100 Shares of Conectiv Common Stock
+
+         Who Makes a Stock Election With Respect to All 100 Shares
 
   Column 1:     Column 2:    Column 3:        Column 4:        Column 5:       Column 6:
                           Number of Shares Number of Shares
@@ -2817,25 +2809,27 @@ Conectiv Stock              Allocated to     Allocated to   Shares Received     
      100%        1.28205      50.00000         50.00000            64          $1,250.00
 
 - --------
-/1 /Calculated by dividing the 50% of the number of shares of Conectiv stock
+/1/Calculated by dividing the 50% of the number of shares of Conectiv stock
    issued and outstanding as of the effective time by the number of shares of
    Conectiv stock as to which stock consideration is elected, and multiplying
    by 100 shares.
-/2 /Calculated by subtracting the number of shares in column 3 from 100.
-/3 /Calculated by multiplying the assumed exchange ratio in column 2 by the
+/2/Calculated by subtracting the number of shares in column 3 from 100.
+/3/Calculated by multiplying the assumed exchange ratio in column 2 by the
    number of shares of Conectiv common stock allocated to stock consideration
    in column 3 and excluding any fractional shares (in lieu of which cash will
    be paid).
-/4 /Calculated by multiplying the number of shares of Conectiv common stock
+/4/Calculated by multiplying the number of shares of Conectiv common stock
    allocated to cash consideration in column 4 by $25.00. Payments in respect
    of fractional shares are not taken into account in the table but would be
    paid in cash.
 
                                     TABLE 2
 
-           Illustration of Potential Effects Of Allocation Procedures
-           on A Holder of 100 Shares of Conectiv Class A Common Stock
-           Who Makes a Stock Election With Respect to All 100 Shares
+        Illustration of Potential Effects Of Allocation Procedures
+
+        on A Holder of 100 Shares of Conectiv Class A Common Stock
+
+         Who Makes a Stock Election With Respect to All 100 Shares
 
   Column 1:     Column 2:    Column 3:        Column 4:       Column 5:       Column 6:
                                               Number of
@@ -2854,25 +2848,27 @@ Conectiv Stock            Stock Allocated   Allocated to   Shares Received      
      100%        1.11227      50.00000        50.00000            55          $1,084.50
 
 - --------
-/1 /Calculated by dividing 50% of the number of shares of Conectiv stock issued
+/1/Calculated by dividing 50% of the number of shares of Conectiv stock issued
    and outstanding as of the effective time by the number of shares of Conectiv
    stock as to which stock consideration is elected, and multiplying by 100
    shares.
-/2 /Calculated by subtracting the number of shares in column 3 from 100.
-/3 /Calculated by multiplying the assumed exchange ratio in column 2 by the
+/2/Calculated by subtracting the number of shares in column 3 from 100.
+/3/Calculated by multiplying the assumed exchange ratio in column 2 by the
    number of shares of Conectiv Class A common stock allocated to stock
    consideration in column 3 and excluding any fractional shares (in lieu of
    which cash will be paid).
-/4 /Calculated by multiplying the number of shares of Conectiv Class A common
+/4/Calculated by multiplying the number of shares of Conectiv Class A common
    stock allocated to cash consideration in column 4 by $     21.69. Payments in
    respect of fractional shares are not taken into account in the table but
    would be paid in cash.
 
                                     TABLE 3
 
-           Illustration of Potential Effects of Allocation Procedures
-               on A Holder of 100 Shares of Conectiv Common Stock
-            Who Makes a Cash Election With Respect to All 100 Shares
+        Illustration of Potential Effects of Allocation Procedures
+
+            on A Holder of 100 Shares of Conectiv Common Stock
+
+         Who Makes a Cash Election With Respect to All 100 Shares
 
   Column 1:     Column 2:    Column 3:        Column 4:        Column 5:       Column 6:
                           Number of Shares Number of Shares
@@ -2890,25 +2886,27 @@ Conectiv Stock              Allocated to   Stock Allocated  Shares Received     
      100%        1.28205      50.00000         50.00000            64          $1,250.00
 
 - --------
-/1 /Calculated by dividing 50% of the number of shares of Conectiv stock issued
+/1/Calculated by dividing 50% of the number of shares of Conectiv stock issued
    and outstanding as of the effective time by the number of shares of Conectiv
    stock as to which cash consideration is elected and multiplying by 100
    shares.
-/2 /Calculated by subtracting the number of shares in column 3 from 100.
-/3 /Calculated by multiplying the assumed exchange ratio in column 2 by the
+/2/Calculated by subtracting the number of shares in column 3 from 100.
+/3/Calculated by multiplying the assumed exchange ratio in column 2 by the
    number of shares of Conectiv common stock allocated to stock consideration
    in column 4 and excluding any fractional shares (in lieu of which cash will
    be paid).
-/4 /Calculated by multiplying the number of shares of Conectiv common stock
+/4/Calculated by multiplying the number of shares of Conectiv common stock
    allocated to cash consideration in column 3 by $25.00. Payments in respect
    of fractional shares are not taken into account in the table but would be
    paid in cash.
 
                                     TABLE 4
 
-           Illustration of Potential Effects of Allocation Procedures
-           on A Holder of 100 Shares of Conectiv Class A Common Stock
-            Who Makes a Cash Election With Respect to All 100 Shares
+        Illustration of Potential Effects of Allocation Procedures
+
+        on A Holder of 100 Shares of Conectiv Class A Common Stock
+
+         Who Makes a Cash Election With Respect to All 100 Shares
 
   Column 1:     Column 2:    Column 3:        Column 4:        Column 5:       Column 6:
                           Number of Shares Number of Shares
@@ -2926,16 +2924,16 @@ Conectiv Stock            Stock Allocated  Stock Allocated  Shares Received     
      100%        1.11227      50.00000         50.00000            55          $1,084.50
 
 - --------
-/1 /Calculated by dividing 50% of the number of shares of Conectiv stock issued
+/1/Calculated by dividing 50% of the number of shares of Conectiv stock issued
    and outstanding as of the effective time by the number of shares of Conectiv
    stock as to which cash consideration is elected and multiplying by 100
    shares.
-/2 /Calculated by subtracting the number of shares in column 3 from 100.
-/3 /Calculated by multiplying the assumed exchange ratio in column 2 by the
+/2/Calculated by subtracting the number of shares in column 3 from 100.
+/3/Calculated by multiplying the assumed exchange ratio in column 2 by the
    number of shares of Conectiv Class A common stock allocated to stock
    consideration in column 4 and excluding any fractional shares (in lieu of
    which cash will be paid).
-/4 /Calculated by multiplying the number of shares of Conectiv Class A common
+/4/Calculated by multiplying the number of shares of Conectiv Class A common
    stock allocated to cash consideration in column 3 by $     21.69. Payments in
    respect of fractional shares are not taken into account in the table but
    would be paid in cash.
@@ -2944,12 +2942,12 @@ Conectiv "Walk-Away" Right and Pepco "Top-Up" Right
 
    Subject to the rights of Pepco, as described below, Conectiv has the right
 to terminate the transaction if the Average Final Price is less than $16.50,
-which is approximately 22.90% lower than the 20-day average closing price of
+which is approximately 22.56% lower than the 20-day average closing price of
 Pepco common stock on February 8, 2001, the last trading day before the
-execution of the merger agreement on February 9, 2001, and is 24.62% lower than
-the Average Final Price of Pepco common stock on May 29, 2001. If the Average
-Final Price is $16.50, Conectiv common stock would receive New RC common stock
-with a market value of approximately $21.15 per share ($18.35 per share for the
+execution of the merger agreement on February 9, 2001, and is  % lower than the
+closing price of Pepco common stock on      , 2001. If the Average Final Price
+is $16.50, Conectiv common stock would receive New RC common stock with a
+market value of approximately $21.15 per share ($18.35 per share for the
 Conectiv Class A common stock). The $16.50 threshold for the walk-away right
 will be appropriately adjusted for any adjustments to the number of shares of
 Pepco common stock outstanding that may occur between February 9, 2001 and the
@@ -3543,7 +3541,8 @@ above:
   .   Interests of Certain Persons. The potential interests of certain
       persons in the transaction that are or may be different from, or in
       addition to, the interests of Pepco's stockholders, as described in
-      "Interests of Certain Persons in the Transaction" beginning on page 70.
+      "The Transaction--Interests of Certain Persons in the Transaction"
+      beginning on page 70.
 
    The discussion above of the material factors considered by the Pepco Board
 in its consideration of the merger agreement is not intended to be all-
@@ -4068,7 +4067,7 @@ that these benefits include:
   .   The consideration of $25.00 in value, subject to adjustment, for each
       share of Conectiv common stock, which represents a premium of over 30%
       over the closing sale price of $19.14 on the NYSE on February 7, 2001
-      (the trading day immediately prior to the date on which The Wall Street
+      (the trading day immediately prior to the date on which the Wall Street
       Journal reported details of the negotiations between Pepco and
       Conectiv) and a premium of over 41% over the closing sale price of
       $17.69 on the NYSE on August 7, 2000 (the date which is six months
@@ -4173,7 +4172,7 @@ elements:
       program;
 
   .   the federal income tax consequences of the transaction to Conectiv
-      stockholders as described on page 67;
+      stockholders as described on pages 67 and 95;
 
   .   information concerning the financial condition, results of operations,
       prospects and businesses of Conectiv and Pepco, including the revenues
@@ -4216,19 +4215,19 @@ elements:
       current regulatory environment, including the potential impact on such
       approval of the following:
 
-   .  that Conectiv will maintain its headquarters in Wilmington, Delaware,
+  .   that Conectiv will maintain its headquarters in Wilmington, Delaware,
       and will continue to have significant operations in New Jersey and the
       Delmarva peninsula and that the combined company will have its
       headquarters in Washington, D.C.;
 
-   .  that the transaction is not expected to result in significant
+  .   that the transaction is not expected to result in significant
       workforce reductions and that union contracts will be honored;
 
-   .  that Conectiv will continue to provide charitable contributions and
+  .   that Conectiv will continue to provide charitable contributions and
       community support in Conectiv's service territory comparable to the
       current level; and
 
-   .  that at least two members of the board of the combined company will
+  .   that at least two members of the board of the combined company will
       come from the current Conectiv Board;
 
   .   the interests of certain persons in the transaction, including Mr.
@@ -4814,8 +4813,11 @@ delivered to Pepco at:
    The demand for payment should be sent or delivered to New RC at:
 
    New RC
+
    Attention: Corporate Secretary
+
    701 Ninth Street, N.W.
+
    Washington, D.C. 20068
 
    Telephone: (202) 872-3526
@@ -4873,6 +4875,7 @@ beneficially owned by such person.
    Attention: Corporate Secretary
    1900 Pennsylvania Avenue, N.W.
    Washington, D.C. 20068
+
    Telephone (202) 872-3526
 
    A stockholder who votes for the transaction or who does not satisfy each of
@@ -5072,13 +5075,6 @@ subject to special treatment under the U.S. federal income tax laws, including:
 
  .  investors in pass-through entities;
 
- .  persons under the jurisdiction of a court in a Title 11 or similar case;
-
- .  a person other than a U.S. Holder that beneficially owns or has owned
-   directly or indirectly more that 5% of the Pepco stock or Conectiv stock
-   during the 5-year period prior to the transaction to which Section 897,
-   among other provisions, of the Internal Revenue Code may apply;
-
  .  persons who acquired their Pepco stock or Conectiv stock through the
    exercise of employee stock options or otherwise as compensation or through a
    tax-qualified retirement plan; or
@@ -5194,18 +5190,18 @@ adjusted tax basis in the fractional share (determined as described above).
  Dissenters' Appraisal Rights
 
    A U.S. Holder of Pepco stock or Conectiv stock who exercises dissenters'
-appraisal rights as described above under "Dissenters' Appraisal Rights" on
-page 64, generally will be treated as if the shares of stock subject to such
-rights were redeemed by Pepco or Conectiv, as applicable. In that case, the
-U.S. Holder generally will recognize capital gain or loss for U.S. federal
-income tax purposes equal to the difference between the tax basis of the stock
-with respect to which such rights are exercised and the amount received through
-the exercise of such rights, provided that such U.S. Holder does not own
-directly or constructively any Pepco stock following the Pepco Merger or any
-Conectiv stock following the Conectiv Merger. For this purpose, a U.S. Holder
-of Pepco stock or Conectiv stock may be treated as owning stock owned by
-certain related individuals and entities and stock which such U.S. Holder has
-the right to acquire by exercise of an option.
+appraisal rights as described above under "The Transaction--Dissenters'
+Appraisal Rights" on page 63, generally will be treated as if the shares of
+stock subject to such rights were redeemed by Pepco or Conectiv, as applicable.
+In that case, the U.S. Holder generally will recognize capital gain or loss for
+U.S. federal income tax purposes equal to the difference between the tax basis
+of the stock with respect to which such rights are exercised and the amount
+received through the exercise of such rights, provided that such U.S. Holder
+does not own directly or constructively any Pepco stock following the Pepco
+Merger or any Conectiv stock following the Conectiv Merger. For this purpose, a
+U.S. Holder of Pepco stock or Conectiv stock may be treated as owning stock
+owned by certain related individuals and entities and stock which such U.S.
+Holder has the right to acquire by exercise of an option.
 
    U.S. Holders of Pepco stock or Conectiv stock who actually or constructively
 own Pepco stock or Conectiv stock following the Pepco Merger or the Conectiv
@@ -5422,7 +5418,7 @@ the following table:(/1/)
 (3) The pension supplement amount may be a combination of qualified and non-
     qualified funds.
 (4) The non-cash benefits include estimated values associated with continued
-    coverage under Conectiv's medical, dental, vision, accidental death and
+    coverage under Conectiv's medical, dental, vision, accidential death and
     dismemberment, and life insurance plans.
 (5) The total does not consider any amounts that may be payable under the
     Conectiv Gross Up and Legal Fee Plan, which is further discussed below.
@@ -5526,14 +5522,14 @@ person or company. Delaware Commission approval is also required before any
 person may directly or indirectly acquire control of a Delaware public utility.
 To grant its approval, the Delaware Commission must find that the transaction
 is to be made in accordance with law, for a proper purpose and is consistent
-with the public interest. New RC and Delmarva have filed an application seeking
-the approval of the Delaware Commission consistent with these requirements.
+with the public interest. New RC and Delmarva intend to seek the approval of
+the Delaware Commission consistent with these requirements.
 
               Maryland. The Maryland Public Service Commission is granted
 general authority to supervise and regulate public utilities with operations in
 the State of Maryland. Both Pepco and Delmarva have utility operations in the
-State of Maryland. Pepco and Conectiv have filed an application with the
-Maryland Commission under the Commission's general authority to determine
+State of Maryland. Pepco and Conectiv intend to make any necessary filings with
+the Maryland Commission under the Commission's general authority to determine
 whether the transaction will have an adverse effect on the relevant Maryland
 franchises.
 
@@ -5546,8 +5542,8 @@ control of a public utility, the New Jersey Commission evaluates the impact of
 the acquisition on competition, on the ratepayers affected by the acquisition
 of control, on the employees of the affected public utility or utilities, and
 on the provision of safe and adequate utility service at just and reasonable
-rates. New RC and Atlantic City Electric have filed an application seeking the
-approval of the New Jersey Commission consistent with these requirements.
+rates. New RC and Atlantic City Electric intend to seek the approval of the New
+Jersey Commission consistent with these requirements.
 
    Atlantic City Electric has operations that are considered "industrial
 establishments" under New Jersey's Industrial Site Recovery Act. Under that
@@ -5585,14 +5581,13 @@ Virginia Commission as a public utility for limited purposes. The Virginia
 Commission must approve the acquisition of any Virginia public utility and the
 disposition of any utility assets located in Virginia. The applicants must show
 that the provision of adequate service at just and reasonable rates will not be
-threatened or impaired by the transaction. Delmarva and Pepco have filed an
-application seeking the approvals of the Virginia Commission consistent with
-these requirements.
+threatened or impaired by the transaction. Delmarva and Pepco will seek the
+approvals of the Virginia Commission consistent with these requirements.
 
               District of Columbia. Pepco is subject to the jurisdiction of the
 DC Commission. New RC will not become a public utility as a result of the
 transaction. However, in view of the DC Commission's plenary authority over the
-operations of Pepco, Pepco has filed an application for approval of the
+operations of Pepco, Pepco intends to file an application for approval of the
 transaction with the DC Commission.
 
    Federal Approvals
@@ -5689,7 +5684,7 @@ Regulatory Commission generally evaluates:
 
   .  whether the merger will impair the effectiveness of regulation.
 
-The parties have filed an application with the Federal Energy Regulatory
+The parties intend to file an application with the Federal Energy Regulatory
 Commission requesting approval of the transaction under the Federal Power Act
 in the first half of 2001.
 
@@ -5901,7 +5896,7 @@ oversubscribed, a stockholder of Conectiv who elected to receive some or all of
 his or her consideration in cash will receive less cash than he or she elected.
 
    For tables illustrating the effect of these allocation and proration rules,
-please see pages 33 to 39.
+please see pages 34 to 39.
 
 Exchange of Stock Certificates and Payment of Cash
 
@@ -6811,7 +6806,7 @@ objectives (which we refer to as a performance-based award). The performance
 objectives for performance-based awards, which may vary from participant to
 participant, will be based on such performance criteria or combination of
 factors, as the Committee deems appropriate. In the case of a performance-based
-restricted stock award that is intended to satisfy the requirements of Section
+restricted stock award that is intended to satisfy the requirements of section
 162(m) of the Internal Revenue Code, the vesting of the award may be based, in
 the sole discretion of the Committee, on one or more business criteria that
 relate to the individual grantee, groups of individuals, a product or service
@@ -7172,10 +7167,11 @@ financial position that would have been achieved had the transactions reflected
 therein been consummated as of the dates indicated, or of the results of
 operations or financial position for any future periods or dates.
 
-                                    NEW RC
+                                  NEW RC
 
-              UNAUDITED PRO FORMA COMBINED STATEMENT OF EARNINGS
-                      FOR THE THREE MONTHS MARCH 31, 2001
+            UNAUDITED PRO FORMA COMBINED STATEMENT OF EARNINGS
+
+                   FOR THE THREE MONTHS MARCH 31, 2001
 
                                                                                  Pro Forma
                                                                                 Adjustments
@@ -7219,7 +7215,7 @@ Distributions on
  Preferred Securities of
  Subsidiary Trust.......     2.3           5.2               --           5.2                         7.5
 Income Tax Expense......    46.6          32.8             (5.6)         27.2              1.8(a)    71.4
-                                                                                            .6(e)
+                              --            --               --            --               .6(e)      --
                           ------      --------           ------      --------   ----      ----    -------
 Net Income..............  $ 64.9      $   40.8           $ (8.5)     $   32.3   $8.6      $2.4    $  91.0
                           ------      --------           ------      --------   ----      ----    -------
@@ -7236,14 +7232,13 @@ Weighted Average Shares
   Class A Common Stock..     --            5.7                                                        --
 Earnings Per Share of
  Common Stock
-  Common Stock, Basic...  $  .58      $    .48                                                    $   .56
+  Common Stock, Basic...  $  .58      $    .48                                                    $   .57
   Common Stock,
-   Diluted..............  $  .57      $    .48                                                    $   .55
-  Class A Common Stock,
-   Basic and Diluted....     --       $    .16                                                        --
+   Diluted..............  $  .57      $    .48                                                    $   .57
+  Class A Common Stock..     --       $    .16                                                        --
 Dividends Declared Per
  Share
-  Common Stock..........  $0.415      $    .22                                                    $  0.36
+  Common Stock..........  $0.415      $    .22                                                    $  1.74
   Class A Common Stock..     --       $    .80                                                        --
 
                                      NEW RC
@@ -7276,11 +7271,11 @@ Operating Revenue
                             --------        --------           ------      --------   -----     ----    --------
 Operating Expenses
   Fuel and purchased
-  energy................     1,206.2         3,393.5            220.5       3,614.0                      4,820.2
+  energy................     1,206.2         3,393.5            220.5       3,614.0                      4,820.3
   Other operation and
   maintenance...........       409.8           798.2           (146.6)        651.6                      1,061.4
   Depreciation and
-  amortization..........       247.6           260.1            (62.5)        197.6    20.7(e)             465.9
+  amortization..........       247.6           260.0            (62.5)        197.5    20.7(e)             465.8
   Other taxes...........       207.4            80.9             (2.1)         78.8                        286.2
   Interest..............       211.5           211.4                          211.4                        422.9
   Impairment loss.......        45.7             --                             --                          45.7
@@ -7308,23 +7303,23 @@ Common Stock............    $  346.5        $  170.8           $(52.1)     $  11
 Weighted Average Shares
 Outstanding (in
 millions)
-  Common Stock..........       114.9            83.7                                            33.1(f)    165.5
-  Class A Common Stock..         --              5.7                                             3.7(f)
+  Common Stock..........       114.9            83.7                                            39.5(f)    159.1
+  Class A Common Stock..         --              5.7
 Earnings Per Share of
 Common Stock
-  Common Stock, Basic...    $   3.02        $   1.97                                                    $   2.70
+  Common Stock, Basic...    $   3.02        $   1.97                                                    $   2.76
   Common Stock,
-  Diluted...............    $   2.96        $   1.97                                                    $   2.67
-  Class A Common Stock,
-  Basic and Diluted.....         --         $   1.06                                                         --
+  Diluted...............    $   2.96        $   1.97                                                    $   2.72
+  Class A Common Stock..         --         $   1.06                                                         --
 Dividends Declared Per
 Share
-  Common Stock..........    $   1.66        $   0.88                                                    $   1.46
+  Common Stock..........    $   1.66        $   0.88                                                    $   1.74
   Class A Common Stock..         --         $   3.20                                                         --
 
                                      NEW RC
                    UNAUDITED PRO FORMA COMBINED BALANCE SHEET
-                                 MARCH 31, 2001
+
+                              MARCH 31, 2001
 
                                                              Conectiv                    Pro Forma
                                                          Generating Asset Conectiv      Adjustments
@@ -7379,7 +7374,8 @@ Property, Plant and
 
                                      NEW RC
                    UNAUDITED PRO FORMA COMBINED BALANCE SHEET
-                                 MARCH 31, 2001
+
+                              MARCH 31, 2001
 
                                                              Conectiv                  Pro Forma
                                                          Generating Asset Conectiv    Adjustments
@@ -7391,17 +7387,17 @@ Property, Plant and
 Liabilities and
  Shareholders' Equity
 Current Liabilities
- Short-term debt........   $  798.1        $  997.7                       $  997.7                            $ 1,795.8
+ Short-term debt........   $  798.1        $  997.7          $            $  997.7                            $ 1,795.8
  Accounts payable and
-  accrued payroll.......      252.4           631.2                          631.2               $ 24.0(d.3)      933.6
+  accrued payroll.......      252.4           631.2                          631.2                 24.0(d.3)      933.6
                                                                                                    16.0(d)
                                                                                                    10.0(d.3)
  Capital lease
   obligations due within
-  one year..............       15.2            15.6          $  15.5           0.1                                 15.3
+  one year..............       15.2            15.6             15.2         (15.2)                                15.6
  Interest and taxes
   accrued...............       99.3           115.6            (81.8)        197.4                                296.7
- Other                        188.5           169.6              1.2         168.4                 14.5(d.3)      371.4
+ Other                        188.5           169.6              1.5         183.7                 14.5(d.3)      371.1
                            --------        --------          -------      --------   ------      ------       ---------
   Total current
    liabilities..........    1,353.5         1,929.7            (65.1)      1,994.8                 64.5         3,412.8
@@ -7412,7 +7408,7 @@ Deferred Credits
  Income taxes...........      397.4           807.1            (65.4)        872.5                208.6(d.6)    1,478.5
  Investment tax credits
   and other.............       26.2            63.0             18.5          44.5                                 70.7
- Other..................       21.0           323.3             19.1         304.2   $  8.6(d.5)                  316.6
+ Other..................       21.0           323.3             19.1         304.2      8.6(d.5)                  316.6
                            --------        --------          -------      --------   ------      ------       ---------
   Total Deferred
    Credits..............      638.0         1,242.7            (33.0)      1,275.7      8.6       208.6         2,113.7
@@ -7432,14 +7428,13 @@ Preferred Stock.........       84.8           119.9                          119
                            --------        --------          -------      --------   ------      ------       ---------
 Shareholders' Equity
  Common stock, $.01 par
-  value for New RC......      118.5             0.9                            0.9    117.8(a)                      1.6
+  value for New RC......      118.5             0.9                             .9    117.8(a)                      1.6
  Additional paid in
   capital...............    1,015.4         1,124.6                        1,124.6    120.6(c)     80.7(b)      2,100.1
  Unearned compensation..        --             (2.9)                          (2.9)                 2.9(c)          --
  Accumulated other
-  comprehensive loss....       (8.6)          (14.2)                         (14.2)                14.2(c)         (8.6)
- Retained income........      955.1            60.8           (189.4)        250.2    111.6(c)                    843.5
-                                                                                      250.2(c)
+  comprehensive loss....       (8.6)          (14.2)                         (14.2)   250.2(c)     14.2(c)         (8.6)
+ Retained income........      955.1            60.8           (189.4)        250.2    111.3(c)                    843.8
                            --------        --------          -------      --------   ------      ------       ---------
                             2,080.4         1,169.2           (189.4)      1,358.6    599.9        97.8         2,936.9
  Less cost of shares of
@@ -7674,15 +7669,16 @@ effect of the pro forma adjustment using an estimated effective tax rate of
 40%.
 
    (e) Adjustment for the three months ended March 31, 2001 to reflect the
-amortization of goodwill over a 40-year period and depreciation based on the
-pro forma adjustments to property plant and equipment using an estimated
-depreciation rate of 3%. Additionally, a $0.6 million pro forma adjustment
-excluding non-deductible goodwill based on an effective tax rate of 40% is
-recorded. This amount for the year ended December 31, 2000 was $20.7 million,
-including a $2.3 million tax effect.
+amortization of goodwill over a 40-year period of $5.5 million and $(1.4)
+million in depreciation based on the pro forma adjustments to property plant
+and equipment using an estimated depreciation rate of 3%. Additionally, a $0.6
+million pro forma adjustment excluding non-deductible goodwill based on an
+effective tax rate of 40% is recorded. These amounts for the year ended
+December 31, 2000 were $15.1 million, $(5.6) million, and $2.3 million
+respectively.
 
    (f) Adjustment to reflect the weighted average number of New RC's common
-stock shares outstanding (159.1 million) giving effect to the common stock
+stock shares outstanding (159.7 million) giving effect to the common stock
 shares issued to the Conectiv common stockholders. Pro forma adjustment is
 $35.1 million for the three months ended March 31, 2001 and $39.5 million for
 the year ended December 31, 2000.
@@ -7741,15 +7737,15 @@ issued at various Average Final Prices of Conectiv common stock.
            Final Price      (millions)    Per Share        Per Share
            -----------     ------------ -------------- ----------------- ---
 
-          (less than or
-             =)$ 19.50         56.3         $0.35            $1.46
-               20.50           53.6          0.36             1.49
-                 21.50         51.1          0.37             1.51
-                 21.89         50.2          0.37             1.52
-                 22.50         48.8          0.37             1.53
-               23.50           46.7          0.38             1.56
-         (greater than or
-            =)   24.50         44.8          0.38             1.57
+        (less than or
+             =)$ 19.50         56.3         $0.35            $1.41
+                 20.50         53.6          0.36             1.43
+                 21.50         51.1          0.36             1.45
+                 21.89         50.2          0.36             1.46
+                 22.50         48.8          0.37             1.47
+                 23.50         46.7          0.37             1.49
+        (greater than or
+            =)   24.50         44.8          0.38             1.51
 
    (h) Adjustment to eliminate Conectiv's accumulated depreciation on property
 plant and equipment.
@@ -7779,11 +7775,11 @@ assets.
      Conectiv's 2000 annual report on Form 10-K incorporated herein by
      reference.
 
-                                    CONECTIV
+                                 CONECTIV
 
-                RECLASSIFYING CONSOLIDATED STATEMENT OF EARNINGS
+             RECLASSIFYING CONSOLIDATED STATEMENT OF EARNINGS
 
-                   FOR THE THREE MONTHS ENDED MARCH 31, 2001
+                 FOR THE THREE MONTHS ENDED MARCH 31, 2001
 
                                     Conectiv      Conectiv        Conectiv
                                   (Historical) (Reclasses)(a) (As Reclassified)
@@ -7844,7 +7840,9 @@ Earnings Applicable To:
 
 (a) These reclassifying entries are necessary to reflect Conectiv's statement
     of earnings amounts for the three months ended March 31, 2001 on a
-    consistent basis with Pepco's presentation.
+    consistent basis with Pepco's presentation. The effects of accounting
+    policy differences between Pepco and Conectiv are not material and
+    therefore have not been reflected.
 
                                     CONECTIV
 
@@ -7914,16 +7912,17 @@ Earnings Applicable To:
                                     ========     =========        ========
 
 - --------
-
 (a) These reclassifying entries are necessary to reflect Conectiv's statement
     of earnings amounts for the year ended December 31, 2000 on a consistent
-    basis with Pepco's presentation.
+    basis with Pepco's presentation. The effects of accounting policy
+    differences between Pepco and Conectiv are not material and therefore have
+    not been reflected.
 
                                     CONECTIV
 
                     RECLASSIFYING CONSOLIDATED BALANCE SHEET
 
-                                 MARCH 31, 2001
+                              MARCH 31, 2001
 
                                      Conectiv      Conectiv        Conectiv
                                    (Historical) (Reclasses)(a) (As Reclassified)
@@ -7942,4 +7941,14 @@ Current Assets
   Prepayments....................        25.6           --             25.6
   Deferred income taxes, net.....        11.3           --             11.3
                                      --------      --------        --------
-                                       1203.6       
+                                       1203.6           8.2         1,211.8
+                                     --------      --------        --------
+Investments and Other Assets
+  Investment in leveraged
+   leases........................        54.0           --             54.0
+  Goodwill, net..................         --          341.9           341.9
+  Regulatory assets..............         --        1,173.4         1,173.4
+  Other..........................         --          343.3           343.3
+  Funds held by trustee..........       125.4        (125.4)            --
+  Other investments..............        73.6         (73.6)            --
+         

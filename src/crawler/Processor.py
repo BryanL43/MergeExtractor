@@ -13,7 +13,7 @@ import json
 from src.utils.Logger import Logger
 from src.utils.Document import Document
 from src.dependencies.ChunkProcessor import ChunkProcessor
-from src.dependencies.RateLimiter import RateLimiter
+from src.dependencies.rate_limiter_globals import global_rate_limiter
 
 from src.dependencies.config import START_PHRASES, MAX_NUM_OF_THREADS, FALLBACK_MODEL, FALLBACK_TOOLS
 
@@ -63,7 +63,7 @@ class Processor:
         return " ".join(words);
 
     @staticmethod
-    def load_file_from_url(url: str, rate_limiter_resources: dict[str, any]) -> str:
+    def load_file_from_url(url: str) -> str:
         """
             Acquire the document's text from the given url.
 
@@ -71,8 +71,6 @@ class Processor:
             ----------
             url : str
                 The document source url.
-            rate_limiter_resources : dict[str, any]
-                Request wait limiter to stop flooding.
 
             Returns
             -------
@@ -85,7 +83,7 @@ class Processor:
             "Accept-Language": "en-US,en;q=0.9"
         }
 
-        RateLimiter.wait(rate_limiter_resources);
+        global_rate_limiter.wait();
         response = requests.get(url, headers=headers);
         if (response.text):
             return response.text;
@@ -153,7 +151,7 @@ class Processor:
         return cleanedText.strip();
 
     @staticmethod
-    def check_companies_in_document(url: str, company_names: list[str], rate_limiter_resources: dict[str, any]) -> tuple[str, bool]:
+    def check_companies_in_document(url: str, company_names: list[str]) -> tuple[str, bool]:
         """
             Validate the presence of both companys' name in the document.
 
@@ -163,8 +161,6 @@ class Processor:
                 The document source url.
             company_names : list[str]
                 The list of sanitized company names.
-            rate_limiter_resources : dict[str, any]
-                Request wait limiter to stop flooding.
 
             Returns
             -------
@@ -173,7 +169,7 @@ class Processor:
         """
         # Open the url and acquire the document content.
         # Error = Fatal, force exit from load function.
-        raw_text = Processor.load_file_from_url(url, rate_limiter_resources);
+        raw_text = Processor.load_file_from_url(url);
 
         # Clean and truncate text
         cleaned_text = Processor.preprocess_text(raw_text);
@@ -192,8 +188,7 @@ class Processor:
     @staticmethod
     def getDocuments(
         source_links: list[str], 
-        company_names: list[str],
-        rate_limiter_resources: dict[str, any] 
+        company_names: list[str]
     ) -> list[Document]:
         """
             Acquire the document's text content from the source urls
@@ -205,9 +200,7 @@ class Processor:
                 The list of documents source url.
             company_names : list[str]
                 The list of company names.
-            rate_limiter_resources : dict[str, any]
-                Request wait limiter to stop flooding.
-
+            
             Returns
             -------
             list : Document
@@ -219,7 +212,7 @@ class Processor:
         # Create multiple threads to open & verify document
         with ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS) as thread_pool:
             futures = {
-                thread_pool.submit(Processor.check_companies_in_document, url, company_names_cut, rate_limiter_resources): url
+                thread_pool.submit(Processor.check_companies_in_document, url, company_names_cut): url
                 for url in source_links
             };
 
@@ -275,7 +268,7 @@ class Processor:
                 result = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], executor);
             
             if result is None:
-                print("Error in process_document; ChunkProcessor.locateBackgroundChunk returning None is unexpected FATAL! No chunks with dates found.");
+                print("ChunkProcessor.locateBackgroundChunk returned None! No chunks with dates found; so, ignoring the invalid document.");
                 sys.exit(1);
             
             _, approx_chunks = result;

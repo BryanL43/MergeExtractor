@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/36047/000101706201000764/0001017062-01-000764.txt
+URL: https://www.sec.gov/Archives/edgar/data/36047/000101706201500062/0001017062-01-500062.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- N3Ac+4+QlsO4CPiOH/r7C7L2A2An7HSzKwIAfZScTkE0V7lYXa/Zxodqepay31q6
- 2Scc3qnyTeruR2BqCaW4dg==
+ VUpxGniYGMKijRFIyAk6qJQByftU2r3F6BKUIyVv1bqFSr/VlLhZQfyACZvlJb29
+ UQL78amAJWWx+Ehtl4ZimQ==
 
-0001017062-01-000764.txt : 20010410
+0001017062-01-500062.txt : 20010424
 
-0001017062-01-000764.hdr.sgml : 20010410
-ACCESSION NUMBER:		0001017062-01-000764
-CONFORMED SUBMISSION TYPE:	S-4
-PUBLIC DOCUMENT COUNT:		4
-FILED AS OF DATE:		20010406
+0001017062-01-500062.hdr.sgml : 20010424
+ACCESSION NUMBER:		0001017062-01-500062
+CONFORMED SUBMISSION TYPE:	S-4/A
+PUBLIC DOCUMENT COUNT:		6
+FILED AS OF DATE:		20010423
 
 FILER:
 
@@ -29,10 +29,10 @@ FILER:
 		FISCAL YEAR END:			1231
 
 	FILING VALUES:
-		FORM TYPE:		S-4
+		FORM TYPE:		S-4/A
 		SEC ACT:		
 		SEC FILE NUMBER:	333-58464
-		FILM NUMBER:		1597434
+		FILM NUMBER:		1608958
 
 	BUSINESS ADDRESS:	
 		STREET 1:		1 FIRST AMERICAN WAY
@@ -51,17 +51,15 @@ FILER:
 		FORMER CONFORMED NAME:	FIRST AMERICAN TITLE INSURANCE & TRUST C
 		DATE OF NAME CHANGE:	19690515
 
-S-4
+S-4/A
 
-0001.txt
+ds4a.txt
 
-FIRST AMERICAN FORM S-4
+AMENDMENT #1 TO FORM S-4
 
-     As filed with the Securities and Exchange Commission on April 6, 2001
-                                                      Registration No. 333-[   ]
-
-- --------------------------------------------------------------------------------
-- --------------------------------------------------------------------------------
+    As filed with the Securities and Exchange Commission on April 23, 2001
+                                                 Registration No. 333-58464
+================================================================================
 
                                  UNITED STATES
                        SECURITIES AND EXCHANGE COMMISSION
@@ -69,6 +67,9 @@ FIRST AMERICAN FORM S-4
 
                                 ---------------
 
+                                 PRE-EFFECTIVE
+                                   AMENDMENT
+                                 No. 1 TO
                                     FORM S-4
                              REGISTRATION STATEMENT
                                      UNDER
@@ -79,9 +80,9 @@ FIRST AMERICAN FORM S-4
                          THE FIRST AMERICAN CORPORATION
              (Exact Name of Registrant as Specified in Its Charter)
 
-                   California                         6361                    95-1068610
-          (State or Other Jurisdiction     (Primary Standard Industrial     (I.R.S. Employer
-        of Incorporation or Organization)   Classification Code Number)   Identification Number)
+          California                          6361                   95-1068610
+(State or Other Jurisdiction of  (Primary Standard Industrial    (I.R.S. Employer
+ Incorporation or Organization)   Classification Code Number)  Identification Number)
 
                               1 First American Way
                         Santa Ana, California 92707-5913
@@ -101,12 +102,11 @@ FIRST AMERICAN FORM S-4
                                Agent For Service)
 
                                 With copies to:
-
-            NEIL W. RUST, Esq.                    STEPHEN A. RIDDICK, Esq.
-             White & Case LLP                  Brobeck, Phleger & Harrison LLP
-           633 West Fifth Street               1333 H Street, N.W., Suite 800
-       Los Angeles, California 90071               Washington, D.C. 20005
-              (213) 620-7700                           (202) 220-6000
+           NEIL W. RUST, Esq.                    STEPHEN A. RIDDICK, Esq.
+            White & Case LLP                  Brobeck, Phleger & Harrison LLP
+          633 West Fifth Street               1333 H Street, N.W., Suite 800
+      Los Angeles, California 90071               Washington, D.C. 20005
+             (213) 620-7700                           (202) 220-6000
 
                                 ---------------
 
@@ -122,28 +122,24 @@ General Instruction G, check the following box. [_]
    If this form is filed to register additional securities for an offering
 pursuant to Rule 462(b) under the Securities Act, check the following box and
 list the Securities Act registration statement number of the earlier effective
-registration statement for the same offering. [_]_________________
+registration statement for the same offering. [_]
 
    If this form is a post-effective amendment filed pursuant to Rule 462(d)
 under the Securities Act, check the following box and list the Securities Act
 registration statement number of the earlier effective registration statement
-for the same offering. [_]________________
+for the same offering. [_]
 
                         CALCULATION OF REGISTRATION FEE
 
-- -----------------------------------------------------------------------------------------------------
-- -----------------------------------------------------------------------------------------------------
-
+=====================================================================================================
                                                            Proposed        Proposed
  Title of each class of                     Amount         maximum          maximum       Amount of
     securities to be                        to be       offering price     aggregate     registration
        registered                       registered(1)    per share(2)  offering price(3)    fee(4)
 - -----------------------------------------------------------------------------------------------------
 
-Common shares, $1.00 par value........ 2,890,123 shares     $5.813        $59,135,109      $14,784
-- -----------------------------------------------------------------------------------------------------
-
-- --------------------------------------------------------------------------------
+Common shares, $1.00 par value........ 2,890,123 shares     $5.813        $59,135,109     $14,784(5)
+=====================================================================================================
 
                                              (Notes continued on following page)
 
@@ -175,6 +171,8 @@ Common shares, $1.00 par value........ 2,890,123 shares     $5.813        $59,13
     under the Securities Act by multiplying 0.00025 and the proposed maximum
     aggregate offering price.
 
+(5) Previously paid.
+
                                ----------------
 
    The Registrant hereby amends this Registration Statement on such date or
@@ -205,12 +203,11 @@ related products and services. As a result of the merger, CMSI will become a
 wholly-owned subsidiary of First American.
 
    You are cordially invited to attend a special meeting of stockholders of
-Credit Management Solutions, Inc. at [  ]:00 [   ].m., Eastern Time, on
-[     ], 2001, at our principal offices located at 135 National Business
-Parkway, Annapolis Junction, Maryland 20701 to consider and vote upon the
-merger and to elect five (5) persons to serve on our board of directors. Only
-stockholders who hold common shares of CMSI at the close of business on
-[     ], 2001 will be entitled to vote.
+Credit Management Solutions, Inc. at 10:00 a.m., Eastern Time, on May 29, 2001,
+at the Sheraton Columbia Hotel, 10207 Wincopin Circle, Columbia, Maryland,
+21044 to consider and vote upon the merger and to elect five (5) persons to
+serve on our board of directors. Only stockholders who hold common shares of
+CMSI at the close of business on April 25, 2001 will be entitled to vote.
 
    If the planned merger takes place, each share of your CMSI common stock will
 be converted into the right to receive that portion of a share of First
@@ -219,15 +216,15 @@ per share of First American common stock for the ten trading day period ending
 on the third trading day before the special meeting, subject to a maximum price
 of $30.00 and a minimum price of $22.00. You will be entitled to receive cash
 in lieu of any fractional shares owed to you. First American's common shares
-trade on the New York Stock Exchange under the symbol "FAF." On [     ], 2001
-First American's closing stock price was $[       ].
+trade on the New York Stock Exchange under the symbol "FAF." On April 18, 2001
+First American's closing stock price was $21.15.
 
    We are excited about the opportunities presented by the merger. After
 careful consideration, your board of directors has determined the merger is
 consistent with and in furtherance of the long-term business strategy of CMSI
 and that the merger and the merger agreement are in the best interests of CMSI
-and you, our stockholders. YOUR BOARD OF DIRECTORS UNANIMOUSLY RECOMMENDS THAT
-YOU VOTE "FOR" THE PROPOSED MERGER.
+and you, our stockholders. Your board of directors unanimously recommends that
+you vote "FOR" the proposed merger.
 
    In light of the importance of the merger proposal, we urge you to attend the
 special meeting. Whether or not you plan to attend in person, after carefully
@@ -243,16 +240,16 @@ merger.
 
    The enclosed joint proxy statement-prospectus provides you with important
 information about the proposed merger and the election of directors. Please
-give all of this information your careful attention. IN PARTICULAR, YOU SHOULD
-READ AND CONSIDER CAREFULLY THE DISCUSSION IN THE SECTION ENTITLED "RISK
-FACTORS" BEGINNING ON PAGE [  ] OF THE JOINT PROXY STATEMENT-PROSPECTUS.
+give all of this information your careful attention. In particular, you should
+read and consider carefully the discussion in the section entitled "Risk
+Factors" beginning on page 9 of the joint proxy statement-prospectus.
 
    The merger cannot be completed unless approved by holders of a majority of
 the outstanding common shares of CMSI present in person or by proxy and
 entitled to vote at the special meeting. Two of our affiliates have entered
 into voting agreements whereby they have agreed to vote an aggregate of
-3,841,081 shares of CMSI common stock, representing approximately [48]% of our
-outstanding common shares as of [     ], 2001, to approve the merger.
+3,841,081 shares of CMSI common stock, representing approximately 48% of our
+outstanding common shares as of April 17, 2001, to approve the merger.
 
                                           Sincerely,
 
@@ -268,26 +265,29 @@ outstanding common shares as of [     ], 2001, to approve the merger.
  ACCURACY OF THIS JOINT PROXY STATEMENT-PROSPECTUS. ANY REPRESENTATION TO
  THE CONTRARY IS A CRIMINAL OFFENSE.
 
-        This joint proxy statement-prospectus is dated April [  ], 2001.
+      This joint proxy statement-prospectus is dated April 23, 2001.
+
    First mailed to Credit Management Solutions, Inc. stockholders on or about
-[    ], 2001.
+                              April 26, 2001.
 
         [LOGO OF CREDIT MANAGEMENT SOLUTIONS, INC. (CMSI) APPEARS HERE]
                          135 National Business Parkway
-                       Annapolis Junction, Maryland 20702
+
+                    Annapolis Junction, Maryland 20701
 
                                ----------------
 
                            NOTICE OF SPECIAL MEETING
-                         To be Held on [       ], 2001
+
+                        To be Held on May 29, 2001
 
                                ----------------
 
    We invite you to attend the special meeting of the stockholders of Credit
-Management Solutions, Inc., a Delaware corporation, to be held at our principal
-offices, 135 National Business Parkway, Annapolis Junction, Maryland 20701, on
-[       ], 2001 at [  ]:00 [  ].m., Eastern Time, and at any adjournments of
-the special meeting, for the following purposes:
+Management Solutions, Inc., a Delaware corporation, to be held at the Sheraton
+Columbia Hotel, 10207 Wincopin Circle, Columbia, Maryland, 21044 on May 29,
+2001 at 10:00 a.m., Eastern Time, and at any adjournments of the special
+meeting, for the following purposes:
 
   1. To elect five (5) persons to serve on our board of directors until their
      terms expire and their successors are elected and are qualified, or
@@ -311,7 +311,7 @@ the special meeting, for the following purposes:
   3. To transact such other business as may properly come before the meeting
      or any adjournment thereof.
 
-   Our board of directors has fixed the close of business on [       ], 2001 as
+   Our board of directors has fixed the close of business on April 25, 2001 as
 the record date for determining the stockholders of CMSI entitled to notice of
 the meeting, as well as for determining those stockholders entitled to vote at
 the meeting.
@@ -340,7 +340,8 @@ time before it is exercised.
                                           Chief Executive Officer and
                                            President
 Annapolis Junction, Maryland
-April [  ], 2001
+
+April 26, 2001
 
        QUESTIONS AND ANSWERS ABOUT THIS JOINT PROXY STATEMENT-PROSPECTUS
 
@@ -373,7 +374,7 @@ Exchange Commission. This means that First American and CMSI may satisfy their
 disclosure obligations to you by referring you to one or more documents
 separately filed by them with the SEC. Such documents include reports, proxy
 statements and other information filed by First American and CMSI with the SEC.
-See "Where You Can Find More Information" on page [ ] for a list of documents
+See "Where You Can Find More Information" on page 56 for a list of documents
 that First American and CMSI have incorporated by reference into this joint
 proxy statement-prospectus. You can obtain these documents at the SEC's public
 reference facilities. Please call the SEC at (800) 732-0330 for information
@@ -381,17 +382,16 @@ about these facilities. You may also view them by visiting the SEC Internet
 site at www.sec.gov or by requesting them in writing or by telephone from the
 appropriate company:
 
-The First American Corporation           Credit Management Solutions, Inc.
-Mark R Arnesen                           Nancy L. Weil
-1 First American Way                     135 National Business Parkway
-Santa Ana, California 92707-5913         Annapolis Junction, Maryland 20701
-(714) 800-3000                           (301) 362-6000
+The First American Corporation            Credit Management Solutions, Inc.
+Mark R Arnesen                            Nancy L. Weil
+1 First American Way                      135 National Business Parkway
+Santa Ana, California 92707-5913          Annapolis Junction, Maryland 20701
+(714) 800-3000                            (301) 362-6000
 
    If you would like to request documents from First American or CMSI, please
-do so by [insert date that is 5 business days before special meeting], 2001 to
-receive them before the CMSI stockholders' meeting. We will send such documents
-to you free of charge by first-class mail within one business day of receiving
-your request.
+do so by May 21, 2001 to receive them before the CMSI stockholders' meeting. We
+will send such documents to you free of charge by first-class mail within one
+business day of receiving your request.
 
 What if there is a conflict between documents?
 
@@ -419,24 +419,24 @@ whether or not you choose to read the documents.
                                                                            Page
                                                                            ----
 
-Summary...................................................................   1
+SUMMARY...................................................................   1
   The Companies...........................................................   1
   The Stockholders' Meeting...............................................   3
   The Merger..............................................................   3
-Risk Factors..............................................................   9
-Selected Financial Data...................................................  12
+RISK FACTORS..............................................................   9
+SELECTED FINANCIAL DATA...................................................  12
   Comparative Per Share Market Price......................................  12
   Selected Historical Financial of First American.........................  13
   Selected Historical Financial of CMSI...................................  15
   Historical and Unaudited Pro Forma Per Share Data.......................  16
-Special Note of Caution Regarding Forward-Looking Statements..............  17
-The Stockholders' Meeting.................................................  18
+SPECIAL NOTE OF CAUTION REGARDING FORWARD-LOOKING STATEMENTS..............  17
+THE STOCKHOLDERS' MEETING.................................................  18
   Time and Place; Purpose.................................................  18
   Voting Rights; Votes Required...........................................  18
   Voting of Proxies.......................................................  18
   Proposal One: Election of CMSI Directors ...............................  20
   Proposal Two: Adoption of the Merger....................................  25
-The Merger................................................................  26
+THE MERGER................................................................  26
   General.................................................................  26
   Background of the Merger................................................  26
   First American's Reasons for the Merger.................................  28
@@ -448,7 +448,7 @@ The Merger................................................................  26
   We Must Obtain Antitrust Approval.......................................  32
   You Will Not Have Appraisal Rights......................................  32
   Federal Securities Laws Consequences for Certain CMSI Stockholders......  32
-Summary of the Merger Agreement...........................................  33
+SUMMARY OF THE MERGER AGREEMENT...........................................  33
   General.................................................................  33
   Consideration You Will Receive in the Merger............................  33
   Exchange of Shares......................................................  33
@@ -458,16 +458,16 @@ Summary of the Merger Agreement...........................................  33
   The Merger May Be Terminated Prior to the Effective Time Under Certain
    Circumstances..........................................................  39
   Expenses................................................................  40
-Voting Agreements.........................................................  41
-Affiliate and Pooling Agreements..........................................  41
-Role of Financial Advisor.................................................  43
-Interests of Certain Persons in the Merger................................  48
+VOTING AGREEMENTS.........................................................  41
+AFFILIATE AND POOLING AGREEMENTS..........................................  41
+ROLE OF FINANCIAL ADVISOR.................................................  43
+INTERESTS OF CERTAIN PERSONS IN THE MERGER................................  48
   Termination in Connection With Change in Control........................  48
   Option Plan.............................................................  48
   Noncompetition Agreement................................................  49
   Indemnification Agreement...............................................  49
   Indemnification and Directors' and Officers' Insurance..................  50
-Comparison of Rights of Security Holders..................................  50
+COMPARISON OF RIGHTS OF SECURITY HOLDERS..................................  50
   Authorized and Issued Capital Stock.....................................  50
 
                                       (ii)
@@ -489,10 +489,10 @@ Comparison of Rights of Security Holders..................................  50
   Anti-takeover Protections................................................  54
   Amendments to Articles of Incorporation or Bylaws........................  54
   Rights to Purchase Preferred Stock.......................................  55
-Legal Matters..............................................................  56
-Experts....................................................................  56
-2000 Annual Meeting of CMSI Stockholders...................................  56
-Where You Can Find More Information........................................  56
+LEGAL MATTERS..............................................................  56
+EXPERTS....................................................................  56
+2001 ANNUAL MEETING OF CMSI STOCKHOLDERS...................................  56
+WHERE YOU CAN FIND MORE INFORMATION........................................  56
 
                                     ANNEXES
 
@@ -513,16 +513,16 @@ Q: What am I being asked to vote on?
 
 A: You are being asked to vote on two proposals.
 
-   First, you are being asked to vote to elect a new board of directors. CMSI
-   is holding an election of its directors to comply with Delaware law which
-   requires its officers to call an election at a special meeting of
-   stockholders following the revival of its certificate of incorporation. In
-   January 2001, CMSI learned that its certificate of incorporation had become
-   inoperative after a mistake was made in the manner of the filing of its
-   Delaware franchise tax return. CMSI's certificate of incorporation was
-   renewed and revived by the Delaware Secretary of State on January 25, 2001.
-   See "Stockholders' Meeting--Proposal One: Election of CMSI Directors" on
-   page [ ].
+   First, you are being asked to vote to elect a new board of directors. Credit
+   Management Solutions, Inc., or CMSI, is holding an election of its directors
+   to comply with Delaware law which requires its officers to call an election
+   at a special meeting of stockholders following the revival of its
+   certificate of incorporation. In January 2001, CMSI learned that its
+   certificate of incorporation had become inoperative after a mistake was made
+   in the manner of the filing of its Delaware franchise tax return. CMSI's
+   certificate of incorporation was renewed and revived by the Delaware
+   Secretary of State on January 25, 2001. See "Stockholders' Meeting--Proposal
+   One: Election of CMSI Directors" on page 20.
 
    Second, you are being asked to vote in favor of the proposed merger:
 
@@ -530,25 +530,24 @@ A: You are being asked to vote on two proposals.
     subsidiary called Rusti Corp., a Delaware corporation, to facilitate the
     proposed merger.
 
-  . Rusti Corp. will be merged with and into Credit Management Solutions,
-    Inc., or CMSI.
+  . Rusti Corp. will be merged with and into CMSI.
 
   . CMSI will survive the merger and become a wholly-owned subsidiary of
     First American.
 
-  . After the merger, you will be a shareholder in First American and will no
+  . after the merger, you will be a shareholder in First American and will no
     longer own shares in CMSI.
 
 Q: How do I vote?
 
 A: You may vote in one of two ways if you hold your CMSI shares in your name:
 
-  . Just indicate on the enclosed proxy card how you want to vote, sign it
+  . just indicate on the enclosed proxy card how you want to vote, sign it
     and mail it in the enclosed return envelope as soon as possible so that
     your shares may be represented at the special meeting of CMSI
     stockholders; or
 
-  . Attend the special meeting in person and vote your shares.
+  . attend the special meeting in person and vote your shares.
 
 Q: If my shares are held in "street name" by my broker, will my broker vote my
    shares for me?
@@ -565,7 +564,7 @@ A: Yes. If you grant a proxy, you may revoke your proxy at any time prior to it
    the special meeting and vote in person. However, if you elect to vote in
    person at the special meeting and your shares are held by a broker, bank or
    other nominee, you must bring to the special meeting a legal proxy from the
-   broker, bank or nominee authorizing you to vote the shares.
+   broker, bank or nominee authorizing you to vote your shares.
 
 Q: What will happen to my CMSI stock?
 
@@ -577,7 +576,7 @@ Q: What do I need to do now?
 A: We urge you to carefully read this joint proxy statement-prospectus,
    including its annexes, and to consider how the merger will affect you as a
    stockholder. You should also read the documents referenced in the section
-   entitled "Where You Can Find More Information" on page [ ].
+   entitled "Where You Can Find More Information" on page 56.
 
 Q: Should I send in my share certificates now?
 
@@ -585,23 +584,22 @@ A: No. If the merger is completed, you should follow the written instructions
    of First American's transfer agent, First American Trust Company, which
    written instructions will be mailed to you if the merger is approved.
 
-Q: Does the board of directors of CMSI have a recommendation on the merger?
-
-A: Yes. The board of directors of CMSI has carefully considered the merger
-   proposal and it unanimously recommends that you vote in favor of the merger.
-
 Q: Does the board of directors of CMSI have a recommendation on the election of
    directors?
 
 A: Yes. The board of directors of CMSI unanimously recommends that you vote to
    elect the slate of directors proposed in its proxy card.
 
+Q: Does the board of directors of CMSI have a recommendation on the merger?
+
+A: Yes. The board of directors of CMSI has carefully considered the merger
+   proposal and it unanimously recommends that you vote in favor of the merger.
+
 Q: When do you expect the merger to be completed?
 
 A: We are working to complete the merger as soon as possible. We hope to
    complete the merger shortly after the CMSI stockholders' meeting, assuming
-   the required stockholder approval is obtained at the meeting and further
-   assuming that all necessary regulatory approvals have been obtained.
+   the required stockholder approval is obtained at the meeting.
 
                                       (iv)
 
@@ -616,7 +614,7 @@ matters presented. In addition, we incorporate by reference important business
 and financial information about First American and CMSI into this joint proxy
 statement-prospectus. You may obtain the incorporated information without
 charge by following the instructions in the section entitled "Where You Can
-Find More Information" that begins on page [  ] of this joint proxy statement-
+Find More Information" that begins on page 56 of this joint proxy statement-
 prospectus.
 
                                  The Companies
@@ -643,8 +641,8 @@ the real estate transfer and closing process.
 American now offers through its subsidiaries. These products and services are
 listed by business segment.
 
-     Title Insurance     Real Estate Information        Consumer Information
-       And Services            And Services                 And Services
+    Title Insurance      Real Estate Information        Consumer Information
+      And Services             And Services                 And Services
 
  . aircraft and vessel    . credit reporting and     --consumer information
   title insurance          information              . pre-employment screening
@@ -656,18 +654,16 @@ listed by business segment.
   insurance                and compliance           . vehicle information and
  . subdivision title      . mortgage document          insurance tracking
   insurance                services
-
  . 1031 tax-deferred      . mortgage origination     --consumer services
-  exchange services        software systems
-
- . title and escrow       . mortgage servicing       . banking services
-  systems                  software systems         . consumer credit reports
-                         . residential and          . home comparable reports
-                           commercial real          . home warranty
-                           estate tax reporting     . investment services
-                         . tax valuation            . property and casualty
-                           services                   insurance
-                         . appraisal and            . trust services
+  exchange services        software systems         . banking services
+ . title and escrow       . mortgage servicing       . consumer credit reports
+  systems                  software systems         . home comparable reports
+                         . residential and          . home warranty
+                           commercial real          . investment services
+                           estate tax reporting     . property and casualty
+                         . tax valuation              insurance
+                           services                 . trust services
+                         . appraisal and
                            property valuation
                          . database management
                            services and document
@@ -726,16 +722,16 @@ cards and small business credit. CMSI's primary products and services include:
 
                            The Stockholders' Meeting
 
-Record date; voting power (see page [   ])
+Record date; voting power (see page 18)
 
    You are entitled to vote at the CMSI stockholders' meeting if you owned CMSI
-common shares at the close of business on [ ], 2001, the record date.
+common shares at the close of business on April 25, 2001, the record date.
 
-   On the record date, there were [ ] CMSI common shares outstanding. For each
-CMSI common share that you own on the record date, you will have one vote at
-the CMSI stockholders' special meeting.
+   On April 17, 2001, there were 7,999,431 CMSI common shares outstanding. For
+each CMSI common share that you own on the record date, you will have one vote
+at the CMSI stockholders' special meeting.
 
-Votes required
+Votes required (see page 18)
 
    The affirmative vote of a majority of the outstanding common shares of CMSI
 entitled to vote as of the record date is required to approve and adopt the
@@ -743,7 +739,7 @@ merger proposal. Directors are elected by a plurality of the votes of the
 shares present in person or represented by proxies at the special meeting and
 entitled to vote.
 
-Certain voting commitments (see page [   ])
+Certain voting commitments (see page 41)
 
    Scott Freiman, Director, Chief Executive Officer and President of CMSI, and
 James DeFrancesco, Director, former Chief Executive Officer and President of
@@ -752,14 +748,14 @@ with First American. 1,271,684 shares of CMSI common stock beneficially owned
 by Mr. Freiman and 2,569,397 shares of CMSI common stock beneficially owned by
 Mr. DeFrancesco are subject to the voting agreements. Pursuant to the voting
 agreements, Messrs. Freiman and DeFrancesco are required to vote these shares
-in favor of the merger. Together these shares represent approximately [48]% of
-the total number of CMSI common shares issued and outstanding as of the record
-date. The form of voting agreement signed by Messrs. Freiman and DeFrancesco is
+in favor of the merger. Together these shares represent approximately 48% of
+the total number of CMSI common shares issued and outstanding as of April 17,
+2001. The form of voting agreement signed by Messrs. Freiman and DeFrancesco is
 attached as Annex D to this joint proxy statement-prospectus, and you are urged
 to read it in its entirety.
 
-The board of directors of CMI recommends that you vote "FOR" each nominee
-listed below (see page [  ])
+The board of directors of CMSI recommends that you vote "FOR" each nominee
+listed below (see page 20)
 
    The five nominees for election to the CMSI board of directors are Scott L.
 Freiman, James R. DeFrancesco, John J. McDonnell, Jr., Robert P. Vollono and
@@ -770,12 +766,12 @@ Stephen X. Graham. Each nominee currently serves as a member of the board.
    The Agreement and Plan of Merger and Amendment No. 1 to Agreement and Plan
 of Merger are attached to this joint proxy statement-prospectus as Annexes A
 and B, respectively, and are incorporated herein. You are encouraged to read
-the Agreement and Plan of Merger and the amendment as these are the legal
+the Agreement and Plan of Merger and the Amendment as these are the legal
 documents that govern the merger. For ease of reference, we refer to the
 amended Agreement and Plan of Merger in this joint proxy statement-prospectus
 as the merger agreement.
 
-What you will receive in the merger (see page [  ])
+What you will receive in the merger (see page 33)
 
    If the merger is completed, you will receive, for each CMSI common share
 that you own, the right to receive a fraction of a share of First American
@@ -787,7 +783,7 @@ the New York Stock Exchange for the ten trading day period ending on the third
 trading day before the special meeting. However, if the average closing price
 of First American common shares on the NYSE for such ten trading day period is
 more than $30.00 or less than $22.00, the price per share of First American
-common stock will be deemed to be $30.00 and $22.00, as the case may be. The
+common stock will be deemed to be $30.00 or $22.00, as the case may be. The
 range of per share prices for First American common stock is as follows:
 
             Average Closing Price Of                 Deemed Price Per Share
@@ -803,23 +799,23 @@ Greater than $30.00..............................            $30.00
    Due to this "collar" on First American's stock price, you will receive
 between 0.2083 and 0.2841 of a First American share for each CMSI share that
 you own. As an example, the following table shows the average closing price of
-First American common stock for the ten trading day period ending January 29,
-2001, the last trading day before the merger was announced, and April [  ],
-2001, the most recent practicable date before we printed this joint proxy
-statement-prospectus. The table also shows the value to be received by you, if
-the merger was completed on those dates, for each share of CMSI common stock
-that you own. We urge you to obtain more recent market quotations and determine
-the merger consideration prior to voting at the special meeting.
+First American common stock for the ten trading day periods ending January 29,
+2001, the last trading day before the merger was announced, and April 18, 2001,
+the most recent practicable date before we printed this joint proxy statement-
+prospectus. The table also shows the value to be received by you, if the merger
+was completed on those dates, for each share of CMSI common stock that you own.
+We urge you to obtain more recent market quotations and determine the potential
+merger consideration prior to voting at the special meeting.
 
                                                                                Portion of First
                                                                                 American Common
                          Average Price Per Share Of  Agreed Price Per Share Share Received For Each
-Ten Trading Day Period         First American                  Of                  Share Of
-Ending                   Common Stock Over Period(1)  CMSI Common Stock(2)     CMSI Common Stock
-- ----------------------   --------------------------- ---------------------- -----------------------
+Ten Trading Day                First American               Of CMSI                Share Of
+Period Ending            Common Stock Over Period(1)    Common Stock(2)        CMSI Common Stock
+- ---------------          --------------------------- ---------------------- -----------------------
 
-January 29, 2001........           $ 30.46                   $6.25                   0.2083(3)
-April [  ], 2001........           $[    ]                   $6.25                  0.[   ](4)
+January 29, 2001........           $30.46                    $6.25                  0.2083(3)
+April 18, 2001..........           $22.94                    $6.25                  0.2724(4)
 
 - --------
 (1) Based on closing prices reported on the NYSE.
@@ -830,14 +826,14 @@ April [  ], 2001........           $[    ]                   $6.25              
 (3) The value per share is calculated by dividing $6.25 by $30.00, the maximum
     per share price permitted by the collar arrangement.
 
-(4) The value per share is calculated by dividing $6.25 by [    ].
+(4) The value per share is calculated by dividing $6.25 by $22.94.
 
    First American will not issue any fractional shares in the merger. Instead,
 you will receive cash in lieu of any fractional First American share owed to
 you in an amount based on the exchange ratio.
 
 The CMSI board of directors recommends that you approve the merger (see page
-[ ])
+28)
 
    Based on CMSI's reasons for the merger described in this document, including
 the fairness opinion of Chase Securities Inc., the CMSI board of directors
@@ -846,40 +842,40 @@ unanimously approved the merger agreement and recommends that you vote "FOR"
 approval of the merger.
 
    The board of directors and executive officers of CMSI and their affiliates
-held approximately 4,171,399 shares of CMSI common stock as of the record date.
-The shares held as of the record date by the CMSI directors, executive officers
-and their affiliates represent approximately [52]% of the number of shares of
-CMSI common stock outstanding as of that date, which would be a sufficient
-number to approve the merger as of that date if all of those shares were voted
-in favor of the merger. CMSI currently expects that all of its directors and
-executive officers and their affiliates will vote in favor of the merger.
+held approximately 4,171,399 shares of CMSI common stock as of April 17, 2001.
+These shares represent approximately 52% of the number of shares of CMSI common
+stock outstanding as of that date, which would be a sufficient number to
+approve the merger as of that date if all of those shares were voted in favor
+of the merger. CMSI currently expects that all of its directors and executive
+officers and their affiliates will vote in favor of the merger.
 
 Ownership of First American after the merger
 
    The exact number of First American common shares to be issued to CMSI
 stockholders is not determinable until the exchange ratio is set on the third
-trading day before the special meeting. Based on the maximum and minimum price
+trading day before the special meeting. Based on the minimum and maximum price
 of First American common shares permitted by the collar arrangement, First
-American would issue approximately [    ] to [    ] of its common shares to
-CMSI stockholders in connection with the merger. This represents approximately
-[  ]% to [  ]% of First American common shares outstanding, based on the number
-of First American common shares outstanding on [    ], 2001, the most recent
-date for which such information is available.
+American would issue approximately 1,666,281 to 2,272,638 of its common shares
+to CMSI stockholders in connection with the merger based on the number of CMSI
+common shares outstanding on April 17, 2001. After giving effect to the
+issuance of shares in the merger, this represents approximately 2.50% to 3.38%
+of First American common shares outstanding, based on the number of First
+American common shares outstanding on April 17, 2001.
 
-Effect of the merger
+Effect of the merger (see page 33)
 
    Upon consummation of the merger, Rusti Corp. will merge with and into CMSI,
 and CMSI will become a wholly-owned subsidiary of First American.
 
-Your rights will differ as a First American shareholder (see page [ ])
+Your rights will differ as a First American shareholder (see page 50)
 
    Your rights as a CMSI stockholder are governed by Delaware law and CMSI's
 certificate of incorporation and bylaws. Upon completion of the merger, you
 will become a First American shareholder, and your rights will be governed by
 California law and First American's articles of incorporation and bylaws.
 
-Officers and directors of CMSI have some interests in the merger that are in
-addition to their interests as stockholders (see page [ ])
+Directors and executive officers of CMSI have some interests in the merger that
+are in addition to their interests as stockholders (see page 48)
 
    Certain of CMSI's directors and executive officers hold stock options that
 will vest upon completion of the merger, which is sooner than they were
@@ -896,33 +892,33 @@ benefits if their employment is terminated other than for "cause," or if they
 resign for "good reason," during a specified period of time before or after a
 change in control. Robert Vollono, Chief Financial Officer of CMSI, is subject
 to a separate letter agreement, pursuant to which his employment is to be
-terminated during that time period. He will then be entitled to receive
-severance benefits in accordance with his employment agreement. Miles Grody was
-subject to a similar letter agreement prior to the termination of his
-employment. Upon the consummation of the merger, he will be entitled to the
-severance benefits provided under his employment agreement in connection with a
-change in control. The aggregate cash severance payments that could become
-payable to CMSI executive officers under those plans, agreements and
-arrangements, including the amounts paid or payable to Mr. Grody, is estimated
-to be approximately $1.8 million.
+terminated during that time period with respect to the merger. He will then be
+entitled to receive severance benefits in accordance with his employment
+agreement. Miles Grody was subject to a similar letter agreement prior to the
+termination of his employment. Upon the consummation of the merger, he will be
+entitled to the severance benefits provided under his employment agreement in
+connection with a change in control. The aggregate cash severance payments that
+could become payable to CMSI executive officers under those plans, agreements
+and arrangements, including the amounts paid or payable to Mr. Grody, is
+estimated to be approximately $1.8 million.
 
    Scott Freiman and James DeFrancesco have entered into a non-competition
 agreement with First American and CMSI pursuant to which Messrs. Freiman and
 DeFrancesco have agreed for a period of five years not to be employed by,
 participate in or be connected with any business that competes with CMSI, is
 engaged in substantially the same business as CMSI or that provides similar or
-comparable services as CMSI or to employ, solicit for employment or contract
+comparable services as CMSI, or to employ, solicit for employment or contract
 for the services of any employee of CMSI.
 
    Also, following the merger, First American has agreed to indemnify, and
 provide directors' and officers' insurance during a limited period of time for,
-the officers and directors of CMSI and its subsidiaries for events occurring
+the directors and officers of CMSI and its subsidiaries for events occurring
 before the merger, including events that are related to the merger.
 
    The members of CMSI's board of directors knew about these additional
 interests, and considered them, when they approved the merger.
 
-Conditions to the merger (see page [ ])
+Conditions to the merger (see page 37)
 
    The merger will be completed only if certain conditions are satisfied or
 waived, including without limitation the following conditions:
@@ -932,7 +928,7 @@ waived, including without limitation the following conditions:
 
   . the board of directors of CMSI elected at the special meeting must have
     ratified and approved all actions taken by CMSI on or after January 25,
-    2001, including the merger and the merger agreement, and the other the
+    2001, including the merger and the merger agreement, and the other
     transactions contemplated thereby;
 
   . the merger must be approved by CMSI stockholders;
@@ -964,7 +960,7 @@ waived, including without limitation the following conditions:
     respects with all of its respective covenants and agreements in the
     merger agreement.
 
-Termination of the merger agreement (see page [ ])
+Termination of the merger agreement (see page 39)
 
    First American and CMSI may agree to terminate the merger agreement at any
 time before the merger is completed. Either First American or CMSI may
@@ -991,7 +987,7 @@ at any time before the merger is completed if:
     transactions contemplated thereby;
 
   . CMSI's board of directors modifies or withdraws its approval or
-    recommendation of the merger to in a manner adverse to First American;
+    recommendation of the merger in a manner adverse to First American;
 
   . CMSI does not call a stockholder meeting within 35 days after the
     effectiveness of the registration statement of which this joint proxy
@@ -1021,7 +1017,7 @@ before the merger is completed if:
   . the conditions to CMSI's obligations to proceed with the merger are not
     satisfied by July 29, 2001.
 
-Regulatory approvals we must obtain for the merger (see page [ ])
+Regulatory approvals we must obtain for the merger (see page 32)
 
    Completion of the merger requires that we obtain the approval of antitrust
 authorities in the United States. We have received notice of early termination
@@ -1030,7 +1026,7 @@ Antitrust Division of the United States Department of Justice. It is still
 possible, however, that one of those entities, or a state government or private
 person, could challenge the merger on antitrust grounds.
 
-Opinion of financial advisor (see page [ ])
+Opinion of financial advisor (see page 43)
 
    At a meeting of the board of directors of CMSI on January 27, 2001, Chase
 Securities Inc. delivered its oral opinion to the board of directors,
@@ -1046,7 +1042,7 @@ The opinion does not address any other aspects of the proposed merger and does
 not constitute an opinion or recommendation to any stockholder of CMSI as to
 how such stockholder should vote at the special meeting.
 
-Material federal income tax consequences (see page [ ])
+Material federal income tax consequences (see page 31)
 
    CMSI is not required to complete the merger unless it receives a legal
 opinion from its counsel to the effect that the merger will qualify as a
@@ -1059,7 +1055,7 @@ will depend on the facts of your individual situation. We urge you to consult
 your tax advisor for a full understanding of the tax consequences of the merger
 to you.
 
-You will not have appraisal rights (see page [ ])
+You will not have appraisal rights (see page 32)
 
    Under Delaware law, you will not have any right to dissent from the merger,
 have the value of your CMSI common shares appraised in connection with the
@@ -1067,13 +1063,13 @@ merger, or have your CMSI common shares purchased for cash (except for
 fractional shares of First American common stock which may be acquired in
 exchange for your CMSI common stock).
 
-First American will use the purchase method of accounting (see page [ ])
+First American will use the purchase method of accounting (see page 30)
 
    First American will account for the merger using the purchase method of
 accounting.
 
 Affiliate, pooling agreements and restrictions on the ability to sell First
-American common shares (see page [  ])
+American common shares (see pages 32 and 41)
 
    Absent any legal or contractual rights or restrictions applicable
 specifically to you, all First American common shares received by you in the
@@ -1097,7 +1093,7 @@ pooling agreements.
    If the merger is completed, you will receive First American common shares.
 In addition to the other information contained in this joint proxy statement-
 prospectus, you should carefully consider the following risk factors in
-considering whether to vote in favor of the merger proposal and thereby make an
+deciding whether to vote in favor of the merger proposal and thereby make an
 investment in First American.
 
 The merger consideration may fluctuate before it is set and the price per share
@@ -1140,9 +1136,9 @@ in which its products are purchased decreases. First American has found that
 the number of real estate transactions in which its products are purchased
 decreases in the following situations.
 
-  . when mortgage rates are high.
+  . when mortgage rates are high;
 
-  . when the mortgage fund supply is limited.
+  . when the mortgage fund supply is limited; and
 
   . when the United States economy is weak.
 
@@ -1208,18 +1204,18 @@ plaintiffs allege that the defendants:
     financial institutions to receive interest on escrow funds deposited by
     defendants with financial institutions in demand deposits.
 
-   Since the initial filing of the suit, the California Attorney General's
-Office, on behalf of the State, the controller and the insurance commissioner,
-indicated that it would not seek to certify a class of defendents, but would
+   Since the initial filing of the suit, the California attorney general's
+office, on behalf of the State, the controller and the insurance commissioner,
+indicated that it would not seek to certify a class of defendants, but would
 instead amend its suit to name an unspecified number of title underwriters and
-underwritten title companies. To date, the Attorney General has neither amended
-the suit, nor to our knowledge taken steps to progress with it, including the
-service of process on any party. The Attorney General, however, has entered
-into settlement discussions with various title insurance underwriters,
-including certain First American subsidiaries. Additionally, the Attorney
-General indicated that it will address issues pertaining to escheat obligations
-through routine audits conducted by the controller's office, rather than
-through litigation.
+underwritten title companies. To date, the attorney general has neither amended
+the suit, nor to First American's knowledge taken steps to progress with it,
+including the service of process on any party. The attorney general, however,
+has entered into settlement discussions with various title insurance
+underwriters, including certain First American subsidiaries. Additionally, the
+attorney general indicated that it will address issues pertaining to escheat
+obligations through routine audits conducted by the controller's office, rather
+than through litigation.
 
    Subsequent to the filing of this lawsuit, the First American Title Insurance
 Company, a subsidiary of First American, was named and served as a defendant in
@@ -1266,52 +1262,52 @@ Comparative Per Share Market Price
 symbol "CMSS" and First American common shares are listed on the NYSE under the
 symbol "FAF." On January 29, 2001, the last full trading day prior to the
 public announcement of the proposed merger, CMSI common shares closed at $3.75
-and First American common shares closed at $32.00. On April [ ], 2001, the most
+and First American common shares closed at $32.00. On April 18, 2001, the most
 recent practicable date prior to the printing of this joint proxy statement-
-prospectus, CMSI common shares closed at $[   ] and First American common
-shares closed at $[   ]. The following table sets forth these closing prices
-per share of First American common stock and CMSI common stock and the
-"equivalent price per share" of CMSI common stock on those dates. The
-"equivalent price per share" of CMSI common stock is equal to the closing price
-of a share of First American common stock on that date multiplied by the
-exchange ratio. We calculated the exchange ratio on the basis of the average
-closing price of the First American common stock for the ten trading days ended
-on the date specified. The actual exchange ratio may be higher or lower. See
-"Summary--The Merger--What you will receive in the merger" on page [ ] and
-"Summary of the Merger Agreement--Consideration you will receive in the merger"
-on page [ ], which discusses how the actual exchange ratio will be calculated.
+prospectus, CMSI common shares closed at $5.45 and First American common shares
+closed at $21.15. The following table sets forth these closing prices per share
+of First American common stock and CMSI common stock and the "equivalent price
+per share" of CMSI common stock on those dates. The "equivalent price per
+share" of CMSI common stock is equal to the closing price of a share of First
+American common stock on that date multiplied by the exchange ratio. We
+calculated the exchange ratio on the basis of the average closing price of the
+First American common stock for the ten trading days ended on the date
+specified. The actual exchange ratio may be higher or lower. See "Summary--The
+Merger--What you will receive in the merger" on page 3 and "Summary of the
+Merger Agreement--Consideration you will receive in the merger" on page 33,
+which discusses how the actual exchange ratio will be calculated.
 
                          First American     CMSI     Equivalent Price Per Share
                           Common Stock  Common Stock    Of CMSI Common Stock
                          -------------- ------------ --------------------------
 
    January 29, 2001.....     $32.00        $3.75               $6.67
-   April [ ], 2001......      [   ]        [   ]               [   ]
+   April 18, 2001.......     $21.15        $5.45               $5.76
 
    The following table sets forth, for the periods indicated, the high and low
 sales prices per share of (1) First American common stock as reported on the
 NYSE and (2) CMSI common stock as reported on the Nasdaq National Market, in
 each case based on published financial sources.
 
-                                                         First
-                                                       American        CMSI
-                                                     ------------- ------------
-                                                      High   Low    High   Low
-                                                     ------ ------ ------ -----
+                                                          First
+                                                        American        CMSI
+                                                      ------------- ------------
+                                                       High   Low    High   Low
+                                                      ------ ------ ------ -----
 
    Fiscal Year Ended December 31, 1999
-     First Quarter.................................. $35.19 $15.81 $ 5.75 $3.63
-     Second Quarter.................................  21.38  13.50   5.00  3.50
-     Third Quarter..................................  19.44  11.81   7.75  4.50
-     Fourth Quarter.................................  15.19  11.50   9.00  3.88
+     First Quarter................................... $35.19 $15.81  $5.75 $3.63
+     Second Quarter..................................  21.38  13.50   5.00  3.50
+     Third Quarter...................................  19.44  11.81   7.75  4.50
+     Fourth Quarter..................................  15.19  11.50   9.00  3.88
    Fiscal Year Ended December 31, 2000
-     First Quarter.................................. $14.25 $10.25 $14.50 $7.25
-     Second Quarter.................................  17.75  12.50   8.50  3.63
-     Third Quarter..................................  22.88  14.38   5.75  3.75
-     Fourth Quarter.................................  32.89  17.06   4.25  0.88
+     First Quarter................................... $14.25 $10.25 $14.50 $7.25
+     Second Quarter..................................  17.75  12.50   8.50  3.63
+     Third Quarter...................................  22.88  14.38   5.75  3.75
+     Fourth Quarter..................................  32.89  17.06   4.25  0.88
    Fiscal Year Ended December 31, 2001
-     First Quarter.................................. $35.49 $23.90 $ 7.13 $1.50
-     Second Quarter (through April [ ]).............
+     First Quarter................................... $35.49 $23.90  $7.13 $1.50
+     Second Quarter (through April 18)...............  27.00  19.10   6.06  4.75
 
 Selected Historical Financial Data of First American
 
@@ -1324,7 +1320,7 @@ PricewaterhouseCoopers LLP, independent public accountants.
 audited and consolidated financial statements of First American, including the
 notes to the financial statements, incorporated by reference in this joint
 proxy statement-prospectus. See "Where You Can Find More Information" on page
-[  ]. All data are in thousands, except percentages, per share amounts and
+56. All data are in thousands, except percentages, per share amounts and
 employee data.
 
                                           Year Ended December 31
@@ -1349,8 +1345,8 @@ Mandatorily redeemable
  preferred securities...                 100,000     100,000     100,000     100,000
 Stockholders' equity....     384,931     442,783     762,265     815,991     870,237
 Return on average
- stockholders'
- equity (2).............        15.4%       16.4%       33.4%       10.9%        9.8%
+ stockholders' equity
+ (2)....................        15.4%       16.4%       33.4%       10.9%        9.8%
 Cash dividends on common
  shares.................       7,928      14,035      13,894      15,840      15,256
 Per share of common
@@ -1396,9 +1392,10 @@ Title orders closed
  (4)....................         775         886       1,210       1,120         975
 Number of employees.....      11,611      13,156      19,669      20,065      20,346
 
-- -------
-   All consolidated results reflect the 1999 acquisition of NAIG accounted for
-under the pooling-of-interests method of accounting.
+- --------
+
+  All consolidated results reflect the 1999 acquisition of National Information
+Group accounted for under the pooling-of-interests method of accounting.
 
 (1) In December 1999, First American adopted Staff Accounting Bulletin No. 101
     (SAB), "Revenue Recognition in Financial Statements." The SAB, which became
@@ -1444,7 +1441,7 @@ auditors.
    This information is only a summary and you should read it together with the
 audited consolidated financial statements of CMSI, including the notes to the
 financial statements, incorporated by reference in this joint proxy statement-
-prospectus. See "Where You Can Find More Information" on page [ ]. All data are
+prospectus. See "Where You Can Find More Information" on page 56. All data are
 in thousands, except per share amounts.
 
                                             Year Ended December 31
@@ -1477,7 +1474,7 @@ Research and development costs....      527    1,791    1,964    1,458      758
                                     -------  -------  -------  -------  -------
 Income (loss) from operations.....      269   (4,971) (10,333)  (2,817)  (2,120)
 
-Other income (expense)
+Other income (expense):
 Interest income (expense) net.....      (78)   1,181      763      262      211
 Amortization of excess assigned
  value of identifiable assets over
@@ -1516,63 +1513,68 @@ accepted accounting principles. The unaudited pro forma per share data for
 First American is based on the number of outstanding First American shares
 adjusted to include the maximum number of First American shares that could be
 issued in the merger. The unaudited pro forma equivalent per share data for
-CMSI is based on the unaudited pro forma amounts per share for First American,
-multiplied by an assumed merger exchange ratio of 0.2354. The information set
+CMSI is based on the unaudited pro forma amounts per share for First American.
+See Notes (2) and (3) below for the exchange ratios used. The information set
 forth below should be read in conjunction with the historical financial data of
 First American and CMSI which is incorporated by reference herein.
 
-                                                                        ----
+                                                                 Year Ended
+                                                              December 31, 2000
+                                                              -----------------
 
    Net Income (Loss) Per Share:
-     Historical First American Basic...................................  1.29
-     Historical First American Diluted.................................  1.24
-     First American Pro Forma Basic....................................  1.21(1)
-     First American Pro Forma Diluted..................................  1.16(1)
-     CMSI.............................................................. (0.24)
-     CMSI Equivalent Pro Forma Basic...................................  0.28(2)
-     CMSI Equivalent Pro Forma Diluted.................................  0.27(2)
-     CMSI Equivalent Pro Forma Basic-Maximum shares issued.............  0.34(3)
-     CMSI Equivalent Pro Forma Basic-Minimum shares issued.............  0.25(3)
-     CMSI Equivalent Pro Forma Diluted-Maximum shares issued...........  0.33(3)
-     CMSI Equivalent Pro Forma Diluted-Minimum shares issued...........  0.24(3)
+     Historical First American Basic........................         1.29
+     Historical First American Diluted......................         1.24
+     First American Pro Forma Basic.........................         1.20(1)
+     First American Pro Forma Diluted.......................         1.16(1)
+     CMSI...................................................        (0.24)
+     CMSI Equivalent Pro Forma Basic........................         0.34(2)
+     CMSI Equivalent Pro Forma Diluted......................         0.33(2)
+     CMSI Equivalent Pro Forma Basic-Minimum shares issued..         0.25(3)
+     CMSI Equivalent Pro Forma Diluted-Minimum shares
+      issued................................................         0.24(3)
 
    Cash Dividends Per Share:
-     Historical First American.........................................  0.24
-     CMSI..............................................................    --
-     CMSI Equivalent Pro Forma.........................................  0.06(2)
+     Historical First American..............................         0.24
+     CMSI...................................................           --
+     CMSI Equivalent Pro Forma..............................         0.07(2)
 
    Book Value Per Share:
-     Historical First American......................................... 13.62
-     First American Pro Forma.......................................... 13.98(4)
-     CMSI..............................................................  1.32
-     CMSI Equivalent Pro Forma.........................................  3.29(2)
-     CMSI Equivalent Pro Forma Diluted-Maximum shares issued...........  3.95(3)
-     CMSI Equivalent Pro Forma Diluted-Minimum shares issued...........  2.92(3)
+     Historical First American..............................        13.62
+     First American Pro Forma...............................        13.90(4)
+     CMSI...................................................         1.32
+     CMSI Equivalent Pro Forma..............................         3.95(2)
+     CMSI Equivalent Pro Forma Diluted-Minimum shares
+      issued................................................         2.92(3)
 
 - --------
+
 (1) Determined by dividing the pro forma net income by the pro forma number of
     weighted average number of shares outstanding for the year ended December
-    31, 2000. Pro forma net income was determined by adding the net income of
-    First American to that of CMSI. In addition, the effect of purchase
-    accounting adjustments and transaction costs were included in the
-    calculation. The effect of the purchase accounting adjustments and
-    transaction costs on pro forma net income was to decrease pro forma net
-    income by $1,269,000.
+    31, 2000. The pro forma number of weighted average shares outstanding was
+    determined by using the low-end collar price of $22.00 per First American
+    common share to calculate the number of First American shares to be issued
+    in the merger. See Note (2) below. Pro forma net income was determined by
+    adding the net income of First American to that of CMSI. In addition, the
+    effect of purchase accounting adjustments and transaction costs were
+    included in the calculation. The effect of the purchase accounting
+    adjustments and transaction costs on pro forma net income was to decrease
+    pro forma net income by $1,269,000.
 
 (2) The CMSI equivalent pro forma amounts are calculated by multiplying First
-    American pro forma combined amounts by .2354, which represents the fraction
-    of a share of stock each CMSI stockholder will receive for each share of
-    CMSI in the merger if the closing price on April 2, 2001 ($26.55) is used
-    to determine the purchase price. Under these assumptions, the purchase
-    price equals $48,898,983 and 1,842,000 shares of stock would be issued in
-    the merger.
+    American pro forma combined amounts by 0.2841, which represents the
+    fraction of a share of First American common stock each CMSI stockholder
+    will receive for each share of CMSI in the merger if the low-end collar
+    price of $22.00 per First American common share is used to determine the
+    purchase price. Under these assumptions, the purchase price equals
+    $59,419,560 (including the fair value of vested CMSI stock options to be
+    exchanged in the merger) and 2,223,000 shares of First American common
+    stock would be issued in the merger.
 
-(3) Determined by using the maximum number of shares to be issued in this
-    transaction and the minimum number of shares to be issued in this
-    transaction. The maximum number of shares is based on a value of $22.00 per
-    First American share. The minimum number of shares is based on a value of
-    $30.00 per First American share. The impact on the pro forma amounts for
-    First American when using these values is not material.
+(3) Determined by using the minimum number of First American common shares to
+    be issued in this transaction. The minimum number of shares is based on a
+    value of $30.00 per First American share. The impact on the pro forma
+    amounts for First American when using this value is not material.
 
 (4) Determined by dividing the pro forma stockholders equity by the pro forma
     number of shares outstanding as of December 31, 2000. Pro forma
@@ -1581,7 +1583,7 @@ First American and CMSI which is incorporated by reference herein.
     in this transaction. The number of pro forma shares outstanding was
     determined by adding the number of shares outstanding for First American at
     December 31, 2000 to the number of shares to be issued in this transaction.
-    See Item 2 above for the number of the shares, and their corresponding
+    See Note (2) above for the number of the shares, and their corresponding
     value, to be issued in this transaction.
 
           SPECIAL NOTE OF CAUTION REGARDING FORWARD-LOOKING STATEMENTS
@@ -1659,57 +1661,56 @@ the forward-looking statements are made.
 solicitation of proxies from the holders of CMSI common shares by the board of
 directors of CMSI for use at a stockholders' meeting at which the election of
 directors and the merger proposal will be voted upon. This joint proxy
-statement-prospectus and accompanying form of proxy are first being mailed to
-the CMSI stockholders on or about [    ], 2001.
+statement-prospectus and accompanying proxy are first being mailed to the CMSI
+stockholders on or about April 26, 2001.
 
 Time and place; purpose
 
-   The CMSI stockholders' meeting will be held at 135 National Business
-Parkway, Annapolis Junction, Maryland 20701 on [    ], 2001, starting at [ ]:00
-[ ].m., Eastern Time. At the meeting, CMSI stockholders will be asked to
-consider and vote upon:
+   The CMSI stockholders' meeting will be held at the Sheraton Columbia Hotel,
+10207 Wincopin Circle, Columbia, Maryland, 21044 on May 29, 2001, starting at
+10:00 a.m., Eastern Time. At the meeting, CMSI stockholders will be asked to:
 
-  . a proposal to elect five (5) persons to serve on the CMSI board of
-    directors until their terms expire and their successors are elected and
-    are qualified, or until the merger is approved and completed, whichever
-    occurs first. Our board of directors currently has five (5) seats; and
+  . consider and vote upon a proposal to elect five (5) persons to serve on
+    the CMSI board of directors until their terms expire and their successors
+    are elected and are qualified, or until the merger is approved and
+    completed, whichever occurs first. Our board of directors currently has
+    five (5) seats;
 
-  . a proposal to adopt and approve the merger agreement and approve the
-    merger;
+  . consider and vote upon a proposal to adopt and approve the merger
+    agreement and approve the merger; and
 
   . conduct any other business properly brought before the meeting.
 
 Voting rights; votes required
 
-   The board of directors of CMSI has fixed the close of business on [    ],
+   The board of directors of CMSI has fixed the close of business on April 25,
 2001 as the record date for CMSI stockholders entitled to notice of and to vote
 at the CMSI stockholders' meeting. The only outstanding voting securities of
 CMSI are its common shares. Only holders of record of CMSI common shares on the
 record date are entitled to notice of and to vote at the CMSI stockholders'
 meeting. Each holder of record, as of the record date, of CMSI common shares is
-entitled to cast one vote per share on each proposal acted upon. On the record
-date, there were [    ] CMSI common shares outstanding and entitled to vote at
-the CMSI stockholders' meeting, held by approximately [    ] stockholders. The
-affirmative vote of a majority of the CMSI common shares entitled to vote are
-required to approve the proposed merger. The affirmative vote of a plurality of
-the shares of CMSI common stock present in person or by proxy at the special
-meeting is required to elect each director.
+entitled to cast one vote per share on each proposal acted upon. On April 17,
+2001, there were 7,999,431 CMSI common shares outstanding and entitled to vote
+at the CMSI stockholders' meeting. The affirmative vote of a majority of the
+CMSI common shares entitled to vote are required to approve the proposed
+merger. The affirmative vote of a plurality of the shares of CMSI common stock
+present in person or by proxy at the special meeting is required to elect each
+director.
 
-   On the record date, the directors and executive officers of CMSI and their
-affiliates beneficially owned and were entitled to vote approximately
-[4,171,399] CMSI common shares, or approximately [52]% of the CMSI common
-shares outstanding on the record date. This includes the CMSI common shares
-beneficially owned by Scott Freiman and James DeFrancesco. Pursuant to voting
-agreements entered into between First American and each of Mr. Freiman and Mr.
-DeFrancesco, both of whom are candidates for election to the board of
-directors, those individuals have agreed to vote a total of 3,841,081 of the
-shares of CMSI common stock beneficially owned by them, or approximately [48]%
-of the total number of shares of CMSI common stock issued and outstanding on
-the record date, in favor of the merger proposal. The voting agreements also
-require Messrs. Freiman and DeFrancesco to refrain from voting in favor of any
-action or agreement which would impede, frustrate or prevent the merger or any
-of the other transactions contemplated by the merger agreement. See "Voting
-Agreements" on page [ ].
+   As of April 17, 2001, the directors and executive officers of CMSI and their
+affiliates beneficially owned and were entitled to vote approximately 4,171,399
+CMSI common shares, or approximately 52% of the CMSI common shares outstanding
+on that date. This includes the CMSI common shares beneficially owned by Scott
+Freiman and James DeFrancesco. Pursuant to voting agreements entered into
+between First American and each of Mr. Freiman and Mr. DeFrancesco, both of
+whom are candidates for election to the board of directors, those individuals
+have agreed to vote a total of 3,841,081 of the shares of CMSI common stock
+beneficially owned by them, or approximately 48% of the total number of shares
+of CMSI common stock issued and outstanding as of April 17, 2001, in favor of
+the merger proposal. The voting agreements also require Messrs. Freiman and
+DeFrancesco to refrain from voting in favor of any action or agreement which
+would impede, frustrate or prevent the merger or any of the other transactions
+contemplated by the merger agreement. See "Voting Agreements" on page 41.
 
 Voting of proxies
 
@@ -1723,15 +1724,16 @@ of directors, and "FOR" the approval of the merger proposal.
    Any proxy given pursuant to this solicitation may be revoked by the person
 giving it at any time before it is voted. Proxies may be revoked by filing,
 including by telegram or telecopy, with the Secretary of CMSI before the taking
-of the vote at the relevant meeting, a written notice of revocation bearing a
+of the vote at the special meeting, a written notice of revocation bearing a
 later date than the date of the proxy or a later-dated proxy relating to the
 same shares. Proxies may also be revoked by attending the meeting and voting in
 person. In order to vote in person at the CMSI stockholders' meeting, you must
 attend the CMSI stockholders' meeting and cast your vote in accordance with the
 voting procedures established for the meeting. Attendance at the meeting will
 not in and of itself constitute a revocation of a proxy. Any written notice of
-revocation or subsequent proxy must be sent so as to be delivered at or before
-the taking of the vote at the special meeting as follows:
+revocation or subsequent proxy must be delivered at the special meeting before
+the taking of the vote, or if sent before the special meeting, to the
+following:
 
    Credit Management Solutions, Inc.
    Attention: Neal Dittersdorf
@@ -1757,7 +1759,7 @@ the shares being counted "AGAINST" the merger proposal.
    As to the election of directors, the proxy card being provided by the board
 of directors enables a stockholder to vote "FOR" the election of the nominees
 proposed by the board of directors, or to "WITHHOLD AUTHORITY" to vote for one
-or more of the nominees being proposed. Under Delaware law and our bylaws,
+or more of the nominees being proposed. Under Delaware law and CMSI's bylaws,
 directors are elected by a plurality of votes cast, without regard to either
 broker non-votes or proxies as to which authority to vote for one or more of
 the nominees being proposed is withheld. If any nominee is unable to be a
@@ -1815,7 +1817,7 @@ who resigned from the board effective March 2, 2001.
    CMSI's certificate of incorporation and bylaws provide that CMSI's board of
 directors is to have between five and 15 members, as the board may determine
 from time to time. The board currently consists of five members. The board is
-divided into three classes, denominated Class I, Class II and Class III, with
+divided into three classes, denominated class I, class II and class III, with
 members of each class holding office for staggered three-year terms or until
 their respective successors are duly elected and qualified. At each annual
 meeting of CMSI's stockholders, the successors to the directors whose terms
@@ -1825,11 +1827,11 @@ election, or until their successors have been duly elected and qualified.
 
    The five nominees for election to the board of directors are Scott L.
 Freiman, James R. DeFrancesco, John J. McDonnell, Jr., Robert P. Vollono and
-Stephen X. Graham. Mr. Vollono is the nominee for election to Class I of the
+Stephen X. Graham. Mr. Vollono is the nominee for election to class I of the
 board, whose term would expire at CMSI's 2003 annual meeting of stockholders,
-Messrs. Freiman and Graham are the nominees for election to Class II, whose
+Messrs. Freiman and Graham are the nominees for election to class II, whose
 terms would expire at the 2004 annual meeting, and Messrs. DeFrancesco and
-McDonnell are the nominees for election to Class III, whose terms would expire
+McDonnell are the nominees for election to class III, whose terms would expire
 at the 2002 annual meeting.
 
 Information regarding nominees for election as directors
@@ -1928,7 +1930,7 @@ members of the audit committee are Messrs. Graham and McDonnell.
 
    CMSI's board of directors has adopted a written charter for the audit
 committee. A copy of the charter is attached as Annex E to this joint proxy
-statement/prospectus. The board has determined that each of the current members
+statement-prospectus. The board has determined that each of the current members
 of the audit committee is "independent," in accordance with the definition of
 "independence" set forth in the listing standards of the National Association
 of Securities Dealers.
@@ -1967,7 +1969,7 @@ from CMSI.
 
    Conclusion. Based on the review and discussions referred to above, the audit
 committee recommended to CMSI's board of directors that CMSI's audited
-financial statements be included in its annual report on Form 10-K for the
+financial statements be included in its annual report on form 10-K for the
 fiscal year ended December 31, 2000.
 
                                      Submitted by the audit committee of the
@@ -1981,17 +1983,17 @@ Compensation committee report
    The compensation committee advises the board of directors on issues
 concerning CMSI's compensation philosophy and the compensation of executive
 officers and other individuals compensated by CMSI. The compensation committee
-is responsible for the administration of the company's 1997 Stock Incentive
-Plan, under which option grants, stock appreciation rights, restricted awards
-and performance awards may be made to directors, executive officers and
-employees of CMSI and its subsidiaries.
+is responsible for the administration of CMSI's 1997 Stock Incentive Plan,
+under which option grants, stock appreciation rights, restricted awards and
+performance awards may be made to directors, executive officers and employees
+of CMSI and its subsidiaries.
 
    The compensation committee believes that the compensation programs for
 CMSI's executive officers should reflect CMSI's performance and the value
 created for CMSI's stockholders. In addition, the compensation programs should
 support the short-term and long-term strategic goals and values of CMSI and
-should reward individual contribution to CMSI's success. The company is engaged
-in a very competitive industry, and CMSI's success depends upon its ability to
+should reward individual contribution to CMSI's success. CMSI is engaged in a
+very competitive industry, and CMSI's success depends upon its ability to
 attract and retain qualified executive through the competitive compensation
 packages it offers to such individuals.
 
@@ -2070,12 +2072,12 @@ to provide a level of stability and certainty. Accordingly, Mr. Freiman's
 compensation was not affected to any significant degree by CMSI's performance.
 
    Compliance with Internal Revenue Code Section 162(m). As a result of Section
-162(m) of the Internal Revenue Code of 1986, as amended, which was enacted into
-law in 1993, CMSI will not be allowed a federal
+162(m) of the Internal Revenue Code of 1986, as amended, which was enacted in
+1993, CMSI will not be allowed a federal income
 
-income tax deduction for compensation paid to certain executive officers, to
-the extent that compensation exceeds $1 million per officer in any one year.
-This limitation will apply to all compensation paid to the covered executive
+tax deduction for compensation paid to certain executive officers, to the
+extent that compensation exceeds $1.0 million per officer in any one year. This
+limitation will apply to all compensation paid to the covered executive
 officers which is not considered to be performance based. Compensation which
 does qualify as performance-based compensation will not have to be taken into
 account for purposes of this limitation. The 1997 Stock Incentive Plan contain
@@ -2085,12 +2087,12 @@ with an exercise price equal to the market price of the option shares on the
 grant date will qualify as performance-based compensation.
 
    The compensation committee does not expect that the compensation paid or
-payable to CMSI's executive officers for 2000 will exceed the $1 million limit
-per officer. Further, in accordance with issued Treasury Regulations relating
-to the $1 million limitation, the committee may in the future determine to
-restructure one or more components of the compensation paid to the executive
-officers so as to qualify those components as performance-based compensation
-that will not be subject to $1 million limitation.
+payable to CMSI's executive officers for 2000 will exceed the $1.0 million
+limit per officer. Further, in accordance with issued Treasury Regulations
+relating to the $1.0 million limitation, the committee may in the future
+determine to restructure one or more components of the compensation paid to the
+executive officers so as to qualify those components as performance-based
+compensation that will not be subject to $1.0 million limitation.
 
                                           Submitted by the compensation
                                            committee of the board of directors
@@ -2111,14 +2113,15 @@ of-business index on December 18, 1996, and also assumes reinvestment of all
 dividends.
 
                COMPARISON OF FIVE-YEAR CUMULATIVE TOTAL RETURN
-            AMONG [COMPANY MAME HERE], S&P 500 INDEX AND PEER GROUP
+            AMONG [COMPANY NAME HERE], S&P 500 INDEX AND PEER GROUP
 
                         PERFORMANCE GRAPH APPEARS HERE
 
                            12/18/96   12/96    12/97    12/98    12/99   12/00
                            --------  -------  -------  -------  ------- -------
+
 Credit Management
- Solutions, Inc.            $100.00  $126.00  $113.00  $ 48.00  $ 74.00 $ 11.00
+ Solutions, Inc.            $100.00  $126.00  $113.00   $48.00   $74.00  $11.00
 NASDAQ Stock Market (U.S.)  $100.00  $100.00  $122.00  $173.00  $321.00 $193.00
 NASDAQ Computer &
  Data Processing            $100.00  $100.00  $123.00  $219.00  $482.00 $223.00
@@ -2126,7 +2129,7 @@ NASDAQ Computer &
    Notwithstanding anything to the contrary in any of CMSI's previous or future
 filings made under the Securities Act of 1933, as amended, or the Securities
 Exchange Act of 1934, as amended, that might incorporate this joint proxy
-statement/prospectus or any future filings made by CMSI under those statutes,
+statement-prospectus or any future filings made by CMSI under those statutes,
 neither the preceding audit committee report, references to the independence of
 CMSI's audit committee members, compensation committee report or performance
 graph is deemed filed with the Securities and Exchange Commission or is to be
@@ -2175,9 +2178,9 @@ connection with a potential investment in, business combination with, or sale
 of, CMSI or one of its subsidiaries.
 
    In June and July 2000, certain third parties expressed interest in entering
-into discussions with CMSI to regarding potential strategic partnerships,
+into discussions with CMSI regarding potential strategic partnerships,
 strategic investments and/or business combinations. On August 4, 2000, CMSI
-retained Chase Securities to contact companies that it believed might be
+retained Chase Securities Inc. to contact companies that it believed might be
 interested in a transaction with CMSI and that potentially offered a strategic
 fit with the company. Chase Securities contacted 11 companies. As a result of
 these contacts, two companies, exclusive of First American, expressed an
@@ -2291,13 +2294,14 @@ of view. Representatives of Brobeck, Phleger & Harrison LLP and CMSI's general
 counsel reviewed with the CMSI board of directors the terms of the merger
 agreement and the legal standards applicable to the board's decision to approve
 the agreement and the transactions contemplated thereby. The board was also
-informed of the terms of agreements discussed under "Interests of certain
-persons in the merger." After questions by and discussion among the members of
-the CMSI board, and after consideration of the factors described under "The
-Merger--Reasons for the merger and consideration of the merger by CMSI's board
-of directors" and "--The CMSI board of directors recommends a vote for the
-merger," the CMSI board voted unanimously to approve the merger agreement and
-the transactions contemplated by the merger agreement, including the merger.
+informed of the terms of agreements discussed under "Interests of Certain
+Persons in the Merger" on page 48. After questions by and discussion among the
+members of the CMSI board, and after consideration of the factors described
+under "The Merger--The CMSI board of directors recommends a vote for the
+merger" and "--CMSI's reasons for the merger and consideration of the merger by
+CMSI's board of directors" on this page, the CMSI board voted unanimously to
+approve the merger agreement and the transactions contemplated by the merger
+agreement, including the merger.
 
    On January 30, 2001, First American, Rusti Corp. and CMSI executed the
 merger agreement. Later that day, First American and CMSI issued a joint press
@@ -2305,7 +2309,7 @@ release announcing the proposed merger.
 
    On March 14, 2001, CMSI found out that its petition to have the Delaware
 Secretary of State withdraw its determination that CMSI's certificate of
-incorporation was inoperative had been denied. On March 15, 2001, CMSI
+incorporation had become inoperative had been denied. On March 15, 2001, CMSI
 disclosed to First American the circumstances surrounding the revocation of its
 charter and the outcome of its petition. At CMSI's request, First American
 agreed to include the solicitation of proxies to elect directors as part of
@@ -2317,7 +2321,7 @@ additional conditions precedent to First American's obligation to consummate
 the merger that CMSI conduct an election of its directors by stockholders, and
 that the newly constituted board ratify and approve all actions taken by CMSI
 on or after January 25, 2001, including the merger and the merger agreement,
-and the other the transactions contemplated thereby.
+and the other transactions contemplated thereby.
 
 First American's reasons for the merger
 
@@ -2343,7 +2347,7 @@ unanimous vote, determined after careful consideration that the merger is in
 the best interests of CMSI and you, CMSI's stockholders, and that the terms of
 the merger agreement and the merger are fair to you. Accordingly, the CMSI
 board of directors has approved the merger and recommends that you vote "FOR"
-the adoption of the merger agreement
+the adoption of the merger agreement.
 
 CMSI's reasons for the merger and consideration of the merger by CMSI's board
 of directors
@@ -2373,9 +2377,9 @@ to operate as an independent business, including the following:
     of the First American shares to be issued to CMSI stockholders in the
     merger represented a significant premium over the price of CMSI common
     stock then prevailing in the market, and the further opportunity for
-    CMSI's stockholders to participate in the future growth in value of the
-    combined company as shareholders of First American following the merger;
-    and
+    CMSI's stockholders to participate in the anticipated future growth in
+    value of the combined company as shareholders of First American following
+    the merger; and
 
   . the greater liquidity afforded CMSI stockholders upon exchange of their
     shares of CMSI common stock for common shares of First American, whose
@@ -2464,8 +2468,8 @@ following:
 
   . various other risks associated with the businesses of CMSI, First
     American and the combined company and the merger described under the
-    section entitled "Risk Factors" beginning on page [  ] of this joint
-    proxy statement-prospectus.
+    section entitled "Risk Factors" beginning on page 9 of this joint proxy
+    statement-prospectus.
 
    The CMSI board of directors concluded, however, that many of these risks
 could be managed or mitigated by CMSI or by the combined company or were
@@ -2633,7 +2637,7 @@ merger, an executed agreement from each CMSI affiliate receiving First American
 common shares in the merger to the effect that each such affiliate will not
 offer or sell or otherwise dispose of any of the First American shares issued
 to such persons in violation of the Securities Act. See "Affiliate and Pooling
-Agreements" on page [  ].
+Agreements" on page 41.
 
                         SUMMARY OF THE MERGER AGREEMENT
 
@@ -2659,9 +2663,9 @@ on the New York Stock Exchange prior to the Effective Time.
 
    The following summary of the merger agreement is qualified in its entirety
 by reference to the complete text of the merger agreement. The merger agreement
-is incorporated by reference herein. Copies of the merger agreement and the
-amendment to the merger agreement are attached to this joint proxy statement-
-prospectus as Annexes A and B, respectively.
+is incorporated by reference herein. Copies of the merger agreement and
+amendment no. 1 to the merger agreement are attached to this joint proxy
+statement-prospectus as Annexes A and B, respectively.
 
 Consideration you will receive in the merger
 
@@ -2689,17 +2693,17 @@ Exchange of shares
 LETTER OF TRANSMITTAL.
 
    As soon as practicable after the Effective Time, First American will deposit
-with its transfer agent First American Trust Company certificates representing
-the First American common shares issuable in exchange for the outstanding CMSI
-common shares and cash in an amount required to be paid in lieu of fractional
-First American common shares. A letter of transmittal will be mailed to each
-holder of record of a certificate that immediately prior to the Effective Time
-represented outstanding CMSI common shares whose shares were converted into the
-right to receive a portion of a First American common share. The letter of
-transmittal will be accompanied by instructions specifying other details of the
-exchange. This letter of transmittal must be used in forwarding share
-certificates for surrender in exchange for First American common shares and, if
-applicable, cash in lieu of any First American common share. Holders of
+with its transfer agent, First American Trust Company, certificates
+representing the First American common shares issuable in exchange for the
+outstanding CMSI common shares and cash in an amount required to be paid in
+lieu of fractional First American common shares. A letter of transmittal will
+be mailed to each holder of record of a certificate that immediately prior to
+the Effective Time represented outstanding CMSI common shares whose shares were
+converted into the right to receive a portion of a First American common share.
+The letter of transmittal will be accompanied by instructions specifying other
+details of the exchange. This letter of transmittal must be used in forwarding
+share certificates for surrender in exchange for First American common shares
+and, if applicable, cash in lieu of any First American common share. Holders of
 unexchanged CMSI common shares will not be entitled to receive any dividends or
 other distributions payable by First American until their certificates are
 surrendered. Upon surrender, however, subject to applicable laws, they will
@@ -2711,8 +2715,8 @@ common shares. First American will pay the holder of a fractional share that
 would otherwise be issued by check an amount, rounded to the nearest whole
 cent, equal to the fraction of a First American common share multiplied by the
 average closing price of a single First American common share, as reported on
-the New York Stock Exchange, for the ten trading days ending on the trading day
-that is three trading days prior to the special meeting of CMSI stockholders.
+the NYSE, for the ten trading days ending on the trading day that is three
+trading days prior to the special meeting of CMSI stockholders.
 
 Certain representations and warranties of First American and CMSI
 
@@ -2926,7 +2930,7 @@ enter into discussion or negotiations regarding a proposed takeover from any
 unsolicited person. The merger agreement does not preclude CMSI from notifying
 its stockholders of a qualifying tender offer.
 
-  Indemnification and directors and officers insurance
+  Indemnification and directors' and officers' insurance
 
    The merger agreement requires First American to, following the merger,
 indemnify and hold harmless the present and former officers, directors,
@@ -2956,9 +2960,9 @@ shares, on the same terms and conditions as applicable to such plan prior to
 the merger. The amount of First American common shares subject to each such
 options and rights and the exercise price of each subsequent to the
 consummation of the merger will be adjusted in accordance with the exchange
-ratio applicable to the merger. See "Summary of the merger agreement--
-Consideration you will receive in the merger" on page [  ] for an explanation
-of the exchange ratio.
+ratio applicable to the merger. See "The Merger--What you will receive in the
+merger" on page 3 and "Summary of the merger agreement--Consideration you will
+receive in the merger" on page 33 for an explanation of the exchange ratio.
 
   Other covenants
 
@@ -2999,7 +3003,7 @@ of the following conditions:
 
   . Lapse of antitrust waiting periods. Any waiting period under any
     antitrust laws applicable to the merger shall have expired or been
-    terminated.
+    terminated. The applicable waiting periods have terminated.
 
   . Statutes and governmental approvals. No statute, rule or regulation shall
     have been enacted which prohibits the consummation of the merger, and all
@@ -3028,7 +3032,7 @@ the satisfaction or waiver of each of the following additional conditions:
   . Ratification of Merger. The board of directors of CMSI elected at the
     special meeting shall have ratified and approved all actions taken by
     CMSI on or after January 25, 2001, including the merger and the merger
-    agreement, and the other the transactions contemplated thereby.
+    agreement, and the other transactions contemplated thereby.
 
   . Representations and warranties. The representations and warranties of
     CMSI set forth in the merger agreement shall be true and accurate in all
@@ -3047,7 +3051,7 @@ the satisfaction or waiver of each of the following additional conditions:
     under the merger agreement or the business, assets, condition or results
     of operations of CMSI and its subsidiaries, taken as a whole, and no
     change or development which First American can demonstrate as being
-    probable to result in such a material adverse effect on CMSI, shall have
+    probable to result in such a material adverse effect on CMSI shall have
     occurred. An adverse change, event or effect that is proximately caused
     by conditions affecting the United States economy generally or the
     economy of the regions in which CMSI and its subsidiaries, taken as a
@@ -3067,7 +3071,7 @@ the satisfaction or waiver of each of the following additional conditions:
     CMSI an executed pooling agreement and an executed affiliate agreement.
     First American will waive its rights under the pooling agreements because
     it will account for the merger as a purchase. See "Affiliate and Pooling
-    Agreements" on page [ ].
+    Agreements" on page 41.
 
   . Letters from accountants. First American shall have received from
     PricewaterhouseCoopers LLP certain letters relating to the accounting of
@@ -3108,7 +3112,7 @@ waiver of each of the following additional conditions.
     obligations under the merger agreement or the business, assets, condition
     or results of operations of First American and its subsidiaries, taken as
     a whole, and no change or development which CMSI can demonstrate as being
-    probable to result in such a material adverse effect on First American,
+    probable to result in such a material adverse effect on First American
     shall have occurred. An adverse change, event or effect that is
     proximately caused by conditions affecting the United States economy
     generally or the economy of the regions in which First American and its
@@ -3141,12 +3145,13 @@ forth below:
 
   . by mutual written agreement of the parties;
 
-  . by First American if a new board of directors is not elected at the
-    special meeting, or if elected, the new board of directors does not
-    ratify and confirm the merger agreement and all transactions related to
-    the merger.
+  . by First American if a new board of directors of CMSI is not elected at
+    the special meeting, or if elected, the new board of directors does not
+    ratify and confirm all actions taken by CMSI on or after January 25,
+    2001, including the merger and the merger agreement, and all transactions
+    related to the merger.
 
-  . on or after July 29, 2001 by First American if the conditions to its and
+  . on or after July 29, 2001, by First American if the conditions to its and
     Rusti Corp.'s obligations to consummate the merger have not been
     materially satisfied or waived;
 
@@ -3219,15 +3224,15 @@ the transactions contemplated by the merger agreement shall be paid by the
 party incurring such expenses, except that First American has agreed to pay all
 expenses directly associated with any of the following:
 
-  . The filing of the registration statement of which this joint proxy
+  . the filing of the registration statement of which this joint proxy
     statement-prospectus forms a part;
 
-  . The filings required under the federal antitrust laws;
+  . the filings required under the federal antitrust laws;
 
-  . The filing of the listing application with the New York Stock Exchange;
+  . the filing of the listing application with the New York Stock Exchange;
     and
 
-  . The printing and mailing of this joint proxy statement-prospectus.
+  . the printing and mailing of this joint proxy statement-prospectus.
 
    In the event the merger is not consummated, First American explicitly has
 not agreed to pay the fees and expenses of CMSI's counsel, auditors and
@@ -3259,8 +3264,8 @@ fiduciary duties as a director of CMSI.
    The voting agreements apply to 1,271,684 shares of CMSI common stock
 beneficially owned by Mr. Freiman, and 2,569,397 shares of CMSI common stock
 beneficially owned by Mr. DeFrancesco, on January 30, 2001. These shares
-represent, in the aggregate, approximately [48]% of the total number of CMSI
-shares issued and outstanding as of the record date.
+represent, in the aggregate, approximately 48% of the total number of CMSI
+shares issued and outstanding as of April 17, 2001.
 
    These voting agreements will terminate upon the earlier to occur of the
 termination of the merger agreement and the completion of the merger. The form
@@ -3311,9 +3316,9 @@ orders on shares represented by certificates bearing this legend.
    Pursuant to the pooling agreement, each CMSI affiliate agrees that during
 the 30 day period preceding the consummation of the merger and until such time
 as First American publishes financial results covering at least 30 days of
-post-merger combined operations of First American and CMSI, that he will not
-dispose of or reduce any risk relative to any securities of First American or,
-with respect to the 30 day period preceding the merger, any securities of CMSI.
+post-merger combined operations of First American and CMSI, he will not dispose
+of or reduce any risk relative to any securities of First American or, with
+respect to the 30 day period preceding the merger, any securities of CMSI.
 First American will waive its rights under the pooling agreements because it
 will account for the merger as a purchase.
 
@@ -3336,10 +3341,10 @@ the holders of common stock of CMSI from a financial point of view. On January
 dated the same date reaffirming that the exchange ratio is fair to the holders
 of common stock of CMSI from a financial point of view. Such exchange ratio was
 determined pursuant to negotiations between First American and CMSI, with
-advice from Chase Securities The consideration to be given to holders of common
-stock of CMSI was the result of arms-length negotiations between CMSI and First
-American. No limitations were placed on Chase Securities by the board of
-directors of CMSI with respect to the investigation made or the procedures
+advice from Chase Securities. The consideration to be given to holders of
+common stock of CMSI was the result of arms-length negotiations between CMSI
+and First American. No limitations were placed on Chase Securities by the board
+of directors of CMSI with respect to the investigation made or the procedures
 followed in preparing and rendering its opinion.
 
    The full text of the definitive written Chase Securities opinion, dated
@@ -3527,13 +3532,14 @@ on January 26, 2001.
 
    Analysis of Selected Merger and Acquisition Transactions: Chase Securities
 compared the proposed acquisition with selected merger and acquisition
-transactions deemed comparable by Chase Securities This analysis included 35
+transactions deemed comparable by Chase Securities. This analysis included 35
 comparable public and private company transactions. In examining these
 transactions, Chase Securities analyzed certain income statement parameters of
 the acquired company relative to the acquisition consideration offered. Such
-multiples included purchase price to last twelve months revenue and last twelve
-months earnings before interest, taxes, depreciation and amortization. The
-arithmetic means of the aforementioned multiples of the acquisitions of
+multiples included purchase price to last twelve months revenue and last
+
+twelve months earnings before interest, taxes, depreciation and amortization.
+The arithmetic means of the aforementioned multiples of the acquisitions of
 companies comparable to CMSI and to its CreditOnline subsidiary were used to
 calculate values for implied purchase prices per share for CMSI as follows:
 
@@ -3557,11 +3563,8 @@ calculate values for implied purchase prices per share for CMSI as follows:
 - --------
 *  Equity value was calculated as the sum of enterprise value, cash and the
    present value of net operating losses less outstanding debt.
-
 LTM = last twelve months
-
-EBITDA= earnings before interest, taxes, depreciation and amortization
-
+EBITDA = earnings before interest, taxes, depreciation and amortization
 NM = Not meaningful
 
    Based on this analysis of comparable transactions, CMSI's implied equity
@@ -3715,9 +3718,12 @@ not been nominated by then current directors. All options under the Director
 Fee Option Grant Program and Automatic Option Grant Program, which directors
 are eligible to participate in, and the Salary Investment Option Grant Program,
 which officers are eligible to participate in, will vest and become immediately
-exercisable upon execution of the merger agreement. Set forth below is a list
-of the directors and officers and the options affected under this plan as of
-[    ], 2001:
+exercisable just prior to the completion of the merger. In addition, pursuant
+to each executive officer's employment agreement with CMSI, all options granted
+to the executive officers will vest and become immediately exercisable upon
+completion of the merger. Set forth below is a list of the directors and
+officers and the outstanding options affected under this plan as of April 18,
+2001:
 
                                                  Number Of Shares That May Be
    Option Holder                               Acquired Upon Exercise Of Options
@@ -3817,7 +3823,7 @@ million common shares and 500,000 preferred shares, $1.00 par value, of which
 1,000 of such shares have been designated Series A Junior Participating
 Preferred Shares. The board of directors is authorized to fix the rights,
 preferences, privileges and restrictions of the remaining preferred shares if
-and when issued. As of [    ], 2001, [    ] common shares were issued and
+and when issued. As of April 17, 2001, 64,889,822 common shares were issued and
 outstanding and no preferred shares were issued and outstanding. The common
 stock of First American is listed on the New York Stock Exchange under the
 symbol "FAF."
@@ -3825,9 +3831,9 @@ symbol "FAF."
    The authorized capital stock of CMSI currently consists of 40.0 million
 common shares and 1.0 million preferred shares, $0.01 par value. The board of
 directors is authorized to fix the rights, preferences, privileges and
-restrictions of the preferred shares if and when issued. As of [    ], 2001,
-[    ] common shares were issued and outstanding and no preferred shares were
-issued and outstanding. The common shares of CMSI are listed on the Nasdaq
+restrictions of the preferred shares if and when issued. As of April 17, 2001,
+7,999,431 common shares were issued and outstanding and no preferred shares
+were issued and outstanding. The common shares of CMSI are listed on the Nasdaq
 National Market System under the symbol "CMSS."
 
 Voting rights
@@ -3880,21 +3886,16 @@ meeting and without prior notice, if a consent in writing setting forth the
 action so taken is signed by the holders of outstanding shares having not less
 than the minimum number of votes that would be necessary to authorize or take
 such action at a meeting at which all shares entitled to vote thereon were
-present and voted. CMSI's certificate of incorporation does not permit
-stockholder action to be taken without a meeting.
+present and voted. If consent is sought for less than all shareholders entitled
+to vote, notice as required under California law must be given. CMSI's
+certificate of incorporation does not permit stockholder action to be taken
+without a meeting.
 
 Special meetings of shareholders
 
-   Under Delaware law and California law, unless otherwise provided in the
-certificate or articles of incorporation, any action required to be taken or
-which may be taken at an annual or special meeting of stockholders may be taken
-without a meeting if a consent in writing is signed by the holders of
-outstanding stock having at least the minimum number of votes required to
-authorized such action. If consent is sought for less than all shareholders
-entitled to vote, notice as required under the California law must be given.
-The First American bylaws state that a special meeting of the shareholders may
-be called at any time by the board of directors, the chairman of the board, the
-president, or by the holders of 10% of all votes entitled to be cast on any
+   The First American bylaws state that a special meeting of the shareholders
+may be called at any time by the board of directors, the chairman of the board,
+the president, or by the holders of 10% of all votes entitled to be cast on any
 issue proposed to be considered at the special meeting. A special meeting of
 CMSI stockholders may only be called by the board of directors, or a committee
 of the board of directors previously granted the authority to call a special
@@ -3948,7 +3949,7 @@ to elect the director under cumulative voting. Shareholders holding at least
 remove from office any officer or director for fraud, dishonest acts or gross
 abuse of authority or discretion
 
-   CMSI's bylaws require the vote of 66- 2/3% of the outstanding shares to
+   CMSI's bylaws require the vote of 66-2/3% of the outstanding shares to
 remove a director.
 
 Limitation on directors' liability
@@ -4189,9 +4190,9 @@ special counsel to First American. It is a condition to the consummation of the
 merger that CMSI receive an opinion from Brobeck, Phleger & Harrison LLP,
 special counsel to CMSI, to the effect that the merger will constitute a
 "reorganization" within the meaning of Section 368(a) of the Internal Revenue
-Code. See "Summary of the Merger Agreement--Conditions to the consummation of
-the merger" and "The Merger--Material federal income tax consequences" on pages
-[   ] and [  ], respectively.
+Code. See "The Merger--Material federal income tax consequences to you" and
+"Summary of the Merger Agreement--Conditions to the consummation of the merger"
+on pages 31 and 37, respectively.
 
                                     EXPERTS
 
@@ -4208,9 +4209,9 @@ consolidated financial statements are incorporated herein by reference in
 reliance upon such report given on the authority of such firm as experts in
 accounting and auditing.
 
-                    2000 ANNUAL MEETING OF CMSI STOCKHOLDERS
+                 2001 ANNUAL MEETING OF CMSI STOCKHOLDERS
 
-   CMSI will hold a 2000 annual meeting of stockholders only if the merger is
+   CMSI will hold a 2001 annual meeting of stockholders only if the merger is
 not consummated before the time of such meeting. The deadline for receipt by
 CMSI of stockholder proposals to be presented at the meeting was February 28,
 2001. No stockholder proposals were received by the deadline.
@@ -4276,7 +4277,7 @@ First American.
 to First American at The First American Corporation, 1 First American Way,
 Santa Ana, California 92707-5913, attention: Mark R Arnesen, or by telephoning
 First American at (714) 800-3000. If you would like to request documents from
-First American, please do so by [    ], 2001 to receive them before the CMSI
+First American, please do so by May 21, 2001 to receive them before the CMSI
 stockholders' meeting. First American will send such documents by first-class
 mail within one business day of receiving any such request.
 
@@ -4301,7 +4302,7 @@ statement-prospectus relating to CMSI.
    You may obtain a copy of CMSI's filings at no cost by writing to CMSI at 135
 National Business Parkway, Annapolis Junction, Maryland 20701, attention:
 Robert P. Vollono, or by telephoning CMSI at (301) 362-6000. If you would like
-to request documents from CMSI, please do so by [    ], 2001 to receive them
+to request documents from CMSI, please do so by May 21, 2001 to receive them
 before the CMSI stockholders' meeting. CMSI will send such documents by first-
 class mail within one business day of receiving any such request.
 
@@ -4309,7 +4310,7 @@ class mail within one business day of receiving any such request.
 reference in this joint proxy statement-prospectus to vote on the merger
 proposal. Neither First American nor CMSI has authorized anyone to provide you
 with information that is different from what is contained in this joint proxy
-statement-prospectus. This joint proxy statement-prospectus is dated [    ],
+statement-prospectus. This joint proxy statement-prospectus is dated April 23,
 2001. You should not assume that the information contained in this joint proxy
 statement-prospectus is accurate as of any date other than such date, and
 neither the mailing of this joint proxy statement-prospectus to shareholders
@@ -4335,7 +4336,7 @@ implication to the contrary.
 
                        CREDIT MANAGEMENT SOLUTIONS, INC.
 
-                          Dated as of January 30, 2001
+                       Dated as of January 30, 2001
 
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
@@ -7019,12 +7020,12 @@ public statement as may, upon the advice of counsel, be required by law or the
 rules or regulations of the NYSE or the Nasdaq Stock Market, as applicable, if
 it has used all reasonable efforts to consult with the other.
 
+                                      A-39
+
    11.6 Notices. Any notice or other communication required or permitted under
 this Agreement shall be sufficiently given if delivered in person or sent by
 facsimile or by registered or certified mail, postage prepaid, addressed as
 follows:
-
-                                      A-39
 
 if to FACO or FACOSUB, to:
 
@@ -7212,13 +7213,14 @@ Certificate to be signed by                  , its authorized officer, this
 
    You may obtain a copy of this exhibit to the Agreement and Plan of Merger at
 no cost by writing to Credit Management Solutions, Inc., attention Nancy L.
-Weil, 135 National Business Parkway Annapolis Junction, Maryland 20701, or by
+Weil, 135 National Business Parkway, Annapolis Junction, Maryland 20701, or by
 calling (301) 362-6000. If you would like to request this exhibit from CMSI,
-please do so by [          ] to receive it before the CMSI stockholders'
+please do so by May 21, 2001 to receive it before the CMSI stockholders'
 meeting. CMSI will send this exhibit by first-class mail within one business
 day of receiving your request. Alternatively, you may obtain this exhibit by
 contacting the SEC via telephone or the Internet. Please see "Where You Can
-Find More Information" on page [ ] for details.
+Find More Information" on page 56 of the joint proxy statement-prospectus for
+details.
 
                                       A-43
 
@@ -7230,13 +7232,14 @@ Find More Information" on page [ ] for details.
 
    You may obtain a copy of this exhibit to the Agreement and Plan of Merger at
 no cost by writing to Credit Management Solutions, Inc., attention Nancy L.
-Weil, 135 National Business Parkway Annapolis Junction, Maryland 20701, or by
+Weil, 135 National Business Parkway, Annapolis Junction, Maryland 20701, or by
 calling (301) 362-6000. If you would like to request this exhibit from CMSI,
-please do so by [          ] to receive it before the CMSI stockholders'
+please do so by May 21, 2001 to receive it before the CMSI stockholders'
 meeting. CMSI will send this exhibit by first-class mail within one business
 day of receiving your request. Alternatively, you may obtain this exhibit by
 contacting the SEC via telephone or the Internet. Please see "Where You Can
-Find More Information" on page [ ] for details.
+Find More Information" on page 56 of the joint proxy statement-prospectus for
+details.
 
                                       A-44
 
@@ -7277,7 +7280,7 @@ Delaware corporation (the "Company"), have entered into an Agreement and Plan
 of Merger dated as of January 30, 2001 (the "Merger Agreement"; capitalized
 terms used herein, but not otherwise defined herein, shall have the meanings
 given them in the Merger Agreement), pursuant to which FACOSUB will merge with
-and into the Company (the " Merger");
+and into the Company (the "Merger");
 
        WHEREAS, upon the consummation of the Merger and in connection
 therewith, the Individual will become the owner of FACO Common shares, par
@@ -7960,5 +7963,4 @@ at our opinion, we have, among other things:
                                       C-1
 
   (vii)  reviewed the recent reported prices and trading activity for the FAC
-         Common Stock and the Credit Common Stock and compared such
-         information and certain financial information for the 
+      

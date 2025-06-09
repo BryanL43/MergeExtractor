@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/1058299/000092701601001767/0000927016-01-001767.txt
+URL: https://www.sec.gov/Archives/edgar/data/1058299/000092701601500845/0000927016-01-500845.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- SWoJAfLoqCq6B39d3UWUPvAZwVWqQMxFIqdgWa/u3dXsiD9od7fgELsDjXJlHXWe
- TTLifQljo1OMQ9/RSHqs/g==
+ LKAi2Hx1RltTXBRSCKoOAWRfzqhUJsQHtnzVM3WGutwKY047yVVpIwR0+QZ8UxwE
+ BhFCkfJ+DQ3V5ktkOIaA8g==
 
-0000927016-01-001767.txt : 20010410
+0000927016-01-500845.txt : 20010511
 
-0000927016-01-001767.hdr.sgml : 20010410
-ACCESSION NUMBER:		0000927016-01-001767
-CONFORMED SUBMISSION TYPE:	S-4
+0000927016-01-500845.hdr.sgml : 20010511
+ACCESSION NUMBER:		0000927016-01-500845
+CONFORMED SUBMISSION TYPE:	S-4/A
 PUBLIC DOCUMENT COUNT:		7
-FILED AS OF DATE:		20010409
+FILED AS OF DATE:		20010510
 
 FILER:
 
@@ -29,10 +29,10 @@ FILER:
 		FISCAL YEAR END:			1231
 
 	FILING VALUES:
-		FORM TYPE:		S-4
+		FORM TYPE:		S-4/A
 		SEC ACT:		
 		SEC FILE NUMBER:	333-58564
-		FILM NUMBER:		1598473
+		FILM NUMBER:		1627541
 
 	BUSINESS ADDRESS:	
 		STREET 1:		950 WINTER STREET
@@ -52,14 +52,15 @@ FILER:
 		FORMER CONFORMED NAME:	LIONBRIDGE TECHNOLOGIES HOLDINGS INC
 		DATE OF NAME CHANGE:	19990611
 
-S-4
+S-4/A
 
-0001.txt
+ds4a.txt
 
-FORM S-4
+AMENDMENT #1 TO FORM S-1
 
-     As filed with the Securities and Exchange Commission on April 9, 2001
-                                                       Registration No. 333-
+   As filed with the Securities and Exchange Commission on May 10, 2001
+
+                                                 Registration No. 333-58564
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
@@ -67,6 +68,10 @@ FORM S-4
                              WASHINGTON, D.C. 20549
 
                                 ---------------
+
+                              AMENDMENT NO. 1
+
+                                    TO
                                     FORM S-4
                              REGISTRATION STATEMENT
                                      UNDER
@@ -104,6 +109,8 @@ FORM S-4
             125 High Street                  1191 Second Avenue, Suite 1800
       Boston, Massachusetts 02110              Seattle, Washington 98101
 
+          (617) 248-7000                          (206) 464-3939
+
                                 ---------------
 
    Approximate date of commencement of the proposed sale to the public: As soon
@@ -126,44 +133,6 @@ for the same offering. [_]
 
                                 ---------------
 
-                        CALCULATION OF REGISTRATION FEE
-
-- ---------------------------------------------------------------------------------------
-- ---------------------------------------------------------------------------------------
-
-                                             Proposed        Proposed
- Title of Each Class of       Amount         Maximum          Maximum       Amount of
-    Securities to be          to be       Offering Price     Aggregate     Registration
-     Registered(1)        Registered(2)     Per Share    Offering Price(3)     Fee
-- ---------------------------------------------------------------------------------------
-
-Common Stock, $0.01 par
- value per share.......  3,027,287 shares      N/A         $6,195,441.40    $1,548.86
-- ---------------------------------------------------------------------------------------
-- ---------------------------------------------------------------------------------------
-
-(1) The Registration Statement relates to securities of the Registrant issuable
-    to holders of common stock of Data Dimensions, Inc., a Delaware corporation
-    ("Data Dimensions"), in the proposed merger (the "Merger") of a wholly
-    owned subsidiary of the Registrant with and into Data Dimensions.
-(2) Represents an estimate of the maximum number of shares of the common stock
-    of the Registrant which may be issued pursuant to the Merger. Such number
-    includes up to 438,717 shares of the common stock of the Registrant
-    issuable pursuant to outstanding options and warrants for shares of Data
-    Dimensions common stock to be assumed by Registrant in the Merger.
-(3) Estimated solely for the purpose of calculating the registration fee
-    required by Section 6(b) of the Securities Act of 1933, as amended, and
-    computed pursuant to Rule 457(c) and (f) under the Securities Act. Pursuant
-    to Rule 457(f)(1) under the Securities Act, the proposed maximum offering
-    price of Registrant's common stock was calculated as the average of the
-    high and low per shares prices of Data Dimensions common stock on April 3,
-    2001 multiplied by the total number of shares of Data Dimensions common
-    stock (including those shares issuable pursuant to outstanding options and
-    warrants) expected to be exchanged for shares of Registrant's common stock
-    registered hereunder.
-
-                                ---------------
-
    The Registrant hereby amends this Registration Statement on such date or
 dates as may be necessary to delay its effective date until the Registrant
 shall file a further amendment which specifically states that this Registration
@@ -179,7 +148,7 @@ may determine.
                            MEETING OF STOCKHOLDERS OF
                              DATA DIMENSIONS, INC.
 
-                          To be held on June   , 2001
+                        To be held on June 21, 2001
 
    Data Dimensions and Lionbridge have agreed to merge Data Dimensions with a
 subsidiary of Lionbridge. Data Dimensions will become a wholly owned subsidiary
@@ -188,16 +157,16 @@ share of Lionbridge common stock for each share of Data Dimensions common stock
 they own.
 
    Based on the 13,560,972 shares of Data Dimensions common stock outstanding
-as of March 8, 2001, approximately 2,588,570 shares of Lionbridge common stock
+as of May 7, 2001, approximately 2,588,570 shares of Lionbridge common stock
 will be issued to the holders of Data Dimensions common stock in the merger.
 Lionbridge estimates that the shares of Lionbridge common stock to be issued to
 Data Dimensions stockholders will represent approximately 8.5% of the
 outstanding Lionbridge shares after the merger.
 
    Lionbridge is quoted on the Nasdaq National Market under the symbol "LIOX,"
-and on       , 2001, Lionbridge common stock closed at $   per share. Data
-Dimensions is listed on the Nasdaq National Market under "DDIM," and on       ,
-2001, Data Dimensions common stock closed at $   per share.
+and on May 7, 2001, Lionbridge common stock closed at $2.35 per share. Data
+Dimensions is listed on the Nasdaq National Market under "DDIM," and on May 7,
+2001, Data Dimensions common stock closed at $0.41 per share.
 
                                  PROSPECTUS OF
                          LIONBRIDGE TECHNOLOGIES, INC.
@@ -210,7 +179,7 @@ board of directors has scheduled a special meeting for Data Dimensions
 stockholders to vote on the merger and the agreement and plan of reorganization
 as follows:
 
-                                  June  , 2001
+                               June 21, 2001
 
                     9:00 a.m. Pacific Daylight Savings Time
 
@@ -221,7 +190,7 @@ as follows:
    This document gives you detailed information about the proposed merger.
 Lionbridge has provided the information concerning Lionbridge, and Data
 Dimensions has provided the information concerning Data Dimensions. Please see
-"Where You Can Find More Information" on page 106 for additional information
+"Where You Can Find More Information" on page 105 for additional information
 about Data Dimensions and Lionbridge on file with the United States Securities
 and Exchange Commission.
 
@@ -230,7 +199,7 @@ Factors" beginning on page 9 in this document for a discussion of risks
 associated with the merger.
 
    This proxy statement/prospectus is being mailed to stockholders of Data
-Dimensions beginning about       , 2001.
+Dimensions beginning about May 14, 2001.
 
    Neither the Securities and Exchange Commission nor any state securities
 regulator has approved or disapproved the Lionbridge common stock to be issued
@@ -238,7 +207,7 @@ under this proxy statement/prospectus or determined if this proxy
 statement/prospectus is accurate or adequate. Any representation to the
 contrary is a criminal offense.
 
-          The date of this proxy statement/prospectus is       , 2001.
+       The date of this proxy statement/prospectus is May 10, 2001.
 
 Dear Data Dimensions Stockholder:
 
@@ -249,14 +218,15 @@ Dimensions with Lionbridge.
    This combination will allow Data Dimensions to significantly further its
 ambition to become the leader in the quality assurance and testing market,
 focused on serving the global needs of its collective clients. It's a natural
-combination of two fast-growing market leaders and fuels the creation of the
-world leader in global technology testing and interoperability services.
+combination of two market leaders and fuels the creation of the world leader in
+global technology testing and interoperability services.
 
    I am pleased to provide to you the enclosed proxy statement/prospectus
 relating to a special meeting of the stockholders of Data Dimensions to be held
-on June  , 2001, at 9:00 a.m. Pacific Daylight Savings Time, at Data
+on June 21, 2001, at 9:00 a.m. Pacific Daylight Savings Time, at Data
 Dimensions' executive offices at 3535 Factoria Boulevard SE, Sterling Plaza,
-3rd Floor, Bellevue, Washington.
+3rd Floor, Bellevue, Washington. We have also enclosed a copy of Data
+Dimensions' annual report on Form 10-K for the year ended December 31, 2000.
 
    At the special meeting, you will be asked to vote, in person or by proxy, on
 the proposed merger of Data Dimensions with Lionbridge. The merger will be
@@ -289,18 +259,18 @@ agreement and plan of reorganization.
 a majority of the outstanding shares of common stock of Data Dimensions
 entitled to vote at the special meeting. You should note that stockholders of
 Data Dimensions entitled to vote at the special meeting who collectively
-beneficially own approximately 18.9% of Data Dimensions' outstanding common
-stock have already agreed to vote their shares in favor of the merger and the
-agreement and plan of reorganization. You are encouraged to review the enclosed
-proxy statement/prospectus and in particular review the matters referred to
-under "Risk Factors" starting on page 9. Whether or not you plan to attend the
+beneficially own approximately 18.2% of Data Dimensions' common stock have
+already agreed to vote their shares in favor of the merger and the agreement
+and plan of reorganization. You are encouraged to review the enclosed proxy
+statement/prospectus and in particular review the matters referred to under
+"Risk Factors" starting on page 9. Whether or not you plan to attend the
 special meeting, please take the time to vote by promptly completing and
 mailing the enclosed proxy card in the postage-paid envelope provided. Your
 vote is very important.
 
                                       On Behalf of the Board of Directors,
 
-                                      /s/ Peter A. Allen
+                                      /s/ Peter Allen
                                       Chairman, Chief Executive Officer and
                                        President
 
@@ -309,8 +279,8 @@ commission has approved or disapproved of this transaction and the securities
 being offered by Lionbridge or determined if the proxy statement/prospectus is
 accurate or adequate. Any representation to the contrary is a criminal offense.
 
-   The proxy statement/prospectus is dated       , 2001 and was first mailed to
-Data Dimensions' stockholders on or about       , 2001.
+   The proxy statement/prospectus is dated May 10, 2001 and was first mailed to
+Data Dimensions' stockholders on or about May 14, 2001.
 
                              DATA DIMENSIONS, INC.
                            3535 Factoria Boulevard SE
@@ -319,15 +289,15 @@ Data Dimensions' stockholders on or about       , 2001.
 
                    NOTICE OF SPECIAL MEETING OF STOCKHOLDERS
 
-                          TO BE HELD ON JUNE   , 2001
+                        TO BE HELD ON JUNE 21, 2001
 
 To the stockholders of Data Dimensions, Inc.:
 
    A special meeting of the stockholders of Data Dimensions, Inc., a Delaware
 corporation, will be held at Data Dimensions' executive offices at 3535
-Factoria Boulevard SE, Sterling Plaza, 3rd Floor, Bellevue, Washington on     ,
-June  , 2001 at 9:00 a.m. Pacific Daylight Savings Time for the following
-purposes:
+Factoria Boulevard SE, Sterling Plaza, 3rd Floor, Bellevue, Washington on
+Thursday, June 21, 2001 at 9:00 a.m. Pacific Daylight Savings Time for the
+following purposes:
 
      1.  To approve and adopt the merger and the agreement and plan of
   reorganization, dated as of March 8, 2001, as amended, by and among
@@ -357,18 +327,18 @@ and adoption of the merger and agreement and plan of reorganization. The
 proposal is described in more detail in the accompanying proxy
 statement/prospectus, which you should read in its entirety before voting.
 
-   The board of directors has fixed the close of business on        , 2001 as
-the record date for determining the stockholders entitled to receive this
-notice, and to vote their shares at the meeting or any adjournment or
-postponement of the meeting. Only holders of record of common stock of Data
-Dimensions at the close of business on the record date will be entitled to
-notice of, and to vote at, the meeting and any adjournment or postponement of
-the meeting. As of that date, there were [13,560,972] shares of common stock
-outstanding. Each share of common stock is entitled to one vote on each matter
-brought properly before the meeting. The representation in person, or by
-properly executed proxy, of the holders of a majority of all shares of common
-stock entitled to vote at the special meeting is necessary to constitute a
-quorum at the special meeting of Data Dimensions.
+   The board of directors has fixed the close of business on May 7, 2001 as the
+record date for determining the stockholders entitled to receive this notice,
+and to vote their shares at the meeting or any adjournment or postponement of
+the meeting. Only holders of record of common stock of Data Dimensions at the
+close of business on the record date will be entitled to notice of, and to vote
+at, the meeting and any adjournment or postponement of the meeting. As of that
+date, there were 13,560,972 shares of common stock outstanding. Each share of
+common stock is entitled to one vote on each matter brought properly before the
+meeting. The representation in person, or by properly executed proxy, of the
+holders of a majority of all shares of common stock entitled to vote at the
+special meeting is necessary to constitute a quorum at the special meeting of
+Data Dimensions.
 
    Under Delaware law and the charter documents of Data Dimensions, approval
 and adoption of the merger and the agreement and plan of reorganization
@@ -412,11 +382,12 @@ reorganization. Accordingly, abstentions and broker non-votes will have the
 same effect as votes against the merger and the agreement and plan of
 reorganization.
 
-   The proxy statement/prospectus materials are being mailed on or about
-      , 2001 to holders of record of Data Dimensions' common stock as of
-      , 2001. The principal executive office and mailing address of Data
-Dimensions is 3535 Factoria Boulevard SE, Sterling Plaza, 3rd Floor, Bellevue,
-Washington 98006.
+   The proxy statement/prospectus materials and Data Dimensions' annual report
+on Form 10-K for the year ended December 31, 2000 are being mailed on or about
+May 14, 2001 to holders of record of Data Dimensions' common stock as of May 7,
+2001. The principal executive office and mailing address of Data Dimensions is
+3535 Factoria Boulevard SE, Sterling Plaza, 3rd Floor, Bellevue, Washington
+98006.
 
    All stockholders are cordially invited to attend the special meeting.
 WHETHER OR NOT YOU PLAN TO ATTEND THE MEETING, PLEASE SIGN, DATE AND PROMPTLY
@@ -427,15 +398,17 @@ SOLICITATION EXPENSE. A postage-paid, self-addressed envelope is enclosed for
 your convenience. Your shares will be voted at the meeting in accordance with
 your proxy.
 
-                      By Order of the Board of Directors,
+                                          By Order of the Board of Directors,
 
-                               /s/ Peter A. Allen
-                Chairman, Chief Executive Officer and President
+                                          /s/ Peter Allen
+                                          Chairman, Chief Executive Officer
+                                          and President
 
                            3535 Factoria Boulevard SE
                            Sterling Plaza, 3rd Floor
                            Bellevue, Washington 98006
-                                        , 2001
+
+                               May 14, 2001
 
                                
 
@@ -468,7 +441,7 @@ DATA DIMENSIONS SPECIAL MEETING OF STOCKHOLDERS...........................  26
   Record Date and Voting..................................................  26
   Voting and Revocation of Proxies........................................  27
 
-THE MERGER................................................................  20
+THE MERGER................................................................  29
   Background of the Merger................................................  29
   Lionbridge's Reasons for the Merger.....................................  32
   Recommendation of the Board of Directors of Data Dimensions; Data
@@ -561,9 +534,9 @@ INDEX TO FINANCIAL STATEMENTS............................................   F-1
 UNAUDITED PRO FORMA COMBINED CONDENSED FINANCIAL STATEMENTS OF LIONBRIDGE
  AND DATA DIMENSIONS.....................................................   F-2
 
-CONSOLIDATED FINANCIAL STATEMENTS OF LIONBRIDGE TECHNOLOGIES, INC........   F-8
+CONSOLIDATED FINANCIAL STATEMENTS OF LIONBRIDGE TECHNOLOGIES, INC........   F-6
 
-CONSOLIDATED FINANCIAL STATEMENTS OF DATA DIMENSIONS, INC................  F-37
+CONSOLIDATED FINANCIAL STATEMENTS OF DATA DIMENSIONS, INC................  F-36
 
                                                                            Page
                                                                            ----
@@ -609,8 +582,7 @@ Q: Will I Be Able To Trade The Lionbridge Common Stock That I Receive In The
    Merger?
 
 A:The Lionbridge common stock you receive will be freely tradeable unless you
-are an affiliate of Lionbridge or Data Dimensions. Lionbridge common stock is
-listed on the Nasdaq National Market under the symbol "LIOX."
+are an affiliate of Lionbridge or Data Dimensions.
 
 Q: What Will My Tax Consequences Be As A Result Of This Share Exchange?
 
@@ -631,7 +603,7 @@ to vote, Data Dimensions will count your proxy as a vote in favor of approval
 of the merger and the agreement and plan of reorganization. If you abstain from
 voting or do not vote, it will have the same effect as a vote against approval
 of the merger and the agreement and plan of reorganization. The special meeting
-will take place on June  , 2001. You may attend the special meeting and vote
+will take place on June 21, 2001. You may attend the special meeting and vote
 your shares in person. Even if you plan to attend the special meeting, the Data
 Dimensions board of directors recommends that you complete, sign and date the
 enclosed proxy and return it promptly in the enclosed postage-paid envelope.
@@ -698,11 +670,12 @@ Corporate Development, (425) 688-1000.
    This summary highlights selected information from this document and may not
 contain all of the information that is important to you. To understand the
 merger fully and for a more complete description of the legal terms of the
-merger, you should read carefully this entire document and the documents to
-which Lionbridge and Data Dimensions have referred you. For more information,
-see "Where You Can Find More Information" on page 106. Lionbridge and Data
-Dimensions have included page references parenthetically to direct you to a
-more complete description of the topics in this summary.
+merger, you should read carefully this entire document, including "Risk
+Factors" beginning on page 9, and the documents to which Lionbridge and Data
+Dimensions have referred you. For more information, see "Where You Can Find
+More Information" on page 105. Lionbridge and Data Dimensions have included
+page references parenthetically to direct you to a more complete description of
+the topics in this summary.
 
                                  The Companies
 
@@ -804,9 +777,9 @@ following:
      mass that is better positioned to compete for business opportunities and
      participate in industry growth.
 
-  .  The merger will provide increased liquidity for Data Dimensions
-     stockholders through continued listing of Lionbridge common stock on the
-     Nasdaq National Market.
+  .  The merger will provide continued liquidity for Data Dimensions
+     stockholders as Lionbridge common stock is listed on the Nasdaq National
+     Market.
 
   .  The merger will provide Data Dimensions' stockholders with the
      opportunity to share in the combined company's long-term growth as a
@@ -853,13 +826,13 @@ as calculated in accordance with the terms of the agreement and plan of
 reorganization).
 
    Based on the 13,560,972 shares of Data Dimensions common stock issued and
-outstanding as of March 8, 2001, approximately 2,588,570 shares of Lionbridge
+outstanding as of May 7, 2001, approximately 2,588,570 shares of Lionbridge
 common stock will be issued to the holders of Data Dimensions common stock in
 the merger, or approximately 8.5% of the issued and outstanding shares of
 Lionbridge common stock following the merger. The actual number of shares of
 Lionbridge common stock issued may differ because the number of shares of Data
 Dimensions common stock outstanding at the closing may differ. Lionbridge had
-28,038,697 shares of common stock outstanding as of March 31, 2001.
+27,962,499 shares of common stock outstanding as of May 7, 2001.
 
  Interests of Executive Officers and Directors of Data Dimensions in the Merger
                                    (page 40)
@@ -871,11 +844,9 @@ of Data Dimensions have in the merger. These interests include:
   .  acceleration of the vesting of options;
 
   .  cash severance payments, continuation of health benefits and cash
-     payments for any accrued and unused vacation;
+     payments for any accrued and unused vacation; and
 
-  .  indemnification of officers and directors; and
-
-  .  becoming executives of Lionbridge.
+  .  indemnification of officers and directors.
 
    As of March 31, 2001, executive officers and directors of Data Dimensions
 held 55,992 shares of Data Dimensions common stock and options to purchase
@@ -997,11 +968,11 @@ reorganization will require the affirmative vote of the holders of a majority
 of the outstanding shares of Data Dimensions common stock entitled to vote at
 the Data Dimensions special meeting.
 
-   As of March 8, 2001, the directors, executive officers and 10% stockholders
-of Data Dimensions and their affiliates who collectively beneficially own
-approximately 18.9% of the outstanding voting power of Data Dimensions have
-already agreed under voting agreements to vote in favor of the approval and
-adoption of the merger and the agreement and plan of reorganization.
+   As of May 7, 2001, the directors, executive officers and 10% stockholders of
+Data Dimensions and their affiliates who collectively beneficially own
+approximately 18.2% of the voting power of Data Dimensions have already agreed
+under voting agreements to vote in favor of the approval and adoption of the
+merger and the agreement and plan of reorganization.
 
                                Voting Agreements
                                    (page 51)
@@ -1012,10 +983,10 @@ Data Dimensions entered into voting agreements under which they agreed to vote
 all of their shares of Data Dimensions common stock to approve the merger and
 the agreement and plan of reorganization. The Data Dimensions stockholders who
 entered into voting agreements collectively beneficially own approximately
-18.9% of the outstanding Data Dimensions capital stock as of March 8, 2001. The
-form of voting agreement is attached as Annex B to this proxy
-statement/prospectus. Lionbridge and Data Dimensions encourage you to read the
-form of voting agreement in its entirety.
+18.2% of the Data Dimensions capital stock as of May 7, 2001. The form of
+voting agreement is attached as Annex B to this proxy statement/prospectus.
+Lionbridge and Data Dimensions encourage you to read the form of voting
+agreement in its entirety.
 
                              Stock Option Agreement
                                    (page 51)
@@ -1036,7 +1007,7 @@ likelihood that the merger will be completed. The stock option agreement is
 attached as Annex C to this proxy statement/prospectus. Lionbridge and Data
 Dimensions encourage you to read the stock option agreement in its entirety.
 
-                      Governmental and Regulatory Matters
+                   Governmental and Regulatory Approvals
                                    (page 104)
 
    Lionbridge and Data Dimensions do not believe that any material federal or
@@ -1077,11 +1048,9 @@ advisor for a full understanding of the tax consequences of the merger to you.
    The merger will be treated as a purchase for accounting and financial
 reporting purposes, which means that Data Dimensions will be treated as a
 separate entity for periods prior to the closing, and thereafter as a wholly
-owned subsidiary of Lionbridge. In addition, Lionbridge estimates that it will
-record on its balance sheet a deferred credit of approximately $2.2 million,
-which will be amortized over a five-year period following the merger.
+owned subsidiary of Lionbridge.
 
-     Resale of Lionbridge Common Stock Issued in connection with the Merger
+  Resale of Lionbridge Common Stock Issued in Connection with the Merger
                                    (page 41)
 
    All shares of Lionbridge common stock that Data Dimensions stockholders
@@ -1123,8 +1092,8 @@ Nasdaq Stock Market's National Market.
 quoted on the Nasdaq National Market. On March 8, 2001, the last full trading
 day prior to the public announcement of the proposed merger, Lionbridge common
 stock closed at $5.66 per share and Data Dimensions common stock closed at
-$0.44 per share. On [      ], 2001, Lionbridge common stock closed at $   per
-share and Data Dimensions common stock closed at $   per share.
+$0.44 per share. On May 7, 2001, Lionbridge common stock closed at $2.35 per
+share and Data Dimensions common stock closed at $0.41 per share.
 
            Cautionary Statement Concerning Forward-Looking Statements
                                    (page 42)
@@ -1152,12 +1121,10 @@ beginning on page 9.
 
    You should carefully consider the following risk factors relating to the
 merger before you decide whether to vote to approve and adopt the merger and
-the agreement and plan of reorganization and the proposed issuance of
-Lionbridge common stock in connection with the merger. You should also consider
-the other information in this proxy statement/prospectus and the additional
-information in Lionbridge's and Data Dimensions' other reports on file with the
-SEC. For more information, see "Where You Can Find More Information" on page
-106.
+the agreement and plan of reorganization. You should also consider the other
+information in this proxy statement/prospectus and the additional information
+in Lionbridge's and Data Dimensions' other reports on file with the SEC. For
+more information, see "Where You Can Find More Information" on page 105.
 
 Risks Relating to the Merger
 
@@ -1296,14 +1263,14 @@ clients' product releases or the loss of a major client.
 release cycle of its clients. As a result, Lionbridge performs varying amounts
 of work for specific clients from year to year based on their product
 development schedules. A major client in one year may not have use for a
-similar level of Lionbridge's services in another year. In addition, Lionbridge
-derives a significant portion of its revenue from large projects and programs
-for a limited number of clients. In 2000, Lionbridge's largest customer
-accounted for approximately 9% of its revenue and Lionbridge's five largest
-clients accounted for approximately 33% of its revenue. As a result, the loss
-of any major client or a significant reduction in a large project's scope could
-materially reduce Lionbridge's revenue and cash flow, and adversely affect its
-ability to achieve and maintain profitability.
+similar level of Lionbridge's services in another year. In addition,
+Lionbridge derives a significant portion of its revenue from large projects
+and programs for a limited number of clients. In 2000, Lionbridge's largest
+customer accounted for approximately 9% of its revenue and Lionbridge's five
+largest clients accounted for approximately 33% of its revenue. As a result,
+the loss of any major client or a significant reduction in a large project's
+scope could materially reduce Lionbridge's revenue and cash flow, and
+adversely affect its ability to achieve and maintain profitability.
 
    Lionbridge has an accumulated deficit, is not currently profitable, and
 anticipates future losses.
@@ -1317,15 +1284,16 @@ this growth may not be sustainable or indicative of future results of
 operations. Lionbridge intends to continue to invest in internal expansion,
 infrastructure, integration of its acquired companies into its existing
 operations, select acquisitions, and its sales and marketing efforts. In
-addition, Lionbridge's acquisitions have significantly increased its intangible
-assets, such as goodwill, and the charges it expects to incur in connection
-with the amortization of these intangible assets will have a material adverse
-impact on its ability to achieve and maintain profitability for the foreseeable
-future. Lionbridge cannot predict if it will operate profitably.
+addition, Lionbridge's acquisitions have significantly increased its
+intangible assets, such as goodwill, and the charges it expects to incur in
+connection with the amortization of these intangible assets will have a
+material adverse impact on its ability to achieve and maintain profitability
+for the foreseeable future. Lionbridge cannot predict if it will operate
+profitably.
 
    If Lionbridge's losses continue, it will need to raise additional capital.
-If Lionbridge is unable to do so, or does so on unfavorable terms, the value of
-your investment in its stock may decline.
+If Lionbridge is unable to do so, or does so on unfavorable terms, the value
+of your investment in its stock may decline.
 
    If Lionbridge's losses continue, it will be unable to pay its expenses
 unless it raises additional capital. If Lionbridge needs to raise additional
@@ -1334,43 +1302,79 @@ concern. If Lionbridge needs to raise additional capital but is able to do so
 only on unfavorable terms, the value of your investment in its stock may
 decline.
 
+   Lionbridge cannot assure you that it will meet new or existing Nasdaq
+National Market listing requirements at and after the closing of the merger.
+
+   Nasdaq requires companies to meet quantitative maintenance standards to
+continue listing of their securities on the Nasdaq National Market. Nasdaq has
+proposed changes to these quantitative maintenance listing standards including
+replacing the $4 million minimum net tangible asset requirement with a
+requirement that companies maintain stockholders' equity of at least $10
+million. The SEC approved a pilot program in May 2001 permitting Nasdaq to
+allow companies to comply with either the existing $4 million net tangible
+asset requirement or the proposed $10 million stockholders' equity listing
+standard until the earlier of July 1, 2001 or the date when the SEC takes
+final action with respect to Nasdaq's proposed changes. Although Lionbridge
+does not currently meet the new stockholders' equity requirement or the net
+tangible asset requirement, it expects to meet both listing requirements at
+and after the closing of the merger with Data Dimensions. The forecasts,
+projections and factors upon which these expectations are based, however, may
+change due to the various factors discussed in "Risk Factors" beginning on
+page 9 and throughout this proxy statement/prospectus. Accordingly, Lionbridge
+cannot assure you that it will meet new or existing Nasdaq National Market
+listing requirements at and after the closing of the merger.
+
+   Nasdaq has not notified Lionbridge of any proceeding related to its
+noncompliance with Nasdaq National Market listing maintenance standards.
+Lionbridge cannot assure you, however, that Nasdaq will not initiate a
+proceeding and seek to delist Lionbridge common stock from the Nasdaq National
+Market if Lionbridge's noncompliance with applicable listing standards were to
+continue. If Nasdaq were to seek to delist Lionbridge common stock, Lionbridge
+believes that, for the reasons listed above, it would be able to submit a
+definitive plan to Nasdaq for regaining compliance with applicable listing
+standards and continued inclusion of its common stock on the Nasdaq National
+Market. Lionbridge cannot assure you, however, of the continued listing of its
+common stock on the Nasdaq National Market. If its common stock were delisted,
+Lionbridge common stock could be listed on the Nasdaq SmallCap Market or the
+over-the-counter market, which may adversely impact the public trading market
+for the Lionbridge common stock and reduce or destabilize the stock price.
+
    The uncertainty in the technology market could affect Lionbridge's ability
 to achieve operating plans.
 
    A substantial portion of Lionbridge's revenue is derived from technology
 companies, including Web-based businesses. Many technology companies have
-experienced economic slow downs in 2000 and 2001 and may continue to experience
-these slow downs throughout 2001 and beyond. A continued slow down in the
-technology market will have a negative impact on Lionbridge's ability to
-achieve its operating plans.
+experienced economic slow downs in 2000 and 2001 and may continue to
+experience these slow downs throughout 2001 and beyond. A continued slow down
+in the technology market will have a negative impact on Lionbridge's ability
+to achieve its operating plans.
 
    Potential fluctuations in Lionbridge's quarterly results make financial
 forecasting difficult and could affect its common stock trading price.
 
-   As a result of fluctuations in Lionbridge's revenue tied to foreign currency
-fluctuations, its clients' release cycles, the three- to nine-month length of
-its typical sales cycle, rapid growth, acquisitions, the emerging nature of the
-markets in which it competes, the recent slow down in the U.S. and world
-economies, and other factors
+   As a result of fluctuations in Lionbridge's revenue tied to foreign
+currency fluctuations, its clients' release cycles, the three- to nine-month
+length of its typical sales cycle, rapid growth, acquisitions, the emerging
+nature of the markets in which it competes, the recent slow down in the U.S.
+and world economies, and other factors outside its control, Lionbridge
+believes that quarter-to-quarter comparisons of results of operations are not
+necessarily meaningful. You should not rely on the results of any one quarter
+as an indication of its future performance. Lionbridge may not experience
+revenue increases in future years comparable to the revenue increases in prior
+years. If in some future quarter its results of operations were to fall below
+the expectations of securities analysts and investors, the trading price of
+its common stock would likely decline.
 
-outside its control, Lionbridge believes that quarter-to-quarter comparisons of
-results of operations are not necessarily meaningful. You should not rely on
-the results of any one quarter as an indication of its future performance.
-Lionbridge may not experience revenue increases in future years comparable to
-the revenue increases in prior years. If in some future quarter its results of
-operations were to fall below the expectations of securities analysts and
-investors, the trading price of its common stock would likely decline.
-
-   Lionbridge generally does not have long-term service agreements, which makes
-revenue forecasting difficult.
+   Lionbridge generally does not have long-term service agreements, which
+makes revenue forecasting difficult.
 
    A majority of Lionbridge's revenue is derived from individual projects
 rather than long-term service agreements. Lionbridge cannot assure you that a
 client will engage it for further services once a project is completed or that
 a client will not unilaterally reduce the scope of, or terminate, existing
 projects. You should not predict or anticipate Lionbridge's future revenue
-based on the number of clients it has or the size of its existing projects. The
-absence of long-term contracts makes it difficult to predict Lionbridge's
+based on the number of clients it has or the size of its existing projects.
+The absence of long-term contracts makes it difficult to predict Lionbridge's
 future revenue.
 
    Lionbridge may be liable for defects or errors in the services it provides
@@ -1393,12 +1397,12 @@ businesses. Any defects or errors in these services could result in:
    Liability claims could require Lionbridge to spend significant time and
 money in litigation or to pay significant damages. Although Lionbridge
 maintains general liability insurance, including coverage for errors and
-omissions, Lionbridge cannot assure you that this coverage will be available in
-amounts sufficient to cover one or more large claims, or that the insurer will
-not disclaim coverage as to any future claims.
+omissions, Lionbridge cannot assure you that this coverage will be available
+in amounts sufficient to cover one or more large claims, or that the insurer
+will not disclaim coverage as to any future claims.
 
-   If Lionbridge fails to attract and retain professional staff, its ability to
-complete its projects and obtain new projects could suffer.
+   If Lionbridge fails to attract and retain professional staff, its ability
+to complete its projects and obtain new projects could suffer.
 
    Lionbridge's failure to attract and retain qualified employees could impair
 its ability to complete existing projects and bid for or obtain new projects
@@ -1407,11 +1411,12 @@ revenue. Lionbridge's ability to grow and increase its market share largely
 depends on its ability to hire, train, retain, and manage highly skilled
 employees, including project managers and testing, technical, translation, and
 sales and marketing personnel. There is a significant shortage of, and intense
-competition for, personnel who are qualified to perform the services Lionbridge
-provides. In addition, Lionbridge must make sure its employees maintain their
-technical expertise and business skills. Lionbridge cannot assure you that it
-will be able to attract a sufficient number of qualified employees or that it
-will successfully train and manage the employees it hires.
+competition for, personnel who are qualified to perform the services
+Lionbridge provides. In addition, Lionbridge must make sure its employees
+maintain their technical expertise and business skills. Lionbridge cannot
+assure you that it will be able to attract a sufficient number of qualified
+employees or that it will successfully train and manage the employees it
+hires.
 
    Lionbridge may be unable to continue to grow at its historical growth rates
 or to manage its growth effectively.
@@ -1423,12 +1428,10 @@ additional acquisitions. This rapid growth places a significant demand on
 management and operational resources. In order to manage growth effectively,
 Lionbridge must implement and improve its operational systems and controls.
 This additional growth may further strain its management and operational
-resources.
-
-Lionbridge's growth could also be adversely affected by many other factors,
-including economic downturns. As a result of these concerns, Lionbridge cannot
-be sure that it will continue to grow, or, if it does grow, that it will be
-able to maintain its historical growth rate.
+resources. Lionbridge's growth could also be adversely affected by many other
+factors, including economic downturns. As a result of these concerns,
+Lionbridge cannot be sure that it will continue to grow, or, if it does grow,
+that it will be able to maintain its historical growth rate.
 
    Lionbridge's multi-year outsourcing relationship strategy may cause it to be
 unprofitable.
@@ -1487,10 +1490,11 @@ future.
 intangible assets. In the future, as events or changes in circumstances
 indicate that the carrying amount of its intangible assets may not be
 recoverable, Lionbridge will evaluate the carrying value of its intangible
-assets and may take an accelerated charge to its earnings. Any future
-determination requiring the write-off of a significant portion of unamortized
-intangible assets could have a material adverse effect on its ability to
-achieve and maintain profitability.
+assets and may take an accelerated
+
+charge to its earnings. Any future determination requiring the write-off of a
+significant portion of unamortized intangible assets could have a material
+adverse effect on its ability to achieve and maintain profitability.
 
    Pursuing and completing potential acquisitions could divert management
 attention and financial resources and may not produce the desired business
@@ -1498,22 +1502,21 @@ results.
 
    In May 2000, Lionbridge acquired all of the capital stock of INT'L.com and
 Harvard Translations, and in January 2001, acquired all of the capital stock of
-Quality Group Labs. As part of its growth strategy,
-
-Lionbridge intends to continue pursuing and making acquisitions of other
-complementary businesses. Lionbridge does not have specific personnel dedicated
-solely to pursuing and making acquisitions. As a result, if Lionbridge pursues
-any acquisition, its management, in addition to their operational
-responsibilities, could spend a significant amount of time and management and
-financial resources to pursue and integrate the acquired business with its
-existing business. To pay for an acquisition, Lionbridge might use capital
-stock, cash or a combination of both. Alternatively, Lionbridge may borrow
-money from a bank or other lender. If Lionbridge uses capital stock, its
-stockholders will experience dilution. If Lionbridge uses cash or debt
-financing, its financial liquidity will be reduced. In addition, from an
-accounting perspective, an acquisition may involve nonrecurring charges or
-involve amortization of significant amounts of goodwill that could adversely
-affect its ability to achieve and maintain profitability.
+Quality Group Labs. As part of its growth strategy, Lionbridge intends to
+continue pursuing and making acquisitions of other complementary businesses.
+Lionbridge does not have specific personnel dedicated solely to pursuing and
+making acquisitions. As a result, if Lionbridge pursues any acquisition, its
+management, in addition to their operational responsibilities, could spend a
+significant amount of time and management and financial resources to pursue and
+integrate the acquired business with its existing business. To pay for an
+acquisition, Lionbridge might use capital stock, cash or a combination of both.
+Alternatively, Lionbridge may borrow money from a bank or other lender. If
+Lionbridge uses capital stock, its stockholders will experience dilution. If
+Lionbridge uses cash or debt financing, its financial liquidity will be
+reduced. In addition, from an accounting perspective, an acquisition may
+involve nonrecurring charges or involve amortization of significant amounts of
+goodwill that could adversely affect its ability to achieve and maintain
+profitability.
 
    Despite the investment of these management and financial resources and
 completion of due diligence with respect to these efforts, an acquisition may
@@ -1566,11 +1569,12 @@ could suffer.
 
    In order to continue to provide quality services in its rapidly changing
 business, Lionbridge believes it is particularly important to retain personnel
-with experience and expertise relevant to its business. Lionbridge's future
-success, therefore, depends in large part on the continued services of a number
-of its key personnel, including its Chief Executive Officer, Rory J. Cowan. The
-loss of the services of Mr. Cowan or any of its other key personnel could
-seriously impede its success. Lionbridge might not be able to prevent key
+with experience and expertise relevant to its business. Lionbridge's
+
+future success, therefore, depends in large part on the continued services of a
+number of its key personnel, including its Chief Executive Officer, Rory J.
+Cowan. The loss of the services of Mr. Cowan or any of its other key personnel
+could seriously impede its success. Lionbridge might not be able to prevent key
 personnel, who may leave its employ in the future, from disclosing or using its
 technical knowledge, practices or procedures. One or more of its key personnel
 might resign and join a competitor or form a competing company. As a result,
@@ -1655,18 +1659,26 @@ do so only on unfavorable terms, Data Dimensions may not be able to meet its
 cash requirements necessary for the continued operation of its business as it
 is currently operated.
 
-   Delisting of Data Dimensions' common stock could negatively impact the
-marketability of the stock and reduce the market price of the stock.
+   If the merger with Lionbridge does not occur on or before June 29, 2001,
+Data Dimensions common stock will be delisted from the Nasdaq National Market
+which may negatively impact the marketability of the stock and may reduce the
+market price of the stock.
 
    Data Dimensions was notified by Nasdaq of its decision to delist Data
-Dimensions' common stock due to Data Dimensions' noncompliance with Nasdaq
+Dimensions common stock due to Data Dimensions' noncompliance with Nasdaq
 listing standards that require Data Dimensions to maintain a minimum bid price
 of $1.00 per share. Data Dimensions requested an oral hearing to review the
 decision, which request stayed the delisting. The hearing occurred on April 5,
-2001 and a decision is expected within two weeks of the hearing date. Data
-Dimensions cannot assure you that the outcome of the hearing will be favorable
-to Data Dimensions. The delisting of Data Dimensions common stock may result
-in the placement of the stock on the over-the-counter market or Nasdaq
+2001. On May 2, 2001, Nasdaq notified Data Dimensions that it determined to
+except Data Dimensions from the minimum bid price listing requirement and to
+continue the listing of Data Dimensions common stock on the Nasdaq National
+Market provided the merger with Lionbridge occurs on or before June 29, 2001.
+On May 4, 2001, Data Dimensions also requested an exception to the $5,000,000
+market value of public float requirement through June 29, 2001. Nasdaq granted
+the exception on May 7, 2001. If the merger with Lionbridge does not occur on
+or before June 29, 2001, Data Dimensions common stock will be delisted from the
+Nasdaq National Market. The delisting of Data Dimensions common stock may
+result in the placement of the stock on the over-the-counter market or Nasdaq
 SmallCap Market, the effect of which may limit the continuation of, or the re-
 establishment of, a public trading market for the common stock which could
 reduce or destabilize the stock price.
@@ -1680,8 +1692,8 @@ the fluctuations in revenue, including an absence of long-term service
 contracts, the number and requirements of client engagements, Data Dimensions'
 ability to develop, introduce and successfully market new and enhanced
 services, customers' product development cycles, and general economic
-conditions which may affect customers' decisions about the extent and timing
-of their spending. Additional other factors may impact Data Dimensions' gross
+conditions which may affect customers' decisions about the extent and timing of
+their spending. Additional other factors may impact Data Dimensions' gross
 margins, including the number of projects and the corresponding project phase,
 employee productivity, staffing mix, and salary and compensation related costs
 to attract and retain qualified personnel.
@@ -1692,11 +1704,11 @@ or reduction of a major project.
    Data Dimensions has depended on a limited number of clients to generate a
 significant amount of its revenue. There was a shift in the composition of the
 large clients from 1999 to 2000, but Data Dimensions' ten largest clients
-accounted for approximately 48% and 55% of Data Dimensions' revenue in 1999
-and 2000, respectively. As a result, if one or more of these clients determine
-to terminate their relationship with Data Dimensions, reduce the scope of a
-large project or elect not to proceed to a project stage, such action could
-have a material adverse effect on Data Dimensions' financial performance and
+accounted for approximately 48% and 55% of Data Dimensions' revenue in 1999 and
+2000, respectively. As a result, if one or more of these clients determine to
+terminate their relationship with Data Dimensions, reduce the scope of a large
+project or elect not to proceed to a project stage, such action could have a
+material adverse effect on Data Dimensions' financial performance and
 condition.
 
    Data Dimensions is significantly dependent on its ability to attract and
@@ -1724,14 +1736,15 @@ name recognition. If Data Dimensions fails to be competitive, its market
 position and revenue could fail to grow or potentially decline.
 
    There are few barriers to entry preventing companies from competing in the
-quality assurance and testing market. Data Dimensions does not own any patented
-or other technology or process that discourages or prohibits competitors from
-entering the market. In addition, information technology consulting companies,
-Web consultants or others may enter the market and Data Dimensions may not be
-able to compete effectively with current or potential new competitors.
+quality assurance and testing market. Data Dimensions does not own any
+patented or other technology or process that discourages or prohibits
+competitors from entering the market. In addition, information technology
+consulting companies, Web consultants or others may enter the market and Data
+Dimensions may not be able to compete effectively with current or potential
+new competitors.
 
-   If Data Dimensions cannot keep pace with technological changes, its business
-could suffer.
+   If Data Dimensions cannot keep pace with technological changes, its
+business could suffer.
 
    The quality assurance and testing market is characterized by rapidly
 changing client requirements and evolving technologies. If Data Dimensions
@@ -1746,13 +1759,13 @@ methodologies to adequately respond to the technological changes.
    The common stock of Data Dimensions has been subject to price and volume
 fluctuations in the past and may in the future.
 
-   Data Dimensions' common stock has been subject to extreme price and volume
+   Data Dimensions common stock has been subject to extreme price and volume
 fluctuations in the past. Additionally, the stock market has experienced
 significant price fluctuations, particularly among technology companies, which
 often have been unrelated to the operating performance of specific companies.
 Any announcement of any unfavorable variance in revenue or net income from
 levels generally expected from securities analysts or investors could have an
-immediate and significant effect on the trading price of Data Dimensions'
+immediate and significant effect on the trading price of Data Dimensions
 common stock. In addition, announcements of technological innovations or new
 services by Data Dimensions, its competitors or other third parties, rumors of
 innovations or new services or products, changing market conditions in the
@@ -1763,17 +1776,18 @@ Data Dimensions common stock.
    The uncertainty in the technology market could affect Data Dimensions'
 ability to achieve operating plans.
 
-   A substantial portion of Data Dimensions' revenue is derived from technology
-companies, including Web-based businesses. Many technology companies have
-experienced slow downs in 2000 and may experience similar slow downs in 2001
-and beyond. A continued slow down in the technology market may have a negative
-impact on Data Dimensions' ability to achieve its operating plans.
+   A substantial portion of Data Dimensions' revenue is derived from
+technology companies, including Web-based businesses. Many technology
+companies have experienced slow downs in 2000 and may experience similar slow
+downs in 2001 and beyond. A continued slow down in the technology market may
+have a negative impact on Data Dimensions' ability to achieve its operating
+plans.
 
                SELECTED CONSOLIDATED FINANCIAL DATA OF LIONBRIDGE
 
    Lionbridge was incorporated on September 11, 1996 and commenced operations
-on December 23, 1996 through the acquisition of The Localization Businesses of
-Stream International Holdings, Inc. in France, Ireland, and The Netherlands.
+on December 23, 1996 through the acquisition of the localization businesses of
+Stream International Holdings, Inc. in Ireland, The Netherlands and France.
 
    The following selected consolidated financial data reflects the combined
 results of operations and financial position of Lionbridge, INT'L.com, Inc.,
@@ -1793,7 +1807,7 @@ Lionbridge's report on Form 8-K/A filed with the Securities and Exchange
 Commission on July 31, 2000.
 
    The selected consolidated financial data for the year ended December 31,
-1996 combines the financial statements of The Localization Businesses of Stream
+1996 combines the financial statements of the localization businesses of Stream
 International Holdings, Inc. in Ireland, The Netherlands and France, INT'L.com,
 Inc. and Harvard Translations, Inc. for this period. The results of operations
 of Lionbridge for the period from inception (September 11, 1996) to December
@@ -1919,7 +1933,7 @@ Income (loss) from continuing
 Net income (loss).................   (9,476)     843    9,202  (2,873)   1,525
 Income (loss) from continuing
  operations, net of tax per
- diluted share....................    (0.82)    0.14     0.58   (0.24)    0.07
+ diluted share....................    (0.82)    0.14     0.59   (0.24)    0.07
 Net income (loss) per diluted
  share............................    (0.70)    0.06     0.69   (0.22)    0.13
 Total assets......................   23,135   39,638   51,937  34,713   25,074
@@ -2000,7 +2014,7 @@ Basic and diluted net
 Cash dividends per
  common share...........        --             --              --              --
 Book value per common
- share..................       0.41           1.38            0.81            0.15
+ share..................       0.41           1.39            0.81            0.15
 
 - --------
 (1) The Data Dimensions unaudited pro forma combined per share data are based
@@ -2016,7 +2030,7 @@ Book value per common
   .  the closing sales prices per share and aggregate market value of
      Lionbridge common stock and Data Dimensions common stock on the Nasdaq
      National Market on March 8, 2001, the last trading day prior to the
-     public announcement of the proposed merger, and on    , 2001, the most
+     public announcement of the proposed merger, and on May 7, 2001, the most
      recent practicable date prior to the printing of this proxy
      statement/prospectus.
 
@@ -2024,7 +2038,7 @@ Book value per common
      Dimensions common stock, based on the exchange ratio, if the Lionbridge
      average share price during the pricing period were equal to the
      Lionbridge closing price on the Nasdaq National Market on March 8, 2001
-     and on    , 2001.
+     and on May 7, 2001.
 
                                     Lionbridge  Data Dimensions Data Dimensions
                                     Historical    Historical     Equivalent(1)
@@ -2033,20 +2047,22 @@ Book value per common
 On March 8, 2001
   Closing price per common share.. $       5.66   $     0.44      $      1.08
   Market value of common
-   shares(2)...................... $158,636,029   $5,966,828      $14,645,850
-On       , 2001
-  Closing price per common share.. $              $               $
+   shares(2)...................... $157,896,929   $5,966,828      $14,645,850
+On May 7, 2001
+  Closing price per common share.. $       2.35   $     0.41      $      0.45
   Market value of common
-   shares(2)...................... $              $               $
+   shares(2)...................... $ 65,711,873   $5,559,999      $ 6,102,437
 
 - --------
-  (1) The Data Dimensions equivalent data for March 8, 2001 and       , 2001,
+
+  (1) The Data Dimensions equivalent data for March 8, 2001 and May 7, 2001,
       the most recent practicable date prior to the printing of this proxy
       statement/prospectus, corresponds to an exchange ratio of 0.190884.
 
-  (2) Market value based on 28,027,567 and        shares of Lionbridge common
-      stock and 13,560,972 and        shares of Data Dimensions common stock
-      outstanding as of March 8, 2001 and       , 2001, respectively.
+  (2) Market value based on 27,896,984 and 27,962,499 shares of Lionbridge
+      common stock and 13,560,972 and 13,560,972 shares of Data Dimensions
+      common stock outstanding as of March 8, 2001 and May 7, 2001,
+      respectively.
 
                   COMPARATIVE STOCK PRICES AND DIVIDEND POLICY
 
@@ -2075,7 +2091,7 @@ Third Quarter ended September 30, 2000..........................  11.38   6.75
 Fourth Quarter ended December 31, 2000..........................  10.56   2.25
 Fiscal Year Ended December 31, 2001
 First Quarter ended March 31, 2001..............................   6.50   2.75
-Second Quarter through   , 2001.................................    --     --
+Second Quarter through May 7, 2001..............................   3.00   1.94
 
 Data Dimensions Common Stock
 
@@ -2094,31 +2110,44 @@ Third Quarter ended September 30, 2000..........................   3.13   0.94
 Fourth Quarter ended December 31, 2000..........................   1.13   0.22
 Fiscal Year Ended December 31, 2001
 First Quarter ended March 31, 2001..............................   0.81   0.28
-Second Quarter through   , 2001.................................    --     --
+Second Quarter through May 7, 2001..............................   0.48   0.34
 
    On March 8, 2001, the last full trading day prior to the public announcement
 of the proposed merger and the execution of the agreement and plan of
 reorganization, Lionbridge common stock closed at $5.66 per share and Data
-Dimensions common stock closed at $0.44 per share. On [      ], 2001, the most
+Dimensions common stock closed at $0.44 per share. On May 7, 2001, the most
 recent practicable date prior to the printing of this proxy
-statement/prospectus, Lionbridge common stock closed at $   per share and Data
-Dimensions common stock closed at $   per share.
+statement/prospectus, Lionbridge common stock closed at $2.35 per share and
+Data Dimensions common stock closed at $0.41 per share. As of May 7, 2001,
+Lionbridge had 209 stockholders of record. At the Data Dimensions record date,
+Data Dimensions had 626 stockholders of record.
 
    Nasdaq notified Data Dimensions of its decision to delist Data Dimensions
 common stock from the Nasdaq National Market System as of March 8, 2001.
 Nasdaq's decision to delist was due to Data Dimensions' noncompliance with
 Nasdaq listing standards that require Data Dimensions to maintain a minimum bid
 price of $1.00 per share. On March 5, 2001, Data Dimensions requested, and was
-granted, an oral hearing before the Nasdaq Listing Qualifications Panel to
-review the decision by Nasdaq. The oral hearing occurred on April 5, 2001 and a
-decision is expected within two weeks of the hearing date. The request stayed
-the delisting of Data
+granted, an oral hearing before the
 
+Nasdaq Listing Qualifications Panel to review the decision by Nasdaq. The oral
+hearing occurred on April 5, 2001. The request stayed the delisting of Data
 Dimensions common stock pending the decision of the Nasdaq Listing
-Qualifications Panel. There is no assurance the decision by the Nasdaq Listing
-Qualifications Panel will be favorable to Data Dimensions. If delisted, Data
-Dimensions' stock could be traded on either the over-the-counter market or the
-Nasdaq SmallCap Market.
+Qualifications Panel.
+
+   On May 2, 2001, the Nasdaq Listing Qualifications Panel delivered its
+decision to Data Dimensions. The Nasdaq Listing Qualifications Panel determined
+to except Data Dimensions from the minimum bid price listing requirement and to
+continue the listing of Data Dimensions common stock on the Nasdaq National
+Market provided the merger with Lionbridge occurs on or before June 29, 2001
+and Data Dimensions remains in compliance with the other Nasdaq National Market
+listing standards.
+
+   On May 4, 2001, Data Dimensions also requested an exception to the
+$5,000,000 market value of public float requirement. On May 7, 2001, the Nasdaq
+Listing Qualifications Panel granted to Data Dimensions an exception to the
+market value of public float requirement and stayed the delisting of Data
+Dimensions common stock from the Nasdaq National Market provided the merger
+with Lionbridge occurs on or before June 29, 2001.
 
    Data Dimensions stockholders are urged to obtain current market quotations
 for Lionbridge common stock and Data Dimensions common stock prior to making
@@ -2144,12 +2173,12 @@ General
    This proxy statement/prospectus is being furnished to stockholders of Data
 Dimensions, Inc., a Delaware corporation, as part of the solicitation of
 proxies by the Data Dimensions board of directors for use at a special meeting
-of stockholders of Data Dimensions to be held on June  , 2001, at 9:00 a.m.
+of stockholders of Data Dimensions to be held on June 21, 2001, at 9:00 a.m.
 Pacific Daylight Savings Time, at Data Dimensions' executive offices at 3535
 Factoria Boulevard SE, Sterling Plaza, 3rd Floor, Bellevue, Washington, and at
 any adjournment or postponement of such meeting. This proxy statement/
 prospectus and the proxy card are first being mailed to stockholders of Data
-Dimensions on or about       , 2001.
+Dimensions on or about May 14, 2001.
 
 Matters to be Considered
 
@@ -2175,17 +2204,18 @@ Data Dimensions Board of Directors' Recommendation
 
    The Data Dimensions board of directors, after careful consideration, has
 approved the merger and the agreement and plan of reorganization and has
-determined that the merger and the agreement and plan of reorganization are
-fair to, and in the best interest of, Data Dimensions and its stockholders. The
-Data Dimensions board of directors recommends a vote FOR the approval and
-adoption of the merger and the agreement and plan of reorganization.
+determined that the terms of the merger and the agreement and plan of
+reorganization are fair to, and in the best interest of, Data Dimensions and
+its stockholders. The Data Dimensions board of directors recommends a vote FOR
+the approval and adoption of the merger and the agreement and plan of
+reorganization.
 
 Record Date and Voting
 
    Holders of record of shares of Data Dimensions common stock at the close of
-business on       , 2001, referred to in this proxy statement/prospectus as the
+business on May 7, 2001, referred to in this proxy statement/prospectus as the
 record date, are entitled to notice of and to vote at the Data Dimensions
-special meeting. On the record date, there were [13,560,972] outstanding shares
+special meeting. On the record date, there were 13,560,972 outstanding shares
 of Data Dimensions common stock, each of which will be entitled to one vote.
 The representation, in person or by properly executed proxy, of the holders of
 a majority of all the shares of common stock entitled to vote at the Data
@@ -2225,12 +2255,12 @@ reorganization. Accordingly, abstentions and broker non-votes will have the
 same effect as votes against the merger and the agreement and plan of
 reorganization.
 
-   As of March 8, 2001, the directors and executive officers and 10%
-stockholders of Data Dimensions and their affiliates who collectively
-beneficially own approximately 18.9% of the outstanding shares of Data
-Dimensions have already agreed under voting agreements to vote in favor of the
-approval and adoption of the merger and the agreement and plan of
-reorganization. For more information, see "The Voting Agreements" on page 52.
+   The directors and executive officers and 10% stockholders of Data Dimensions
+and their affiliates who collectively beneficially own approximately 18.2% of
+the capital stock of Data Dimensions as of May 7, 2001 have already agreed
+under voting agreements to vote in favor of the approval and adoption of the
+merger and the agreement and plan of reorganization. For more information, see
+"The Voting Agreements" on page 51.
 
 Voting and Revocation of Proxies
 
@@ -2317,7 +2347,7 @@ parties potentially interested in considering transactions involving Data
 Dimensions' business units.
 
    From mid October to early November, Updata Capital, with assistance from
-Data Dimensions, management, prepared memoranda describing each business unit
+Data Dimensions' management, prepared memoranda describing each business unit
 and developed a list of potential acquirers of each business unit and Data
 Dimensions as a whole. Shortly thereafter, Updata Capital began contacting
 potentially interested parties. Lionbridge was among the entities contacted by
@@ -2565,12 +2595,12 @@ following:
   .  Acquiring Data Dimensions will allow Lionbridge to increase its testing
      labs from five to a total of 10, with six labs in the United States and
      four labs outside of the United States, and thereby increase its ability
-     to rapidly and efficiently meet the needs of its global customers; and
+     to rapidly and efficiently meet the needs of its global customers;
 
   .  The combined businesses will bring Lionbridge additional geographic
      coverage, management depth, technical and project management resources
      to Lionbridge to address larger and more varied client projects, and
-     economies of scale.
+     economies of scale; and
 
   .  The combined businesses will enhance Lionbridge's technical testing
      staff by adding additional personnel with testing expertise and
@@ -2610,10 +2640,11 @@ Reasons for the Merger
 
    DATA DIMENSIONS' BOARD OF DIRECTORS HAS APPROVED THE MERGER AND THE
 AGREEMENT AND PLAN OF REORGANIZATION AND THE TRANSACTIONS CONTEMPLATED THEREBY
-AND BELIEVES THE TERMS OF THE MERGER ARE FAIR TO, AND IN THE BEST INTERESTS OF,
-DATA DIMENSIONS AND ITS STOCKHOLDERS. THE BOARD OF DIRECTORS OF DATA DIMENSIONS
-RECOMMENDS A VOTE FOR THE APPROVAL AND ADOPTION OF THE MERGER AND THE AGREEMENT
-AND PLAN OF REORGANIZATION.
+AND BELIEVES THE TERMS OF THE MERGER AND THE AGREEMENT AND PLAN OF
+REORGANIZATION ARE FAIR TO, AND IN THE BEST INTERESTS OF, DATA DIMENSIONS AND
+ITS STOCKHOLDERS. THE BOARD OF DIRECTORS OF DATA DIMENSIONS RECOMMENDS A VOTE
+FOR THE APPROVAL AND ADOPTION OF THE MERGER AND THE AGREEMENT AND PLAN OF
+REORGANIZATION.
 
    Data Dimensions' board of directors believes that the merger with Lionbridge
 will create a combined company with greater financial resources and business
@@ -2646,8 +2677,8 @@ advisors the following additional material factors in reaching its conclusion:
      to receive a premium over the market price for their Data Dimensions
      common stock immediately prior to the merger. However, this premium is
      subject to fluctuations in the price of Lionbridge common stock. For
-     more information, see "Comparative Stock Prices and Dividend Policy" on
-     page 23;
+     more information, see "Comparative Market Value Information" on page 23
+     and "Comparative Stock Prices and Dividend Policy" on page 24;
 
   .  The expectation that the merger will qualify as a tax-free
      reorganization under federal tax law;
@@ -2657,8 +2688,11 @@ advisors the following additional material factors in reaching its conclusion:
      2001, stating that, as of that date, the conversion ratio is fair to
      Data Dimensions stockholders;
 
-  .  Increased liquidity for Data Dimensions stockholders through continued
-     listing of Lionbridge common stock on the Nasdaq National Market; and
+  .  Continued liquidity for Data Dimensions stockholders as Lionbridge
+     common stock is listed on the Nasdaq National Market. For more
+     information, see "Risk Factors--Lionbridge cannot assure you that it
+     will meet new or existing Nasdaq National Market listing requirements at
+     and after the closing of the merger" on page 11; and
 
   .  The merger will provide Data Dimensions stockholders with the
      opportunity to share in the combined company's long-term growth.
@@ -2700,14 +2734,14 @@ potentially negative factors:
      circumstances and be subject to dilution relating to the stock option
      granted to Lionbridge. For more information, see "The Agreement and Plan
      of Reorganization--Termination; Fees and Expenses" and "The Stock Option
-     Agreement" on pages 50 and 52, respectively, of this proxy
+     Agreement" on pages 49 and 51, respectively, of this proxy
      statement/prospectus;
 
   .  Both companies have had negative earnings per share and negative cash
      flow, and the combined company would have significant liquidity
      requirements. For more information, see "Description of Lionbridge--
      Management's Discussion and Analysis of Financial Condition and Results
-     of Operations" on page 61 of this proxy statement/prospectus;
+     of Operations" on page 60 of this proxy statement/prospectus;
 
   .  The risk that the combined company might not realize the anticipated
      cost savings and revenue synergies; and
@@ -2717,11 +2751,13 @@ potentially negative factors:
 
    In light of the extensive variety of factors, both positive and negative,
 considered by Data Dimensions' board of directors, the board did not find it
-practical to quantify or otherwise assign relative weight to the specific
-factors considered in making its determination. However, after taking into
-account all of the factors set forth above, Data Dimensions' board of directors
-agreed that the merger is fair to, and in the best interests of, Data
-Dimensions and its stockholders.
+practical to quantify or otherwise assign relative weight to the
+
+specific factors considered in making its determination. However, after taking
+into account all of the factors set forth above, Data Dimensions' board of
+directors agreed that the terms of the merger and the agreement and plan of
+reorganization are fair to, and in the best interests of, Data Dimensions and
+its stockholders.
 
 Opinion of Data Dimensions' Financial Advisor
 
@@ -2790,21 +2826,20 @@ be read carefully and in its entirety by Data Dimensions stockholders.
 
    Updata Capital relied, without independent verification, on the accuracy and
 completeness of all the financial and other information, including without
-limitation the representations and warranties contained in the
-
-agreement and plan of reorganization, that was publicly available or furnished
-to it by Data Dimensions or Lionbridge. With respect to financial projections,
-Updata Capital assumed that they were reasonably prepared and reflected the
-best available estimates and good faith judgments of company management as to
-the future performance of Data Dimensions and Lionbridge. Analyses based upon
-projections of future results are not necessarily indicative of actual future
-results, which may be significantly more or less favorable than suggested by
-these analyses. Because these analyses are inherently subject to uncertainty,
-being based upon numerous factors or events beyond the control of the parties
-or their respective advisors, none of Data Dimensions, Updata Capital or any
-other person assumes responsibility if future results are materially different
-from those projected. Updata Capital has neither made nor obtained an
-independent appraisal or valuation of any of Data Dimensions' assets.
+limitation the representations and warranties contained in the agreement and
+plan of reorganization, that was publicly available or furnished to it by Data
+Dimensions or Lionbridge. With respect to financial projections, Updata Capital
+assumed that they were reasonably prepared and reflected the best available
+estimates and good faith judgments of company management as to the future
+performance of Data Dimensions and Lionbridge. Analyses based upon projections
+of future results are not necessarily indicative of actual future results,
+which may be significantly more or less favorable than suggested by these
+analyses. Because these analyses are inherently subject to uncertainty, being
+based upon numerous factors or events beyond the control of the parties or
+their respective advisors, none of Data Dimensions, Updata Capital or any other
+person assumes responsibility if future results are materially different from
+those projected. Updata Capital has neither made nor obtained an independent
+appraisal or valuation of any of Data Dimensions' assets.
 
    The opinion provided by Updata Capital speaks only as of March 8, 2001 and
 does not constitute a recommendation to any of Data Dimensions' stockholders,
@@ -2862,19 +2897,19 @@ Data Dimensions businesses.
 
    The publicly traded information technology services companies selected as
 comparables to Data Dimensions on a consolidated basis consisted of: Cambridge
-Technology Partners, Inc.; Covansys; Computer Horizons Corp.; Computer Task
-Group, Inc.; Keane, Inc.; Information Analysis Inc.; iGATE Capital Corp.;
+Technology Partners, Inc.; Covansys; Computer
 
-Peritus Software Service, Inc.; Syntel, Inc.; and TSR, Inc. The publicly traded
-companies selected as comparables for Data Dimensions' Testing and Quality
-Assurance business unit consisted of: Compuware Corp.; Keynote Systems, Inc.;
-Lionbridge Technologies, Inc.; Mercury Interactive Corp.; Rational Software
-Corp.; Segue Software, Inc.; and Empirix. The publicly traded companies
-selected as comparables for Data Dimensions' Applications Development and
-Maintenance business unit consisted of: Affiliated Computer Systems, Inc.;
-Cognizant Technology Solutions Corp.; Covansys; Computer Horizons Corp.;
-Computer Task Group, Inc.; iGATE Capital Corp.; IMRglobal Corp.; Keane, Inc.;
-and Syntel, Inc.
+Horizons Corp.; Computer Task Group, Inc.; Keane, Inc.; Information Analysis
+Inc.; iGATE Capital Corp.; Peritus Software Service, Inc.; Syntel, Inc.; and
+TSR, Inc. The publicly traded companies selected as comparables for Data
+Dimensions' Testing and Quality Assurance business unit consisted of: Compuware
+Corp.; Keynote Systems, Inc.; Lionbridge Technologies, Inc.; Mercury
+Interactive Corp.; Rational Software Corp.; Segue Software, Inc.; and Empirix.
+The publicly traded companies selected as comparables for Data Dimensions'
+Applications Development and Maintenance business unit consisted of: Affiliated
+Computer Systems, Inc.; Cognizant Technology Solutions Corp.; Covansys;
+Computer Horizons Corp.; Computer Task Group, Inc.; iGATE Capital Corp.;
+IMRglobal Corp.; Keane, Inc.; and Syntel, Inc.
 
    Updata Capital determined discounted mean and median revenue and EBIT
 trading multiples for these companies, excluding outliers, not meaningful and
@@ -3130,20 +3165,17 @@ directors may be more likely to vote to approve and to recommend the merger and
 agreement and plan of reorganization than if they did not hold these interests.
 These interests include:
 
-  .  Howard H. Hayakawa, an executive officer of Data Dimensions, will become
-     an executive of the combined company after the merger.
+  .  Each of Peter A. Allen, Laurence C. Leslie, Howard H. Hayakawa and John
+     W. Cramer, executive officers of Data Dimensions, is entitled to receive
+     benefits under severance agreements or Data Dimensions' severance
+     policy, as the case may be, in the event the merger is approved and
+     completed. The benefits under the severance arrangements include:
 
-  .  Each of Peter A. Allen, Laurence C. Leslie and John W. Cramer, executive
-     officers of Data Dimensions, is entitled to receive benefits under
-     severance agreements or Data Dimensions' severance policy, as the case
-     may be, in the event the merger is approved and completed. The benefits
-     under the severance arrangements include:
-
-       (i) Cash payments of $350,000 to Mr. Allen and $195,000, in the
-    aggregate, to the other executive officers.
+       (i) Cash payments of $350,000 to Mr. Allen and $282,500, in the
+    aggregate, to Mr. Leslie, Mr. Hayakawa and Mr. Cramer;
 
        (ii) Continuation of health benefits of twelve months for Mr. Allen
-    and six months for Mr. Leslie and Mr. Cramer; and
+    and six months for Mr. Leslie, Mr. Hayakawa and Mr. Cramer; and
 
        (iii) All accrued and unused vacation will be paid to the executive
     officers.
@@ -3160,9 +3192,13 @@ Nasdaq National Market Quotation of Lionbridge Common Stock
 
    The approval for quotation on the Nasdaq National Market of the shares of
 Lionbridge common stock to be issued in the merger is a condition to the
-consummation of the merger.
+consummation of the merger. However, there can be no assurance that Lionbridge
+common stock will continue to be listed on the Nasdaq National Market after the
+closing of the merger. For more information, see "Risk Factors--Lionbridge
+cannot assure you that it will meet new or existing Nasdaq National Market
+listing requirements at and after the closing of the merger" on page 11.
 
-Resale of Lionbridge Common Stock Issued in connection with the Merger
+Resale of Lionbridge Common Stock Issued in Connection with the Merger
 
    The shares of Lionbridge common stock to be issued in connection with the
 merger will be registered under the Securities Act and will be freely
@@ -3201,14 +3237,18 @@ Forward-looking statements include the information concerning possible or
 assumed future results of operations of Lionbridge set forth:
 
   .  under "Summary," "Selected Unaudited Pro Forma Combined Condensed
-     Financial Data of Lionbridge and Data Dimensions," "Risk Factors" "--
+     Financial Data of Lionbridge and Data Dimensions," "Risk Factors"
+     (including, without limitation, Lionbridge's expectation as to its
+     compliance with Nasdaq National Market listing standards), "The Merger--
      Background of the Merger," "--Lionbridge's Reasons for the Merger," "--
      Recommendation of the Board of Directors of Data Dimensions; Data
      Dimensions' Reasons for the Merger," "--Opinion of Data Dimensions'
      Financial Advisor," "Business" of Lionbridge and Data Dimensions,
      "Management's Discussion and Analysis of Financial Condition and Results
-     of Operations" of Lionbridge and Data Dimensions and "Unaudited Pro
-     Forma Combined Condensed Financial Statements of Lionbridge and Data
+     of Operations" of Lionbridge (including, without limitation,
+     Lionbridge's expectation as to its cash needs and the availability of
+     additional financing) and Data Dimensions and "Unaudited Pro Forma
+     Combined Condensed Financial Statements of Lionbridge and Data
      Dimensions."
 
    Forward-looking statements are not guarantees of performance. They involve
@@ -3239,8 +3279,9 @@ statements:
      providing such services;
 
   .  changes in United States and global financial and equity markets,
-     including significant interest rate fluctuations, which may increase the
-     cost of external financing for Lionbridge's operations, and currency
+     including significant interest rate fluctuations, which may adversely
+     affect Lionbridge's ability to raise additional capital and/or increase
+     the cost of external financing for Lionbridge's operations, and currency
      fluctuations, which may negatively impact Lionbridge's reportable
      income;
 
@@ -3310,12 +3351,12 @@ of Lionbridge common stock and any cash instead of fractional shares of
 Lionbridge common stock.
 
    Based on the conversion ratio of 0.190884 and the 13,560,972 shares of Data
-Dimensions common stock issued and outstanding as of March 8, 2001,
-approximately 2,588,570 shares of Lionbridge common stock will be issued to the
-holders of Data Dimensions common stock in the merger. The actual number of
-shares of Lionbridge common stock issued may differ because the number of
-shares of Data Dimensions common stock outstanding at the effective time of the
-merger may differ.
+Dimensions common stock issued and outstanding as of May 7, 2001, approximately
+2,588,570 shares of Lionbridge common stock will be issued to the holders of
+Data Dimensions common stock in the merger. The actual number of shares of
+Lionbridge common stock issued may differ because the number of shares of Data
+Dimensions common stock outstanding at the effective time of the merger may
+differ.
 
    Treatment of Data Dimensions Stock Options and Warrants. Data Dimensions'
 stock option plan provides that each issued and outstanding but unvested option
@@ -3334,16 +3375,16 @@ Lionbridge common stock subject to the assumed Data Dimensions stock options
 and warrants will equal the number of shares of the Data Dimensions common
 stock issuable under the original stock options or warrants multiplied by the
 conversion ratio. Based on the conversion ratio of 0.190884 and options and
-warrants to purchase 2,298,343 shares of Data Dimensions common stock
-outstanding as of March 8, 2001, the Data Dimensions options and warrants
-assumed by Lionbridge will represent the right, in the aggregate, to purchase
-up to approximately 438,717 shares of Lionbridge common stock. Any fractional
-shares of Lionbridge common stock resulting from this assumption will be
-rounded down to the nearest share. The exercise price per share of Lionbridge
-common stock under the assumed Data Dimensions stock options and warrants will
-equal the exercise price per share of the Data Dimensions common stock under
-the original stock options or warrants divided by the conversion ratio. The
-exercise prices will be rounded up to the next highest whole cent.
+warrants to purchase 2,118,217 shares of Data Dimensions common stock
+outstanding as of May 7, 2001, the Data Dimensions options and warrants assumed
+by Lionbridge will represent the right, in the aggregate, to purchase up to
+approximately 404,334 shares of Lionbridge common stock. Any fractional shares
+of Lionbridge common stock resulting from this assumption will be rounded down
+to the nearest share. The exercise price per share of Lionbridge common stock
+under the assumed Data Dimensions stock options and warrants will equal the
+exercise price per share of the Data Dimensions common stock under the original
+stock options or warrants divided by the conversion ratio. The exercise prices
+will be rounded up to the next highest whole cent.
 
    Fractional Shares. Lionbridge will not issue any fractional shares of
 Lionbridge common stock in the merger. Instead, each holder of shares of Data
@@ -3380,7 +3421,7 @@ respect to the shares of Data Dimensions capital stock except as otherwise
 provided for in the agreement and plan of reorganization or by applicable law.
 
    Dividends and Distributions. No dividends or other distributions declared or
-made on or after the closing date of the merger with respect to shares of
+made on or after the effective time of the merger with respect to shares of
 Lionbridge common stock will be paid to the holder of any unsurrendered Data
 Dimensions certificate with respect to the shares of Lionbridge common stock
 that the holder is entitled to receive until the holder surrenders the Data
@@ -3825,17 +3866,17 @@ form of the voting agreement.
    In connection with the execution of the agreement and plan of
 reorganization, Lionbridge entered into voting agreements with all of the
 directors, executive officers, affiliates and 10% stockholders of Data
-Dimensions. These stockholders beneficially own 2,571,020 shares of Data
-Dimensions common stock representing approximately 18.9% of the outstanding
-capital stock of Data Dimensions as of March 8, 2001. Each signing stockholder
-has agreed to vote all shares of Data Dimensions common stock held by the
-stockholder in favor of approval and adoption of the merger and the agreement
-and plan of reorganization and has agreed to grant Lionbridge an irrevocable
-proxy to vote the stockholder's shares in favor of approval and adoption of
-the merger and the agreement and plan of reorganization. The voting agreements
-further require that each signing stockholder will not, nor permit any entity
-under the stockholder's control to, deposit any of the stockholder's shares in
-a voting trust or subject any of the stockholder's shares to any arrangement
+Dimensions. These stockholders beneficially own 2,568,520 shares of Data
+Dimensions common stock representing approximately 18.2% of the capital stock
+of Data Dimensions as of May 7, 2001. Each signing stockholder has agreed to
+vote all shares of Data Dimensions common stock held by the stockholder in
+favor of approval and adoption of the merger and the agreement and plan of
+reorganization and has agreed to grant Lionbridge an irrevocable proxy to vote
+the stockholder's shares in favor of approval and adoption of the merger and
+the agreement and plan of reorganization. The voting agreements further
+require that each signing stockholder will not, nor permit any entity under
+the stockholder's control to, deposit any of the stockholder's shares in a
+voting trust or subject any of the stockholder's shares to any arrangement
 with respect to the voting of the shares inconsistent with the voting
 agreement. The signing stockholders also have agreed not to transfer any of
 their shares, or make any offer or agreement relating to any transfer of the
@@ -3984,12 +4025,12 @@ Recent Developments
 
    In January 2001, Lionbridge acquired Quality Group Labs, Inc., a provider of
 testing services based in Massachusetts, for total initial consideration of
-approximately $762,000, comprised of $250,000 of cash and 163,874 shares of
-Lionbridge common stock valued at $512,000. The transaction will be accounted
-for using the purchase method of accounting. Lionbridge has the right to
-repurchase up to 89,386 shares of the common stock issued as part of the
-acquisition at a price of $0.01 per share, dependent on future operating
-performance of Quality Group Labs, Inc. through December 31, 2001.
+approximately $483,000, comprised of $250,000 in cash and 74,488 shares of
+Lionbridge common stock valued at $233,000. The transaction will be accounted
+for using the purchase method of accounting. Lionbridge may be required to
+issue up to 89,386 additional shares of common stock dependent on future
+operating performance of the former Quality Group Labs, Inc. through December
+31, 2001.
 
 Lionbridge Services
 
@@ -4064,7 +4105,7 @@ following linguistic and technical implementation services:
      standard, which is a global standard for representing dozens of
      languages.
 
-  .  Multilingual Technical Publishing  Lionbridge localizes user manuals,
+  .  Multilingual Technical Publishing.  Lionbridge localizes user manuals,
      marketing and training materials and other product support information
      using a variety of desktop publishing and graphics software. Using its
      proprietary workflow technology included in the Lionbridge Globalization
@@ -4202,7 +4243,7 @@ $1,000,000 in services from it in the year ended December 31, 2000:
       Cisco Systems             Intel                             Parametric Technology
       Cognos                    Microsoft                         Rational Software
       Hewlett Packard           Nortel Networks                   SAP
-      Hyperion                  Novell                             Schneider Automation
+      Hyperion                  Novell                            Schneider Automation
       IBM
 
    In 2000, Lionbridge's largest client accounted for approximately 9% of total
@@ -4344,18 +4385,18 @@ risks and uncertainties. Lionbridge makes these forward-looking statements
 under the provision of the "Safe Harbor" section of the Private Securities
 Litigation Reform Act of 1995. Any forward-looking statements should be
 considered in light of the factors described in this proxy
-statement/prospectus. For more information, see "Risk Factors." Actual results
-may vary materially from those projected, anticipated or indicated in any
-forward-looking statements. In this Management's Discussion and Analysis of
-Financial Condition and Results of Operations, the words "anticipates,"
-"believes," "expects," "intends," "future," "could," and similar words or
-expressions (as well as other words or expressions referencing future events,
-conditions, or circumstances) identify forward-looking statements. The
+statement/prospectus. For more information, see "Risk Factors" beginning on
+page 9. Actual results may vary materially from those projected, anticipated or
+indicated in any forward-looking statements. In this Management's Discussion
+and Analysis of Financial Condition and Results of Operations, the words
+"anticipates," "believes," "expects," "intends," "future," "could," and similar
+words or expressions (as well as other words or expressions referencing future
+events, conditions, or circumstances) identify forward-looking statements. The
 following discussion and analysis should be read in conjunction with "Selected
-Consolidated Financial Data of Lionbridge and Data Dimensions" and the
-consolidated historical financial statements and related notes thereto, of
-Lionbridge presented in this proxy statement/prospectus. For more information,
-see "Where You Can Find More Information" on page 105.
+Consolidated Financial Data of Lionbridge" on page 18 and the consolidated
+historical financial statements and related notes thereto, of Lionbridge
+presented in this proxy statement/prospectus. For more information, see "Where
+You Can Find More Information" on page 105.
 
 Overview
 
@@ -4962,10 +5003,10 @@ and 2000.
    As of December 31, 2000, Lionbridge had $10.3 million outstanding under two
 commercial credit facilities with a bank that allow Lionbridge to borrow up to
 $13.0 million, expiring in January and February 2001. Both credit facilities
-were renewed in January 2001 with a maturity date of April 20, 2001. The bank
-has indicated in a letter to Lionbridge its intention to renew the credit
-facilities through January 2002. The facilities require Lionbridge to maintain
-certain financial covenants and restrict the payment of dividends. The
+were subsequently renewed with maturity dates of April 20, 2001 and May 31,
+2001. The bank has indicated in a letter to Lionbridge its intention to renew
+the credit facilities through May 2002. The facilities require Lionbridge to
+maintain certain financial covenants and restrict the payment of dividends. The
 facilities bear interest at rates ranging from prime plus 1.0% to prime plus
 2.00% (9.5% to 10.5% at December 31, 2000) and are collateralized by worldwide
 accounts receivable and work in process.
@@ -5109,52 +5150,54 @@ Lionbridge Technologies, Inc., 950 Winter Street, Waltham, Massachusetts 02451.
                                                    Amount and      Percent of
                                                     Nature of        Common
                                                    Beneficial        Stock
-            Name of Beneficial Owner             Ownership(1)(2) Outstanding(3)
-            ------------------------             --------------- --------------
+           Name of Beneficial Owner              Ownership(1)(2) Outstanding(3)
+           ------------------------              --------------- --------------
 
-Rory J. Cowan (4)...............................    2,268,916          8.1%
+Rory J. Cowan(4)...............................     2,268,916          8.1%
 
-Marcia J. Hooper(5).............................    4,364,004         15.6%
+Marcia J. Hooper(5)............................     4,364,004         15.6%
 c/o Advent International Corporation
 75 State Street
 Boston, Massachusetts 02109
 
-Guy L. de Chazal(6).............................    3,163,755         11.3%
+Guy L. de Chazal(6)............................     3,163,755         11.3%
 c/o Morgan Stanley Venture Capital
 1221 Avenue of the Americas, 33rd Floor
 New York, New York 10020
 
-Paul Kavanagh(7)................................       76,167            *
+Paul Kavanagh(7)...............................        76,167            *
 "Arcachon"
 Strathmore Road, Killiney, Co. Dublin, Ireland
 
-Claude P. Sheer(8)..............................        7,166            *
+Claude P. Sheer(8).............................         7,166            *
 240 Main Street
 Boxford, Massachusetts 01921
 
-Roger O. Jeanty (9).............................    1,630,819          5.8%
+Roger O. Jeanty(9).............................     1,630,819          5.8%
 
-Myriam Martin-Kail (10).........................      321,386          1.1%
+Myriam Martin-Kail(10).........................       321,386          1.1%
 
-Stephen J. Lifshatz (11)........................      212,000             *
+Stephen J. Lifshatz(11)........................       212,000            *
 
-Peter H. Wright (12)............................      125,117             *
+Peter H. Wright(12)............................       125,117            *
 
-Morgan Stanley Dean Witter-sponsored limited        3,424,568         12.2%
-partnerships(13)................................
+James Bampos(13)...............................             0            *
+
+Morgan Stanley-sponsored limited                    3,424,568         12.2%
+partnerships(14)...............................
 1221 Avenue of the Americas, 33rd Floor
 New York, New York 10020
 
-Advent-sponsored limited partnerships(14).......    4,364,004         15.6%
+Advent-sponsored limited partnerships(15)......     4,364,004         15.6%
 75 State Street
 Boston, Massachusetts 02109
 
-Cornerstone Equity Investors IV, L.P............    2,399,853          8.6%
+Cornerstone Equity Investors IV, L.P...........     2,399,853          8.6%
 717 Fifth Avenue, Suite 1100
 New York, New York 10022
 
 All executive officers and directors as a group    12,169,330         42.5%
-(9 persons)(15)....................................
+(10 persons)(16)...............................
 
 - --------
  *  Less than 1% of the outstanding shares of common stock.
@@ -5212,7 +5255,11 @@ All executive officers and directors as a group    12,169,330         42.5%
      pursuant to options exercisable within 60 days of March 31, 2001.
 (12) Includes 36,665 shares deemed to be beneficially owned by Mr. Wright
      pursuant to options exercisable within 60 days of March 31, 2001.
-(13) Includes 2,744,105 shares held by Morgan Stanley Venture Capital Fund II
+
+(13) Mr. Bampos became a named executive officer of Lionbridge on April 26,
+     2001.
+
+(14) Includes 2,744,105 shares held by Morgan Stanley Venture Capital Fund II
      Annex, L.P., and 375,235 shares held by Morgan Stanley Venture Investors
      Annex, L.P. The general partner of each of the Morgan Stanley-sponsored
      limited partnerships is Morgan Stanley Venture Partners II, L.P. Morgan
@@ -5223,7 +5270,8 @@ All executive officers and directors as a group    12,169,330         42.5%
      officer of Morgan Stanley Venture Capital II, Inc. is deemed to have or
      share voting or investment power. In addition, Morgan Stanley Venture
      Capital II, Inc., holds 305,228 shares directly.
-(14) Includes 357,849 shares held by Advent Euro--Italian Direct Investment
+
+(15) Includes 357,849 shares held by Advent Euro--Italian Direct Investment
      Program Limited Partnership; 96,191 shares held by Advent Partners Limited
      Partnership; 2,613,975 shares held by Global Private Equity II Limited
      Partnership; 549,683 shares held by Global Private Equity II--Europe
@@ -5237,7 +5285,8 @@ All executive officers and directors as a group    12,169,330         42.5%
     sponsored limited partnerships; individually, no stockholder, director or
     officer of Advent International Corporation is deemed to have or share
     this voting or investment power.
-(15) Includes 621,757 shares of common stock which the directors and executive
+
+(16) Includes 621,757 shares of common stock which the directors and executive
      officers as a group have the right to acquire pursuant to options
      exercisable within 60 days of March 31, 2001. Includes 4,364,004 shares
      held by the Advent-sponsored limited partnerships that Ms. Hooper may be
@@ -5250,16 +5299,19 @@ MANAGEMENT
  Directors and Executive Officers
 
    The following table presents information about each of Lionbridge's
-executive officers and directors as of March 31, 2001.
+executive officers and directors as of April 30, 2001.
 
-Name                     Age                               Position
-- ----                     ---                               --------
+Name                     Age                           Position
+- ----                     ---                           --------
 
-Rory J. Cowan...........  48 Chairman of the Board, Chief Executive Officer and Class III Director
-Roger O. Jeanty.........  50 President and Class I Director
+Rory J. Cowan...........  48 Chairman of the Board, Chief Executive Officer, President
+                             and Class III Director
+Roger O. Jeanty.........  50 Class I Director
 Stephen J. Lifshatz.....  42 Senior Vice President, Chief Financial Officer and Treasurer
 Myriam Martin-Kail......  47 Senior Vice President, Operations
 Peter H. Wright.........  39 Senior Vice President, Sales
+James Bampos............  39 Senior Vice President, Worldwide Testing Services
+                             and General Manager of VeriTest
 Guy L. de Chazal........  53 Class II Director
 Marcia J. Hooper........  46 Class II Director
 Paul Kavanagh...........  59 Class III Director
@@ -5271,7 +5323,8 @@ and services provider, from May 1995 to June 1996. Mr. Cowan was also the
 Chief Executive Officer of Interleaf, Inc. from October 1996 to January 1997.
 He was an Executive Vice President of R.R. Donnelley & Sons, a provider of
 commercial print and print-related services, from January 1991 to June 1996.
-Mr. Cowan also serves as a director of NewsEdge Corporation.
+Mr. Cowan also serves as a director of both NewsEdge Corporation and
+FairMarket, Inc.
 
    Roger O. Jeanty joined Lionbridge as a director and President in May 2000
 upon the merger of INTL.com, Inc. into Lionbridge. Mr. Jeanty was a founder of
@@ -5280,7 +5333,7 @@ predecessors since 1984. He served as a director of INT'L.com from 1998 until
 May 2000. Prior thereto, Mr. Jeanty held a number of management positions in
 international and technical areas, including Software Localization manager at
 Data General and Executive Vice President of the International Software
-Center.
+Center. Mr. Jeanty resigned as President of Lionbridge in April 2001.
 
    Stephen J. Lifshatz joined Lionbridge in January 1997. Mr. Lifshatz served
 as the Chief Financial Officer of The Dodge Group from May 1996 to January
@@ -5297,11 +5350,19 @@ from April 1995 to December 1996 and Operations Manager, Dublin from September
 previously the Sales Director at Berlitz International, Inc. for their
 localization business from August 1991 to November 1996.
 
+   James Bampos joined Lionbridge in October 2000. Mr. Bampos previously held
+a variety of positions in the quality assurance and software testing field at
+Vanteon Corporation and its predecessor, Turning Point
+
+Software, from 1995 through October 2000, and served as Vice President of
+Software Quality Assurance at Vanteon from 1998 to October 2000.
+
    Guy L. de Chazal has been a director of Lionbridge since February 1998. Mr.
-de Chazal has been with Morgan Stanley since 1984, most recently as a managing
-director of Morgan Stanley & Co. Incorporated and Chairman and Chief Executive
-Officer of Morgan Stanley Venture Capital II, Inc. Mr. de Chazal is a director
-of Weblink Wireless, Inc. and several private companies.
+de Chazal has been with Morgan Stanley since 1986, most recently as a managing
+director of Morgan Stanley & Co. Incorporated and Chairman, Chief Executive
+Officer and a general partner of Morgan Stanley Partners. Mr. de Chazal is also
+a director of Weblink Wireless, Inc., Frontstep, Inc. and several private
+companies.
 
    Marcia J. Hooper has been a director of Lionbridge since December 1996.
 Since May 1996, Ms. Hooper has been a partner with the Information Technology
@@ -5390,7 +5451,7 @@ Rory J. Cowan .......... 2000 $259,875 $125,000     --         100,000          
  Chairman and Chief      1999 $259,875 $ 65,000     --          66,667          --
  Executive Officer       1998 $249,144 $175,725     --             --           --
 
-Roger O. Jeanty(1)...... 2000 $121,858 $100,000     --               0          --
+Roger O. Jeanty(1)...... 2000 $121,858 $100,000     --             --           --
  President
 
 Stephen J. Lifshatz .... 2000 $205,000 $102,500     --          50,000          --
@@ -5406,14 +5467,27 @@ Peter H. Wright ........ 2000 $157,000 $ 90,000     --          30,000      $46,
  Senior Vice President,  1999 $151,250 $ 37,750     --          50,000          --
  Sales                   1998 $137,863 $ 47,410     --          33,334          --
 
+James Bampos(4)......... 2000 $ 42,500 $ 10,000     --          40,000          --
+ Senior Vice President,
+ Worldwide Testing
+ Services and General
+ Manager of VeriTest
+
 - --------
+
 (1) Mr. Jeanty joined Lionbridge as President on May 22, 2000. Salary reflected
     in the Compensation Table reflects amounts paid to Mr. Jeanty during the
-    period May 22, 2000 through December 31, 2000.
+    period May 22, 2000 through December 31, 2000. In April 2001, Mr. Jeanty
+    resigned as President of Lionbridge and Mr. Cowan was elected President by
+    Lionbridge's board of directors.
 (2) Represents customary relocation and allowance payments in connection with
     Ms. Martin-Kail's relocation to the United States from France.
 (3) Represents customary relocation and allowance payments in connection with
     Mr. Wright's relocation to Ireland from the United States.
+
+(4) Mr. Bampos joined Lionbridge on October 2, 2000. Salary reflected in the
+    Compensation Table reflects amounts paid to Mr. Bampos during the period
+    October 2, 2000 through December 31, 2000.
 
 Option/SAR Grants In Last Fiscal Year
 
@@ -5432,25 +5506,31 @@ Lionbridge did not grant any stock appreciation rights in 2000.
 Name                      Granted    Fiscal Year  Per Share(1)    Date         5%           10%
 - ----                     ---------- ------------- ------------ ---------- ------------ --------------
 
-Rory J. Cowan...........  100,000       4.87%       $17.9375   2/24/2010  $    948,700 $    2,679,396
+Rory J. Cowan...........  100,000       4.87%       $17.9375    2/24/2010 $    948,700 $    2,679,396
  Chairman and Chief
  Executive Officer
 
-Roger O. Jeanty.........        0          0%            N/A         N/A           N/A            N/A
+Roger O. Jeanty.........        0          0%            N/A          N/A          N/A            N/A
  President
 
-Stephen J. Lifshatz.....   40,000       1.95%       $17.9375   2/24/2010  $    451,232 $    1,107,346
- Senior Vice President,    10,000       0.97%       $ 8.0000   5/31/2010  $     50,312 $      127,499
+Stephen J. Lifshatz.....   40,000       1.95%       $17.9375    2/24/2010 $    451,232 $    1,107,346
+ Senior Vice President,    10,000       0.48%       $ 8.0000    5/31/2010 $     50,312 $      127,499
  Chief Financial Officer
  and Treasurer
 
-Myriam Martin-Kail......   20,000       0.97%       $17.9375   2/24/2010  $    225,616 $      571,755
- Senior Vice President,    10,000       0.48%       $ 8.0000   5/31/2010  $     50,312 $      127,499
+Myriam Martin-Kail......   20,000       0.97%       $17.9375    2/24/2010 $    225,616 $      571,755
+ Senior Vice President,    10,000       0.48%       $ 8.0000    5/31/2010 $     50,312 $      127,499
  Operations
 
-Peter H. Wright.........   20,000       0.97%       $17.9375   2/24/2010  $    225,616 $      571,755
- Senior Vice President,    10,000       0.48%       $ 8.0000   5/31/2010  $     50,312 $      127,499
+Peter H. Wright.........   20,000       0.97%       $17.9375    2/24/2010 $    225,616 $      571,755
+ Senior Vice President,    10,000       0.48%       $ 8.0000    5/31/2010 $     50,312 $      127,499
  Sales
+
+James Bampos............   40,000       1.95%       $ 7.2500   10/16/2010 $    182,379 $      462,185
+ Senior Vice President,
+ Worldwide Testing
+ Services and General
+ Manager of VeriTest
 
 - --------
 (1) The exercise price equals the fair market value of the common stock as of
@@ -5492,10 +5572,11 @@ Name                     on Exercise (#)    (1)      Exercisable      Unexercisa
 - ----                     --------------- ---------- --------------   ---------------   ----------- -------------
 
 Rory J. Cowan...........     375,380     $2,988,024          187,690           166,667  $643,542     $129,584
-Roger O. Jeanty.........           0              0          110,982            25,224  $      0     $      0
+Roger O. Jeanty.........           0     $        0          110,982            25,224  $      0     $      0
 Stephen J. Lifshatz.....      36,969     $  284,898           36,965           146,138  $126,611     $261,513
 Myriam Martin-Kail......      50,000     $  446,406          245,898           127,988  $844,936     $268,821
 Peter H. Wright.........      24,646     $  194,387           16,313           108,815  $ 55,553     $202,044
+James Bampos............           0     $        0                0            40,000  $      0     $      0
 
 - --------
 (1) Amounts calculated by subtracting the aggregate exercise price of the
@@ -5539,6 +5620,7 @@ cause, he is entitled to receive twelve monthly severance payments, each in an
 amount equal to his then current monthly base compensation (i.e., 1/12th of Mr.
 Jeanty's base salary). If Mr. Jeanty is terminated for cause, he will not be
 entitled to any severance payments or other benefits except as required by law.
+Mr. Jeanty resigned as President of Lionbridge in April 2001.
 
    Mr. Jeanty entered into a non-competition agreement with Lionbridge on May
 20, 2000. The agreement provides that Mr. Jeanty will not, during the course of
@@ -5562,7 +5644,7 @@ responsibilities, 50% of any unvested options then held by Mr. Lifshatz shall
 vest and become immediately exercisable. If Lionbridge terminates Mr.
 Lifshatz's employment other than for cause, he is entitled to receive six
 monthly severance payments, each in an amount equal to his then current monthly
-base compensation (i.e., 1/2th of Mr. Lifshatz's base salary). If Mr. Lifshatz
+base compensation (i.e., 1/12th of Mr. Lifshatz's base salary). If Mr. Lifshatz
 is terminated for cause, he will not be entitled to any severance payments or
 other benefits except as required by law.
 
@@ -5581,8 +5663,8 @@ agreement.
 February 24, 1997, effective as of January 1, 1997. Under the terms of her
 employment agreement, if Lionbridge terminates Ms. Martin-Kail's employment,
 she is entitled to receive twelve monthly severance payments, each in an amount
-equal to her then current monthly base compensation (i.e., 1/2th of Ms. Martin-
-Kail's base salary).
+equal to her then current monthly base compensation (i.e., 1/12th of Ms.
+Martin-Kail's base salary).
 
    Ms. Martin-Kail entered into a non-competition agreement with Lionbridge on
 February 24, 1997. The agreement provides that Ms. Martin-Kail will not, during
@@ -5601,11 +5683,11 @@ the terms of his employment agreement, if Lionbridge terminates Mr. Wright's
 employment other than for cause when his principal business location is outside
 of the United States, he is entitled to receive 12 monthly severance payments,
 each in an amount equal to his then current monthly base compensation (i.e.,
-1/2th of Mr. Wright's base salary). If Lionbridge terminates Mr. Wright's
+1/12th of Mr. Wright's base salary). If Lionbridge terminates Mr. Wright's
 employment other than for cause when his principal business location is within
 the United States he is entitled to receive six monthly severance payments,
 each in an amount equal to his then current monthly base compensation (i.e.,
-1/2 of Mr. Wright's base salary). In addition, in the event of a change of
+1/12th of Mr. Wright's base salary). In addition, in the event of a change of
 control of Lionbridge, one-half of his unvested stock options will become
 exercisable. If Mr. Wright is terminated for cause, he will not be entitled to
 any severance payments or other benefits except as required by law.
@@ -5620,6 +5702,17 @@ employees or (3) solicit or do business with any present or past
 
 customer of Lionbridge's, or any prospective customer of Lionbridge's which
 would be in violation of the non-competition agreement.
+
+   James Bampos entered into a non-competition agreement with Lionbridge on
+October 2, 2000. The agreement provides that Mr. Bampos will not during the
+course of his employment and the twelve months following the date of the
+termination of his employment with Lionbridge, (1) engage or otherwise have a
+financial interest in any business activity which is in competition with any of
+the products or services being provided by Lionbridge, (2) solicit Lionbridge's
+employees or (3) solicit or do business with any present or past customer of
+Lionbridge's, or any prospective customer of Lionbridge's in connection with
+any business activity which would be in violation of the non-competition
+agreement.
 
 Compensation Committee Report on Executive Compensation
 
@@ -5675,23 +5768,24 @@ President made recommendations for salary increases for the executive group,
 and the compensation committee approved salary increases ranging from 6% to 8%
 to Lionbridge's Senior Vice Presidents, in recognition of the achievements of
 these officers during the year and/or in order to bring the officer's salary in
-line with the competitive salary range for his or her position. In May 2000,
-Mr. Jeanty joined Lionbridge as President and his annual base salary was set at
-a level commensurate with his assumption of significant responsibilities and in
-line with the competitive salary range for his position.
+line with the
+
+competitive salary range for his or her position. In May 2000, Mr. Jeanty
+joined Lionbridge as President and his annual base salary was set at a level
+commensurate with his assumption of significant responsibilities and in line
+with the competitive salary range for his position.
 
  Bonus Compensation
 
    In addition to salary compensation, the compensation committee recommended
 the continuation of the bonus program adopted by the board of directors in the
-previous year, whereby senior executives recommended
-
-by the Chief Executive Officer and approved by the compensation committee for
-inclusion in the program receive bonus compensation based on a percentage of
-base salary. Bonuses paid under this program in 2001 were a percentage of base
-salary for calendar 2000 and were based upon the individual's contributions to
-the successful integration of INT'L.com with Lionbridge and the attainment of
-strategic and operational goals and objectives.
+previous year, whereby senior executives recommended by the Chief Executive
+Officer and approved by the compensation committee for inclusion in the program
+receive bonus compensation based on a percentage of base salary. Bonuses paid
+under this program in 2001 were a percentage of base salary for calendar 2000
+and were based upon the individual's contributions to the successful
+integration of INT'L.com with Lionbridge and the attainment of strategic and
+operational goals and objectives.
 
  Stock Options
 
@@ -5752,12 +5846,11 @@ purposes, compensation in excess of $1,000,000 paid to certain executive
 officers. This deduction limitation does not apply, however, to compensation
 that constitutes "qualified performance-based compensation" within the meaning
 of Section 162(m) of the Code and the regulations promulgated thereunder.
-Lionbridge has considered the limitations on deductions imposed by
-
-Section 162(m) of the Code, and it is Lionbridge's present intention that, for
-so long as it is consistent with its overall compensation objective,
-substantially all tax deductions attributable to executive compensation will
-not be subject to the deduction limitations of Section 162(m) of the Code.
+Lionbridge has considered the limitations on deductions imposed by Section
+162(m) of the Code, and it is Lionbridge's present intention that, for so long
+as it is consistent with its overall compensation objective, substantially all
+tax deductions attributable to executive compensation will not be subject to
+the deduction limitations of Section 162(m) of the Code.
 
                                           Respectfully Submitted by the
                                            Compensation Committee:
@@ -5821,11 +5914,9 @@ $2.0 million from Capital Resource Lenders under an amended and restated 12%
 senior subordinated note due February 26, 2006 in the aggregate principal
 amount of $6.0 million and issued to Capital Resource Lenders and an affiliated
 entity of Capital Resource Lenders common stock purchase warrants exercisable
-for an aggregate of 1,277,716 shares of its common stock
-
-at an exercise price of $0.015 per share. In August 1999, Capital Resource
-Lenders and the affiliated entity exercised the common stock purchase warrants
-in full.
+for an aggregate of 1,277,716 shares of its common stock at an exercise price
+of $0.015 per share. In August 1999, Capital Resource Lenders and the
+affiliated entity exercised the common stock purchase warrants in full.
 
    In February 1999, Lionbridge's indirect wholly owned subsidiary, Lionbridge
 Technologies Holdings, B.V. borrowed $4.0 million from Capital Resource Lenders
@@ -6238,9 +6329,9 @@ Properties
 
    Data Dimensions maintains its headquarters in a leased facility in Bellevue,
 Washington, which lease will expire in 2002. In addition, it maintains leased
-office space for testing labs and small regional offices in the US. Data
+office space for testing labs and small regional offices in the U.S. Data
 Dimensions also leases facilities in Cheshire, England and Galway, Ireland.
-Most of Data Dimensions leases have terms in excess of one year and management
+Most of Data Dimensions' leases have terms in excess of one year and management
 believes its facilities are in good condition.
 
 Legal Proceedings
@@ -6265,15 +6356,16 @@ Litigation Reform Act of 1995. These forward-looking statements are based
 largely on Data Dimensions' current expectations and are subject to a number of
 risks and uncertainties. Any forward-looking statement should be considered in
 light of the factors described in this joint proxy statement/prospectus. For
-more information, see "Risk Factors". Actual results could differ materially
-from these forward-looking statements. In this Management's Discussion and
-Analysis of Financial Condition and Results of Operation, the words "believes",
-"anticipates", "plans", "expects", "intends", "may", "could", or similar
-expressions are forward-looking statements. The following discussion should be
-read in conjunction with "Selected Consolidated Financial Data of Data
-Dimensions" and the Consolidated Financial Statements of Data Dimensions, and
-the notes thereto, presented in this proxy statement/prospectus. For more
-information, see "Where You Can Find More Information" on page 106.
+more information, see "Risk Factors" beginning on page 9. Actual results could
+differ materially from these forward-looking statements. In this Management's
+Discussion and Analysis of Financial Condition and Results of Operation, the
+words "believes," "anticipates," "plans," "expects," "intends," "may," "could,"
+or similar expressions are forward-looking statements. The following discussion
+should be read in conjunction with "Selected Consolidated Financial Data of
+Data Dimensions" on page 20 and the Consolidated Financial Statements of Data
+Dimensions, and the notes thereto, presented in this proxy
+statement/prospectus. For more information, see "Where You Can Find More
+Information" on page 105.
 
 Overview
 
@@ -6572,7 +6664,7 @@ Bellevue, Washington 98006.
    Thomas W. Fife (4)..........            29,249                    *
    Lucie J. Fjeldstad (5)......            29,000                    *
    Robert T. Knight (6)........            47,750                    *
-   Dennis W. Walsh (7).........            12,500                    *
+   Dennis W. Walsh (7).........            10,000                    *
    Laurence C. Leslie (8)......            30,000                    *
    Howard H. Hayakawa (9)......            25,000                    *
    John W. Cramer (10).........            30,000                    *
@@ -6583,7 +6675,7 @@ Bellevue, Washington 98006.
     Medina, Washington 98039
    All executive officers and
     directors as a group
-    (8 persons) (14)...........           593,499                  4.4%
+    (8 persons) (14)...........           590,999                  4.4%
 
 - --------
  *  Less than 1% of the outstanding shares of common stock.
@@ -6605,7 +6697,8 @@ Bellevue, Washington 98006.
  (4) Includes 13,257 Vested Options.
  (5) Includes 24,000 Vested Options.
  (6) Includes 27,750 Vested Options.
- (7) Includes 12,500 Vested Options.
+
+ (7) Includes 10,000 Vested Options.
  (8) Includes 30,000 Vested Options.
  (9) Includes 25,000 Vested Options.
 (10) Includes 30,000 Vested Options.
@@ -6615,7 +6708,8 @@ Bellevue, Washington 98006.
      effective October 31, 2000.
 (13) Includes 9,000 shares held by Mr. Martin's spouse; Mr. Martin resigned as
      director of Data Dimensions effective December 31, 1999.
-(14) Includes 537,507 Vested Options. The group of 8 persons excludes the
+
+(14) Includes 535,007 Vested Options. The group of 8 persons excludes the
      shares beneficially owned by Mr. Stabile and Mr. Martin-Jones since they
      were not executive officers as of March 31, 2001.
 
@@ -6667,12 +6761,14 @@ Stephen J. Lifshatz(11)........................       212,000            *
 
 Peter H. Wright(12)............................       125,117            *
 
-Morgan Stanley Dean Witter-sponsored limited
- partnerships(13)..............................     3,424,568         11.2%
+James Bampos(13)...............................             0            *
+
+Morgan Stanley-sponsored limited
+ partnerships(14)..............................     3,424,568         11.2%
  1221 Avenue of the Americas, 33rd Floor
  New York, New York 10020
 
-Advent-sponsored limited partnerships(14)......     4,364,004         14.2%
+Advent-sponsored limited partnerships(15)......     4,364,004         14.2%
  75 State Street
  Boston, Massachusetts 02109
 
@@ -6681,7 +6777,7 @@ Cornerstone Equity Investors IV, L.P...........     2,399,853          7.8%
  New York, New York 10022
 
 All executive officers and directors as a group
- (9 persons)(15)...............................    12,169,330         38.9%
+ (10 persons)(16)..............................    12,169,330         38.9%
 
 - --------
  *  Less than 1% of the outstanding shares of common stock.
@@ -6742,7 +6838,11 @@ All executive officers and directors as a group
      pursuant to options exercisable within 60 days of March 31, 2001.
 (12) Includes 36,665 shares deemed to be beneficially owned by Mr. Wright
      pursuant to options exercisable within 60 days of March 31, 2001.
-(13) Includes 2,744,105 shares held by Morgan Stanley Venture Capital Fund II
+
+(13) Mr. Bampos became a named executive officer of Lionbridge on April 26,
+     2001.
+
+(14) Includes 2,744,105 shares held by Morgan Stanley Venture Capital Fund II
      Annex, L.P., and 375,235 shares held by Morgan Stanley Venture Investors
      Annex, L.P. The general partner of each of the Morgan Stanley-sponsored
      limited partnerships is Morgan Stanley Venture Partners II, L.P. Morgan
@@ -6750,30 +6850,33 @@ All executive officers and directors as a group
      Stanley Venture Partners II, L.P. and exercises sole voting and investment
      power with respect to all shares held of record by the Morgan Stanley-
      sponsored limited partnerships; individually, no stockholder, director or
-     officer of Morgan Stanley Venture Capital II, Inc. is deemed to have or
-     share voting or investment power. In addition, Morgan Stanley Venture
-     Capital II, Inc., holds 305,228 shares directly.
+     officer of Morgan Stanley
 
-(14) Includes 357,849 shares held by Advent Euro--Italian Direct Investment
-     Program Limited Partnership; 96,191 shares held by Advent Partners Limited
-     Partnership; 2,613,975 shares held by Global Private Equity II Limited
-     Partnership; 549,683 shares held by Global Private Equity II--Europe
-     Limited Partnership; and 746,306 shares held by Global Private Equity II--
-     PGGM Limited Partnership. The general partner of the Advent-sponsored
-     limited partnerships is Advent International Limited Partnership. Advent
-     International Corporation is the general partner of Advent International
-     Limited Partnership and exercises sole voting and investment power with
-     respect to all shares held of record by the Advent-sponsored limited
-     partnerships; individually, no stockholder, director or officer of Advent
-     International Corporation is deemed to have or share this voting or
-     investment power.
-(15) Includes 621,757 shares of common stock which the directors and executive
+    Venture Capital II, Inc. is deemed to have or share voting or investment
+    power. In addition, Morgan Stanley Venture Capital II, Inc., holds 305,228
+    shares directly.
+
+(15) Includes 357,849 shares held by Advent Euro--Italian Direct Investment
+     Program Limited Partnership; 96,191 shares held by Advent Partners
+     Limited Partnership; 2,613,975 shares held by Global Private Equity II
+     Limited Partnership; 549,683 shares held by Global Private Equity II--
+     Europe Limited Partnership; and 746,306 shares held by Global Private
+     Equity II--PGGM Limited Partnership. The general partner of the Advent-
+     sponsored limited partnerships is Advent International Limited
+     Partnership. Advent International Corporation is the general partner of
+     Advent International Limited Partnership and exercises sole voting and
+     investment power with respect to all shares held of record by the Advent-
+     sponsored limited partnerships; individually, no stockholder, director or
+     officer of Advent International Corporation is deemed to have or share
+     this voting or investment power.
+
+(16) Includes 621,757 shares of common stock which the directors and executive
      officers as a group have the right to acquire pursuant to options
      exercisable within 60 days of March 31, 2001. Includes 4,364,004 shares
      held by the Advent-sponsored limited partnerships that Ms. Hooper may be
      deemed to beneficially own and 3,119,340 shares held by the Morgan
-     Stanley-sponsored limited partnerships that Mr. de Chazal may be deemed to
-     beneficially own.
+     Stanley-sponsored limited partnerships that Mr. de Chazal may be deemed
+     to beneficially own.
 
                     DESCRIPTION OF LIONBRIDGE CAPITAL STOCK
 
@@ -6836,7 +6939,7 @@ we refer to for a more complete understanding of the differences between being
 a stockholder of Data Dimensions and being a stockholder of Lionbridge. Data
 Dimensions' and Lionbridge's respective certificates of incorporation and by-
 laws are on file with the SEC and will also be sent to you upon request. For
-more information, see "Where You Can Find More Information" on page 106.
+more information, see "Where You Can Find More Information" on page 105.
 
    Both Data Dimensions and Lionbridge are incorporated under the laws of the
 state of Delaware. Accordingly, the rights of their stockholders are governed
@@ -7147,7 +7250,7 @@ merger or of certain businesses conducted by the surviving corporation of the
 merger. There can be no assurance that a challenge to the merger will not be
 made or that, if such a challenge is made, Lionbridge will prevail. For more
 information, see "The Agreement and Plan of Reorganization--Conditions to
-Completion of the Merger" on page 49.
+Completion of the Merger" on page 48.
 
                                     EXPERTS
 
@@ -7287,9 +7390,9 @@ Lionbridge.
    The unaudited pro forma combined condensed financial information should be
 read in conjunction with the historical financial statements and the related
 notes thereto of Lionbridge and Data Dimensions which are presented in this
-joint proxy statement/prospectus. See "Where You Can Find More Information."
-The unaudited pro forma combined condensed balance sheet gives effect to the
-acquisition as if it had occurred on December 31, 2000 and includes all
+proxy statement/prospectus. See "Where You Can Find More Information" on page
+105. The unaudited pro forma combined condensed balance sheet gives effect to
+the acquisition as if it had occurred on December 31, 2000 and includes all
 material pro forma adjustments necessary for this purpose. The unaudited pro
 forma combined condensed statement of operations combines Lionbridge's
 operating results for the year ended December 31, 2000 with the operating
@@ -7711,159 +7814,4 @@ Shares used in computing basic and diluted net
  loss per share attributable to
  common stockholders..............................   24,871    11,560    3,938
 
-   The accompanying notes are an integral part of the consolidated financial
-                                  statements.
-
-                                      F-9
-
-                         LIONBRIDGE TECHNOLOGIES, INC.
-
- CONSOLIDATED STATEMENTS OF REDEEMABLE PREFERRED STOCK AND STOCKHOLDERS' EQUITY
-                                   (DEFICIT)
-
-                (Amounts in thousands, except number of shares)
-
-                       Redeemable                                                                            Treasury
-                     Preferred Stock      Common Stock                                                         Stock
-                   --------------------  ---------------                                                   -------------
-
-                                                         Additional
-                                                    Par   Paid-in   Accumulated   Deferred   Subscriptions
-                     Shares     Amount    Shares   Value  Capital     Deficit   Compensation  Receivable   Shares Amount
-                   -----------  -------  --------- ----- ---------- ----------- ------------ ------------- ------ ------
-
-Balance at
-December 31,
-1997.............   13,271,454  $14,356  3,145,437  $31    $   60     $(7,395)
-Issuance of
-common stock and
-preferred stock
-in connection
-with business
-combinations.....    1,095,514    2,661  1,025,699   11       899
-Stock options
-exercised........                          316,662    3        39
-Issuance of
-common stock in
-exchange for
-subscriptions
-receivable.......                          115,599    1       495                                $(496)
-Issuance of
-Series B
-redeemable
-preferred stock..    1,344,258    5,000
-Dividend
-distribution.....        5,000      500                                (6,000)
-Accrual of
-dividends on
-preferred stock..                 1,248                                (1,248)
-Accretion of
-common stock to
-redemption
-value............                                             121
-Collection of
-subscriptions
-receivable.......                                                                                   50
-Comprehensive
-loss:
- Net loss........                                                      (5,229)
- Other
- comprehensive
- loss:
- Translation
- adjustment......
-                   -----------  -------  ---------  ---    ------     -------     -------        -----      ---   ------
- Comprehensive
- loss............
-Balance at
-December 31,
-1998.............   15,716,226   23,765  4,603,397   46     1,614     (19,872)                    (446)
-Issuance of
-common stock and
-preferred stock
-in connection
-with business
-combinations.....      936,991    5,830  2,073,953   21     3,785
-Issuance of
-warrants in
-connection with
-debt financing...                                           6,221
-Deferred
-compensation.....                                           3,803                 $(3,803)
-Amortization of
-deferred
-compensation.....                                                                     730
-Reversal of
-deferred
-compensation due
-to option
-forfeitures......                                            (236)                    236
-Stock options
-exercised........                          765,741    8       290
-Accrual of
-dividends on
-preferred stock..                 2,397                                (2,397)
-Accretion of
-common stock to
-redemption
-value............                                             120
-Warrants
-exercised........                        1,533,050   15         5
-Issuance of
-common stock in
-connection with
-initial public
-offering.........                        3,500,000   35    31,725
-Issuance of
-Series B
-redeemable
-preferred stock..    1,048,752    3,900
-Redemption and
-conversion of
-preferred stock..  (13,271,454) (16,105) 8,847,649   88       (88)
-Collection of
-subscriptions
-receivable.......                                                                                           147
-Purchase of
-treasury stock...                                                                                           147   41,197
-                    Accumulated      Total
-                       Other     Stockholders'
-                   Comprehensive    Equity     Comprehensive
-                      Income       (Deficit)       Loss
-                   ------------- ------------- -------------
-
-Balance at
-December 31,
-1997.............      $ 741        $(6,563)
-Issuance of
-common stock and
-preferred stock
-in connection
-with business
-combinations.....                       910
-Stock options
-exercised........                        42
-Issuance of
-common stock in
-exchange for
-subscriptions
-receivable.......                        --
-Issuance of
-Series B
-redeemable
-preferred stock..
-Dividend
-distribution.....                    (6,000)
-Accrual of
-dividends on
-preferred stock..                    (1,248)
-Accretion of
-common stock to
-redemption
-value............                       121
-Collection of
-subscriptions
-receivable.......                        50
-Comprehensive
-loss:
- Net l
+   The accompanying notes are an integral part of

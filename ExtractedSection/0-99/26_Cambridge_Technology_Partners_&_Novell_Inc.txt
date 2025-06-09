@@ -139,28 +139,27 @@ with due diligence and negotiations.
 meeting were the directors, senior management of Cambridge, Salomon Smith
 Barney and Howard L. Shecter of Morgan Lewis. Mr. Messman began the meeting by
 reviewing the status of the proposed transaction with Novell and by providing a
-strategic overview. He then summarized the diligence efforts to date. Salomon
-Smith Barney then made a presentation, providing an overview of their
-preliminary analysis of the proposed transaction, a detailed review of the
-information technology services sector and strategic rationale for the
-transaction and possible concerns and challenges associated with it. Salomon
-Smith Barney also reviewed, at Mr. Messman's request, the side-by-side
-financial analysis of the two companies. Mr. Shecter then made a presentation
-summarizing the status of negotiations on the merger agreement and the results
-of Morgan Lewis's diligence review to date. Mr. Gavin then updated the board on
+strategic overview. He then summarized the diligence efforts to date. Following
+Mr. Messman's presentation, Salomon Smith Barney presented an analysis of the
+financial terms of the proposed merger with Novell and delivered its oral
+opinion, subsequently confirmed in writing as of March 12, 2001, as to the
+fairness of the exchange ratio, from a financial point of view, to the holders
+of Cambridge common stock. Mr. Shecter then made a presentation summarizing the
+status of negotiations on the merger agreement and the results of Morgan
+Lewis's diligence review to date. Mr. Gavin then updated the board on
 Cambridge's financial due diligence review of Novell.
 
    On March 12, 2001, the Novell board met with Novell management and its
 advisors to review the proposed terms of the acquisition of Cambridge. At the
 meeting, Novell's legal advisors discussed the terms of the merger agreement
 and related documents. Novell's financial advisors then gave a presentation to
-the board.
+the board. The board discussed, among other things, the status of negotiations,
+the potential benefits and risks of the transaction and the principal terms of
+the proposed merger. Following discussion, the Novell board approved
 
-The board discussed, among other things, the status of negotiations, the
-potential benefits and risks of the transaction and the principal terms of the
-proposed merger. Following discussion, the Novell board approved the
-transaction on the terms presented with instructions to management to negotiate
-and finalize the open issues and to sign the merger agreement later that day.
+the transaction on the terms presented with instructions to management to
+negotiate and finalize the open issues and to sign the merger agreement later
+that day.
 Also on March 12, 2001, the Cambridge board met to review the terms of the
 transaction. At this meeting, the members of management of Cambridge discussed
 the results of the negotiations and the terms of the proposed merger, including
@@ -176,29 +175,45 @@ conditions and termination provisions, the voting agreement, affiliate
 agreements and other relevant documents. Lastly, Mr. Shecter identified the
 final outstanding legal issues, and he apprised the Cambridge board that some
 officers and directors of Cambridge, including Mr. Messman, had interests which
-might conflict with the interests of Cambridge stockholders. Following Mr.
-Shecter's presentation, Salomon Smith Barney presented an analysis of the
-financial terms of the proposed merger with Novell and delivered its oral
-opinion, subsequently confirmed in writing as of March 12, 2001, as to the
-fairness of the exchange ratio, from a financial point of view, to the holders
-of Cambridge common stock. Following these presentations and the related
-discussions by the Cambridge board, the Cambridge board of directors concluded
-that the merger was in the best interests of Cambridge stockholders, declared
-the merger advisable, approved the proposed terms of the merger and the merger
-agreement in substantially the form presented, authorized Cambridge's officers
-to complete the negotiations and execute the merger agreement and resolved to
-recommend that Cambridge stockholders vote to adopt the merger agreement. In
-connection with the merger, the board also resolved to amend the Cambridge
-stockholder rights plan to exempt Novell and the merger from the provisions of
-the rights plan. Warren Musser, a Cambridge director who was then the chief
-executive officer of Safeguard, abstained from the vote citing unique
-investment company issues faced by Safeguard as a result of the proposed
-transaction as the reason for abstention.
+might conflict with the interests of Cambridge stockholders. Salomon Smith
+Barney then reviewed its March 9, 2001 presentation and confirmed its opinion
+as to the fairness of the exchange ratio, from a financial point of view, to
+the holders of Cambridge common stock. Following these presentations and the
+related discussions by the Cambridge board, the Cambridge board of directors
+concluded that the merger was in the best interests of Cambridge stockholders,
+declared the merger advisable, approved the proposed terms of the merger and
+the merger agreement in substantially the form presented, authorized
+Cambridge's officers to complete the negotiations and execute the merger
+agreement and resolved to recommend that Cambridge stockholders vote to adopt
+the merger agreement. In connection with the merger, the board also resolved to
+amend the Cambridge stockholder rights plan to exempt Novell and the merger
+from the provisions of the rights plan. Warren Musser, a Cambridge director who
+was then the chief executive officer of Safeguard, abstained from the vote
+citing unique investment company issues faced by Safeguard as a result of the
+proposed transaction as the reason for abstention.
 After the close of trading on March 12, 2001, Cambridge, Novell and Ceres
 Neptune entered into the merger agreement and Mr. Messman entered into a voting
 agreement with Novell. In addition, Cambridge amended its stockholder rights
 plan. Immediately following the signing of the merger agreement, Novell and
 Cambridge issued a joint press release announcing the merger.
+
+   On May 22, 2001, Novell and Jack L. Messman entered into an employment
+agreement concerning Mr.  Messman's employment as chief executive officer and
+president of Novell following the merger. Please see the section entitled "--
+Interests of Cambridge directors and officers in the merger--Jack L. Messman"
+on pages 42 and 43 of this proxy statement-prospectus for a summary of the
+terms of the employment agreement.
+
+   As of May 24, 2001, Cambridge, Novell and Ceres Neptune entered into
+amendment no. 1 to the merger agreement which provides for the cancellation of
+all outstanding Cambridge options and for the termination of the Cambridge
+stock plans at the closing. In addition, the amendment provides for the grant
+of Novell stock options to some Cambridge executives, non-executives and
+directors and for the grant of restricted shares of Novell stock to some
+Cambridge executives. Please see the section entitled "--Equity grants and
+employee benefits after completion of the merger for Cambridge employees" on
+pages 44 to 46 of this proxy statement-prospectus for a summary of these
+grants.
 
 Joint reasons for the merger
 
@@ -233,8 +248,6 @@ due consideration, the Cambridge board:
 
 Accordingly, the Cambridge board of directors recommends that the Cambridge
 stockholders vote FOR adoption of the merger agreement.
-
-
 
    In reaching its decision to approve the merger and to recommend such merger
 to its stockholders, the board of directors consulted with Cambridge senior
@@ -287,3 +300,20 @@ following factors which it believes favor approval of the merger:
     price that might be received by Cambridge stockholders in the open market
     or in a future transaction might be less than the consideration to be
     received pursuant to the merger.
+
+  . Terms of the Merger Agreement--The Cambridge board considered the terms
+    of the merger agreement, including, among others, the circumstances under
+    which the Cambridge board may withdraw its recommendation of the merger,
+    the Cambridge board's ability to consider a superior acquisition proposal
+    and the conditions to closing of the merger.
+
+  . Tax-Deferred Nature of Transaction--The Cambridge board noted that the
+    merger is expected to be a tax-deferred transaction.
+
+  . Transaction Accounted for as a Purchase--The Cambridge board noted that
+    the merger is expected to be accounted for as a purchase transaction.
+
+  . Trends in the Industry--The Cambridge board considered various trends in
+    the information technology industry and the effect of industry
+    consolidation on Cambridge's ability to compete effectively in existing
+    markets.

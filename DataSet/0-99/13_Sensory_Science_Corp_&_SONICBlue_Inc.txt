@@ -1,4 +1,4 @@
-URL: https://www.sec.gov/Archives/edgar/data/850519/000089161801500340/0000891618-01-500340.txt
+URL: https://www.sec.gov/Archives/edgar/data/850519/000089161801500620/0000891618-01-500620.txt
 
 -----BEGIN PRIVACY-ENHANCED MESSAGE-----
 Proc-Type: 2001,MIC-CLEAR
@@ -7,16 +7,16 @@ Originator-Key-Asymmetric:
  MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
  TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
 MIC-Info: RSA-MD5,RSA,
- HX0eg7h4uARXBom+z4aUVSGjyv/sRfVOep+RTORqk0j3VihyhMYaaQay/yTvUtCM
- 2hIN+RO/nHTKeyLk9IwCfA==
+ CXjpcCimMme9di/6JeYLpT+74qzt+cfOVxTpkECljyp0O9wdcHUWRT470An5O512
+ uiOR88gzI+qfxS1U2LBlkg==
 
-0000891618-01-500340.txt : 20010424
+0000891618-01-500620.txt : 20010511
 
-0000891618-01-500340.hdr.sgml : 20010424
-ACCESSION NUMBER:		0000891618-01-500340
-CONFORMED SUBMISSION TYPE:	S-4
-PUBLIC DOCUMENT COUNT:		5
-FILED AS OF DATE:		20010420
+0000891618-01-500620.hdr.sgml : 20010511
+ACCESSION NUMBER:		0000891618-01-500620
+CONFORMED SUBMISSION TYPE:	S-4/A
+PUBLIC DOCUMENT COUNT:		11
+FILED AS OF DATE:		20010510
 
 FILER:
 
@@ -29,10 +29,10 @@ FILER:
 		FISCAL YEAR END:			1231
 
 	FILING VALUES:
-		FORM TYPE:		S-4
+		FORM TYPE:		S-4/A
 		SEC ACT:		
 		SEC FILE NUMBER:	333-59258
-		FILM NUMBER:		1606984
+		FILM NUMBER:		1628356
 
 	BUSINESS ADDRESS:	
 		STREET 1:		2841 MISSION COLLEGE BLVD
@@ -52,26 +52,33 @@ FILER:
 		FORMER CONFORMED NAME:	S3 INC
 		DATE OF NAME CHANGE:	19940615
 
-S-4
+S-4/A
 
-f71130ors-4.txt
+f71130a1s-4a.txt
 
-FORM S-4
+AMENDMENT #1 TO FORM S-4
 
-     AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON APRIL 20, 2001
+      AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON MAY 10, 2001
 
-                                                     REGISTRATION NO. 333-
+                                                      REGISTRATION NO. 333-59258
+
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
                        SECURITIES AND EXCHANGE COMMISSION
                              WASHINGTON, D.C. 20549
+
                             ------------------------
+
+                                AMENDMENT NO. 1
+
+                                       TO
 
                                     FORM S-4
                              REGISTRATION STATEMENT
                                      UNDER
                            THE SECURITIES ACT OF 1933
+
                             ------------------------
 
                              SONICBLUE INCORPORATED
@@ -107,82 +114,47 @@ OF INCORPORATION OR ORGANIZATION)     CLASSIFICATION CODE NUMBER)           IDEN
                                         7835 EAST MCCLAIN DRIVE
                                           SCOTTSDALE, AZ 85260
 
-    Approximate Date of Commencement of Proposed Sale to the Public: As soon as
+     Approximate Date of Commencement of Proposed Sale to the Public: As soon as
 practicable after the effectiveness of this registration statement and the
 effective time of the merger of a wholly owned subsidiary of the registrant with
 and into Sensory Science Corporation as described in the Agreement and Plan of
 Merger dated as of January 31, 2001.
 
-    If the securities being registered on this form are being offered in
+     If the securities being registered on this form are being offered in
 connection with the formation of a holding company and there is compliance with
 General Instruction G, check the following box.  [ ]
 
-    If this form is filed to register additional securities for an offering
+     If this form is filed to register additional securities for an offering
 pursuant to Rule 462(b) under the Securities Act, check the following box and
 list the Securities Act registration statement number of the earlier effective
 registration statement for the same offering.  [ ]
 
-    If this form is a post-effective amendment filed pursuant to Rule 462(d)
+     If this form is a post-effective amendment filed pursuant to Rule 462(d)
 under the Securities Act, check the following box and list the Securities Act
 registration statement number of the earlier effective registration statement
 for the same offering.  [ ]
 
-                        CALCULATION OF REGISTRATION FEE
-
-- ---------------------------------------------------------------------------------------------------------------------------
-- ---------------------------------------------------------------------------------------------------------------------------
-                                                             PROPOSED MAXIMUM
-TITLE OF EACH CLASS OF SECURITIES        AMOUNT TO BE         OFFERING PRICE          AGGREGATE             AMOUNT OF
-  TO BE REGISTERED(1)                    REGISTERED(2)          PER SHARE         OFFERING PRICE(3)    REGISTRATION FEE(4)
-- ---------------------------------------------------------------------------------------------------------------------------
-Common stock, par value $0.0001 per
-  share.............................       1,567,451               n/a                $5,236,283              $1,310
-- ---------------------------------------------------------------------------------------------------------------------------
-- ---------------------------------------------------------------------------------------------------------------------------
-
-(1) This registration statement relates to (a) shares of common stock, par value
-    $0.0001 per share, of SONICblue issuable to holders of common stock, par
-    value $.001 per share, of Sensory Science pursuant to the Merger Agreement
-    and (b) SONICblue Preferred Stock Purchase Rights that will be attached to,
-    and represented by the certificates issued for, the SONICblue common stock
-    (which Preferred Stock Purchase Rights have no market value independent of
-    the SONICblue common stock to which they are attached).
-
-(2) The amount of SONICblue Incorporated common stock to be registered has been
-    determined by multiplying the maximum exchange ratio (0.0913 of a share of
-    SONICblue common stock for each share of Sensory Science Corporation common
-    stock) by 17,168,141, the number of shares of Sensory Science common stock
-    outstanding on April 16, 2001 and issuable upon the exercise of outstanding
-    Sensory Science options and warrants estimated to be vested as of the
-    closing of the merger.
-
-(3) Estimated solely for the purpose of calculating the registration fee
-    pursuant to Rule 457(f)(1) and Rule 457(c) of the Securities Act, based on
-    the market value of the Sensory Science shares to be received by SONICblue
-    in the merger, as established by the average of the high and low prices of
-    Sensory Science common stock as reported on the American Stock Exchange on
-    April 16, 2001, which was $0.305.
-
-    THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR
+     THE REGISTRANT HEREBY AMENDS THIS REGISTRATION STATEMENT ON SUCH DATE OR
 DATES AS MAY BE NECESSARY TO DELAY ITS EFFECTIVE DATE UNTIL THE REGISTRANT SHALL
 FILE A FURTHER AMENDMENT WHICH SPECIFICALLY STATES THAT THIS REGISTRATION
 STATEMENT SHALL THEREAFTER BECOME EFFECTIVE IN ACCORDANCE WITH SECTION 8(a) OF
 THE SECURITIES ACT OR UNTIL THE REGISTRATION STATEMENT SHALL BECOME EFFECTIVE ON
 SUCH DATE AS THE COMMISSION, ACTING PURSUANT TO SAID SECTION 8(a), MAY
 DETERMINE.
+
 - --------------------------------------------------------------------------------
 - --------------------------------------------------------------------------------
 
-       THE INFORMATION IN THIS PROXY STATEMENT/PROSPECTUS IS NOT COMPLETE AND
-       MAY BE CHANGED. WE MAY NOT SELL THESE SECURITIES UNTIL THE REGISTRATION
-       STATEMENT FILED WITH SECURITIES AND EXCHANGE COMMISSION IS EFFECTIVE.
-       THIS PROSPECTUS IS NOT AN OFFER TO SELL THESE SECURITIES AND IT IS NOT
-       SOLICITING AN OFFER TO BUY THESE SECURITIES IN ANY STATE WHERE THE OFFER
-       OR SALE IS NOT PERMITTED.
+     THE INFORMATION IN THIS PROXY STATEMENT/PROSPECTUS IS NOT COMPLETE AND MAY
+     BE CHANGED. WE MAY NOT SELL THESE SECURITIES UNTIL THE REGISTRATION
+     STATEMENT FILED WITH SECURITIES AND EXCHANGE COMMISSION IS EFFECTIVE. THIS
+     PROSPECTUS IS NOT AN OFFER TO SELL THESE SECURITIES AND IT IS NOT
+     SOLICITING AN OFFER TO BUY THESE SECURITIES IN ANY STATE WHERE THE OFFER OR
+     SALE IS NOT PERMITTED.
 
-                  SUBJECT TO COMPLETION, DATED APRIL 20, 2001.
+                   SUBJECT TO COMPLETION, DATED MAY 10, 2001.
 
-                             [SENSORY SCIENCE LOGO]
+                             'SENSORY SCIENCE LOGO'
 
                           SENSORY SCIENCE CORPORATION
                             7835 EAST MCCLAIN DRIVE
@@ -191,19 +163,19 @@ DETERMINE.
 Dear Sensory Science Stockholder:
 
      You are cordially invited to attend a special meeting of stockholders of
-Sensory Science Corporation, which will begin at   :   .m., local time, on
-day,             , 2001 at                          . At the special meeting,
-you will be asked to consider and vote upon a proposal to approve and adopt the
-Agreement and Plan of Merger, dated as of January 31, 2001, among Sensory
-Science, SONICblue Incorporated and Phoenix I Acquisition Corp., a subsidiary of
-SONICblue, and the merger, as described in the attached proxy
-statement/prospectus. SONICblue is a leader in the converging Internet, digital
-media and consumer device markets. SONICblue holds significant financial assets,
-global marketing capabilities and a focused technology portfolio that includes
-Rio(R) digital audio players, HomeFree(TM) home networking solutions,
-Diamond(TM) Internet access products and frontpath(TM) Information Applications.
-As a result of the merger, Sensory Science will become a wholly owned subsidiary
-of SONICblue.
+Sensory Science Corporation, which will begin at 8:30 a.m., local time, on
+Wednesday, June 27, 2001 at The Pavilions at Resort Suites, 7677 East Princess
+Boulevard, Scottsdale, Arizona. At the special meeting, you will be asked to
+consider and vote upon a proposal to approve and adopt the Agreement and Plan of
+Merger, dated as of January 31, 2001, among Sensory Science, SONICblue
+Incorporated and Phoenix I Acquisition Corp., a subsidiary of SONICblue, and the
+merger, as described in the attached proxy statement/prospectus. SONICblue is a
+leader in the converging Internet, digital media and consumer device markets.
+SONICblue holds significant financial assets, global marketing capabilities and
+a focused technology portfolio that includes Rio(R) digital audio players,
+HomeFree(TM) home networking solutions, Diamond(TM) Internet access products and
+frontpath(TM) Information Applications. As a result of the merger, Sensory
+Science will become a wholly owned subsidiary of SONICblue.
 
      If the merger is completed, holders of Sensory Science common stock will
 receive 0.0913 of a share of SONICblue common stock for each share of Sensory
@@ -214,9 +186,9 @@ stockholders will receive at least 0.0710 of a share of SONICblue common stock
 for each share of Sensory Science common stock that they hold. SONICblue
 stockholders will continue to own their existing shares after the merger.
 SONICblue stock, after the closing of the merger, will continue to be SONICblue
-stock. SONICblue will issue approximately        million shares of SONICblue
-common stock to Sensory Science stockholders in the merger, based on the number
-of outstanding shares of Sensory Science on                , 2001. These shares
+stock. As a result of the merger, SONICblue will issue approximately 1.3 million
+shares of SONICblue common stock to Sensory Science stockholders in exchange for
+the common stock of Sensory Science outstanding on May 9, 2001. These shares
 will represent approximately      % of the outstanding SONICblue common stock
 after the merger. Shares of SONICblue common stock will be listed on the Nasdaq
 National Market under the ticker symbol "SBLU."
@@ -234,7 +206,7 @@ in the enclosed envelope. You may attend the meeting and vote your shares in
 person if you wish, even if you have previously returned your proxy.
 
      WE ENCOURAGE YOU TO READ THIS ENTIRE DOCUMENT, INCLUDING THE DISCUSSION OF
-RISKS ASSOCIATED WITH THE MERGER ON PAGE 12, CAREFULLY BEFORE VOTING.
+RISKS ASSOCIATED WITH THE MERGER BEGINNING ON PAGE 13, CAREFULLY BEFORE VOTING.
 
                                           Roger B. Hackett
                                           Chairman of the Board,
@@ -245,8 +217,8 @@ COMMISSION HAS APPROVED OR DISAPPROVED OF THE SONICBLUE STOCK TO BE ISSUED IN
 CONNECTION WITH THE MERGER OR DETERMINED IF THIS PROXY STATEMENT/PROSPECTUS IS
 ACCURATE OR ADEQUATE. ANY REPRESENTATION TO THE CONTRARY IS A CRIMINAL OFFENSE.
 
-     This proxy statement/prospectus is dated                , 2001, and is
-first being mailed to stockholders on or about                , 2001.
+     This proxy statement/prospectus is dated May   , 2001, and is first being
+mailed to stockholders on or about May 15, 2001.
 
                              ADDITIONAL INFORMATION
 
@@ -265,8 +237,8 @@ Science at the following address:
                               Attention: Secretary
                                  (888) 371-3211
 
-     IF YOU WOULD LIKE TO REQUEST ANY DOCUMENTS, PLEASE DO SO BY
-               , 2001 IN ORDER TO RECEIVE THEM BEFORE THE SPECIAL MEETING.
+     IF YOU WOULD LIKE TO REQUEST ANY DOCUMENTS, PLEASE DO SO BY JUNE 20, 2001
+IN ORDER TO RECEIVE THEM BEFORE THE SPECIAL MEETING.
 
                              [SENSORY SCIENCE LOGO]
 
@@ -277,25 +249,26 @@ Science at the following address:
 
                            NOTICE AND PROXY STATEMENT
                     FOR THE SPECIAL MEETING OF STOCKHOLDERS
-                      TO BE HELD ON                , 2001
+
+                          TO BE HELD ON JUNE 27, 2001
 
 To the Stockholders:
 
      A special meeting of stockholders of Sensory Science Corporation will be
-held on             , 2001 at   :   .m., local time, at
-                         , to consider and vote upon a proposal to approve and
-adopt the Agreement and Plan of Merger, dated as of January 31, 2001, among
-Sensory Science, SONICblue and Phoenix I Acquisition Corp., a subsidiary of
-SONICblue, and the merger.
+held on June 27, 2001 at 8:30 a.m., local time, at The Pavilions at Resort
+Suites, 7677 East Princess Boulevard, Scottsdale, Arizona, to consider and vote
+upon a proposal to approve and adopt the Agreement and Plan of Merger, dated as
+of January 31, 2001, among Sensory Science, SONICblue and Phoenix I Acquisition
+Corp., a subsidiary of SONICblue, and the merger.
 
-     The Board of Directors has fixed the close of business on             ,
-2001, as the record date for determining the stockholders entitled to vote at
-the special meeting or any adjournment or postponement thereof. Shares of common
-stock can be voted at the meeting only if the holder is present at the meeting
-in person or represented by a valid proxy. A list of stockholders entitled to
-vote will be kept at the office of the Secretary of Sensory Science Corporation,
-7835 East McClain Drive, Scottsdale, Arizona 85260 for your inspection for ten
-days before the meeting.
+     The Board of Directors has fixed the close of business on May 9, 2001, as
+the record date for determining the stockholders entitled to vote at the special
+meeting or any adjournment or postponement thereof. Shares of common stock can
+be voted at the meeting only if the holder is present at the meeting in person
+or represented by a valid proxy. A list of stockholders entitled to vote will be
+kept at the office of the Secretary of Sensory Science Corporation, 7835 East
+McClain Drive, Scottsdale, Arizona 85260 for your inspection for ten days before
+the meeting.
 
      Your vote is important to us. Even if you do not plan to attend the
 meeting, please complete and sign the enclosed proxy card and mail it promptly
@@ -308,18 +281,20 @@ LATER DATED PROXY.
 proxies. Stockholders who hold their shares in "street name" (shares registered
 under a broker, bank or other nominee institution's name) will be admitted to
 the meeting upon presentation of a written affidavit or statement from the
-registered institution showing beneficial ownership as of the             , 2001
-record date. The special meeting will not be open to the public.
+registered institution showing beneficial ownership as of the May 9, 2001 record
+date. The special meeting will not be open to the public.
 
                                           By Order of the Board of Directors
 
                                           Thomas E. Linnen
+
                                           Executive Vice President,
                                           Chief Financial Officer,
                                           Secretary and Treasurer
 
 Scottsdale, Arizona
-            , 2001
+
+May 15, 2001
 
                                
 
@@ -354,126 +329,127 @@ SUMMARY...............................    2
      Termination......................    4
   Credit Agreement and Warrant Issued
      by Sensory Science...............    4
+RECENT DEVELOPMENTS...................    6
+  First Quarter Results For
+     SONICblue........................    6
 SELECTED HISTORICAL AND PRO FORMA
-  FINANCIAL DATA......................    6
+  FINANCIAL DATA......................    7
   Selected Historical Financial Data
-     of SONICblue.....................    6
+     of SONICblue.....................    7
   Selected Historical Financial Data
-     of Sensory Science...............    7
+     of Sensory Science...............    8
   Selected Unaudited Pro Forma
-     Combined Financial Data..........    8
+     Combined Financial Data..........    9
   Historical and Pro Forma Per Share
-     Data.............................    8
+     Data.............................    9
   Historical and Pro Forma Per Share
-     Market Price Information.........    9
+     Market Price Information.........   10
 CAUTIONARY STATEMENT CONCERNING
-  FORWARD-LOOKING STATEMENTS..........   10
-RISK FACTORS..........................   12
+  FORWARD-LOOKING STATEMENTS..........   11
+RISK FACTORS..........................   13
   Risk Factors Related to the
-     Merger...........................   12
+     Merger...........................   13
   Risk Factors Related to Sensory
      Science if the Merger Is Not
-     Consummated......................   13
-  Risk Factors Related to SONICblue...   14
-THE MERGER............................   30
-  General.............................   30
-  Background of the Merger............   30
-  Sensory Science's Reasons for the
-     Merger...........................   31
-  SONICblue's Reasons for the
-     Merger...........................   34
+     Consummated......................   14
+  Risk Factors Related to SONICblue...   15
+THE MERGER............................   31
+  General.............................   31
 
                                         PAGE
                                         ----
 
+  Background of the Merger............   31
+  Sensory Science's Reasons for the
+     Merger...........................   32
+  SONICblue's Reasons for the
+     Merger...........................   35
   Opinion of Financial Advisor to
-     Sensory Science..................   35
-  Directors of SONICblue..............   41
-  Accounting Treatment................   41
+     Sensory Science..................   36
+  Directors of SONICblue..............   42
+  Accounting Treatment................   42
   Material Federal Income Tax
-     Consequences of the Merger.......   42
-  Appraisal Rights....................   43
+     Consequences of the Merger.......   43
+  Appraisal Rights....................   44
   Federal Securities Laws
      Consequences; Stock Transfer
-     Restriction Agreements...........   43
+     Restriction Agreements...........   44
   Interests of Certain Persons in the
-     Merger...........................   44
+     Merger...........................   45
 COMPARATIVE PER-SHARE MARKET PRICE
-  INFORMATION.........................   45
+  INFORMATION.........................   46
 UNAUDITED PRO FORMA CONDENSED COMBINED
-  FINANCIAL INFORMATION...............   46
+  FINANCIAL INFORMATION...............   47
 INFORMATION ABOUT SONICblue
-  INCORPORATED........................   51
-  SONICblue's Business................   51
+  INCORPORATED........................   52
+  SONICblue's Business................   52
   Management's Discussion and Analysis
      of Financial Condition and
-     Results of Operations............   60
+     Results of Operations............   61
   Quantitative and Qualitative
-     Disclosures About Market Risk....   69
+     Disclosures About Market Risk....   70
   Directors and Executive Officers of
-     SONICblue........................   72
+     SONICblue........................   73
   Security Ownership of Certain
      Beneficial Owners and Management
-     of SONICblue.....................   74
-  SONICblue Executive Compensation....   75
+     of SONICblue.....................   75
+  SONICblue Executive Compensation....   76
 THE MERGER AGREEMENT AND RELATED
-  AGREEMENTS..........................   79
-  Structure of the Merger.............   79
-  Timing of Closing...................   79
-  Merger Consideration................   79
+  AGREEMENTS..........................   80
+  Structure of the Merger.............   80
+  Timing of Closing...................   80
+  Merger Consideration................   80
   Treatment of Sensory Science Stock
-     Options and Warrants.............   79
-  Exchange of Shares..................   79
-  Covenants...........................   80
-  Representations and Warranties......   82
-  SONICblue Representations and
-     Warranties.......................   82
-  Sensory Science Representations and
-     Warranties.......................   82
+     Options and Warrants.............   80
+  Exchange of Shares..................   80
+  Covenants...........................   81
+  Representations and Warranties......   83
   Conditions to the Completion of the
-     Merger...........................   83
+     Merger...........................   84
   Termination of the Merger
-     Agreement........................   84
-  Expenses............................   85
-  Amendments and Waivers..............   85
-  Credit Agreement....................   85
+     Agreement........................   85
+  Expenses............................   86
+  Amendments and Waivers..............   86
 
                                         i
 
                                         PAGE
                                         ----
 
-  Common Stock Purchase Warrant.......   85
+  Credit Agreement....................   86
+  Common Stock Purchase Warrant.......   87
 INFORMATION ABOUT THE MEETING AND
-  VOTING..............................   87
-  Matters Relating to the Meeting.....   87
+  VOTING..............................   88
+  Matters Relating to the Meeting.....   88
   Vote Necessary to Approve the
-     Merger...........................   87
-  Voting..............................   87
-  Other Business; Adjournments........   89
-COMPARISON OF STOCKHOLDER RIGHTS......   90
+     Merger...........................   88
+  Voting..............................   88
+  Other Business; Adjournments........   90
+COMPARISON OF STOCKHOLDER RIGHTS......   91
 DESCRIPTION OF SONICblue CAPITAL
-  STOCK...............................   93
-  Authorized Capital Stock............   93
-  SONICblue Common Stock..............   93
-  SONICblue Preferred Stock...........   93
-  Warrant and Registration Rights.....   94
-  Transfer Agent and Registrar........   94
+  STOCK...............................   94
+  Authorized Capital Stock............   94
+  SONICblue Common Stock..............   94
+  SONICblue Preferred Stock...........   94
+  Warrant and Registration Rights.....   95
 
                                         PAGE
                                         ----
 
-  SONICblue Stockholder Rights Plan...   94
-LEGAL MATTERS.........................   97
-EXPERTS...............................   97
-STOCKHOLDER PROPOSALS.................   97
-WHERE YOU CAN FIND MORE INFORMATION...   98
+  Transfer Agent and Registrar........   95
+  SONICblue Stockholder Rights Plan...   95
+LEGAL MATTERS.........................   98
+EXPERTS...............................   98
+STOCKHOLDER PROPOSALS.................   98
+WHERE YOU CAN FIND MORE INFORMATION...   99
 INDEX TO CONSOLIDATED FINANCIAL
   STATEMENTS..........................  F-1
 
 ANNEXES
 Annex A -- Agreement and Plan of Merger
-Annex B -- Credit Agreement and First Amendment to Credit Agreement
+
+Annex B -- Credit Agreement and Amendments to Credit Agreement
+
 Annex C -- Common Stock Purchase Warrant
 Annex D -- Opinion of Gerard Klauer Mattison & Co., Inc.
 
@@ -483,8 +459,9 @@ Annex D -- Opinion of Gerard Klauer Mattison & Co., Inc.
 
 Q: When and where is the stockholder meeting?
 
-A: The stockholder meeting will take place on             , 2001 and will be
-held at             .
+A: The stockholder meeting will take place at 8:30 a.m. on June 27, 2001 and
+will be held at The Pavilions at Resort Suites, 7677 East Princess Drive,
+Scottsdale, Arizona.
 
 Q: What do I need to do now?
 
@@ -572,7 +549,7 @@ important to you. To understand the merger fully and for a more complete
 description of the legal terms of the merger, you should read this document and
 the documents we have referred you to carefully, including the merger agreement
 attached as Annex A to this proxy statement/prospectus. See "Where You Can Find
-More Information" on page 98.
+More Information" on page 99.
 
 WHO WE ARE
 
@@ -594,11 +571,11 @@ SANTA CLARA, CA 95054
 SONICblue is a leader in the converging Internet, digital media and consumer
 device markets. Working with partners that include some of the biggest brands in
 consumer electronics, SONICblue creates and markets products that let consumers
-enjoy all the benefits of a digital home and connected lifestyle. SONICblue
+enjoy all of the benefits of a digital home and connected lifestyle. SONICblue
 holds significant financial assets, global marketing capabilities and a focused
 technology portfolio that includes Rio(R) digital audio players, HomeFree(TM)
 home networking solutions, Diamond(TM) Internet access products and
-frontpath(TM) Information Applications.
+frontpath(TM) Information Appliances.
 
 WHY WE RECOMMEND THE MERGER
 
@@ -607,13 +584,13 @@ able to offer a strengthened product portfolio with expanded distribution
 channels.
 
 To review a more detailed explanation of our reasons for the merger, see pages
-31 through 35.
+32 through 36.
 
 The Sensory Science board believes that the merger is advisable, fair to you and
 in your best interest and recommends that you vote FOR the approval of the
 merger agreement and the merger.
 
-OPINION OF FINANCIAL ADVISOR (SEE PAGES 35 THROUGH 41)
+OPINION OF FINANCIAL ADVISOR (SEE PAGES 36 THROUGH 42)
 
 In deciding to approve the merger, the Sensory Science board considered the
 opinion of Gerard Klauer Mattison & Co., Inc., its financial advisor. Sensory
@@ -624,11 +601,11 @@ D. You may read this opinion for a discussion of the assumptions made, matters
 considered and limitations on the review undertaken in connection with its
 opinion.
 
-WHAT YOU WILL RECEIVE IN THE MERGER (SEE PAGE 79)
+WHAT YOU WILL RECEIVE IN THE MERGER (SEE PAGE 80)
 
-Based on the price of SONICblue's common stock on April 18, 2001, Sensory
-Science stockholders would receive 0.0913 of a share of SONICblue common stock
-for each share of Sensory Science common stock that they hold.
+Based on the price of SONICblue's common stock on May 9, 2001, Sensory Science
+stockholders would receive 0.0913 of a share of SONICblue common stock for each
+share of Sensory Science common stock that they hold.
 
 Assuming the average price of SONICblue's common stock in the ten trading days
 immediately prior to the effective time is equal to or below $5.5213, as a
@@ -676,26 +653,26 @@ Examples:
     cent. The value of the stock that you will receive will change as the price
     of SONICblue common stock changes after the merger.
 
-  - On             , 2001, the last per-share sales price of SONICblue common
-    stock on the Nasdaq National Market was $          . Applying the exchange
-    ratio of        to the last SONICblue per-share sales price, holders of
-    Sensory Science common stock would be entitled to receive SONICblue common
-    stock with a market value of approximately $          for each share of
-    Sensory Science common stock. However, the market prices for Sensory Science
-    and SONICblue common stock and the exchange ratio are likely to change
-    before the merger. You are urged to obtain current price quotes for Sensory
-    Science and SONICblue common stock. See "Risk Factors" on page 12.
+  - On May 9, 2001, the last per-share sales price of SONICblue common stock on
+    the Nasdaq National Market was $4.13. Applying the exchange ratio of 0.0913
+    to that price, holders of Sensory Science common stock would be entitled to
+    receive SONICblue common stock with a market value of approximately $0.38
+    for each share of Sensory Science common stock. However, the market prices
+    of Sensory Science and SONICblue common stock and the exchange ratio are
+    likely to change before the merger. You are urged to obtain current price
+    quotes for Sensory Science and SONICblue common stock. See "Risk Factors"
+    beginning on page 13.
 
 The shares of SONICblue common stock will continue to be listed on the Nasdaq
 National Market under the ticker symbol "SBLU."
 
-FEDERAL INCOME TAX CONSEQUENCES (SEE PAGE 42)
+FEDERAL INCOME TAX CONSEQUENCES (SEE PAGE 43)
 
 The merger is intended to qualify as a nontaxable transaction, and we expect
 that the exchange of your shares of Sensory Science stock for shares of
 SONICblue stock will generally not cause you to recognize any gain or loss for
 federal income tax purposes. You will, however, have to recognize gain, if any,
-in connection with any cash you receive in lieu of fractional shares of
+in connection with any cash you receive in lieu of a fractional share of
 SONICblue stock.
 
 Tax matters are very complicated and the tax consequences of the merger to you
@@ -703,45 +680,45 @@ will depend on the facts of your own situation. You should consult with your own
 tax advisor for a full understanding of all tax consequences of the merger to
 you.
 
-OWNERSHIP OF SONICBLUE AFTER THE MERGER (SEE PAGE 74)
+OWNERSHIP OF SONICBLUE AFTER THE MERGER (SEE PAGE 75)
 
 Applying an exchange ratio of 0.0913, SONICblue will issue approximately 1.3
 million shares of its common stock to Sensory Science stockholders in the
 merger. The shares of SONICblue common stock to be issued to Sensory Science
 stockholders in the merger will represent approximately   % of the outstanding
 SONICblue common stock after the merger. This information is based on the number
-of SONICblue and Sensory Science shares outstanding on             , 2001 and
-does not take into account stock options or other equity-based awards or any
-other shares which may be issued before the merger.
+of SONICblue and Sensory Science shares outstanding on May 9, 2001 and does not
+take into account stock options or other equity-based awards or any other shares
+which may be issued before the merger.
 
-STOCKHOLDER VOTE REQUIRED TO APPROVE THE MERGER (SEE PAGE 87)
+STOCKHOLDER VOTE REQUIRED TO APPROVE THE MERGER (SEE PAGE 88)
 
 Approval of the merger requires the affirmative vote of a majority of the
 outstanding shares of Sensory Science common stock. As of the record date,
 Sensory Science's directors, executive officers and their affiliates
 beneficially owned in
 
-the aggregate                of Sensory Science's outstanding common stock
+the aggregate 222,100 shares of Sensory Science's outstanding common stock
 entitled to vote at the Sensory Science stockholders meeting.
 
-APPRAISAL RIGHTS ARE NOT AVAILABLE (SEE PAGES 43 AND 87)
+APPRAISAL RIGHTS ARE NOT AVAILABLE (SEE PAGES 44 AND 88)
 
 The holders of Sensory Science common stock do not have any right to an
 appraisal of the value of their shares in connection with the merger.
 
 THE INTERESTS OF CERTAIN SENSORY SCIENCE OFFICERS AND DIRECTORS IN THE MERGER
-MAY DIFFER FROM YOUR INTERESTS (SEE PAGE 44)
+MAY DIFFER FROM YOUR INTERESTS (SEE PAGE 45)
 
 When you consider the Sensory Science board's recommendation that Sensory
 Science stockholders vote in favor of the merger, you should be aware that a
 number of Sensory Science officers and directors may have interests in the
 merger that may be different from, or in addition to, yours.
 
-ACCOUNTING TREATMENT (SEE PAGE 41)
+ACCOUNTING TREATMENT (SEE PAGE 42)
 
 We expect the merger to be accounted for as a purchase.
 
-COMPLETION OF THE MERGER IS SUBJECT TO CERTAIN CONDITIONS (SEE PAGE 83)
+COMPLETION OF THE MERGER IS SUBJECT TO CERTAIN CONDITIONS (SEE PAGE 84)
 
 The completion of the merger depends upon meeting a number of conditions,
 including the following:
@@ -759,7 +736,7 @@ including the following:
   - material accuracy as of closing of the representations and warranties made
     by SONICblue and Sensory Science, respectively.
 
-THE MERGER AGREEMENT MAY BE TERMINATED (SEE PAGE 84)
+THE MERGER AGREEMENT MAY BE TERMINATED (SEE PAGE 85)
 
 Either SONICblue or Sensory Science can terminate the merger agreement if any of
 the following occurs:
@@ -778,7 +755,7 @@ Neither party can terminate the merger agreement for the reasons described in
 the first bullet above if the merger has not closed because that party is in
 material breach of its obligations under the merger agreement.
 
-FEES MAY BE PAYABLE ON TERMINATION (SEE PAGE 84)
+FEES MAY BE PAYABLE ON TERMINATION (SEE PAGE 85)
 
 Sensory Science must pay SONICblue a termination fee of $404,000 in cash if the
 merger agreement is terminated in any of the following circumstances:
@@ -794,22 +771,91 @@ merger agreement is terminated in any of the following circumstances:
     Sensory Science or its stockholders and the merger agreement is thereafter
     terminated because the merger is not completed by September 30, 2001.
 
-CREDIT AGREEMENT AND WARRANT ISSUED BY SENSORY SCIENCE (SEE PAGES 85-86)
+CREDIT AGREEMENT AND WARRANT ISSUED BY SENSORY SCIENCE (SEE PAGES 86-87)
 
-SONICblue and Sensory Science have entered into a credit agreement, under which
-SONICblue has agreed to lend up to $3 million to Sensory Science. The credit
-agreement details the means
+In February 2001, SONICblue and Sensory Science entered into a credit agreement,
+under which SONICblue agreed to lend up to $3 million to Sensory Science. The
+credit agreement details
 
-by which Sensory Science may request loans, and specifies that $500,000 of the
-proceeds must be used for Sensory Science's iCache line of business. In
-connection with the loan, Sensory Science has granted SONICblue a warrant to
-purchase up to 5,357,143 shares of its common stock, which on an as-if assumed
-basis is approximately 27% of Sensory Science's outstanding common stock on
-April 11, 2001. The warrant terminates on the later to happen of the first
+the means by which Sensory Science may request loans, and specifies that
+$500,000 of the proceeds must be used for Sensory Science's iCache line of
+business. In connection with the funding of a $3.0 million loan under the credit
+agreement, in February 2001, Sensory Science granted SONICblue a warrant to
+purchase up to 5,357,143 shares of its common stock, which on an as exercised
+basis represents approximately 27% of Sensory Science's outstanding common stock
+on May 9, 2001. The warrant terminates on the later to happen of the first
 anniversary of SONICblue's loan to Sensory Science, or the date on which Sensory
-Science's indebtedness to SONICblue is paid in full. The credit agreement, as
-amended, is attached as Annex B and the common stock purchase warrant is
-attached as Annex C. We encourage you to read them.
+Science's indebtedness to SONICblue is paid in full. In April 2001, the credit
+agreement was amended two times, first to increase the amount available for
+borrowing to $5.0 million and then to increase the amount available for
+borrowing to $6.0 million. SONICblue funded loans totaling $3.0 million in April
+2001, increasing the aggregate amount loaned to Sensory Science to $6.0 million.
+The credit agreement was amended in May 2001 to eliminate SONICblue's right to
+obtain warrants to purchase additional shares of Sensory Science's common stock.
+The credit agreement and the amendments are attached as Annex B and the common
+stock purchase warrant is attached as Annex C. We encourage you to read them.
+
+                              RECENT DEVELOPMENTS
+
+FIRST QUARTER RESULTS FOR SONICBLUE
+
+     The following summary financial data for the three months ended March 31,
+2001 is unaudited. You should read the data together with "Risk Factors -- Risk
+Factors Related to SONICblue" beginning on page 13, "Unaudited Pro Forma
+Condensed Combined Financial Information" beginning on page 47, "Information
+About SONICblue Incorporated -- Management's Discussion and Analysis of
+Financial Condition and Results of Operations" beginning on page 61, and
+SONICblue's historical financial statements and related notes on page F-1. In
+January 2001, SONICblue completed the transfer of its graphics chip assets to S3
+Graphics Co., Ltd., or S3 Graphics, a joint venture between VIA Technologies,
+Inc., or VIA, and a wholly owned subsidiary of SONICblue. As a result, net sales
+for the three months ended March 31, 2001 exclude revenues from the graphics
+chip assets subsequent to the transfer to S3 Graphics, and consists primarily of
+net sales of Rio digital audio players, modems and home networking equipment,
+net sales from SONICblue's first joint venture with VIA, S3-VIA, Inc., and net
+sales from SONICblue's professional graphics division, which was sold to ATI
+Technologies, Inc. on March 30, 2001. During the three months ended March 31,
+2001, SONICblue recognized an unrealized loss of $406.0 million and a realized
+loss of $52.0 million related to the decline in the value of its investment in
+United Microelectronics Corporation, or UMC.
+
+                                                               THREE MONTHS ENDED
+                                                                 MARCH 31, 2001
+                                                              ---------------------
+                                                              (IN THOUSANDS, EXCEPT
+                                                               PER SHARE AMOUNTS)
+
+STATEMENT OF OPERATIONS DATA
+Net sales...................................................        $  49,886
+Gross margin (loss).........................................          (16,769)
+Research and development expenses...........................           10,675
+Selling, marketing and administrative expenses..............           24,886
+Amortization of goodwill and intangibles....................           11,124
+Loss from operations........................................          (63,454)
+Loss on UMC investment......................................         (458,038)
+Net loss....................................................        $(335,769)
+Per share amounts:
+  Basic.....................................................        $   (4.11)
+  Diluted(1)................................................        $   (4.11)
+Shares used in computing per share amounts:
+  Basic.....................................................           81,720
+  Diluted(1)................................................           81,720
+BALANCE SHEET DATA
+Cash and equivalents........................................        $  26,912
+Short-term investments......................................          206,067
+Working capital.............................................           93,379
+Total assets................................................          822,051
+Other long-term liabilities.................................            4,125
+Convertible subordinated notes..............................          103,300
+Total stockholders' equity..................................        $ 449,442
+
+- -------------------------
+
+(1)Does not include the effect of incremental shares issuable upon the
+   conversion of the convertible subordinated notes, the dilutive effect of
+   outstanding options and an adjustment to net income for the interest expense,
+   net of income taxes, related to the notes as the impact of such conversion
+   would be anti-dilutive.
 
                 SELECTED HISTORICAL AND PRO FORMA FINANCIAL DATA
 
@@ -821,7 +867,7 @@ consolidated financial statements. This information is only a summary and you
 should read it together with SONICblue's historical financial statements and
 related notes beginning on page F-1.
 
-                                                     YEARS ENDED DECEMBER 31,
+                                                     YEAR ENDED DECEMBER 31,
                                    ------------------------------------------------------------
                                       2000        1999(1)       1998         1997        1996
                                    ----------    ---------    ---------    --------    --------
@@ -853,8 +899,8 @@ Cash and equivalents.............  $   36,582    $  45,825    $  31,022    $ 90,
 Short-term investments...........     237,690       58,918       88,553      27,186      62,768
 Working capital..................     161,511      100,149      152,244     209,993     225,550
 Total assets.....................   1,099,305      722,647      325,801     492,854     485,172
-Other long-term liabilities......       4,040       12,010       13,837      27,070      20,852
 Convertible subordinated notes...     103,300      103,500      103,500     103,500     103,500
+Other long-term liabilities......       4,040       12,010       13,837      27,070      20,852
 Total stockholders' equity.......  $  671,651    $ 382,633    $ 163,530    $270,840    $260,321
 
 - -------------------------
@@ -900,7 +946,7 @@ proxy statement/prospectus.
 
                                                             NINE MONTHS
                                                                ENDED
-                                                           DECEMBER 31,                   YEARS ENDED MARCH 31,
+                                                           DECEMBER 31,                   YEAR ENDED MARCH 31,
                                                          -----------------   -----------------------------------------------
                                                           2000      1999      2000      1999      1998      1997      1996
                                                          -------   -------   -------   -------   -------   -------   -------
@@ -935,18 +981,20 @@ SELECTED UNAUDITED PRO FORMA COMBINED FINANCIAL DATA
 
      The following selected unaudited pro forma combined financial data have
 been derived from and should be read together with the unaudited pro forma
-condensed combined financial statements and related notes beginning on page 46.
+condensed combined financial statements and related notes beginning on page 47.
 This information is based on the historical consolidated balance sheets and
 related historical consolidated statements of operations of SONICblue and
 Sensory Science giving effect to the merger using the purchase method of
 accounting for business combinations. This information also gives effect to
 SONICblue's pending acquisition of ReplayTV, Inc. and the transfer of
-SONICblue's graphics chips assets to S3 Graphics Co., Ltd., a joint venture
-between VIA Technologies, Inc. and a wholly owned subsidiary of SONICblue, which
-was completed in January 2001. This information assumes the proposed merger, the
-proposed acquisition of ReplayTV and the transfer to S3 Graphics Co., Ltd.
-occurred on January 1, 2000. This information is for illustrative purposes only.
-The companies may have performed differently had they always been combined. You
+SONICblue's graphics chips assets to S3 Graphics, a joint venture between VIA
+and a wholly owned subsidiary of SONICblue, which was completed in January 2001.
+This information also includes the results of SONICblue's first joint venture
+with VIA, S3-VIA, Inc., which was not included in the graphics chip assets
+transferred to S3 Graphics. This information assumes the proposed merger, the
+proposed acquisition of ReplayTV and the transfer to S3 Graphics occurred on
+January 1, 2000. This information is for illustrative purposes only. The
+companies may have performed differently had they always been combined. You
 should not rely on the selected unaudited pro forma combined financial data as
 being indicative of the historical results that would have been achieved had the
 companies always been combined or the future results that the combined company
@@ -986,8 +1034,10 @@ subject to adjustment.
      The SONICblue pro forma data was derived by combining the historical
 consolidated financial information of SONICblue, Sensory Science, and ReplayTV
 using the purchase method of accounting for business combinations and reflecting
-the disposition of graphics chips assets to VIA as described under "Unaudited
-Pro Forma Condensed Combined Financial Statements" beginning on page 46.
+the disposition of graphics chips assets to S3 Graphics the joint venture
+between VIA and a wholly owned subsidiary of SONICblue, as described under
+"Unaudited Pro Forma Condensed Combined Financial Statements" beginning on page
+47.
 
      The Sensory Science equivalent share pro forma information shows the effect
 of the merger from the perspective of an owner of Sensory Science common stock.
@@ -995,8 +1045,8 @@ For purposes of the selected unaudited pro forma combined financial data, we
 have assumed that 0.0913 shares of SONICblue common stock will be
 
 exchanged for each outstanding share of Sensory Science common stock. See "The
-Merger Agreement" beginning on page 79 for a detailed description of the
-conversion ratio.
+Merger Agreement and Related Agreements" beginning on page 80 for a detailed
+description of the conversion ratio.
 
                                                                                  TWELVE MONTHS
                                                                  YEAR ENDED          ENDED
@@ -1036,14 +1086,13 @@ price as reported on the Nasdaq National Market and the American Stock Exchange
 for shares of SONICblue common stock and Sensory Science common stock,
 respectively. We present this information as of January 31, 2001, the last
 trading day before the public announcement of the signing of the merger
-agreement, and as of             , 2001, the latest practicable date prior to
-the printing of this document.
+agreement, and as of May 9, 2001, the latest practicable date prior to the
+printing of this document.
 
      We also present the implied equivalent per share value for shares of
 Sensory Science common stock, which is the SONICblue common stock price
 multiplied by the applicable exchange ratio based upon the closing price of
-SONICblue's common stock on January 31, 2001 and             , 2001,
-respectively.
+SONICblue's common stock on January 31, 2001 and May 9, 2001, respectively.
 
      We urge you to obtain current market quotations for Sensory Science common
 stock and SONICblue common stock before voting on the proposal described in this
@@ -1054,7 +1103,7 @@ document.
                                       ---------------    ---------    --------------    ----------------
 
 January 31, 2001....................       $0.64           $7.69          0.0710             $0.55
-           , 2001...................       $               $                                 $
+May 9, 2001.........................       $0.33           $4.13          0.0913             $0.38
 
                         CAUTIONARY STATEMENT CONCERNING
                            FORWARD-LOOKING STATEMENTS
@@ -1069,6 +1118,8 @@ intended to identify forward-looking statements. Forward-looking statements
 include, but are not limited to, statements about:
 
      - consummating the merger;
+
+     - Sensory Science's expected losses;
 
      - continuing Sensory Science's digital product strategy;
 
@@ -1270,7 +1321,9 @@ SEVERELY IMPAIR SENSORY SCIENCE'S FUTURE VIABILITY.
 leading to deterioration in its financial condition and decreases in the value
 of Sensory Science's common stock. Sensory Science's product sales have not
 generated sufficient cash for it to operate effectively or to fund necessary
-marketing, inventory purchase and product development programs.
+marketing, inventory purchase and product development programs. As a result,
+Sensory Science expects its losses for its fiscal year ended March 31, 2001 to
+be between $14.0 and $16.0 million.
 
      If the merger is not consummated, Sensory Science will attempt to
 restructure, with the assistance of its major suppliers, to support these
@@ -1283,12 +1336,12 @@ ability to continue operations. Under those circumstances, Sensory Science would
 become increasingly unable to meet current financial obligations and could
 consequently face creditor foreclosure on its assets.
 
-A CHANGE IN FINANCIAL ARRANGEMENTS COULD ADVERSELY AFFECT SENSORY SCIENCE'S
-LIQUIDITY.
+LIMITATIONS IN CURRENT FINANCIAL ARRANGEMENTS COULD ADVERSELY AFFECT SENSORY
+SCIENCE'S LIQUIDITY.
 
      Sensory Science funds its cash requirements through a combination of cash
 flows from operations, loans under a line of credit from Congress Financial
-Corporation, a line of credit from a major supplier and a loan from SONICblue.
+Corporation, a line of credit from a major supplier and loans from SONICblue.
 During its fiscal year, the seasonality of Sensory Science's product sales
 generally requires incremental investments in working capital, primarily in
 inventories and receivables. Sensory Science's primary source of funds for
@@ -1298,13 +1351,18 @@ determined by specific inventory and receivable balances. The Congress line of
 credit, as amended, expires in November 2002, at which time Sensory Science may
 have to enter into a new line of credit. Sensory Science has also fully utilized
 its line of credit with a major supplier. In connection with the merger,
-SONICblue loaned Sensory Science $3.0 million with a one year term, subject to
-certain conditions. Sensory Science's ability to purchase products sold in the
-marketplace to meet customer demand has been severely limited by the
-unavailability of funds under its lines of credit and its inability to obtain
-additional financing. An adverse change in Sensory Science's credit
-arrangements, combined with the likely difficulty in obtaining alternative
-funding, would have a material adverse affect on Sensory Science's liquidity.
+SONICblue has loaned Sensory Science $6.0 million with a one year term, subject
+to certain conditions, SONICblue may continue to make additional loans to
+Sensory Science to fund operations, although it is not obligated to do so.
+Sensory Science's ability to purchase products sold in the marketplace to meet
+customer demand has been severely limited by the unavailability of funds under
+its lines of credit and its inability to obtain additional financing. Recently,
+Sensory Science has been required to purchase products from its suppliers on a
+cash basis. Consequently, the unwillingness on the part of SONICblue to make
+additional loans to Sensory Science or an adverse change in Sensory Science's
+current credit arrangements, combined with the likely difficulty in obtaining
+alternative funding, would have a material adverse affect on Sensory Science's
+liquidity.
 
 PRICE CUTTING IN RESPONSE TO COMPETITIVE PRESSURES COULD RESULT IN DECREASING
 PROFIT MARGINS AND DETERIORATING OPERATING RESULTS FOR SENSORY SCIENCE.
@@ -1314,18 +1372,18 @@ competition. From time to time, Sensory Science has reduced the prices for some
 of its products to respond to competitive and consumer pressures and to maintain
 market share. Any further reductions in Sensory Science's prices to respond to
 these pressures would have an adverse impact on its profit margins and
-liquidity. In addition, if Sensory Science's sales volumes fail to grow
-sufficiently to offset any reduction in margins, its results of operations would
-be materially adversely affected. The impact of these factors increases if
-Sensory Science does not have the resources to continue to develop new digital
-consumer products and otherwise respond to issues relating to the future
-obsolescence of the VCR as the primary home video recording device. Sensory
-Science believes that a more diversified product portfolio that would occur as a
-result of the merger may
+liquidity. In addition, if Sensory
 
-mitigate the adverse impact of decreasing margins. A failure to consummate the
-merger may therefore expose Sensory Science to more adverse effects of
-decreasing margins than would be experienced if the merger is consummated.
+Science's sales volumes fail to grow sufficiently to offset any reduction in
+margins, its results of operations would be materially adversely affected. The
+impact of these factors increases if Sensory Science does not have the resources
+to continue to develop new digital consumer products and otherwise respond to
+issues relating to the future obsolescence of the VCR as the primary home video
+recording device. Sensory Science believes that a more diversified product
+portfolio that would occur as a result of the merger may mitigate the adverse
+impact of decreasing margins. A failure to consummate the merger may therefore
+expose Sensory Science to more adverse effects of decreasing margins than would
+be experienced if the merger is consummated.
 
 THE ANNOUNCEMENT OF A FAILURE TO CONSUMMATE THE MERGER MAY MAKE IT HARDER FOR
 SENSORY SCIENCE TO OBTAIN PRODUCTS FOR SALE AND MAINTAIN ITS DISTRIBUTION
@@ -1346,31 +1404,38 @@ SONICBLUE MAY NOT BE ABLE TO ACHIEVE OPERATING PROFITABILITY.
 
      In January 2001, SONICblue completed the transfer of its graphics chips
 business to S3 Graphics Co., Ltd., a joint venture between VIA Technologies,
-Inc. and a wholly owned subsidiary of SONICblue. SONICblue is realigning its
-resources to focus on its digital media, consumer electronics, Internet
-appliance and home networking businesses. SONICblue has a limited operating
-history with these businesses, and its shift in focus may prove to be
-unsuccessful. In addition, the industry is new and continually evolving.
-SONICblue's digital media, consumer electronics, Internet appliance and home
-networking businesses compete with larger, more established competitors, and
-SONICblue may be unable to achieve market success. SONICblue's profitability
-depends on its ability to successfully implement its new business strategy.
+Inc. and a wholly owned subsidiary of SONICblue. While SONICblue continues to
+own an interest in another joint venture which produces graphics chips,
+SONICblue is realigning its resources to focus on its digital media, consumer
+electronics, Internet appliance and home networking businesses. SONICblue has a
+limited operating history with these businesses, and its shift in focus may
+prove to be unsuccessful. In addition, the industry is new and continually
+evolving. SONICblue's digital media, consumer electronics, Internet appliance
+and home networking businesses compete with larger, more established
+competitors, and SONICblue may be unable to achieve market success. SONICblue's
+profitability depends on its ability to successfully implement its new business
+strategy.
 
 SONICBLUE EXPERIENCED NET OPERATING LOSSES IN THE PAST AND MAY EXPERIENCE NET
 OPERATING LOSSES AGAIN IN THE FUTURE.
 
-     SONICblue had net income of $312.8 million for the year ended December 31,
-2000, primarily from recognizing a one time gain of $884.2 million on the United
-Microelectronics Corporation, or UMC, shares but not as a result of income from
-operations. SONICblue had a net loss of $30.8 million for 1999, and SONICblue's
-sales during that time consisted of primarily older generation and lower price
-products that were sold into markets with significant price competition. With
-the completion of the transfer of SONICblue's graphics chips business,
-SONICblue's ability to achieve operating profitability depends on its success in
-refocusing its business resources and in executing its business plan for its
-refocused business. In addition, SONICblue must achieve positive gross margins
-at a level sufficient to offset its operating expenses. SONICblue experienced
-negative gross margins in 2000 and could continue to experience negative gross
+     SONICblue had a net loss of $335.8 million for the three months ended March
+31, 2001, primarily resulting from the recognition of an unrealized loss of
+$406.0 million and a realized loss of $52.0 million related to the decline in
+value of the UMC shares. SONICblue had net income of $312.8 million for the year
+ended December 31, 2000, primarily from recognizing a one time gain of $884.2
+million on the UMC shares but not as a result of income from operations.
+SONICblue had a net loss of $30.8 million for 1999, and SONICblue's sales during
+that time consisted of primarily older generation and lower price products that
+were sold into markets with significant price competition. With the completion
+of the transfer of SONICblue's graphics chips business, SONICblue's ability to
+achieve operating profitability depends primarily on its success in refocusing
+its business resources and in executing its business plan for its refocused
+business. In addition, SONICblue must achieve positive gross margins at a level
+sufficient to offset its operating expenses. SONICblue experienced negative
+gross margins in 2000 and in the first quarter of 2001 and could continue to
+experience negative gross margins. Price competition and declining prices for
+consumer goods in the first quarter of 2001 contributed to the negative gross
 margins. SONICblue cannot assure you that it will be able to achieve operating
 profitability. If SONICblue is unable to achieve operating profitability or
 incurs future losses and negative cash flow, its stock price would likely
@@ -1402,7 +1467,8 @@ companies prevail in the litigation, and Napster or companies offering similar
 services are forced to limit the selection of music available for download or
 are forced to go out of business, there would be a reduction in the amount of
 music available to consumers on the Internet. In March 2001, the court issued an
-injunction that orders Napster to police the trading of songs on its web site.
+injunction that orders Napster to prevent users from trading copyrighted songs
+on its web site.
 
      Some web sites and record companies are working to provide fee-based
 downloading of copyright-protected music files. If these web sites are
@@ -1440,10 +1506,13 @@ including its Rio players. Historically, over 75% of the net sales of
 SONICblue's subsidiary, Diamond, have come from sales of graphics and video
 accelerator subsystems. Excluding the graphics board business, the Rio players
 have historically accounted for over 90% of the remainder of Diamond's sales. In
-2000, Rio players and products accounted for 12.2% of SONICblue's net sales. A
-decline in demand or average selling prices for digital audio players, modem and
-home networking products would have a material adverse effect on SONICblue's
-sales and operating results.
+2000, Rio players and products accounted for 12.2% of SONICblue's net sales. For
+the three months ended March 31, 2001, Rio players and products accounted for a
+substantial portion of SONICblue's net sales excluding net sales from S3-VIA,
+Inc. A decline in demand or average selling prices for digital audio
+
+players, modem and home networking products would have a material adverse effect
+on SONICblue's sales and operating results.
 
 BECAUSE SONICBLUE'S LARGEST FINANCIAL ASSET IS ITS SHARES OF UNITED
 MICROELECTRONICS CORPORATION, THE VOLATILITY OF SONICBLUE COMMON STOCK MAY BE
@@ -1457,14 +1526,12 @@ general appears to be more severe than previously anticipated. There is a great
 deal of uncertainty regarding when the semiconductor industry will recover from
 this down cycle. Because the UMC shares are SONICblue's largest asset, when the
 price per share of UMC's stock increases or declines, the price of SONICblue's
-common stock on the Nasdaq National Market tends to follow
-
-changes in UMC's stock price. Fluctuations in the price of SONICblue common
-stock caused by changes in UMC's stock price may or may not reflect SONICblue's
-actual or anticipated business prospects or quarterly results. Also,
-fluctuations in UMC's stock price may cause fluctuations in SONICblue's stock
-price when there is no material news regarding SONICblue or any change in its
-results.
+common stock on the Nasdaq National Market tends to follow changes in UMC's
+stock price. Fluctuations in the price of SONICblue common stock caused by
+changes in UMC's stock price may or may not reflect SONICblue's actual or
+anticipated business prospects or quarterly results. Also, fluctuations in UMC's
+stock price may cause fluctuations in SONICblue's stock price when there is no
+material news regarding SONICblue or any change in its results.
 
 BECAUSE THE PRICE OF THE UMC SHARES HAS DECLINED SINCE SONICBLUE RECORDED THEIR
 CARRYING VALUE, SONICBLUE MAY NEED TO REPORT A LOSS IN OTHER INCOME AND EXPENSE
@@ -1480,14 +1547,15 @@ semiconductor industry as a whole and was temporary in nature due to the
 historically cyclical nature of the industry. Subsequent to year end, the market
 value of the investment in UMC remained significantly below cost. As of March
 31, 2001, SONICblue's 252 million UMC shares held as of that date were worth
-approximately $408 million, based on the closing price of UMC shares on the
+approximately $408.0 million, based on the closing price of UMC shares on the
 Taiwan Stock Exchange on that date and the U.S. dollar to New Taiwan Dollar
 exchange rate prevailing on that date. The downturn in the semiconductor
 industry and the economy in general appears to be more severe than previously
 anticipated. There is a great deal of uncertainty regarding when the
-semiconductor industry will recover from this down cycle. Should SONICblue
-conclude that the decline in value is other than temporary, it will report a
-significant loss in other income and expense at that time. Fluctuations in the
+semiconductor industry will recover from this down cycle. Because SONICblue
+concluded that the decline in value was not temporary, it reported an unrealized
+loss on the UMC investment of $406.0 million and a realized loss of $52.0
+million for the three months ended March 31, 2001. Future fluctuations in the
 value of SONICblue's portfolio investments, including the UMC shares, could
 negatively impact SONICblue's financial condition.
 
@@ -1513,11 +1581,13 @@ obtain manufacturing capacity and develop efficiencies to successfully produce
 ProGear in volume, it will be unable to supply information appliances in the
 vertical markets. frontpath's development of products for the home depends upon
 its ability to successfully manufacture and deploy information appliances in
-volume. If the market for information appliances does not develop or develops
-more slowly than SONICblue anticipates, or if SONICblue fails to meet the demand
-of that market or otherwise fails to achieve market penetration or price
-stability for its information appliance products, frontpath will experience
-losses that will harm SONICblue's operating results.
+volume. If the market for
+
+information appliances does not develop or develops more slowly than SONICblue
+anticipates, or if SONICblue fails to meet the demand of that market or
+otherwise fails to achieve market penetration or price stability for its
+information appliance products, frontpath will experience losses that will harm
+SONICblue's operating results.
 
 SALES OF DIGITAL MEDIA AND CONNECTIVITY PRODUCTS DEPEND UPON THE WIDESPREAD
 AVAILABILITY AND ADOPTION OF BROADBAND INTERNET ACCESS.
@@ -1527,11 +1597,9 @@ future consumer-oriented frontpath information appliances, rely or will rely on
 high-speed access to the Internet to provide compelling content. Since SONICblue
 does not have control over the reliability, availability and quality of
 broadband access and related services, it cannot guarantee that broadband access
-will be available to all
-
-consumers who wish to use information appliances. Factors that may impede market
-acceptance of broadband services and products that rely on high-speed Internet
-access include:
+will be available to all consumers who wish to use information appliances.
+Factors that may impede market acceptance of broadband services and products
+that rely on high-speed Internet access include:
 
      - limited geographical service areas and lack of availability of
        cost-effective, high-speed service;
@@ -1576,10 +1644,33 @@ infrastructure itself. As a result, the emergence and growth of the market for
 SONICblue's products will depend on improvements being made to the entire
 Internet infrastructure.
 
-THE JOINT VENTURE WITH VIA WILL REQUIRE SONICBLUE TO PAY SPECIFIED LIQUIDATED
-DAMAGES IF CERTAIN EVENTS OCCUR, AND EARN-OUT PAYMENTS TO SONICBLUE FROM THE
-JOINT VENTURE ARE SUBJECT TO THE JOINT VENTURE MEETING AGGRESSIVE PROFITABILITY
-GOALS.
+NET SALES FROM SONICBLUE'S JOINT VENTURE, S3-VIA, INC., WILL LIKELY DECLINE IN
+THE FUTURE, POTENTIALLY RESULTING IN A DECLINE IN SONICBLUE'S CONSOLIDATED
+REVENUES.
+
+     Although SONICblue completed the transfer of its wholly owned graphics chip
+business assets to a joint venture between VIA and a wholly owned subsidiary of
+SONICblue, in January 2001, SONICblue retained its ownership of 50.1% of the
+voting common stock of S3-VIA, Inc., a joint venture between SONICblue and VIA.
+SONICblue consolidates the accounts of S3-VIA, Inc. in its financial statements.
+S3-VIA, Inc. may not develop new technology or products. As a result, the amount
+of net sales received
+
+by SONICblue through its ownership interest in S3-VIA, Inc. is expected to
+decline as its product offerings age and become obsolete. Because SONICblue
+consolidates S3-VIA, Inc.'s accounts into its financial statements, a decline in
+S3-VIA, Inc.'s net sales will reduce SONICblue's revenues.
+
+     In addition, SONICblue may reduce or completely eliminate its holdings in
+S3-VIA, Inc. as part of its strategy to exit the graphics business. If
+SONICblue's interest in S3-VIA, Inc. falls below 50% of the voting common stock,
+SONICblue will not consolidate S3-VIA Inc.'s accounts in its financial
+statements and SONICblue revenues will be reduced.
+
+S3 GRAPHICS, THE JOINT VENTURE WITH VIA WILL REQUIRE SONICBLUE TO PAY SPECIFIED
+LIQUIDATED DAMAGES IF CERTAIN EVENTS OCCUR, AND EARN-OUT PAYMENTS TO SONICBLUE
+FROM THE JOINT VENTURE ARE SUBJECT TO THE JOINT VENTURE MEETING AGGRESSIVE
+PROFITABILITY GOALS.
 
      The investment agreement with VIA provides that, upon occurrence of certain
 events, SONICblue will pay liquidated damages, subject to a maximum damages cap.
@@ -1595,11 +1686,10 @@ BUSINESS.
      In the past two years, and particularly following its merger with Diamond,
 SONICblue has experienced a significant expansion in the overall level of its
 business and the scope of its operations, including manufacturing, research and
-development, marketing, technical support, customer service, sales
-
-and logistics. This expansion has resulted in significant challenges, and a need
-for substantial investment in, infrastructure, process development and
-information systems, including:
+development, marketing, technical support, customer service, sales and
+logistics. This expansion has resulted in significant challenges, and a need for
+substantial investment in, infrastructure, process development and information
+systems, including:
 
      - attracting, integrating and retaining key employees;
 
@@ -1634,10 +1724,11 @@ ACHIEVE ITS REVENUE OR PROFITABILITY EXPECTATIONS.
      SONICblue's quarterly and annual results of operations have varied
 significantly in the past and are likely to continue to vary in the future due
 to a number of factors, many of which are beyond SONICblue's control. Any one or
-more of the factors listed below or other factors could cause SONICblue to fail
-to achieve its revenue or profitability expectations. The failure to meet market
-expectations would likely cause a decline in SONICblue's stock price. These
-factors include:
+more of the factors listed below or other factors could cause
+
+SONICblue to fail to achieve its revenue or profitability expectations. The
+failure to meet market expectations would likely cause a decline in SONICblue's
+stock price. These factors include:
 
      - SONICblue's ability to develop, introduce, produce in volume quantities
        and market successfully new or enhanced products;
@@ -1738,11 +1829,9 @@ home networking markets in which SONICblue competes are intensely competitive
 and are likely to become more competitive in the future. Because of this
 competition, SONICblue faces a constant and increasing risk of losing customers
 to its competitors. The competitive environment also creates downward pressure
-on prices and requires higher
-
-spending to address the competition, both of which tend to keep gross margins
-lower. SONICblue believes that the principal competitive factors for its
-products are:
+on prices and requires higher spending to address the competition, both of which
+tend to keep gross margins lower. SONICblue believes that the principal
+competitive factors for its products are:
 
      - performance and quality;
 
@@ -1775,27 +1864,29 @@ recently introduced a digital audio player.
 
      In some markets where SONICblue is a relatively new entrant, such as
 modems, home networking, sound cards and consumer electronics, including digital
-audio or Internet music players and Internet appliances, it faces dominant
-competitors that include Compaq (Internet appliances and digital audio players),
-3Com (home networking and modems), Creative Technology under the name Creative
-Labs (modems and digital audio players), Handspring (personal digital
-assistants, or PDAs, and digital audio player add-ons to PDAs), Gateway (home
-networking, home network digital audio players and Internet appliances), Intel
-(home networking and digital audio players), Motorola (Internet appliances and
-handheld consumer electronics), Palm (PDAs), Samsung (digital audio players,
-digital audio player mobile telephones and Internet appliances), Sony (consumer
-electronic music, digital audio players and a recently announced Internet
-appliance) and Thompson Multimedia (digital audio players). Some of SONICblue's
-products face a variety of competitive sources. For example, digital audio
-players compete against traditional stereos and CD players, and frontpath
-information appliances face competition from manufacturers of stand alone
-Internet appliances, wireless portable Internet appliances, PDAs, and
-manufacturers of PCs. In addition, the markets in which SONICblue competes are
-expected to become increasingly competitive as PC products support increasingly
-more robust multimedia functions and companies that previously supplied products
-providing distinct functions (for example, companies today primarily in the
-sound, modem, microprocessor or motherboard markets) emerge as competitors
-across broader or more integrated product categories.
+audio or Internet music players and Internet
+
+appliances, it faces dominant competitors that include Compaq (Internet
+appliances and digital audio players), 3Com (home networking and modems),
+Creative Technology under the name Creative Labs (modems and digital audio
+players), Handspring (personal digital assistants, or PDAs, and digital audio
+player add-ons to PDAs), Gateway (home networking, home network digital audio
+players and Internet appliances), Intel (home networking and digital audio
+players), Motorola (Internet appliances and handheld consumer electronics), Palm
+(PDAs), Samsung (digital audio players, digital audio player mobile telephones
+and Internet appliances), Sony (consumer electronic music, digital audio players
+and a recently announced Internet appliance) and Thompson Multimedia (digital
+audio players). Some of SONICblue's products face a variety of competitive
+sources. For example, digital audio players compete against traditional stereos
+and CD players, and frontpath information appliances face competition from
+manufacturers of stand alone Internet appliances, wireless portable Internet
+appliances, PDAs, and manufacturers of PCs. In addition, the markets in which
+SONICblue competes are expected to become increasingly competitive as PC
+products support increasingly more robust multimedia functions and companies
+that previously supplied products providing distinct functions (for example,
+companies today primarily in the sound, modem, microprocessor or motherboard
+markets) emerge as competitors across broader or more integrated product
+categories.
 
 SONICBLUE OPERATES IN MARKETS THAT ARE HIGHLY CYCLICAL AND VULNERABLE TO SHARP
 DECLINES IN DEMAND AND AVERAGE SELLING PRICES.
@@ -1807,14 +1898,13 @@ experience significantly reduced demand for its products and may be pressured to
 reduce average selling prices. Although SONICblue is changing its focus to
 concentrate on its Internet-related and digital media businesses, substantially
 all of its revenues during 1999 and 2000 were derived from products sold for use
-in or with personal computers. In the near term, SONICblue expects to
-
-continue to derive most of its revenues from the sale of digital audio products,
-such as the Rio players. Changes in demand in digital media and consumer
-electronics markets could be large and sudden. Since retailers often build
-inventories during periods of anticipated growth, they may be left with excess
-inventories if market growth slows or if they have incorrectly forecasted
-product transitions. In these cases, the retailers may abruptly stop purchasing
+in or with personal computers. In the near term, SONICblue expects to continue
+to derive most of its revenues from the sale of digital audio products, such as
+the Rio players. Changes in demand in digital media and consumer electronics
+markets could be large and sudden. Since retailers often build inventories
+during periods of anticipated growth, they may be left with excess inventories
+if market growth slows or if they have incorrectly forecasted product
+transitions. In these cases, the retailers may abruptly stop purchasing
 additional inventory from suppliers like SONICblue until the excess inventory
 has been used. This suspension of purchases or any reduction in demand for
 SONICblue's products would negatively impact its revenues and financial results.
@@ -1850,8 +1940,8 @@ to the Diamond merger, thereby decreasing SONICblue's average gross margins. In
 addition, because the products remaining in SONICblue's refocused business
 include Diamond products such as the Rio players, SONICblue's average gross
 margins will likely be lower after the transfer of the graphics chips assets to
-the joint venture between VIA and a wholly owned subsidiary of SONICblue than
-prior to the transfer.
+S3 Graphics, the joint venture between VIA and a wholly owned subsidiary of
+SONICblue than prior to the transfer.
 
 IF SONICBLUE FAILS TO IDENTIFY NEW PRODUCT OPPORTUNITIES OR DEVELOP AND MARKET
 NEW AND ENHANCED PRODUCTS, IT WILL NOT BE ABLE TO COMPETE SUCCESSFULLY.
@@ -1877,11 +1967,10 @@ and development in the future consistent with its historical research and
 development expenditures related to its current refocused businesses. SONICblue
 has in the past experienced delays in completing the development and
 introduction of new products and may experience similar delays in the future. In
-the past, SONICblue's business was
-
-seriously harmed when it developed products that failed to achieve significant
-market acceptance and therefore was unable to compete successfully in its
-markets. This type of failure could occur again in the future.
+the past, SONICblue's business was seriously harmed when it developed products
+that failed to achieve significant market acceptance and therefore was unable to
+compete successfully in its markets. This type of failure could occur again in
+the future.
 
 SONICBLUE MUST MANAGE PRODUCT TRANSITIONS SUCCESSFULLY IN ORDER TO REMAIN
 COMPETITIVE.
@@ -1913,17 +2002,18 @@ or on the spot market at a higher cost. SONICblue rarely has guaranteed supply
 arrangements with its suppliers, and suppliers may not be able to meet its
 current or future component requirements. If SONICblue is forced to use
 alternative suppliers of components, it may have to alter its product designs to
-accommodate these components. Alteration of product designs to use alternative
-components could cause significant delays and reduce its production of the
-related products. In addition, from time to time SONICblue has experienced
-difficulty meeting certain product shipment dates to customers for various
-reasons. These reasons include component delivery delays, component shortages
-and component quality deficiencies. Delays in the delivery of components,
-component shortages and supplier product quality deficiencies will likely
-continue to occur in the future. These delays or problems have in the past and
-could in the future result in impaired margins, reduced production volumes,
-strained customer relations and loss of business. For example, flash memory
-components, which are used in SONICblue's Rio digital audio players,
+accommodate these components. Alteration of
+
+product designs to use alternative components could cause significant delays and
+reduce its production of the related products. In addition, from time to time
+SONICblue has experienced difficulty meeting certain product shipment dates to
+customers for various reasons. These reasons include component delivery delays,
+component shortages and component quality deficiencies. Delays in the delivery
+of components, component shortages and supplier product quality deficiencies
+will likely continue to occur in the future. These delays or problems have in
+the past and could in the future result in impaired margins, reduced production
+volumes, strained customer relations and loss of business. For example, flash
+memory components, which are used in SONICblue's Rio digital audio players,
 significantly increased in price in September 1999 due in part to supply
 interruptions arising from the earthquake in Taiwan. In addition, industry-wide
 demand for flash memory components has increased dramatically, causing increases
@@ -1936,13 +2026,16 @@ Excess inventory resulting from over-purchases, obsolescence or a decline in the
 market value of such inventory could result in inventory write-offs, which would
 have a negative effect on SONICblue's financial results as happened in the first
 and second quarters of 1998. Although these over-purchases related to the
-graphics chips business, they could occur with respect to other products.
-Similarly, prior to SONICblue's acquisition of Diamond, Diamond's perception of
-component shortages caused Diamond to over-purchase certain components and pay
-surcharges for components that subsequently declined in value in the second,
-third and fourth quarters of 1998. In addition, SONICblue's inventory sell-offs
-or sell-offs by its competitors could trigger channel price protection charges,
-further reducing its gross margins and profitability.
+graphics chips business, they could occur with respect to other products
+including those of S3-VIA, Inc., a joint venture that SONICblue and VIA
+established in November 1999 to design, produce and market integrated graphics
+and core logic chip sets. Similarly, prior to SONICblue's acquisition of
+Diamond, Diamond's perception of component shortages caused Diamond to
+over-purchase certain components and pay surcharges for components that
+subsequently declined in value in the second, third and fourth quarters of 1998.
+In addition, SONICblue's inventory sell-offs or sell-offs by its competitors
+could trigger channel price protection charges, further reducing its gross
+margins and profitability.
 
 IF A NEW STORAGE MEDIUM BECOMES THE INDUSTRY STANDARD FOR DIGITAL AUDIO AND
 SONICBLUE IS UNABLE TO ADAPT ITS PRODUCTS, SONICBLUE MAY NOT BE ABLE TO COMPETE.
@@ -2010,7 +2103,6 @@ subcontractors could cease supplying the services, products or components at any
 time with limited or no penalty. If SONICblue needs to replace a key
 subcontractor, it could incur significant manufacturing set-up costs and delays.
 Also, SONICblue may be unable to find suitable replacement subcontractors.
-
 SONICblue's emphasis on maintaining low internal and channel inventory levels
 may exacerbate the effects of any shortage that may result from the use of
 sole-source subcontractors during periods of tight supply or rapid order growth.
@@ -2044,10 +2136,12 @@ only after SONICblue's products have been installed and used by customers. From
 time to time, SONICblue has become aware of problems with components, product
 designs and other defects. Errors or defects in SONICblue's products may arise
 in the future, and, if significant or perceived to be significant, could result
-in rejection of SONICblue's products, product returns or recalls, damage to
-SONICblue's reputation, lost revenues, diverted development resources and
-increased customer service and support costs and warranty claims. Errors or
-defects in SONICblue's products could also result in product liability claims.
+in rejection of SONICblue's products, product
+
+returns or recalls, damage to SONICblue's reputation, lost revenues, diverted
+development resources and increased customer service and support costs and
+warranty claims. Errors or defects in SONICblue's products could also result in
+product liability claims.
 
      SONICblue includes, or bundles, third party software, including operating
 systems, with its hardware products. For example, SONICblue includes software
@@ -2151,10 +2245,9 @@ products of SONICblue's competitors. Similarly, SONICblue's competitors attempt
 to ensure that their own products are receiving a disproportionately higher
 share of the distributors' working capital and logistics resources. SONICblue
 may experience significant decreases in revenues if its competitors are able to
-secure more resources than
-
-SONICblue is able to secure from distributors during periods of slower demand or
-if periods of slower demand result in price protection charges.
+secure more resources than SONICblue is able to secure from distributors during
+periods of slower demand or if periods of slower demand result in price
+protection charges.
 
 SONICBLUE'S ABILITY TO MARKET AND DISTRIBUTE ITS PRODUCTS DEPENDS IN PART UPON
 ITS CURRENT AND FUTURE RELATIONSHIPS WITH ORIGINAL EQUIPMENT MANUFACTURERS, OR
@@ -2184,17 +2277,19 @@ and the associated loss of sales. Also, the protection provided to SONICblue's
 proprietary technology by the laws of foreign jurisdictions, many of which offer
 less protection than the United States, may not be sufficient to protect its
 technology. It is common in the personal electronics and Internet device
-industries for companies to assert intellectual property infringement claims
-against other companies. Therefore, SONICblue's products may also become the
-target of infringement claims. These infringement claims or any future claims
-could cause SONICblue to spend significant time and money to defend its
-products, redesign its products or develop or license a substitute technology.
-SONICblue may be unsuccessful in acquiring or developing substitute technology
-and any required license may be unavailable on commercially reasonable terms, if
-at all. In addition, an adverse result in litigation could require SONICblue to
-pay substantial damages, cease the manufacture, use, sale, offer for sale and
-importation of infringing products, or discontinue the use of certain processes.
-Any of these events could materially harm SONICblue's business.
+industries for companies to assert intellectual property
+
+infringement claims against other companies. Therefore, SONICblue's products may
+also become the target of infringement claims. These infringement claims or any
+future claims could cause SONICblue to spend significant time and money to
+defend its products, redesign its products or develop or license a substitute
+technology. SONICblue may be unsuccessful in acquiring or developing substitute
+technology and any required license may be unavailable on commercially
+reasonable terms, if at all. In addition, an adverse result in litigation could
+require SONICblue to pay substantial damages, cease the manufacture, use, sale,
+offer for sale and importation of infringing products, or discontinue the use of
+certain processes. Any of these events could materially harm SONICblue's
+business.
 
      Litigation by or against SONICblue could result in significant expense and
 could divert the efforts of its technical and management personnel, regardless
@@ -2275,15 +2370,15 @@ subcontractors and affect its Asian customers.
 SONICBLUE HAS A SIGNIFICANT LEVEL OF DEBT, WHICH MAY HARM ITS ABILITY TO OBTAIN
 ADDITIONAL FINANCING OR ADVERSELY AFFECT ITS LIQUIDITY.
 
-     At December 31, 2000, SONICblue had total debt and other long-term
-liabilities outstanding of $107 million, including a $70 million line of credit
-secured by SONICblue's shares of UMC. Foreclosure on the UMC shares would harm
-SONICblue's financial condition. The degree to which SONICblue is leveraged
-could harm its ability to obtain additional financing for working capital or
-other purposes and could make SONICblue more vulnerable to economic downturns
-and competitive pressures. SONICblue's significant leverage could also adversely
-affect its liquidity, as a substantial portion of available cash from operations
-may have to be applied to meet debt service requirements. In the event of a cash
+     At March 31, 2001, SONICblue had total debt and other long-term liabilities
+outstanding of $178 million, including a $70 million line of credit secured by
+SONICblue's shares of UMC. Foreclosure on the UMC shares would harm SONICblue's
+financial condition. The degree to which SONICblue is leveraged could harm its
+ability to obtain additional financing for working capital or other purposes and
+could make SONICblue more vulnerable to economic downturns and competitive
+pressures. SONICblue's significant leverage could also adversely affect its
+liquidity, as a substantial portion of available cash from operations may have
+to be applied to meet debt service requirements. In the event of a cash
 shortfall, SONICblue could be forced to reduce other expenditures to be able to
 meet such debt service requirements.
 
@@ -2322,30 +2417,32 @@ COULD HAVE A NEGATIVE FINANCIAL IMPACT ON SONICBLUE.
      Since November 1997, a number of complaints have been filed in federal and
 state courts seeking unspecified damages on behalf of an alleged class of
 persons who purchased shares of SONICblue's common stock at various times
-between April 18, 1996 and November 3, 1997. The complaints name as defendants
-SONICblue, certain of its officers and former officers, and certain directors of
-SONICblue, asserting that they violated federal and state securities laws by
-misrepresenting and failing to disclose certain information about SONICblue's
-business. In addition, certain stockholders have filed derivative actions in the
-state courts of California and Delaware seeking recovery on behalf of SONICblue,
-alleging, among other things, breach of fiduciary duties by such individual
-defendants. The plaintiffs in the derivative action in Delaware have not taken
-any steps to pursue their case. The derivative cases in California State court
-have been consolidated, and plaintiffs have filed a consolidated amended
-complaint. The court has entered a stipulated order in those derivative cases
-suspending court proceedings and coordinating discovery in them with discovery
-in the class actions in California State courts. On plaintiffs' motion, the
-federal court has dismissed the federal class actions without prejudice. The
-class actions in California State court have been consolidated, and plaintiffs
-have filed a consolidated amended complaint. SONICblue has answered that
-complaint. Discovery is proceeding. On January 22, 2001, four of the insurance
-carriers which issued directors and officers insurance to SONICblue filed suit
-against all parties named as defendants in the securities litigation, claiming
-that the carriers have no obligation to provide coverage under the California
-Insurance Code. While management intends to defend the actions against SONICblue
-vigorously, there can be no assurance that an adverse result or settlement with
-regard to these lawsuits would not have a material adverse effect on SONICblue's
-financial condition or results of operations.
+between April 18, 1996 and November 3, 1997. The complaints name as
+
+defendants SONICblue, certain of its officers and former officers, and certain
+directors of SONICblue, asserting that they violated federal and state
+securities laws by misrepresenting and failing to disclose certain information
+about SONICblue's business. In addition, certain stockholders have filed
+derivative actions in the state courts of California and Delaware seeking
+recovery on behalf of SONICblue, alleging, among other things, breach of
+fiduciary duties by such individual defendants. The plaintiffs in the derivative
+action in Delaware have not taken any steps to pursue their case. The derivative
+cases in California State court have been consolidated, and plaintiffs have
+filed a consolidated amended complaint. The court has entered a stipulated order
+in those derivative cases suspending court proceedings and coordinating
+discovery in them with discovery in the class actions in California State
+courts. On plaintiffs' motion, the federal court has dismissed the federal class
+actions without prejudice. The class actions in California State court have been
+consolidated, and plaintiffs have filed a consolidated amended complaint.
+SONICblue has answered that complaint. Discovery is proceeding. On January 22,
+2001, four of the insurance carriers which issued directors and officers
+insurance to SONICblue filed suit against all parties named as defendants in the
+securities litigation, claiming that the carriers have no obligation to provide
+coverage under the California Insurance Code. While management intends to defend
+the actions against SONICblue vigorously, there can be no assurance that an
+adverse result or settlement with regard to these lawsuits would not have a
+material adverse effect on SONICblue's financial condition or results of
+operations.
 
      SONICblue has received from the SEC a request for information relating to
 SONICblue's restatement announcement in November 1997. SONICblue has responded
@@ -2356,21 +2453,21 @@ naming Diamond, which were filed in June and July 1996 and June 1997 in the
 California Superior Court for Santa Clara County and the U.S. District Court for
 the Northern District of California. Certain former executive officers and
 directors of Diamond are also named as defendants. The plaintiffs purport to
-represent a class of all
-
-persons who purchased Diamond's common stock between October 18, 1995 and June
-20, 1996, or the Class Period. The complaints allege claims under the federal
-securities laws and California law. The plaintiffs allege that Diamond and the
-other defendants made various material misrepresentations and omissions during
-the Class Period. The complaints do not specify the amount of damages sought. On
-March 24, 2000, the District Court for the Northern District of California
-dismissed the federal action without prejudice. The parties have tentatively
-agreed to settle this matter, subject to final documentation and court approval,
-for a payment of $15.0 million. SONICblue funded $4.5 million of the settlement
-on November 1, 2000. SONICblue previously accrued this amount in connection with
-the merger with Diamond. SONICblue believes that Diamond's insurance covers the
-remaining $10.5 million of the settlement and Diamond's insurers have funded
-that amount into the settlement.
+represent a class of all persons who purchased Diamond's common stock between
+October 18, 1995 and June 20, 1996, or the Class Period. The complaints allege
+claims under the federal securities laws and California law. The plaintiffs
+allege that Diamond and the other defendants made various material
+misrepresentations and omissions during the Class Period. The complaints do not
+specify the amount of damages sought. On March 24, 2000, the District Court for
+the Northern District of California dismissed the federal action without
+prejudice. The parties have tentatively agreed to settle this matter, subject to
+final documentation and court approval, for a payment of $15.0 million.
+SONICblue funded $4.5 million of the settlement on November 1, 2000. SONICblue
+previously accrued this amount in connection with the merger with Diamond.
+SONICblue believes that Diamond's insurance covers the remaining $10.5 million
+of the settlement and Diamond's insurers have funded that amount into the
+settlement, although one of these insurers has served a notice of arbitration
+disputing its obligation to pay $3 million of the $10.5 million.
 
      C3 Sales, Inc. filed suit against SONICblue on October 6, 1999 in the
 Harris County (Houston), Texas District Court. The petition sought a judicial
@@ -2513,9 +2610,9 @@ that meeting Gerard Klauer Mattison presented its opinion as to the fairness,
 from a financial point of view, to the stockholders of Sensory Science, reviewed
 the assumptions on which it based its opinion, and posed and responded to the
 board's questions regarding the transaction. After lengthy discussions regarding
-various issues relating to the transaction, the board approved the transaction
-and authorized Mr. Hackett to execute a merger agreement and related transaction
-documents.
+various issues relating to the transaction, the board unanimously approved the
+transaction and authorized Mr. Hackett to execute a merger agreement and related
+transaction documents.
 
      The transaction documents were executed and their execution was announced
 in a joint press release on February 1, 2001.
@@ -2675,7 +2772,7 @@ factors in its deliberations concerning the merger:
        the merger; and
 
      - other applicable risks described in this proxy statement/prospectus under
-       "Risk Factors" on page 12.
+       "Risk Factors" on page 13.
 
      In the course of its deliberations, the Sensory Science board also
 considered the following additional factors, among others:
@@ -2684,7 +2781,7 @@ considered the following additional factors, among others:
        Mattison, that as of January 31, 2001, and based on and subject to the
        assumptions, considerations and limitations stated in the Gerard Klauer
        Mattison opinion, which is described in the section entitled "Opinion of
-       Financial Advisor to Sensory Science" beginning on page 35, the exchange
+       Financial Advisor to Sensory Science" beginning on page 36, the exchange
        ratio to be offered to the holders of Sensory Science common stock in the
        merger was fair, from a financial point of view, to the Sensory Science
        stockholders;
@@ -2716,7 +2813,7 @@ considered the following additional factors, among others:
        directors may have with respect to the merger in addition to their
        interests as holders of Sensory Science's common stock generally, as
        discussed in the section entitled "Interests of Certain Persons in the
-       Merger" on page 44;
+       Merger" on page 45;
 
      - the impact of the merger on customers;
 
@@ -2732,9 +2829,11 @@ the merger and the merger agreement.
      THE SENSORY SCIENCE BOARD OF DIRECTORS HAS APPROVED THE MERGER AND THE
 MERGER AGREEMENT AND BELIEVES THAT THE MERGER AND THE MERGER AGREEMENT ARE
 ADVISABLE, FAIR TO, AND IN THE BEST INTEREST OF SENSORY SCIENCE AND ITS
-STOCKHOLDERS. ACCORDINGLY, THE SENSORY SCIENCE BOARD UNANIMOUSLY RECOMMENDS THAT
-SENSORY SCIENCE STOCKHOLDERS VOTE FOR APPROVAL OF THE MERGER AND THE MERGER
-AGREEMENT.
+STOCKHOLDERS. ACCORDINGLY, THE SENSORY SCIENCE BOARD RECOMMENDS THAT SENSORY
+SCIENCE STOCKHOLDERS VOTE FOR APPROVAL OF THE MERGER AND THE MERGER AGREEMENT.
+ON MAY 8, 2001, MR. WILLIAM WALKER, A SENSORY SCIENCE DIRECTOR, NOTIFIED SENSORY
+SCIENCE THAT HE WAS NO LONGER WILLING TO MAKE A RECOMMENDATION ON THE MERGER,
+BUT WILL DEFER TO THE DECISION OF THE SENSORY SCIENCE STOCKHOLDERS.
 
 SONICBLUE'S REASONS FOR THE MERGER
 
@@ -2743,16 +2842,16 @@ facilitate the development of a new SONICblue business unit to focus on
 video-based media servers and client products. SONICblue also expects its
 proposed acquisition of ReplayTV, Inc., a privately owned company located in
 Mountain View, California, to contribute to the development of this business
-unit. SONICblue believes that the merger has the potential to produce benefits
-to the combined company that would not be obtainable to either company on an
-independent basis. In particular, SONICblue expects to utilize Sensory Science's
-established consumer market sales channels to sell existing Sensory Science
-products, existing
+unit. SONICblue
 
-SONICblue products and new products as they are developed. The potential
-benefits of the merger also include the future integration of SONICblue's
-existing products with Sensory Science's present and in-development technology
-to develop products for the new business unit. In addition, SONICblue
+believes that the merger has the potential to produce benefits to the combined
+company that would not be obtainable to either company on an independent basis.
+In particular, SONICblue expects to utilize Sensory Science's established
+consumer market sales channels to sell existing Sensory Science products,
+existing SONICblue products and new products as they are developed. The
+potential benefits of the merger also include the future integration of
+SONICblue's existing products with Sensory Science's present and in-development
+technology to develop products for the new business unit. In addition, SONICblue
 anticipates that the addition of Sensory Science's engineers will strengthen
 SONICblue's engineering force. SONICblue believes that the merger will result in
 a company better positioned to become a leader in the wireless home network,
@@ -3232,7 +3331,7 @@ DIRECTORS OF SONICBLUE
 
      Upon completion of the merger, the board of directors of SONICblue will
 remain unchanged. The board is comprised of five members. Information about the
-directors and executive officers of SONICblue may be found beginning on page 72.
+directors and executive officers of SONICblue may be found beginning on page 73.
 
 ACCOUNTING TREATMENT
 
@@ -3256,7 +3355,7 @@ treated for federal income tax purposes as a reorganization qualifying under the
 provisions of Section 368(a) of the Internal Revenue Code of 1986, as amended,
 or the Code. SONICblue has filed the opinion with the SEC as an exhibit to the
 registration statement related to this proxy statement/prospectus. See "Where
-You Can Find More Information" on page 98. It is a condition to the obligations
+You Can Find More Information" on page 99. It is a condition to the obligations
 of Sensory Science to complete the merger that on the closing date it shall
 receive an additional legal opinion from its tax counsel that the merger
 constitutes a reorganization within the meaning of Section 368(a) of the Code
@@ -3367,7 +3466,7 @@ receive in the merger will be listed on the Nasdaq National Market at the
 closing and because Sensory Science common stock was traded on the American
 Stock Exchange as of the record date. For more information about your rights as
 a Sensory Science stockholder, see "Information about the Meeting and Voting" on
-page 87.
+page 88.
 
 FEDERAL SECURITIES LAWS CONSEQUENCES; STOCK TRANSFER RESTRICTION AGREEMENTS
 
@@ -3413,18 +3512,18 @@ officers' liability insurance in respect of acts or omissions occurring before
 the closing covering each person currently covered by Sensory Science's
 directors' and officers' liability insurance policy, up to 200% of the per annum
 rate of premium paid by Sensory Science. See "The Merger Agreement And Related
-Agreements -- Covenants -- Indemnification" on page 80.
+Agreements -- Covenants -- Indemnification" on page 82.
 
 SEVERANCE AGREEMENTS
 
      Sensory Science has a separation agreement with Roger B. Hackett, its
 President and Chief Executive Officer, pursuant to which Mr. Hackett will
-receive 2.99 times his annual base salary in a lump sum payment upon the closing
-of the merger. Mr. Hackett's separation agreement includes a restrictive
+receive 2.99 times his gross annual base salary in a lump sum payment upon the
+closing of the merger. Mr. Hackett's separation agreement includes a restrictive
 covenant that restricts him from competing against Sensory Science for one year.
-It is a condition to closing the merger that the non-competition sections of Mr.
-Hackett's separation agreement be amended to include the digital television
-market.
+As a condition to closing the merger, the non-competition sections of Mr.
+Hackett's separation agreement were amended to include the digital television,
+home media server and digital audio player markets.
 
      Mr. Hackett and Kenneth F. Potashner, the Chairman, President and Chief
 Executive Officer of SONICblue, have agreed to discuss Mr. Hackett's role in the
@@ -3491,33 +3590,34 @@ Science common stock, as reported by their respective markets.
   Quarter ended December 31...............................   10.50      3.63     2.00      0.50
 
   Quarter ended March 31..................................    8.69      4.00     1.19      0.24
-  Quarter ended June 30(1)................................    5.07      3.31     0.38      0.28
+  Quarter ended June 30(1)................................    5.46      3.31     0.40      0.28
 
 - -------------------------
-(1) Through April 18, 2001.
+
+(1) Through May 9, 2001.
 
      On January 31, 2001, the last full trading day before the public
 announcement of the proposed merger, the last reported closing price was $7.6875
 per share for SONICblue common stock and $0.64 per share for Sensory Science
-common stock. On             , 2001, the most recent practicable date prior to
-the printing of this proxy statement/prospectus, the last reported closing price
-was $     per share for SONICblue common stock and $          per share for
-Sensory Science common stock. We urge you to obtain current market quotations
-prior to making any decision as to how to vote your shares with respect to the
-merger. See "Risk Factors" on page 12.
+common stock. On May 9, 2001, the most recent practicable date prior to the
+printing of this proxy statement/prospectus, the last reported closing price was
+$4.13 per share for SONICblue common stock and $0.33 per share for Sensory
+Science common stock. We urge you to obtain current market quotations prior to
+making any decision as to how to vote your shares with respect to the merger.
+See "Risk Factors" on page 13.
 
      Following the merger, SONICblue common stock will continue to be traded on
 the Nasdaq National Market under the ticker symbol "SBLU."
 
-     As of             , 2001, there were approximately        stockholders of
-record of SONICblue common stock and approximately                stockholders
-of record of Sensory Science common stock. SONICblue and Sensory Science have
-not declared or paid cash dividends on their respective capital stock in the
-past, and they do not intend to pay cash dividends in the foreseeable future.
-Both companies currently intend to retain future earnings for the development of
-their businesses. Further, Sensory Science's credit agreement with Congress
-Financial Corporation does not allow it to pay cash dividends without the
-consent of the lender.
+     As of May 9, 2001, there were approximately        stockholders of record
+of SONICblue common stock and approximately 1,399 stockholders of record of
+Sensory Science common stock. SONICblue and Sensory Science have not declared or
+paid cash dividends on their respective capital stock in the past, and they do
+not intend to pay cash dividends in the foreseeable future. Both companies
+currently intend to retain future earnings for the development of their
+businesses. Further, Sensory Science's credit agreement with Congress Financial
+Corporation does not allow it to pay cash dividends without the consent of the
+lender.
 
           UNAUDITED PRO FORMA CONDENSED COMBINED FINANCIAL INFORMATION
 
@@ -3535,16 +3635,17 @@ consent of the lender.
      The unaudited pro forma condensed combined balance sheet as of December 31,
 2000 reflects the financial position of SONICblue after giving effect to the
 acquisitions of Sensory Science and ReplayTV, Inc. ("ReplayTV") and the transfer
-of SONICblue's graphics chips assets as if these transactions occurred on
-December 31, 2000.
+of SONICblue's graphics chips assets to S3 Graphics Co., Ltd. as if these
+transactions occurred on December 31, 2000.
 
      The unaudited pro forma condensed combined statement of operations for the
 year ended December 31, 2000 assumes the acquisitions of Sensory Science and
-ReplayTV and the disposition of the graphics chips business occurred on January
-1, 2000. The pro forma adjustments are preliminary and based on management's
-estimates. Based on the timing of the closing of the transaction, the
-finalization of the integration plans and other factors, final adjustments may
-differ materially from those presented in these pro forma financial statements.
+ReplayTV and the disposition of the graphics chips assets to S3 Graphics Co.,
+Ltd. occurred on January 1, 2000. The pro forma adjustments are preliminary and
+based on management's estimates. Based on the timing of the closing of the
+transaction, the finalization of the integration plans and other factors, final
+adjustments may differ materially from those presented in these pro forma
+financial statements.
 
      The historical Sensory Science unaudited condensed combined statement of
 operations for the twelve months ended December 31, 2000 have been derived from
@@ -3559,8 +3660,8 @@ and results of operations for the year ended December 31, 2000.
 
      The unaudited pro forma condensed combined financial statements do not
 include the effects of the March 2001 sale of SONICblue's professional graphics
-division because such effects are not material to SONICblue's financial position
-and results of operations.
+division because such effects were not material to SONICblue's financial
+position and results of operations.
 
      The unaudited pro forma condensed combined financial statements are not
 necessarily indicative of what the actual financial results would have been had
@@ -3926,8 +4027,8 @@ in computing net income was calculated as follows:
                                                               DECEMBER 31,
 
                                                            ------------------
-                       DESCRIPTION                          BASIC     DILUTED
-                       -----------                         -------    -------
+DESCRIPTION                                                 BASIC     DILUTED
+- -----------                                                -------    -------
                                                              (IN THOUSANDS)
 
 Historical weighted average shares outstanding...........   90,390    101,150
@@ -3982,7 +4083,7 @@ to the following pro forma adjustments (in thousands, except share data):
      agreement, includes $950 of estimated transaction costs and excludes the
      effect of the assumption of ReplayTV options and warrants, because the
      valuation of these securities is not currently available. The actual number
-     of shares to be issued is subject to the terms as described on page 49.
+     of shares to be issued is subject to the terms as described on page 50.
 
                     INFORMATION ABOUT SONICBLUE INCORPORATED
 
@@ -4055,12 +4156,8 @@ Inc., was jointly funded with access to both SONICblue's and
 
 VIA's technology as well as distribution rights for developed products between
 SONICblue and VIA. At December 31, 2000, SONICblue owned 50.1% of the voting
-common stock of S3-VIA and, accordingly, consolidated the accounts of S3-VIA
-Inc. in its consolidated financial statements. In January 2001, SONICblue's
-interest in S3-VIA was transferred, along with SONICblue's graphics chip
-business, to S3 Graphics Co., Ltd., another joint venture between VIA and a
-wholly owned subsidiary of SONICblue, as described in "Recent Developments"
-below.
+common stock of S3-VIA and, accordingly, consolidates the accounts of S3-VIA
+Inc. in its consolidated financial statements.
 
      In January 2000, SONICblue publicly announced that it was exploring
 business transactions intended to increase stockholder value by separating its
@@ -4089,19 +4186,20 @@ empeg has become a part of SONICblue's Rio division, and empeg's technology
 formed the basis for the recently introduced Rio Car audio player.
 
      In January 2001, SONICblue completed the transfer of its graphics chips
-assets to S3 Graphics Co., Ltd., another joint venture between VIA and a wholly
-owned subsidiary of SONICblue. The joint venture will manufacture and distribute
-graphics products and conduct related research and development activities.
-Pursuant to the joint venture agreement with VIA, SONICblue received 13 million
-shares of SONICblue common stock as payment, and the joint venture assumed
-certain liabilities relating to the graphics chips business. Upon the occurrence
-of events specified in the investment agreement between SONICblue and VIA,
-SONICblue must pay specified liquidated damages, subject to a maximum damages
-cap. Under the joint venture agreement, SONICblue will also receive earn-out
-payments if the new venture meets specified profitability goals. At closing,
-SONICblue issued to a wholly owned subsidiary of VIA a warrant to purchase up to
-2 million shares of SONICblue common stock at an exercise price of $10.00 per
-share, for an aggregate exercise price of $20 million.
+assets, other than S3-VIA, to S3 Graphics Co., Ltd., another joint venture
+between VIA and a wholly owned subsidiary of SONICblue. The joint venture will
+manufacture and distribute graphics products and conduct related research and
+development activities. Pursuant to the joint venture agreement with VIA,
+SONICblue received 13 million shares of SONICblue common stock as payment, and
+the joint venture assumed certain liabilities relating to the graphics chips
+business. Upon the occurrence of events specified in the investment agreement
+between SONICblue and VIA, SONICblue must pay specified liquidated damages,
+subject to a maximum damages cap. Under the joint venture agreement, SONICblue
+will also receive earn-out payments if the new venture meets specified
+profitability goals. At closing, SONICblue issued to a wholly owned subsidiary
+of VIA a warrant to purchase up to 2 million shares of SONICblue common stock at
+an exercise price of $10.00 per share, for an aggregate exercise price of $20
+million.
 
      In February 2001, SONICblue announced that it signed a definitive agreement
 to acquire Sensory Science, which is the subject of this proxy
@@ -4127,9 +4225,11 @@ additional $6 million.
      In March 2001, SONICblue completed the sale to ATI Technologies, Inc. of
 its professional graphics division, based in Starnberg, Germany, which produced
 the Fire GL line of graphics accelerators. Under the terms of an Asset Purchase
-Agreement, SONICblue received $2.7 million in cash and is eligible to receive
-further financial consideration of up to $7.3 million, contingent upon the Fire
-GL graphics business, as operated by ATI, achieving future performance targets.
+Agreement, SONICblue received $2.7 million in cash and is eligible to
+
+receive further financial consideration of up to $7.3 million, contingent upon
+the Fire GL graphics business, as operated by ATI, achieving future performance
+targets.
 
 PRODUCTS
 
@@ -4199,14 +4299,16 @@ the only cross-platform (Windows and Macintosh-compatible) home networking
 product on the market. SONICblue's HomeFree Phoneline 10 million bits per
 seconds, or Mbps, networking product allows users to share Internet access,
 content and peripheral devices, transferring information at speeds of up to
-10Mbps. In addition, the recently announced HomeFree Asymmetric Digital
-Subscriber Line, or ADSL, Residential Gateway allows users to network their DSL
-Internet connection throughout their entire household. In January 2001,
-SONICblue announced the HomeFree Powerline, a home networking solution based on
-Intellon Corporation's PowerPacket powerline technology, which allows multiple
-PCs to share broadband Internet connections, MP3 music, video and peripherals,
-such as printers and scanners, as well as play multiplayer games by plugging
-into a common power outlet, transferring information at speeds of up to 10Mbps.
+10Mbps. In
+
+addition, the recently announced HomeFree Asymmetric Digital Subscriber Line, or
+ADSL, Residential Gateway allows users to network their DSL Internet connection
+throughout their entire household. In January 2001, SONICblue announced the
+HomeFree Powerline, a home networking solution based on Intellon Corporation's
+PowerPacket powerline technology, which allows multiple PCs to share broadband
+Internet connections, MP3 music, video and peripherals, such as printers and
+scanners, as well as play multiplayer games by plugging into a common power
+outlet, transferring information at speeds of up to 10Mbps.
 
      In December 1999, SONICblue and Covad Communications, Inc., a nationwide
 DSL service provider, agreed to jointly market and sell SONICblue's HomeFree
@@ -4262,30 +4364,30 @@ or USC, a semiconductor manufacturing facility in Taiwan, R.O.C. In January
 million UMC shares in exchange for 252 million USC shares. SONICblue also
 received a 20% stock dividend, or approximately 50.4 million shares of UMC
 stock, in April 2000, increasing SONICblue's holdings to approximately 302
-million shares. SONICblue sold 15 million shares of UMC
+million shares. SONICblue sold 15 million shares of UMC stock in 2000 and 35
+million shares in the first quarter of 2001 on the Taiwan Stock Exchange. Under
+the terms of the USC merger with UMC and the laws of Taiwan, 50% of the UMC
+shares received by SONICblue are classified as restricted because they are
+subject to restrictions on their sale that lapse over a three-year period from
+the date of the merger. At December 31, 2000, approximately 126 million shares
 
-stock in 2000 and 25 million shares in the first quarter of 2001 on the Taiwan
-Stock Exchange. Under the terms of the USC merger with UMC and the laws of
-Taiwan, 50% of the UMC shares received by SONICblue are classified as restricted
-because they are subject to restrictions on their sale that lapse over a
-three-year period from the date of the merger. At December 31, 2000,
-approximately 126 million shares were restricted and are recorded as a long-term
-investment at cost. The unrestricted shares are recorded as a current asset and
-are valued at market in accordance with SFAS 115. At December 31, 2000, the
-market value of both SONICblue's short-term and long-term investment in UMC had
-declined by $519.8 million below its original cost basis. It was determined that
-this decline was related to the downturn in the semiconductor industry as a
-whole and was temporary in nature due to the historically cyclical nature of the
-industry. The available-for-sale portion of SONICblue's investment was
-marked-to-market through other comprehensive income as required by SFAS 115.
-Subsequent to the year-end, the market value of SONICblue's investment in UMC
-remained significantly below SONICblue's cost. The downturn in the semiconductor
-industry and the economy in general appears to be more severe than previously
+were restricted and are recorded as a long-term investment at cost. The
+unrestricted shares are recorded as a current asset and are valued at market in
+accordance with SFAS 115. At December 31, 2000, the market value of both
+SONICblue's short-term and long-term investment in UMC had declined by $519.8
+million below its original cost basis. It was determined that this decline was
+related to the downturn in the semiconductor industry as a whole and was
+temporary in nature due to the historically cyclical nature of the industry. The
+available-for-sale portion of SONICblue's investment was marked-to-market
+through other comprehensive income as required by SFAS 115. Subsequent to the
+year-end, the market value of SONICblue's investment in UMC remained
+significantly below SONICblue's cost. The downturn in the semiconductor industry
+and the economy in general appears to be more severe than previously
 anticipated. There is a great deal of uncertainty regarding when the
-semiconductor industry will recover from this down cycle. SONICblue is
-continuing to evaluate its need to reduce the value of its investment. Should
-SONICblue conclude that the decline in value is other than temporary, it will
-report a loss in other income and expense at that time. As of March 31, 2001,
+semiconductor industry will recover from this down cycle. Because SONICblue
+concluded that the decline in value was other than temporary, it reported an
+unrealized loss on the UMC investment of $406.0 million and a realized loss of
+$52.0 million for the three months ended March 31, 2001. As of March 31, 2001,
 SONICblue's 252 million UMC shares held as of that date were worth approximately
 $408 million, based on the closing price of UMC shares on the Taiwan Stock
 Exchange on that date and the U.S. dollar to New Taiwan Dollar exchange rate
@@ -4333,12 +4435,10 @@ SALES, MARKETING, DISTRIBUTION AND CUSTOMER SUPPORT
 
      SONICblue sells its products through independent domestic and international
 distributors and directly to retailers, mass merchants and other resellers.
-SONICblue also sells its retail products in the
-
-United States through e-commerce web sites, including its own on-line store,
-mail-order catalogs and national reseller organizations. SONICblue is currently
-seeking to expand its penetration of e-commerce, retail and mass-merchant
-consumer electronics channels.
+SONICblue also sells its retail products in the United States through e-commerce
+web sites, including its own on-line store, mail-order catalogs and national
+reseller organizations. SONICblue is currently seeking to expand its penetration
+of e-commerce, retail and mass-merchant consumer electronics channels.
 
      SONICblue has been making significant efforts to expand its retail sales
 channels through international penetration in Europe, Latin America, and the
@@ -4407,10 +4507,12 @@ MANUFACTURING METHODOLOGY
 
      SONICblue uses an international network of independent electronics assembly
 subcontractors, principally located in Asia, to assemble and test its products.
-SONICblue generally procures its current hardware products on a turnkey basis
-from its subcontract manufacturing suppliers and anticipates that, in the
-future, the only products not being procured primarily on a turnkey basis will
-be new products in their launch phase.
+SONICblue generally procures its current
+
+hardware products on a turnkey basis from its subcontract manufacturing
+suppliers and anticipates that, in the future, the only products not being
+procured primarily on a turnkey basis will be new products in their launch
+phase.
 
      SONICblue packages the assembled products its receives from its
 subcontractors with software, manuals and additional hardware components,
@@ -4477,13 +4579,15 @@ its technology. SONICblue has also built its patent portfolio substantially
 through acquisitions, including patent purchases and cross-licenses as well as
 through its acquisition of Diamond. SONICblue currently has a total of 96 United
 States patents which it has been issued or has acquired and 27 United States
-patent applications. SONICblue attempts to protect its trade secrets and other
-proprietary information through agreements with its customers, suppliers,
-employees and consultants, and through other security measures. Although
-SONICblue intends to protect its rights vigorously, there can be no assurance
-that these measures will be successful or that any issued patents will provide
-SONICblue with adequate protection with respect to the covered products,
-technology or processes.
+patent applications.
+
+SONICblue attempts to protect its trade secrets and other proprietary
+information through agreements with its customers, suppliers, employees and
+consultants, and through other security measures. Although SONICblue intends to
+protect its rights vigorously, there can be no assurance that these measures
+will be successful or that any issued patents will provide SONICblue with
+adequate protection with respect to the covered products, technology or
+processes.
 
      SONICblue has applied to the United States Patent and Trademark Office for
 registration of a number of trademarks and also holds common law rights in a
@@ -4539,14 +4643,13 @@ PROPERTIES
 
      SONICblue's principal administrative, sales, marketing, research and
 development facilities in Santa Clara, California consists of one building of
-approximately 150,000 square feet of space which is leased by
-
-SONICblue through January 2008. SONICblue relocated to its Santa Clara
-facilities in 1997, at which time it leased and occupied both its current space
-and an adjacent building also consisting of approximately 150,000 square feet.
-SONICblue developed both buildings in partnership with a real estate developer
-during 1995 and 1996. In October 1998, SONICblue sublet one of the buildings for
-the remaining term of the lease. In June 1999, SONICblue assigned its entire
+approximately 150,000 square feet of space which is leased by SONICblue through
+January 2008. SONICblue relocated to its Santa Clara facilities in 1997, at
+which time it leased and occupied both its current space and an adjacent
+building also consisting of approximately 150,000 square feet. SONICblue
+developed both buildings in partnership with a real estate developer during 1995
+and 1996. In October 1998, SONICblue sublet one of the buildings for the
+remaining term of the lease. In June 1999, SONICblue assigned its entire
 interest in the partnership to the developer for $7.8 million.
 
      SONICblue leases administrative facilities in San Jose, California. One
@@ -4618,15 +4721,17 @@ October 18, 1995 and June 20, 1996, or the Class Period. The complaints allege
 claims under the federal securities laws and California law. The plaintiffs
 allege that Diamond and the other defendants made various material
 misrepresentations and omissions during the Class Period. The complaints do not
-specify the amount of damages sought. On March 24, 2000, the District Court for
-the Northern District of California dismissed the federal action without
-prejudice. The parties have tentatively agreed to settle this matter, subject to
-final documentation and court approval, for a payment of $15.0 million.
-SONICblue funded $4.5 million of the settlement on November 1, 2000. SONICblue
-previously accrued this amount in connection with the merger with Diamond.
-SONICblue believes that Diamond's insurance covers the remaining $10.5 million
-of the settlement and Diamond's insurers have funded that amount into the
-settlement.
+specify the amount of damages sought. On
+
+March 24, 2000, the District Court for the Northern District of California
+dismissed the federal action without prejudice. The parties have tentatively
+agreed to settle this matter, subject to final documentation and court approval,
+for a payment of $15.0 million. SONICblue funded $4.5 million of the settlement
+on November 1, 2000. SONICblue previously accrued this amount in connection with
+the merger with Diamond. SONICblue believes that Diamond's insurance covers the
+remaining $10.5 million of the settlement; Diamond's insurers have funded that
+amount into the settlement, although one of these insurers has served a notice
+of arbitration disputing its obligation to pay $3 million of the $10.5 million.
 
      Sega Corporation initiated a claim for arbitration in Tokyo, Japan against
 Diamond in December 1998. The claim, which arose out of an agreement entered
@@ -4678,23 +4783,23 @@ OVERVIEW
      SONICblue Incorporated, previously known as S3 Incorporated, designs,
 develops and markets products for the digital media, consumer electronics,
 internet appliance and home networking markets. SONICblue's products include the
-Rio line of digital music players, the HomeFree line of home
-
-networking products and the Supra line of modems. Prior to the transfer in
-January 2001 of its graphics chips business to a joint venture between VIA
-Technologies, Inc., or VIA, and a wholly owned subsidiary of SONICblue,
-SONICblue was a leading supplier of graphics and multimedia accelerator
-subsystems for PCs for over ten years.
+Rio line of digital music players, the HomeFree line of home networking products
+and the Supra line of modems. Prior to the transfer in January 2001 of its
+graphics chips business to a joint venture between VIA Technologies, Inc., or
+VIA, and a wholly owned subsidiary of SONICblue, SONICblue was a leading
+supplier of graphics and multimedia accelerator subsystems for PCs for over ten
+years.
 
      In September 1999, SONICblue made a significant strategic shift by merging
 with Diamond Multimedia Systems, Inc., or Diamond, an established PC original
-equipment manufacturer, or OEM, and retail provider of communications and home
-networking solutions, PC graphics and audio add-in boards, digital audio players
-and Internet appliances. The transaction was accounted for as a purchase, and,
-accordingly, the results of operations of Diamond and the estimated fair value
-of assets acquired and liabilities assumed are included in SONICblue's
-consolidated financial statements as of September 24, 1999, the effective date
-of the purchase.
+equipment manufacturer, or OEM, and
+
+retail provider of communications and home networking solutions, PC graphics and
+audio add-in boards, digital audio players and Internet appliances. The
+transaction was accounted for as a purchase, and, accordingly, the results of
+operations of Diamond and the estimated fair value of assets acquired and
+liabilities assumed are included in SONICblue's consolidated financial
+statements as of September 24, 1999, the effective date of the purchase.
 
      In October 1999, SONICblue announced that it caused RioPort, Inc., formerly
 RioPort.com Inc., which was a wholly owned subsidiary, to sell shares of its
@@ -4717,11 +4822,8 @@ desktop and notebook PC markets. The joint venture, S3-VIA Inc., was jointly
 funded, with access to both SONICblue's and VIA's technology as well as
 distribution rights for developed products between SONICblue and VIA. At
 December 31, 2000, SONICblue owned 50.1% of the voting common stock of S3-VIA
-and accordingly, SONICblue consolidated the accounts of S3-VIA in its
-consolidated financial statements. In January 2001, SONICblue's interest in
-S3-VIA was transferred, along with SONICblue's graphics chip business, to S3
-Graphics Co., Ltd., another joint venture between VIA and a wholly owned
-subsidiary of SONICblue, as described below.
+and accordingly, SONICblue consolidates the accounts of S3-VIA in its
+consolidated financial statements.
 
      In August 2000, SONICblue began the shutdown of its Diamond
 Multimedia-branded graphics add-in board business. SONICblue will continue to
@@ -4746,30 +4848,31 @@ SONICblue's Rio division, and empeg's technology formed the basis for the
 recently introduced Rio Car audio player.
 
      In January 2001, SONICblue completed the transfer of its graphics chips
-assets to S3 Graphics Co., Ltd., a joint venture between VIA and a wholly owned
-subsidiary of SONICblue. The joint venture will manufacture and distribute
-graphics products and conduct related research and development activities.
-Pursuant to the joint venture agreement with VIA, SONICblue received 13 million
-shares of SONICblue
+assets, other than S3-VIA, to S3 Graphics Co., Ltd., a joint venture between VIA
+and a wholly owned subsidiary of SONICblue. The joint venture will manufacture
+and distribute graphics products and conduct related research and development
+activities. Pursuant to the joint venture agreement with VIA, SONICblue received
+13 million shares of SONICblue common stock as payment, and the joint venture
+assumed certain liabilities relating to the graphics chips business. Upon the
+occurrence of events specified in the investment agreement between SONICblue and
+VIA, SONICblue must pay specified liquidated damages, subject to a maximum
+damages cap. Under the joint venture agreement, SONICblue will also receive
+earn-out payments if the new venture meets specified profitability goals.
+SONICblue, through its wholly owned subsidiary, owns all of the outstanding
+shares of Class A stock of the joint venture, which represents 50% of the voting
+power of the joint venture with respect to the election of directors and 0.1% of
+the economic interest of the joint venture. At closing, SONICblue issued to a
+wholly owned subsidiary of VIA a warrant to purchase up to 2 million shares of
+SONICblue common stock at an exercise price of $10.00 per share, for an
+aggregate
 
-common stock as payment, and the joint venture assumed certain liabilities
-relating to the graphics chips business. Upon the occurrence of events specified
-in the investment agreement between SONICblue and VIA, SONICblue must pay
-specified liquidated damages, subject to a maximum damages cap. Under the joint
-venture agreement, SONICblue will also receive earn-out payments if the new
-venture meets specified profitability goals. SONICblue, through its wholly owned
-subsidiary, owns all of the outstanding shares of Class A stock of the joint
-venture, which represents 50% of the voting power of the joint venture with
-respect to the election of directors and 0.1% of the economic interest of the
-joint venture. At closing, SONICblue issued to a wholly owned subsidiary of VIA
-a warrant to purchase up to 2 million shares of SONICblue common stock at an
-exercise price of $10.00 per share, for an aggregate exercise price of $20
-million.
+exercise price of $20 million. SONICblue retained its ownership of 50.1% of the
+voting common stock of S3-VIA, Inc., another joint venture with VIA.
 
      In February 2001, SONICblue announced that it signed a definitive agreement
 to acquire Sensory Science, which is the subject of this proxy
 statement/prospectus. Pending the consummation of the acquisition of Sensory
-Science, SONICblue has made a loan to Sensory Science in the amount of $3
+Science, SONICblue has made loans to Sensory Science in the amount of $6.0
 million and has obtained a warrant to purchase 5,357,143 shares of Sensory
 Science common stock.
 
@@ -4794,18 +4897,33 @@ Agreement, SONICblue received $2.7 million in cash and is eligible to receive
 further financial consideration of up to $7.3 million, contingent upon the Fire
 GL graphics business, as operated by ATI, achieving future performance targets.
 
+RECENT DEVELOPMENTS
+
+     Net sales for the three months ended March 31, 2001 were $49.8 million, and
+did not include revenues from the graphics chips assets subsequent to their
+transfer to the joint venture with VIA. SONICblue had a negative gross margin of
+34% for the three months ended March 31, 2001, and a loss of $38.3 million, or
+$0.47 per share, before amortization of goodwill, losses from equity investees,
+reserves for discontinued products and losses related to its investment in UMC.
+For the three months ended March 31, 2001, SONICblue recognized an unrealized
+loss of $406.0 million and a realized loss of $52.0 million related to the
+decline in value of its investment in UMC. Net loss for the three months ended
+March 31, 2001, inclusive of goodwill amortization and all charges, was $335.8
+million, or $4.11 per share.
+
 RESULTS OF OPERATIONS
 
      The results of operations of SONICblue include the results of Diamond
-beginning in September 1999 and the results of empeg beginning in November 2000.
-The results also include the results from the Diamond Multimedia-branded
-graphics add-in board business, since the acquisition of Diamond, and its
-graphics chip business. SONICblue began the shut down of its Diamond
-Multimedia-branded graphics add-in boards business in August 2000, and it
-transferred the assets of its graphics chips business to a joint venture in
-January 2001. See Note 17 to the consolidated financial statements beginning on
-page F-26 for unaudited pro forma information giving effect to the transfer of
-the graphics chips assets to the joint venture.
+beginning in September 1999, the results of S3-VIA, Inc. beginning in November
+1999, and the results of empeg beginning in November 2000. The results also
+include the results from the Diamond Multimedia-branded graphics add-in board
+business, since the acquisition of Diamond, and its graphics chip business.
+SONICblue began the shut down of its Diamond Multimedia-branded graphics add-in
+boards business in August 2000, and it transferred the assets of its graphics
+chips business (other than S3-VIA, Inc.) to S3 Graphics Co., Ltd., in January
+2001. See Note 17 to the consolidated financial statements beginning on page
+F-26 for unaudited pro forma information giving effect to the transfer of the
+graphics chips assets to S3 Graphics Co., Ltd.
 
      The following table sets forth for the years indicated certain financial
 data as a percentage of net sales:
@@ -5062,19 +5180,17 @@ historically cyclical nature of the industry. The available-for-sale portion of
 SONICblue's investment was marked-to-market through other comprehensive income
 as required by SFAS 115.
 
-     Subsequent to the year-end, the market value of SONICblue's investment in
-UMC remained significantly below its cost. In the first quarter of 2001,
-SONICblue sold 35 million shares of UMC on the Taiwan Stock Exchange. As of
-March 31, 2001, SONICblue's 252 million UMC shares held as of that date were
-worth approximately $408 million, based on the closing price of UMC shares on
-the Taiwan Stock Exchange on that date and the U.S. dollar to New Taiwan Dollar
+     Subsequent to year-end, the market value of SONICblue's investment in UMC
+remained significantly below its cost. In the first quarter of 2001, SONICblue
+sold 35 million shares of UMC on the Taiwan Stock Exchange. As of March 31,
+2001, SONICblue's 252 million UMC shares held as of that date were worth
+approximately $408 million, based on the closing price of UMC shares on the
+Taiwan Stock Exchange on that date and the U.S. dollar to New Taiwan Dollar
 exchange rate prevailing on that date. The downturn in the semiconductor
 industry and the economy in general appears to be more severe than previously
 anticipated. There is a great deal of uncertainty regarding when the
-semiconductor industry will recover from this down cycle. SONICblue is
-continuing to evaluate its need to reduce the value of its investment. Should
-SONICblue conclude that the decline in value is other than temporary, it will
-report a loss in other income and expense at that time.
+semiconductor industry will recover from this down cycle and the impact this
+down cycle will have on the value of the UMC shares.
 
   Gain on Sale of Other Investments
 
@@ -5086,11 +5202,12 @@ securities. There were no comparable transactions in either fiscal 1999 or 1998.
 
      Investments in entities in which SONICblue does not have control, but has
 the ability to exercise significant influence over operating and financial
-policies, are accounted for by the equity method. In 2000, SONICblue's share of
-losses in these entities was $11.4 million. In 1999, the loss was $0.05 million.
-In 2000, the loss was principally due to SONICblue's share of losses from
-RioPort, Inc. In 1998, SONICblue recognized income of $17.5 million,
-attributable to its investment in USC.
+policies, are accounted for by the equity method. In 2000,
+
+SONICblue's share of losses in these entities was $11.4 million. In 1999, the
+loss was $0.05 million. In 2000, the loss was principally due to SONICblue's
+share of losses from RioPort, Inc. In 1998, SONICblue recognized income of $17.5
+million, attributable to its investment in USC.
 
   Interest Expense
 
@@ -5151,10 +5268,8 @@ charges were offset by decreases in accounts receivable and inventories of $36.8
 million and $60.5 million, respectively. Accounts receivable decreased as a
 result of lower net sales by SONICblue, while inventories decreased as the
 result of lower production volumes and charges taken during 1998 for excess and
-obsolete inventory,
-
-lower of cost or market reserves and yield losses. Accounts payable decreased as
-a direct result of lower inventory purchases.
+obsolete inventory, lower of cost or market reserves and yield losses. Accounts
+payable decreased as a direct result of lower inventory purchases.
 
      Investing activities provided cash of $29.5 million in 2000 and consisted
 primarily of sales and maturities of short-term investments, including a portion
@@ -5221,11 +5336,9 @@ exchange rates and UMC's market prices on the Taiwan Stock Exchange. Using the
 market value and exchange rate at March 31, 2001, these shares were valued at
 $205.1 million. At December 31, 2000, SONICblue had short-term lines of credit
 and bank credit facilities totaling $79.3 million, of which approximately $6.6
-million was unused and available.
-
-SONICblue believes that its current capital resources will satisfy SONICblue's
-projected working capital and capital expenditure requirements for at least the
-next 12 months.
+million was unused and available. SONICblue believes that its current capital
+resources will satisfy SONICblue's projected working capital and capital
+expenditure requirements for at least the next 12 months.
 
      SONICblue is currently a party to certain legal proceedings. Litigation
 could result in substantial expense to SONICblue. These legal proceedings are
@@ -5338,8 +5451,9 @@ U.S. dollar to New Taiwan Dollar exchange rate prevailing on that date. The
 downturn in the semiconductor industry and the economy in general appears to be
 more severe than previously anticipated. There is a great deal of uncertainty
 regarding when the semiconductor industry will recover from this down cycle.
-Should SONICblue conclude that the decline in value is other than temporary,
-they will report a loss in other income and expense at that time.
+Because SONICblue concluded that the decline in value was other than temporary,
+it reported an unrealized loss on its UMC investment of $406.0 million and a
+realized loss of $52.0 million for the three months ended March 31, 2001.
 
 CONVERTIBLE SUBORDINATED NOTES
 
@@ -5383,16 +5497,17 @@ Foreign Currency Forward Exchange Contracts:
 DIRECTORS AND EXECUTIVE OFFICERS OF SONICBLUE
 
      The following table shows information about SONICblue's directors and
-executive officers as of March 1, 2001:
+executive officers as of May 8, 2001:
 
                 NAME                   AGE                           POSITION
                 ----                   ---                           --------
 
-                                              Chairman of the Board, President and Chief Executive
-Kenneth F. Potashner.................  43     Officer
+Kenneth F. Potashner.................  43     Chairman of the Board, President and Chief Executive
+                                              Officer
 Paul G. Franklin.....................  57     President, Multimedia Division
-                                              Vice President, Controller and Interim Chief Financial
-William F. McFarland.................  49     Officer
+John J. Todd.........................  40     Vice President, Chief Financial Officer, Chief
+                                              Operating Officer and Secretary
+William F. McFarland.................  49     Vice President and Controller
 Andrew L. Wolfe......................  38     Vice President and Chief Technical Officer
 Richard Burns........................  46     Vice President, Worldwide Sales
 Terry N. Holdt.......................  57     Vice Chairman of the Board
@@ -5420,13 +5535,25 @@ Corporation, a supplier of field programmable gate arrays. Prior to 1986, Mr.
 Franklin held various management positions at Monolithic Memories Inc., a
 supplier of semiconductor memories and programmable logic.
 
+     John J. Todd joined SONICblue in May 2001 as Vice President, Chief
+Financial Officer, Chief Operating Officer and Secretary. From October 1998 to
+January 2001, Mr. Todd was the Senior Vice President and Chief Financial Officer
+at Gateway, Inc. where he had responsibility for operational finance, tax,
+audit, treasury, financial systems and reporting. From 1997 to October 1998, Mr.
+Todd was employed by Allied Signal, Inc., most recently as Chief Financial
+Officer, Allied Signal Engines. From 1996 to 1997, Mr. Todd was Chief Financial
+Officer of the Boston Market operations of Boston Chicken, Inc. From 1988 to
+1996, Mr. Todd employed by Pepsico, Inc., most recently as Vice
+President -- Portfolio Management, Pizza Hut, Inc.
+
      William F. McFarland joined SONICblue in January 2000 as Vice President and
-Controller. He became Interim Chief Financial Officer and Secretary in August
-2000. From January 1988 to December 1999, Mr. McFarland served in a variety of
-finance and information technology management positions at SGI, Inc., a provider
-of high-performance computing and visualization solutions for technical and
-creative users. From September 1985 to December 1987, Mr. McFarland served as
-Tax Director of Spectra-Physics, Inc., a manufacturer of laser systems.
+Controller. He served as Interim Chief Financial Officer and Secretary from
+August 2000 to May 2001. Mr. McFarland became SONICblue's Assistant Secretary in
+May 2001. From January 1988 to December 1999, Mr. McFarland served in a variety
+of finance and information technology management positions at SGI, Inc., a
+provider of high-performance computing and visualization solutions for technical
+and creative users. From September 1985 to December 1987, Mr. McFarland served
+as Tax Director of Spectra-Physics, Inc., a manufacturer of laser systems.
 
      Richard Burns joined SONICblue in March 2001 as Vice President, Worldwide
 Sales. From March 1999 to March 2001 he was Senior Vice President, Worldwide
@@ -5449,16 +5576,14 @@ SONICblue's Chief Executive Officer and President from December 1997 to October
 the Board from August 1996 to December 1997. Mr. Holdt was President and Chief
 Executive Officer of Entridia Corporation from June 1999 to April 2001. From
 June 1991 to January 1992, he was Chairman of the Board of Paradigm Technology,
-Inc., a semiconductor company, and was its President and Chief Executive
-
-Officer from June 1988 to May 1991. From September 1986 to June 1988, Mr. Holdt
-held various executive positions at Linear Corporation, a manufacturer of
-electronic telemetry systems, where he was most recently President. From 1981 to
-1985, he held various executive positions at Western Digital Corporation, a
-manufacturer of computer peripherals, where he was most recently Executive Vice
-President and Chief Operating Officer. Mr. Holdt is also a member of the Board
-of Directors of SenDEC Corporation, Maxoptix Corporation, Tropian Corp and
-Entridia Corporation.
+Inc., a semiconductor company, and was its President and Chief Executive Officer
+from June 1988 to May 1991. From September 1986 to June 1988, Mr. Holdt held
+various executive positions at Linear Corporation, a manufacturer of electronic
+telemetry systems, where he was most recently President. From 1981 to 1985, he
+held various executive positions at Western Digital Corporation, a manufacturer
+of computer peripherals, where he was most recently Executive Vice President and
+Chief Operating Officer. Mr. Holdt is also a member of the Board of Directors of
+SenDEC Corporation, Maxoptix Corporation, Tropian Corp and Entridia Corporation.
 
      Robert P. Lee has been a director of SONICblue since April 1994. Since
 February 1999, Dr. Lee has served as President and Chief Executive Officer of
@@ -5502,7 +5627,7 @@ SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT OF SONICBLUE
      The following table sets forth certain information as of March 29, 2001, as
 to shares of SONICblue's common stock beneficially owned by: (i) each of
 SONICblue's directors, (ii) each of SONICblue's executive officers listed on the
-Summary Compensation Table on page 75, (iii) all directors and executive
+Summary Compensation Table on page 76, (iii) all directors and executive
 officers of SONICblue as a group and (iv) each person who is known by SONICblue
 to own beneficially more than 5% of SONICblue's common stock. Unless otherwise
 stated below, the address of each beneficial owner listed on the table is c/o
@@ -6265,8 +6390,8 @@ of such stockholders.
 CREDIT AGREEMENT
 
      The following summary of the credit agreement, as amended, is qualified by
-reference to the complete text of the credit agreement, which is incorporated by
-reference into this document and attached as Annex B.
+reference to the complete text of the credit agreement, as amended, which is
+incorporated by reference into this document and attached as Annex B.
 
      In connection with SONICblue's acquisition of Sensory Science, and to fund
 the working capital needs of Sensory Science, SONICblue agreed to make available
@@ -6282,9 +6407,19 @@ and SoftTech Financial/Midstates EAB Leasing Corporation.
 
      Should the merger agreement between SONICblue and Sensory Science not be in
 full force and effect or should an event occur giving rise to termination of the
-merger agreement, SONICblue was under no obligation to make any loans beyond
+merger agreement, SONICblue is under no obligation to make any loans beyond
 $500,000. In February 2000, SONICblue loaned Sensory Science $3.0 million
 pursuant to the credit agreement.
+
+     The credit agreement was amended on April 12 and April 27, 2001 to increase
+the amounts available for loan to Sensory Science by $2.0 million and $1.0
+million, respectively. SONICblue funded a loan of $2.0 million to Sensory
+Science on April 20, 2001, increasing the aggregate amount loaned to $5.0
+million. An additional $1.0 million was loaned to Sensory Science on April 27,
+2001, increasing the aggregate amount loaned to $6.0 million, the maximum
+available for loan under the credit agreement, as amended. The credit agreement
+was amended on May 9, 2001 to eliminate SONICblue's right to obtain warrants to
+purchase additional shares of Sensory Science's common stock.
 
      The loans accrue interest at the "prime rate" as published in the "Money
 Rates" section of the Wall Street Journal and interest will be payable in
@@ -6292,10 +6427,11 @@ arrears on the last day of each month. The principal balances of the loans are
 scheduled to be repaid by February 1, 2002. Sensory Science must promptly repay
 the balances outstanding under the credit agreement upon the occurrence of
 certain events including the sale of substantially all of its assets to a party
-other than SONICblue, a business combination with a party other than SONICblue,
-or the acquisition of a controlling interest in Sensory Science by a third party
-other than SONICblue. The principal balances may be prepaid at any time without
-penalty or premium.
+other than SONICblue, a business combination with a party
+
+other than SONICblue, or the acquisition of a controlling interest in Sensory
+Science by a third party other than SONICblue. The principal balances may be
+prepaid at any time without penalty or premium.
 
 COMMON STOCK PURCHASE WARRANT
 
@@ -6333,24 +6469,25 @@ been exercised prior to such an event.
 statement/prospectus to solicit proxies from the holders of Sensory Science
 common stock for use at the special meeting. Sensory Science is first mailing
 this proxy statement/prospectus and accompanying form of proxy to Sensory
-Science stockholders on or about             , 2001.
+Science stockholders on or about May 15, 2001.
 
 MATTERS RELATING TO THE MEETING
 
-     Time and Place. The meeting will be held at   :   .m., local time, on
-day,             , 2001, at                          .
+     Time and Place. The meeting will be held at 8:30 a.m., local time, on
+Wednesday, June 27, 2001, at The Pavilions at Resort Suites, 7677 East Princess
+Boulevard, Scottsdale, Arizona.
 
      Purpose of Meeting. The purpose of the meeting is to have Sensory Science
 stockholders vote on a proposal to approve and adopt the merger agreement and
 the merger.
 
-     Record Date. The record date for shares entitled to vote is             ,
-2001. As of             , 2001, there were        shares of Sensory Science
-common stock outstanding.
+     Record Date. The record date for shares entitled to vote is May 9, 2001. As
+of May 9, 2001, there were 14,453,878 shares of Sensory Science common stock
+outstanding.
 
      Shares Entitled to Vote. Shares of Sensory Science common stock held at the
-close of business on the record date,             , 2001, are entitled to vote
-at the special meeting. Each share of Sensory Science common stock that you own
+close of business on the record date, May 9, 2001, are entitled to vote at the
+special meeting. Each share of Sensory Science common stock that you own
 entitles you to one vote. Shares held by Sensory Science in its treasury are not
 voted.
 
@@ -6369,20 +6506,20 @@ VOTE NECESSARY TO APPROVE THE MERGER
 majority of the shares of common stock outstanding and entitled to vote at the
 meeting is necessary to constitute a quorum at the meeting. The affirmative vote
 of the holders of a majority of the shares of Sensory Science common stock
-outstanding, or                shares, is required to approve the proposal to
-adopt the merger agreement. Withheld votes and abstentions have the same effect
-as a vote against.
+outstanding, or 7,226,939 shares, is required to approve the proposal to adopt
+the merger agreement. Withheld votes and abstentions have the same effect as a
+vote against.
 
      At the record date for the meeting, the directors and executive officers of
 Sensory Science beneficially owned approximately 222,100 shares of Sensory
 Science common stock, representing approximately 1.5% of the outstanding shares
-of Sensory Science common stock entitled to vote at the meeting. In connection
-with the merger agreement, Carmine F. Adimando, Roger B. Hackett, Thomas F.
-Hartley and William T. Walker, Jr. have granted SONICblue irrevocable proxy to
-vote their shares of Sensory Science common stock, representing in the aggregate
-approximately      % of the outstanding shares of Sensory Science common stock
-as of April   , 2001, in favor of the approval and adoption of the merger
-agreement and the merger.
+of Sensory Science common stock entitled to vote at the meeting. As a condition
+to SONICblue's obligation to consummate the merger, each director of Sensory
+Science shall have granted SONICblue an irrevocable proxy to vote all shares of
+Sensory Science common stock owned by such director in favor of the approval and
+adoption of the merger agreement and the merger. As of May 9, 2001, the
+directors owned in the aggregate approximately 1.5% of the outstanding shares of
+Sensory Science common stock.
 
 VOTING
 
@@ -6396,13 +6533,14 @@ individuals named as your proxy will vote your shares as you have directed. You
 may vote for or against the merger proposals or abstain from voting.
 
      How to Vote by Proxy. Stockholders of record for the meeting can simplify
-their voting and save Sensory Science additional expense by calling           or
-voting via the internet at http://www.       . Telephone and internet voting
+their voting and save Sensory Science additional expense by calling
+1-800-676-5825 or voting via the internet at
+http://www.proxyvoting.com/SensoryScience. Telephone and internet voting
 information is provided on your proxy card if these options are available to
-you. Votes submitted via the internet or by telephone must be received by 12:00
-midnight, Eastern Daylight Time, on             , 2001. Submitting your proxy
-via the internet or by telephone will not affect your right to vote in person
-should you decide to attend the meeting.
+you. Votes submitted via the internet or by telephone must be received by 11:30
+a.m., Eastern Daylight Time, on June 26, 2001. Submitting your proxy via the
+internet or by telephone will not affect your right to vote in person should you
+decide to attend the meeting.
 
      If you hold shares through a broker or other custodian, please check the
 voting form used by that firm to see if it offers telephone or internet voting.
@@ -6426,8 +6564,7 @@ adoption of the merger agreement and the merger.
 person, Sensory Science will give you a ballot at the meeting. However, if your
 shares are held in the name of your broker, bank or other nominee, you must
 bring an account statement or letter from the nominee indicating that you are
-the beneficial owner of the shares on             , 2001, the record date for
-voting.
+the beneficial owner of the shares on May 9, 2001, the record date for voting.
 
      Confidential voting. Ballots, proxy forms and voting instructions returned
 to brokerage firms, banks and other holders of record are treated as
@@ -6495,138 +6632,127 @@ and is qualified by reference to Delaware law, the Sensory Science certificate
 of incorporation, the Sensory Science bylaws, the SONICblue restated certificate
 of incorporation and the SONICblue bylaws.
 
-- -------------------------------------------------------------------------------------------------
-                       SENSORY SCIENCE STOCKHOLDER RIGHTS    SONICBLUE STOCKHOLDER RIGHTS
-- -------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------
+                       SENSORY SCIENCE STOCKHOLDER RIGHTS                 SONICBLUE STOCKHOLDER RIGHTS
+- --------------------------------------------------------------------------------------------------------------
 
- Authorized Capital    The authorized capital stock of       The authorized capital stock of
- Stock:                Sensory Science consists of 50        SONICblue is set forth under
-                       million shares of common stock.       "Description of SONICblue Capital
-                                                             Stock" on page 93.
-- -------------------------------------------------------------------------------------------------
- Number of Directors:  Sensory Science's bylaws and          SONICblue's bylaws provide that the
-                       certificate of incorporation provide  number of directors must be at least
-                       that the number of directors will be  three but no more than nine, with
-                       as determined by the Sensory Science  the exact number to be determined by
-                       board. The Sensory Science board      the SONICblue board. SONICblue's
-                       currently consists of five            board currently consists of five
-                       directors.                            directors.
-- -------------------------------------------------------------------------------------------------
- Classification of     Sensory Science's board is divided    SONICblue does not have a classified
- Board of Directors:   into three classes as nearly equal    board. SONICblue's bylaws require
-                       in number as possible, with each      that all directors be elected at
-                       class serving a staggered three-year  each annual meeting or a special
-                       term.                                 meeting of stockholders for a term
-                                                             of one year.
-- -------------------------------------------------------------------------------------------------
- Amending              For most amendments, amending         The affirmative vote of at least
- Organizational        organizational documents requires     two- thirds of the voting power of
- Documents:            the affirmative vote of a majority    SONICblue's outstanding voting stock
-                       of stockholders or the board of       is required to amend certain
-                       directors. The affirmative vote of    provisions of the SONICblue restated
-                       at least 75% of the voting power of   certificate of incorporation,
-                       Sensory Science's outstanding voting  including provisions relating to
-                       stock or its board of directors is      - directors' indemnification;
-                       required to amend bylaw provisions      - stockholder action;
-                       relating to                             - amending the bylaws; and
-                         - special meeting of the              - amending the certificate of
-                       stockholders;                             incorporation.
-                         - quorum and bringing business
-                           before a stockholder meeting;
-                         - stockholder action;
-                         - purchases of Sensory Science
-                       stock; and
+ Authorized Capital    The authorized capital stock of Sensory Science    The authorized capital stock of
+ Stock:                consists of 50 million shares of common stock.     SONICblue is set forth under
+                                                                          "Description of SONICblue Capital
+                                                                          Stock" on page 94.
+- --------------------------------------------------------------------------------------------------------------
+ Number of Directors:  Sensory Science's bylaws and certificate of        SONICblue's bylaws provide that the
+                       incorporation provide that the number of           number of directors must be at least
+                       directors will be as determined by the Sensory     three but no more than nine, with
+                       Science board. The Sensory Science board           the exact number to be determined by
+                       currently consists of five directors.              the SONICblue board. SONICblue's
+                                                                          board currently consists of five
+                                                                          directors.
+- --------------------------------------------------------------------------------------------------------------
+ Classification of     Sensory Science's board is divided into three      SONICblue does not have a classified
+ Board of Directors:   classes as nearly equal in number as possible,     board. SONICblue's bylaws require
+                       with each class serving a staggered three-year     that all directors be elected at
+                       term.                                              each annual meeting or a special
+                                                                          meeting of stockholders for a term
+                                                                          of one year.
+- --------------------------------------------------------------------------------------------------------------
+ Amending              For most amendments, amending organizational       The affirmative vote of at least
+ Organizational        documents requires the affirmative vote of a       two- thirds of the voting power of
+ Documents:            majority of stockholders or the board of           SONICblue's outstanding voting stock
+                       directors. The affirmative vote of at least 75%    is required to amend certain
+                       of the voting power of Sensory Science's           provisions of the SONICblue restated
+                       outstanding voting stock or its board of           certificate of incorporation,
+                       directors is required to amend bylaw provisions    including provisions relating to
+                       relating to                                          - directors' indemnification;
+                         - special meeting of the stockholders;             - stockholder action;
+                         - quorum and bringing business before a            - amending the bylaws; and
+                           stockholder meeting;                             - amending the certificate of
+                         - stockholder action;                                incorporation.
+                         - purchases of Sensory Science stock; and
                          - amending the bylaws.
-- -------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------
 
-- -------------------------------------------------------------------------------------------------
-                       SENSORY SCIENCE STOCKHOLDER RIGHTS    SONICBLUE STOCKHOLDER RIGHTS
-- -------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------
+                       SENSORY SCIENCE STOCKHOLDER RIGHTS                 SONICBLUE STOCKHOLDER RIGHTS
+- --------------------------------------------------------------------------------------------------------------
 
- Stockholder Rights    Under the Sensory Science             SONICblue's stockholder rights plan
- Plan:                 stockholder rights plan, the rights   is described under "Description of
-                       become exercisable if a person or     SONICblue Capital Stock --
-                       group acquires beneficial ownership   Stockholder Rights Plan" on page 93.
-                       of 15% or more of the outstanding
-                       Sensory Science common stock. The
-                       Sensory Science stockholder rights
-                       plan includes an exception for a
-                       tender offer or exchange offer for
-                       all of Sensory Science's outstanding
-                       common stock, provided it is
-                       approved by a majority of the
-                       directors that are not officers or
-                       affiliated with the person making
-                       the offer. Sensory Science has taken
-                       all action necessary to render its
-                       rights plan inapplicable to the
-                       merger agreement and the related
+ Stockholder Rights    Under the Sensory Science stockholder rights       SONICblue's stockholder rights plan
+ Plan:                 plan, the rights become exercisable if a person    is described under "Description of
+                       or group acquires beneficial ownership of 15% or   SONICblue Capital Stock -- SONICblue
+                       more of the outstanding Sensory Science common     Stockholder Rights Plan" on page 95.
+                       stock. The Sensory Science stockholder rights
+                       plan includes an exception for a tender offer or
+                       exchange offer for all of Sensory Science's
+                       outstanding common stock, provided it is approved
+                       by a majority of the directors that are not
+                       officers or affiliated with the person making the
+                       offer. Sensory Science has taken all action
+                       necessary to render its rights plan inapplicable
+                       to the merger agreement and the related
                        agreements and transactions.
-- -------------------------------------------------------------------------------------------------
- Stockholder           Sensory Science's bylaws contain      SONICblue's bylaws contain advance
- Proposals and         advance notice provisions applicable  notice provisions applicable to
- Nominations:          to stockholder proposals and          stockholder proposals and
-                       nominations. In order to bring        nominations. In order to bring
-                       business before a Sensory Science     business before a SONICblue annual
-                       annual meeting, a stockholder must    meeting, a stockholder must deliver
-                       deliver written notice thereof to     written notice thereof to SONICblue
-                       Sensory Science generally not more    generally not less than 50 days nor
-                       than 10 days after notice of a        more than 75 days before the annual
-                       special meeting and not less than     meeting. However, if less than 65
-                       180 days prior to the anniversary of  days notice or prior public
-                       the prior year's annual meeting.      disclosure of the date of the
-                                                             scheduled meeting is given or made
-                                                             to stockholders, SONICblue must
-                                                             receive the stockholder's proposals
-                                                             or nominations by the close of
-                                                             business on the 15th day after the
-                                                             earlier of the day SONICblue mailed
-                                                             notice of the annual meeting date or
-                                                             provided public disclosure of the
-                                                             meeting date or two days before the
-                                                             scheduled date of the annual
-                                                             meeting, whichever is earlier.
-- -------------------------------------------------------------------------------------------------
- Certain               Sensory Science's certificate of      SONICblue's bylaws provide that
- Transactions:         incorporation and bylaws do not       transactions with SONICblue's
-                       contain provisions regarding          officers or directors require the
-                       transactions with interested          affirmative vote of a majority of
-                       parties.                              disinterested directors, unless the
-                                                             transaction is disclosed to and
-                                                             approved by the stockholders, or the
-                                                             board or stockholders determine the
-                                                             transaction to be fair at the time
-                                                             of approval.
-- -------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------
+ Stockholder           Sensory Science's bylaws contain advance notice    SONICblue's bylaws contain advance
+ Proposals and         provisions applicable to stockholder proposals     notice provisions applicable to
+ Nominations:          and nominations. In order to bring business        stockholder proposals and
+                       before a Sensory Science annual meeting, a         nominations. In order to bring
+                       stockholder must deliver written notice thereof    business before a SONICblue annual
+                       to Sensory Science generally not more than 10      meeting, a stockholder must deliver
+                       days after notice of a special meeting and not     written notice thereof to SONICblue
+                       less than 180 days prior to the anniversary of     generally not less than 50 days nor
+                       the prior year's annual meeting.                   more than 75 days before the annual
+                                                                          meeting. However, if less than 65
+                                                                          days notice or prior public
+                                                                          disclosure of the date of the
+                                                                          scheduled meeting is given or made
+                                                                          to stockholders, SONICblue must
+                                                                          receive the stockholder's proposals
+                                                                          or nominations by the close of
+                                                                          business on the 15th day after the
+                                                                          earlier of the day SONICblue mailed
+                                                                          notice of the annual meeting date or
+                                                                          provided public disclosure of the
+                                                                          meeting date or two days before the
+                                                                          scheduled date of the annual
+                                                                          meeting, whichever is earlier.
+- --------------------------------------------------------------------------------------------------------------
+ Certain               Sensory Science's certificate of incorporation     SONICblue's bylaws provide that
+ Transactions:         and bylaws do not contain provisions regarding     transactions with SONICblue's
+                       transactions with interested parties.              officers or directors require the
+                                                                          affirmative vote of a majority of
+                                                                          disinterested directors, unless the
+                                                                          transaction is disclosed to and
+                                                                          approved by the stockholders, or the
+                                                                          board or stockholders determine the
+                                                                          transaction to be fair at the time
+                                                                          of approval.
+- --------------------------------------------------------------------------------------------------------------
 
-- -------------------------------------------------------------------------------------------------
-                       SENSORY SCIENCE STOCKHOLDER RIGHTS    SONICBLUE STOCKHOLDER RIGHTS
-- -------------------------------------------------------------------------------------------------
+- --------------------------------------------------------------------------------------------------------------
+                       SENSORY SCIENCE STOCKHOLDER RIGHTS                 SONICBLUE STOCKHOLDER RIGHTS
+- --------------------------------------------------------------------------------------------------------------
 
- Removal of            Sensory Science stockholders may      SONICblue stockholders may remove
- Directors:            remove directors with cause by the    directors with or without cause by
-                       affirmative vote of the majority of   the affirmative vote of the majority
-                       stockholders entitled to vote in the  of stockholders entitled to vote in
-                       election of directors.                the election of directors.
-- -------------------------------------------------------------------------------------------------
- Stockholder Action    Sensory Science stockholders cannot   SONICblue stockholders may not take
- by Written            take actions by stockholder written   any action required or permitted to
- Consent:              consent but rather must take all of   be taken at any annual or special
-                       their actions at annual or special    meeting of stockholders of SONICblue
-                       meetings of stockholders.             without a meeting, and SONICblue
-                                                             stockholders may not take any action
-                                                             by stockholder written consent
-                                                             without a meeting.
-- -------------------------------------------------------------------------------------------------
- Stockholder Vote      With the exception of certain         SONICblue stockholders have the
- Required:             statutory voting requirements for     power to adopt, amend or repeal the
-                       special circumstances like mergers,   bylaws of SONICblue by an
-                       Sensory Science stockholder action    affirmative vote of at least  2/3 of
-                       generally requires the approval of    the outstanding shares entitled to
-                       the majority vote of the quorum at    vote.
-                       any stockholder meeting at which the
-                       action is proposed.
-- -------------------------------------------------------------------------------------------------
+ Removal of            Sensory Science stockholders may remove directors  SONICblue stockholders may remove
+ Directors:            with cause by the affirmative vote of the          directors with or without cause by
+                       majority of stockholders entitled to vote in the   the affirmative vote of the majority
+                       election of directors.                             of stockholders entitled to vote in
+                                                                          the election of directors.
+- --------------------------------------------------------------------------------------------------------------
+ Stockholder Action    Sensory Science stockholders cannot take actions   SONICblue stockholders may not take
+ by Written            by stockholder written consent but rather must     any action required or permitted to
+ Consent:              take all of their actions at annual or special     be taken at any annual or special
+                       meetings of stockholders.                          meeting of stockholders of SONICblue
+                                                                          without a meeting, and SONICblue
+                                                                          stockholders may not take any action
+                                                                          by stockholder written consent
+                                                                          without a meeting.
+- --------------------------------------------------------------------------------------------------------------
+ Stockholder Vote      With the exception of certain statutory voting     SONICblue stockholders have the
+ Required:             requirements for special circumstances like        power to adopt, amend or repeal the
+                       mergers, Sensory Science stockholder action        bylaws of SONICblue by an
+                       generally requires the approval of the majority    affirmative vote of at least  2/3 of
+                       vote of the quorum at any stockholder meeting at   the outstanding shares entitled to
+                       which the action is proposed.                      vote.
+- --------------------------------------------------------------------------------------------------------------
 
                      DESCRIPTION OF SONICBLUE CAPITAL STOCK
 
@@ -6634,7 +6760,7 @@ of incorporation and the SONICblue bylaws.
 SONICblue is not meant to be complete and is qualified in its entirety by
 reference to the restated certificate of incorporation and bylaws of SONICblue
 which are incorporated herein by reference. See "Where You Can Find More
-Information" on page 98.
+Information" on page 99.
 
 AUTHORIZED CAPITAL STOCK
 
@@ -6644,8 +6770,8 @@ preferred stock, par value $0.0001 per share.
 
 SONICBLUE COMMON STOCK
 
-     SONICblue common stock outstanding. As of March 29, 2001, there were
-93,532,533 shares of SONICblue common stock issued, of which 80,532,533 shares
+     SONICblue common stock outstanding. As of May 9, 2001, there were
+          shares of SONICblue common stock issued, of which           shares
 were outstanding and 13 million were treasury shares. The outstanding shares of
 SONICblue common stock are, and the shares of SONICblue common stock issued
 pursuant to the merger will be, duly authorized, validly issued, fully paid and
@@ -6679,8 +6805,8 @@ provisions applicable to the SONICblue common stock.
 
 SONICBLUE PREFERRED STOCK
 
-     As of             , 2001, no shares of SONICblue preferred stock were
-issued or outstanding.
+     As of May 9, 2001, no shares of SONICblue preferred stock were issued or
+outstanding.
 
      SONICblue's board of directors has the authority, without stockholder
 approval, to create and issue one or more series of preferred stock and to fix
@@ -6711,8 +6837,8 @@ preferred stock include:
      - voting rights, if any.
 
      The series A participating preferred stock described below under
-"-- Stockholder Rights Plan" is a series of preferred stock that has been
-authorized by the SONICblue board.
+"-- SONICblue Stockholder Rights Plan" is a series of preferred stock that has
+been authorized by the SONICblue board.
 
      The issuance of preferred stock, while providing desirable flexibility in
 connection with possible acquisitions and other corporate purposes, could
@@ -6846,8 +6972,8 @@ the rights will be adjusted as follows:
        shares of SONICblue common stock or, in certain circumstances, a
        combination of SONICblue common stock, property,
 
-other securities and/or a reduction in the exercise price of the right, having a
-market value of two times the purchase price.
+       other securities and/or a reduction in the exercise price of the right,
+       having a market value of two times the purchase price.
 
 If any of the events described in the prior two paragraphs occurs, any rights
 that are or were at any time after the Distribution Date owned by an Acquiring
@@ -6895,7 +7021,7 @@ rights agent retain broad authority to amend the rights agreement; however,
 following any Distribution Date any amendment may not adversely affect the
 interests of holders of rights. This description of the rights is qualified in
 its entirety by reference to the rights agreement, which has been filed with the
-SEC. See "Where You Can Find More Information" on page 98.
+SEC. See "Where You Can Find More Information" on page 99.
 
      The stockholder rights plan is intended to enhance the likelihood of
 continuity and stability in the composition of SONICblue's board of directors
@@ -6915,9 +7041,9 @@ SONICblue more difficult and expensive and could discourage potential acquirers.
 
                                  LEGAL MATTERS
 
-     The validity of the SONICblue common stock to be issued to Sensory Science
-stockholders pursuant to the merger will be passed upon by Pillsbury Winthrop
-LLP, Palo Alto, California.
+     Certain legal matters with respect to the validity of the SONICblue common
+stock to be issued to Sensory Science stockholders pursuant to the merger will
+be passed upon for SONICblue by Pillsbury Winthrop LLP, Palo Alto, California.
 
                                     EXPERTS
 
@@ -7050,7 +7176,7 @@ at the following address:
                                  (888) 371-3211
 
      If you would like to request documents from Sensory Science, please do so
-by             , 2001, to receive them before the meeting.
+by June 20, 2001, to receive them before the meeting.
 
      You can also get more information by visiting SONICblue's web site at
 www.sonicblue.com and Sensory Science's web site at www.sensoryscience.com. Web
@@ -7060,7 +7186,7 @@ site materials are not part of this proxy statement/prospectus.
 reference in this proxy statement/ prospectus to vote on the merger proposal. We
 have not authorized anyone to provide you with information that is different
 from what is contained in this proxy statement/prospectus. This proxy
-statement/prospectus is dated             , 2001. You should not assume that the
+statement/prospectus is dated May 14, 2001. You should not assume that the
 information contained in the proxy statement/prospectus is accurate as of any
 date other than such date, and neither the mailing of this proxy
 statement/prospectus to stockholders nor the issuance of SONICblue common stock
@@ -7333,7 +7459,7 @@ BALANCE AT DECEMBER 31, 2000................  93,054,332     $9      $602,557   
 OPERATING ACTIVITIES
   Net income (loss).........................................  $ 312,828    $ (30,780)   $(113,204)
   Adjustments to reconcile net income (loss) to net cash
-    used for operating activities:
+      used for operating activities:
     Deferred income taxes...................................    278,160      (61,669)      15,453
     Depreciation............................................     19,420       19,530       18,844
     Amortization............................................     45,364       12,156        8,347
@@ -7424,9 +7550,9 @@ its wholly owned subsidiaries. All significant inter-company balances and
 transactions have been eliminated. Investments in entities in which the Company
 does not have control, but has the ability to exercise significant influence
 over operating and financial policies, are accounted for by the equity method.
-In January 2001, SONICblue completed the transfer of its graphics chips assets
-to S3 Graphics Co., Ltd. a joint venture between VIA Technologies Inc. and a
-wholly owned subsidiary of SONICblue.
+In January 2001, SONICblue completed the transfer of its graphics chips assets,
+other than S3-VIA, Inc., to S3 Graphics Co., Ltd. a joint venture between VIA
+Technologies Inc. and a wholly owned subsidiary of SONICblue.
 
      The preparation of financial statements in conformity with generally
 accepted accounting principles requires management to make estimates and
@@ -7456,157 +7582,4 @@ unrealized gains and losses included in accumulated other comprehensive income
 premiums and accretion of discounts to maturity. Such amortization and accretion
 are included in interest income. Realized gains and losses are included in other
 income (expense). The cost of securities sold is based on the specific
-identification method.
-
-  Derivative Financial Instruments
-
-     As of January 1, 2001, the Company adopted Financial Accounting Standards
-Board Statement No. 133, Accounting for Derivative Instruments and Hedging
-Activities, which was issued in June 1998, and its amendments Statement 137,
-Accounting for Derivative Instruments and Hedging Activities-Deferral of the
-Effective Date of FASB No. 133 and Statement 138, Accounting for Derivative
-Instruments and Certain Hedging Activities, issued in June 1999 and June 2000,
-respectively (collectively referred to as Statement 133).
-
-                                       F-7
-
-                             SONICBLUE INCORPORATED
-
-             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
-                  YEARS ENDED DECEMBER 31, 2000, 1999 AND 1998
-
-     As a result of the adoption of Statement 133, the Company will recognize
-all derivative financial instruments, such as foreign exchange contracts, in the
-consolidated financial instruments at fair value regardless of the purpose or
-the intent for holding the instrument. Changes in the fair value of derivative
-financial instruments are either recognized periodically in income or in
-stockholders' equity as a component of comprehensive income depending on whether
-the derivative financial instrument qualifies for hedging accounting, and if so,
-whether it qualifies as a fair value hedge or cash flow hedge. Generally,
-changes in fair values of derivatives accounted for as fair value hedges are
-recorded in income along with the portions of the changes in the fair values of
-the hedged items that relate to the hedged risk(s). Changes in fair values of
-derivatives accounted for as cash flow hedges, to the extent they are effective
-as hedges, are recorded in other comprehensive income net of deferred taxes.
-Changes in fair value of derivatives used as hedges of the net investment in
-foreign operations are reported in other comprehensive income as part of the
-cumulative translation adjustment. Changes in fair value of derivatives not
-qualifying as hedges are reported in income.
-
-     As the Company had no derivative financial instruments outstanding as of
-December 31, 2000, the adoption of Statement 133 had no impact on the financial
-statements of the Company at January 1, 2001.
-
-     Prior to January 1, 2001, the Company used forward foreign exchange
-contracts primarily to hedge the value of accounts receivable denominated in
-foreign currencies against fluctuations in exchange rates until such receivables
-are collected. The Company did not enter into forward foreign exchange contracts
-for speculative or trading purposes. The Company's accounting policies for these
-contracts were based on the Company's designation of the contracts as hedges of
-recorded transactions. Gains and losses on forward foreign exchange contracts
-were recognized in income in the same period as losses and gains on the
-underlying transactions were recognized and generally offset. As of December 31,
-2000, the Company had no foreign exchange forward contracts outstanding. As of
-December 31, 1999, the Company had two foreign exchange forward contracts
-outstanding. Each contract allowed the Company to sell 275,905,000 New Taiwan
-Dollars.
-
-  Inventories
-
-     Inventories consist of raw materials, work in process and finished goods
-and are stated at the lower of cost (first-in, first-out) or market. The
-Company's products typically experience short life cycles and the Company
-estimates the market value of its inventory based on anticipated selling prices
-adjusted for completion and selling costs. Should the Company experience a
-substantial unanticipated decline in the selling price of its products and/or
-demand therefor, a material valuation adjustment and corresponding charge to
-operations could result.
-
-     Required payments under the terminated "take or pay" contract with TSMC
-(See Note 6) were capitalized and amortized to inventory costs as the related
-product was received.
-
-     Inventories consist of:
-
-                                                              DECEMBER 31,
-                                                           ------------------
-                                                            2000       1999
-                                                           -------    -------
-                                                             (IN THOUSANDS)
-
-Raw materials............................................  $41,734    $40,132
-Work in process..........................................   14,222     10,418
-Finished goods...........................................   30,771     46,611
-                                                           -------    -------
-  Total..................................................  $86,727    $97,161
-                                                           =======    =======
-
-                                       F-8
-
-                             SONICBLUE INCORPORATED
-
-             NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (CONTINUED)
-                  YEARS ENDED DECEMBER 31, 2000, 1999 AND 1998
-
-  Property and Equipment
-
-     Property and equipment are stated at cost. Depreciation is computed using
-the straight-line method over estimated useful lives of three to seven years for
-machinery and equipment and five to seven years for furniture and fixtures.
-Leasehold improvements are amortized using the straight-line method over the
-shorter of the lease term or the assets' useful lives.
-
-     Property and equipment consist of:
-
-                                                             DECEMBER 31,
-                                                         --------------------
-                                                           2000        1999
-                                                         --------    --------
-                                                            (IN THOUSANDS)
-
-Machinery and equipment................................  $ 89,621    $ 78,271
-Furniture and fixtures.................................     8,480       7,924
-Leasehold improvements.................................     9,707       9,490
-                                                         --------    --------
-  Total................................................   107,808      95,685
-Accumulated depreciation and amortization..............   (83,047)    (61,281)
-                                                         --------    --------
-Property and equipment, net............................  $ 24,761    $ 34,404
-                                                         ========    ========
-
-  Goodwill and Intangible Assets
-
-     Goodwill and intangible assets are stated at cost. Amortization is computed
-using the straight-line method over estimated useful lives of two to seven
-years.
-
-     Goodwill and intangible assets consist of:
-
-                                                             DECEMBER 31,
-                                                         --------------------
-                                                           2000        1999
-                                                         --------    --------
-                                                            (IN THOUSANDS)
-
-Purchased technology...................................  $  6,800    $  6,800
-Trade names............................................     9,600      11,400
-Workforce-in-place.....................................     3,500       5,500
-Distribution channel relationships.....................    11,500      12,500
-Patents................................................    32,000      32,000
-Goodwill...............................................   186,331     173,849
-                                                         --------    --------
-  Total................................................   249,731     242,049
-Accumulated amortization...............................   (87,350)    (42,910)
-                                                         --------    --------
-Goodwill and intangible assets, net....................  $162,381    $199,139
-                                                         ========    ========
-
-  Impairment of Goodwill and Other Long-Lived Assets
-
-     Goodwill and other long-lived assets are reviewed for impairment whenever
-events such as product discontinuance, plant closures, product dispositions or
-other changes in circumstances indicate that the carrying amount may not be
-recoverable. When such events occur, the Company compares the carrying amount of
-the assets to undiscounted expected future cash flows. If this comparison
-indicates that there is impairment, the amount of the impairment is typically
-calculated using discounted expected future cash flows. The
+identif

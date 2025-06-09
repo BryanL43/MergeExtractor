@@ -10,7 +10,7 @@ import csv
 
 from src.crawler.CrawlerSupport import CrawlerSupport
 from src.utils.Logger import Logger
-from src.dependencies.RateLimiter import RateLimiter
+from src.utils.init_worker import init_worker
 
 from src.dependencies.config import ANNOUNCEMENT_DATES, COMPANY_A_LIST, COMPANY_B_LIST
 
@@ -86,12 +86,6 @@ class CrawlerHandler:
             for i in range(self.__start_index, self.__end_index)
         ];
 
-        # Create a manager for shared resources
-        manager = multiprocessing.Manager();
-        
-        # Create rate limiter resources
-        rate_limiter_resources = RateLimiter.create_resources(manager, max_calls_per_sec);
-
         total_tasks = len(jobs);
         
         # Process jobs in batches of 5
@@ -112,8 +106,7 @@ class CrawlerHandler:
                     try:
                         result = CrawlerSupport.process_single_job(
                             batch_jobs[0],
-                            date_margin,
-                            rate_limiter_resources
+                            date_margin
                         );
                         if result is not None:
                             main_index, doc_url = result;
@@ -125,13 +118,17 @@ class CrawlerHandler:
                         Logger.logMessage(f"[-] Process failed with error: {traceback.format_exc()}");
                 else:
                     # Launches process pool for the current batch
-                    with ProcessPoolExecutor(mp_context=get_context("spawn"), max_workers=min(len(batch_jobs), os.cpu_count())) as process_pool:
+                    with ProcessPoolExecutor(
+                        max_workers=min(len(batch_jobs), os.cpu_count()),
+                        initializer=init_worker,
+                        initargs=(max_calls_per_sec,),
+                        mp_context=get_context("spawn")
+                    ) as process_pool:
                         futures = {
                             process_pool.submit(
                                 CrawlerSupport.process_single_job, 
                                 job, 
-                                date_margin, 
-                                rate_limiter_resources
+                                date_margin
                             ): job
                             for job in batch_jobs
                         };
