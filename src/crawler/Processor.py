@@ -1,6 +1,6 @@
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed, wait, ALL_COMPLETED, CancelledError
-from multiprocessing import Manager, get_context
+from multiprocessing import Manager
 from threading import Event
 import sys
 from openai import OpenAI
@@ -14,6 +14,7 @@ from src.utils.Logger import Logger
 from src.utils.Document import Document
 from src.dependencies.ChunkProcessor import ChunkProcessor
 from src.dependencies.rate_limiter_globals import global_rate_limiter
+from src.dependencies.DatabaseHandler import DatabaseHandler
 
 from src.dependencies.config import START_PHRASES, MAX_NUM_OF_THREADS, FALLBACK_MODEL, FALLBACK_TOOLS
 
@@ -279,17 +280,21 @@ class Processor:
                         return;
                     found_data.value = True;
 
-                # Write the found document with the 'Background' section into a new file
-                format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
+                # Write the found document with the 'Background' section into a new entry
                 batch_start = (main_index // 100) * 100;
                 batch_end = batch_start + 99;
+                collection_name = f"batch_{batch_start}_{batch_end}";
 
-                output_path = os.path.abspath(f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt");
-                os.makedirs(os.path.dirname(output_path), exist_ok=True);
-
-                with open(output_path, "w", encoding="utf-8") as file:
-                    file.write(f"URL: {doc.getUrl()}\n\n");
-                    file.write(doc.getContent());
+                with DatabaseHandler() as db:
+                    collection = db.dataset_db[collection_name];
+                    document = {
+                        "main_index": main_index,
+                        "company_A": company_names[0],
+                        "company_B": company_names[1],
+                        "url": doc.getUrl(),
+                        "content": doc.getContent()
+                    };
+                    collection.insert_one(document);
 
                 Logger.logMessage(f"[+] Successfully created document for: {company_names[0]} & {company_names[1]}");
                 return doc.getUrl();
@@ -368,13 +373,21 @@ class Processor:
                     f.cancel();
 
             if fallback_result:
-                # Write the data to a file
-                format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
-                batchStart = (main_index // 100) * 100;
-                batchEnd = batchStart + 99;
-                with open(f"./DataSet/{batchStart}-{batchEnd}/{format_doc_name}.txt", "w", encoding="utf-8") as file:
-                    file.write(f"URL: {fallback_result.getUrl()}\n\n");
-                    file.write(fallback_result.getContent());
+                # Write the data to a new entry
+                batch_start = (main_index // 100) * 100;
+                batch_end = batch_start + 99;
+                collection_name = f"batch_{batch_start}_{batch_end}";
+
+                with DatabaseHandler() as db:
+                    collection = db.dataset_db[collection_name];
+                    document = {
+                        "main_index": main_index,
+                        "company_A": company_names[0],
+                        "company_B": company_names[1],
+                        "url": fallback_result.getUrl(),
+                        "content": fallback_result.getContent()
+                    };
+                    collection.insert_one(document);
 
                 Logger.logMessage(f"[+] Retry attempt successfully created document for: {company_names[0]} & {company_names[1]}");
                 return fallback_result.getUrl();

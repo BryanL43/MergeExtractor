@@ -176,3 +176,7 @@ merge_extractor_temp/
 
 # Profiler Output
 profile_output.txt
+
+# Debug dumps
+DataSet/
+ExtractedSections/

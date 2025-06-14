@@ -11,9 +11,7 @@ class DatabaseHandler:
         self._ensure_batch_collections(self.extracted_sections_db);
 
     def _get_or_init_db(self, db_name: str):
-        if db_name in self.client.list_database_names():
-            print(f"[+] Database '{db_name}' exists and was loaded.");
-        else:
+        if not db_name in self.client.list_database_names():
             print(f"[!] Database '{db_name}' does not exist yet. Initializing...");
             # Force create by inserting a dummy doc and then removing it
             temp_db = self.client[db_name];

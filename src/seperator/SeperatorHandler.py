@@ -10,6 +10,7 @@ import time
 
 from src.utils.Logger import Logger
 from src.dependencies.ChunkProcessor import ChunkProcessor
+from src.dependencies.DatabaseHandler import DatabaseHandler
 
 from src.dependencies.config import (
     OPENAI_API_KEY, 
@@ -37,28 +38,30 @@ class SeperatorHandler:
         reranker = CrossEncoder(RERANKER_MODEL);
         chunk_processor = ChunkProcessor(reranker, client);
 
-        # Construct document file name & construct the folder constraint
         company_names = [company_A, company_B];
-        format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
 
+        # Determine batch collection
         batch_start = (main_index // 100) * 100;
         batch_end = batch_start + 99;
-        
-        # Check if the file exists
-        file_path = f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt";
-        if not os.path.isfile(file_path):
-            print(f"Skipping index {main_index}: Document does not exist...");
-            return;
+        collection_name = f"batch_{batch_start}_{batch_end}";
 
-        # Check if the extracted file exists
-        extracted_path = os.path.abspath(f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt");
-        if os.path.isfile(extracted_path):
-            print(f"Skipping {extracted_path}: Already processed and extracted...");
-            return;
+        with DatabaseHandler() as db:
+            dataset_collection = db.dataset_db[collection_name];
+            extracted_collection = db.extracted_sections_db[collection_name];
 
-        # Read the original processed document
-        with open(file_path, "r", encoding="utf-8") as file:
-            text = file.read();
+            # Check if the original document exists
+            doc = dataset_collection.find_one({"main_index": main_index});
+            if not doc:
+                print(f"Skipping index {main_index}: Document does not exist...");
+                return;
+
+            # Check if the extracted section already exists
+            if extracted_collection.find_one({"main_index": main_index}):
+                print(f"Skipping index {main_index}: Already processed and extracted...");
+                return;
+
+            # Use the stored unprocessed content
+            text = doc["content"];
 
         with ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS) as executor:
             try:
@@ -74,9 +77,14 @@ class SeperatorHandler:
                     return;
                 
                 # Write the section passage
-                with open(extracted_path, "w", encoding="utf-8") as file:
-                    file.write(section_passage);
-
+                with DatabaseHandler() as db:
+                    collection = db.extracted_sections_db[collection_name];
+                    passage = {
+                        "main_index": main_index,
+                        "content": section_passage
+                    };
+                    collection.insert_one(passage);
+            
             except Exception as e:
                 Logger.logMessage(f"[-] Error: {e}");
                 Logger.logMessage(traceback.format_exc(), time_stamp=False);

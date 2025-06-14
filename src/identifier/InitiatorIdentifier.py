@@ -8,6 +8,7 @@ import os
 import csv
 
 from src.utils.Logger import Logger
+from src.dependencies.DatabaseHandler import DatabaseHandler
 
 from src.dependencies.config import (
     OPENAI_API_KEY, 
@@ -50,21 +51,22 @@ class InitiatorIdentifier:
     
     def __process_document(self, main_index: int, client: OpenAI) -> tuple[int, dict] | None:
         try:
-            # Construct extracted section file's name
-            company_names = [COMPANY_A_LIST[main_index], COMPANY_B_LIST[main_index]];
-            format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
+            # Construct the collection name
             batch_start = (main_index // 100) * 100;
             batch_end = batch_start + 99;
-            extracted_path = os.path.abspath(f"./ExtractedSection/{batch_start}-{batch_end}/{format_doc_name}.txt");
+            collection_name = f"batch_{batch_start}_{batch_end}";
 
-            # Check if the extracted file exists
-            if not os.path.isfile(extracted_path):
-                print(f"Skipping index {main_index}: Extracted session document does not exist...");
-                return None;
+            with DatabaseHandler() as db:
+                extracted_collection = db.extracted_sections_db[collection_name];
 
-            # Acquire the background section text
-            with open(extracted_path, "r", encoding="utf-8") as file:
-                text = file.read();
+                # Check if the extracted section exists in MongoDB
+                doc = extracted_collection.find_one({"main_index": main_index});
+                if not doc:
+                    print(f"Skipping index {main_index}: Extracted section document does not exist...");
+                    return None;
+
+                # Get the text from the MongoDB document
+                text = doc["content"];
 
             # Acquire the initiator via querying the LLM
             response = client.chat.completions.create(
