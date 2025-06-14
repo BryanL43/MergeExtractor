@@ -32,78 +32,80 @@ class ChunkProcessor:
         self.reranker_model = reranker_model;
         self.client = client;
 
-    @staticmethod
-    def extract_chunks_with_dates(chunks: list[str], nlp: Language, executor: ThreadPoolExecutor) -> list[tuple[int, str]]:
-        # Subroutine speeds up runtime slightly due to static nature
-        def get_chunks_with_date(batch_chunks_with_indices):
-            indices, texts = zip(*batch_chunks_with_indices);
-            docs = list(nlp.pipe(texts));
-            results = [];
+    # @staticmethod
+    # def extract_chunks_with_dates(chunks: list[str], nlp: Language, executor: ThreadPoolExecutor) -> list[tuple[int, str]]:
+    #     # Subroutine speeds up runtime slightly due to static nature
+    #     def get_chunks_with_date(batch_chunks_with_indices):
+    #         indices, texts = zip(*batch_chunks_with_indices);
+    #         docs = list(nlp.pipe(texts));
+    #         results = [];
 
-            for idx, doc, chunk in zip(indices, docs, texts):
-                date_entities = [ent for ent in doc.ents if ent.label_ == "DATE"];
-                filtered_dates = [];
+    #         for idx, doc, chunk in zip(indices, docs, texts):
+    #             date_entities = [ent for ent in doc.ents if ent.label_ == "DATE"];
+    #             filtered_dates = [];
 
-                for ent in date_entities:
-                    text = ent.text.lower();
+    #             for ent in date_entities:
+    #                 text = ent.text.lower();
 
-                    # Exclude entries with hyphens (often IDs or codes)
-                    if '-' in text:
-                        continue;
+    #                 # Exclude entries with hyphens (often IDs or codes)
+    #                 if '-' in text:
+    #                     continue;
 
-                    # For purely numeric entries, check if they exceed possible date ranges
-                    if text.replace('/', '').replace(' ', '').isdigit():
-                        components = re.split(r'[/\s]+', text);
+    #                 # For purely numeric entries, check if they exceed possible date ranges
+    #                 if text.replace('/', '').replace(' ', '').isdigit():
+    #                     components = re.split(r'[/\s]+', text);
 
-                        # Check if any component exceeds possible date values (4-digit integers)
-                        if any(len(component) > 4 for component in components):
-                            continue;
+    #                     # Check if any component exceeds possible date values (4-digit integers)
+    #                     if any(len(component) > 4 for component in components):
+    #                         continue;
 
-                        # If it's a single number, make sure it's in a reasonable year range
-                        if len(components) == 1 and text.isdigit():
-                            num = int(text);
-                            if num < 1900 or num > 2030:
-                                continue;
+    #                     # If it's a single number, make sure it's in a reasonable year range
+    #                     if len(components) == 1 and text.isdigit():
+    #                         num = int(text);
+    #                         if num < 1900 or num > 2030:
+    #                             continue;
 
-                    filtered_dates.append(ent.text);
+    #                 filtered_dates.append(ent.text);
 
-                # Context-based date detection for years
-                year_mentions = re.findall(r'\b((?:19|20)\d{2})\b', chunk);
-                for year in year_mentions:
-                    if year not in [date.lower() for date in filtered_dates]:
-                        filtered_dates.append(year);
+    #             # Context-based date detection for years
+    #             year_mentions = re.findall(r'\b((?:19|20)\d{2})\b', chunk);
+    #             for year in year_mentions:
+    #                 if year not in [date.lower() for date in filtered_dates]:
+    #                     filtered_dates.append(year);
 
-                # Remove duplicates while preserving order
-                seen = set();
-                filtered_dates = [x for x in filtered_dates if not (x in seen or seen.add(x))];
+    #             # Remove duplicates while preserving order
+    #             seen = set();
+    #             filtered_dates = [x for x in filtered_dates if not (x in seen or seen.add(x))];
 
-                if filtered_dates:
-                    results.append((idx, chunk));
+    #             if filtered_dates:
+    #                 results.append((idx, chunk));
 
-            return results;
+    #         return results;
 
-        chunks_with_dates = [];
-        futures = [];
+    #     chunks_with_dates = [];
+    #     futures = [];
 
-        # Prepare batches as (index, chunk) pairs
-        for i in range(0, len(chunks), BATCH_SIZE):
-            if not executor._shutdown:
-                batch = list(enumerate(chunks))[i:i + BATCH_SIZE]  # List of (global_index, chunk)
-                futures.append(executor.submit(get_chunks_with_date, batch))
+    #     # Prepare batches as (index, chunk) pairs
+    #     for i in range(0, len(chunks), BATCH_SIZE):
+    #         if not executor._shutdown:
+    #             batch = list(enumerate(chunks))[i:i + BATCH_SIZE]  # List of (global_index, chunk)
+    #             futures.append(executor.submit(get_chunks_with_date, batch))
 
-        # Collect the results as they complete
-        for future in as_completed(futures):
-            result = future.result();
-            if result:
-                chunks_with_dates.extend(result);
+    #     # Collect the results as they complete
+    #     for future in as_completed(futures):
+    #         result = future.result();
+    #         if result:
+    #             chunks_with_dates.extend(result);
 
-        return chunks_with_dates;
+    #     return chunks_with_dates;
 
     @staticmethod
     def locate_chunk_header(chunk: str, start_phrases: list[str], nlp: Language) -> str:
         doc = nlp(chunk);
         start_phrases_lower = [p.lower() for p in start_phrases];
         background_only = len(start_phrases) == 1 and start_phrases_lower[0] == "background";
+
+        skip_if_contains = ["schedule to", "amended", "restated", "included", "incorporated by reference"];
 
         # Fragment the chunk into sentences and then check their lines for potential start phrases headers
         for sent in doc.sents:
@@ -114,6 +116,9 @@ class ChunkProcessor:
             if not background_only:
                 for phrase in start_phrases_lower:
                     if phrase in sentence_text.lower() and "background" in sentence_text.lower():
+                        if any(skip in sentence_text.lower() for skip in skip_if_contains):
+                            continue; # Reject false positives
+                        
                         return phrase;
 
             # If no match in the sentence, check each line with additional fuzzy match.
@@ -129,7 +134,7 @@ class ChunkProcessor:
                         return line;
                 else: # Perform fuzzy matching for other start phrases
                     for phrase in start_phrases_lower:
-                        if phrase in line_lower or fuzz_ratio(line_lower, phrase) > 80:
+                        if phrase in line_lower or fuzz_ratio(line_lower, phrase) > 85:
                             if "background" in line_lower:
                                 return line;
 
@@ -151,7 +156,8 @@ class ChunkProcessor:
                     paragraphs.append(buffer);
                     buffer = [];
             else: # Non-empty line
-                buffer.append(line);
+                if len(line) >= 4: # Edge case for stand alone numbers, i.e. '11.'
+                    buffer.append(line);
 
         # Flush the last paragraph
         if buffer:
@@ -161,7 +167,16 @@ class ChunkProcessor:
         # If it has a lenght of 2 or less line then it's likely a section title.
         for para_lines in paragraphs:
             joined = "\n".join(para_lines);
-            if phrase.lower() in joined.lower() and len(para_lines) <= 2:
+            joined_lower = joined.lower();
+
+            # Skip paragraphs that look like amendments or TOC-style legal references
+            if any(bad_phrase in joined_lower for bad_phrase in [
+                "amended", "restated", "schedule to", "as follow"
+            ]):
+                continue;
+
+            # Check for the actual phrase and short paragraph structure (likely a section title)
+            if phrase.lower() in joined_lower and len(para_lines) <= 2:
                 return True;
             
         return False;
@@ -213,7 +228,7 @@ class ChunkProcessor:
                 continue;
 
             # Filter out false positive section titles
-            if any(term in line.lower() for term in ["reason", "industry", "identity", "filing", "corporate"]):
+            if any(term in line.lower() for term in ["industry", "identity", "filing", "corporate", "opinion", "overview"]):
                 continue;
 
             # Ensure passage is not too short (noise sections)
@@ -263,11 +278,18 @@ class ChunkProcessor:
         );
         chunks = text_splitter.split_text(text);
 
-        chunks_with_dates = ChunkProcessor.extract_chunks_with_dates(chunks, nlp, executor);
-        if len(chunks_with_dates) == 0:
-            return None; # No chunks with dates
+        # chunks_with_dates = ChunkProcessor.extract_chunks_with_dates(chunks, nlp, executor);
+        # if len(chunks_with_dates) == 0:
+        #     return None; # No chunks with dates
+    
+        # with open("DEBUGGING.txt", "a") as f:
+        #     for idx, chunk in chunks_with_dates:
+        #         f.write("--" * 20);
+        #         f.write("\n");
+        #         f.write(chunk);
+        #         f.write("\n");
 
-        approx_chunks = ChunkProcessor.get_approx_chunks(chunks_with_dates, start_phrases, nlp, executor);
+        approx_chunks = ChunkProcessor.get_approx_chunks(list(enumerate(chunks)), start_phrases, nlp, executor);
         if len(approx_chunks) == 0: # Edge case where there is no date within the "Background" chunk; toss all the chunks
             approx_chunks = ChunkProcessor.get_approx_chunks(list(enumerate(chunks)), start_phrases, nlp, executor);
 
@@ -367,11 +389,14 @@ class ChunkProcessor:
     
         COSINE_WEIGHT = 0.4;
         RERANK_WEIGHT = 0.6;
+        POSITION_WEIGHT = 0.1; # Earlier chunks are false positives
 
         # Compute the hybrid score based on desire weights
+        max_index = max(index for index, _, _ in final_chunks_sorted);
         hybrid_chunks = [];
         for (index, cos_score, chunk), rerank_score in zip(final_chunks_sorted, rerank_scores):
-            hybrid_score = (COSINE_WEIGHT * cos_score) + (RERANK_WEIGHT * rerank_score);
+            position_score = index / max_index;
+            hybrid_score = (COSINE_WEIGHT * cos_score) + (RERANK_WEIGHT * rerank_score) + (POSITION_WEIGHT * position_score);
             hybrid_chunks.append((index, hybrid_score, cos_score, rerank_score, chunk));
 
         # Sort by hybrid score descending
@@ -431,12 +456,24 @@ class ChunkProcessor:
         # Case 1: Only one approximate chunk in list, so use the chunk directly
         if len(approx_chunks) == 1:
             index, beginning_chunk = approx_chunks[0];
+            
+            # DEBUG
+            # print("===" * 20);
+            # print(f"Index: {index}");
+            # print(beginning_chunk);
+        
         else: # Case 2: Multiple approximate chunks in list; use cosine similarity & reranker to rank chunks
             final_chunks = self._compute_cosine_similarity(approx_chunks, executor);
             hybrid_chunks = self._rerank_with_hybrid_score(final_chunks);
 
             if not hybrid_chunks:
                 return None;
+        
+            # DEBUG
+            # for index, hybrid_score, cos_score, rerank_score, chunk in hybrid_chunks:
+            #     print("===" * 20);
+            #     print(f"Index: {index}, Hybrid Score: {hybrid_score}, Cosine Score: {cos_score}, Rerank Score: {rerank_score}");
+            #     print(chunk);
 
             index, _, _, _, beginning_chunk = hybrid_chunks[0];
         

@@ -8,6 +8,7 @@ rapidfuzz
 tqdm
 requests
 lxml
+pymongo
 
 # Dependencies
 six>=1.17.0

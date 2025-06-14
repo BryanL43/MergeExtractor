@@ -9,6 +9,11 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY");
 # Program configuration variables
 MAX_NUM_OF_THREADS = min(32, os.cpu_count() + 4);
 
+# MongoDB configuration
+MONGO_URL = "mongodb://localhost:27017";
+DATASET_NAME = "DataSet";
+EXTRACTEDSECTIONS_NAME = "ExtractedSections";
+
 # A more lightweight SpaCy model to quickly discern the section (can be replaced with larger models)
 BASE_NLP_MODEL = "en_core_web_sm"; # String format to be instantiated in each process generated via multi-processing
 RERANKER_MODEL = "BAAI/bge-reranker-v2-m3";
@@ -52,6 +57,7 @@ START_PHRASES = [
     "Background of Combination",
     "Background of Proposal",
     "Background of the Proposed Transaction",
+    "Background of the Open Market Merger",
     "Background"
 ];
 
@@ -63,7 +69,7 @@ BATCH_SIZE = 128; # Computing power specific. Tune for your device.
 LOG_FILE_PATH = os.path.abspath("./logs.txt");
 
 # Fallback tools and queries
-FALLBACK_MODEL = "gpt-4o-mini";
+FALLBACK_MODEL = "o4-mini-2025-04-16";
 FALLBACK_TOOLS = [{
     "type": "function",
     "function": {
@@ -72,41 +78,62 @@ FALLBACK_TOOLS = [{
             "Analyze the given text and determine if a section exists that serves the same role as the "
             "'background of the merger' section. This section may appear under alternative titles, including but not limited to "
             "'Background of the Transaction', 'Background of the Acquisition', 'Background of the Offer', "
-            "'Background of the Consolidation', or simply 'Background'. You should infer the presence of the section "
-            "based on contextual and structural cues, even if the exact phrase is not used.\n\n"
+            "'Background of the Consolidation', or simply 'Background'.\n\n"
 
             "The 'background of the merger' section typically provides a **chronological narrative** of the events, meetings, decisions, "
-            "and negotiations that led to the merger agreement. It often includes **dates**, names of involved companies, and summaries "
-            "of board discussions or strategic rationales.\n\n"
+            "and negotiations that led to the merger agreement. It often includes specific **dates**, names of executives or companies, and summaries "
+            "of board discussions or strategic developments. Valid sections include detailed timelines or multiple steps of the decision-making process.\n\n"
 
-            "Be cautious of false positives. Do not match if the phrase appears only in citations, references (e.g., 'see Background of the Merger'), "
-            "table of contents, or mentions without section content.\n\n"
+            "Do **not** return a match if the phrase appears only in:\n"
+            "- citations or references (e.g., 'see Background of the Offer')\n"
+            "- table of contents or index\n"
+            "- legal language amending or incorporating a section by reference\n"
+            "- summary lists of document sections\n\n"
 
-            "**Your task is to identify whether such a section is truly present, and return:**\n"
+            "**Important:**\n"
+            "- Only return `hasSection: true` if the narrative section is clearly present and detailed.\n"
+            "- If `hasSection` is `false`, you may omit `matchHeader` or leave it empty.\n"
+            "- `confidence` is optional when `hasSection` is false — if used, a low score (e.g., < 0.4) is appropriate.\n\n"
+
+            "**Examples:**\n\n"
+            "Valid example (real background section):\n"
+            "Background of the Merger\n\n"
+            "    During the last several years, Mediconsult has held conversations with a number of companies to evaluate possible business combinations...\n"
+            "    Beginning the first week in September 2000, Ian Sutcliffe, Chief Executive Officer of Mediconsult, had several telephone conversations...\n"
+            "    On October 4, 2000, the Mediconsult board held a special meeting to discuss possible strategic transactions.\n\n"
+
+            "**Your task is to return:**\n"
             "- hasSection: True or False\n"
-            "- matchHeader: the exact header string only (e.g., 'Background', or 'Background of the Offer')\n"
-            "- confidence: your certainty score (0 to 1)"
+            "- matchHeader: the exact header string only, if applicable\n"
+            "- confidence: your certainty score (0 to 1), only if applicable"
         ),
         "parameters": {
             "type": "object",
             "properties": {
                 "hasSection": {
                     "type": "boolean",
-                    "description": "Whether the 'background of the merger' section is present in the given text."
+                    "description": (
+                        "Whether the 'background of the merger' section is present in the given text. "
+                        "Return False if it only appears in citations, summaries, or other indirect references."
+                    )
                 },
                 "matchHeader": {
                     "type": "string",
-                    "description": "The exact header or phrase matched (if any). Reply with the exact header string only."
+                    "description": (
+                        "The exact header or phrase matched (e.g., 'Background of the Offer'). "
+                        "Leave blank or omit if `hasSection` is false."
+                    )
                 },
                 "confidence": {
                     "type": "number",
-                    "description": "A confidence score between 0 and 1 indicating how certain the model is"
+                    "description": (
+                        "A confidence score between 0 and 1 indicating how certain the model is. "
+                        "Optional if `hasSection` is false."
+                    )
                 }
             },
             "required": [
-                "hasSection",
-                "matchHeader",
-                "confidence"
+                "hasSection"
             ],
             "additionalProperties": False
         }

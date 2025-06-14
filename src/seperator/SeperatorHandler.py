@@ -64,12 +64,14 @@ class SeperatorHandler:
             try:
                 chunks, approx_chunks = chunk_processor.locateBackgroundChunk(text, START_PHRASES, executor);
                 if len(approx_chunks) == 0:
-                    raise RuntimeError("FATAL: Failed to locate a background chunk for index: ", main_index, "; Companies: ", company_A, " & ", company_B);
+                    Logger.logMessage(f"[x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: {main_index}; Companies: {company_A} & {company_B}");
+                    return;
                 
                 # Acquire ranked chunks according the the "Background" section
                 section_passage = chunk_processor.getSectionPassage(chunks, approx_chunks, company_names, executor);
                 if section_passage is None:
-                    raise RuntimeError("FATAL: Failed to acquire a section passage for index: ", main_index, "; Companies: ", company_A, " & ", company_B);
+                    Logger.logMessage(f"[x] FLAGGED for Manual Inspection: Failed to acquire a section passage for index: {main_index}; Companies: {company_A} & {company_B}");
+                    return;
                 
                 # Write the section passage
                 with open(extracted_path, "w", encoding="utf-8") as file:

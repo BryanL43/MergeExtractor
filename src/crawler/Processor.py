@@ -267,8 +267,8 @@ class Processor:
             if result is None or len(result[1]) == 0:
                 result = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], executor);
             
+            # No valid background chunks so ignore document
             if result is None:
-                print("ChunkProcessor.locateBackgroundChunk returned None! No chunks with dates found; so, ignoring the invalid document.");
                 sys.exit(1);
             
             _, approx_chunks = result;
@@ -327,23 +327,35 @@ class Processor:
 
             section_found = Event();  # Tracks first section discovery
             fallback_result = None;
+
+            Logger.logMessage(f"[i] Number of documents: {len(documents)}");
         
             for future in as_completed(futures):
                 try:
                     response, doc = future.result();
 
-                    # Log token usage
+                    # Ensure no false positive documents (typically smaller prompts)
                     usage = response.usage;
-                    Logger.logMessage(f"[i] Used approximately {usage.total_tokens} tokens per document"
+                    if usage.prompt_tokens < 20000:
+                        continue;
+
+                    # Log token usage
+                    Logger.logMessage(f"[i] Consumed approximately {usage.total_tokens} tokens "
                           f"(prompt: {usage.prompt_tokens}, completion: {usage.completion_tokens})");
-                    
-                    Logger.logMessage(f"[i] Number of documents: {len(documents)}");
         
                     tool_calls = response.choices[0].message.tool_calls;
                     if tool_calls:
                         args = json.loads(tool_calls[0].function.arguments);
                         if args.get("hasSection", True):
-                            Logger.logMessage(f"[i] Fallback tool results. matchHeader: {args['matchHeader']} | confidence: {args['confidence']}");
+                            log_parts = ["[i] Fallback tool results"];
+                            if 'matchHeader' in args:
+                                log_parts.append(f"matchHeader: {args['matchHeader']}");
+
+                            if 'confidence' in args:
+                                log_parts.append(f"confidence: {args['confidence']}");
+
+                            Logger.logMessage(" | ".join(log_parts));
+                            
                             section_found.set();  # Signal that a section has been found
                             fallback_result = doc;
                             break;

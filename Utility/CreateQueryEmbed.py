@@ -3,7 +3,7 @@ import os
 import torch
 import json
 
-from src.dependencies.config import START_PHRASES, EMBEDDING_MODEL
+from src.dependencies.config import EMBEDDING_MODEL
 
 example1 = """
 Background of the Merger
@@ -268,11 +268,177 @@ First Virtual Communications' Reasons for the Merger; Recommendation of the Firs
 CUseeMe Reasons for the Merger; Recommendation of the CUseeMe Board of Directors
 """
 
+negative_example2 = """
+The Merger  Background of the Merger;
+
+
+
+The Merger  Packard BioSciences Reasons
+for the Merger;
+
+
+
+The Merger  Recommendation of Packard
+BioSciences Board of Directors;
+
+
+
+The Merger  PerkinElmers Reasons for the
+Merger;
+
+
+
+The Merger  Recommendation of
+PerkinElmers Board of Directors;
+
+
+
+The Merger  Opinion of PerkinElmers
+Financial Advisor  Goldman, Sachs & Co.; and
+
+
+
+The Merger  Opinion of Packard
+BioSciences Financial Advisor  J.P. Morgan
+Securities Inc.
+"""
+
+negative_example3 = """
+and (vii) The information set forth in the sections of the Offer to Purchase entitled "Certain United States Federal Income Tax Consequences," "Background of the
+Offer; Past Contacts or Negotiations with the Company," "The Transaction Documents" and "Purpose of the Offer; Plans for the Company" is incorporated herein by reference.
+
+    (a)(2)(vi) Not
+applicable.
+
+Item 5. Past Contacts, Transactions, Negotiations and Agreements.
+
+    The information set forth in the sections of the Offer to Purchase entitled "Certain Information Concerning Abbott and the Purchaser," "Background of the
+Offer; Past Contacts or Negotiations with the Company," "The Transaction Documents" and "Purpose of the Offer; Plans for the Company" is incorporated herein by reference.
+
+Item 6. Purpose of the Tender Offer and Plans or Proposals.
+
+    (a),
+(c)(1), (c)(3-7) The information set forth in the Introduction and in the sections of the Offer to Purchase entitled "Background of the Offer; Past Contacts or
+Negotiations with the Company," "The Transaction Documents," "Purpose of the Offer; Plans for the Company," "Dividends and Distributions" and "Certain Effects of the Offer" is incorporated herein by
+reference.
+"""
+
+negative_example4 = """
+10.  BACKGROUND OF THE OFFER; CONTACTS WITH BEI; THE MERGER
+     AGREEMENT AND RELATED AGREEMENTS............................     14
+
+11.  PURPOSE OF THE OFFER; PLANS FOR BEI AFTER THE OFFER AND THE
+     MERGER......................................................     27
+
+12.  DIVIDENDS AND DISTRIBUTIONS.................................     29
+"""
+
+negative_example5 = """
+Background of the Offer
+
+12.
+Purpose of the Offer; Plans for the Company
+
+13.
+The Merger Agreement and Other Agreements
+
+14.
+Certain Conditions of the Offer
+
+15.
+Certain Legal Matters
+
+16.
+Fees and Expenses
+
+17.
+Miscellaneous
+
+SCHEDULE I
+
+Directors and Executive Officers of Parent and
+the Purchaser
+
+
+
+SUMMARY TERM SHEET
+"""
+
+negative_example6 = """
+OFFERSection 11Contacts and Transactions with BioReliance; Background of the
+Offer, THE TENDER OFFERSection 12 Purpose of the Offer and the Merger;
+Plans for BioReliance; the Merger Agreement; the Voting and Tender Agreement;
+and the Confidentiality Agreement and THE TENDER OFFERSection 15Certain
+Legal Matters of the Offer to Purchase is incorporated herein by reference.
+
+     (a)(2)(vi)Not applicable.
+
+Item 5. Past Contacts, Transactions, Negotiations and Agreements.
+"""
+
+negative_example7 = """
+Contacts and Transactions with BioReliance; Background of the Offer
+
+Purpose of the Offer and the Merger; Plans for BioReliance; the Merger Agreement; the Voting and Tender Agreement; and the Confidentiality Agreement
+
+Dividends and Distributions
+
+Certain Conditions of the Offer
+
+Certain Legal Matters
+
+Fees and Expenses
+
+Miscellaneous
+
+Schedule I
+
+Directors and Executive Officers of Invitrogen and the Purchaser
+
+I-1
+
+Schedule II
+
+Section 262 of the Delaware General Corporation Law
+
+II-1
+
+i
+
+SUMMARY TERM SHEET
+
+We are offering to purchase all of the outstanding common stock of
+BioReliance for $48.00 net per share in cash. The following are some of the
+questions you, as a stockholder of BioReliance, may have and answers to those
+questions. We urge you to read carefully the remainder of this Offer to
+Purchase and the accompanying Letter of Transmittal prior to making any
+decision regarding your shares because the information in this summary is not
+complete. Additional important information is contained in the remainder of
+this Offer to Purchase and the Letter of Transmittal.
+
+Who is offering to buy my securities?
+
+     Our name is Baseball Acquisition Corporation. We are a Delaware
+corporation formed for the purpose of making a tender offer for all of the
+common stock of BioReliance and have carried on no activities other than in
+connection with the merger agreement among Invitrogen, us and BioReliance. We
+are a wholly-owned subsidiary of Invitrogen, a Delaware corporation listed on
+the Nasdaq National Market.
+
+     Invitrogen is a leading supplier of kits, reagents, sera and cell media
+and informatics software for life sciences research, drug discovery, and the
+production of biopharmaceuticals. Invitrogen offers a full range of products
+that enable researchers to understand the molecular basis of life and potential
+mechanisms of disease, as well as identify attractive targets for drug
+development. Invitrogens products are also used to support the clinical
+development and commercial production of biopharmaceuticals.
+"""
+
+
 instruction = (
-    f"Locate the start of the section titled with one of the following phrases: {', '.join(START_PHRASES)}. "
-    "This section provides a chronological timeline of events leading to the merger, "
-    "describing meetings, agreements, and important decisions. "
-    "Ensure that the chunk contains the actual start of the section and not just the title. "
+    "Return the start of the narrative section describing the merger or acquisition timeline. "
+    "This section usually begins with 'Background of the Offer' or a similar phrase, and contains detailed events, dates, decisions, and meetings. "
+    "Avoid returning boilerplate text, legal references, citations of other sections, or summaries without narrative content."
 );
 
 CLIENT = OpenAI(api_key=os.getenv("OPENAI_API_KEY"));
@@ -309,7 +475,7 @@ def contrastive_query_embedding(instruction_emb, positives, negatives):
     mean_neg = negative_embs.mean(dim=0);
 
     # Boost positives, reduce negatives
-    combined = instruction_emb + mean_pos - 0.5 * mean_neg;
+    combined = instruction_emb + mean_pos - 1.5 * mean_neg;
     return combined / combined.norm(); # normalize
 
 def main():
@@ -321,7 +487,9 @@ def main():
     ];
 
     negative_examples = [
-        negative_example1
+        negative_example1, negative_example2, negative_example3,
+        negative_example4, negative_example5, negative_example6,
+        negative_example7
     ];
 
     queryEmbedding = contrastive_query_embedding(

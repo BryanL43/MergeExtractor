@@ -10,6 +10,7 @@ import requests
 from src.dependencies.rate_limiter_globals import global_rate_limiter
 from src.utils.Logger import Logger
 from src.crawler.Processor import Processor
+from src.dependencies.DatabaseHandler import DatabaseHandler
 
 from src.dependencies.config import FORM_TYPES, MAX_NUM_OF_THREADS, OPENAI_API_KEY
 
@@ -364,18 +365,18 @@ class CrawlerSupport:
         main_index, company_A, company_B, announcement_date = job_data;
         print("Processing index: ", main_index, "; Companies: ", company_A, " & ", company_B);
 
-        # Construct document file name & construct the folder constraint
-        company_names = [company_A, company_B];
-        format_doc_name = f"{main_index}_{company_names[0].replace(' ', '_')}_&_{company_names[1].replace(' ', '_')}";
-
+        # Determine batch collection
         batch_start = (main_index // 100) * 100;
         batch_end = batch_start + 99;
-        
-        # Check if the file exists
-        file_path = os.path.abspath(f"./DataSet/{batch_start}-{batch_end}/{format_doc_name}.txt");
-        if os.path.isfile(file_path):
-            print(f"Skipping index {main_index}: Document already exist...");
-            return None;
+        collection_name = f"batch_{batch_start}_{batch_end}";
+
+        with DatabaseHandler() as db:
+            collection = db.dataset_db[collection_name];
+
+            # Check if document already exists in MongoDB
+            if collection.find_one({"main_index": main_index}):
+                print(f"Skipping index {main_index}: Document already exists...");
+                return None;
     
         # Instantiate utility objects in child process
         client = OpenAI(api_key=OPENAI_API_KEY);
