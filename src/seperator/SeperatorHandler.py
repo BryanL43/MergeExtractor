@@ -81,6 +81,8 @@ class SeperatorHandler:
                     collection = db.extracted_sections_db[collection_name];
                     passage = {
                         "main_index": main_index,
+                        "company_A": company_A,
+                        "company_B": company_B,
                         "content": section_passage
                     };
                     collection.insert_one(passage);
