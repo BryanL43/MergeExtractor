@@ -26,7 +26,7 @@ def dump_collection_to_filesystem(db_ref, output_base_path: str, db_label: str):
                         f.write(f"URL: {url}\n\n");
 
                     f.write(content);
-                print(f"[{db_label}] Dumped: {file_path}");
+                print(f"[{db_label}] Dumped: {format_doc_name}");
             except Exception as e:
                 print(f"[{db_label}] Failed to write {file_path}: {e}");
 

@@ -1,0 +1,543 @@
+[2025-06-14 05:35:46] [+] Successfully created document for: Prime Response Inc & Chordiant Software Inc
+[2025-06-14 05:37:16] [+] Successfully created document for: Allaire Corp & Macromedia Inc
+[2025-06-14 05:37:19] [+] Successfully created document for: Xircom Inc & Intel Corp
+[2025-06-14 05:37:21] [+] Successfully created document for: Mediconsult.com Inc & CyBear Inc(Andryx Corp)
+[2025-06-14 05:37:21] [-] No relevant document found for index 1: Fritz Cos Inc & United Parcel Service Inc
+[2025-06-14 05:37:24] [+] Successfully created document for: WebTrends Corp & NetIQ Corp
+[2025-06-14 05:37:45] [+] Successfully created document for: Texoil Inc & Ocean Energy Inc
+[2025-06-14 05:37:47] [+] Successfully created document for: Guest Supply Inc & Sysco Corp
+[2025-06-14 05:37:52] [+] Successfully created document for: Centennial Technologies Inc & Solectron Corp
+[2025-06-14 05:37:52] [+] Successfully created document for: Pontotoc Production Inc & Ascent Energy Inc
+[2025-06-14 05:37:52] [+] Successfully created document for: Heartport Inc & Johnson & Johnson
+[2025-06-14 05:38:16] [+] Successfully created document for: UTI Energy Corp & Patterson Energy Inc
+[2025-06-14 05:38:23] [+] Successfully created document for: Tosco Corp & Phillips Petroleum Co Inc
+[2025-06-14 05:38:24] [+] Successfully created document for: Dallas-Semiconductor Corp & Maxim Integrated Products Inc
+[2025-06-14 05:38:24] [+] Successfully created document for: Sensory Science Corp & SONICBlue Inc
+[2025-06-14 05:38:50] [+] Successfully created document for: Credit Management Solutions & First American Corp
+[2025-06-14 05:39:17] [+] Successfully created document for: New Era of Networks Inc & Sybase Inc
+[2025-06-14 05:39:18] [+] Successfully created document for: Women.com Networks & iVillage Inc
+[2025-06-14 05:39:19] [+] Successfully created document for: RGS Energy Group & Energy East Corp
+[2025-06-14 05:39:25] [+] Successfully created document for: Conectiv Inc & Potomac Electric Power Company
+[2025-06-14 05:39:48] [+] Successfully created document for: Blue Wave Systems Inc & Motorola Inc
+[2025-06-14 05:40:11] [+] Successfully created document for: Fourth Shift Corp & AremisSoft Corp
+[2025-06-14 05:40:19] [+] Successfully created document for: Data Dimensions Inc & Lionbridge Technologies Inc
+[2025-06-14 05:40:19] [+] Successfully created document for: ASI Solutions Inc & Aon Corp
+[2025-06-14 05:40:21] [+] Successfully created document for: Oshman's Sporting Goods Inc & Gart Sports Co
+[2025-06-14 05:40:27] [+] Successfully created document for: Spieker Properties Inc & Equity Office Properties Trust
+[2025-06-14 05:41:39] [-] No relevant document found for index 27: United Dominion Industries Ltd & SPX Corp
+[2025-06-14 05:41:40] [+] Successfully created document for: Towne Services Inc & Private Business Inc
+[2025-06-14 05:41:43] [+] Successfully created document for: Cambridge Technology Partners & Novell Inc
+[2025-06-14 05:41:45] [+] Successfully created document for: VitalCom Inc & Data Critical Corp
+[2025-06-14 05:41:45] [+] Successfully created document for: Bergen Brunswig Corp & AmeriSource Health Corp
+[2025-06-14 05:41:59] [-] No relevant document found for index 31: True North Communications Inc & Interpublic Group of Cos Inc
+[2025-06-14 05:42:07] [+] Successfully created document for: Huntway Refining Co & Valero Energy Corp
+[2025-06-14 05:42:08] [+] Successfully created document for: Sequoia Software Corp & Citrix Systems Inc
+[2025-06-14 05:42:09] [+] Successfully created document for: CUseeMe Networks Inc & First Virtual Communications
+[2025-06-14 05:42:13] [+] Successfully created document for: Kent Electronics Corp & Avnet Inc
+[2025-06-14 05:42:42] [-] No relevant document found for index 39: General Semiconductor Inc & Vishay Intertechnology Inc
+[2025-06-14 05:42:53] [+] Successfully created document for: USA Detergents Inc & Church & Dwight Co Inc
+[2025-06-14 05:42:55] [+] Successfully created document for: Interland Inc & Micron Electronics Inc
+[2025-06-14 05:42:55] [+] Successfully created document for: ALZA Corp & Johnson & Johnson
+[2025-06-14 05:43:05] [+] Successfully created document for: Franchise Finance Corp of Amer & General Electric Capital Corp
+[2025-06-14 05:43:22] [-] No relevant document found for index 45: Ravenswood Winery Inc & Constellation Brands Inc
+[2025-06-14 05:43:30] [+] Successfully created document for: Dean Foods Co & Suiza Foods Corp
+[2025-06-14 05:43:32] [+] Successfully created document for: Exigent International Inc & Harris Corp
+[2025-06-14 05:43:34] [+] Successfully created document for: DTM Corp & 3D Systems Corp
+[2025-06-14 05:43:38] [+] Successfully created document for: Broadbase Software Inc & Kana Communications Inc
+[2025-06-14 05:43:57] [-] No relevant document found for index 49: Allergan Specialty & Allergan Inc
+[2025-06-14 05:44:06] [+] Successfully created document for: Foilmark Inc & Illinois Tool Works Inc
+[2025-06-14 05:44:11] [+] Successfully created document for: McNaughton Apparel Group Inc & Jones Apparel Group Inc
+[2025-06-14 05:44:11] [+] Successfully created document for: Autoweb.com Inc & Autobytel.com Inc
+[2025-06-14 05:44:20] [+] Successfully created document for: Mainspring Inc & IBM
+[2025-06-14 05:44:39] [+] Successfully created document for: Focal Inc & Genzyme Corp
+[2025-06-14 05:44:39] [+] Successfully created document for: MedPlus Inc & Quest Diagnostics Inc
+[2025-06-14 05:44:42] [+] Successfully created document for: Learn2.com Inc & E-Stamp Corp
+[2025-06-14 05:44:46] [+] Successfully created document for: Aurora Biosciences Corp & Vertex Pharmaceuticals Inc
+[2025-06-14 05:44:54] [+] Successfully created document for: Aronex Pharmaceuticals Inc & Antigenics Inc
+[2025-06-14 05:45:22] [-] No relevant document found for index 60: Telemate Net Software Inc & Verso Technologies Inc
+[2025-06-14 05:45:23] [-] No relevant document found for index 58: Ultramar Diamond Shamrock Corp & Valero Energy Corp
+[2025-06-14 05:45:29] [+] Successfully created document for: Telescan Inc & Ziasun Technologies Inc
+[2025-06-14 05:45:35] [+] Successfully created document for: Del Webb Corp & Pulte Homes Inc
+[2025-06-14 05:46:05] [+] Successfully created document for: NOVA Corp & US Bancorp
+[2025-06-14 05:46:17] [-] No relevant document found for index 65: SkyMall Inc & Gemstar-TV Guide Intl Inc
+[2025-06-14 05:46:28] [+] Successfully created document for: Healthcare.com Corp & Xcare Net Inc
+[2025-06-14 05:46:28] [-] No relevant document found for index 61: Barrett Resources Corp & Williams Cos Inc
+[2025-06-14 05:46:31] [+] Successfully created document for: Rosetta Inpharmatics Inc & Merck & Co Inc
+[2025-06-14 05:46:32] [+] Successfully created document for: HS Resources Inc & Kerr-McGee Corp
+[2025-06-14 05:47:06] [+] Successfully created document for: OrthAlliance Inc & Orthodontic Centers of America
+[2025-06-14 05:47:08] [+] Successfully created document for: Energy Search Inc & EOG Resources Inc
+[2025-06-14 05:47:15] [+] Successfully created document for: C-bridge Internet Solutions & Excelon Corp
+[2025-06-14 05:47:15] [+] Successfully created document for: Sawtek Inc & TriQuint Semiconductor Inc
+[2025-06-14 05:47:15] [+] Successfully created document for: Integrated Measurement Systems & Credence Systems Corp
+[2025-06-14 05:47:27] [-] No relevant document found for index 72: Structural Dynamics Research & Electronic Data Systems Corp
+[2025-06-14 05:47:34] [+] Successfully created document for: York Group Inc & Matthews International Corp
+[2025-06-14 05:47:38] [+] Successfully created document for: RoweCom Inc & Divine Inc
+[2025-06-14 05:47:39] [+] Successfully created document for: PictureTel Corp & Polycom Inc
+[2025-06-14 05:47:50] [+] Successfully created document for: Marine Drilling Cos & Pride International Inc
+[2025-06-14 05:48:17] [+] Successfully created document for: MiniMed Inc & Medtronic Inc
+[2025-06-14 05:48:23] [+] Successfully created document for: MessageMedia Inc & DoubleClick Inc
+[2025-06-14 05:48:24] [+] Successfully created document for: Minntech Corp & Cantel Medical Corp
+[2025-06-14 05:48:24] [+] Successfully created document for: Richton International Corp & Deere & Co
+[2025-06-14 05:48:52] [+] Successfully created document for: United Investors Realty Trust & Equity One Inc
+[2025-06-14 05:49:20] [+] Successfully created document for: Juno Online Services Inc & Netzero Inc
+[2025-06-14 05:49:24] [-] No relevant document found for index 81: Sound Advice Inc & Tweeter Home Ent Group Inc
+[2025-06-14 05:49:31] [+] Successfully created document for: Belco Oil & Gas Corp & Westport Resources Cforp
+[2025-06-14 05:49:31] [-] No relevant document found for index 83: Network Six Inc & TRW Inc
+[2025-06-14 05:49:39] [+] Successfully created document for: Remedy Corp & Peregrine Systems Inc
+[2025-06-14 05:50:07] [+] Successfully created document for: Galileo International Inc & Cendant Corp
+[2025-06-14 05:50:07] [+] Successfully created document for: Aris Corp & Ciber Inc
+[2025-06-14 05:50:11] [+] Successfully created document for: Datron Systems Inc & Titan Corp
+[2025-06-14 05:50:19] [+] Successfully created document for: AXYS Pharmaceuticals Inc & Celera Genomics Corp
+[2025-06-14 05:50:24] [+] Successfully created document for: Avert Inc & Automatic Data Processing Inc
+[2025-06-14 05:50:35] [-] No relevant document found for index 93: Launch Media Inc & Yahoo! Inc
+[2025-06-14 05:50:35] [-] No relevant document found for index 92: Duck Head Apparel Co & Tropical Sportswear Intl Corp
+[2025-06-14 05:50:40] [+] Successfully created document for: Cardiac Pathways Corp & Boston Scientific Corp
+[2025-06-14 05:50:45] [+] Successfully created document for: SMC Corp & Monaco Coach Corp
+[2025-06-14 05:50:49] [+] Successfully created document for: UroCor Inc & Dianon Systems Inc
+[2025-06-14 05:51:15] [-] No relevant document found for index 96: Duramed Pharmaceuticals Inc & Barr Laboratories Inc
+[2025-06-14 05:51:15] [-] No relevant document found for index 97: Captec Net Lease Realty Inc & Commercial Net Lease Rlty Inc
+[2025-06-14 05:51:21] [+] Successfully created document for: Earthgrains Co & Sara Lee Corp
+[2025-06-14 05:51:26] [+] Successfully created document for: Microware Systems Corp & RadiSys Corp
+[2025-06-14 05:51:32] [+] Successfully created document for: Mediaplex Inc & ValueClick Inc
+[2025-06-14 05:52:08] [-] No relevant document found for index 103: eShare Technologies Inc & Divine Inc
+[2025-06-14 05:52:22] [+] Successfully created document for: Packard BioScience Co & PerkinElmer Inc
+[2025-06-14 05:52:32] [+] Successfully created document for: Anchor Gaming Inc & International Game Technology
+[2025-06-14 05:52:35] [+] Successfully created document for: Argosy Education Group Inc & Education Management Corp
+[2025-06-14 05:52:38] [*] No background section found for index 104: Triton Energy Ltd & Amerada Hess Corp. Retrying via fallback...
+[2025-06-14 05:52:38] [i] Number of documents: 1
+[2025-06-14 05:52:48] [i] Consumed approximately 95558 tokens (prompt: 95262, completion: 296)
+[2025-06-14 05:52:48] [i] Fallback tool results | matchHeader: Background of the Offer | confidence: 0.84
+[2025-06-14 05:52:48] [+] Retry attempt successfully created document for: Triton Energy Ltd & Amerada Hess Corp
+[2025-06-14 05:53:15] [+] Successfully created document for: Reading Entertainment Inc & Citadel Holding Corp
+[2025-06-14 05:53:15] [+] Successfully created document for: Craig Corp & Citadel Holding Corp
+[2025-06-14 05:53:16] [+] Successfully created document for: Lifeminders Inc & Cross Media Marketing Corp
+[2025-06-14 05:53:18] [+] Successfully created document for: SCI Systems Inc & Sanmina Corp
+[2025-06-14 05:53:26] [+] Successfully created document for: iXL Enterprises Inc & Scient Corp
+[2025-06-14 05:53:50] [+] Successfully created document for: XTRA Corp & Berkshire Hathaway Inc
+[2025-06-14 05:53:56] [+] Successfully created document for: Cheap Tickets Inc & Cendant Corp
+[2025-06-14 05:54:00] [+] Successfully created document for: GenRad Inc & Teradyne Inc
+[2025-06-14 05:54:30] [+] Successfully created document for: Total Research Corp & Harris Interactive Inc
+[2025-06-14 05:54:35] [+] Successfully created document for: Be Inc & Palm Inc
+[2025-06-14 05:55:30] [+] Successfully created document for: PolyVision Corp & Steelcase Inc
+[2025-06-14 05:55:31] [+] Successfully created document for: Arnold Industries Inc & Roadway Corp
+[2025-06-14 05:55:34] [+] Successfully created document for: Metro Information Services Inc & Keane Inc
+[2025-06-14 05:55:38] [+] Successfully created document for: Mitchell Energy & Development & Devon Energy Corp
+[2025-06-14 05:55:53] [+] Successfully created document for: Open Market Inc & Divine Inc
+[2025-06-14 05:56:10] [-] No relevant document found for index 123: QC Optics Inc & KLA-Tencor Corp
+[2025-06-14 05:56:18] [+] Successfully created document for: Louis Dreyfus Natural Gas & Dominion Resources Inc
+[2025-06-14 05:56:23] [+] Successfully created document for: Global Marine Inc & Santa Fe International Corp
+[2025-06-14 05:56:28] [+] Successfully created document for: Dynamic Healthcare Technologie & Cerner Corp
+[2025-06-14 05:56:50] [+] Successfully created document for: Compaq Computer Corp & Hewlett-Packard Co
+[2025-06-14 05:57:10] [+] Successfully created document for: Illuminet Holdings Inc & Verisign Inc
+[2025-06-14 05:57:14] [+] Successfully created document for: BTG Inc & Titan Corp
+[2025-06-14 05:57:18] [+] Successfully created document for: Ashford.Com Inc & Global Sports Inc
+[2025-06-14 05:57:18] [+] Successfully created document for: Eprise Corp & Divine Inc
+[2025-06-14 05:57:19] [+] Successfully created document for: Prodigy Communications Corp & SBC Communications Inc
+[2025-06-14 05:57:36] [-] No relevant document found for index 135: Ackerley Group Inc & Clear Channel Commun Inc
+[2025-06-14 05:57:44] [+] Successfully created document for: Gaylord Container Corp & Temple-Inland Inc
+[2025-06-14 05:57:49] [+] Successfully created document for: Virata Corp & GlobeSpan Inc
+[2025-06-14 05:57:52] [+] Successfully created document for: Sage Inc & Genesis Microchip Inc
+[2025-06-14 05:58:00] [+] Successfully created document for: Orion Power Holdings Inc & Reliant Resources Inc
+[2025-06-14 05:58:31] [-] No relevant document found for index 139: Schuler Homes Inc & DR Horton Inc
+[2025-06-14 05:58:35] [+] Successfully created document for: CIDCO Inc & EarthLink Inc
+[2025-06-14 05:58:36] [+] Successfully created document for: Devx Energy Inc & Comstock Resources Inc
+[2025-06-14 05:58:43] [+] Successfully created document for: TeleCorp PCS Inc & AT&T Wireless Services Inc
+[2025-06-14 05:58:43] [+] Successfully created document for: PRI Automation Inc & Brooks Automation Inc
+[2025-06-14 05:58:54] [-] No relevant document found for index 142: net.Genesis Corp & SPSS Inc
+[2025-06-14 05:59:04] [+] Successfully created document for: Vysis Inc(BP PLC) & Abbott Labs
+[2025-06-14 05:59:05] [+] Successfully created document for: Odwalla Inc & Coca-Cola Co
+[2025-06-14 05:59:10] [+] Successfully created document for: NETsilicon Inc & Digi International Inc
+[2025-06-14 05:59:23] [+] Successfully created document for: CrossWorlds Software Inc & IBM
+[2025-06-14 05:59:49] [+] Successfully created document for: ENCAD Inc & Eastman Kodak Co
+[2025-06-14 05:59:49] [+] Successfully created document for: Dal-Tile International Inc & Mohawk Industries Inc
+[2025-06-14 05:59:50] [+] Successfully created document for: Data Return Corp & Divine Inc
+[2025-06-14 06:00:06] [+] Successfully created document for: Conoco Inc & Phillips Petroleum Co Inc
+[2025-06-14 06:00:17] [+] Successfully created document for: Storage USA Inc & Security Capital Group Inc
+[2025-06-14 06:00:33] [-] No relevant document found for index 154: Avant! Corp & Synopsys Inc
+[2025-06-14 06:00:41] [+] Successfully created document for: Conestoga Enterprises Inc & D&E Communications Inc
+[2025-06-14 06:00:46] [+] Successfully created document for: Santa Barbara Restaurant Group & CKE Restaurants Inc
+[2025-06-14 06:00:46] [+] Successfully created document for: Aviron & MedImmune Inc
+[2025-06-14 06:01:39] [+] Successfully created document for: Genomica Corp & Exelixis Inc
+[2025-06-14 06:02:10] [-] No relevant document found for index 160: HotJobs.com Ltd & Yahoo! Inc
+[2025-06-14 06:02:16] [+] Successfully created document for: Emons Transportation Group Inc & Genesee & Wyoming Inc
+[2025-06-14 06:02:17] [+] Successfully created document for: VidaMed Inc & Medtronic Inc
+[2025-06-14 06:02:21] [+] Successfully created document for: COR Therapeutics Inc & Millennium Pharmaceuticals Inc
+[2025-06-14 06:02:24] [+] Successfully created document for: IKOS Systems Inc & Mentor Graphics Corp
+[2025-06-14 06:03:06] [+] Successfully created document for: Novametrix Medical Systems Inc & Respironics Inc
+[2025-06-14 06:03:09] [+] Successfully created document for: Talarian Corp & TIBCO Software Inc
+[2025-06-14 06:03:10] [+] Successfully created document for: Elastic Networks Inc & Paradyne Networks Inc
+[2025-06-14 06:03:10] [+] Successfully created document for: Immunex Corp & Amgen Inc
+[2025-06-14 06:03:34] [+] Successfully created document for: Security Capital Group Inc & General Electric Capital Corp
+[2025-06-14 06:03:45] [-] No relevant document found for index 168: Cypress Communications Inc & US RealTel Inc
+[2025-06-14 06:03:55] [+] Successfully created document for: Matrix Pharmaceutical Inc & Chiron Corp
+[2025-06-14 06:03:55] [+] Successfully created document for: Proxim Inc & Western Multiplex Corp
+[2025-06-14 06:03:57] [+] Successfully created document for: Arguss Communications Inc & Dycom Industries Inc
+[2025-06-14 06:04:05] [-] No relevant document found for index 170: Momentum Business Applications & PeopleSoft Inc
+[2025-06-14 06:04:41] [+] Successfully created document for: OTG Software Inc & Legato Systems Inc
+[2025-06-14 06:04:47] [+] Successfully created document for: ONI Systems Corp & Ciena Corp
+[2025-06-14 06:04:48] [+] Successfully created document for: Crossmann Communities Inc & Beazer Homes USA Inc
+[2025-06-14 06:04:48] [+] Successfully created document for: TRW Inc & Northrop Grumman Corp
+[2025-06-14 06:05:07] [*] No background section found for index 172: Toymax International Inc & JAKKS Pacific Inc. Retrying via fallback...
+[2025-06-14 06:05:07] [i] Number of documents: 1
+[2025-06-14 06:05:17] [i] Consumed approximately 106114 tokens (prompt: 105813, completion: 301)
+[2025-06-14 06:05:17] [i] Fallback tool results | matchHeader: BACKGROUND AND REASONS FOR THE MERGER | confidence: 0.95
+[2025-06-14 06:05:17] [+] Retry attempt successfully created document for: Toymax International Inc & JAKKS Pacific Inc
+[2025-06-14 06:05:43] [+] Successfully created document for: Elantec Semiconductor Inc & Intersil Corp
+[2025-06-14 06:05:43] [+] Successfully created document for: Fusion Medical Technologies & Baxter International Inc
+[2025-06-14 06:05:46] [+] Successfully created document for: Visionics Corp & Identix Inc
+[2025-06-14 06:05:52] [-] No relevant document found for index 178: JP Realty Inc & General Growth Properties Inc
+[2025-06-14 06:06:00] [+] Successfully created document for: Be Free Inc & ValueClick Inc
+[2025-06-14 06:06:22] [+] Successfully created document for: Canaan Energy Corp & Chesapeake Energy Corp
+[2025-06-14 06:06:22] [+] Successfully created document for: iGo Corp & Mobility Electronics Inc
+[2025-06-14 06:06:23] [+] Successfully created document for: Truetime Inc & Symmetricom Inc
+[2025-06-14 06:06:24] [+] Successfully created document for: Mechanical Dynamics Inc & MSC Software Corp
+[2025-06-14 06:06:28] [+] Successfully created document for: ONTRACK Data International & Kroll Inc
+[2025-06-14 06:06:50] [+] Successfully created document for: Viant Corp & Divine Inc
+[2025-06-14 06:06:53] [+] Successfully created document for: IFR Systems & Aeroflex Inc
+[2025-06-14 06:06:58] [+] Successfully created document for: Clare Inc & IXYS Corp
+[2025-06-14 06:07:01] [+] Successfully created document for: Unilab Corp & Quest Diagnostics Inc
+[2025-06-14 06:07:16] [*] No background section found for index 190: Innoveda Inc & Mentor Graphics Corp. Retrying via fallback...
+[2025-06-14 06:07:16] [i] Number of documents: 4
+[2025-06-14 06:07:23] [i] Consumed approximately 90997 tokens (prompt: 90765, completion: 232)
+[2025-06-14 06:07:23] [i] Fallback tool results | matchHeader: Background of the Offer | confidence: 0.92
+[2025-06-14 06:07:23] [+] Retry attempt successfully created document for: Innoveda Inc & Mentor Graphics Corp
+[2025-06-14 06:07:49] [+] Successfully created document for: Trigon Healthcare Inc & Anthem Inc
+[2025-06-14 06:07:50] [+] Successfully created document for: Simplex Solutions Inc & Cadence Design Systems Inc
+[2025-06-14 06:07:51] [+] Successfully created document for: HNC Software Inc & Fair Isaac & Co Inc
+[2025-06-14 06:07:57] [-] No relevant document found for index 195: Micro General Corp(Fidelity) & Fidelity Natl Info Solutions
+[2025-06-14 06:08:13] [*] No background section found for index 192: Intelligent Controls Inc & Franklin Electric Co Inc. Retrying via fallback...
+[2025-06-14 06:08:13] [i] Number of documents: 1
+[2025-06-14 06:08:21] [i] Consumed approximately 46316 tokens (prompt: 45952, completion: 364)
+[2025-06-14 06:08:21] [i] Fallback tool results | matchHeader: Discussions Leading to the Merger Agreement | confidence: 0.85
+[2025-06-14 06:08:21] [+] Retry attempt successfully created document for: Intelligent Controls Inc & Franklin Electric Co Inc
+[2025-06-14 06:08:41] [+] Successfully created document for: Chase Industries Inc & Olin Corp
+[2025-06-14 06:08:47] [+] Successfully created document for: Interstate Hotels Corp & MeriStar Hotels & Resorts Inc
+[2025-06-14 06:09:06] [-] No relevant document found for index 198: Software Spectrum Inc & Level 3 Communications Inc
+[2025-06-14 06:09:18] [+] Successfully created document for: Advanced Technical Products & General Dynamics Corp
+[2025-06-14 19:11:50] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 104; Companies: Triton Energy Ltd & Amerada Hess Corp
+[2025-06-14 19:21:36] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 192; Companies: Intelligent Controls Inc & Franklin Electric Co Inc
+[2025-06-14 19:21:42] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 190; Companies: Innoveda Inc & Mentor Graphics Corp
+[2025-06-14 19:27:41] [-] No relevant document found for index 200: Dynacare Inc & Labcorp Holdings Inc
+[2025-06-14 19:27:48] [+] Successfully created document for: BEI Medical Systems Co & Boston Scientific Corp
+[2025-06-14 19:27:53] [+] Successfully created document for: Boron LePore & Associates Inc & Cardinal Health Inc
+[2025-06-14 19:27:53] [+] Successfully created document for: Lands' End Inc & Sears Roebuck & Co
+[2025-06-14 19:27:56] [+] Successfully created document for: Chiles Offshore Inc & ENSCO International Inc
+[2025-06-14 19:28:12] [+] Successfully created document for: SignalSoft Corp & Openwave Systems Inc
+[2025-06-14 19:28:18] [+] Successfully created document for: Spectrian Corp & Remec Inc
+[2025-06-14 19:28:22] [+] Successfully created document for: Official Payments Corp & Tier Technologies Inc
+[2025-06-14 19:28:24] [+] Successfully created document for: Datum Inc & Symmetricom Inc
+[2025-06-14 19:28:33] [+] Successfully created document for: EEX Corp(ENSERCH Corp) & Newfield Exploration Co
+[2025-06-14 19:29:02] [+] Successfully created document for: SilverStream Software Inc & Novell Inc
+[2025-06-14 19:29:02] [+] Successfully created document for: PeoplePC Inc & EarthLink Inc
+[2025-06-14 19:29:03] [+] Successfully created document for: Hispanic Broadcasting Corp & Univision Communications Inc
+[2025-06-14 19:29:08] [+] Successfully created document for: SkillSoft Corp & SmartForce PLC
+[2025-06-14 19:29:10] [+] Successfully created document for: Syncor International Corp & Cardinal Health Inc
+[2025-06-14 19:29:35] [+] Successfully created document for: Genomic Solutions Inc & Harvard Bioscience Inc
+[2025-06-14 19:29:40] [+] Successfully created document for: Pharmacia Corp & Pfizer Inc
+[2025-06-14 19:29:40] [+] Successfully created document for: Garan Inc & Berkshire Hathaway Inc
+[2025-06-14 19:29:41] [+] Successfully created document for: Paypal Inc & eBay Inc
+[2025-06-14 19:29:49] [+] Successfully created document for: ChemFirst Inc & DuPont
+[2025-06-14 19:30:01] [-] No relevant document found for index 224: Ostex International Inc & Inverness Med Innovations Inc
+[2025-06-14 19:30:01] [-] No relevant document found for index 221: Hollywood Casino Corp & Penn National Gaming Inc
+[2025-06-14 19:30:08] [+] Successfully created document for: CTB International Corp & Berkshire Hathaway Inc
+[2025-06-14 19:30:12] [+] Successfully created document for: inSilicon Corp & Synopsys Inc
+[2025-06-14 19:30:17] [+] Successfully created document for: SpeedFam-IPEC Inc & Novellus Systems Inc
+[2025-06-14 19:30:46] [-] No relevant document found for index 229: ClickAction Inc & infoUSA Inc
+[2025-06-14 19:30:52] [+] Successfully created document for: Surgical Laser Technologies & PhotoMedex Inc
+[2025-06-14 19:30:53] [+] Successfully created document for: ACTV Inc & OpenTV Corp
+[2025-06-14 19:31:00] [+] Successfully created document for: JDN Realty Corp & Developers Diversified Realty
+[2025-06-14 19:31:04] [+] Successfully created document for: Howell Corp & Anadarko Petroleum Corp
+[2025-06-14 19:31:24] [+] Successfully created document for: Meridian Medical Technologies & King Pharmaceuticals Inc
+[2025-06-14 19:31:27] [+] Successfully created document for: Starbase Corp & Borland Software Corp
+[2025-06-14 19:31:27] [+] Successfully created document for: InforMax Inc & Invitrogen Corp
+[2025-06-14 19:31:32] [+] Successfully created document for: Conductus Inc & Superconductor Technologies In
+[2025-06-14 19:31:46] [+] Successfully created document for: Excelon Corp & Progress Software Corp
+[2025-06-14 19:32:06] [+] Successfully created document for: Scherer Healthcare Inc & Stericycle Inc
+[2025-06-14 19:32:08] [+] Successfully created document for: Paravant Inc & DRS Technologies Inc
+[2025-06-14 19:32:13] [+] Successfully created document for: IRT Property Co & Equity One Inc
+[2025-06-14 19:32:34] [-] No relevant document found for index 236: Vicinity Corp & Microsoft Corp
+[2025-06-14 19:33:27] [*] No background section found for index 238: Gish Biomedical Inc & CardioTech International Inc. Retrying via fallback...
+[2025-06-14 19:33:27] [i] Number of documents: 3
+[2025-06-14 19:33:36] [i] Consumed approximately 97701 tokens (prompt: 97413, completion: 288)
+[2025-06-14 19:33:43] [i] Consumed approximately 97553 tokens (prompt: 97457, completion: 96)
+[2025-06-14 19:33:46] [i] Consumed approximately 97753 tokens (prompt: 97465, completion: 288)
+[2025-06-14 19:33:46] [-] Confirmed no background section found for index 238: Gish Biomedical Inc & CardioTech International Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1011060/000104746903002912/0001047469-03-002912.txt
+		https://www.sec.gov/Archives/edgar/data/1011060/000104746903001598/0001047469-03-001598.txt
+		https://www.sec.gov/Archives/edgar/data/1011060/000104746902007943/0001047469-02-007943.txt
+[2025-06-14 19:33:56] [-] No relevant document found for index 242: Dianon Systems Inc & Labcorp Holdings Inc
+[2025-06-14 19:33:57] [-] No relevant document found for index 243: Variagenics Inc & Hyseq Pharmaceuticals Inc
+[2025-06-14 19:34:03] [+] Successfully created document for: Avidyn Inc & Fiserv Inc
+[2025-06-14 19:34:08] [+] Successfully created document for: H Power Corp & Plug Power Inc
+[2025-06-14 19:34:11] [+] Successfully created document for: Cylink Corp & SafeNet Inc
+[2025-06-14 19:35:05] [+] Successfully created document for: Triangle Pharmaceuticals Inc & Gilead Sciences Inc
+[2025-06-14 19:35:09] [+] Successfully created document for: Frontstep Inc & MAPICS Inc
+[2025-06-14 19:35:09] [+] Successfully created document for: Hoovers Inc & Dun & Bradstreet Corp
+[2025-06-14 19:35:12] [+] Successfully created document for: OraPharma Inc & Johnson & Johnson
+[2025-06-14 19:35:32] [+] Successfully created document for: Rational Software Corp & IBM
+[2025-06-14 19:35:43] [-] No relevant document found for index 253: Inktomi Corp & Yahoo! Inc
+[2025-06-14 19:35:51] [+] Successfully created document for: AvantGo Inc & Sybase Inc
+[2025-06-14 19:35:59] [+] Successfully created document for: Rawlings Sporting Goods Co & K2 Inc
+[2025-06-14 19:36:13] [+] Successfully created document for: ProBusiness Services Inc & Automatic Data Processing Inc
+[2025-06-14 19:36:16] [+] Successfully created document for: US Search.com Inc & First American Corp
+[2025-06-14 19:36:41] [+] Successfully created document for: Bionx Implants Inc & CONMED Corp
+[2025-06-14 19:36:44] [-] No relevant document found for index 258: Caminus Corp & SunGard Data Systems Inc
+[2025-06-14 19:36:46] [+] Successfully created document for: Numerical Technologies Inc & Synopsys Inc
+[2025-06-14 19:36:51] [+] Successfully created document for: Printcafe Software Inc & EFI
+[2025-06-14 19:36:57] [+] Successfully created document for: 3-Dimensional Pharmaceuticals & Johnson & Johnson
+[2025-06-14 19:37:09] [-] No relevant document found for index 261: 3TEC Energy Corp & Plains Expl & Prodn Co
+[2025-06-14 19:37:18] [+] Successfully created document for: HTE Inc & SunGard Data Systems Inc
+[2025-06-14 19:37:23] [+] Successfully created document for: Montana Mills Bread Co Inc & Krispy Kreme Doughnuts Inc
+[2025-06-14 19:37:31] [+] Successfully created document for: Scios Inc & Johnson & Johnson
+[2025-06-14 19:38:11] [+] Successfully created document for: Cell Pathways Inc & OSI Pharmaceuticals Inc
+[2025-06-14 19:38:54] [+] Successfully created document for: Ocean Energy Inc & Devon Energy Corp
+[2025-06-14 19:38:57] [+] Successfully created document for: Allen Telecom Inc & Andrew Corp
+[2025-06-14 19:38:59] [+] Successfully created document for: ValiCert Inc & Tumbleweed Communications Corp
+[2025-06-14 19:39:01] [+] Successfully created document for: Corvas International Inc & Dendreon Corp
+[2025-06-14 19:39:06] [+] Successfully created document for: Sports Authority Inc & Gart Sports Co
+[2025-06-14 19:39:29] [-] No relevant document found for index 272: Graphic Packaging Intl Corp & Riverwood Holding Inc
+[2025-06-14 19:39:36] [+] Successfully created document for: Interlott Technologies Inc & GTECH Holdings Corp
+[2025-06-14 19:39:41] [+] Successfully created document for: Whitman Education Group Inc & Career Education Corp
+[2025-06-14 19:39:42] [+] Successfully created document for: Computer Motion Inc & Intuitive Surgical Inc
+[2025-06-14 19:39:59] [+] Successfully created document for: Carbon Energy Corp & Evergreen Resources Inc
+[2025-06-14 19:40:25] [+] Successfully created document for: Signal Technology Corp & Crane Co
+[2025-06-14 19:40:37] [+] Successfully created document for: AlphaNet Solutions Inc & Ciber Inc
+[2025-06-14 19:40:39] [+] Successfully created document for: Clayton Homes Inc & Berkshire Hathaway Inc
+[2025-06-14 19:40:39] [+] Successfully created document for: Diacrin Inc & GenVec Inc
+[2025-06-14 19:40:52] [*] No background section found for index 276: Ramsay Youth Services Inc & Psychiatric Solutions Inc. Retrying via fallback...
+[2025-06-14 19:40:52] [i] Number of documents: 1
+[2025-06-14 19:41:01] [i] Consumed approximately 108326 tokens (prompt: 108166, completion: 160)
+[2025-06-14 19:41:01] [-] Confirmed no background section found for index 276: Ramsay Youth Services Inc & Psychiatric Solutions Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1255314/000095014403009023/0000950144-03-009023.txt
+[2025-06-14 19:41:21] [+] Successfully created document for: MCK Communications Inc & Verso Technologies Inc
+[2025-06-14 19:41:22] [+] Successfully created document for: SYNAVANT Inc & Dendrite International Inc
+[2025-06-14 19:41:24] [+] Successfully created document for: LendingTree Inc & USA Interactive
+[2025-06-14 19:41:27] [+] Successfully created document for: SpeechWorks International Inc & ScanSoft Inc
+[2025-06-14 19:41:28] [+] Successfully created document for: Oak Technology Inc & Zoran Corp
+[2025-06-14 19:41:48] [-] No relevant document found for index 287: WilTel Commun Group Inc & Leucadia National Corp
+[2025-06-14 19:41:54] [+] Successfully created document for: RFS Hotel Investors Inc & CNL Hospitality Properties Inc
+[2025-06-14 19:41:54] [+] Successfully created document for: Miller Exploration Co & Edge Petroleum Corp
+[2025-06-14 19:42:04] [+] Successfully created document for: Crown American Realty Trust & Pennsylvania Reit
+[2025-06-14 19:42:10] [-] No relevant document found for index 289: Varsity Group Inc & Age Research Inc
+[2025-06-14 19:42:21] [-] No relevant document found for index 290: JD Edwards & Co & PeopleSoft Inc
+[2025-06-14 19:42:32] [+] Successfully created document for: Mid-Atlantic Realty Trust & Kimco Realty Corp
+[2025-06-14 19:42:33] [+] Successfully created document for: Handspring Inc & Palm Inc
+[2025-06-14 19:42:38] [+] Successfully created document for: Multilink Technology Corp & Vitesse Semiconductor Corp
+[2025-06-14 19:42:51] [+] Successfully created document for: Veridian Corp & General Dynamics Corp
+[2025-06-14 19:43:29] [+] Successfully created document for: Nautica Enterprises Inc & VF Corp
+[2025-06-14 19:43:36] [+] Successfully created document for: Factual Data Corp & Kroll Inc
+[2025-06-14 19:43:45] [+] Successfully created document for: PetroCorp Inc & Unit Corp
+[2025-06-14 19:43:47] [+] Successfully created document for: Acres Gaming Inc & International Game Technology
+[2025-06-14 19:43:47] [+] Successfully created document for: Horizon Organic Holding Corp & Dean Foods Co
+[2025-06-14 19:43:59] [-] No relevant document found for index 303: Overture Services Inc & Yahoo! Inc
+[2025-06-14 19:44:12] [+] Successfully created document for: OfficeMax Inc & Boise Cascade Corp
+[2025-06-14 19:44:14] [+] Successfully created document for: Legato Systems Inc & EMC Corp
+[2025-06-14 19:44:21] [+] Successfully created document for: Roadway Corp & Yellow Corp
+[2025-06-14 19:44:28] [+] Successfully created document for: PracticeWorks Inc & Eastman Kodak Co
+[2025-06-14 19:44:56] [+] Successfully created document for: Pinnacor Inc & MarketWatch.com Inc
+[2025-06-14 19:45:00] [+] Successfully created document for: Simula Inc & Armor Holdings Inc
+[2025-06-14 19:45:01] [+] Successfully created document for: Brio Software Inc & Hyperion Solutions Corp
+[2025-06-14 19:45:20] [*] No background section found for index 309: Laser-Pacific Media Corp & Eastman Kodak Co. Retrying via fallback...
+[2025-06-14 19:45:20] [i] Number of documents: 1
+[2025-06-14 19:45:30] [i] Consumed approximately 82730 tokens (prompt: 82365, completion: 365)
+[2025-06-14 19:45:30] [i] Fallback tool results | matchHeader: BACKGROUND OF THE MERGER AND RELATED MATTERS | confidence: 0.95
+[2025-06-14 19:45:30] [+] Retry attempt successfully created document for: Laser-Pacific Media Corp & Eastman Kodak Co
+[2025-06-14 19:45:34] [+] Successfully created document for: dELIA s Corp & Alloy Inc
+[2025-06-14 19:45:57] [+] Successfully created document for: Mercator Software Inc & Ascential Software Corp
+[2025-06-14 19:46:03] [+] Successfully created document for: SangStat Medical Corp & Genzyme Corp
+[2025-06-14 19:46:10] [+] Successfully created document for: iManage Inc & Interwoven Inc
+[2025-06-14 19:46:12] [+] Successfully created document for: ResortQuest International & Gaylord Entertainment Co
+[2025-06-14 19:46:13] [+] Successfully created document for: i3 Mobile Inc & Ace*Comm Corp
+[2025-06-14 19:46:33] [+] Successfully created document for: CIMA Labs Inc & Cephalon Inc
+[2025-06-14 19:46:35] [+] Successfully created document for: DMI Furniture Inc & Flexsteel Industries Inc
+[2025-06-14 19:46:37] [+] Successfully created document for: CareScience Inc & Quovadx Inc
+[2025-06-14 19:46:42] [+] Successfully created document for: SPS Technologies Inc & Precision Castparts Corp
+[2025-06-14 19:47:13] [+] Successfully created document for: Integrated Defense Tech & DRS Technologies Inc
+[2025-06-14 19:47:31] [+] Successfully created document for: T/R Systems Inc & EFI
+[2025-06-14 19:47:32] [+] Successfully created document for: JNI Corp & Applied Micro Circuits Corp
+[2025-06-14 19:47:35] [+] Successfully created document for: ECC International Corp & Cubic Corp
+[2025-06-14 19:47:40] [+] Successfully created document for: AdvancePCS & Caremark Rx Inc
+[2025-06-14 19:47:41] [+] Successfully created document for: Lightspan Inc & Plato Learning Inc
+[2025-06-14 19:48:00] [-] No relevant document found for index 327: Docent Inc & click2learn.com inc
+[2025-06-14 19:48:11] [+] Successfully created document for: Vixel Corp & Emulex Corp
+[2025-06-14 19:48:13] [+] Successfully created document for: Documentum Inc & EMC Corp
+[2025-06-14 19:48:16] [+] Successfully created document for: Rainbow Technologies Inc & SafeNet Inc
+[2025-06-14 19:48:17] [+] Successfully created document for: Brass Eagle Inc & K2 Inc
+[2025-06-14 19:48:40] [-] No relevant document found for index 330: Mid Atlantic Med Svcs Inc & UnitedHealth Group Inc
+[2025-06-14 19:48:43] [+] Successfully created document for: On Technology Corp & Symantec Corp
+[2025-06-14 19:48:44] [+] Successfully created document for: Invivo Corp & Intermagnetics General Corp
+[2025-06-14 19:48:44] [+] Successfully created document for: WellPoint Health Networks Inc & Anthem Inc
+[2025-06-14 19:48:48] [+] Successfully created document for: Rogue Wave Software Inc & Quovadx Inc
+[2025-06-14 19:49:19] [-] No relevant document found for index 338: ElderTrust Realty Group & Ventas Inc
+[2025-06-14 19:49:33] [+] Successfully created document for: Medstone International Inc & Prime Medical Services Inc
+[2025-06-14 19:49:33] [+] Successfully created document for: RMH Teleservices Inc & NCO Group Inc
+[2025-06-14 19:49:39] [+] Successfully created document for: Applied Molecular Evolution & Eli Lilly & Co
+[2025-06-14 19:49:58] [+] Successfully created document for: Latitude Communications Inc & Cisco Systems Inc
+[2025-06-14 19:50:11] [-] No relevant document found for index 342: Hall Kinion & Associates Inc & Kforce Inc
+[2025-06-14 19:50:18] [+] Successfully created document for: Systems & Computer Technology & SunGard Data Systems Inc
+[2025-06-14 19:50:22] [-] No relevant document found for index 344: Right Mgmt Consultants Inc & Manpower Inc
+[2025-06-14 19:50:29] [+] Successfully created document for: Fotoball USA Inc & K2 Inc
+[2025-06-14 19:50:42] [+] Successfully created document for: America First Real Estate & America First Apartment Inv
+[2025-06-14 19:51:14] [+] Successfully created document for: BioReliance Corp & Invitrogen Corp
+[2025-06-14 19:51:14] [+] Successfully created document for: i-Stat Corp & Abbott Labs
+[2025-06-14 19:51:15] [+] Successfully created document for: Esperion Therapeutics Inc & Pfizer Inc
+[2025-06-14 19:51:26] [+] Successfully created document for: Optika Inc & Stellent Inc
+[2025-06-14 19:51:30] [-] No relevant document found for index 345: Gulfterra Energy Partners LP & Enterprise Products Partners
+[2025-06-14 19:52:03] [+] Successfully created document for: TheraSense Inc & Abbott Labs
+[2025-06-14 19:52:03] [+] Successfully created document for: Freemarkets Inc & Ariba Inc
+[2025-06-14 19:52:15] [+] Successfully created document for: Cable Design Technologies Corp & Belden Inc
+[2025-06-14 19:52:27] [+] Successfully created document for: Moore Medical Corp & McKesson Corp
+[2025-06-14 19:52:37] [+] Successfully created document for: Equity Oil Co & Whiting Petroleum Corp
+[2025-06-14 19:52:48] [-] No relevant document found for index 358: Blue Rhino Corp & Ferrellgas Partners LP
+[2025-06-14 19:52:51] [-] No relevant document found for index 359: Nuevo Energy Co & Plains Expl & Prodn Co
+[2025-06-14 19:53:00] [+] Successfully created document for: NetScreen Technologies Inc & Juniper Networks Inc
+[2025-06-14 19:53:01] [+] Successfully created document for: Rainbow Rentals & Rent-A-Center Inc
+[2025-06-14 19:53:03] [-] No relevant document found for index 355: Novadigm Inc & Hewlett Packard Co
+[2025-06-14 19:53:16] [-] No relevant document found for index 363: International Multifoods Corp & The JM Smucker Co
+[2025-06-14 19:53:24] [+] Successfully created document for: Interpore International Inc & Biomet Inc
+[2025-06-14 19:53:24] [+] Successfully created document for: NPTest Holding Corp & Credence Systems Corp
+[2025-06-14 19:53:26] [+] Successfully created document for: Maxwell Shoe Co Inc & Jones Apparel Group Inc
+[2025-06-14 19:53:32] [+] Successfully created document for: ILEX Oncology Inc & Genzyme Corp
+[2025-06-14 19:53:55] [-] No relevant document found for index 367: Apogent Technologies Inc & Fisher Scientific Intl Inc
+[2025-06-14 19:54:00] [+] Successfully created document for: Familymeds Group Inc & Drugmax Inc
+[2025-06-14 19:54:02] [+] Successfully created document for: Xicor Inc & Intersil Corp
+[2025-06-14 19:54:08] [+] Successfully created document for: SSP Solutions Inc & Saflink Corp
+[2025-06-14 19:54:14] [+] Successfully created document for: Alcide Corp & Ecolab Inc
+[2025-06-14 19:54:42] [+] Successfully created document for: DigitalThink Inc & Convergys Corp
+[2025-06-14 19:54:53] [+] Successfully created document for: Millennium Chemicals Inc & Lyondell Chemical Co
+[2025-06-14 19:54:53] [+] Successfully created document for: Tularik Inc & Amgen Inc
+[2025-06-14 19:54:59] [+] Successfully created document for: Metrocall Holdings Inc & Arch Wireless Inc
+[2025-06-14 19:55:02] [+] Successfully created document for: Barra Inc & Morgan Stanley
+[2025-06-14 19:55:16] [-] No relevant document found for index 376: Isco Inc & Teledyne Technologies Inc
+[2025-06-14 19:55:22] [+] Successfully created document for: Group 1 Software Inc & Pitney Bowes Inc
+[2025-06-14 19:55:25] [+] Successfully created document for: Westport Resources Corp & Kerr-McGee Corp
+[2025-06-14 19:55:31] [+] Successfully created document for: Vans Inc & VF Corp
+[2025-06-14 19:55:34] [+] Successfully created document for: Oxford Health Plans Inc & UnitedHealth Group Inc
+[2025-06-14 19:55:59] [+] Successfully created document for: Marimba Inc & BMC Software Inc
+[2025-06-14 19:56:01] [+] Successfully created document for: OneSource Information Services & infoUSA Inc
+[2025-06-14 19:56:07] [+] Successfully created document for: Evergreen Resources Inc & Pioneer Natural Resources Co
+[2025-06-14 19:56:09] [+] Successfully created document for: Larscom Inc & Verilink Corp
+[2025-06-14 19:56:09] [+] Successfully created document for: Horizon Medical Products Inc & Rita Medical Systems Inc
+[2025-06-14 19:56:31] [+] Successfully created document for: Wiser Oil Co & Forest Oil Corp
+[2025-06-14 19:56:32] [+] Successfully created document for: ALARIS Medical Systems Inc & Cardinal Health Inc
+[2025-06-14 19:56:33] [+] Successfully created document for: Advanced Fibre Communications & Tellabs Inc
+[2025-06-14 19:56:34] [-] No relevant document found for index 386: Kroll Inc & Marsh & McLennan Cos Inc
+[2025-06-14 19:56:34] [-] No relevant document found for index 385: New England Bus Service Inc & Deluxe Corp
+[2025-06-14 19:56:58] [+] Successfully created document for: First Years Inc & RC2 Corp
+[2025-06-14 19:57:00] [+] Successfully created document for: Mandalay Resort Group & MGM Mirage Inc
+[2025-06-14 19:57:02] [+] Successfully created document for: Prime Medical Services Inc & Healthtronics Surgical Svcs
+[2025-06-14 19:57:06] [+] Successfully created document for: Exult Inc & Hewitt Associates LLC
+[2025-06-14 19:57:08] [+] Successfully created document for: ACLARA Biosciences Inc & ViroLogic Inc
+[2025-06-14 19:57:57] [+] Successfully created document for: Chelsea Property Group Inc & Simon Property Group Inc
+[2025-06-14 19:58:01] [+] Successfully created document for: Inveresk Research Group Inc & Charles River Laboratories Int
+[2025-06-14 19:58:02] [+] Successfully created document for: Commonwealth Industries Inc & IMCO Recycling Inc
+[2025-06-14 19:58:03] [+] Successfully created document for: Inet Technologies Inc & Tektronix Inc
+[2025-06-14 19:58:35] [+] Successfully created document for: Information Holdings Inc & Thomson Corp
+[2025-06-14 20:00:56] [-] No relevant document found for index 401: Caesars Entertainment Inc & Harrah's Entertainment Inc
+[2025-06-14 20:00:58] [-] No relevant document found for index 403: Ocular Sciences Inc & The Cooper Cos Inc
+[2025-06-14 20:01:04] [+] Successfully created document for: NUI Corp & AGL Resources Inc
+[2025-06-14 20:01:12] [+] Successfully created document for: Chronimed Inc & MIM Corp
+[2025-06-14 20:01:12] [+] Successfully created document for: SportsLine.com Inc & Viacom Inc
+[2025-06-14 20:01:38] [+] Successfully created document for: Computer Access Technology & LeCroy Corp
+[2025-06-14 20:01:39] [+] Successfully created document for: Varco International Inc & National-Oilwell Inc
+[2025-06-14 20:01:39] [+] Successfully created document for: Primus Knowledge Solutions Inc & Art Technology Group Inc
+[2025-06-14 20:01:58] [+] Successfully created document for: Province Healthcare Co & LifePoint Hospitals Inc
+[2025-06-14 20:02:05] [+] Successfully created document for: Rouse Co & General Growth Properties Inc
+[2025-06-14 20:02:23] [+] Successfully created document for: Braun Consulting Inc & Fair Isaac Corp
+[2025-06-14 20:02:28] [+] Successfully created document for: Epoch Biosciences Inc & Nanogen Inc
+[2025-06-14 20:02:30] [+] Successfully created document for: American Medical Security Grp & PacifiCare Health Systems Inc
+[2025-06-14 20:02:35] [+] Successfully created document for: NetSolve Inc & Cisco Systems Inc
+[2025-06-14 20:02:59] [+] Successfully created document for: Obie Media Corp & Lamar Advertising Co
+[2025-06-14 20:03:16] [-] No relevant document found for index 415: Endocardial Solutions Inc & St Jude Medical Inc
+[2025-06-14 20:03:17] [-] No relevant document found for index 419: Netegrity Inc & Computer Assoc Intl Inc
+[2025-06-14 20:03:26] [+] Successfully created document for: Orbitz Inc & Cendant Corp
+[2025-06-14 20:03:32] [+] Successfully created document for: Summit Properties Inc & Camden Property Trust
+[2025-06-14 20:03:42] [-] No relevant document found for index 416: Persistence Software Inc & Progress Software Corp
+[2025-06-14 20:04:09] [+] Successfully created document for: SI Technologies Inc & Vishay Intertechnology Inc
+[2025-06-14 20:04:10] [+] Successfully created document for: Robert Mondavi Corp & Constellation Brands Inc
+[2025-06-14 20:04:13] [+] Successfully created document for: Argosy Gaming Co & Penn National Gaming Inc
+[2025-06-14 20:04:13] [-] No relevant document found for index 422: Cornerstone Realty Income Tr & Colonial Properties Trust Inc
+[2025-06-14 20:04:13] [+] Successfully created document for: Kaneb Services LLC & Valero LP
+[2025-06-14 20:04:27] [-] No relevant document found for index 426: MarketWatch Inc & Dow Jones & Co Inc
+[2025-06-14 20:04:35] [-] No relevant document found for index 427: Sears Roebuck & Co & KMart Holding Corp
+[2025-06-14 20:04:37] [+] Successfully created document for: SMTEK International Inc & CTS Corp
+[2025-06-14 20:04:38] [+] Successfully created document for: Hollywood Entertainment Corp & Movie Gallery Inc
+[2025-06-14 20:04:43] [+] Successfully created document for: VISX Inc & Advanced Medical Optics Inc
+[2025-06-14 20:05:17] [-] No relevant document found for index 430: Starcraft Corp & Quantum Fuel Systems Tech Inc
+[2025-06-14 20:05:25] [+] Successfully created document for: Nassda Corp & Synopsys Inc
+[2025-06-14 20:05:27] [+] Successfully created document for: TippingPoint Technologies Inc & 3Com Corp
+[2025-06-14 20:05:31] [+] Successfully created document for: Patina Oil & Gas Corp & Noble Energy Inc
+[2025-06-14 20:05:39] [+] Successfully created document for: Nextel Communications Inc & Sprint Nextel Corp
+[2025-06-14 20:06:02] [+] Successfully created document for: Norstan Inc & Black Box Corp
+[2025-06-14 20:06:02] [+] Successfully created document for: Veritas Software Corp & Symantec Corp
+[2025-06-14 20:06:04] [+] Successfully created document for: Total Logistics Inc & SuperValu Inc
+[2025-06-14 20:06:10] [+] Successfully created document for: META Group Inc & Gartner Inc
+[2025-06-14 20:06:12] [-] No relevant document found for index 436: Superior Consultant Holdings & Affiliated Computer Svcs Inc
+[2025-06-14 20:06:26] [+] Successfully created document for: Falcon Financial Investment & iStar Financial Inc
+[2025-06-14 20:06:33] [+] Successfully created document for: Verisity Ltd & Cadence Design Systems Inc
+[2025-06-14 20:06:39] [+] Successfully created document for: Computer Network Technology & McDATA Corp
+[2025-06-14 20:06:43] [+] Successfully created document for: AlphaSmart Inc & Renaissance Learning Inc
+[2025-06-14 20:07:02] [+] Successfully created document for: Western Wireless Corp & Alltel Corp
+[2025-06-14 20:07:29] [+] Successfully created document for: Magnum Hunter Resources Inc & Cimarex Energy Co
+[2025-06-14 20:07:41] [-] No relevant document found for index 447: August Technology Corp & Rudolph Technologies Inc
+[2025-06-14 20:07:44] [+] Successfully created document for: Gillette Co & Procter & Gamble Co
+[2025-06-14 20:07:44] [+] Successfully created document for: Corio Inc & IBM
+[2025-06-14 20:07:59] [+] Successfully created document for: AT&T Corp & SBC Communications Inc
+[2025-06-14 20:08:41] [+] Successfully created document for: Accredo Health Inc & Medco Health Solutions Inc
+[2025-06-14 20:08:45] [+] Successfully created document for: USF Corp & Yellow Roadway Corp
+[2025-06-14 20:08:47] [+] Successfully created document for: Copper Mountain Networks Inc & Tut Systems Inc
+[2025-06-14 20:08:49] [+] Successfully created document for: MCI Inc & Verizon Communications Inc
+[2025-06-14 20:09:10] [+] Successfully created document for: Pulitzer Inc & Lee Enterprises Inc
+[2025-06-14 20:09:30] [+] Successfully created document for: Thomas Industries Inc & Gardner Denver Inc
+[2025-06-14 20:09:32] [+] Successfully created document for: Great Lakes Chemical Corp & Crompton Corp
+[2025-06-14 20:09:38] [+] Successfully created document for: May Department Stores Co & Federated Department Stores
+[2025-06-14 20:09:42] [+] Successfully created document for: Quinton Cardiology Systems Inc & Cardiac Science Inc
+[2025-06-14 20:10:14] [+] Successfully created document for: Closure Medical Corp & Johnson & Johnson
+[2025-06-14 20:10:43] [+] Successfully created document for: Seabulk International Inc & SEACOR Holdings Inc
+[2025-06-14 20:10:44] [+] Successfully created document for: Mykrolis Corp & Entegris Inc
+[2025-06-14 20:10:52] [+] Successfully created document for: Medicore Inc & Dialysis Corp of America
+[2025-06-14 20:10:56] [+] Successfully created document for: Ascential Software Corp & IBM
+[2025-06-14 20:11:00] [+] Successfully created document for: Ask Jeeves Inc & IAC/InterActiveCorp
+[2025-06-14 20:11:35] [+] Successfully created document for: Digital Impact Inc & Acxiom Corp
+[2025-06-14 20:11:35] [+] Successfully created document for: Gexa Corp & FPL Group Inc
+[2025-06-14 20:11:39] [-] No relevant document found for index 469: Concord Communications Inc & Computer Assoc Intl Inc
+[2025-06-14 20:11:49] [+] Successfully created document for: Unocal Corp & ChevronTexaco Corp
+[2025-06-14 20:12:00] [+] Successfully created document for: Mission Resources Corp & Petrohawk Energy Corp
+[2025-06-14 20:12:24] [-] No relevant document found for index 473: Bone Care Intl Inc & Genzyme Corp
+[2025-06-14 20:12:35] [+] Successfully created document for: Premcor Inc & Valero Energy Corp
+[2025-06-14 20:12:40] [+] Successfully created document for: SpectraSite Inc & American Tower Corp
+[2025-06-14 20:12:42] [+] Successfully created document for: Electronics Boutique Holdings & GameStop Corp
+[2025-06-14 20:13:03] [+] Successfully created document for: Macromedia Inc & Adobe Systems Inc
+[2025-06-14 20:13:20] [-] No relevant document found for index 477: Oshkosh B Gosh Inc & Carter's Inc
+[2025-06-14 20:13:28] [+] Successfully created document for: Cuno Inc & 3M Co
+[2025-06-14 20:13:31] [+] Successfully created document for: Nuance Communications Inc & ScanSoft Inc
+[2025-06-14 20:13:44] [+] Successfully created document for: Cinergy Corp & Duke Energy Corp
+[2025-06-14 20:13:53] [+] Successfully created document for: Overnite Corp & United Parcel Service Inc
+[2025-06-14 20:14:13] [+] Successfully created document for: Shopping com Ltd & eBay Inc
+[2025-06-14 20:14:13] [+] Successfully created document for: Saucony Inc & Stride Rite Corp
+[2025-06-14 20:14:13] [+] Successfully created document for: Physiometrix Inc & Hospira Inc
+[2025-06-14 20:14:24] [+] Successfully created document for: Titan Corp & L-3 Communications Holdings
+[2025-06-14 20:14:44] [+] Successfully created document for: Storage Technology Corp & Sun Microsystems Inc
+[2025-06-14 20:14:55] [-] No relevant document found for index 486: Niku Corp & Computer Assoc Intl Inc
+[2025-06-14 20:15:03] [+] Successfully created document for: Catellus Development Corp & ProLogis
+[2025-06-14 20:15:09] [+] Successfully created document for: Genaissance Pharmaceuticals & Clinical Data Inc
+[2025-06-14 20:15:12] [+] Successfully created document for: Integrated Circuit Systems Inc & Integrated Device Technology
+[2025-06-14 20:15:13] [+] Successfully created document for: Vicuron Pharmaceuticals Inc & Pfizer Inc
+[2025-06-14 20:15:25] [-] No relevant document found for index 494: US Unwired Inc & Sprint Nextel Corp
+[2025-06-14 20:15:33] [*] No background section found for index 492: Net2Phone Inc & IDT Corp. Retrying via fallback...
+[2025-06-14 20:15:33] [i] Number of documents: 3
+[2025-06-14 20:15:37] [+] Successfully created document for: Paradyne Networks Inc & Zhone Technologies Inc
+[2025-06-14 20:15:38] [-] Confirmed no background section found for index 492: Net2Phone Inc & IDT Corp.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1086472/000112528205003577/0001125282-05-003577.txt
+		https://www.sec.gov/Archives/edgar/data/1086472/000112528205004785/0001125282-05-004785.txt
+		https://www.sec.gov/Archives/edgar/data/1086472/000112528205003590/0001125282-05-003590.txt
+[2025-06-14 20:15:40] [+] Successfully created document for: InKine Pharmaceutical Co & Salix Pharmaceuticals Ltd
+[2025-06-14 20:15:42] [+] Successfully created document for: SeeBeyond Technology Corp & Sun Microsystems Inc
+[2025-06-14 20:15:54] [-] No relevant document found for index 495: D&K Healthcare Resources Inc & McKesson Corp
+[2025-06-14 20:16:02] [+] Successfully created document for: Priority Healthcare Corp & Express Scripts Inc
+[2025-06-14 20:16:07] [+] Successfully created document for: Helix Technology Corp & Brooks Automation Inc
+[2025-06-14 20:16:09] [+] Successfully created document for: Guilford Pharmaceuticals Inc & MGI PHARMA Inc
+[2025-06-14 20:16:24] [+] Successfully created document for: Intermix Media Inc & News Corp

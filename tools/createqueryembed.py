@@ -434,6 +434,29 @@ development. Invitrogens products are also used to support the clinical
 development and commercial production of biopharmaceuticals.
 """
 
+negative_example8 = """
+   A.  The board of directors of each of Parent, Sub and Canaan has determined
+that it is in the best interests of its respective stockholders to approve the
+acquisition by Parent of Canaan by means of the merger of Sub with and into
+Canaan, upon the terms and subject to the conditions set forth in this
+Agreement and the applicable provisions of the OGCA;
+
+   B.  The board of directors of each of Parent, Sub and Canaan has unanimously
+adopted resolutions approving the Merger, this Agreement and the transactions
+contemplated hereby, and the board of directors of Canaan has unanimously
+agreed to recommend that the stockholders of Canaan approve this Agreement, the
+Merger and the transactions contemplated hereby;
+
+   C.  Parent, Sub and Canaan desire to make certain representations,
+warranties, covenants and agreements in connection with the Merger and also to
+prescribe various conditions to the Merger;
+
+   D.  Parent has advised Canaan and the Canaan Specified Stockholders that it
+will not enter into this Agreement unless the Canaan Specified Stockholders
+execute and deliver to Parent an Irrevocable Proxy in the form set forth in
+Exhibit "A" attached hereto and made a part hereof;
+"""
+
 
 instruction = (
     "Return the start of the narrative section describing the merger or acquisition timeline. "
@@ -489,7 +512,7 @@ def main():
     negative_examples = [
         negative_example1, negative_example2, negative_example3,
         negative_example4, negative_example5, negative_example6,
-        negative_example7
+        negative_example7, negative_example8
     ];
 
     queryEmbedding = contrastive_query_embedding(

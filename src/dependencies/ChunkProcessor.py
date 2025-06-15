@@ -362,15 +362,12 @@ class ChunkProcessor:
         # Stack embeddings into a tensor
         chunk_embeddings = torch.stack(chunk_embeddings);
 
-        # Normalize query embeddings
-        query_embedding_normalized = query_embedding / torch.norm(query_embedding);
-
         # Normalize chunk embeddings
         chunk_embeddings_normalized = chunk_embeddings / torch.norm(chunk_embeddings, dim=1, keepdim=True);
 
         # Compute cosine similarity
         similarities = torch.nn.functional.cosine_similarity(
-            query_embedding_normalized.unsqueeze(0), 
+            query_embedding.unsqueeze(0), # Already normalized
             chunk_embeddings_normalized
         );
 
@@ -389,14 +386,11 @@ class ChunkProcessor:
     
         COSINE_WEIGHT = 0.4;
         RERANK_WEIGHT = 0.6;
-        POSITION_WEIGHT = 0.1; # Earlier chunks are false positives
 
         # Compute the hybrid score based on desire weights
-        max_index = max(index for index, _, _ in final_chunks_sorted);
         hybrid_chunks = [];
         for (index, cos_score, chunk), rerank_score in zip(final_chunks_sorted, rerank_scores):
-            position_score = index / max_index;
-            hybrid_score = (COSINE_WEIGHT * cos_score) + (RERANK_WEIGHT * rerank_score) + (POSITION_WEIGHT * position_score);
+            hybrid_score = (COSINE_WEIGHT * cos_score) + (RERANK_WEIGHT * rerank_score);
             hybrid_chunks.append((index, hybrid_score, cos_score, rerank_score, chunk));
 
         # Sort by hybrid score descending
