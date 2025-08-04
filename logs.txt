@@ -1144,3 +1144,992 @@
 [2025-06-15 00:36:22] [i] Consumed approximately 85212 tokens (prompt: 84787, completion: 425)
 [2025-06-15 00:36:22] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.89
 [2025-06-15 00:36:22] [+] Retry attempt successfully created document for: Valpey-Fisher Corp & CTS Corp
+[2025-08-03 18:08:46] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 860; Companies: Perot Systems Corp & Dell Inc
+[2025-08-03 19:31:14] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 928; Companies: Salary.com Inc & Kenexa Corp
+[2025-08-03 19:35:34] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 962; Companies: Endwave Corp & GigOptix Inc
+[2025-08-03 19:40:03] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 995; Companies: Valpey-Fisher Corp & CTS Corp
+[2025-08-03 20:04:50] [+] Successfully created document for: Cogdell Spencer Inc & Ventas Inc
+[2025-08-03 20:04:50] [+] Successfully created document for: Inhibitex Inc & Bristol-Myers Squibb Co
+[2025-08-03 20:04:57] [+] Successfully created document for: Convio Inc & Blackbaud Inc
+[2025-08-03 20:05:01] [+] Successfully created document for: Parlux Fragrances Inc & Perfumania Holdings Inc
+[2025-08-03 20:05:05] [+] Successfully created document for: Solutia Inc & Eastman Chemical Co
+[2025-08-03 20:05:26] [-] No relevant document found for index 1005: SureWest Communications Inc & Consolidated Commun Hldg Inc
+[2025-08-03 20:05:35] [+] Successfully created document for: DDi Corp & Viasystems Group Inc
+[2025-08-03 20:05:43] [+] Successfully created document for: World Heart Corp & Heartware International Inc
+[2025-08-03 20:05:44] [+] Successfully created document for: Taleo Corp & Oracle Corp
+[2025-08-03 20:06:22] [+] Successfully created document for: Opnext Inc & Oclaro Inc
+[2025-08-03 20:06:57] [+] Successfully created document for: Gen-Probe Inc & Hologic Inc
+[2025-08-03 20:07:03] [+] Successfully created document for: GeoResources Inc & Halcon Resources Corp
+[2025-08-03 20:07:04] [+] Successfully created document for: Allos Therapeutics Inc & Spectrum Pharmaceuticals Inc
+[2025-08-03 20:07:04] [+] Successfully created document for: SRS Labs Inc & DTS Inc
+[2025-08-03 20:07:04] [+] Successfully created document for: Catalyst Health Solutions Inc & SXC Health Solutions Corp
+[2025-08-03 20:07:26] [-] No relevant document found for index 1019: Edgar Online Inc & RR Donnelley & Sons Co
+[2025-08-03 20:07:35] [+] Successfully created document for: Standard Microsystems Corp & Microchip Technology Inc
+[2025-08-03 20:07:37] [+] Successfully created document for: Cost Plus Inc & Bed Bath & Beyond Inc
+[2025-08-03 20:07:43] [+] Successfully created document for: Charming Shoppes Inc & Ascena Retail Group Inc
+[2025-08-03 20:07:44] [+] Successfully created document for: Sunoco Inc & Energy Transfer Partners LP
+[2025-08-03 20:08:02] [-] No relevant document found for index 1022: MEDTOX Scientific Inc & Labcorp Holdings Inc
+[2025-08-03 20:08:11] [+] Successfully created document for: Credo Petroleum Corp & Forestar Group Inc
+[2025-08-03 20:08:19] [+] Successfully created document for: Ramtron International Corp & Cypress Semiconductor Corp
+[2025-08-03 20:08:32] [+] Successfully created document for: Micronetics Inc & Mercury Computer Systems Inc
+[2025-08-03 20:08:34] [*] No background section found for index 1020: LeCroy Corp & Teledyne Technologies Inc. Retrying via fallback...
+[2025-08-03 20:08:34] [i] Number of documents: 1
+[2025-08-03 20:08:40] [i] Consumed approximately 95966 tokens (prompt: 95732, completion: 234)
+[2025-08-03 20:08:40] [i] Fallback tool results | matchHeader: Background of the Proposed Merger | confidence: 0.93
+[2025-08-03 20:08:40] [+] Retry attempt successfully created document for: LeCroy Corp & Teledyne Technologies Inc
+[2025-08-03 20:09:01] [+] Successfully created document for: Brightpoint Inc & Ingram Micro Inc
+[2025-08-03 20:09:01] [-] No relevant document found for index 1025: Network Equip Technologies Inc & Sonus Networks Inc
+[2025-08-03 20:09:06] [+] Successfully created document for: Amylin Pharmaceuticals Inc & Bristol-Myers Squibb Co
+[2025-08-03 20:09:13] [+] Successfully created document for: GenOn Energy Inc & NRG Energy Inc
+[2025-08-03 20:09:37] [+] Successfully created document for: Quest Software Inc & Dell Inc
+[2025-08-03 20:09:51] [-] No relevant document found for index 1031: RailAmerica Inc & Genesee & Wyoming Inc
+[2025-08-03 20:09:59] [+] Successfully created document for: The Shaw Group Inc & Chicago Bridge & Iron Co Nv
+[2025-08-03 20:10:06] [+] Successfully created document for: GeoEye Inc & DigitalGlobe Inc
+[2025-08-03 20:10:15] [+] Successfully created document for: AuthenTec Inc & Apple Inc
+[2025-08-03 20:11:08] [+] Successfully created document for: US Home Systems Inc & Home Depot Inc
+[2025-08-03 20:11:30] [+] Successfully created document for: Comverse Technology Inc & Verint Systems Inc
+[2025-08-03 20:11:30] [+] Successfully created document for: Robbins & Myers Inc & National Oilwell Varco Inc
+[2025-08-03 20:11:34] [+] Successfully created document for: SuperMedia Inc & Dex One Corp
+[2025-08-03 20:11:37] [+] Successfully created document for: Coventry Health Care Inc & Aetna Inc
+[2025-08-03 20:12:14] [+] Successfully created document for: Sunrise Senior Living Inc & Health Care REIT Inc
+[2025-08-03 20:12:26] [-] No relevant document found for index 1044: Ditech Networks Inc & Nuance Communications Inc
+[2025-08-03 20:12:34] [+] Successfully created document for: Dollar Thrifty Automotive Grp & Hertz Global Holdings Inc
+[2025-08-03 20:12:36] [+] Successfully created document for: IRIS International Inc & Danaher Corp
+[2025-08-03 20:12:54] [+] Successfully created document for: Kenexa Corp & IBM
+[2025-08-03 20:13:12] [-] No relevant document found for index 1042: American Realty Capital Tr Inc & Realty Income Corp
+[2025-08-03 20:13:26] [-] No relevant document found for index 1045: Sealy Corp & Tempur-Pedic International Inc
+[2025-08-03 20:13:33] [+] Successfully created document for: Ceradyne Inc & 3M Co
+[2025-08-03 20:13:35] [+] Successfully created document for: Spartech Corp & PolyOne Corp
+[2025-08-03 20:13:37] [+] Successfully created document for: OPNET Technologies Inc & Riverbed Technology Inc
+[2025-08-03 20:13:46] [+] Successfully created document for: PSS World Medical Inc & McKesson Corp
+[2025-08-03 20:14:10] [-] No relevant document found for index 1053: KAYAK Software Corp & The Priceline Group Inc
+[2025-08-03 20:14:13] [-] No relevant document found for index 1054: CreXus Investment Corp & Annaly Capital Management Inc
+[2025-08-03 20:14:27] [+] Successfully created document for: Warnaco Group Inc & PVH Corp
+[2025-08-03 20:14:46] [*] No background section found for index 1051: Williams Controls Inc & Curtiss-Wright Corp. Retrying via fallback...
+[2025-08-03 20:14:46] [i] Number of documents: 4
+[2025-08-03 20:14:52] [-] No relevant document found for index 1052: Metro Health Networks Inc & Humana Inc
+[2025-08-03 20:14:54] [i] Consumed approximately 110993 tokens (prompt: 110664, completion: 329)
+[2025-08-03 20:14:54] [i] Fallback tool results | matchHeader: Background of the Offer | confidence: 0.82
+[2025-08-03 20:14:54] [+] Retry attempt successfully created document for: Williams Controls Inc & Curtiss-Wright Corp
+[2025-08-03 20:15:23] [+] Successfully created document for: BioMimetic Therapeutics Inc & Wright Medical Group Inc
+[2025-08-03 20:15:25] [-] No relevant document found for index 1059: Plains Expl & Prodn Co & Freeport-McMoRan Copper & Gold
+[2025-08-03 20:15:29] [+] Successfully created document for: McMoRan Exploration Co & Freeport-McMoRan Copper & Gold
+[2025-08-03 20:15:36] [+] Successfully created document for: Ralcorp Holdings Inc & ConAgra Foods Inc
+[2025-08-03 20:15:36] [-] No relevant document found for index 1055: Teavana Holdings Inc & Starbucks Corp
+[2025-08-03 20:16:00] [+] Successfully created document for: Arbitron Inc & Nielsen Holdings NV
+[2025-08-03 20:16:04] [+] Successfully created document for: Eloqua Inc & Oracle Corp
+[2025-08-03 20:16:05] [+] Successfully created document for: Heelys Inc & Sequential Brands Group Inc
+[2025-08-03 20:16:07] [+] Successfully created document for: Somaxon Pharmaceuticals Inc & Pernix Therapeutics Holdings
+[2025-08-03 20:16:30] [+] Successfully created document for: Intermec Inc & Honeywell International Inc
+[2025-08-03 20:16:42] [-] No relevant document found for index 1065: Ameristar Casinos Inc & Pinnacle Ent Inc
+[2025-08-03 20:16:51] [+] Successfully created document for: Zipcar Inc & Avis Budget Group Inc
+[2025-08-03 20:16:51] [+] Successfully created document for: Epocrates Inc & athenahealth Inc
+[2025-08-03 20:16:53] [+] Successfully created document for: MAP Pharmaceuticals Inc & Allergan Inc
+[2025-08-03 20:17:05] [+] Successfully created document for: Copano Energy LLC & Kinder Morgan Energy Partners
+[2025-08-03 20:17:26] [+] Successfully created document for: WMS Industries Inc & Scientific Games Corp
+[2025-08-03 20:17:32] [+] Successfully created document for: OfficeMax Inc & Office Depot Inc
+[2025-08-03 20:17:33] [+] Successfully created document for: Online Resources Corp & ACI Worldwide Inc
+[2025-08-03 20:17:35] [+] Successfully created document for: Virgin Media Inc & Liberty Global Inc
+[2025-08-03 20:17:35] [+] Successfully created document for: Acme Packet Inc & Oracle Corp
+[2025-08-03 20:18:17] [-] No relevant document found for index 1076: Gardner Denver Inc & KKR & Co LP
+[2025-08-03 20:18:28] [+] Successfully created document for: Berry Petroleum Co & LinnCo LLC
+[2025-08-03 20:18:47] [+] Successfully created document for: Fisher Communications Inc & Sinclair Broadcast Group Inc
+[2025-08-03 20:19:24] [+] Successfully created document for: Life Technologies Corp & Thermo Fisher Scientific Inc
+[2025-08-03 20:19:36] [+] Successfully created document for: Lufkin Industries Inc & General Electric Co
+[2025-08-03 20:19:55] [+] Successfully created document for: Aerosonic Corp & TransDigm Group Inc
+[2025-08-03 20:19:59] [+] Successfully created document for: Crimson Exploration Inc & Contango Oil & Gas Co
+[2025-08-03 20:20:00] [+] Successfully created document for: Met-Pro Corp & CECO Environmental Corp
+[2025-08-03 20:20:08] [+] Successfully created document for: Crestwood Midstream Partners & Inergy Midstream LP
+[2025-08-03 20:20:50] [+] Successfully created document for: Market Leader Inc & Trulia Inc
+[2025-08-03 20:21:16] [-] No relevant document found for index 1085: CapLease Inc & American Rlty Capital Ppty Inc
+[2025-08-03 20:21:18] [+] Successfully created document for: Belo Corp & Gannett Co Inc
+[2025-08-03 20:21:19] [+] Successfully created document for: ExactTarget Inc & Salesforce.com Inc
+[2025-08-03 20:21:36] [+] Successfully created document for: Colonial Properties Trust Inc & Mid-America Apartment Cmnty
+[2025-08-03 20:21:54] [-] No relevant document found for index 1086: Stewart Enterprises Inc & Service Corp International
+[2025-08-03 20:22:16] [+] Successfully created document for: SHFL entertainment Inc & Bally Technologies Inc
+[2025-08-03 20:22:20] [+] Successfully created document for: Onyx Pharmaceuticals Inc & Amgen Inc
+[2025-08-03 20:22:29] [+] Successfully created document for: Harris Teeter Supermarkets Inc & Kroger Co
+[2025-08-03 20:22:38] [-] No relevant document found for index 1093: Leap Wireless Intl Inc & AT&T Inc
+[2025-08-03 20:24:06] [*] No background section found for index 1090: Vanguard Health Systems Inc & Tenet Healthcare Corp. Retrying via fallback...
+[2025-08-03 20:24:06] [i] Number of documents: 1
+[2025-08-03 20:24:17] [i] Consumed approximately 97000 tokens (prompt: 96392, completion: 608)
+[2025-08-03 20:24:17] [-] Confirmed no background section found for index 1090: Vanguard Health Systems Inc & Tenet Healthcare Corp.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/70318/000110465913074393/0001104659-13-074393.txt
+[2025-08-03 20:24:28] [-] No relevant document found for index 1095: Nash Finch Co & Spartan Stores Inc
+[2025-08-03 20:24:36] [+] Successfully created document for: Maidenform Brands Inc & Hanesbrands Inc
+[2025-08-03 20:24:40] [+] Successfully created document for: Optimer Pharmaceuticals Inc & Cubist Pharmaceuticals Inc
+[2025-08-03 20:24:47] [+] Successfully created document for: Sourcefire Inc & Cisco Systems Inc
+[2025-08-03 20:25:11] [-] No relevant document found for index 1098: Health Management Assoc Inc & Community Health Systems Inc
+[2025-08-03 20:49:27] [+] Successfully created document for: Volterra Semiconductor Corp & Maxim Integrated Products Inc
+[2025-08-03 20:49:28] [+] Successfully created document for: Hi-Tech Pharmacal Co Inc & Akorn Inc
+[2025-08-03 20:49:32] [+] Successfully created document for: Trius Therapeutics Inc & Cubist Pharmaceuticals Inc
+[2025-08-03 20:49:34] [+] Successfully created document for: Thomas Properties Group Inc & Parkway Properties Inc
+[2025-08-03 20:50:21] [-] No relevant document found for index 1103: Rochester Medical Corp & CR Bard Inc
+[2025-08-03 20:50:31] [-] No document found for: Chromcraft Revington Inc & Sport-Haley Inc
+[2025-08-03 20:50:41] [+] Successfully created document for: MAKO Surgical Corp & Stryker Corp
+[2025-08-03 20:50:45] [+] Successfully created document for: Symmetricom Inc & Microsemi Corp
+[2025-08-03 20:50:48] [+] Successfully created document for: Boise Inc & Packaging Corp of America
+[2025-08-03 20:50:51] [+] Successfully created document for: PVR Partners LP & Regency Energy Partners LP
+[2025-08-03 20:51:14] [-] No relevant document found for index 1112: Mindspeed Technologies Inc & MACOM Technology Solutions Hol
+[2025-08-03 20:51:20] [-] No relevant document found for index 1114: Jos A Bank Clothiers Inc & The Men's Wearhouse Inc
+[2025-08-03 20:51:22] [+] Successfully created document for: Santarus Inc & Salix Pharmaceuticals Ltd
+[2025-08-03 20:51:30] [+] Successfully created document for: Consolidated Graphics Inc & RR Donnelley & Sons Co
+[2025-08-03 20:51:36] [-] No relevant document found for index 1110: Cole Real Estate Investments & American Rlty Capital Ppty Inc
+[2025-08-03 20:51:57] [+] Successfully created document for: BRE Properties Inc & Essex Property Trust Inc
+[2025-08-03 20:51:58] [+] Successfully created document for: Responsys Inc & Oracle Corp
+[2025-08-03 20:52:00] [+] Successfully created document for: Dynamics Research Corp & Engility Holdings Inc
+[2025-08-03 20:52:19] [*] No background section found for index 1116: Performance Technologies Inc & Sonus Networks Inc. Retrying via fallback...
+[2025-08-03 20:52:19] [i] Number of documents: 1
+[2025-08-03 20:52:29] [i] Consumed approximately 93747 tokens (prompt: 93386, completion: 361)
+[2025-08-03 20:52:29] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.85
+[2025-08-03 20:52:29] [+] Retry attempt successfully created document for: Performance Technologies Inc & Sonus Networks Inc
+[2025-08-03 20:53:04] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/1586068/000119312513402690/0001193125-13-402690.txt: Response ended prematurely
+[2025-08-03 20:53:13] [+] Successfully created document for: Syntroleum Corp & Renewable Energy Group Inc
+[2025-08-03 20:53:56] [+] Successfully created document for: ATMI Inc & Entegris Inc
+[2025-08-03 20:53:57] [+] Successfully created document for: Supertex Inc & Microchip Technology Inc
+[2025-08-03 20:53:57] [+] Successfully created document for: CEC Entertainment Inc & Apollo Global Management LLC
+[2025-08-03 20:54:01] [+] Successfully created document for: Pacer International Inc & XPO Logistics Inc
+[2025-08-03 20:54:06] [+] Successfully created document for: Texas Industries Inc & Martin Marietta Materials Inc
+[2025-08-03 20:54:33] [+] Successfully created document for: Amcol International Corp & Minerals Technologies Inc
+[2025-08-03 20:54:36] [+] Successfully created document for: Forest Laboratories Inc & Actavis PLC
+[2025-08-03 20:54:48] [+] Successfully created document for: TriQuint Semiconductor Inc & RF Micro Devices Inc
+[2025-08-03 20:54:56] [*] No background section found for index 1125: LCA-Vision Inc & PhotoMedex Inc. Retrying via fallback...
+[2025-08-03 20:54:56] [i] Number of documents: 1
+[2025-08-03 20:55:05] [i] Consumed approximately 91025 tokens (prompt: 90664, completion: 361)
+[2025-08-03 20:55:05] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.9
+[2025-08-03 20:55:05] [+] Retry attempt successfully created document for: LCA-Vision Inc & PhotoMedex Inc
+[2025-08-03 20:55:19] [+] Successfully created document for: Emeritus Corp & Brookdale Senior Living Inc
+[2025-08-03 20:55:42] [+] Successfully created document for: Orbital Sciences Corp & Alliant Techsystems Inc
+[2025-08-03 20:55:42] [+] Successfully created document for: Furiex Pharmaceuticals Inc & Forest Laboratories Inc
+[2025-08-03 20:55:42] [+] Successfully created document for: Zygo Corp & AMETEK Inc
+[2025-08-03 20:55:47] [+] Successfully created document for: Schawk Inc & Matthews International Corp
+[2025-08-03 20:55:48] [+] Successfully created document for: Susser Holdings Corp & Energy Transfer Partners LP
+[2025-08-03 20:56:19] [+] Successfully created document for: Gentiva Health Services Inc & Kindred Healthcare Inc
+[2025-08-03 20:56:20] [+] Successfully created document for: DirecTV Inc & AT&T Inc
+[2025-08-03 20:56:25] [+] Successfully created document for: Digital Cinema Destinations & Carmike Cinemas Inc
+[2025-08-03 20:56:27] [+] Successfully created document for: Hillshire Brands Co & Tyson Foods Inc
+[2025-08-03 20:56:43] [*] No background section found for index 1135: Pepco Holdings Inc & Exelon Corp. Retrying via fallback...
+[2025-08-03 20:56:43] [i] Number of documents: 1
+[2025-08-03 20:56:51] [i] Consumed approximately 94632 tokens (prompt: 94216, completion: 416)
+[2025-08-03 20:56:51] [-] Confirmed no background section found for index 1135: Pepco Holdings Inc & Exelon Corp.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1135971/000157104914003104/0001571049-14-003104.txt
+[2025-08-03 20:57:06] [-] No relevant document found for index 1140: American Realty Capital & Ventas Inc
+[2025-08-03 20:57:14] [+] Successfully created document for: OpenTable Inc & The Priceline Group Inc
+[2025-08-03 20:57:15] [+] Successfully created document for: Fusion-io Inc & SanDisk Corp
+[2025-08-03 20:57:15] [+] Successfully created document for: Hittite Microwave Corp & Analog Devices Inc
+[2025-08-03 20:57:16] [+] Successfully created document for: Idenix Pharmaceuticals Inc & Merck & Co Inc
+[2025-08-03 20:57:34] [-] No relevant document found for index 1145: tw telecom inc & Level 3 Commun Inc
+[2025-08-03 20:57:45] [+] Successfully created document for: PLX Technology Inc & Avago Technologies Ltd
+[2025-08-03 20:57:49] [+] Successfully created document for: MICROS Systems Inc & Oracle Corp
+[2025-08-03 20:57:49] [+] Successfully created document for: Integrys Energy Group Inc & Wisconsin Energy Corp
+[2025-08-03 20:58:05] [*] No background section found for index 1149: Medical Action Industries Inc & Owens & Minor Inc. Retrying via fallback...
+[2025-08-03 20:58:05] [i] Number of documents: 1
+[2025-08-03 20:58:16] [i] Consumed approximately 90947 tokens (prompt: 90470, completion: 477)
+[2025-08-03 20:58:16] [-] Confirmed no background section found for index 1149: Medical Action Industries Inc & Owens & Minor Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/748270/000117184314003292/0001171843-14-003292.txt
+[2025-08-03 20:58:27] [-] No relevant document found for index 1150: Enventis Corp & Consolidated Commun Hldg Inc
+[2025-08-03 20:58:33] [+] Successfully created document for: Vitacost.com Inc & Kroger Co
+[2025-08-03 20:58:36] [+] Successfully created document for: Lorillard Inc & Reynolds American Inc
+[2025-08-03 20:58:41] [+] Successfully created document for: URS Corp & AECOM Technology Corp
+[2025-08-03 20:58:58] [*] No background section found for index 1153: Kodiak Oil & Gas Corp & Whiting Petroleum Corp. Retrying via fallback...
+[2025-08-03 20:58:58] [i] Number of documents: 1
+[2025-08-03 20:59:06] [i] Consumed approximately 97997 tokens (prompt: 97637, completion: 360)
+[2025-08-03 20:59:06] [i] Fallback tool results | matchHeader: Background to the Arrangement | confidence: 0.92
+[2025-08-03 20:59:06] [+] Retry attempt successfully created document for: Kodiak Oil & Gas Corp & Whiting Petroleum Corp
+[2025-08-03 20:59:29] [+] Successfully created document for: ZipRealty Inc & Realogy Holdings Corp
+[2025-08-03 20:59:34] [+] Successfully created document for: Family Dollar Stores Inc & Dollar Tree Inc
+[2025-08-03 20:59:35] [+] Successfully created document for: Rockwood Holdings Inc & Albemarle Corp
+[2025-08-03 20:59:37] [+] Successfully created document for: Trulia Inc & Zillow Inc
+[2025-08-03 20:59:42] [+] Successfully created document for: QR Energy LP & BreitBurn Energy Partners LP
+[2025-08-03 21:00:19] [+] Successfully created document for: Kinder Morgan Energy Partners & Kinder Morgan Inc
+[2025-08-03 21:00:21] [+] Successfully created document for: Kinder Morgan Management LLC & Kinder Morgan Inc
+[2025-08-03 21:00:26] [+] Successfully created document for: El Paso Pipeline Partners LP & Kinder Morgan Inc
+[2025-08-03 21:00:29] [-] No relevant document found for index 1160: Journal Communications Inc & EW Scripps Co
+[2025-08-03 21:00:53] [+] Successfully created document for: Bally Technologies Inc & Scientific Games Corp
+[2025-08-03 21:01:10] [-] No relevant document found for index 1167: Multimedia Games Holding Co & Global Cash Access Hldg Inc
+[2025-08-03 21:01:13] [+] Successfully created document for: Auxilium Pharmaceuticals Inc & Endo International PLC
+[2025-08-03 21:01:20] [+] Successfully created document for: Conversant Inc & Alliance Data Systems Corp
+[2025-08-03 21:01:21] [+] Successfully created document for: Annies Inc & General Mills Inc
+[2025-08-03 21:01:47] [+] Successfully created document for: Bolt Technology Corp & Teledyne Technologies Inc
+[2025-08-03 21:01:59] [-] No relevant document found for index 1171: LipoScience Inc & Labcorp Holdings Inc
+[2025-08-03 21:02:09] [+] Successfully created document for: Move Inc & News Corp
+[2025-08-03 21:02:09] [+] Successfully created document for: Durata Therapeutics Inc & Actavis PLC
+[2025-08-03 21:02:14] [+] Successfully created document for: CareFusion Corp & Becton Dickinson & Co
+[2025-08-03 21:02:14] [+] Successfully created document for: Glimcher Realty Trust & Washington Prime Group Inc
+[2025-08-03 21:02:36] [-] No relevant document found for index 1179: Covance Inc & Labcorp Holdings Inc
+[2025-08-03 21:02:39] [+] Successfully created document for: Penford Corp & Ingredion Inc
+[2025-08-03 21:02:46] [+] Successfully created document for: BTU International Inc & Amtech Systems Inc
+[2025-08-03 21:02:50] [+] Successfully created document for: Dawson Geophysical Co & TGC Industries Inc
+[2025-08-03 21:04:27] [*] No background section found for index 1176: Atlas Pipeline Partners LP & Targa Resources Partners LP. Retrying via fallback...
+[2025-08-03 21:04:27] [i] Number of documents: 4
+[2025-08-03 21:04:34] [i] Consumed approximately 98891 tokens (prompt: 98592, completion: 299)
+[2025-08-03 21:04:34] [i] Fallback tool results | matchHeader: Background of the Atlas Mergers | confidence: 0.75
+[2025-08-03 21:04:34] [+] Retry attempt successfully created document for: Atlas Pipeline Partners LP & Targa Resources Partners LP
+[2025-08-03 21:05:16] [+] Successfully created document for: Spansion Inc & Cypress Semiconductor Corp
+[2025-08-03 21:05:17] [+] Successfully created document for: World Energy Solutions Inc & EnerNOC Inc
+[2025-08-03 21:05:17] [+] Successfully created document for: Allergan Inc & Actavis PLC
+[2025-08-03 21:05:28] [+] Successfully created document for: Cubist Pharmaceuticals Inc & Merck & Co Inc
+[2025-08-03 21:05:34] [*] No background section found for index 1180: Elecsys Corp & Lindsay Corp. Retrying via fallback...
+[2025-08-03 21:05:34] [i] Number of documents: 1
+[2025-08-03 21:06:09] [i] Consumed approximately 93018 tokens (prompt: 92721, completion: 297)
+[2025-08-03 21:06:09] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.9
+[2025-08-03 21:06:09] [+] Retry attempt successfully created document for: Elecsys Corp & Lindsay Corp
+[2025-08-03 21:06:21] [-] No relevant document found for index 1186: Paramount Gold & Silver Corp & Coeur Mining Inc
+[2025-08-03 21:06:30] [+] Successfully created document for: Cover-All Technologies Inc & Majesco Inc
+[2025-08-03 21:06:33] [+] Successfully created document for: MWI Veterinary Supply Inc & AmerisourceBergen Corp
+[2025-08-03 21:06:37] [+] Successfully created document for: Uroplasty Inc & Vision-Sciences Inc
+[2025-08-03 21:07:04] [-] No relevant document found for index 1188: Uranerz Energy Corp & Energy Fuels Inc
+[2025-08-03 21:07:28] [+] Successfully created document for: Silicon Image Inc & Lattice Semiconductor Corp
+[2025-08-03 21:07:37] [+] Successfully created document for: Rock-Tenn Co & MeadWestvaco Corp
+[2025-08-03 21:07:39] [+] Successfully created document for: Regency Energy Partners LP & Energy Transfer Partners LP
+[2025-08-03 21:07:39] [+] Successfully created document for: Advanced Photonix Inc & Luna Innovations Inc
+[2025-08-03 21:08:11] [+] Successfully created document for: Advent Software Inc & SS&C Technologies Holdings Inc
+[2025-08-03 21:08:31] [+] Successfully created document for: Hospira Inc & Pfizer Inc
+[2025-08-03 21:08:37] [+] Successfully created document for: Entropic Communications Inc & MaxLinear Inc
+[2025-08-03 21:08:37] [+] Successfully created document for: Exelis Inc & Harris Corp
+[2025-08-03 21:08:54] [*] No background section found for index 1199: Orbitz Worldwide Inc & Expedia Inc. Retrying via fallback...
+[2025-08-03 21:08:54] [i] Number of documents: 1
+[2025-08-03 21:09:00] [+] Successfully created document for: Courier Corp & RR Donnelley & Sons Co
+[2025-08-03 21:09:08] [i] Consumed approximately 91724 tokens (prompt: 90838, completion: 886)
+[2025-08-03 21:09:08] [i] Fallback tool results
+[2025-08-03 21:09:08] [+] Retry attempt successfully created document for: Orbitz Worldwide Inc & Expedia Inc
+[2025-08-03 21:14:29] [-] No relevant document found for index 1201: Freescale Semiconductor Ltd & NXP Semiconductors NV
+[2025-08-03 21:14:36] [+] Successfully created document for: Vitesse Semiconductor Corp & Microsemi Corp
+[2025-08-03 21:14:41] [+] Successfully created document for: Pharmacyclics Inc & AbbVie Inc
+[2025-08-03 21:14:42] [-] No relevant document found for index 1200: Aruba Networks Inc & Hewlett Packard Co
+[2025-08-03 21:14:43] [+] Successfully created document for: RTI International Metals Inc & Alcoa Inc
+[2025-08-03 21:15:19] [-] No relevant document found for index 1205: Kofax Ltd & Lexmark International Inc
+[2025-08-03 21:15:24] [+] Successfully created document for: Revett Mining Co Inc & Hecla Mining Co
+[2025-08-03 21:15:27] [+] Successfully created document for: Baltic Trading Ltd & Genco Shipping & Trading Ltd
+[2025-08-03 21:15:33] [-] No relevant document found for index 1208: Norcraft Cos Inc & Fortune Brands Home & Sec Inc
+[2025-08-03 21:15:49] [*] No background section found for index 1207: Catamaran Corp & UnitedHealth Group Inc. Retrying via fallback...
+[2025-08-03 21:15:49] [i] Number of documents: 1
+[2025-08-03 21:15:54] [i] Consumed approximately 89897 tokens (prompt: 89793, completion: 104)
+[2025-08-03 21:15:54] [i] Fallback tool results | matchHeader: Background of the Arrangement | confidence: 0.97
+[2025-08-03 21:15:54] [+] Retry attempt successfully created document for: Catamaran Corp & UnitedHealth Group Inc
+[2025-08-03 21:16:17] [+] Successfully created document for: Borderfree Inc & Pitney Bowes Inc
+[2025-08-03 21:16:19] [+] Successfully created document for: Audience Inc & Knowles Corp
+[2025-08-03 21:16:20] [+] Successfully created document for: Cyan Inc & Ciena Corp
+[2025-08-03 21:16:29] [+] Successfully created document for: LRR Energy LP & Vanguard Natural Resources Inc
+[2025-08-03 21:16:31] [+] Successfully created document for: PMFG Inc & CECO Environmental Corp
+[2025-08-03 21:17:46] [+] Successfully created document for: Trade Street Residential Inc & Independence Realty Trust
+[2025-08-03 21:17:49] [+] Successfully created document for: Synageva BioPharma Corp & Alexion Pharmaceuticals Inc
+[2025-08-03 21:17:49] [+] Successfully created document for: Micrel Inc & Microchip Technology Inc
+[2025-08-03 21:17:52] [+] Successfully created document for: Crestwood Midstream Partners & Crestwood Equity Partners LP
+[2025-08-03 21:17:56] [+] Successfully created document for: Rosetta Resources Inc & Noble Energy Inc
+[2025-08-03 21:18:26] [+] Successfully created document for: Omnicare Inc & CVS Health Corp
+[2025-08-03 21:18:26] [+] Successfully created document for: Pall Corp & Danaher Corp
+[2025-08-03 21:18:31] [+] Successfully created document for: ANN Inc & Ascena Retail Group Inc
+[2025-08-03 21:18:31] [+] Successfully created document for: AOL Inc & Verizon Communications Inc
+[2025-08-03 21:18:35] [+] Successfully created document for: Eagle Rock Energy Partners LP & Vanguard Natural Resources Inc
+[2025-08-03 21:20:00] [+] Successfully created document for: Meru Networks Inc & Fortinet Inc
+[2025-08-03 21:20:00] [+] Successfully created document for: Altera Corp & Intel Corp
+[2025-08-03 21:20:06] [-] No relevant document found for index 1227: Rally Software Dvlp Corp & Ca Inc
+[2025-08-03 21:20:10] [+] Successfully created document for: Broadcom Corp & Avago Technologies Ltd
+[2025-08-03 21:20:36] [+] Successfully created document for: Time Warner Cable Inc & Charter Communications Inc
+[2025-08-03 21:21:49] [-] No relevant document found for index 1233: SL Industries Inc & Handy & Harman Ltd
+[2025-08-03 21:21:52] [+] Successfully created document for: Bio-Reference Laboratories Inc & OPKO Health Inc
+[2025-08-03 21:21:56] [-] No relevant document found for index 1230: OM Group Inc & Apollo Global Management LLC
+[2025-08-03 21:21:56] [+] Successfully created document for: Ryland Group Inc & Standard Pacific Corp
+[2025-08-03 21:22:05] [+] Successfully created document for: Martha Stewart Living & Sequential Brands Group Inc
+[2025-08-03 21:22:47] [+] Successfully created document for: Coast Distribution System Inc & LKQ Corp
+[2025-08-03 21:22:55] [+] Successfully created document for: Gramercy Property Trust Inc & Chambers Street Properties
+[2025-08-03 21:23:02] [+] Successfully created document for: MarkWest Energy Partners LP & MPLX LP
+[2025-08-03 21:23:15] [*] No background section found for index 1239: Receptos Inc & Celgene Corp. Retrying via fallback...
+[2025-08-03 21:23:15] [i] Number of documents: 4
+[2025-08-03 21:23:26] [+] Successfully created document for: Health Net Inc & Centene Corp
+[2025-08-03 21:23:28] [i] Consumed approximately 132832 tokens (prompt: 132160, completion: 672)
+[2025-08-03 21:23:28] [-] Confirmed no background section found for index 1239: Receptos Inc & Celgene Corp.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/816284/000157104915006796/0001571049-15-006796.txt
+		https://www.sec.gov/Archives/edgar/data/816284/000157104915007005/0001571049-15-007005.txt
+		https://www.sec.gov/Archives/edgar/data/816284/000157104915006562/0001571049-15-006562.txt
+		https://www.sec.gov/Archives/edgar/data/816284/000157104915005899/0001571049-15-005899.txt
+[2025-08-03 21:23:39] [-] No relevant document found for index 1243: NTELOS Holdings Corp & Shenandoah Telecommun Co
+[2025-08-03 21:23:39] [-] No relevant document found for index 1240: Thoratec Corp & St Jude Medical Inc
+[2025-08-03 21:23:52] [+] Successfully created document for: Magnetek Inc & Columbus McKinnon Corp
+[2025-08-03 21:24:09] [*] No background section found for index 1244: Precision Castparts Corp & Berkshire Hathaway Inc. Retrying via fallback...
+[2025-08-03 21:24:09] [i] Number of documents: 1
+[2025-08-03 21:24:15] [i] Consumed approximately 94048 tokens (prompt: 93943, completion: 105)
+[2025-08-03 21:24:15] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.91
+[2025-08-03 21:24:15] [+] Retry attempt successfully created document for: Precision Castparts Corp & Berkshire Hathaway Inc
+[2025-08-03 21:24:36] [+] Successfully created document for: Merge Healthcare Inc & IBM
+[2025-08-03 21:24:58] [+] Successfully created document for: Dot Hill Systems Corp & Seagate Technology Plc
+[2025-08-03 21:25:00] [+] Successfully created document for: Zulily Inc & Liberty Interactive Corp
+[2025-08-03 21:25:00] [+] Successfully created document for: Yodlee Inc & Envestnet Inc
+[2025-08-03 21:25:12] [+] Successfully created document for: Cameron International Corp & Schlumberger Ltd
+[2025-08-03 21:25:24] [+] Successfully created document for: AGL Resources Inc & Southern Co
+[2025-08-03 21:25:45] [+] Successfully created document for: Pericom Semiconductor Corp & Diodes Inc
+[2025-08-03 21:25:48] [+] Successfully created document for: Rentrak Corp & Comscore Inc
+[2025-08-03 21:25:51] [+] Successfully created document for: Sirona Dental Systems Inc & DENTSPLY International Inc
+[2025-08-03 21:25:53] [+] Successfully created document for: Blyth Inc & The Carlyle Group LP
+[2025-08-03 21:25:55] [+] Successfully created document for: Con-way Inc & XPO Logistics Inc
+[2025-08-03 21:26:22] [+] Successfully created document for: Journal Media Group Inc & Gannett Co Inc
+[2025-08-03 21:26:24] [+] Successfully created document for: PMC-Sierra Inc & Microsemi Corp
+[2025-08-03 21:26:33] [+] Successfully created document for: SanDisk Corp & Western Digital Corp
+[2025-08-03 21:26:37] [+] Successfully created document for: Piedmont Natural Gas Co Inc & Duke Energy Corp
+[2025-08-03 21:26:46] [*] No background section found for index 1258: Northern Tier Energy LP & Western Refining Inc. Retrying via fallback...
+[2025-08-03 21:26:46] [i] Number of documents: 1
+[2025-08-03 21:26:55] [i] Consumed approximately 101752 tokens (prompt: 101391, completion: 361)
+[2025-08-03 21:26:55] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.9
+[2025-08-03 21:26:55] [+] Retry attempt successfully created document for: Northern Tier Energy LP & Western Refining Inc
+[2025-08-03 21:27:22] [+] Successfully created document for: HomeAway Inc & Expedia Inc
+[2025-08-03 21:27:23] [+] Successfully created document for: TriVascular Technologies Inc & Endologix Inc
+[2025-08-03 21:27:26] [+] Successfully created document for: Furmanite Corp & Team Inc
+[2025-08-03 21:28:11] [*] No background section found for index 1263: Targa Resources Partners LP & Targa Resources Corp. Retrying via fallback...
+[2025-08-03 21:28:11] [i] Number of documents: 2
+[2025-08-03 21:28:21] [i] Consumed approximately 98600 tokens (prompt: 98190, completion: 410)
+[2025-08-03 21:28:22] [i] Consumed approximately 98986 tokens (prompt: 98442, completion: 544)
+[2025-08-03 21:28:22] [-] Confirmed no background section found for index 1263: Targa Resources Partners LP & Targa Resources Corp.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1389170/000119312516420662/0001193125-16-420662.txt
+		https://www.sec.gov/Archives/edgar/data/1389170/000119312515394383/0001193125-15-394383.txt
+[2025-08-03 21:28:35] [*] No background section found for index 1261: Diamond Foods Inc & Snyder's-Lance Inc. Retrying via fallback...
+[2025-08-03 21:28:35] [i] Number of documents: 3
+[2025-08-03 21:28:52] [i] Consumed approximately 93931 tokens (prompt: 93643, completion: 288)
+[2025-08-03 21:29:19] [-] Error processing fallback future: Error code: 429 - {'error': {'message': 'Rate limit reached for o4-mini in organization org-bDUuaoLXrNVguwsd7N3pwqgj on tokens per min (TPM): Limit 200000, Used 179441, Requested 112502. Please try again in 27.582s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+[2025-08-03 21:29:25] [i] Consumed approximately 93886 tokens (prompt: 93726, completion: 160)
+[2025-08-03 21:29:25] [-] Confirmed no background section found for index 1261: Diamond Foods Inc & Snyder's-Lance Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/57528/000093041315004470/0000930413-15-004470.txt
+		https://www.sec.gov/Archives/edgar/data/57528/000093041315004822/0000930413-15-004822.txt
+		https://www.sec.gov/Archives/edgar/data/57528/000093041316004963/0000930413-16-004963.txt
+[2025-08-03 21:29:44] [+] Successfully created document for: Breeze-Eastern Corp & TransDigm Group Inc
+[2025-08-03 21:29:46] [+] Successfully created document for: Roundy's Inc & Kroger Co
+[2025-08-03 21:29:48] [+] Successfully created document for: Plum Creek Timber Co Inc & Weyerhaeuser Co
+[2025-08-03 21:29:50] [+] Successfully created document for: Starwood Hotels & Resorts & Marriott International Inc
+[2025-08-03 21:30:03] [+] Successfully created document for: Fairchild Semiconductor Intl & ON Semiconductor Corp
+[2025-08-03 21:30:17] [-] No relevant document found for index 1274: The PEP Boys-Manny Moe & Jack & Icahn Enterprises LP
+[2025-08-03 21:30:17] [-] No relevant document found for index 1270: Liberator Medical Holdings Inc & CR Bard Inc
+[2025-08-03 21:30:27] [+] Successfully created document for: Boulder Brands Inc & Pinnacle Foods Inc
+[2025-08-03 21:30:36] [-] No relevant document found for index 1271: TeleCommunication Systems Inc & Comtech Telecommun Corp
+[2025-08-03 21:30:48] [-] No relevant document found for index 1273: American Residential Ppty Inc & American Homes 4 Rent
+[2025-08-03 21:30:59] [-] No relevant document found for index 1278: Affymetrix Inc & Thermo Fisher Scientific Inc
+[2025-08-03 21:31:11] [+] Successfully created document for: LoJack Corp & CalAmp Corp
+[2025-08-03 21:31:14] [+] Successfully created document for: Jarden Corp & Newell Rubbermaid Inc
+[2025-08-03 21:31:19] [+] Successfully created document for: Atmel Corp & Microchip Technology Inc
+[2025-08-03 21:31:31] [*] No background section found for index 1276: DuPont & The Dow Chemical Co. Retrying via fallback...
+[2025-08-03 21:31:31] [i] Number of documents: 1
+[2025-08-03 21:31:39] [i] Consumed approximately 92035 tokens (prompt: 91801, completion: 234)
+[2025-08-03 21:31:39] [i] Fallback tool results | matchHeader: Background of the Mergers | confidence: 0.92
+[2025-08-03 21:31:39] [+] Retry attempt successfully created document for: DuPont & The Dow Chemical Co
+[2025-08-03 21:31:51] [-] No relevant document found for index 1282: Alere Inc & Abbott Labs
+[2025-08-03 21:31:52] [-] No relevant document found for index 1281: Axiall Corp & Westlake Chemical Corp
+[2025-08-03 21:32:03] [+] Successfully created document for: ANADIGICS Inc & II-VI Inc
+[2025-08-03 21:32:05] [+] Successfully created document for: Cascade Microtech Inc & FormFactor Inc
+[2025-08-03 21:32:12] [+] Successfully created document for: Questar Corp & Dominion Resources Inc
+[2025-08-03 21:32:32] [-] No relevant document found for index 1289: JAVELIN Mortgage Invstmnt Corp & ARMOUR Residential REIT Inc
+[2025-08-03 21:32:34] [+] Successfully created document for: Newport Corp & MKS Instruments Inc
+[2025-08-03 21:32:35] [-] No relevant document found for index 1288: Apollo Residential Mortgage & Apollo Coml RE Fin Inc
+[2025-08-03 21:32:41] [-] No relevant document found for index 1285: The ADT Corp & Apollo Global Management LLC
+[2025-08-03 21:32:57] [+] Successfully created document for: PowerSecure International Inc & Southern Co
+[2025-08-03 21:33:09] [-] No relevant document found for index 1290: Carmike Cinemas Inc & AMC Entertainment Holdings Inc
+[2025-08-03 21:33:17] [+] Successfully created document for: Rofin-Sinar Technologies Inc & Coherent Inc
+[2025-08-03 21:33:18] [*] No background section found for index 1291: Fresh Market Inc & Apollo Global Management LLC. Retrying via fallback...
+[2025-08-03 21:33:18] [i] Number of documents: 4
+[2025-08-03 21:33:18] [+] Successfully created document for: VirtualScopics Inc & BioTelemetry Inc
+[2025-08-03 21:33:22] [+] Successfully created document for: Valspar Corp & Sherwin-Williams Co
+[2025-08-03 21:33:28] [-] Confirmed no background section found for index 1291: Fresh Market Inc & Apollo Global Management LLC.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1669386/000119312516551385/0001193125-16-551385.txt
+		https://www.sec.gov/Archives/edgar/data/1669386/000119312516542012/0001193125-16-542012.txt
+		https://www.sec.gov/Archives/edgar/data/1489979/000095015716001836/0000950157-16-001836.txt
+		https://www.sec.gov/Archives/edgar/data/1669386/000119312516537332/0001193125-16-537332.txt
+[2025-08-03 21:33:43] [-] No relevant document found for index 1295: Ruckus Wireless Inc & Brocade Commun Sys Inc
+[2025-08-03 21:33:48] [+] Successfully created document for: Virgin America Inc & Alaska Air Group Inc
+[2025-08-03 21:33:53] [+] Successfully created document for: Alliance Fiber Optic Products & Corning Inc
+[2025-08-03 21:33:55] [+] Successfully created document for: Hatteras Financial Corp & Annaly Capital Management Inc
+[2025-08-03 21:34:16] [-] No relevant document found for index 1299: Cash America International Inc & First Cash Finl Services Inc
+[2025-08-03 21:54:44] [-] No relevant document found for index 1300: St Jude Medical Inc & Abbott Labs
+[2025-08-03 21:54:52] [+] Successfully created document for: Textura Corp & Oracle Corp
+[2025-08-03 21:54:56] [+] Successfully created document for: Opower Inc & Oracle Corp
+[2025-08-03 21:54:57] [+] Successfully created document for: Parkway Properties Inc & Cousins Properties Inc
+[2025-08-03 21:54:59] [+] Successfully created document for: TiVo Inc & Rovi Corp
+[2025-08-03 21:55:37] [-] No relevant document found for index 1305: IMS Health Holdings Inc & Quintiles Transnatl Hldg Inc
+[2025-08-03 21:55:42] [+] Successfully created document for: Anacor Pharmaceuticals Inc & Pfizer Inc
+[2025-08-03 21:55:45] [+] Successfully created document for: Nanosphere Inc & Luminex Corp
+[2025-08-03 21:55:50] [+] Successfully created document for: Colony Capital Inc & Colony Capital Inc
+[2025-08-03 21:55:50] [+] Successfully created document for: Northstar Realty Finance Corp & Colony Capital Inc
+[2025-08-03 21:56:11] [+] Successfully created document for: LDR Holding Corp & Zimmer Biomet Holdings Inc
+[2025-08-03 21:56:11] [+] Successfully created document for: FEI Co & Thermo Fisher Scientific Inc
+[2025-08-03 21:56:15] [+] Successfully created document for: Great Plains Energy Inc & Westar Energy Inc
+[2025-08-03 21:56:16] [+] Successfully created document for: Mines Management Inc & Hecla Mining Co
+[2025-08-03 21:56:17] [+] Successfully created document for: Demandware Inc & Salesforce.com Inc
+[2025-08-03 21:56:39] [-] No relevant document found for index 1316: Envision Healthcare Hldg Inc & AmSurg Corp
+[2025-08-03 21:56:47] [+] Successfully created document for: Elizabeth Arden Inc & Revlon Inc
+[2025-08-03 21:56:47] [+] Successfully created document for: American Science & Engineering & OSI Systems Inc
+[2025-08-03 21:56:47] [+] Successfully created document for: QLogic Corp & Cavium Inc
+[2025-08-03 21:56:58] [+] Successfully created document for: LinkedIn Corp & Microsoft Corp
+[2025-08-03 21:57:20] [*] No background section found for index 1322: Diamond Resorts International & Apollo Global Management LLC. Retrying via fallback...
+[2025-08-03 21:57:20] [i] Number of documents: 4
+[2025-08-03 21:57:22] [+] Successfully created document for: Starz & Lions Gate Entertainment Corp
+[2025-08-03 21:57:24] [+] Successfully created document for: ReachLocal Inc & Gannett Co Inc
+[2025-08-03 21:57:26] [+] Successfully created document for: SolarCity Corp & Tesla Motors Inc
+[2025-08-03 21:57:29] [-] Confirmed no background section found for index 1322: Diamond Resorts International & Apollo Global Management LLC.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1678629/000095014216004264/0000950142-16-004264.txt
+		https://www.sec.gov/Archives/edgar/data/1566897/000119312516666863/0001193125-16-666863.txt
+		https://www.sec.gov/Archives/edgar/data/1678629/000095014216004370/0000950142-16-004370.txt
+		https://www.sec.gov/Archives/edgar/data/1678629/000095014216004394/0000950142-16-004394.txt
+[2025-08-03 21:57:34] [-] No relevant document found for index 1324: Bind Therapeutics Inc & Pfizer Inc
+[2025-08-03 21:58:04] [-] No relevant document found for index 1327: Sequenom Inc & Labcorp Holdings Inc
+[2025-08-03 21:58:11] [*] No background section found for index 1325: Outerwall Inc & Apollo Global Management LLC. Retrying via fallback...
+[2025-08-03 21:58:11] [i] Number of documents: 4
+[2025-08-03 21:58:15] [+] Successfully created document for: Linear Technology Corp & Analog Devices Inc
+[2025-08-03 21:58:16] [+] Successfully created document for: NetSuite Inc & Oracle Corp
+[2025-08-03 21:58:19] [-] Confirmed no background section found for index 1325: Outerwall Inc & Apollo Global Management LLC.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/941604/000119312516717629/0001193125-16-717629.txt
+		https://www.sec.gov/Archives/edgar/data/1681445/000119312516717620/0001193125-16-717620.txt
+		https://www.sec.gov/Archives/edgar/data/1681445/000119312516698598/0001193125-16-698598.txt
+		https://www.sec.gov/Archives/edgar/data/941604/000119312516698601/0001193125-16-698601.txt
+[2025-08-03 21:58:43] [+] Successfully created document for: Post Properties Inc & Mid-America Apartment Cmnty
+[2025-08-03 21:59:01] [-] No relevant document found for index 1333: AEP Industries Inc & Berry Plastics Grp Inc
+[2025-08-03 21:59:09] [+] Successfully created document for: G&K Services Inc & Cintas Corp
+[2025-08-03 21:59:13] [+] Successfully created document for: Medivation Inc & Pfizer Inc
+[2025-08-03 21:59:13] [+] Successfully created document for: Cepheid Inc & Danaher Corp
+[2025-08-03 21:59:16] [-] No relevant document found for index 1330: Providence & Worcester RR Co & Genesee & Wyoming Inc
+[2025-08-03 21:59:39] [+] Successfully created document for: Isle of Capri Casinos Inc & Eldorado Resorts Inc
+[2025-08-03 21:59:39] [+] Successfully created document for: Raptor Pharmaceutical Corp & Horizon Pharma PLC
+[2025-08-03 21:59:39] [+] Successfully created document for: Tobira Therapeutics Inc & Allergan Plc
+[2025-08-03 21:59:42] [+] Successfully created document for: Vitae Pharmaceuticals Inc & Allergan Plc
+[2025-08-03 22:00:05] [*] No background section found for index 1338: DTS Inc & Tessera Technologies Inc. Retrying via fallback...
+[2025-08-03 22:00:05] [i] Number of documents: 1
+[2025-08-03 22:00:12] [i] Consumed approximately 93363 tokens (prompt: 93065, completion: 298)
+[2025-08-03 22:00:12] [i] Fallback tool results | matchHeader: Background of the DTS Merger | confidence: 0.87
+[2025-08-03 22:00:12] [+] Retry attempt successfully created document for: DTS Inc & Tessera Technologies Inc
+[2025-08-03 22:00:31] [-] No relevant document found for index 1344: Level 3 Commun Inc & CenturyLink Inc
+[2025-08-03 22:00:35] [+] Successfully created document for: EndoChoice Holdings Inc & Boston Scientific Corp
+[2025-08-03 22:00:38] [+] Successfully created document for: B/E Aerospace Inc & Rockwell Collins Inc
+[2025-08-03 22:00:43] [+] Successfully created document for: WCI Communities Inc & Lennar Corp
+[2025-08-03 22:00:58] [+] Successfully created document for: Time Warner Inc & AT&T Inc
+[2025-08-03 22:01:24] [-] No relevant document found for index 1347: Brocade Commun Sys Inc & Broadcom Ltd
+[2025-08-03 22:01:33] [+] Successfully created document for: TubeMogul Inc & Adobe Systems Inc
+[2025-08-03 22:02:10] [+] Successfully created document for: Datalink Corp & Insight Enterprises Inc
+[2025-08-03 22:02:21] [*] No background section found for index 1346: American DG Energy Inc & Tecogen Inc. Retrying via fallback...
+[2025-08-03 22:02:21] [i] Number of documents: 2
+[2025-08-03 22:02:26] [i] Consumed approximately 95941 tokens (prompt: 95836, completion: 105)
+[2025-08-03 22:02:26] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.95
+[2025-08-03 22:02:26] [+] Retry attempt successfully created document for: American DG Energy Inc & Tecogen Inc
+[2025-08-03 22:02:31] [-] No relevant document found for index 1345: Team Health Holdings Inc & Blackstone Group LP
+[2025-08-03 22:02:49] [-] No relevant document found for index 1353: Applied Micro Circuits Corp & MACOM Technology Solutions Hol
+[2025-08-03 22:02:58] [+] Successfully created document for: LifeLock Inc & Symantec Corp
+[2025-08-03 22:03:03] [+] Successfully created document for: Energy Transfer Partners LP & Sunoco Logistics Partners Lp
+[2025-08-03 22:03:06] [+] Successfully created document for: Western Refining Inc & Tesoro Corp
+[2025-08-03 22:03:49] [+] Successfully created document for: Equity One Inc & Regency Centers Corp
+[2025-08-03 22:04:05] [-] No relevant document found for index 1355: CLARCOR Inc & Parker Hannifin Corp
+[2025-08-03 22:04:13] [+] Successfully created document for: Vascular Solutions Inc & Teleflex Inc
+[2025-08-03 22:04:15] [-] No relevant document found for index 1357: FairPoint Communications Inc & Consolidated Commun Hldg Inc
+[2025-08-03 22:04:16] [+] Successfully created document for: IntraLinks Holdings Inc & Synchronoss Technologies Inc
+[2025-08-03 22:04:17] [+] Successfully created document for: CEB Inc & Gartner Inc
+[2025-08-03 22:04:43] [+] Successfully created document for: Clayton Williams Energy Inc & Noble Energy Inc
+[2025-08-03 22:04:44] [+] Successfully created document for: Arctic Cat Inc & Textron Inc
+[2025-08-03 22:04:46] [+] Successfully created document for: Derma Sciences Inc & Integra LifeSciences Holdings
+[2025-08-03 22:04:47] [+] Successfully created document for: CoLucid Pharmaceuticals Inc & Eli Lilly & Co
+[2025-08-03 22:04:48] [+] Successfully created document for: GenVec Inc & Intrexon Corp
+[2025-08-03 22:05:18] [+] Successfully created document for: IXIA & Keysight Technologies Inc
+[2025-08-03 22:05:18] [+] Successfully created document for: Multi Packaging Solutions & Westrock Co
+[2025-08-03 22:05:18] [+] Successfully created document for: ZELTIQ Aesthetics Inc & Allergan Plc
+[2025-08-03 22:05:25] [+] Successfully created document for: Ultratech Inc & Veeco Instruments Inc
+[2025-08-03 22:05:30] [+] Successfully created document for: ONEOK Partners LP & ONEOK Inc
+[2025-08-03 22:05:55] [+] Successfully created document for: EXAR Corp & MaxLinear Inc
+[2025-08-03 22:05:55] [+] Successfully created document for: Cynosure Inc & Hologic Inc
+[2025-08-03 22:05:58] [-] No relevant document found for index 1374: CR Bard Inc & Becton Dickinson & Co
+[2025-08-03 22:06:02] [+] Successfully created document for: Nimble Storage Inc & Hewlett Packard Enterprise Co
+[2025-08-03 22:06:15] [*] No background section found for index 1373: MOCON Inc & AMETEK Inc. Retrying via fallback...
+[2025-08-03 22:06:15] [i] Number of documents: 1
+[2025-08-03 22:06:29] [i] Consumed approximately 92723 tokens (prompt: 92490, completion: 233)
+[2025-08-03 22:06:29] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.89
+[2025-08-03 22:06:29] [+] Retry attempt successfully created document for: MOCON Inc & AMETEK Inc
+[2025-08-03 22:06:47] [-] No relevant document found for index 1376: AdvancePierre Foods Hldg Inc & Tyson Foods Inc
+[2025-08-03 22:06:51] [+] Successfully created document for: Straight Path Communications & Verizon Communications Inc
+[2025-08-03 22:06:57] [+] Successfully created document for: FelCor Lodging Trust Inc & RLJ Lodging Trust
+[2025-08-03 22:07:19] [+] Successfully created document for: Care Capital Properties Inc & Sabra Health Care REIT Inc
+[2025-08-03 22:07:31] [+] Successfully created document for: West Corp & Apollo Global Management LLC
+[2025-08-03 22:07:43] [-] No relevant document found for index 1384: First Potomac Realty Trust & Govt Ppty Income Tr
+[2025-08-03 22:07:52] [+] Successfully created document for: Whole Foods Market Inc & Amazon.com Inc
+[2025-08-03 22:07:55] [+] Successfully created document for: Rice Energy & EQT Corp
+[2025-08-03 22:07:56] [+] Successfully created document for: CardConnect Corp & First Data Corp
+[2025-08-03 22:08:02] [-] No relevant document found for index 1381: DuPont Fabros Tech Inc & Digital Realty Trust Inc
+[2025-08-03 22:08:28] [+] Successfully created document for: Sevcon Inc & BorgWarner Inc
+[2025-08-03 22:08:36] [+] Successfully created document for: CombiMatrix Corp & Invitae Corp
+[2025-08-03 22:08:37] [+] Successfully created document for: Scripps Networks Interactive & Discovery Communications Inc
+[2025-08-03 22:08:38] [+] Successfully created document for: HSN Inc & Liberty Interactive Corp
+[2025-08-03 22:08:53] [-] No relevant document found for index 1386: ClubCorp Holdings Inc & Apollo Global Management LLC
+[2025-08-03 22:09:08] [*] No background section found for index 1394: YuMe Inc & RhythmOne PLC. Retrying via fallback...
+[2025-08-03 22:09:08] [i] Number of documents: 1
+[2025-08-03 22:09:17] [+] Successfully created document for: Supreme Industries Inc & Wabash National Corp
+[2025-08-03 22:09:18] [-] Confirmed no background section found for index 1394: YuMe Inc & RhythmOne PLC.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1713721/000119312518002947/0001193125-18-002947.txt
+[2025-08-03 22:09:19] [+] Successfully created document for: Kite Pharma Inc & Gilead Sciences Inc
+[2025-08-03 22:09:24] [+] Successfully created document for: IXYS Corp & Littelfuse Inc
+[2025-08-03 22:09:26] [+] Successfully created document for: Rockwell Collins Inc & United Technologies Corp
+[2025-08-03 22:09:54] [+] Successfully created document for: Landauer Inc & Fortive Corp
+[2025-08-03 22:09:54] [+] Successfully created document for: Orbital ATK Inc & Northrop Grumman Corp
+[2025-08-03 22:09:57] [+] Successfully created document for: Dimension Therapeutics Inc & Ultragenyx Pharmaceutical Inc
+[2025-08-03 22:10:13] [*] No background section found for index 1398: Silver Spring Networks Inc & Itron Inc. Retrying via fallback...
+[2025-08-03 22:10:13] [i] Number of documents: 1
+[2025-08-03 22:10:20] [+] Successfully created document for: Bob Evans Farms Inc & Post Holdings Inc
+[2025-08-03 22:10:41] [i] Consumed approximately 90007 tokens (prompt: 88328, completion: 1679)
+[2025-08-03 22:10:41] [-] Confirmed no background section found for index 1398: Silver Spring Networks Inc & Itron Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1180079/000162612917000596/0001626129-17-000596.txt
+[2025-08-03 22:22:18] [-] No relevant document found for index 1402: Capella Education Co & Strayer Educ Inc
+[2025-08-03 22:22:25] [+] Successfully created document for: Deltic Timber Corp & Potlatch Corp
+[2025-08-03 22:22:25] [+] Successfully created document for: BroadSoft Inc & Cisco Systems Inc
+[2025-08-03 22:22:33] [+] Successfully created document for: Almost Family Inc & LHC Group Inc
+[2025-08-03 22:22:36] [+] Successfully created document for: Dynegy Inc & Vistra Energy Corp
+[2025-08-03 22:22:52] [-] No relevant document found for index 1408: 21st Century Fox Inc & Walt Disney Co
+[2025-08-03 22:22:58] [+] Successfully created document for: Entellus Medical Inc & Stryker Corp
+[2025-08-03 22:23:00] [+] Successfully created document for: Aetna Inc & CVS Health Corp
+[2025-08-03 22:23:05] [+] Successfully created document for: Amplify Snack Brands Inc & Hershey Co
+[2025-08-03 22:23:21] [+] Successfully created document for: Time Inc & Meredith Corp
+[2025-08-03 22:23:56] [+] Successfully created document for: SCANA Corp & Dominion Energy Inc
+[2025-08-03 22:23:58] [+] Successfully created document for: Chicago Bridge & Iron Co Nv & Mcdermott International Ltd
+[2025-08-03 22:24:03] [+] Successfully created document for: Archrock Partners Lp & Archrock Inc
+[2025-08-03 22:24:04] [+] Successfully created document for: Snyder's-Lance Inc & Campbell Soup Co
+[2025-08-03 22:24:54] [*] No background section found for index 1414: DST Systems Inc & SS&C Technologies Holdings Inc. Retrying via fallback...
+[2025-08-03 22:24:54] [i] Number of documents: 1
+[2025-08-03 22:25:05] [i] Consumed approximately 91457 tokens (prompt: 91041, completion: 416)
+[2025-08-03 22:25:05] [-] Confirmed no background section found for index 1414: DST Systems Inc & SS&C Technologies Holdings Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/714603/000114420418006367/0001144204-18-006367.txt
+[2025-08-03 22:25:27] [+] Successfully created document for: US Geothermal Inc & Ormat Technologies Inc
+[2025-08-03 22:25:30] [+] Successfully created document for: Cascadian Therapeutics Inc & Seattle Genetics Inc
+[2025-08-03 22:25:31] [+] Successfully created document for: Kapstone Paper & Packaging & Westrock Co
+[2025-08-03 22:25:39] [+] Successfully created document for: Nustar GP Holdings LLC & NuStar Energy LP
+[2025-08-03 22:25:49] [+] Successfully created document for: Juno Therapeutics Inc & Celgene Corp
+[2025-08-03 22:26:03] [-] No relevant document found for index 1422: A Schulman Inc & LyondellBasell Industries NV
+[2025-08-03 22:26:16] [+] Successfully created document for: CSRA Inc & General Dynamics Corp
+[2025-08-03 22:26:18] [-] No relevant document found for index 1424: Blue Buffalo Pet Products Inc & General Mills Inc
+[2025-08-03 22:26:20] [+] Successfully created document for: Layne Christensen Co & Granite Construction Inc
+[2025-08-03 22:26:30] [-] No relevant document found for index 1423: Alliance Holdings GP LP & Alliance Resource Partners LP
+[2025-08-03 22:26:44] [-] No relevant document found for index 1425: RLJ Entertainment Inc & AMC Networks Inc
+[2025-08-03 22:26:51] [+] Successfully created document for: Microsemi Corp & Microchip Technology Inc
+[2025-08-03 22:26:53] [+] Successfully created document for: MuleSoft Inc & Salesforce.com Inc
+[2025-08-03 22:26:54] [+] Successfully created document for: Connecticut Water Service Inc & SJW Group
+[2025-08-03 22:27:07] [+] Successfully created document for: Express Scripts Holding Co & Cigna Corp
+[2025-08-03 22:27:31] [-] No relevant document found for index 1431: LaSalle Hotel Properties & Pebblebrook Hotel Trust
+[2025-08-03 22:27:40] [+] Successfully created document for: Vectren Corp & CenterPoint Energy Inc
+[2025-08-03 22:27:47] [+] Successfully created document for: Tallgrass Energy Partners LP & Tallgrass Energy GP LP
+[2025-08-03 22:27:49] [+] Successfully created document for: CYS Investments Inc & Two Harbors Investment Corp
+[2025-08-03 22:27:56] [+] Successfully created document for: RSP Permian Inc & Concho Resources Inc
+[2025-08-03 22:28:24] [+] Successfully created document for: Armo Biosciences Inc & Eli Lilly & Co
+[2025-08-03 22:28:25] [+] Successfully created document for: AV Homes Inc & Taylor Morrison Home Corp
+[2025-08-03 22:28:25] [+] Successfully created document for: Andeavor Corp & Marathon Petroleum Corp
+[2025-08-03 22:28:26] [+] Successfully created document for: ILG Inc & Marriott Vacations Worldwide
+[2025-08-03 22:28:27] [+] Successfully created document for: DCT Industrial Trust Inc & Prologis Inc
+[2025-08-03 22:28:51] [-] No relevant document found for index 1441: Convergys Corp & SYNNEX Corp
+[2025-08-03 22:28:55] [+] Successfully created document for: Echelon Corp & Adesto Technologies Corp
+[2025-08-03 22:29:00] [+] Successfully created document for: Xplore Technologies Corp & Zebra Technologies Corp
+[2025-08-03 22:29:01] [+] Successfully created document for: Pinnacle Foods Inc & Conagra Brands Inc
+[2025-08-03 22:29:03] [+] Successfully created document for: Keryx Biopharmaceuticals Inc & Akebia Therapeutics Inc
+[2025-08-03 22:29:38] [+] Successfully created document for: KMG Chemicals Inc & Cabot Microelectronics Corp
+[2025-08-03 22:29:39] [+] Successfully created document for: Energen Corp & Diamondback Energy Inc
+[2025-08-03 22:29:42] [+] Successfully created document for: GulfMark Offshore Inc & Tidewater Inc
+[2025-08-03 22:29:51] [+] Successfully created document for: Ca Inc & Broadcom Inc
+[2025-08-03 22:30:03] [+] Successfully created document for: SuperValu Inc & United Natural Foods Inc
+[2025-08-03 22:30:24] [*] No background section found for index 1450: Reis Inc & Moody's Corp. Retrying via fallback...
+[2025-08-03 22:30:24] [i] Number of documents: 4
+[2025-08-03 22:30:29] [+] Successfully created document for: Invuity Inc & Stryker Corp
+[2025-08-03 22:30:29] [-] Confirmed no background section found for index 1450: Reis Inc & Moody's Corp.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1059556/000119312518285774/0001193125-18-285774.txt
+		https://www.sec.gov/Archives/edgar/data/1059556/000119312518295719/0001193125-18-295719.txt
+		https://www.sec.gov/Archives/edgar/data/1059556/000119312518288562/0001193125-18-288562.txt
+		https://www.sec.gov/Archives/edgar/data/1059556/000119312518298756/0001193125-18-298756.txt
+[2025-08-03 22:30:35] [+] Successfully created document for: Nexeo Solutions Inc & Univar Inc
+[2025-08-03 22:30:41] [+] Successfully created document for: WSI Industries Inc & Polaris Industries Inc
+[2025-08-03 22:31:01] [-] No relevant document found for index 1454: Select Income REIT & Govt Ppty Income Tr
+[2025-08-03 22:31:24] [+] Successfully created document for: L3 Technologies Inc & Harris Corp
+[2025-08-03 22:31:27] [+] Successfully created document for: Pandora Media Inc & Sirius XM Holdings Inc
+[2025-08-03 22:31:27] [+] Successfully created document for: Dominion Energy Midstream Part & Dominion Energy Inc
+[2025-08-03 22:31:30] [+] Successfully created document for: Esterline Technologies Corp & TransDigm Group Inc
+[2025-08-03 22:32:10] [*] No background section found for index 1457: Hortonworks Inc & Cloudera Inc. Retrying via fallback...
+[2025-08-03 22:32:10] [i] Number of documents: 2
+[2025-08-03 22:32:29] [i] Consumed approximately 91023 tokens (prompt: 89766, completion: 1257)
+[2025-08-03 22:32:29] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.92
+[2025-08-03 22:32:29] [+] Retry attempt successfully created document for: Hortonworks Inc & Cloudera Inc
+[2025-08-03 22:32:55] [-] No relevant document found for index 1463: Electro Scientific Inds Inc & MKS Instruments Inc
+[2025-08-03 22:32:56] [+] Successfully created document for: Red Hat Inc & IBM
+[2025-08-03 22:33:00] [+] Successfully created document for: SendGrid Inc & Twilio Inc
+[2025-08-03 22:33:01] [-] No relevant document found for index 1464: Wildhorse Resource Dvlp Corp & Chesapeake Energy Corp
+[2025-08-03 22:33:02] [+] Successfully created document for: EnLink Midstream Partners LP & EnLink Midstream LLC
+[2025-08-03 22:33:24] [+] Successfully created document for: Arris International Plc & Commscope Holding Co Inc
+[2025-08-03 22:33:25] [+] Successfully created document for: Datawatch Corp & Altair Engineering Inc
+[2025-08-03 22:33:27] [+] Successfully created document for: Owens Realty Mortgage Inc & Ready Capital Corp
+[2025-08-03 22:33:34] [+] Successfully created document for: Western Gas Partners LP & Western Gas Equity Partners LP
+[2025-08-03 22:33:55] [+] Successfully created document for: Asterias Biotherapeutics Inc & BioTime Inc
+[2025-08-03 22:34:22] [+] Successfully created document for: Tribune Media Co & Nexstar Media Group Inc
+[2025-08-03 22:34:25] [+] Successfully created document for: Finisar Corp & II-VI Inc
+[2025-08-03 22:34:27] [+] Successfully created document for: Resolute Energy Corp & Cimarex Energy Co
+[2025-08-03 22:34:28] [+] Successfully created document for: NutriSystem Inc & Tivity Health Inc
+[2025-08-03 22:34:28] [+] Successfully created document for: iPass Inc & Pareteum Corp
+[2025-08-03 22:35:14] [+] Successfully created document for: Liberty Expedia Holdings Inc & Expedia Group Inc
+[2025-08-03 22:35:16] [+] Successfully created document for: MedEquities Realty Trust Inc & Omega Healthcare Investors Inc
+[2025-08-03 22:35:16] [+] Successfully created document for: Maxwell Technologies Inc & Tesla Inc
+[2025-08-03 22:35:21] [+] Successfully created document for: Loxo Oncology Inc & Eli Lilly & Co
+[2025-08-03 22:36:54] [*] No background section found for index 1476: Celgene Corp & Bristol-Myers Squibb Co. Retrying via fallback...
+[2025-08-03 22:36:54] [i] Number of documents: 3
+[2025-08-03 22:37:04] [i] Consumed approximately 96329 tokens (prompt: 95785, completion: 544)
+[2025-08-03 22:38:08] [i] Consumed approximately 97363 tokens (prompt: 95643, completion: 1720)
+[2025-08-03 22:47:46] [i] Consumed approximately 99233 tokens (prompt: 95807, completion: 3426)
+[2025-08-03 22:47:46] [-] Confirmed no background section found for index 1476: Celgene Corp & Bristol-Myers Squibb Co.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/14272/000114036119003503/0001140361-19-003503.txt
+		https://www.sec.gov/Archives/edgar/data/14272/000114036119002275/0001140361-19-002275.txt
+		https://www.sec.gov/Archives/edgar/data/14272/000114036119002181/0001140361-19-002181.txt
+[2025-08-03 22:47:58] [-] No relevant document found for index 1482: HFF Inc & Jones Lang LaSalle IP Inc
+[2025-08-03 22:48:10] [+] Successfully created document for: WellCare Health Plans Inc & Centene Corp
+[2025-08-03 22:48:12] [+] Successfully created document for: Immune Design Corp & Merck & Co Inc
+[2025-08-03 22:48:15] [+] Successfully created document for: TIER REIT Inc & Cousins Properties Inc
+[2025-08-03 22:48:28] [*] No background section found for index 1480: Cas Medical Systems Inc & Edwards Lifesciences Corp. Retrying via fallback...
+[2025-08-03 22:48:28] [i] Number of documents: 1
+[2025-08-03 22:48:36] [i] Consumed approximately 90980 tokens (prompt: 90724, completion: 256)
+[2025-08-03 22:48:36] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.75
+[2025-08-03 22:48:36] [+] Retry attempt successfully created document for: Cas Medical Systems Inc & Edwards Lifesciences Corp
+[2025-08-03 22:48:57] [+] Successfully created document for: The KEYW Holding Corp & Jacobs Engineering Group Inc
+[2025-08-03 22:48:59] [+] Successfully created document for: AmeriGas Partners LP & UGI Corp
+[2025-08-03 22:49:01] [+] Successfully created document for: Smart & Final Stores Inc & Apollo Global Management LLC
+[2025-08-03 22:49:09] [+] Successfully created document for: Aratana Therapeutics Inc & Elanco Animal Health Inc
+[2025-08-03 22:49:12] [+] Successfully created document for: Anadarko Petroleum Corp & Occidental Petroleum Corp
+[2025-08-03 22:49:42] [+] Successfully created document for: WageWorks Inc & HealthEquity Inc
+[2025-08-03 22:49:42] [+] Successfully created document for: Andeavor Logistics LP & MPLX LP
+[2025-08-03 22:49:42] [+] Successfully created document for: Cray Inc & Hewlett Packard Enterprise Co
+[2025-08-03 22:49:50] [+] Successfully created document for: Chesapeake Lodging Trust & Park Hotels & Resorts Inc
+[2025-08-03 22:49:50] [+] Successfully created document for: Raytheon Co & United Technologies Corp
+[2025-08-03 22:50:21] [+] Successfully created document for: Caesars Entertainment Corp & Eldorado Resorts Inc
+[2025-08-03 22:50:24] [+] Successfully created document for: Array Biopharma Inc & Pfizer Inc
+[2025-08-03 22:50:32] [+] Successfully created document for: TheStreet Inc & TheMaven Inc
+[2025-08-03 22:50:34] [+] Successfully created document for: Tableau Software Inc & Salesforce.com Inc
+[2025-08-03 22:50:50] [+] Successfully created document for: C&J Energy Services Inc & Keane Group Inc
+[2025-08-03 22:56:38] [+] Successfully created document for: Allergan PLC & AbbVie Inc
+[2025-08-03 22:56:45] [+] Successfully created document for: Rudolph Technologies Inc & Nanometrics Inc
+[2025-08-03 22:56:48] [+] Successfully created document for: Aerohive Networks Inc & Extreme Networks Inc
+[2025-08-03 22:56:50] [+] Successfully created document for: NRC Group Holdings Corp & US Ecology Inc
+[2025-08-03 22:57:17] [+] Successfully created document for: PCM Inc & Insight Enterprises Inc
+[2025-08-03 22:57:42] [+] Successfully created document for: Milacron Holdings Corp & Hillenbrand Inc
+[2025-08-03 22:57:43] [+] Successfully created document for: Genomic Health Inc & Exact Sciences Corp
+[2025-08-03 22:57:47] [+] Successfully created document for: Carrizo Oil & Gas Inc & Callon Petroleum Co
+[2025-08-03 22:58:00] [+] Successfully created document for: Acacia Communications Inc & Cisco Systems Inc
+[2025-08-03 22:58:01] [*] No background section found for index 1508: Peak Resorts Inc & Vail Resorts Inc. Retrying via fallback...
+[2025-08-03 22:58:01] [i] Number of documents: 1
+[2025-08-03 22:58:13] [i] Consumed approximately 92187 tokens (prompt: 91826, completion: 361)
+[2025-08-03 22:58:13] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.92
+[2025-08-03 22:58:13] [+] Retry attempt successfully created document for: Peak Resorts Inc & Vail Resorts Inc
+[2025-08-03 22:58:33] [+] Successfully created document for: Progenics Pharmaceuticals Inc & Lantheus Holdings Inc
+[2025-08-03 22:58:35] [+] Successfully created document for: Viacom Inc & CBS Corp
+[2025-08-03 22:58:41] [+] Successfully created document for: Avedro Inc & Glaukos Corp
+[2025-08-03 22:58:41] [+] Successfully created document for: Carbon Black Inc & VMware Inc
+[2025-08-03 22:58:48] [+] Successfully created document for: SRC Energy Inc & PDC Energy Inc
+[2025-08-03 22:59:13] [+] Successfully created document for: Achillion Pharmaceuticals Inc & Alexion Pharmaceuticals Inc
+[2025-08-03 22:59:19] [+] Successfully created document for: Jagged Peak Energy Inc & Parsley Energy Inc
+[2025-08-03 22:59:20] [+] Successfully created document for: William Lyon Homes & Taylor Morrison Home Corp
+[2025-08-03 22:59:22] [+] Successfully created document for: AK Steel Holding Corp & Cleveland-Cliffs Inc
+[2025-08-03 22:59:22] [+] Successfully created document for: Liberty Property Trust & Prologis Inc
+[2025-08-03 22:59:48] [+] Successfully created document for: Care.Com Inc & IAC/InterActiveCorp
+[2025-08-03 22:59:49] [+] Successfully created document for: Dermira Inc & Eli Lilly & Co
+[2025-08-03 22:59:49] [+] Successfully created document for: Habit Restaurants Inc & Yum! Brands Inc
+[2025-08-03 22:59:49] [+] Successfully created document for: Pope Resources LP & Rayonier Inc
+[2025-08-03 22:59:55] [+] Successfully created document for: Anixter International Inc & Wesco International Inc
+[2025-08-03 23:00:15] [-] No relevant document found for index 1527: Quintana Energy Services Inc & KLX Energy Services Hldgs Inc
+[2025-08-03 23:00:22] [+] Successfully created document for: Forty Seven Inc & Gilead Sciences Inc
+[2025-08-03 23:00:23] [+] Successfully created document for: Mobile Mini Inc & WillScot Corp
+[2025-08-03 23:00:24] [+] Successfully created document for: Portola Pharmaceuticals Inc & Alexion Pharmaceuticals Inc
+[2025-08-03 23:00:24] [+] Successfully created document for: Tetraphase Pharmaceuticals Inc & La Jolla Pharmaceutical Co
+[2025-08-03 23:00:51] [+] Successfully created document for: Pfenex Inc & Ligand Pharmaceuticals Inc
+[2025-08-03 23:00:52] [+] Successfully created document for: Maxim Integrated Products Inc & Analog Devices Inc
+[2025-08-03 23:00:55] [+] Successfully created document for: GCI Liberty Inc & Liberty Broadband Corp
+[2025-08-03 23:00:55] [+] Successfully created document for: Noble Energy Inc & Chevron Corp
+[2025-08-03 23:01:37] [*] No background section found for index 1533: Livongo Health Inc & Teladoc Health Inc. Retrying via fallback...
+[2025-08-03 23:01:37] [i] Number of documents: 2
+[2025-08-03 23:01:44] [i] Consumed approximately 92423 tokens (prompt: 92062, completion: 361)
+[2025-08-03 23:01:44] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.95
+[2025-08-03 23:01:44] [+] Retry attempt successfully created document for: Livongo Health Inc & Teladoc Health Inc
+[2025-08-03 23:02:08] [+] Successfully created document for: Immunomedics Inc & Gilead Sciences Inc
+[2025-08-03 23:02:11] [+] Successfully created document for: Momenta Pharmaceuticals Inc & Johnson & Johnson
+[2025-08-03 23:02:12] [+] Successfully created document for: WPX Energy Inc & Devon Energy Corp
+[2025-08-03 23:02:14] [+] Successfully created document for: BMC Stock Holdings Inc & Builders FirstSource Inc
+[2025-08-03 23:02:42] [*] No background section found for index 1539: MyoKardia Inc & Bristol-Myers Squibb Co. Retrying via fallback...
+[2025-08-03 23:02:42] [i] Number of documents: 4
+[2025-08-03 23:02:49] [i] Consumed approximately 95546 tokens (prompt: 95243, completion: 303)
+[2025-08-03 23:02:49] [i] Fallback tool results | matchHeader: Background of the Offer; Contacts with MyoKardia | confidence: 0.92
+[2025-08-03 23:02:49] [+] Retry attempt successfully created document for: MyoKardia Inc & Bristol-Myers Squibb Co
+[2025-08-03 23:03:05] [-] No relevant document found for index 1543: Mid-Con Energy Partners LP & Contango Oil & Gas Co
+[2025-08-03 23:03:15] [+] Successfully created document for: Parsley Energy Inc & Pioneer Natural Resources Co
+[2025-08-03 23:03:17] [+] Successfully created document for: BioSpecifics Technologies Corp & Endo International PLC
+[2025-08-03 23:03:21] [+] Successfully created document for: Concho Resources Inc & ConocoPhillips
+[2025-08-03 23:04:56] [*] No background section found for index 1544: Xilinx Inc & Advanced Micro Devices Inc. Retrying via fallback...
+[2025-08-03 23:04:56] [i] Number of documents: 4
+[2025-08-03 23:05:15] [i] Consumed approximately 94785 tokens (prompt: 93609, completion: 1176)
+[2025-08-03 23:05:31] [i] Consumed approximately 96011 tokens (prompt: 93774, completion: 2237)
+[2025-08-03 23:05:39] [-] Error processing fallback future: Error code: 429 - {'error': {'message': 'Rate limit reached for o4-mini in organization org-bDUuaoLXrNVguwsd7N3pwqgj on tokens per min (TPM): Limit 200000, Used 161939, Requested 112502. Please try again in 22.332s. Visit https://platform.openai.com/account/rate-limits to learn more.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}
+[2025-08-03 23:05:47] [i] Consumed approximately 97259 tokens (prompt: 93520, completion: 3739)
+[2025-08-03 23:05:47] [i] Fallback tool results
+[2025-08-03 23:05:47] [+] Retry attempt successfully created document for: Xilinx Inc & Advanced Micro Devices Inc
+[2025-08-03 23:06:12] [+] Successfully created document for: HD Supply Holdings Inc & Home Depot Inc
+[2025-08-03 23:06:14] [+] Successfully created document for: Slack Technologies Inc & Salesforce.com Inc
+[2025-08-03 23:06:16] [+] Successfully created document for: Anworth Mortgage Asset Corp & Ready Capital Corp
+[2025-08-03 23:06:25] [+] Successfully created document for: MTS Systems Corp & Amphenol Corp
+[2025-08-03 23:06:57] [*] No background section found for index 1549: Neos Therapeutics Inc & Aytu Bioscience Inc. Retrying via fallback...
+[2025-08-03 23:06:57] [i] Number of documents: 2
+[2025-08-03 23:07:03] [i] Consumed approximately 88114 tokens (prompt: 87890, completion: 224)
+[2025-08-03 23:07:15] [i] Consumed approximately 87971 tokens (prompt: 87555, completion: 416)
+[2025-08-03 23:07:15] [-] Confirmed no background section found for index 1549: Neos Therapeutics Inc & Aytu Bioscience Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1385818/000121390021007505/0001213900-21-007505.txt
+		https://www.sec.gov/Archives/edgar/data/1385818/000121390021004495/0001213900-21-004495.txt
+[2025-08-03 23:07:36] [+] Successfully created document for: Change Healthcare Inc & UnitedHealth Group Inc
+[2025-08-03 23:07:39] [+] Successfully created document for: FLIR Systems Inc & Teledyne Technologies Inc
+[2025-08-03 23:07:44] [+] Successfully created document for: QEP Resources Inc & Diamondback Energy Inc
+[2025-08-03 23:08:25] [*] No background section found for index 1551: RigNet Inc & ViaSat Inc. Retrying via fallback...
+[2025-08-03 23:08:25] [i] Number of documents: 2
+[2025-08-03 23:08:28] [+] Successfully created document for: Glu Mobile Inc & Electronic Arts Inc
+[2025-08-03 23:08:35] [i] Consumed approximately 93261 tokens (prompt: 92589, completion: 672)
+[2025-08-03 23:08:35] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.92
+[2025-08-03 23:08:35] [+] Retry attempt successfully created document for: RigNet Inc & ViaSat Inc
+[2025-08-03 23:10:05] [+] Successfully created document for: Cooper Tire & Rubber Co & Goodyear Tire & Rubber Co
+[2025-08-03 23:10:05] [+] Successfully created document for: Enable Midstream Partners LP & Energy Transfer LP
+[2025-08-03 23:10:06] [+] Successfully created document for: Coherent Inc & II-VI Inc
+[2025-08-03 23:10:07] [+] Successfully created document for: Pandion Therapeutics Inc & Merck & Co Inc
+[2025-08-03 23:10:36] [*] No background section found for index 1555: NIC Inc & Tyler Technologies Inc. Retrying via fallback...
+[2025-08-03 23:10:36] [i] Number of documents: 1
+[2025-08-03 23:10:47] [i] Consumed approximately 91840 tokens (prompt: 91159, completion: 681)
+[2025-08-03 23:10:47] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.98
+[2025-08-03 23:10:47] [+] Retry attempt successfully created document for: NIC Inc & Tyler Technologies Inc
+[2025-08-03 23:11:01] [-] No relevant document found for index 1562: MSG Networks Inc & Madison Sq Garden Ent Corp
+[2025-08-03 23:11:09] [+] Successfully created document for: Five Prime Therapeutics Inc & Amgen Inc
+[2025-08-03 23:11:14] [+] Successfully created document for: Diamond S Shipping Inc & International Seaways Inc
+[2025-08-03 23:11:36] [-] No relevant document found for index 1560: The Michaels Cos Inc & Apollo Global Management Inc
+[2025-08-03 23:12:00] [+] Successfully created document for: Leaf Group Ltd & Graham Holdings Co
+[2025-08-03 23:12:23] [+] Successfully created document for: Knoll Inc & Herman Miller Inc
+[2025-08-03 23:12:31] [+] Successfully created document for: Tremont Mortgage Trust & RMR Mortgage Trust
+[2025-08-03 23:12:36] [-] No relevant document found for index 1566: PPD Inc & Thermo Fisher Scientific Inc
+[2025-08-03 23:13:11] [*] No background section found for index 1567: Weingarten Realty Investors & Kimco Realty Corp. Retrying via fallback...
+[2025-08-03 23:13:11] [i] Number of documents: 2
+[2025-08-03 23:13:31] [i] Consumed approximately 93138 tokens (prompt: 91906, completion: 1232)
+[2025-08-03 23:13:49] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/1798562/000121390021033645/0001213900-21-033645.txt: Response ended prematurely
+[2025-08-03 23:13:49] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/1798562/000121390021020731/0001213900-21-020731.txt: Response ended prematurely
+[2025-08-03 23:13:49] [-] Error retrieving document for URL https://www.sec.gov/Archives/edgar/data/1798562/000121390021029413/0001213900-21-029413.txt: Response ended prematurely
+[2025-08-03 23:13:50] [i] Consumed approximately 94347 tokens (prompt: 92153, completion: 2194)
+[2025-08-03 23:13:50] [-] Confirmed no background section found for index 1567: Weingarten Realty Investors & Kimco Realty Corp.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/879101/000114036121019174/0001140361-21-019174.txt
+		https://www.sec.gov/Archives/edgar/data/879101/000114036121021982/0001140361-21-021982.txt
+[2025-08-03 23:13:56] [+] Successfully created document for: Nuance Communications Inc & Microsoft Corp
+[2025-08-03 23:14:08] [-] No relevant document found for index 1571: Meredith Corp & Gray Television Inc
+[2025-08-03 23:14:24] [+] Successfully created document for: VEREIT Inc & Realty Income Corp
+[2025-08-03 23:14:25] [+] Successfully created document for: Core-Mark Holding Co Inc & Performance Food Group Co
+[2025-08-03 23:15:07] [*] No background section found for index 1574: Cimarex Energy Co & Cabot Oil & Gas Corp. Retrying via fallback...
+[2025-08-03 23:15:07] [i] Number of documents: 2
+[2025-08-03 23:15:13] [*] No background section found for index 1572: Extraction Oil & Gas Inc & Bonanza Creek Energy Inc. Retrying via fallback...
+[2025-08-03 23:15:13] [i] Number of documents: 2
+[2025-08-03 23:15:32] [i] Consumed approximately 95390 tokens (prompt: 93309, completion: 2081)
+[2025-08-03 23:15:42] [i] Consumed approximately 95967 tokens (prompt: 93561, completion: 2406)
+[2025-08-03 23:15:42] [-] Confirmed no background section found for index 1574: Cimarex Energy Co & Cabot Oil & Gas Corp.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/858470/000110465921087023/0001104659-21-087023.txt
+		https://www.sec.gov/Archives/edgar/data/858470/000110465921104699/0001104659-21-104699.txt
+[2025-08-03 23:15:57] [i] Consumed approximately 93317 tokens (prompt: 92822, completion: 495)
+[2025-08-03 23:15:57] [i] Fallback tool results | matchHeader: Background of the Extraction and Crestone Peak Mergers | confidence: 0.95
+[2025-08-03 23:15:57] [+] Retry attempt successfully created document for: Extraction Oil & Gas Inc & Bonanza Creek Energy Inc
+[2025-08-03 23:16:20] [-] No relevant document found for index 1579: Retail Ppty of Americas Inc & Kite Realty Group Trust
+[2025-08-03 23:16:27] [+] Successfully created document for: Strongbridge Biopharma PLC & Xeris Pharmaceuticals Inc
+[2025-08-03 23:16:40] [*] No background section found for index 1577: Kindred Biosciences Inc & Elanco Animal Health Inc. Retrying via fallback...
+[2025-08-03 23:16:40] [i] Number of documents: 1
+[2025-08-03 23:16:47] [i] Consumed approximately 90999 tokens (prompt: 90709, completion: 290)
+[2025-08-03 23:16:47] [i] Fallback tool results
+[2025-08-03 23:16:47] [+] Retry attempt successfully created document for: Kindred Biosciences Inc & Elanco Animal Health Inc
+[2025-08-03 23:16:53] [+] Successfully created document for: US Concrete Inc & Vulcan Materials Co
+[2025-08-03 23:17:14] [+] Successfully created document for: New Senior Investment Group & Ventas Inc
+[2025-08-03 23:17:31] [-] No relevant document found for index 1580: New Home Co Inc & Apollo Global Management Inc
+[2025-08-03 23:17:42] [+] Successfully created document for: ExOne Co & Desktop Metal Inc
+[2025-08-03 23:17:47] [+] Successfully created document for: Vine Energy Inc & Chesapeake Energy Corp
+[2025-08-03 23:18:02] [*] No background section found for index 1581: Misonix Inc & Bioventus Inc. Retrying via fallback...
+[2025-08-03 23:18:02] [i] Number of documents: 1
+[2025-08-03 23:18:12] [i] Consumed approximately 93238 tokens (prompt: 92694, completion: 544)
+[2025-08-03 23:18:12] [-] Confirmed no background section found for index 1581: Misonix Inc & Bioventus Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1665988/000119312521267967/0001193125-21-267967.txt
+[2025-08-03 23:18:20] [+] Successfully created document for: Golden Nugget Online Gaming & DraftKings Inc
+[2025-08-03 23:18:59] [+] Successfully created document for: Hill-Rom Holdings Inc & Baxter International Inc
+[2025-08-03 23:19:00] [+] Successfully created document for: Greensky Inc & Goldman Sachs Group Inc
+[2025-08-03 23:19:02] [+] Successfully created document for: Flexion Therapeutics Inc & Pacira Biosciences Inc
+[2025-08-03 23:19:06] [+] Successfully created document for: NeoPhotonics Corp & Lumentum Holdings Inc
+[2025-08-03 23:19:45] [+] Successfully created document for: Aspen Technology Inc & Emerson Electric Co
+[2025-08-03 23:20:04] [+] Successfully created document for: Cerner Corp & Oracle Corp
+[2025-08-03 23:20:06] [+] Successfully created document for: Arena Pharmaceuticals Inc & Pfizer Inc
+[2025-08-03 23:20:14] [-] No relevant document found for index 1590: Monmouth Re Invest Corp & Industrial Logistics Ppty
+[2025-08-03 23:20:28] [*] No background section found for index 1593: Nuverra Environmental Solution & Select Energy Services Inc. Retrying via fallback...
+[2025-08-03 23:20:28] [i] Number of documents: 1
+[2025-08-03 23:20:45] [i] Consumed approximately 92401 tokens (prompt: 91343, completion: 1058)
+[2025-08-03 23:20:45] [-] Confirmed no background section found for index 1593: Nuverra Environmental Solution & Select Energy Services Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1693256/000110465922001657/0001104659-22-001657.txt
+[2025-08-03 23:21:16] [*] No background section found for index 1591: Del Taco Restaurants Inc & Jack in the Box Inc. Retrying via fallback...
+[2025-08-03 23:21:16] [i] Number of documents: 1
+[2025-08-03 23:21:36] [i] Consumed approximately 92670 tokens (prompt: 91196, completion: 1474)
+[2025-08-03 23:21:36] [-] Confirmed no background section found for index 1591: Del Taco Restaurants Inc & Jack in the Box Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1585583/000114036122000545/0001140361-22-000545.txt
+[2025-08-03 23:21:49] [-] No relevant document found for index 1599: Biodelivery Sciences Intl Inc & Collegium Pharmaceutical Inc
+[2025-08-03 23:22:00] [+] Successfully created document for: Zynga Inc & Take-Two Interactive Software
+[2025-08-03 23:22:00] [+] Successfully created document for: Vocera Communications Inc & Stryker Corp
+[2025-08-03 23:22:06] [+] Successfully created document for: Ortho Clinical Diagnostics & Quidel Corp
+[2025-08-03 23:23:01] [+] Successfully created document for: Activision Blizzard Inc & Microsoft Corp
+[2025-08-03 23:26:12] [-] No relevant document found for index 1601: Cedar Realty Trust Inc & Wheeler REIT Inc
+[2025-08-03 23:26:13] [-] No relevant document found for index 1603: Neenah Inc & Schweitzer-Maudit Intl Inc
+[2025-08-03 23:26:21] [+] Successfully created document for: Renewable Energy Group Inc & Chevron Corp
+[2025-08-03 23:26:24] [+] Successfully created document for: Whiting Petroleum Corp & Oasis Petroleum Inc
+[2025-08-03 23:27:25] [+] Successfully created document for: Plantronics Inc & HP Inc
+[2025-08-03 23:27:36] [-] No relevant document found for index 1608: ServiceSource Intl Inc & Concentrix Corp
+[2025-08-03 23:27:48] [+] Successfully created document for: Antares Pharma Inc & Halozyme Therapeutics Inc
+[2025-08-03 23:27:49] [+] Successfully created document for: Checkmate Pharmaceuticals Inc & Regeneron Pharmaceuticals Inc
+[2025-08-03 23:27:50] [+] Successfully created document for: Black Knight Inc & Intercontinental Exchange Inc
+[2025-08-03 23:27:53] [+] Successfully created document for: Duke Realty Corp & Prologis Inc
+[2025-08-03 23:28:12] [-] No relevant document found for index 1612: Rattler Midstream Partners LP & Diamondback Energy Inc
+[2025-08-03 23:28:25] [+] Successfully created document for: CatchMark Timber Trust Inc & PotlatchDeltic Corp
+[2025-08-03 23:28:26] [+] Successfully created document for: VMware Inc & Broadcom Inc
+[2025-08-03 23:28:30] [+] Successfully created document for: Redbox Entertainment Inc & Chicken Soup for the Soul Ent
+[2025-08-03 23:28:54] [-] No relevant document found for index 1610: Biohaven Pharm Hldg Co Ltd & Pfizer Inc
+[2025-08-03 23:29:07] [-] No relevant document found for index 1617: Ocean Bio-Chem Inc & OneWater Marine Inc
+[2025-08-03 23:29:14] [+] Successfully created document for: La Jolla Pharmaceutical Co & Innoviva Inc
+[2025-08-03 23:29:14] [+] Successfully created document for: 1Life Healthcare Inc & Amazon.com Inc
+[2025-08-03 23:29:45] [*] No background section found for index 1615: Turning Point Therapeutics Inc & Bristol-Myers Squibb Co. Retrying via fallback...
+[2025-08-03 23:29:45] [i] Number of documents: 5
+[2025-08-03 23:29:52] [i] Consumed approximately 27042 tokens (prompt: 26562, completion: 480)
+[2025-08-03 23:29:55] [i] Consumed approximately 121670 tokens (prompt: 121339, completion: 331)
+[2025-08-03 23:29:55] [-] Confirmed no background section found for index 1615: Turning Point Therapeutics Inc & Bristol-Myers Squibb Co.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/14272/000114036122029751/0001140361-22-029751.txt
+		https://www.sec.gov/Archives/edgar/data/14272/000114036122026304/0001140361-22-026304.txt
+		https://www.sec.gov/Archives/edgar/data/14272/000114036122024779/0001140361-22-024779.txt
+		https://www.sec.gov/Archives/edgar/data/14272/000114036122028803/0001140361-22-028803.txt
+		https://www.sec.gov/Archives/edgar/data/14272/000114036122023484/0001140361-22-023484.txt
+[2025-08-03 23:30:16] [-] No relevant document found for index 1616: US Well Services Inc & ProFrac Holding Corp
+[2025-08-03 23:30:27] [-] No relevant document found for index 1620: Infrastructure & Energy Altern & MasTec Inc
+[2025-08-03 23:30:36] [+] Successfully created document for: ChemoCentryx Inc & Amgen Inc
+[2025-08-03 23:30:43] [+] Successfully created document for: Romeo Power Inc & Nikola Corp
+[2025-08-03 23:30:43] [+] Successfully created document for: Zymergen Inc & Ginkgo Bioworks Holdings Inc
+[2025-08-03 23:31:25] [*] No background section found for index 1622: PBF Logistics LP & PBF Energy Inc. Retrying via fallback...
+[2025-08-03 23:31:25] [i] Number of documents: 2
+[2025-08-03 23:31:36] [i] Consumed approximately 94605 tokens (prompt: 94083, completion: 522)
+[2025-08-03 23:31:41] [i] Consumed approximately 97059 tokens (prompt: 96643, completion: 416)
+[2025-08-03 23:31:41] [-] Confirmed no background section found for index 1622: PBF Logistics LP & PBF Energy Inc.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/1534504/000114036122035489/0001140361-22-035489.txt
+		https://www.sec.gov/Archives/edgar/data/1534504/000114036122031086/0001140361-22-031086.txt
+[2025-08-03 23:32:01] [+] Successfully created document for: Cyberoptics Corp & Nordson Corp
+[2025-08-03 23:32:04] [+] Successfully created document for: Akouos Inc & Eli Lilly & Co
+[2025-08-03 23:32:09] [+] Successfully created document for: SeaSpine Holdings Corp & Orthofix Medical Inc
+[2025-08-03 23:32:21] [-] No relevant document found for index 1627: Electric Last Mile Solutions I & Mullen Automotive Inc
+[2025-08-03 23:32:23] [*] No background section found for index 1626: Global Blood Therapeutics Inc & Pfizer Inc. Retrying via fallback...
+[2025-08-03 23:32:23] [i] Number of documents: 1
+[2025-08-03 23:32:30] [i] Consumed approximately 91360 tokens (prompt: 91191, completion: 169)
+[2025-08-03 23:32:30] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.91
+[2025-08-03 23:32:30] [+] Retry attempt successfully created document for: Global Blood Therapeutics Inc & Pfizer Inc
+[2025-08-03 23:32:43] [-] No relevant document found for index 1630: Ayala Pharmaceuticals Inc & Advaxis Inc
+[2025-08-03 23:32:51] [+] Successfully created document for: Benefitfocus Inc & Voya Financial Inc
+[2025-08-03 23:32:51] [+] Successfully created document for: Altra Industrial Motion Corp & Regal Rexnord Corp
+[2025-08-03 23:32:52] [+] Successfully created document for: Oyster Point Pharma Inc & Viatris Inc
+[2025-08-03 23:32:53] [+] Successfully created document for: ABIOMED Inc & Johnson & Johnson
+[2025-08-03 23:33:09] [-] No relevant document found for index 1638: Aerojet Rocketdyne Hldg Inc & L3Harris Technologies Inc
+[2025-08-03 23:33:11] [-] No relevant document found for index 1637: Vivint Smart Home Inc & NRG Energy Inc
+[2025-08-03 23:33:18] [+] Successfully created document for: Isoplexis Corp & Berkeley Lights Inc
+[2025-08-03 23:33:28] [+] Successfully created document for: Velodyne Lidar Inc & Ouster Inc
+[2025-08-03 23:34:12] [+] Successfully created document for: Apollo Endosurgery Inc & Boston Scientific Corp
+[2025-08-03 23:34:33] [+] Successfully created document for: Cardiovascular Systems Inc & Abbott Labs
+[2025-08-03 23:34:33] [+] Successfully created document for: National Instruments Corp & Emerson Electric Co
+[2025-08-03 23:34:33] [+] Successfully created document for: Oak Street Health Inc & CVS Health Corp
+[2025-08-03 23:34:37] [+] Successfully created document for: NuVasive Inc & Globus Medical Inc
+[2025-08-03 23:34:41] [+] Successfully created document for: Evoqua Water Technologies Corp & Xylem Inc
+[2025-08-03 23:35:08] [+] Successfully created document for: Prometheus Biosciences Inc & Merck & Co Inc
+[2025-08-03 23:35:09] [+] Successfully created document for: Kimball International Inc & HNI Corp
+[2025-08-03 23:35:12] [+] Successfully created document for: Broadmark Realty Capital Inc & Ready Capital Corp
+[2025-08-03 23:35:17] [+] Successfully created document for: Life Storage Inc & Extra Space Storage Inc
+[2025-08-03 23:35:53] [+] Successfully created document for: Seagen Inc & Pfizer Inc
+[2025-08-03 23:36:05] [-] No relevant document found for index 1651: Ruth's Hospitality Grp Inc & Darden Restaurants Inc
+[2025-08-03 23:36:08] [-] No relevant document found for index 1652: Green Plains Partners LP & Green Plains Inc
+[2025-08-03 23:36:09] [-] No relevant document found for index 1653: Holly Energy Partners LP & HF Sinclair Corp
+[2025-08-03 23:36:14] [+] Successfully created document for: Magellan Midstream Partners LP & ONEOK Inc
+[2025-08-03 23:36:14] [+] Successfully created document for: Spectrum Pharmaceuticals Inc & Assertio Holdings Inc
+[2025-08-03 23:36:32] [-] No relevant document found for index 1657: Necessity Retail REIT Inc & Global Net Lease Inc
+[2025-08-03 23:36:36] [-] No relevant document found for index 1658: Apexigen Inc & Pyxis Oncology Inc
+[2025-08-03 23:36:42] [+] Successfully created document for: Urstadt Biddle Properties Inc & Regency Centers Corp
+[2025-08-03 23:36:45] [+] Successfully created document for: PDC Energy Inc & Chevron Corp
+[2025-08-03 23:36:47] [+] Successfully created document for: Nextier Oilfield Solutions Inc & Patterson-UTI Energy Inc
+[2025-08-03 23:37:33] [+] Successfully created document for: Sigilon Therapeutics Inc & Eli Lilly & Co
+[2025-08-03 23:37:34] [+] Successfully created document for: Surface Oncology Inc & Coherus Biosciences Inc
+[2025-08-03 23:37:36] [+] Successfully created document for: DICE Therapeutics Inc & Eli Lilly & Co
+[2025-08-03 23:38:21] [*] No background section found for index 1663: Western Asset Mortgage Capital & AG Mortgage Investment Trust. Retrying via fallback...
+[2025-08-03 23:38:21] [i] Number of documents: 2
+[2025-08-03 23:38:37] [i] Consumed approximately 94801 tokens (prompt: 94504, completion: 297)
+[2025-08-03 23:38:37] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.94
+[2025-08-03 23:38:37] [+] Retry attempt successfully created document for: Western Asset Mortgage Capital & AG Mortgage Investment Trust
+[2025-08-03 23:38:58] [+] Successfully created document for: Chase Corp & KKR & Co Inc
+[2025-08-03 23:39:10] [-] No relevant document found for index 1668: Zynerba Pharmaceuticals Inc & Harmony Biosciences Hldg Inc
+[2025-08-03 23:39:19] [+] Successfully created document for: Reata Pharmaceuticals Inc & Biogen Inc
+[2025-08-03 23:39:19] [+] Successfully created document for: Sovos Brands Inc & Campbell Soup Co
+[2025-08-03 23:39:22] [+] Successfully created document for: DISH Network Corp & EchoStar Corp
+[2025-08-03 23:39:26] [+] Successfully created document for: Crestwood Equity Partners LP & Energy Transfer LP
+[2025-08-03 23:39:40] [-] No relevant document found for index 1673: Hostess Brands Inc & The JM Smucker Co
+[2025-08-03 23:39:50] [+] Successfully created document for: Earthstone Energy Inc & Permian Resources Corp
+[2025-08-03 23:39:53] [+] Successfully created document for: PFSweb Inc & GXO Logistics Inc
+[2025-08-03 23:40:39] [*] No background section found for index 1672: Acer Therapeutics Inc & Zevra Therapeutics Inc. Retrying via fallback...
+[2025-08-03 23:40:39] [i] Number of documents: 2
+[2025-08-03 23:40:42] [*] No background section found for index 1671: RPT Realty & Kimco Realty Corp. Retrying via fallback...
+[2025-08-03 23:40:42] [i] Number of documents: 3
+[2025-08-03 23:40:48] [i] Consumed approximately 91687 tokens (prompt: 91262, completion: 425)
+[2025-08-03 23:40:48] [i] Fallback tool results | matchHeader: Relevant Historical Background for Acer | confidence: 0.87
+[2025-08-03 23:40:48] [+] Retry attempt successfully created document for: Acer Therapeutics Inc & Zevra Therapeutics Inc
+[2025-08-03 23:40:59] [i] Consumed approximately 92463 tokens (prompt: 92037, completion: 426)
+[2025-08-03 23:40:59] [i] Fallback tool results | matchHeader: Background of the Mergers | confidence: 0.97
+[2025-08-03 23:40:59] [+] Retry attempt successfully created document for: RPT Realty & Kimco Realty Corp
+[2025-08-03 23:41:41] [+] Successfully created document for: Splunk Inc & Cisco Systems Inc
+[2025-08-03 23:41:46] [+] Successfully created document for: SomaLogic Inc & Standard Biotools Inc
+[2025-08-03 23:41:49] [+] Successfully created document for: Pioneer Natural Resources Co & Exxon Mobil Corp
+[2025-08-03 23:41:51] [+] Successfully created document for: POINT Biopharma Global Inc & Eli Lilly & Co
+[2025-08-03 23:42:03] [*] No background section found for index 1678: Mirati Therapeutics Inc & Bristol-Myers Squibb Co. Retrying via fallback...
+[2025-08-03 23:42:03] [i] Number of documents: 1
+[2025-08-03 23:42:10] [i] Consumed approximately 92109 tokens (prompt: 91812, completion: 297)
+[2025-08-03 23:42:10] [i] Fallback tool results | matchHeader: Background of the Merger | confidence: 0.81
+[2025-08-03 23:42:10] [+] Retry attempt successfully created document for: Mirati Therapeutics Inc & Bristol-Myers Squibb Co
+[2025-08-03 23:42:32] [+] Successfully created document for: PCTEL Inc & Amphenol Corp
+[2025-08-03 23:42:32] [+] Successfully created document for: Bluegreen Vacations Holdings & Hilton Grand Vacations Inc
+[2025-08-03 23:42:35] [+] Successfully created document for: Miromatrix Medical Inc & United Therapeutics Corp
+[2025-08-03 23:42:36] [+] Successfully created document for: Physicians Realty Trust & Healthpeak Properties Inc
+[2025-08-03 23:43:04] [+] Successfully created document for: Six Flags Entertainment Corp & Cedar Fair LP
+[2025-08-03 23:43:34] [*] No background section found for index 1688: Karuna Therapeutics Inc & Bristol-Myers Squibb Co. Retrying via fallback...
+[2025-08-03 23:43:34] [i] Number of documents: 1
+[2025-08-03 23:43:38] [-] Confirmed no background section found for index 1688: Karuna Therapeutics Inc & Bristol-Myers Squibb Co.
+	Dumping its document links:
+		https://www.sec.gov/Archives/edgar/data/14272/000114036124008300/0001140361-24-008300.txt
+[2025-08-03 23:43:41] [+] Successfully created document for: Cerevel Therapeutics Holdings & AbbVie Inc
+[2025-08-03 23:43:42] [+] Successfully created document for: Hawaiian Holdings Inc & Alaska Air Group Inc
+[2025-08-03 23:43:42] [+] Successfully created document for: ImmunoGen Inc & AbbVie Inc
+[2025-08-03 23:43:55] [+] Successfully created document for: FG Group Holdings Inc & FG Financial Group Inc
+[2025-08-03 23:44:23] [+] Successfully created document for: Southwestern Energy Co & Chesapeake Energy Corp
+[2025-08-03 23:44:23] [+] Successfully created document for: NuStar Energy LP & Sunoco LP
+[2025-08-03 23:44:25] [+] Successfully created document for: Callon Petroleum Co & APA Corp
+[2025-08-03 23:44:39] [*] No background section found for index 1693: Masonite International Corp & Owens Corning. Retrying via fallback...
+[2025-08-03 23:44:39] [i] Number of documents: 1
+[2025-08-03 23:44:50] [i] Consumed approximately 91057 tokens (prompt: 90441, completion: 616)
+[2025-08-03 23:44:50] [i] Fallback tool results | matchHeader: Background of the Arrangement | confidence: 0.8
+[2025-08-03 23:44:50] [+] Retry attempt successfully created document for: Masonite International Corp & Owens Corning
+[2025-08-03 23:45:08] [+] Successfully created document for: Shockwave Medical Inc & Johnson & Johnson
+[2025-08-03 23:45:29] [+] Successfully created document for: Alimera Sciences Inc & ANI Pharmaceuticals Inc
+[2025-08-03 23:45:29] [+] Successfully created document for: Atrion Corp & Nordson Corp
+[2025-08-03 23:45:33] [+] Successfully created document for: Alpine Immune Sciences Inc & Vertex Pharmaceuticals Inc
+[2025-08-03 23:46:16] [*] No background section found for index 1696: SilverBow Resources Inc & Crescent Energy Co. Retrying via fallback...
+[2025-08-03 23:46:16] [i] Number of documents: 2
+[2025-08-03 23:46:24] [+] Successfully created document for: Silk Road Medical Inc & Boston Scientific Corp
+[2025-08-03 23:46:27] [i] Consumed approximately 91519 tokens (prompt: 91167, completion: 352)
+[2025-08-03 23:46:34] [i] Consumed approximately 91804 tokens (prompt: 90738, completion: 1066)
+[2025-08-03 23:46:34] [i] Fallback tool results | matchHeader: Background of the Mergers | confidence: 0.93
+[2025-08-03 23:46:34] [+] Retry attempt successfully created document for: SilverBow Resources Inc & Crescent Energy Co
+[2025-08-03 23:55:26] [+] Successfully created document for: Chuy's Holdings Inc & Darden Restaurants Inc
+[2025-08-03 23:55:28] [+] Successfully created document for: Morphic Holding Inc & Eli Lilly & Co
