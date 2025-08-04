@@ -91,7 +91,7 @@ class Processor:
         else:
             print(f"FATAL: Failed to load document via url. Err_Code: {response.status_code}");
             sys.exit(response.status_code);
-    
+
     @staticmethod
     def preprocess_text(content: str) -> str:
         """
@@ -111,7 +111,7 @@ class Processor:
         # Ensure content is in UTF-8
         if isinstance(content, bytes):
             content = content.decode('utf-8', errors='ignore');
-        
+
         # HTMLParser to handle bad HTML
         parser = etree.HTMLParser(recover=True, encoding='utf-8');
         try:
@@ -182,13 +182,13 @@ class Processor:
 
         # Check if both company names are present in the document headers
         found_companies = [name for name in company_names if re.search(r'\b' + re.escape(name) + r'\b', lower_text)];
-        
+
         # Return the cleanedText if both company names are found, else False
         return cleaned_text, len(found_companies) == len(company_names);
 
     @staticmethod
     def getDocuments(
-        source_links: list[str], 
+        source_links: list[str],
         company_names: list[str]
     ) -> list[Document]:
         """
@@ -201,7 +201,7 @@ class Processor:
                 The list of documents source url.
             company_names : list[str]
                 The list of company names.
-            
+
             Returns
             -------
             list : Document
@@ -235,10 +235,10 @@ class Processor:
 
     @staticmethod
     def process_document(
-        doc: Document, 
-        company_names: list[str], 
-        main_index: int, 
-        found_data: bool, 
+        doc: Document,
+        company_names: list[str],
+        main_index: int,
+        found_data: bool,
         lock: any,
         executor: ThreadPoolExecutor
     ) -> str | None:
@@ -267,11 +267,11 @@ class Processor:
             result = ChunkProcessor.locateBackgroundChunk(doc.getContent(), [phrase for phrase in START_PHRASES if phrase != "Background"], executor);
             if result is None or len(result[1]) == 0:
                 result = ChunkProcessor.locateBackgroundChunk(doc.getContent(), ["Background"], executor);
-            
+
             # No valid background chunks so ignore document
             if result is None:
                 sys.exit(1);
-            
+
             _, approx_chunks = result;
 
             if len(approx_chunks) > 0:
@@ -303,17 +303,17 @@ class Processor:
             return None;
         except Exception as e:
             Logger.logMessage(f"[-] Error processing {doc.getUrl()}: {e}");
-        
+
         return None;
 
     @staticmethod
     def fallback_check(
-        documents: list[Document], 
+        documents: list[Document],
         company_names: list[str],
         main_index: int,
         client: OpenAI
     ) -> (str | None):
-        
+
         with ThreadPoolExecutor(max_workers=MAX_NUM_OF_THREADS) as thread_pool:
             futures = [
                 thread_pool.submit(
@@ -334,7 +334,7 @@ class Processor:
             fallback_result = None;
 
             Logger.logMessage(f"[i] Number of documents: {len(documents)}");
-        
+
             for future in as_completed(futures):
                 try:
                     response, doc = future.result();
@@ -347,7 +347,7 @@ class Processor:
                     # Log token usage
                     Logger.logMessage(f"[i] Consumed approximately {usage.total_tokens} tokens "
                           f"(prompt: {usage.prompt_tokens}, completion: {usage.completion_tokens})");
-        
+
                     tool_calls = response.choices[0].message.tool_calls;
                     if tool_calls:
                         args = json.loads(tool_calls[0].function.arguments);
@@ -360,7 +360,7 @@ class Processor:
                                 log_parts.append(f"confidence: {args['confidence']}");
 
                             Logger.logMessage(" | ".join(log_parts));
-                            
+
                             section_found.set();  # Signal that a section has been found
                             fallback_result = doc;
                             break;
@@ -391,13 +391,13 @@ class Processor:
 
                 Logger.logMessage(f"[+] Retry attempt successfully created document for: {company_names[0]} & {company_names[1]}");
                 return fallback_result.getUrl();
-        
+
         return None;
 
     @staticmethod
     def locateDocument(
-        documents: list[Document], 
-        company_names: list[str], 
+        documents: list[Document],
+        company_names: list[str],
         main_index: int,
         client: OpenAI
     ) -> str | None:
@@ -463,10 +463,10 @@ class Processor:
                         for future in futures:
                             if not future.done():
                                 future.cancel();
-        
+
             if result is not None:
                 return result;
-        
+
         # Fallback method if fuzzy fails. We will use openai to determine if the background section is within any of the documents
         Logger.logMessage(
             f"[*] No background section found for index {main_index}: {company_names[0]} & {company_names[1]}. Retrying via fallback..."
@@ -476,6 +476,6 @@ class Processor:
         fallback_result = Processor.fallback_check(documents, company_names, main_index, client);
         if fallback_result is None:
             return None;
-    
+
         return fallback_result;
 

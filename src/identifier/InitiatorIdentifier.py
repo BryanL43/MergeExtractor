@@ -11,7 +11,7 @@ from src.utils.Logger import Logger
 from src.dependencies.DatabaseHandler import DatabaseHandler
 
 from src.dependencies.config import (
-    OPENAI_API_KEY, 
+    OPENAI_API_KEY,
     MAX_NUM_OF_THREADS,
     COMPANY_A_LIST,
     COMPANY_B_LIST,
@@ -22,7 +22,7 @@ from src.dependencies.config import (
 class InitiatorIdentifier:
     def __init__(self):
         pass;
-    
+
     def __write_result(self, acquired_results: list[tuple[int, dict]]):
         print("Writing results to CSV...");
 
@@ -35,7 +35,7 @@ class InitiatorIdentifier:
             # Write the header row if the file doesn't exist
             if not file_exists:
                 writer.writerow(["INDEX", "INITIATOR", "DATE_OF_INITIATION", "TYPE_OF_INITIATION", "REASON"]);
-            
+
             for main_index, json_result in acquired_results:
                 try:
                     # Dereference the json result for writing to csv
@@ -48,7 +48,7 @@ class InitiatorIdentifier:
                     writer.writerow([main_index, initiator, date_of_initiation, type_of_initiation, reason]);
                 except Exception as e:
                     print(f"Error extracting or writing result for index {main_index}: {e}");
-    
+
     def __process_document(self, main_index: int, client: OpenAI) -> tuple[int, dict] | None:
         try:
             # Construct the collection name
@@ -88,10 +88,10 @@ class InitiatorIdentifier:
         return None;
 
     def runIdentifier(
-        self, 
-        start_index: int = None, 
-        end_index: int = None, 
-        index: int = None, 
+        self,
+        start_index: int = None,
+        end_index: int = None,
+        index: int = None,
         batch_size: int = None # Range [1-3 is recommended] to not flood the API
     ):
         # Ensure valid batch_size parameter
@@ -111,7 +111,7 @@ class InitiatorIdentifier:
             self.__start_index = start_index;
             self.__end_index = end_index + 1;
             self.__batch_size = batch_size;
-        
+
         indices_to_process = list(range(self.__start_index, self.__end_index));
         total_tasks = len(indices_to_process);
 
@@ -119,7 +119,7 @@ class InitiatorIdentifier:
 
         acquired_results = [];
         with tqdm(
-            total=total_tasks, 
+            total=total_tasks,
             desc = "\033[33mIdentifying Initiators\033[0m",
             unit="items",
             ncols=80,
@@ -136,7 +136,7 @@ class InitiatorIdentifier:
                     result = self.__process_document(main_index, client);
                     if result:
                         acquired_results.append(result);
-                    
+
                     pbar.update(1);
                 else:
                     # Process the batch in parallel
@@ -151,7 +151,7 @@ class InitiatorIdentifier:
                             result = future.result();
                             if result:
                                 acquired_results.append(result);
-                            
+
                             pbar.update(1);
                         except Exception as e:
                             print(f"Error processing future: {e}");

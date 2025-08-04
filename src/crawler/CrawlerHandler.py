@@ -17,7 +17,7 @@ from src.dependencies.config import ANNOUNCEMENT_DATES, COMPANY_A_LIST, COMPANY_
 class CrawlerHandler:
     def __init__(self):
         pass;
-    
+
     def __write_output_urls(self, acquired_documents: list[tuple[int, str]]):
         """
             Writes the output urls to the csv file.
@@ -38,10 +38,10 @@ class CrawlerHandler:
                     # Write to the output CSV
                     writer.writerow(
                         [
-                            main_index, 
-                            ANNOUNCEMENT_DATES[main_index], 
-                            COMPANY_A_LIST[main_index], 
-                            COMPANY_B_LIST[main_index], 
+                            main_index,
+                            ANNOUNCEMENT_DATES[main_index],
+                            COMPANY_A_LIST[main_index],
+                            COMPANY_B_LIST[main_index],
                             url
                         ]
                     );
@@ -49,10 +49,10 @@ class CrawlerHandler:
                     Logger.logMessage(f"[-] Error writing to output for index {main_index}: {e}");
 
     def runCrawler(
-        self, 
-        start_index: int = None, 
-        end_index: int = None, 
-        index: int = None, 
+        self,
+        start_index: int = None,
+        end_index: int = None,
+        index: int = None,
         date_margin: int = 4, # Default; can be overwritten
         batch_size: int = None,
         max_calls_per_sec: int = 5 # SEC EDGAR only allows 10 requests per second
@@ -74,7 +74,7 @@ class CrawlerHandler:
             self.__start_index = start_index;
             self.__end_index = end_index + 1;
             self.__batch_size = batch_size;
-        
+
         # Create a flat list of jobs to transport data
         jobs = [
             (
@@ -87,7 +87,7 @@ class CrawlerHandler:
         ];
 
         total_tasks = len(jobs);
-        
+
         # Process jobs in batches of 5
         acquired_documents = [];
         with tqdm(
@@ -109,8 +109,8 @@ class CrawlerHandler:
                 ) as process_pool:
                     futures = {
                         process_pool.submit(
-                            CrawlerSupport.process_single_job, 
-                            job, 
+                            CrawlerSupport.process_single_job,
+                            job,
                             date_margin
                         ): job
                         for job in batch_jobs
@@ -123,7 +123,7 @@ class CrawlerHandler:
                             if result is not None:
                                 main_index, doc_url = result;
                                 acquired_documents.append((main_index, doc_url));
-                            
+
                             pbar.update(1);
                         except Exception as e:
                             print(f"Error processing batch job: {e}");
@@ -135,6 +135,6 @@ class CrawlerHandler:
                     gc.collect(); # CPU flush
                     time.sleep(2);
                     print("Cooldown complete, proceeding to next batch...");
-        
+
         acquired_documents.sort(key=lambda x: x[0]);
         self.__write_output_urls(acquired_documents);

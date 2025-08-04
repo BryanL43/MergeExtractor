@@ -16,10 +16,9 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from src.utils.Logger import Logger
 from src.dependencies.config import (
-    BATCH_SIZE, 
-    QUERY_EMBEDDING_FILE, 
-    RERANK_QUERY_FILE, 
-    BASE_NLP_MODEL, 
+    QUERY_EMBEDDING_FILE,
+    RERANK_QUERY_FILE,
+    BASE_NLP_MODEL,
     EMBEDDING_MODEL
 )
 
@@ -31,73 +30,6 @@ class ChunkProcessor:
     def __init__(self, reranker_model: CrossEncoder, client: OpenAI):
         self.reranker_model = reranker_model;
         self.client = client;
-
-    # @staticmethod
-    # def extract_chunks_with_dates(chunks: list[str], nlp: Language, executor: ThreadPoolExecutor) -> list[tuple[int, str]]:
-    #     # Subroutine speeds up runtime slightly due to static nature
-    #     def get_chunks_with_date(batch_chunks_with_indices):
-    #         indices, texts = zip(*batch_chunks_with_indices);
-    #         docs = list(nlp.pipe(texts));
-    #         results = [];
-
-    #         for idx, doc, chunk in zip(indices, docs, texts):
-    #             date_entities = [ent for ent in doc.ents if ent.label_ == "DATE"];
-    #             filtered_dates = [];
-
-    #             for ent in date_entities:
-    #                 text = ent.text.lower();
-
-    #                 # Exclude entries with hyphens (often IDs or codes)
-    #                 if '-' in text:
-    #                     continue;
-
-    #                 # For purely numeric entries, check if they exceed possible date ranges
-    #                 if text.replace('/', '').replace(' ', '').isdigit():
-    #                     components = re.split(r'[/\s]+', text);
-
-    #                     # Check if any component exceeds possible date values (4-digit integers)
-    #                     if any(len(component) > 4 for component in components):
-    #                         continue;
-
-    #                     # If it's a single number, make sure it's in a reasonable year range
-    #                     if len(components) == 1 and text.isdigit():
-    #                         num = int(text);
-    #                         if num < 1900 or num > 2030:
-    #                             continue;
-
-    #                 filtered_dates.append(ent.text);
-
-    #             # Context-based date detection for years
-    #             year_mentions = re.findall(r'\b((?:19|20)\d{2})\b', chunk);
-    #             for year in year_mentions:
-    #                 if year not in [date.lower() for date in filtered_dates]:
-    #                     filtered_dates.append(year);
-
-    #             # Remove duplicates while preserving order
-    #             seen = set();
-    #             filtered_dates = [x for x in filtered_dates if not (x in seen or seen.add(x))];
-
-    #             if filtered_dates:
-    #                 results.append((idx, chunk));
-
-    #         return results;
-
-    #     chunks_with_dates = [];
-    #     futures = [];
-
-    #     # Prepare batches as (index, chunk) pairs
-    #     for i in range(0, len(chunks), BATCH_SIZE):
-    #         if not executor._shutdown:
-    #             batch = list(enumerate(chunks))[i:i + BATCH_SIZE]  # List of (global_index, chunk)
-    #             futures.append(executor.submit(get_chunks_with_date, batch))
-
-    #     # Collect the results as they complete
-    #     for future in as_completed(futures):
-    #         result = future.result();
-    #         if result:
-    #             chunks_with_dates.extend(result);
-
-    #     return chunks_with_dates;
 
     @staticmethod
     def locate_chunk_header(chunk: str, start_phrases: list[str], nlp: Language) -> str:
@@ -118,7 +50,7 @@ class ChunkProcessor:
                     if phrase in sentence_text.lower() and "background" in sentence_text.lower():
                         if any(skip in sentence_text.lower() for skip in skip_if_contains):
                             continue; # Reject false positives
-                        
+
                         return phrase;
 
             # If no match in the sentence, check each line with additional fuzzy match.
@@ -126,9 +58,9 @@ class ChunkProcessor:
             for line in lines:
                 if len(line) == 0:
                     continue;
-                
+
                 line_lower = line.lower().strip();
-                # Special case for only "Background" phrase to check for exact match 
+                # Special case for only "Background" phrase to check for exact match
                 if background_only:
                     if line_lower == "background":
                         return line;
@@ -139,7 +71,7 @@ class ChunkProcessor:
                                 return line;
 
         return None;
-    
+
     @staticmethod
     def has_section_title(chunk: str, phrase: str) -> bool:
         """Check if the section contains the header as a title"""
@@ -178,7 +110,7 @@ class ChunkProcessor:
             # Check for the actual phrase and short paragraph structure (likely a section title)
             if phrase.lower() in joined_lower and len(para_lines) <= 2:
                 return True;
-            
+
         return False;
 
     @staticmethod
@@ -215,7 +147,7 @@ class ChunkProcessor:
 
         if not ChunkProcessor.has_section_title(chunk, found_start_phrase):
             return None;
-        
+
         if not ChunkProcessor.is_not_toc(chunk, found_start_phrase):
             return None;
 
@@ -238,8 +170,8 @@ class ChunkProcessor:
 
     @staticmethod
     def get_approx_chunks(
-        chunks_with_dates: list[tuple[int, str]], 
-        start_phrases: list[str], 
+        chunks_with_dates: list[tuple[int, str]],
+        start_phrases: list[str],
         nlp: Language,
         executor: ThreadPoolExecutor
     ):
@@ -262,11 +194,11 @@ class ChunkProcessor:
 
     @staticmethod
     def locateBackgroundChunk(
-        text: str, 
+        text: str,
         start_phrases: list[str],
         executor: ThreadPoolExecutor,
-        chunk_size: int = 2048, 
-        chunk_overlap: int = 400, 
+        chunk_size: int = 2048,
+        chunk_overlap: int = 400,
     ) -> list[tuple[int, str]] | None:
         nlp = spacy.load(BASE_NLP_MODEL);
         if nlp is None:
@@ -281,7 +213,7 @@ class ChunkProcessor:
         # chunks_with_dates = ChunkProcessor.extract_chunks_with_dates(chunks, nlp, executor);
         # if len(chunks_with_dates) == 0:
         #     return None; # No chunks with dates
-    
+
         # with open("DEBUGGING.txt", "a") as f:
         #     for idx, chunk in chunks_with_dates:
         #         f.write("--" * 20);
@@ -309,34 +241,34 @@ class ChunkProcessor:
         """ Remove overlapping lines """
         unique_lines = set();
         normalized_text = [];
-        
+
         for line in text.split("\n"):
             line_s = line.strip();
-            
+
             if line_s:
                 if line_s not in unique_lines:
                     unique_lines.add(line_s);
                     normalized_text.append(line);
             else:
                 normalized_text.append("");
-        
+
         return "\n".join(normalized_text);
 
     def _find_definition_paragraph(self, chunks: list[str], org: str) -> (str | None):
         # Pattern to match the ORG in quotes within parentheses
         pattern = re.compile(r'\([^)]*?"{}"[^)]*?\)'.format(re.escape(org)), re.IGNORECASE);
-        
+
         for chunk in chunks:
             # Split chunk into paragraphs
             paragraphs = re.split(r'\n\s*\n', chunk);
             for para in paragraphs:
                 if pattern.search(para):
                     return para.strip();
-                
+
         return None;
 
     def _compute_cosine_similarity(
-        self, approx_chunks: list[tuple[int, str]], 
+        self, approx_chunks: list[tuple[int, str]],
         executor: ThreadPoolExecutor
     ) -> list[tuple[int, float, str]]:
         # Load locally saved query embedding
@@ -358,7 +290,7 @@ class ChunkProcessor:
             except Exception as e:
                 Logger.logMessage(f"[-] Error retrieving embeddings: {e}");
                 sys.exit(1);
-        
+
         # Stack embeddings into a tensor
         chunk_embeddings = torch.stack(chunk_embeddings);
 
@@ -380,10 +312,10 @@ class ChunkProcessor:
         # Load locally saved rerank query
         with open(RERANK_QUERY_FILE, "r", encoding="utf-8") as f:
             rerank_query = f.read();
-        
+
         pairs = [(rerank_query, chunk) for _, _, chunk in final_chunks_sorted];
         rerank_scores = self.reranker_model.predict(pairs, activation_fn=nn.Sigmoid()); # Sigmoid to map prob in the range of [0, 1]
-    
+
         COSINE_WEIGHT = 0.4;
         RERANK_WEIGHT = 0.6;
 
@@ -408,13 +340,13 @@ class ChunkProcessor:
             definition_paragraph = self._find_definition_paragraph(chunks, org);
             if definition_paragraph:
                 abbreviation_map.setdefault(definition_paragraph, []).append(org);
-        
+
         # No definition paragraphs found, most likely due to acronym company names.
         # Directly return with the expanded company names in the header.
         header = f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n";
         if len(abbreviation_map) == 0:
             return header + passage;
-        
+
         output = "Here are some potentially useful abbreviation definitions that could help with analyzing the 'Background' section:\n";
         seen = set();
 
@@ -438,9 +370,9 @@ class ChunkProcessor:
         return output + "\n" + header + "\n" + passage;
 
     def getSectionPassage(
-        self, 
-        chunks: list[str], 
-        approx_chunks: list[tuple[int, str]], 
+        self,
+        chunks: list[str],
+        approx_chunks: list[tuple[int, str]],
         company_names: list[str],
         executor: ThreadPoolExecutor
     ):
@@ -450,19 +382,19 @@ class ChunkProcessor:
         # Case 1: Only one approximate chunk in list, so use the chunk directly
         if len(approx_chunks) == 1:
             index, beginning_chunk = approx_chunks[0];
-            
+
             # DEBUG
             # print("===" * 20);
             # print(f"Index: {index}");
             # print(beginning_chunk);
-        
+
         else: # Case 2: Multiple approximate chunks in list; use cosine similarity & reranker to rank chunks
             final_chunks = self._compute_cosine_similarity(approx_chunks, executor);
             hybrid_chunks = self._rerank_with_hybrid_score(final_chunks);
 
             if not hybrid_chunks:
                 return None;
-        
+
             # DEBUG
             # for index, hybrid_score, cos_score, rerank_score, chunk in hybrid_chunks:
             #     print("===" * 20);
@@ -470,7 +402,7 @@ class ChunkProcessor:
             #     print(chunk);
 
             index, _, _, _, beginning_chunk = hybrid_chunks[0];
-        
+
         # Acquire the background section text (with some margin of other sections)
         extracted_section = beginning_chunk + "\n" + "\n".join(chunks[index + 1:index + 12]);
         passage = self.__normalize_chunks(extracted_section);
@@ -480,7 +412,7 @@ class ChunkProcessor:
 
         # Extract the simplified company name tokens (first word)
         company_tokens = [name.lower().split()[0].split('.')[0] for name in company_names];
-        
+
         # Case 1: Direct presence (preserve hyphen)
         if all(token in passage_clean for token in company_tokens):
             return f"The following provides details about the events leading up to the merger deal between {company_names[0]} & {company_names[1]}:\n" + passage;

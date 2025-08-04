@@ -6,7 +6,7 @@ class DatabaseHandler:
         self.client = MongoClient(MONGO_URL);
         self.dataset_db = self._get_or_init_db(DATASET_NAME);
         self.extracted_sections_db = self._get_or_init_db(EXTRACTEDSECTIONS_NAME);
-    
+
         self._ensure_batch_collections(self.dataset_db);
         self._ensure_batch_collections(self.extracted_sections_db);
 
@@ -18,9 +18,9 @@ class DatabaseHandler:
             temp_db["__init__"].insert_one({"init": True});
             temp_db.drop_collection("__init__");
             print(f"[+] Database '{db_name}' created.");
-        
+
         return self.client[db_name];
-    
+
     def _ensure_batch_collections(self, db):
         """Ensures batch collections exist for the given database."""
         existing_collections = db.list_collection_names();

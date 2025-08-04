@@ -64,7 +64,6 @@ START_PHRASES = [
 # Configuration for similarity search and re-ranking
 QUERY_EMBEDDING_FILE = os.path.abspath("./config/query_embedding.json");
 RERANK_QUERY_FILE = os.path.abspath("./config/rerank_query.txt");
-BATCH_SIZE = 128; # Computing power specific. Tune for your device.
 
 LOG_FILE_PATH = os.path.abspath("./logs.txt");
 
@@ -180,7 +179,7 @@ IDENTIFIER_TOOLS = [{
                 "date_of_initiation": {
                     "type": "string",
                     "description": (
-                        "The date of first meaningful contact between the companies or their representatives regarding the merger or acquisition." 
+                        "The date of first meaningful contact between the companies or their representatives regarding the merger or acquisition."
                         "This includes emails, meetings, letters of intent, or informal discussions leading to a formal proposal."
                     )
                 },

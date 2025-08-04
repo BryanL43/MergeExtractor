@@ -25,7 +25,7 @@ class CrawlerSupport:
         global_rate_limiter.wait();
         response = requests.get(url, headers=headers);
         return response;
-    
+
     @staticmethod
     def get_date_constraints(date: str, margin: int = 2) -> list[datetime]:
         """
@@ -65,7 +65,7 @@ class CrawlerSupport:
         if (lower_bound_date < min_date):
             lower_bound_date = min_date;
 
-        
+
         # Define the upper-bound date
         ub_month = original_date.month + margin;
         if (ub_month > 12): # Case: Wrap to next year
@@ -79,15 +79,15 @@ class CrawlerSupport:
             upper_bound_date = original_date.replace(year=ub_year, month=ub_month);
         except ValueError: # Catch potential error i.e. feb. 30 not existing
             upper_bound_date = original_date.replace(year=ub_year, month=ub_month + 1, day=1);
-        
+
         return [lower_bound_date, upper_bound_date];
 
     @staticmethod
     def get_ciks(
-        search_company: str, 
-        pair_company: str, 
-        date_LB: str, 
-        date_UB: str, 
+        search_company: str,
+        pair_company: str,
+        date_LB: str,
+        date_UB: str,
         restruct_forms: list[str]
     ) -> list[int] | None:
         """
@@ -105,7 +105,7 @@ class CrawlerSupport:
                 The upper-bound date, in the format of "%Y-M-%D"
             restruct_forms : list[str]
                 The form types to search for.
-                
+
             Returns
             -------
             list : int
@@ -114,7 +114,7 @@ class CrawlerSupport:
                 if we cannot acquire anything.
         """
         restruct_name = search_company.replace(" ", "%20");
-        
+
         url = f"https://efts.sec.gov/LATEST/search-index?q={restruct_name}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={restruct_forms}";
 
         # Create a request that mimics browser activity
@@ -128,13 +128,13 @@ class CrawlerSupport:
         if (response.status_code != 200):
             print("FATAL: getDocumentJson response yielded an error!");
             sys.exit(response.status_code);
-        
+
         data = response.json();
         total_value = data["hits"]["total"]["value"];
 
         if (total_value <= 0):
             return None;
-        
+
         # Formulate the list of entities for CIK lookup
         entity_list = [];
         for entities in data["aggregations"]["entity_filter"]["buckets"]:
@@ -145,7 +145,7 @@ class CrawlerSupport:
         filtered_match = [
             entity for entity in entity_list if fuzz.partial_ratio(pair_company.lower(), entity.lower()) > threshold
         ];
-        
+
         # Extract the CIK from the filtered match
         cik_list = [];
         for entity in filtered_match:
@@ -155,10 +155,10 @@ class CrawlerSupport:
 
     @staticmethod
     def get_cik_document_json(
-        search_company: str, 
-        pair_company: str, 
-        date_LB: str, 
-        date_UB: str, 
+        search_company: str,
+        pair_company: str,
+        date_LB: str,
+        date_UB: str,
         restruct_forms: list[str]
     ) -> list[dict] | None:
         """
@@ -177,7 +177,7 @@ class CrawlerSupport:
             restruct_forms : list[str]
                 The form types to search for.
                 The defined maximum number of threads per thread pool.
-                
+
             Returns
             -------
             list : dict
@@ -194,7 +194,7 @@ class CrawlerSupport:
         cik_list = CrawlerSupport.get_ciks(search_company, pair_company, date_LB, date_UB, restruct_forms);
         if (cik_list == None):
             cik_list = CrawlerSupport.get_ciks(pair_company, search_company, date_LB, date_UB, restruct_forms);
-        
+
         if (cik_list == None):
             return None;
 
@@ -209,7 +209,7 @@ class CrawlerSupport:
             f"https://efts.sec.gov/LATEST/search-index?q={restruct_name}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={restruct_forms}&filter_ciks={cik}"
             for cik in cik_list
         ];
-        
+
         # Create a request that mimics browser activity
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
@@ -222,7 +222,7 @@ class CrawlerSupport:
             if (response.status_code != 200):
                 print("FATAL: getDocumentJson response yielded an error!");
                 sys.exit(response.status_code);
-            
+
             result = response.json();
             merged_hits = result["hits"]["hits"] if result and "hits" in result and "hits" in result["hits"] else [];
         else: # Case: Multiple URLs; use threads for concurrent fetching
@@ -230,7 +230,7 @@ class CrawlerSupport:
                 results = list(
                     thread_pool.map(lambda url: CrawlerSupport.rate_limited_get(url, headers), urls)
                 );
-                
+
                 # Merge the results into a single list
                 merged_hits = [];
                 for response in results:
@@ -246,10 +246,10 @@ class CrawlerSupport:
 
     @staticmethod
     def get_document_json(
-        search_company: str, 
-        pair_company: str, 
-        date_LB: str, 
-        date_UB: str, 
+        search_company: str,
+        pair_company: str,
+        date_LB: str,
+        date_UB: str,
         restruct_forms: list[str]
     ) -> list[dict] | None:
         """
@@ -268,7 +268,7 @@ class CrawlerSupport:
                 The upper-bound date, in the format of "%Y-M-%D"
             restruct_forms : list[str]
                 The form types to search for.
-                
+
             Returns
             -------
             list : dict
@@ -287,7 +287,7 @@ class CrawlerSupport:
             f"https://efts.sec.gov/LATEST/search-index?q={restruct_search}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={restruct_forms}",
             f"https://efts.sec.gov/LATEST/search-index?q={restruct_pair}&dateRange=custom&category=custom&startdt={date_LB}&enddt={date_UB}&forms={restruct_forms}"
         ];
-        
+
         # Create a request that mimics browser activity
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",
@@ -299,7 +299,7 @@ class CrawlerSupport:
             results = list(
                 thread_pool.map(lambda url: CrawlerSupport.rate_limited_get(url, headers), urls)
             )
-        
+
         # Merge the results into a single list
         merged_hits = [];
         for response in results:
@@ -322,7 +322,7 @@ class CrawlerSupport:
             ----------
             document_jsons : list[dict]
                 A list of the document jsons for the merging companies.
-                
+
             Returns
             -------
             list : str
@@ -340,7 +340,7 @@ class CrawlerSupport:
                 ciks = document["_source"]["ciks"];
                 if ciks:
                     validated_cik = ciks[-1].lstrip('0');
-            
+
                 # Acquire normal adsh & adsh without the "-" character
                 adsh = document["_source"]["adsh"];
                 truncated_ADSH = document["_source"]["adsh"].replace("-", "");
@@ -350,7 +350,7 @@ class CrawlerSupport:
                 if url not in seen_links:
                     seen_links.add(url);
                     source_links.append(url);
-                
+
             except KeyError as e:
                 Logger.logMessage(f"[-] Missing key in document: {e}, result: {document}");
                 continue; # Skip the document if there is a missing key; logged for further investigation
@@ -359,7 +359,7 @@ class CrawlerSupport:
 
     @staticmethod
     def process_single_job(
-        job_data: tuple[int, str, str, str], 
+        job_data: tuple[int, str, str, str],
         date_margin: int
     ):
         main_index, company_A, company_B, announcement_date = job_data;
@@ -377,15 +377,15 @@ class CrawlerSupport:
             if collection.find_one({"main_index": main_index}):
                 print(f"Skipping index {main_index}: Document already exists...");
                 return None;
-    
+
         # Instantiate utility objects in child process
         client = OpenAI(api_key=OPENAI_API_KEY);
-    
+
         # Construct the constraint of a given date & prep for url-parsing
         kwargs = {'date': announcement_date};
         if date_margin is not None:
             kwargs['margin'] = date_margin;
-        
+
         constraint_dates = CrawlerSupport.get_date_constraints(**kwargs);
         lb_Date, ub_Date = constraint_dates;
         restruct_LB = f"{lb_Date.year}-{lb_Date.month:02}-{lb_Date.day:02}";
@@ -394,18 +394,18 @@ class CrawlerSupport:
 
         # Find the documents with CIK filtering
         results = CrawlerSupport.get_cik_document_json(
-            company_A, 
-            company_B, 
-            restruct_LB, 
-            restruct_UB, 
+            company_A,
+            company_B,
+            restruct_LB,
+            restruct_UB,
             restruct_forms
         );
         if (results == None): # Acquire all documents within our guess
             results = CrawlerSupport.get_document_json(
-                company_A, 
-                company_B, 
-                restruct_LB, 
-                restruct_UB, 
+                company_A,
+                company_B,
+                restruct_LB,
+                restruct_UB,
                 restruct_forms
             );
 
@@ -413,7 +413,7 @@ class CrawlerSupport:
         if (results == None):
             Logger.logMessage(f"[-] No document found for: {company_A} & {company_B}");
             return None;
-    
+
         # Extract the source document links
         source_links = CrawlerSupport.get_source_links(results);
 
@@ -435,7 +435,7 @@ class CrawlerSupport:
                 f"[-] No relevant document found for index {main_index}: {company_A} & {company_B}"
             );
             return None;
-        
+
         print(f"Number of documents: {len(documents)}");
 
         # Acquire the specific document with the "Background of the Merger" section
@@ -447,8 +447,8 @@ class CrawlerSupport:
             Logger.logMessage(f"\tDumping its document links:", time_stamp=False);
             for doc in documents:
                 Logger.logMessage(f"\t\t{doc.getUrl()}", time_stamp=False);
-            
+
             return None;
-        
+
         # Save the document for writing at the end
         return (main_index, doc_url);

@@ -13,7 +13,7 @@ from src.dependencies.ChunkProcessor import ChunkProcessor
 from src.dependencies.DatabaseHandler import DatabaseHandler
 
 from src.dependencies.config import (
-    OPENAI_API_KEY, 
+    OPENAI_API_KEY,
     RERANKER_MODEL,
     START_PHRASES,
     COMPANY_A_LIST,
@@ -27,8 +27,8 @@ class SeperatorHandler:
     
     @staticmethod
     def process_single_doc(
-        main_index: int, 
-        company_A: str, 
+        main_index: int,
+        company_A: str,
         company_B: str
     ):
         print("Seperating passages for document index: ", main_index, "; Companies: ", company_A, " & ", company_B);
@@ -69,13 +69,13 @@ class SeperatorHandler:
                 if len(approx_chunks) == 0:
                     Logger.logMessage(f"[x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: {main_index}; Companies: {company_A} & {company_B}");
                     return;
-                
+
                 # Acquire ranked chunks according the the "Background" section
                 section_passage = chunk_processor.getSectionPassage(chunks, approx_chunks, company_names, executor);
                 if section_passage is None:
                     Logger.logMessage(f"[x] FLAGGED for Manual Inspection: Failed to acquire a section passage for index: {main_index}; Companies: {company_A} & {company_B}");
                     return;
-                
+
                 # Write the section passage
                 with DatabaseHandler() as db:
                     collection = db.extracted_sections_db[collection_name];
@@ -86,16 +86,16 @@ class SeperatorHandler:
                         "content": section_passage
                     };
                     collection.insert_one(passage);
-            
+
             except Exception as e:
                 Logger.logMessage(f"[-] Error: {e}");
                 Logger.logMessage(traceback.format_exc(), time_stamp=False);
 
     def runSeperator(
-        self, 
-        start_index: int = None, 
-        end_index: int = None, 
-        index: int = None, 
+        self,
+        start_index: int = None,
+        end_index: int = None,
+        index: int = None,
         batch_size: int = None # Range [1-3 is recommended] to not flood the API
     ):
         # Ensure valid batch_size parameter
@@ -115,12 +115,12 @@ class SeperatorHandler:
             self.__start_index = start_index;
             self.__end_index = end_index + 1;
             self.__batch_size = batch_size;
-        
+
         indices_to_process = list(range(self.__start_index, self.__end_index));
         total_tasks = len(indices_to_process);
 
         with tqdm(
-            total=total_tasks, 
+            total=total_tasks,
             desc = "\033[36mSeperating\033[0m",
             unit="items",
             ncols=80,
