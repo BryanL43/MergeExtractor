@@ -2133,3 +2133,16 @@
 [2025-08-03 23:46:34] [+] Retry attempt successfully created document for: SilverBow Resources Inc & Crescent Energy Co
 [2025-08-03 23:55:26] [+] Successfully created document for: Chuy's Holdings Inc & Darden Restaurants Inc
 [2025-08-03 23:55:28] [+] Successfully created document for: Morphic Holding Inc & Eli Lilly & Co
+[2025-08-07 22:07:53] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1180; Companies: Elecsys Corp & Lindsay Corp
+[2025-08-07 23:03:47] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1346; Companies: American DG Energy Inc & Tecogen Inc
+[2025-08-07 23:07:04] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1373; Companies: MOCON Inc & AMETEK Inc
+[2025-08-07 23:43:44] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1457; Companies: Hortonworks Inc & Cloudera Inc
+[2025-08-07 23:49:52] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1508; Companies: Peak Resorts Inc & Vail Resorts Inc
+[2025-08-07 23:53:29] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1539; Companies: MyoKardia Inc & Bristol-Myers Squibb Co
+[2025-08-07 23:55:20] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1555; Companies: NIC Inc & Tyler Technologies Inc
+[2025-08-07 23:58:09] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1577; Companies: Kindred Biosciences Inc & Elanco Animal Health Inc
+[2025-08-08 00:59:24] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1626; Companies: Global Blood Therapeutics Inc & Pfizer Inc
+[2025-08-08 01:03:53] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1663; Companies: Western Asset Mortgage Capital & AG Mortgage Investment Trust
+[2025-08-08 01:04:40] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1671; Companies: RPT Realty & Kimco Realty Corp
+[2025-08-08 01:05:47] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1678; Companies: Mirati Therapeutics Inc & Bristol-Myers Squibb Co
+[2025-08-08 01:07:58] [x] FLAGGED for Manual Inspection: Failed to locate a background chunk for index: 1696; Companies: SilverBow Resources Inc & Crescent Energy Co
